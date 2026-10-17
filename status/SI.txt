@@ -1,4 +1,4 @@
-Track status, artists filed under SI (built Sat Oct 17, 3:05 PM PDT (22:05 UTC)). Times in UTC.
+Track status, artists filed under SI (built Sat Oct 17, 4:05 PM PDT (23:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Siddhartha — 00:00 | last aired 2026-10-11 14:31 | normal pick now | request now
@@ -13,7 +13,7 @@ OK   Simon & Garfunkel — Scarborough Fair (Live at Central Park, New York, NY 
 OK   Simon & Garfunkel — The Boxer | last aired 2026-10-14 19:10 | normal pick now | request now
 WAIT Simon & Garfunkel — The Sound of Silence  (Acoustic Version) | last aired 2026-10-16 09:20 | normal pick from 2026-10-18 09:20 | request now
 WAIT Simon Trpčeski — Suite bergamasque, CD 82, L. 75: III. Clair de lune | last aired 2026-10-16 10:33 | normal pick from 2026-10-18 10:33 | request from 2026-10-18 10:33
-WAIT Simple Minds — Alive And Kicking (Remastered 2002) | last aired 2026-10-15 22:51 | normal pick from 2026-10-17 22:51 | request now
+OK   Simple Minds — Alive And Kicking (Remastered 2002) | last aired 2026-10-15 22:51 | normal pick now | request now
 WAIT Simple Minds — Don't You (Forget About Me) | last aired 2026-10-17 19:32 | normal pick from 2026-10-19 19:32 | request from 2026-10-19 19:32
 OK   Simple Minds — Someone Somewhere (In Summertime) | last aired 2026-10-11 16:53 | normal pick now | request now
 OK   Sinéad O'Connor — Nothing Compares 2 U (2009 Remaster) | last aired 2026-10-14 22:52 | normal pick now | request now

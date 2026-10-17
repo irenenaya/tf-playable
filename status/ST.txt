@@ -1,4 +1,4 @@
-Track status, artists filed under ST (built Sat Oct 17, 3:05 PM PDT (22:05 UTC)). Times in UTC.
+Track status, artists filed under ST (built Sat Oct 17, 4:05 PM PDT (23:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   St Germain — Rose rouge | last aired 2026-10-02 22:58 | normal pick now | request now
@@ -30,10 +30,10 @@ OK   Stevie Wonder — Living For The City (Album Version) | last aired 2026-10-
 OK   Stevie Wonder — Master Blaster (Jammin') | last aired 2026-10-15 10:47 | normal pick now | request now
 OK   Stevie Wonder — Sir Duke | last aired 2026-10-14 00:11 | normal pick now | request now
 OK   Stevie Wonder — Summer Soft | last aired 2026-10-04 13:50 | normal pick now | request now
-OK   Stevie Wonder — Superstition (Album Version) | last aired 2026-10-10 02:01 | normal pick now | request now
+WAIT Stevie Wonder — Superstition (Album Version) | last aired 2026-10-17 22:45 | normal pick from 2026-10-19 22:45 | request from 2026-10-18 18:45
 OK   Stevie Wonder — You Haven't Done Nothin' | last aired 2026-10-11 00:40 | normal pick now | request now
 OK   Still Woozy — Get Down | last aired 2026-10-14 16:21 | normal pick now | request now
-WAIT Sting — Desert Rose (Album Version) | last aired 2026-10-17 02:46 | normal pick from 2026-10-19 02:46 | request from 2026-10-17 22:46
+WAIT Sting — Desert Rose (Album Version) | last aired 2026-10-17 02:46 | normal pick from 2026-10-19 02:46 | request now
 OK   Sting — Fields Of Gold (My Songs Version) | last aired 2026-10-15 16:27 | normal pick now | request now
 WAIT Sting — Fragile | last aired 2026-10-17 00:00 | normal pick from 2026-10-19 00:00 | request now
 OK   Sting — If You Love Somebody Set Them Free (Single Edit) | last aired 2026-10-06 07:00 | normal pick now | request now
