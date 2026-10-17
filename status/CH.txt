@@ -1,4 +1,4 @@
-Track status, artists filed under CH (built Sat Oct 17, 12:05 PM PDT (19:05 UTC)). Times in UTC.
+Track status, artists filed under CH (built Sat Oct 17, 1:05 PM PDT (20:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Chaka Khan — What Cha' Gonna Do for Me | last aired 2026-10-15 02:42 | normal pick now | request now
@@ -26,7 +26,7 @@ OK   Child Seat — Hyperphantasia | last aired 2026-10-15 11:02 | normal pick n
 OK   Chris Christodoulou — The Rain Formerly Known as Purple | last aired 2026-09-14 02:24 | normal pick now | request now
 WAIT Chris De Burgh — The Getaway | last aired 2026-10-15 20:13 | normal pick from 2026-10-17 20:13 | request now
 OK   Chris Huelsbeck — GSTD Ingame 4 | last aired 2026-10-11 11:31 | normal pick now | request now
-OK   Chris Isaak — Blue Hotel  (Remastered Album Version) | last aired 2026-10-11 21:04 | normal pick now | request now
+WAIT Chris Isaak — Blue Hotel  (Remastered Album Version) | last aired 2026-10-17 19:58 | normal pick from 2026-10-19 19:58 | request from 2026-10-18 15:58
 OK   Chris Isaak — Wicked Game  (Remastered Album Version) | last aired 2026-10-13 18:15 | normal pick now | request now
 OK   Chris Snelling — Le onde | last aired 2026-10-12 02:34 | normal pick now | request now
 OK   Chris Whitley — Big Sky Country (Album Version) | last aired 2026-10-15 09:13 | normal pick now | request now

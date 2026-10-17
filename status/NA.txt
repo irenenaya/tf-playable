@@ -1,4 +1,4 @@
-Track status, artists filed under NA (built Sat Oct 17, 12:05 PM PDT (19:05 UTC)). Times in UTC.
+Track status, artists filed under NA (built Sat Oct 17, 1:05 PM PDT (20:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Nancy Wilson — Guess Who I Saw Today | last aired 2026-10-14 12:38 | normal pick now | request now
@@ -7,7 +7,7 @@ OK   Nanowar of Steel — Valhalleluja | last aired 2026-09-25 20:42 | normal pi
 OK   Napalm Death — You Suffer | last aired 2026-08-10 11:48 | normal pick now | request now
 OK   Nat King Cole — (I Love You) For Sentimental Reasons | last aired 2026-10-14 01:03 | normal pick now | request now
 OK   Nat King Cole — Autumn Leaves | last aired 2026-10-01 04:02 | normal pick now | request now
-WAIT Nat King Cole — L-O-V-E | last aired 2026-10-17 00:04 | normal pick from 2026-10-19 00:04 | request from 2026-10-17 20:04
+WAIT Nat King Cole — L-O-V-E | last aired 2026-10-17 00:04 | normal pick from 2026-10-19 00:04 | request now
 OK   Nat King Cole — Nature Boy | last aired 2026-10-11 15:06 | normal pick now | request now
 WAIT Natalie Cole — At Last | last aired 2026-10-17 08:16 | normal pick from 2026-10-19 08:16 | request from 2026-10-18 04:16
 WAIT Natalie Imbruglia — Torn | last aired 2026-10-17 01:39 | normal pick from 2026-10-19 01:39 | request from 2026-10-17 21:39
