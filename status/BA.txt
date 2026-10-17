@@ -1,4 +1,4 @@
-Track status, artists filed under BA (built Sat Oct 17, 9:05 AM PDT (16:05 UTC)). Times in UTC.
+Track status, artists filed under BA (built Sat Oct 17, 10:05 AM PDT (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Baby Face Willette — At Last | last aired 2026-09-26 09:07 | normal pick now | request now
@@ -7,7 +7,7 @@ WAIT Backstreet Boys — I Want It That Way | last aired 2026-10-16 04:04 | norm
 OK   Backyard Babies — Minus Celsius | last aired 2026-10-13 17:32 | normal pick now | request now
 OK   Bad Religion — 21st Century (Digital Boy) | last aired 2026-10-11 20:57 | normal pick now | request now
 OK   Banners — Shine A Light | last aired 2026-10-15 05:36 | normal pick now | request now
-OK   Barbara Pravi — Voilà | last aired 2026-10-12 05:16 | normal pick now | request now
+WAIT Barbara Pravi — Voilà | last aired 2026-10-17 16:43 | normal pick from 2026-10-19 16:43 | request from 2026-10-19 16:43
 WAIT Barbra Streisand — Woman in Love (Album Version) | last aired 2026-10-15 20:46 | normal pick from 2026-10-17 20:46 | request now
 OK   Barrington Levy — Black Roses | last aired 2026-10-15 13:26 | normal pick now | request now
 OK   Bauhaus — Ziggy Stardust | last aired 2026-10-03 18:47 | normal pick now | request now

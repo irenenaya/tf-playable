@@ -1,4 +1,4 @@
-Track status, artists filed under MI (built Sat Oct 17, 9:05 AM PDT (16:05 UTC)). Times in UTC.
+Track status, artists filed under MI (built Sat Oct 17, 10:05 AM PDT (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Mica Levi — Love | last aired 2026-10-07 05:28 | normal pick now | request now
@@ -16,7 +16,7 @@ OK   Michael Jackson — Who Is It | last aired 2026-10-06 12:08 | normal pick n
 OK   Michael Jackson — You Are Not Alone | last aired 2026-10-11 04:56 | normal pick now | request now
 WAIT Michael McDonald — I Keep Forgettin' (Every Time You're Near) | last aired 2026-10-16 01:12 | normal pick from 2026-10-18 01:12 | request now
 OK   MIKA — Grace Kelly | last aired 2026-10-08 16:48 | normal pick now | request now
-WAIT Mike Marshall — Big Country (Instrumental) | last aired 2026-10-15 16:34 | normal pick from 2026-10-17 16:34 | request now
+OK   Mike Marshall — Big Country (Instrumental) | last aired 2026-10-15 16:34 | normal pick now | request now
 OK   Mike Oldfield — Moonlight Shadow | last aired 2026-10-03 22:12 | normal pick now | request now
 OK   Mikis Theodorakis — Zorba the Greek:  Zorba's Dance | last aired 2026-10-15 08:12 | normal pick now | request now
 WAIT Miles Davis — Blue in Green | last aired 2026-10-16 17:00 | normal pick from 2026-10-18 17:00 | request now

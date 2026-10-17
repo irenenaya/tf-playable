@@ -1,4 +1,4 @@
-Track status, artists filed under ST (built Sat Oct 17, 9:05 AM PDT (16:05 UTC)). Times in UTC.
+Track status, artists filed under ST (built Sat Oct 17, 10:05 AM PDT (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   St Germain — Rose rouge | last aired 2026-10-02 22:58 | normal pick now | request now
@@ -8,7 +8,7 @@ WAIT Stardust — Music Sounds Better With You | last aired 2026-10-17 04:03 | n
 WAIT Stars of the Lid — Requiem for Dying Mothers, Pt. 1 | last aired 2026-10-16 06:23 | normal pick from 2026-10-18 06:23 | request now
 OK   Stars of the Lid — Requiem for Dying Mothers, Pt. 2 | last aired 2026-10-13 06:10 | normal pick now | request now
 WAIT Stealers Wheel — Stuck In The Middle With You | last aired 2026-10-16 06:02 | normal pick from 2026-10-18 06:02 | request now
-WAIT Steely Dan — Almost Gothic (Album Version) | last aired 2026-10-16 20:51 | normal pick from 2026-10-18 20:51 | request from 2026-10-17 16:51
+WAIT Steely Dan — Almost Gothic (Album Version) | last aired 2026-10-16 20:51 | normal pick from 2026-10-18 20:51 | request now
 WAIT Steely Dan — Babylon Sisters | last aired 2026-10-17 00:49 | normal pick from 2026-10-19 00:49 | request from 2026-10-17 20:49
 WAIT Steely Dan — Home At Last | last aired 2026-10-17 13:01 | normal pick from 2026-10-19 13:01 | request from 2026-10-18 09:01
 OK   Steely Dan — Jack of Speed (Album Version) | last aired 2026-10-12 20:39 | normal pick now | request now
@@ -34,7 +34,7 @@ OK   Stevie Wonder — Superstition (Album Version) | last aired 2026-10-10 02:0
 OK   Stevie Wonder — You Haven't Done Nothin' | last aired 2026-10-11 00:40 | normal pick now | request now
 OK   Still Woozy — Get Down | last aired 2026-10-14 16:21 | normal pick now | request now
 WAIT Sting — Desert Rose (Album Version) | last aired 2026-10-17 02:46 | normal pick from 2026-10-19 02:46 | request from 2026-10-17 22:46
-WAIT Sting — Fields Of Gold (My Songs Version) | last aired 2026-10-15 16:27 | normal pick from 2026-10-17 16:27 | request now
+OK   Sting — Fields Of Gold (My Songs Version) | last aired 2026-10-15 16:27 | normal pick now | request now
 WAIT Sting — Fragile | last aired 2026-10-17 00:00 | normal pick from 2026-10-19 00:00 | request from 2026-10-17 20:00
 OK   Sting — If You Love Somebody Set Them Free (Single Edit) | last aired 2026-10-06 07:00 | normal pick now | request now
 WAIT Sting — Shape Of My Heart (My Songs Version) | last aired 2026-10-17 15:21 | normal pick from 2026-10-19 15:21 | request from 2026-10-18 11:21
