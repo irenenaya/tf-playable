@@ -1,4 +1,4 @@
-Track status, artists filed under TO (built Sat Oct 17, 7:23 AM PDT (14:23 UTC)). Times in UTC.
+Track status, artists filed under TO (built Sat Oct 17, 8:05 AM PDT (15:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT toe — Goodbye (Live) | last aired 2026-10-16 23:23 | normal pick from 2026-10-18 23:23 | request from 2026-10-17 19:23
@@ -11,14 +11,14 @@ WAIT Tom Konkle — Life Without The Living | last aired 2026-10-17 06:06 | norm
 OK   Tom Konkle — Light Bulb In My Head | last aired 2026-10-12 20:34 | normal pick now | request now
 OK   Tom Konkle — Losing Faith | last aired 2026-09-12 01:59 | normal pick now | request now
 OK   Tom Konkle — Manipulation (The Dance) | last aired 2026-08-12 20:08 | normal pick now | request now
-WAIT Tom Konkle — Name On A Screen | last aired 2026-10-15 14:48 | normal pick from 2026-10-17 14:48 | request now
+OK   Tom Konkle — Name On A Screen | last aired 2026-10-15 14:48 | normal pick now | request now
 OK   Tom Konkle — One Last Time | last aired 2026-09-17 07:17 | normal pick now | request now
 WAIT Tom Konkle — When Did Love Become A Test | last aired 2026-10-16 13:58 | normal pick from 2026-10-18 13:58 | request now
 OK   Tom Lehrer — Poisoning Pigeons in the Park | last aired 2026-09-29 16:02 | normal pick now | request now
 OK   Tom Misch — Disco Yes | last aired 2026-10-14 18:10 | normal pick now | request now
 OK   Tom Misch — It Runs Through Me (feat. De La Soul) | last aired 2026-10-10 04:25 | normal pick now | request now
 OK   Tom Novy — Superstar  (The Jason Nevins' Live Peep Show Mix) | last aired 2026-09-15 15:04 | normal pick now | request now
-OK   Tom Petty & The Heartbreakers — American Girl | last aired 2026-10-08 21:49 | normal pick now | request now
+WAIT Tom Petty & The Heartbreakers — American Girl | last aired 2026-10-17 14:38 | normal pick from 2026-10-19 14:38 | request from 2026-10-18 10:38
 WAIT Tom Petty — I Won't Back Down | last aired 2026-10-17 05:45 | normal pick from 2026-10-19 05:45 | request from 2026-10-18 01:45
 OK   Tom Petty — Runnin' Down A Dream | last aired 2026-10-14 20:09 | normal pick now | request now
 OK   Tom Waits — House Where Nobody Lives | last aired 2026-10-13 12:20 | normal pick now | request now

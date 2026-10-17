@@ -1,4 +1,4 @@
-Track status, artists filed under MI (built Sat Oct 17, 7:23 AM PDT (14:23 UTC)). Times in UTC.
+Track status, artists filed under MI (built Sat Oct 17, 8:05 AM PDT (15:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Mica Levi — Love | last aired 2026-10-07 05:28 | normal pick now | request now
@@ -34,4 +34,4 @@ WAIT Mireille Mathieu — Together We're Strong | last aired 2026-10-16 10:44 | 
 WAIT Miriam Makeba — Pata Pata | last aired 2026-10-16 11:43 | normal pick from 2026-10-18 11:43 | request from 2026-10-18 11:43
 OK   Missio — I See You | last aired 2026-10-12 19:27 | normal pick now | request now
 WAIT Mitski — My Love Mine All Mine | last aired 2026-10-17 03:35 | normal pick from 2026-10-19 03:35 | request from 2026-10-17 23:35
-OK   Mizuki Tomoda — Marunouchi sadistic (Cover) | last aired 2026-10-03 08:24 | normal pick now | request now
+WAIT Mizuki Tomoda — Marunouchi sadistic (Cover) | last aired 2026-10-17 14:46 | normal pick from 2026-10-19 14:46 | request from 2026-10-18 10:46
