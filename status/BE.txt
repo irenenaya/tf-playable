@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Sat Oct 17, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, artists filed under BE (built Sat Oct 17, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Beach House — Bluebird | last aired 2026-10-11 03:23 | normal pick now | request now
@@ -9,7 +9,7 @@ WAIT Beatrice Rana — Libertango (Arr. Yamamoto for Piano 4-Hands) | last aired
 OK   Beats by Luca — 52 CHICKEN NUGGET (McRave) | last aired 2026-09-12 18:15 | normal pick now | request now
 OK   Bebel Gilberto — Samba Da Benção | last aired 2026-10-15 03:31 | normal pick now | request now
 OK   Beck — Devils Haircut | last aired 2026-10-14 09:01 | normal pick now | request now
-WAIT Beck — Loser | last aired 2026-10-16 20:04 | normal pick from 2026-10-18 20:04 | request from 2026-10-17 16:04
+WAIT Beck — Loser | last aired 2026-10-16 20:04 | normal pick from 2026-10-18 20:04 | request now
 OK   Beck — The New Pollution | last aired 2026-10-11 04:45 | normal pick now | request now
 OK   Becky Levi and the Nightjars — Wake Me Up | last aired 2026-06-14 19:57 | normal pick now | request now
 OK   Bee Gees — Night Fever (From "Saturday Night Fever" Soundtrack) | last aired 2026-10-06 16:28 | normal pick now | request now
@@ -33,7 +33,7 @@ OK   Betty Carter — Moonlight in Vermont | last aired 2026-10-14 12:26 | norma
 WAIT BETWEEN FRIENDS — affection | last aired 2026-10-16 01:26 | normal pick from 2026-10-18 01:26 | request now
 OK   Beyoncé — Crazy In Love | last aired 2026-10-08 07:30 | normal pick now | request now
 OK   Beyoncé — TEXAS HOLD 'EM | last aired 2026-10-11 09:37 | normal pick now | request now
-WAIT The Beach Boys — God Only Knows (Stereo) | last aired 2026-10-15 16:02 | normal pick from 2026-10-17 16:02 | request now
+OK   The Beach Boys — God Only Knows (Stereo) | last aired 2026-10-15 16:02 | normal pick now | request now
 WAIT The Beach Boys — Good Vibrations (Stereo/Remastered 2012) | last aired 2026-10-16 20:41 | normal pick from 2026-10-18 20:41 | request from 2026-10-17 16:41
 OK   The Beatles — A Day In The Life (2017 Mix) | last aired 2026-10-09 17:05 | normal pick now | request now
 OK   The Beatles — Get Back (2021 Mix) | last aired 2026-10-09 17:25 | normal pick now | request now

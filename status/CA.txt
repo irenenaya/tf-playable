@@ -1,4 +1,4 @@
-Track status, artists filed under CA (built Sat Oct 17, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, artists filed under CA (built Sat Oct 17, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Caetano Veloso — O Leãozinho (Ao Vivo) | last aired 2026-10-15 04:04 | normal pick now | request now
@@ -10,7 +10,7 @@ OK   Caifanes — La Negra Tomasa (Bilongo - Version Tropical) | last aired 2026
 WAIT Camille — Ta douleur | last aired 2026-10-17 07:19 | normal pick from 2026-10-19 07:19 | request from 2026-10-18 03:19
 WAIT Canned Heat — On The Road Again | last aired 2026-10-17 11:40 | normal pick from 2026-10-19 11:40 | request from 2026-10-18 07:40
 WAIT Carbon Based Lifeforms — Photosynthesis | last aired 2026-10-16 16:07 | normal pick from 2026-10-18 16:07 | request now
-WAIT Cardiacs — Big Ship | last aired 2026-10-15 16:05 | normal pick from 2026-10-17 16:05 | request now
+OK   Cardiacs — Big Ship | last aired 2026-10-15 16:05 | normal pick now | request now
 WAIT Carlos Gardel — Por una Cabeza | last aired 2026-10-17 13:59 | normal pick from 2026-10-19 13:59 | request from 2026-10-19 13:59
 WAIT Carole King — It's Too Late | last aired 2026-10-16 09:16 | normal pick from 2026-10-18 09:16 | request from 2026-10-18 09:16
 OK   Carole King — So Far Away | last aired 2026-10-13 12:29 | normal pick now | request now

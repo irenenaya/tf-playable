@@ -1,8 +1,8 @@
-Track status, artists filed under TI (built Sat Oct 17, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, artists filed under TI (built Sat Oct 17, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   TilaR — More Than A Friend | last aired 2026-08-14 02:43 | normal pick now | request now
-OK   Tilda Swinton — Richter: Shadow Journal | last aired 2026-10-04 06:18 | normal pick now | request now
+WAIT Tilda Swinton — Richter: Shadow Journal | last aired 2026-10-17 15:25 | normal pick from 2026-10-19 15:25 | request from 2026-10-19 15:25
 OK   Tim Cappello — I Still Believe | last aired 2026-10-13 03:01 | normal pick now | request now
 OK   Tim Curry — Sweet Transvestite | last aired 2026-10-11 11:48 | normal pick now | request now
 OK   Tim Hecker — Black Refraction | last aired 2026-09-30 06:50 | normal pick now | request now
