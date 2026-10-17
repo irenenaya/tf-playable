@@ -1,4 +1,4 @@
-Track status, artists filed under AL (built Sat Oct 17, 11:05 AM PDT (18:05 UTC)). Times in UTC.
+Track status, artists filed under AL (built Sat Oct 17, 12:05 PM PDT (19:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Al Di Meola — Double Concerto | last aired 2026-10-13 18:27 | normal pick now | request now
@@ -22,7 +22,7 @@ OK   Alex Andre — thanks, my day is ruined | last aired 2026-08-01 05:28 | nor
 WAIT Alexander Malter — Pärt: Für Alina | last aired 2026-10-17 09:19 | normal pick from 2026-10-19 09:19 | request from 2026-10-19 09:19
 OK   Alexander Rybak — Fairytale | last aired 2026-10-04 13:35 | normal pick now | request now
 OK   Alexandre Tharaud — Gnossienne No.1 - Gnossienne: No. 1 | last aired 2026-10-15 06:17 | normal pick now | request now
-WAIT Alfa Mist — Organic Rust | last aired 2026-10-16 22:10 | normal pick from 2026-10-18 22:10 | request from 2026-10-17 18:10
+WAIT Alfa Mist — Organic Rust | last aired 2026-10-16 22:10 | normal pick from 2026-10-18 22:10 | request now
 OK   Ali Farka Touré — Soukora | last aired 2026-10-15 04:56 | normal pick now | request now
 OK   Alice Coltrane — Journey In Satchidananda | last aired 2026-10-08 15:33 | normal pick now | request now
 OK   Alice In Chains — Man in the Box | last aired 2026-10-07 22:23 | normal pick now | request now
@@ -30,6 +30,6 @@ WAIT Alicia Keys — Fallin' (Album Version) | last aired 2026-10-16 13:09 | nor
 OK   Alison Krauss — Down To The River To Pray (Live) | last aired 2026-09-25 19:57 | normal pick now | request now
 WAIT Almendra — Plegaria para un Niño Dormido | last aired 2026-10-17 11:03 | normal pick from 2026-10-19 11:03 | request from 2026-10-19 11:03
 OK   Alvin Lucier — I Am Sitting in a Room | last aired 2026-09-22 09:20 | normal pick now | request now
-OK   Alvvays — Belinda Says | last aired 2026-10-13 23:35 | normal pick now | request now
+WAIT Alvvays — Belinda Says | last aired 2026-10-17 18:11 | normal pick from 2026-10-19 18:11 | request from 2026-10-19 18:11
 WAIT Alèmayèhu Eshèté — Tashamanaletch | last aired 2026-10-17 14:22 | normal pick from 2026-10-19 14:22 | request from 2026-10-18 10:22
 OK   The Altons — When You Go (That's When You'll Know) | last aired 2026-10-14 16:51 | normal pick now | request now
