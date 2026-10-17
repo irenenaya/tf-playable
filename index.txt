@@ -1,0 +1,17 @@
+THINKING FREQUENCIES — PLAYLIST HELPER (built Sat Oct 17, 7:23 AM PDT (14:23 UTC))
+
+playable.txt : 50 tracks you can play right now.
+
+To check one song, open status/XX.txt, where XX is the artist's first two letters:
+  1. drop a leading "The "   2. remove accents   3. remove spaces, punctuation and symbols
+  4. take the first two characters, in capitals.
+  Leonard Cohen -> status/LE.txt   The Sundays -> status/SU.txt   Björk -> status/BJ.txt
+  M83 -> status/M8.txt   Artists starting with a digit -> status/0-9.txt
+  Names not in Latin letters (Cyrillic, Chinese, ...) -> status/other.txt
+
+Rules behind the times: normal picks rest at least 48 h (longer for busy tracks: 20+ plays
+in 30 days = 72 h, 40+ = 96 h). Requests: at least 20 h plus the same tiers, and never a 4th
+Budapest day in a row. A song in no file at all is new: fine to play once.
+If status/XX.txt doesn't exist, no artist in the library starts with those letters.
+
+211 status files, 1869 tracks.
