@@ -1,4 +1,4 @@
-Track status, artists filed under ST (built Sun Oct 18, 5:05 AM PDT (12:05 UTC)). Times in UTC.
+Track status, artists filed under ST (built Sun Oct 18, 6:05 AM PDT (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT St Germain — Rose rouge | last aired 2026-10-18 08:26 | normal pick from 2026-10-20 08:26 | request from 2026-10-19 04:26
@@ -21,7 +21,7 @@ OK   Stevie Ray Vaughan & Double Trouble — Pride and Joy | last aired 2026-10-
 WAIT Stevie Ray Vaughan & Double Trouble — Riviera Paradise | last aired 2026-10-17 08:07 | normal pick from 2026-10-19 08:07 | request now
 OK   Stevie Wonder — As | last aired 2026-10-03 00:55 | normal pick now | request now
 WAIT Stevie Wonder — Go Home | last aired 2026-10-18 00:50 | normal pick from 2026-10-20 00:50 | request from 2026-10-18 20:50
-WAIT Stevie Wonder — Golden Lady | last aired 2026-10-16 13:01 | normal pick from 2026-10-18 13:01 | request now
+OK   Stevie Wonder — Golden Lady | last aired 2026-10-16 13:01 | normal pick now | request now
 OK   Stevie Wonder — Happy Birthday | last aired 2026-09-29 18:47 | normal pick now | request now
 OK   Stevie Wonder — Higher Ground (Album Version) | last aired 2026-10-13 16:23 | normal pick now | request now
 WAIT Stevie Wonder — I Wish | last aired 2026-10-17 00:17 | normal pick from 2026-10-19 00:17 | request now
@@ -38,7 +38,7 @@ OK   Sting — Fields Of Gold (My Songs Version) | last aired 2026-10-15 16:27 |
 WAIT Sting — Fragile | last aired 2026-10-17 00:00 | normal pick from 2026-10-19 00:00 | request now
 OK   Sting — If You Love Somebody Set Them Free (Single Edit) | last aired 2026-10-06 07:00 | normal pick now | request now
 WAIT Sting — Shape Of My Heart (My Songs Version) | last aired 2026-10-17 15:21 | normal pick from 2026-10-19 15:21 | request now
-OK   Stratovarius — Black Diamond | last aired 2026-10-12 03:17 | normal pick now | request now
+WAIT Stratovarius — Black Diamond | last aired 2026-10-18 12:53 | normal pick from 2026-10-20 12:53 | request from 2026-10-19 08:53
 OK   Studio Group — As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired 2026-08-08 23:18 | normal pick now | request now
 OK   Studio Group — Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired 2026-08-31 18:46 | normal pick now | request now
 OK   Styx — Mr. Roboto | last aired 2026-10-14 14:59 | normal pick now | request now
