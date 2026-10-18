@@ -1,4 +1,4 @@
-Track status, artists filed under SU (built Sun Oct 18, 3:05 PM PDT (22:05 UTC)). Times in UTC.
+Track status, artists filed under SU (built Sun Oct 18, 4:05 PM PDT (23:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Suburban Kids With Biblical Names — Rent A Wreck | last aired 2026-10-17 12:33 | normal pick from 2026-10-19 00:33 | request now
@@ -23,5 +23,5 @@ OK   Susumu Yokota — Saku | last aired 2026-10-12 02:58 | normal pick now | re
 OK   Suzanne Ciani — Improvisation On Four Sequences Pt.1 | last aired 2026-10-16 02:39 | normal pick now | request now
 WAIT Suzanne Ciani — Oceanium | last aired 2026-10-18 03:09 | normal pick from 2026-10-20 03:09 | request from 2026-10-20 03:09
 OK   The Sundays — Folk Song | last aired 2026-10-11 21:33 | normal pick now | request now
-WAIT The Sundays — Wild Horses | last aired 2026-10-17 10:12 | normal pick from 2026-10-18 22:12 | request now
+OK   The Sundays — Wild Horses | last aired 2026-10-17 10:12 | normal pick now | request now
 WAIT The Supremes — Automatically Sunshine | last aired 2026-10-17 11:58 | normal pick from 2026-10-19 11:58 | request from 2026-10-19 11:58
