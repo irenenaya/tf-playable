@@ -1,4 +1,4 @@
-Track status, artists filed under ME (built Sun Oct 18, 12:05 AM PDT (07:05 UTC)). Times in UTC.
+Track status, artists filed under ME (built Sun Oct 18, 1:05 AM PDT (08:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Meat Beat Manifesto — Prime Audio Soup | last aired 2026-09-29 01:30 | normal pick now | request now
@@ -7,7 +7,7 @@ OK   Megadeth — Tipping Point | last aired 2026-09-15 09:50 | normal pick now 
 OK   Megan Moroney — Tennessee Orange | last aired 2026-10-15 21:34 | normal pick now | request now
 OK   Melody Gardot — If I Tell You I Love You | last aired 2026-10-13 07:13 | normal pick now | request now
 OK   Melody Gardot — If You Love Me | last aired 2026-10-15 09:51 | normal pick now | request now
-OK   Melody Gardot — La chanson des vieux amants | last aired 2026-10-15 09:56 | normal pick now | request now
+WAIT Melody Gardot — La chanson des vieux amants | last aired 2026-10-18 08:00 | normal pick from 2026-10-20 08:00 | request from 2026-10-19 04:00
 OK   Melody Gardot — Moon River | last aired 2026-10-13 03:55 | normal pick now | request now
 OK   Melody Gardot — Over The Rainbow (Live) | last aired 2026-10-14 07:09 | normal pick now | request now
 WAIT Melody Gardot — Perhaps You'll Wonder Why (The Paris Sessions) | last aired 2026-10-17 07:06 | normal pick from 2026-10-19 07:06 | request now

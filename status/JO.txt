@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Sun Oct 18, 12:05 AM PDT (07:05 UTC)). Times in UTC.
+Track status, artists filed under JO (built Sun Oct 18, 1:05 AM PDT (08:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-10-12 10:35 | normal pick now | request now
@@ -9,7 +9,7 @@ WAIT Joe Hisaishi — a Wish to the Moon | last aired 2026-10-16 23:32 | normal 
 OK   Joe Hisaishi — Asian Dream Song | last aired 2026-10-15 07:24 | normal pick now | request now
 WAIT Joe Hisaishi — Deep Sea Pastures (from 'Ponyo on the Cliff by the Sea') | last aired 2026-10-17 06:55 | normal pick from 2026-10-19 06:55 | request now
 OK   Joe Hisaishi — Departures (from 'Departures') | last aired 2026-10-13 06:01 | normal pick now | request now
-WAIT Joe Hisaishi — Innocent (from 'Castle in the Sky') | last aired 2026-10-16 08:00 | normal pick from 2026-10-18 08:00 | request now
+OK   Joe Hisaishi — Innocent (from 'Castle in the Sky') | last aired 2026-10-16 08:00 | normal pick now | request now
 OK   Joe Hisaishi — Merry-Go-Round of Life (from 'Howl’s Moving Castle') | last aired 2026-10-16 04:08 | normal pick now | request now
 OK   Joe Hisaishi — One Summer's Day (from 'Spirited Away') | last aired 2026-10-10 06:04 | normal pick now | request now
 OK   Joe Hisaishi — Ponyo's Sisters Lend a Hand - A Song for Mothers and the Sea (from 'Ponyo on the Cliff by the Sea') | last aired 2026-10-13 02:59 | normal pick now | request now
@@ -49,7 +49,7 @@ OK   Joni Mitchell — River | last aired 2026-10-13 12:16 | normal pick now | r
 OK   Jorge Ben Jor — Mas, Que Nada! | last aired 2026-10-16 00:44 | normal pick now | request now
 WAIT Josh Rouse — 1972 | last aired 2026-10-16 10:54 | normal pick from 2026-10-18 10:54 | request now
 OK   Josh Rouse — Street Lights | last aired 2026-10-15 18:29 | normal pick now | request now
-WAIT José González — Heartbeats | last aired 2026-10-16 07:17 | normal pick from 2026-10-18 07:17 | request now
+OK   José González — Heartbeats | last aired 2026-10-16 07:17 | normal pick now | request now
 OK   Journey — Don't Stop Believin' (Album Version) | last aired 2026-10-14 00:27 | normal pick now | request now
 OK   Journey — Lights (Album Version) | last aired 2026-10-10 20:23 | normal pick now | request now
 OK   Joywave — In Clover | last aired 2026-10-15 05:40 | normal pick now | request now

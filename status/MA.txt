@@ -1,4 +1,4 @@
-Track status, artists filed under MA (built Sun Oct 18, 12:05 AM PDT (07:05 UTC)). Times in UTC.
+Track status, artists filed under MA (built Sun Oct 18, 1:05 AM PDT (08:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   M/A/R/R/S — Pump Up The Volume (UK 12" Remix) | last aired 2026-10-09 11:08 | normal pick now | request now
@@ -17,7 +17,7 @@ OK   Marc Rebillet — Late To Work | last aired 2026-10-09 16:38 | normal pick 
 WAIT Marconi Union — Weightless | last aired 2026-10-18 05:52 | normal pick from 2026-10-20 05:52 | request from 2026-10-19 01:52
 OK   Margaret Berger — I Feed You My Love (Extended Version) | last aired 2026-10-15 18:19 | normal pick now | request now
 WAIT Maria McKee — Absolutely Barking Stars | last aired 2026-10-17 01:58 | normal pick from 2026-10-19 01:58 | request now
-WAIT Maria McKee — Life Is Sweet | last aired 2026-10-16 07:31 | normal pick from 2026-10-18 07:31 | request now
+OK   Maria McKee — Life Is Sweet | last aired 2026-10-16 07:31 | normal pick now | request now
 OK   Mariah Carey — All I Want for Christmas Is You | last aired 2026-04-20 09:48 | normal pick now | request now
 OK   Mariah Carey — O Holy Night | last aired 2026-04-30 06:20 | normal pick now | request now
 OK   Marie Vaunt — That Acid | last aired 2026-10-13 11:14 | normal pick now | request now
@@ -44,7 +44,7 @@ WAIT Marvin Gaye — Save The Children | last aired 2026-10-16 10:06 | normal pi
 WAIT Marvin Gaye — Sexual Healing (Album Version) | last aired 2026-10-17 13:52 | normal pick from 2026-10-19 13:52 | request from 2026-10-18 09:52
 OK   Marvin Gaye — What's Going On | last aired 2026-10-12 01:07 | normal pick now | request now
 OK   Marvin Gaye — Wholy Holy | last aired 2026-10-15 01:28 | normal pick now | request now
-WAIT Mary Halvorson — About Ghosts | last aired 2026-10-17 11:07 | normal pick from 2026-10-19 11:07 | request from 2026-10-18 07:07
+WAIT Mary Halvorson — About Ghosts | last aired 2026-10-17 11:07 | normal pick from 2026-10-19 11:07 | request now
 OK   Masego — Tadow | last aired 2026-10-14 17:04 | normal pick now | request now
 WAIT Massive Attack — Angel | last aired 2026-10-17 17:42 | normal pick from 2026-10-19 17:42 | request from 2026-10-19 17:42
 WAIT Massive Attack — Protection | last aired 2026-10-16 22:43 | normal pick from 2026-10-18 22:43 | request now

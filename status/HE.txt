@@ -1,7 +1,7 @@
-Track status, artists filed under HE (built Sun Oct 18, 12:05 AM PDT (07:05 UTC)). Times in UTC.
+Track status, artists filed under HE (built Sun Oct 18, 1:05 AM PDT (08:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Heathered Pearls — Pacific Summits (Pulse Version) | last aired 2026-10-16 07:06 | normal pick from 2026-10-18 07:06 | request now
+OK   Heathered Pearls — Pacific Summits (Pulse Version) | last aired 2026-10-16 07:06 | normal pick now | request now
 WAIT Hector Villalobos — Bachianas Brasileiras No. 5: I Aria (Cantilena) | last aired 2026-10-17 06:30 | normal pick from 2026-10-19 06:30 | request now
 OK   Heejin — Algorithm | last aired 2026-10-15 08:20 | normal pick now | request now
 OK   Helado Negro — Brown Fluorescence | last aired 2026-10-15 18:34 | normal pick now | request now
@@ -18,6 +18,6 @@ OK   Herbert Grönemeyer — Mensch | last aired 2026-10-15 21:56 | normal pick 
 OK   Herbert Grönemeyer — Mensch (Remastered 2016) | last aired 2026-10-05 14:42 | normal pick now | request now
 OK   Herbert Grönemeyer — Männer (Remastered 2016) | last aired 2026-10-09 11:50 | normal pick now | request now
 OK   Herbert Grönemeyer — Was soll das (Remastered 2016) | last aired 2026-10-09 00:56 | normal pick now | request now
-WAIT Herbert Waltl — Brandenburg Concerto No. 3 in G Major, BWV 1048: I. Allegro | last aired 2026-10-16 07:46 | normal pick from 2026-10-18 07:46 | request now
+OK   Herbert Waltl — Brandenburg Concerto No. 3 in G Major, BWV 1048: I. Allegro | last aired 2026-10-16 07:46 | normal pick now | request now
 WAIT Herbie Hancock — Chameleon | last aired 2026-10-16 17:43 | normal pick from 2026-10-18 17:43 | request now
 OK   The Head And The Heart — Down in the Valley | last aired 2026-10-09 21:29 | normal pick now | request now
