@@ -1,4 +1,4 @@
-Track status, artists filed under AL (built Sat Oct 17, 7:05 PM PDT (02:05 UTC Sun)). Times in UTC.
+Track status, artists filed under AL (built Sat Oct 17, 8:05 PM PDT (03:05 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Al Di Meola — Double Concerto | last aired 2026-10-13 18:27 | normal pick now | request now
@@ -7,7 +7,7 @@ OK   Al Di Meola — Passion, Grace & Fire (Album Version) | last aired 2026-10-
 OK   Al Di Meola — Red Moon | last aired 2026-10-15 03:10 | normal pick now | request now
 OK   Al Green — Let's Stay Together | last aired 2026-10-14 01:34 | normal pick now | request now
 OK   Al Green — Love and Happiness | last aired 2026-10-14 18:19 | normal pick now | request now
-WAIT Al Green — Simply Beautiful | last aired 2026-10-17 22:52 | normal pick from 2026-10-19 22:52 | request from 2026-10-19 22:52
+WAIT Al Green — Simply Beautiful | last aired 2026-10-17 22:53 | normal pick from 2026-10-19 22:53 | request from 2026-10-19 22:53
 OK   Al Green — The Lord Will Make a Way | last aired 2026-10-15 10:15 | normal pick now | request now
 OK   Al Stewart — Year of the Cat | last aired 2026-10-15 14:06 | normal pick now | request now
 OK   Alabama 3 — Sad Eyed Lady Of The Low Life | last aired 2026-10-09 09:35 | normal pick now | request now
@@ -15,10 +15,10 @@ OK   Alabama 3 — Thank you | last aired 2026-10-12 20:46 | normal pick now | r
 OK   Alabama 3 — Woke Up This Morning | last aired 2026-09-25 07:44 | normal pick now | request now
 OK   Albert Hammond — When I'm Gone | last aired 2026-10-15 15:52 | normal pick now | request now
 OK   Albert King — Born Under A Bad Sign | last aired 2026-10-07 07:21 | normal pick now | request now
-OK   Alestorm — Captain Morgan`s Revenge | last aired 2026-09-05 12:18 | normal pick now | request now
+WAIT Alestorm — Captain Morgan`s Revenge | last aired 2026-10-18 02:31 | normal pick from 2026-10-20 02:31 | request from 2026-10-18 22:31
 OK   Alestorm — Drink | last aired 2026-09-25 20:38 | normal pick now | request now
 OK   Alestorm — Keelhauled | last aired 2026-10-03 06:59 | normal pick now | request now
-OK   Alex Andre — thanks, my day is ruined | last aired 2026-08-01 05:28 | normal pick now | request now
+WAIT Alex Andre — thanks, my day is ruined | last aired 2026-10-18 02:59 | normal pick from 2026-10-20 02:59 | request from 2026-10-18 22:59
 WAIT Alexander Malter — Pärt: Für Alina | last aired 2026-10-17 09:19 | normal pick from 2026-10-19 09:19 | request from 2026-10-19 09:19
 OK   Alexander Rybak — Fairytale | last aired 2026-10-04 13:35 | normal pick now | request now
 OK   Alexandre Tharaud — Gnossienne No.1 - Gnossienne: No. 1 | last aired 2026-10-15 06:17 | normal pick now | request now
