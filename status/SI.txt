@@ -1,4 +1,4 @@
-Track status, artists filed under SI (built Sun Oct 18, 9:05 AM PDT (16:05 UTC)). Times in UTC.
+Track status, artists filed under SI (built Sun Oct 18, 10:05 AM PDT (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Siddhartha — 00:00 | last aired 2026-10-18 14:39 | normal pick from 2026-10-20 14:39 | request from 2026-10-20 14:39
@@ -6,11 +6,11 @@ OK   Side-A — Only You (There Will Never Be Another) | last aired 2026-10-14 0
 OK   Sigur Rós — Hoppípolla | last aired 2026-10-16 09:03 | normal pick now | request now
 OK   Sigur Rós — Starálfur | last aired 2026-10-15 12:13 | normal pick now | request now
 WAIT Sigur Rós — Sé Lest | last aired 2026-10-18 11:15 | normal pick from 2026-10-20 11:15 | request from 2026-10-20 11:15
-WAIT Sigur Rós — Untitled #3  (Samskeyti) | last aired 2026-10-17 18:55 | normal pick from 2026-10-19 18:55 | request now
+WAIT Sigur Rós — Untitled #3  (Samskeyti) | last aired 2026-10-17 18:55 | normal pick from 2026-10-19 06:55 | request now
 OK   Silverchair — Ana's Song (Open Fire) | last aired 2026-10-15 19:37 | normal pick now | request now
 WAIT Silverchair — Anthem for the Year 2000 (Album Version) | last aired 2026-10-18 14:00 | normal pick from 2026-10-20 14:00 | request from 2026-10-20 14:00
 OK   Simon & Garfunkel — Scarborough Fair (Live at Central Park, New York, NY - September 19, 1981) | last aired 2026-10-13 21:54 | normal pick now | request now
-WAIT Simon & Garfunkel — The Boxer | last aired 2026-10-17 23:20 | normal pick from 2026-10-19 23:20 | request from 2026-10-18 19:20
+WAIT Simon & Garfunkel — The Boxer | last aired 2026-10-17 23:20 | normal pick from 2026-10-19 11:20 | request from 2026-10-18 19:20
 OK   Simon & Garfunkel — The Sound of Silence  (Acoustic Version) | last aired 2026-10-16 09:20 | normal pick now | request now
 OK   Simon Trpčeski — Suite bergamasque, CD 82, L. 75: III. Clair de lune | last aired 2026-10-16 10:33 | normal pick now | request now
 OK   Simple Minds — Alive And Kicking (Remastered 2002) | last aired 2026-10-15 22:51 | normal pick now | request now
@@ -19,6 +19,6 @@ OK   Simple Minds — Someone Somewhere (In Summertime) | last aired 2026-10-11 
 OK   Sinéad O'Connor — Nothing Compares 2 U (2009 Remaster) | last aired 2026-10-14 22:52 | normal pick now | request now
 OK   Siouxsie & The Banshees — Cities In Dust (Single Version) | last aired 2026-10-16 05:58 | normal pick now | request now
 OK   Siouxsie & The Banshees — Spellbound | last aired 2026-10-14 21:19 | normal pick now | request now
-WAIT Sir David Willcocks — 5 Tudor Portraits: No. 5, Scherzo. Jolly Rutterkin | last aired 2026-10-17 13:40 | normal pick from 2026-10-19 13:40 | request now
+WAIT Sir David Willcocks — 5 Tudor Portraits: No. 5, Scherzo. Jolly Rutterkin | last aired 2026-10-17 13:40 | normal pick from 2026-10-19 01:40 | request now
 OK   Sister Rosetta Tharpe — Up Above My Head There's Music In The Air | last aired 2026-10-16 02:24 | normal pick now | request now
 OK   Sister Sledge — Lost in Music (1995 Remaster) (LP Version) | last aired 2026-10-11 21:39 | normal pick now | request now

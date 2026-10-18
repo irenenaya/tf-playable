@@ -1,15 +1,15 @@
-Track status, artists filed under DI (built Sun Oct 18, 9:05 AM PDT (16:05 UTC)). Times in UTC.
+Track status, artists filed under DI (built Sun Oct 18, 10:05 AM PDT (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Diana Krall — How Deep Is The Ocean | last aired 2026-10-16 17:21 | normal pick from 2026-10-18 17:21 | request now
+OK   Diana Krall — How Deep Is The Ocean | last aired 2026-10-16 17:21 | normal pick now | request now
 OK   Diana Ross — I'm Coming Out | last aired 2026-10-12 00:09 | normal pick now | request now
 OK   Diana Ross — Muscles | last aired 2026-10-14 19:48 | normal pick now | request now
 OK   Die Fantastischen Vier — MfG - Mit freundlichen Grüßen  (2022) | last aired 2026-10-07 23:17 | normal pick now | request now
 OK   DIIV — Doused | last aired 2026-10-14 03:10 | normal pick now | request now
 OK   Dire Straits — Brothers in Arms | last aired 2026-10-13 19:57 | normal pick now | request now
-WAIT Dire Straits — Money for Nothing | last aired 2026-10-17 04:16 | normal pick from 2026-10-19 04:16 | request now
-WAIT Dire Straits — Sultans of Swing | last aired 2026-10-17 01:07 | normal pick from 2026-10-19 01:07 | request now
+OK   Dire Straits — Money for Nothing | last aired 2026-10-17 04:16 | normal pick now | request now
+OK   Dire Straits — Sultans of Swing | last aired 2026-10-17 01:07 | normal pick now | request now
 OK   Dire Straits — Sultans Of Swing | last aired 2026-06-11 20:23 | normal pick now | request now
-WAIT Dire Straits — Your Latest Trick | last aired 2026-10-18 05:32 | normal pick from 2026-10-20 05:32 | request from 2026-10-19 01:32
+WAIT Dire Straits — Your Latest Trick | last aired 2026-10-18 05:32 | normal pick from 2026-10-19 17:32 | request from 2026-10-19 01:32
 OK   Disclosure — Help Me Lose My Mind | last aired 2026-10-10 16:56 | normal pick now | request now
-WAIT Disturbed — Won't Back Down | last aired 2026-10-18 02:03 | normal pick from 2026-10-20 02:03 | request from 2026-10-18 22:03
+WAIT Disturbed — Won't Back Down | last aired 2026-10-18 02:03 | normal pick from 2026-10-19 14:03 | request from 2026-10-18 22:03

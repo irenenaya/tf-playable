@@ -1,4 +1,4 @@
-Track status, artists filed under CA (built Sun Oct 18, 9:05 AM PDT (16:05 UTC)). Times in UTC.
+Track status, artists filed under CA (built Sun Oct 18, 10:05 AM PDT (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Caetano Veloso — O Leãozinho (Ao Vivo) | last aired 2026-10-15 04:04 | normal pick now | request now
@@ -7,9 +7,9 @@ OK   Café Tacvba — Eres (Album Version) | last aired 2026-10-13 14:22 | norma
 OK   Cage The Elephant — What I'm Becoming | last aired 2026-10-16 15:13 | normal pick now | request now
 OK   Caifanes — Afuera | last aired 2026-10-13 11:43 | normal pick now | request now
 OK   Caifanes — La Negra Tomasa (Bilongo - Version Tropical) | last aired 2026-10-15 03:47 | normal pick now | request now
-WAIT Camille — Ta douleur | last aired 2026-10-17 07:19 | normal pick from 2026-10-19 07:19 | request now
-WAIT Canned Heat — On The Road Again | last aired 2026-10-17 11:40 | normal pick from 2026-10-19 11:40 | request now
-WAIT Carbon Based Lifeforms — Photosynthesis | last aired 2026-10-16 16:07 | normal pick from 2026-10-18 16:07 | request now
+WAIT Camille — Ta douleur | last aired 2026-10-17 07:19 | normal pick from 2026-10-18 19:19 | request now
+WAIT Canned Heat — On The Road Again | last aired 2026-10-17 11:40 | normal pick from 2026-10-18 23:40 | request now
+OK   Carbon Based Lifeforms — Photosynthesis | last aired 2026-10-16 16:07 | normal pick now | request now
 OK   Cardiacs — Big Ship | last aired 2026-10-15 16:05 | normal pick now | request now
 WAIT Carlos Gardel — Por una Cabeza | last aired 2026-10-17 14:00 | normal pick from 2026-10-19 14:00 | request from 2026-10-19 14:00
 OK   Carole King — It's Too Late | last aired 2026-10-16 09:16 | normal pick now | request now
@@ -20,4 +20,4 @@ OK   Cartola — As Rosas Não Falam | last aired 2026-10-16 01:43 | normal pick
 OK   Cascada — Everytime We Touch | last aired 2026-10-03 00:36 | normal pick now | request now
 OK   Cate Le Bon — Are You with Me Now? | last aired 2026-10-15 05:25 | normal pick now | request now
 OK   Caterina Barbieri — Fantas | last aired 2026-10-08 11:21 | normal pick now | request now
-WAIT The Carpenters — (They Long To Be) Close To You | last aired 2026-10-16 21:32 | normal pick from 2026-10-18 21:32 | request now
+OK   The Carpenters — (They Long To Be) Close To You | last aired 2026-10-16 21:32 | normal pick now | request now

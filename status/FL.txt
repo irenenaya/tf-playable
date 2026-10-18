@@ -1,4 +1,4 @@
-Track status, artists filed under FL (built Sun Oct 18, 9:05 AM PDT (16:05 UTC)). Times in UTC.
+Track status, artists filed under FL (built Sun Oct 18, 10:05 AM PDT (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Fleet Foxes — Helplessness Blues | last aired 2026-10-14 14:39 | normal pick now | request now
@@ -6,13 +6,13 @@ WAIT Fleet Foxes — Mykonos | last aired 2026-10-17 18:42 | normal pick from 20
 OK   Fleet Foxes — White Winter Hymnal | last aired 2026-10-16 12:06 | normal pick now | request now
 OK   Fleetwood Mac — Albatross | last aired 2026-10-05 18:17 | normal pick now | request now
 OK   Fleetwood Mac — Dreams  (2001 Remaster) | last aired 2026-10-07 16:16 | normal pick now | request now
-WAIT Fleetwood Mac — Dreams  (2004 Remaster) | last aired 2026-10-17 23:07 | normal pick from 2026-10-19 23:07 | request from 2026-10-18 19:07
+WAIT Fleetwood Mac — Dreams  (2004 Remaster) | last aired 2026-10-17 23:07 | normal pick from 2026-10-19 11:07 | request from 2026-10-18 19:07
 OK   Fleetwood Mac — Go Your Own Way  (2004 Remaster) | last aired 2026-10-14 14:55 | normal pick now | request now
 OK   Fleetwood Mac — I Know I'm Not Wrong | last aired 2026-10-14 17:26 | normal pick now | request now
 OK   Fleetwood Mac — Sara | last aired 2026-10-13 05:05 | normal pick now | request now
-WAIT Fleetwood Mac — That's All for Everyone | last aired 2026-10-17 15:03 | normal pick from 2026-10-19 15:03 | request now
-WAIT Fleetwood Mac — The Ledge | last aired 2026-10-16 21:48 | normal pick from 2026-10-18 21:48 | request now
-WAIT Fleetwood Mac — Tusk | last aired 2026-10-17 08:52 | normal pick from 2026-10-19 08:52 | request now
-WAIT Floating Points — Birth4000 | last aired 2026-10-16 22:19 | normal pick from 2026-10-18 22:19 | request now
+WAIT Fleetwood Mac — That's All for Everyone | last aired 2026-10-17 15:03 | normal pick from 2026-10-19 03:03 | request now
+OK   Fleetwood Mac — The Ledge | last aired 2026-10-16 21:48 | normal pick now | request now
+WAIT Fleetwood Mac — Tusk | last aired 2026-10-17 08:52 | normal pick from 2026-10-18 20:52 | request now
+OK   Floating Points — Birth4000 | last aired 2026-10-16 22:19 | normal pick now | request now
 OK   Floating Points — Last Bloom | last aired 2026-10-15 12:30 | normal pick now | request now
-WAIT Floating Points — LesAlpx | last aired 2026-10-18 01:16 | normal pick from 2026-10-20 01:16 | request from 2026-10-18 21:16
+WAIT Floating Points — LesAlpx | last aired 2026-10-18 01:16 | normal pick from 2026-10-19 13:16 | request from 2026-10-18 21:16

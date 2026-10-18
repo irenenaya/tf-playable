@@ -1,48 +1,48 @@
-Track status, artists filed under ST (built Sun Oct 18, 9:05 AM PDT (16:05 UTC)). Times in UTC.
+Track status, artists filed under ST (built Sun Oct 18, 10:05 AM PDT (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT St Germain — Rose rouge | last aired 2026-10-18 08:26 | normal pick from 2026-10-20 08:26 | request from 2026-10-19 04:26
+WAIT St Germain — Rose rouge | last aired 2026-10-18 08:26 | normal pick from 2026-10-19 20:26 | request from 2026-10-19 04:26
 OK   Stan Bush — The Touch | last aired 2026-10-14 19:40 | normal pick now | request now
 WAIT Stan Getz — Corcovado (Quiet Nights Of Quiet Stars) | last aired 2026-10-17 10:21 | normal pick from 2026-10-19 10:21 | request from 2026-10-19 10:21
-WAIT Stardust — Music Sounds Better With You | last aired 2026-10-17 04:03 | normal pick from 2026-10-19 04:03 | request now
+OK   Stardust — Music Sounds Better With You | last aired 2026-10-17 04:03 | normal pick now | request now
 OK   Stars of the Lid — Requiem for Dying Mothers, Pt. 1 | last aired 2026-10-16 06:23 | normal pick now | request now
-WAIT Stars of the Lid — Requiem for Dying Mothers, Pt. 2 | last aired 2026-10-18 04:04 | normal pick from 2026-10-20 04:04 | request from 2026-10-19 00:04
+WAIT Stars of the Lid — Requiem for Dying Mothers, Pt. 2 | last aired 2026-10-18 04:04 | normal pick from 2026-10-19 16:04 | request from 2026-10-19 00:04
 OK   Stealers Wheel — Stuck In The Middle With You | last aired 2026-10-16 06:02 | normal pick now | request now
-WAIT Steely Dan — Almost Gothic (Album Version) | last aired 2026-10-16 20:51 | normal pick from 2026-10-18 20:51 | request now
-WAIT Steely Dan — Babylon Sisters | last aired 2026-10-17 00:49 | normal pick from 2026-10-19 00:49 | request now
-WAIT Steely Dan — Home At Last | last aired 2026-10-17 13:01 | normal pick from 2026-10-19 13:01 | request now
+OK   Steely Dan — Almost Gothic (Album Version) | last aired 2026-10-16 20:51 | normal pick now | request now
+OK   Steely Dan — Babylon Sisters | last aired 2026-10-17 00:49 | normal pick now | request now
+WAIT Steely Dan — Home At Last | last aired 2026-10-17 13:01 | normal pick from 2026-10-19 01:01 | request now
 OK   Steely Dan — Jack of Speed (Album Version) | last aired 2026-10-12 20:39 | normal pick now | request now
 OK   Steely Dan — Kid Charlemagne | last aired 2026-09-29 15:12 | normal pick now | request now
-WAIT Steely Dan — Peg | last aired 2026-10-18 14:42 | normal pick from 2026-10-20 14:42 | request from 2026-10-19 10:42
-WAIT Steely Dan — Time Out Of Mind | last aired 2026-10-18 07:04 | normal pick from 2026-10-20 07:04 | request from 2026-10-19 03:04
+WAIT Steely Dan — Peg | last aired 2026-10-18 14:42 | normal pick from 2026-10-20 02:42 | request from 2026-10-19 10:42
+WAIT Steely Dan — Time Out Of Mind | last aired 2026-10-18 07:04 | normal pick from 2026-10-19 19:04 | request from 2026-10-19 03:04
 OK   Steve Miller Band — The Joker | last aired 2026-10-16 01:46 | normal pick now | request now
 OK   Steve Roach — Living the Dream | last aired 2026-10-13 19:39 | normal pick now | request now
 OK   Stevie Ray Vaughan & Double Trouble — Pride and Joy | last aired 2026-10-12 05:40 | normal pick now | request now
-WAIT Stevie Ray Vaughan & Double Trouble — Riviera Paradise | last aired 2026-10-17 08:07 | normal pick from 2026-10-19 08:07 | request now
+WAIT Stevie Ray Vaughan & Double Trouble — Riviera Paradise | last aired 2026-10-17 08:07 | normal pick from 2026-10-18 20:07 | request now
 OK   Stevie Wonder — As | last aired 2026-10-03 00:55 | normal pick now | request now
-WAIT Stevie Wonder — Go Home | last aired 2026-10-18 00:50 | normal pick from 2026-10-20 00:50 | request from 2026-10-18 20:50
+WAIT Stevie Wonder — Go Home | last aired 2026-10-18 00:50 | normal pick from 2026-10-19 12:50 | request from 2026-10-18 20:50
 OK   Stevie Wonder — Golden Lady | last aired 2026-10-16 13:01 | normal pick now | request now
 OK   Stevie Wonder — Happy Birthday | last aired 2026-09-29 18:47 | normal pick now | request now
 OK   Stevie Wonder — Higher Ground (Album Version) | last aired 2026-10-13 16:23 | normal pick now | request now
-WAIT Stevie Wonder — I Wish | last aired 2026-10-17 00:17 | normal pick from 2026-10-19 00:17 | request now
+OK   Stevie Wonder — I Wish | last aired 2026-10-17 00:17 | normal pick now | request now
 OK   Stevie Wonder — Isn't She Lovely | last aired 2026-10-14 09:47 | normal pick now | request now
 OK   Stevie Wonder — Living For The City (Album Version) | last aired 2026-10-03 14:57 | normal pick now | request now
 OK   Stevie Wonder — Master Blaster (Jammin') | last aired 2026-10-15 10:47 | normal pick now | request now
 OK   Stevie Wonder — Sir Duke | last aired 2026-10-14 00:11 | normal pick now | request now
 OK   Stevie Wonder — Summer Soft | last aired 2026-10-04 13:50 | normal pick now | request now
-WAIT Stevie Wonder — Superstition (Album Version) | last aired 2026-10-17 22:45 | normal pick from 2026-10-19 22:45 | request from 2026-10-18 18:45
+WAIT Stevie Wonder — Superstition (Album Version) | last aired 2026-10-17 22:45 | normal pick from 2026-10-19 10:45 | request from 2026-10-18 18:45
 OK   Stevie Wonder — You Haven't Done Nothin' | last aired 2026-10-11 00:40 | normal pick now | request now
 OK   Still Woozy — Get Down | last aired 2026-10-14 16:21 | normal pick now | request now
-WAIT Sting — Desert Rose (Album Version) | last aired 2026-10-17 02:46 | normal pick from 2026-10-19 02:46 | request now
+OK   Sting — Desert Rose (Album Version) | last aired 2026-10-17 02:46 | normal pick now | request now
 OK   Sting — Fields Of Gold (My Songs Version) | last aired 2026-10-15 16:27 | normal pick now | request now
-WAIT Sting — Fragile | last aired 2026-10-17 00:00 | normal pick from 2026-10-19 00:00 | request now
+OK   Sting — Fragile | last aired 2026-10-17 00:00 | normal pick now | request now
 OK   Sting — If You Love Somebody Set Them Free (Single Edit) | last aired 2026-10-06 07:00 | normal pick now | request now
-WAIT Sting — Shape Of My Heart (My Songs Version) | last aired 2026-10-17 15:21 | normal pick from 2026-10-19 15:21 | request now
-WAIT Stratovarius — Black Diamond | last aired 2026-10-18 12:54 | normal pick from 2026-10-20 12:54 | request from 2026-10-19 08:54
+WAIT Sting — Shape Of My Heart (My Songs Version) | last aired 2026-10-17 15:21 | normal pick from 2026-10-19 03:21 | request now
+WAIT Stratovarius — Black Diamond | last aired 2026-10-18 12:54 | normal pick from 2026-10-20 00:54 | request from 2026-10-19 08:54
 OK   Studio Group — As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired 2026-08-08 23:18 | normal pick now | request now
 OK   Studio Group — Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired 2026-08-31 18:46 | normal pick now | request now
 OK   Styx — Mr. Roboto | last aired 2026-10-14 14:59 | normal pick now | request now
-WAIT The Staple Singers — I'll Take You There | last aired 2026-10-17 12:49 | normal pick from 2026-10-19 12:49 | request now
+WAIT The Staple Singers — I'll Take You There | last aired 2026-10-17 12:49 | normal pick from 2026-10-19 00:49 | request now
 OK   The Strokes — Last Nite | last aired 2026-10-12 15:38 | normal pick now | request now
 OK   The Strokes — Lonely in the Future | last aired 2026-10-16 10:02 | normal pick now | request now
 OK   The Strokes — Ode To The Mets | last aired 2026-10-12 01:01 | normal pick now | request now

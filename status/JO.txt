@@ -1,13 +1,13 @@
-Track status, artists filed under JO (built Sun Oct 18, 9:05 AM PDT (16:05 UTC)). Times in UTC.
+Track status, artists filed under JO (built Sun Oct 18, 10:05 AM PDT (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-10-12 10:35 | normal pick now | request now
 OK   Jockstrap — Concrete Over Water | last aired 2026-10-15 18:09 | normal pick now | request now
 OK   Joe Cocker — With A Little Help From My Friends | last aired 2026-10-14 22:18 | normal pick now | request now
 OK   Joe Hisaishi — A Town with an Ocean View (from 'Kiki's Delivery Service') | last aired 2026-09-27 18:13 | normal pick now | request now
-WAIT Joe Hisaishi — a Wish to the Moon | last aired 2026-10-16 23:32 | normal pick from 2026-10-18 23:32 | request now
+OK   Joe Hisaishi — a Wish to the Moon | last aired 2026-10-16 23:32 | normal pick now | request now
 OK   Joe Hisaishi — Asian Dream Song | last aired 2026-10-15 07:24 | normal pick now | request now
-WAIT Joe Hisaishi — Deep Sea Pastures (from 'Ponyo on the Cliff by the Sea') | last aired 2026-10-17 06:55 | normal pick from 2026-10-19 06:55 | request now
+WAIT Joe Hisaishi — Deep Sea Pastures (from 'Ponyo on the Cliff by the Sea') | last aired 2026-10-17 06:55 | normal pick from 2026-10-18 18:55 | request now
 OK   Joe Hisaishi — Departures (from 'Departures') | last aired 2026-10-13 06:01 | normal pick now | request now
 OK   Joe Hisaishi — Innocent (from 'Castle in the Sky') | last aired 2026-10-16 08:00 | normal pick now | request now
 OK   Joe Hisaishi — Merry-Go-Round of Life (from 'Howl’s Moving Castle') | last aired 2026-10-16 04:08 | normal pick now | request now
@@ -21,37 +21,37 @@ OK   Joel Pott — Chances | last aired 2026-10-15 11:06 | normal pick now | req
 WAIT Johann Johannsson — Flight From The City - Jóhannsson: Flight from the City | last aired 2026-10-18 13:00 | normal pick from 2026-10-20 13:00 | request from 2026-10-20 13:00
 OK   John Carpenter — Halloween Theme | last aired 2026-10-13 02:49 | normal pick now | request now
 WAIT John Coltrane — Lush Life | last aired 2026-10-17 15:58 | normal pick from 2026-10-19 15:58 | request from 2026-10-19 15:58
-WAIT John Coltrane — My Favorite Things | last aired 2026-10-17 08:56 | normal pick from 2026-10-19 08:56 | request now
+WAIT John Coltrane — My Favorite Things | last aired 2026-10-17 08:56 | normal pick from 2026-10-18 20:56 | request now
 OK   John Denver — Take Me Home, Country Roads | last aired 2026-10-15 17:35 | normal pick now | request now
-WAIT John Lee Hooker — Boom Boom | last aired 2026-10-18 12:24 | normal pick from 2026-10-20 12:24 | request from 2026-10-19 08:24
-WAIT John Lee Hooker — I Cover the Waterfront | last aired 2026-10-18 09:01 | normal pick from 2026-10-20 09:01 | request from 2026-10-19 05:01
+WAIT John Lee Hooker — Boom Boom | last aired 2026-10-18 12:24 | normal pick from 2026-10-20 00:24 | request from 2026-10-19 08:24
+WAIT John Lee Hooker — I Cover the Waterfront | last aired 2026-10-18 09:01 | normal pick from 2026-10-19 21:01 | request from 2026-10-19 05:01
 OK   John Lennon — Give Peace A Chance (Remastered 2010) | last aired 2026-10-13 04:40 | normal pick now | request now
 OK   John Lennon — Imagine (Remastered 2010) | last aired 2026-10-14 00:42 | normal pick now | request now
-WAIT John Lennon — Instant Karma! (We All Shine On) (Ultimate Mix) | last aired 2026-10-18 10:13 | normal pick from 2026-10-20 10:13 | request from 2026-10-19 06:13
-WAIT John Lennon — Watching The Wheels (Remastered 2010) | last aired 2026-10-16 16:48 | normal pick from 2026-10-18 16:48 | request now
+WAIT John Lennon — Instant Karma! (We All Shine On) (Ultimate Mix) | last aired 2026-10-18 10:13 | normal pick from 2026-10-19 22:13 | request from 2026-10-19 06:13
+OK   John Lennon — Watching The Wheels (Remastered 2010) | last aired 2026-10-16 16:48 | normal pick now | request now
 OK   John Mayer — New Light | last aired 2026-10-15 22:48 | normal pick now | request now
 OK   John McLaughlin — You Know, You Know (Album Version) | last aired 2026-10-08 15:40 | normal pick now | request now
 OK   John Prine — Your Flag Decal Won't Get You into Heaven Anymore | last aired 2026-10-12 05:33 | normal pick now | request now
 OK   John T. Williams — Anything Goes | last aired 2026-10-16 05:14 | normal pick now | request now
-WAIT John Williams — Theme From Superman  (Concert Version) | last aired 2026-10-17 19:06 | normal pick from 2026-10-19 19:06 | request now
-WAIT Johnny Cash — Folsom Prison Blues | last aired 2026-10-17 20:35 | normal pick from 2026-10-19 20:35 | request from 2026-10-18 16:35
+WAIT John Williams — Theme From Superman  (Concert Version) | last aired 2026-10-17 19:06 | normal pick from 2026-10-19 07:06 | request now
+WAIT Johnny Cash — Folsom Prison Blues | last aired 2026-10-17 20:35 | normal pick from 2026-10-19 08:35 | request now
 OK   Johnny Cash — Hurt (Album Version) | last aired 2026-10-14 22:01 | normal pick now | request now
-WAIT Johnny Cash — Redemption Day (Album Version) | last aired 2026-10-18 12:09 | normal pick from 2026-10-20 12:09 | request from 2026-10-19 08:09
+WAIT Johnny Cash — Redemption Day (Album Version) | last aired 2026-10-18 12:09 | normal pick from 2026-10-20 00:09 | request from 2026-10-19 08:09
 OK   Johnny Cash — Ring of Fire | last aired 2026-10-14 01:46 | normal pick now | request now
 OK   Johnny Mathis — Wonderful! Wonderful! | last aired 2026-10-14 01:09 | normal pick now | request now
 OK   Joker Out — Novi Val | last aired 2026-10-12 20:07 | normal pick now | request now
-WAIT Jon Hopkins — Open Eye Signal (Remaster 2023) | last aired 2026-10-18 06:16 | normal pick from 2026-10-20 06:16 | request from 2026-10-19 02:16
+WAIT Jon Hopkins — Open Eye Signal (Remaster 2023) | last aired 2026-10-18 06:16 | normal pick from 2026-10-19 18:16 | request from 2026-10-19 02:16
 OK   Jon Hopkins — Small Memory | last aired 2026-10-16 10:48 | normal pick now | request now
 OK   Jonathan Parecki — Senbonzakura (Hatsune Miku) | last aired 2026-09-02 17:36 | normal pick now | request now
 OK   Joni Mitchell — A Case of You | last aired 2026-10-14 01:41 | normal pick now | request now
 OK   Joni Mitchell — At Last (LP Version) | last aired 2026-09-04 00:09 | normal pick now | request now
 OK   Joni Mitchell — River | last aired 2026-10-13 12:16 | normal pick now | request now
 OK   Jorge Ben Jor — Mas, Que Nada! | last aired 2026-10-16 00:44 | normal pick now | request now
-WAIT Josh Rouse — 1972 | last aired 2026-10-18 14:04 | normal pick from 2026-10-20 14:04 | request from 2026-10-19 10:04
+WAIT Josh Rouse — 1972 | last aired 2026-10-18 14:04 | normal pick from 2026-10-20 02:04 | request from 2026-10-19 10:04
 OK   Josh Rouse — Street Lights | last aired 2026-10-15 18:29 | normal pick now | request now
 OK   José González — Heartbeats | last aired 2026-10-16 07:17 | normal pick now | request now
-OK   Journey — Don't Stop Believin' (Album Version) | last aired 2026-10-14 00:27 | normal pick now | request now
-WAIT Journey — Lights (Album Version) | last aired 2026-10-18 12:42 | normal pick from 2026-10-20 12:42 | request from 2026-10-19 08:42
+WAIT Journey — Don't Stop Believin' (Album Version) | last aired 2026-10-18 16:32 | normal pick from 2026-10-20 04:32 | request from 2026-10-19 12:32
+WAIT Journey — Lights (Album Version) | last aired 2026-10-18 12:42 | normal pick from 2026-10-20 00:42 | request from 2026-10-19 08:42
 OK   Joywave — In Clover | last aired 2026-10-15 05:40 | normal pick now | request now
 OK   Joywave — Rumors | last aired 2026-10-12 01:11 | normal pick now | request now
 OK   João Gilberto — Chega de Saudade | last aired 2026-10-10 13:55 | normal pick now | request now
