@@ -1,4 +1,4 @@
-Track status, artists filed under HO (built Sun Oct 18, 3:05 AM PDT (10:05 UTC)). Times in UTC.
+Track status, artists filed under HO (built Sun Oct 18, 4:05 AM PDT (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Holly Herndon — Chorus | last aired 2026-10-09 18:55 | normal pick now | request now
@@ -12,5 +12,5 @@ WAIT Hozier — Angel Of Small Death & The Codeine Scene | last aired 2026-10-17
 WAIT Hozier — Cherry Wine  (Live) | last aired 2026-10-17 21:27 | normal pick from 2026-10-19 21:27 | request from 2026-10-18 17:27
 WAIT Hozier — From Eden | last aired 2026-10-16 13:53 | normal pick from 2026-10-18 13:53 | request now
 OK   Hozier — Take Me To Church | last aired 2026-10-14 15:13 | normal pick now | request now
-WAIT Hozier — Wasteland, Baby! | last aired 2026-10-18 07:14 | normal pick from 2026-10-20 07:14 | request from 2026-10-19 03:14
+WAIT Hozier — Wasteland, Baby! | last aired 2026-10-18 07:15 | normal pick from 2026-10-20 07:15 | request from 2026-10-19 03:15
 OK   The Hollyridge Strings — Yesterday | last aired 2026-10-14 07:05 | normal pick now | request now

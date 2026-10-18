@@ -1,8 +1,8 @@
-Track status, artists filed under KH (built Sun Oct 18, 3:05 AM PDT (10:05 UTC)). Times in UTC.
+Track status, artists filed under KH (built Sun Oct 18, 4:05 AM PDT (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Khalid — momentary lovers | last aired 2026-10-15 20:28 | normal pick now | request now
-OK   Khalid — please don't call (333) | last aired 2026-10-11 11:20 | normal pick now | request now
+WAIT Khalid — please don't call (333) | last aired 2026-10-18 10:39 | normal pick from 2026-10-20 10:39 | request from 2026-10-19 06:39
 OK   Khruangbin — A Calf Born In Winter | last aired 2026-10-15 05:47 | normal pick now | request now
 WAIT Khruangbin — August 10 | last aired 2026-10-16 20:08 | normal pick from 2026-10-18 20:08 | request now
 OK   Khruangbin — Friday Morning | last aired 2026-10-09 08:35 | normal pick now | request now
