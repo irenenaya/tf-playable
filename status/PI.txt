@@ -1,4 +1,4 @@
-Track status, artists filed under PI (built Sun Oct 18, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, artists filed under PI (built Sun Oct 18, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Pierre Monteux — The Fire Bird: IV. Infernal Dance of King Kastchei | last aired 2026-10-13 10:34 | normal pick now | request now
@@ -12,6 +12,6 @@ OK   Pink Floyd — Money | last aired 2026-10-05 20:11 | normal pick now | requ
 OK   Pink Floyd — The Great Gig in the Sky (2023 Remaster) | last aired 2026-10-04 22:00 | normal pick now | request now
 OK   Pink Floyd — Wish You Were Here | last aired 2026-10-16 11:07 | normal pick now | request now
 OK   Piotr Musial — Some Place We Called Home | last aired 2026-10-16 05:26 | normal pick now | request now
-WAIT Pitbull — International Love | last aired 2026-10-16 15:56 | normal pick from 2026-10-18 15:56 | request now
+OK   Pitbull — International Love | last aired 2026-10-16 15:56 | normal pick now | request now
 OK   Pitbull — Timber | last aired 2026-10-09 11:28 | normal pick now | request now
 WAIT Pixies — Ana | last aired 2026-10-17 22:31 | normal pick from 2026-10-19 22:31 | request from 2026-10-19 22:31
