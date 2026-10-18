@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Sat Oct 17, 11:05 PM PDT (06:05 UTC Sun)). Times in UTC.
+Track status, artists filed under BE (built Sun Oct 18, 12:05 AM PDT (07:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Beach House — Bluebird | last aired 2026-10-11 03:23 | normal pick now | request now
@@ -42,7 +42,7 @@ OK   The Beatles — Golden Slumbers (Remastered) | last aired 2026-10-09 11:31 
 OK   The Beatles — Here Comes The Sun (2019 Mix) | last aired 2026-10-14 00:19 | normal pick now | request now
 OK   The Beatles — Lucy In The Sky With Diamonds (Remastered 2009) | last aired 2026-10-09 17:10 | normal pick now | request now
 WAIT The Beatles — Octopus's Garden (Remastered) | last aired 2026-10-17 23:45 | normal pick from 2026-10-19 23:45 | request from 2026-10-18 19:45
-WAIT The Beatles — Rain (Remastered) | last aired 2026-10-18 05:48 | normal pick from 2026-10-20 05:48 | request from 2026-10-19 01:48
+WAIT The Beatles — Rain (Remastered) | last aired 2026-10-18 05:49 | normal pick from 2026-10-20 05:49 | request from 2026-10-19 01:49
 OK   The Beatles — Revolution 9 (Remastered 2009) | last aired 2026-09-14 19:37 | normal pick now | request now
 OK   The Beatles — Strawberry Fields Forever | last aired 2026-10-14 19:15 | normal pick now | request now
 WAIT The Beatles — This Boy (Remastered) | last aired 2026-10-18 02:47 | normal pick from 2026-10-20 02:47 | request from 2026-10-18 22:47

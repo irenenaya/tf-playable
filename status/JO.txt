@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Sat Oct 17, 11:05 PM PDT (06:05 UTC Sun)). Times in UTC.
+Track status, artists filed under JO (built Sun Oct 18, 12:05 AM PDT (07:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-10-12 10:35 | normal pick now | request now
@@ -40,7 +40,7 @@ OK   Johnny Cash — Redemption Day (Album Version) | last aired 2026-10-10 16:0
 OK   Johnny Cash — Ring of Fire | last aired 2026-10-14 01:46 | normal pick now | request now
 OK   Johnny Mathis — Wonderful! Wonderful! | last aired 2026-10-14 01:09 | normal pick now | request now
 OK   Joker Out — Novi Val | last aired 2026-10-12 20:07 | normal pick now | request now
-OK   Jon Hopkins — Open Eye Signal (Remaster 2023) | last aired 2026-10-14 23:23 | normal pick now | request now
+WAIT Jon Hopkins — Open Eye Signal (Remaster 2023) | last aired 2026-10-18 06:15 | normal pick from 2026-10-20 06:15 | request from 2026-10-19 02:15
 WAIT Jon Hopkins — Small Memory | last aired 2026-10-16 10:48 | normal pick from 2026-10-18 10:48 | request now
 OK   Jonathan Parecki — Senbonzakura (Hatsune Miku) | last aired 2026-09-02 17:36 | normal pick now | request now
 OK   Joni Mitchell — A Case of You | last aired 2026-10-14 01:41 | normal pick now | request now
