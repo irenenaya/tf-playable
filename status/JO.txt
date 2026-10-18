@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Sat Oct 17, 9:05 PM PDT (04:05 UTC Sun)). Times in UTC.
+Track status, artists filed under JO (built Sat Oct 17, 10:05 PM PDT (05:05 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-10-12 10:35 | normal pick now | request now
@@ -10,7 +10,7 @@ OK   Joe Hisaishi — Asian Dream Song | last aired 2026-10-15 07:24 | normal pi
 WAIT Joe Hisaishi — Deep Sea Pastures (from 'Ponyo on the Cliff by the Sea') | last aired 2026-10-17 06:55 | normal pick from 2026-10-19 06:55 | request now
 OK   Joe Hisaishi — Departures (from 'Departures') | last aired 2026-10-13 06:01 | normal pick now | request now
 WAIT Joe Hisaishi — Innocent (from 'Castle in the Sky') | last aired 2026-10-16 08:00 | normal pick from 2026-10-18 08:00 | request now
-WAIT Joe Hisaishi — Merry-Go-Round of Life (from 'Howl’s Moving Castle') | last aired 2026-10-16 04:08 | normal pick from 2026-10-18 04:08 | request now
+OK   Joe Hisaishi — Merry-Go-Round of Life (from 'Howl’s Moving Castle') | last aired 2026-10-16 04:08 | normal pick now | request now
 OK   Joe Hisaishi — One Summer's Day (from 'Spirited Away') | last aired 2026-10-10 06:04 | normal pick now | request now
 OK   Joe Hisaishi — Ponyo's Sisters Lend a Hand - A Song for Mothers and the Sea (from 'Ponyo on the Cliff by the Sea') | last aired 2026-10-13 02:59 | normal pick now | request now
 OK   Joe Hisaishi — Summer (from 'Kikujiro') | last aired 2026-10-11 06:03 | normal pick now | request now
@@ -21,7 +21,7 @@ OK   Joel Pott — Chances | last aired 2026-10-15 11:06 | normal pick now | req
 OK   Johann Johannsson — Flight From The City - Jóhannsson: Flight from the City | last aired 2026-10-15 06:53 | normal pick now | request now
 OK   John Carpenter — Halloween Theme | last aired 2026-10-13 02:49 | normal pick now | request now
 WAIT John Coltrane — Lush Life | last aired 2026-10-17 15:58 | normal pick from 2026-10-19 15:58 | request from 2026-10-19 15:58
-WAIT John Coltrane — My Favorite Things | last aired 2026-10-17 08:56 | normal pick from 2026-10-19 08:56 | request from 2026-10-18 04:56
+WAIT John Coltrane — My Favorite Things | last aired 2026-10-17 08:56 | normal pick from 2026-10-19 08:56 | request now
 OK   John Denver — Take Me Home, Country Roads | last aired 2026-10-15 17:35 | normal pick now | request now
 OK   John Lee Hooker — Boom Boom | last aired 2026-10-08 09:00 | normal pick now | request now
 OK   John Lee Hooker — I Cover the Waterfront | last aired 2026-10-05 18:33 | normal pick now | request now
