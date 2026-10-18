@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Sun Oct 18, 1:05 AM PDT (08:05 UTC)). Times in UTC.
+Track status, artists filed under BE (built Sun Oct 18, 2:05 AM PDT (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Beach House — Bluebird | last aired 2026-10-11 03:23 | normal pick now | request now
@@ -21,12 +21,12 @@ OK   Ben E. King — Stand By Me | last aired 2026-10-14 00:46 | normal pick now
 WAIT Ben Harper — Yard Sale | last aired 2026-10-16 15:09 | normal pick from 2026-10-18 15:09 | request now
 OK   Ben&Ben — Leaves | last aired 2026-10-16 04:44 | normal pick now | request now
 OK   Ben&Ben — Maybe The Night | last aired 2026-10-08 16:41 | normal pick now | request now
-WAIT Benjamin Francis Leftwich — Ticket To Ride | last aired 2026-10-16 08:22 | normal pick from 2026-10-18 08:22 | request now
+OK   Benjamin Francis Leftwich — Ticket To Ride | last aired 2026-10-16 08:22 | normal pick now | request now
 OK   Benny Goodman — Sing Sing Sing (With A Swing) (live) | last aired 2026-10-13 22:06 | normal pick now | request now
 OK   Benny Sings — Rolled Up | last aired 2026-10-14 16:06 | normal pick now | request now
 OK   Benny Sings — Sailing | last aired 2026-10-13 16:53 | normal pick now | request now
 OK   Benson Boone — Beautiful Things | last aired 2026-10-15 20:17 | normal pick now | request now
-WAIT Berlin — Take My Breath Away | last aired 2026-10-16 08:29 | normal pick from 2026-10-18 08:29 | request now
+OK   Berlin — Take My Breath Away | last aired 2026-10-16 08:29 | normal pick now | request now
 OK   Bernard Purdie — Cool Down | last aired 2026-10-15 02:46 | normal pick now | request now
 WAIT Bert Kaempfert — A Swingin' Safari | last aired 2026-10-17 23:48 | normal pick from 2026-10-19 23:48 | request from 2026-10-18 19:48
 OK   Betty Carter — Moonlight in Vermont | last aired 2026-10-14 12:26 | normal pick now | request now
