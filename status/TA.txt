@@ -1,4 +1,4 @@
-Track status, artists filed under TA (built Sat Oct 17, 4:05 PM PDT (23:05 UTC)). Times in UTC.
+Track status, artists filed under TA (built Sat Oct 17, 5:05 PM PDT (00:05 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Taeko Onuki — 4:00 A.M. | last aired 2026-10-08 15:07 | normal pick now | request now
@@ -19,5 +19,5 @@ WAIT Tangerine Dream — Love On A Real Train | last aired 2026-10-16 12:49 | no
 OK   Tangerine Dream — Stratosfear (Digital Remastered) | last aired 2026-10-13 18:59 | normal pick now | request now
 OK   Tate McRae — greedy | last aired 2026-10-10 21:44 | normal pick now | request now
 OK   Tate McRae — Miss possessive | last aired 2026-08-13 13:28 | normal pick now | request now
-WAIT Tate McRae — TIT FOR TAT | last aired 2026-10-15 23:25 | normal pick from 2026-10-17 23:25 | request now
+OK   Tate McRae — TIT FOR TAT | last aired 2026-10-15 23:25 | normal pick now | request now
 OK   Taylor Swift — Cruel Summer | last aired 2026-10-07 00:48 | normal pick now | request now
