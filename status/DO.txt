@@ -1,9 +1,9 @@
-Track status, artists filed under DO (built Sun Oct 18, 2:05 AM PDT (09:05 UTC)). Times in UTC.
+Track status, artists filed under DO (built Sun Oct 18, 3:05 AM PDT (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Dolly Parton — 9 to 5 | last aired 2026-10-12 03:54 | normal pick now | request now
 WAIT Dolly Parton — Coat of Many Colors | last aired 2026-10-16 21:09 | normal pick from 2026-10-18 21:09 | request now
-WAIT Dolly Parton — I Dreamed About Elvis | last aired 2026-10-17 13:19 | normal pick from 2026-10-19 13:19 | request from 2026-10-18 09:19
+WAIT Dolly Parton — I Dreamed About Elvis | last aired 2026-10-17 13:19 | normal pick from 2026-10-19 13:19 | request now
 OK   Dolly Parton — I Will Always Love You | last aired 2026-10-14 01:49 | normal pick now | request now
 WAIT Dolly Parton — Jolene | last aired 2026-10-17 23:12 | normal pick from 2026-10-19 23:12 | request from 2026-10-19 23:12
 OK   Don McLean — Vincent | last aired 2026-10-14 20:04 | normal pick now | request now
@@ -20,4 +20,4 @@ OK   Dot Allison — Bleached By The Sun | last aired 2026-10-16 04:49 | normal 
 WAIT The Doobie Brothers — What a Fool Believes | last aired 2026-10-17 00:26 | normal pick from 2026-10-19 00:26 | request now
 WAIT The Doobie Brothers — You Belong to Me  (2016 Remaster) | last aired 2026-10-16 20:47 | normal pick from 2026-10-18 20:47 | request now
 OK   The Doors — Riders on the Storm | last aired 2026-10-15 13:59 | normal pick now | request now
-OK   The Doors — Spanish Caravan | last aired 2026-10-09 14:23 | normal pick now | request now
+WAIT The Doors — Spanish Caravan | last aired 2026-10-18 09:21 | normal pick from 2026-10-20 09:21 | request from 2026-10-19 05:21

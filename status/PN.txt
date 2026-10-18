@@ -1,9 +1,9 @@
-Track status, artists filed under PN (built Sun Oct 18, 2:05 AM PDT (09:05 UTC)). Times in UTC.
+Track status, artists filed under PN (built Sun Oct 18, 3:05 AM PDT (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   P!nk — Eventually | last aired 2026-10-02 23:48 | normal pick now | request now
 OK   P!nk — Family Portrait | last aired 2026-10-14 13:43 | normal pick now | request now
-OK   P!nk — Get the Party Started | last aired 2026-10-06 08:59 | normal pick now | request now
+WAIT P!nk — Get the Party Started | last aired 2026-10-18 09:38 | normal pick from 2026-10-20 09:38 | request from 2026-10-19 05:38
 OK   P!nk — Glitter In the Air | last aired 2026-10-13 01:53 | normal pick now | request now
 OK   P!nk — Just Give Me a Reason | last aired 2026-09-12 18:57 | normal pick now | request now
 OK   P!nk — Please Don't Leave Me | last aired 2026-10-09 03:01 | normal pick now | request now

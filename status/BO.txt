@@ -1,7 +1,7 @@
-Track status, artists filed under BO (built Sun Oct 18, 2:05 AM PDT (09:05 UTC)). Times in UTC.
+Track status, artists filed under BO (built Sun Oct 18, 3:05 AM PDT (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Boards of Canada — Blood In The Labyrinth | last aired 2026-10-16 09:33 | normal pick from 2026-10-18 09:33 | request now
+OK   Boards of Canada — Blood In The Labyrinth | last aired 2026-10-16 09:33 | normal pick now | request now
 OK   Boards of Canada — Dayvan Cowboy | last aired 2026-10-15 12:48 | normal pick now | request now
 WAIT Boards of Canada — Olson | last aired 2026-10-17 17:26 | normal pick from 2026-10-19 17:26 | request from 2026-10-18 13:26
 OK   Boards of Canada — Roygbiv | last aired 2026-10-16 07:04 | normal pick now | request now
@@ -14,7 +14,7 @@ OK   Bobby Darin — Beyond the Sea | last aired 2026-10-14 01:55 | normal pick 
 WAIT Bobby Hutcherson — Stardust | last aired 2026-10-16 17:16 | normal pick from 2026-10-18 17:16 | request now
 OK   Bobby McFerrin — Common Threads | last aired 2026-10-16 03:37 | normal pick now | request now
 WAIT Bobby Vinton — Blue Velvet | last aired 2026-10-17 20:02 | normal pick from 2026-10-19 20:02 | request from 2026-10-18 16:02
-WAIT Bon Iver — Holocene | last aired 2026-10-16 09:43 | normal pick from 2026-10-18 09:43 | request now
+OK   Bon Iver — Holocene | last aired 2026-10-16 09:43 | normal pick now | request now
 WAIT Bon Iver — Skinny Love | last aired 2026-10-17 21:13 | normal pick from 2026-10-19 21:13 | request from 2026-10-18 17:13
 OK   Bon Jovi — Livin' On A Prayer | last aired 2026-10-14 19:19 | normal pick now | request now
 OK   Bon Jovi — You Give Love A Bad Name | last aired 2026-09-29 04:56 | normal pick now | request now

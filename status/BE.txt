@@ -1,14 +1,14 @@
-Track status, artists filed under BE (built Sun Oct 18, 2:05 AM PDT (09:05 UTC)). Times in UTC.
+Track status, artists filed under BE (built Sun Oct 18, 3:05 AM PDT (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Beach House — Bluebird | last aired 2026-10-11 03:23 | normal pick now | request now
-WAIT Beach House — Space Song | last aired 2026-10-16 09:49 | normal pick from 2026-10-18 09:49 | request now
+OK   Beach House — Space Song | last aired 2026-10-16 09:49 | normal pick now | request now
 OK   Beastie Boys — Sabotage | last aired 2026-10-11 20:50 | normal pick now | request now
 OK   Beatrice Rana — Keyboard Concerto No. 1 in D Minor, BWV 1052: I. Allegro | last aired 2026-10-11 19:13 | normal pick now | request now
 WAIT Beatrice Rana — Libertango (Arr. Yamamoto for Piano 4-Hands) | last aired 2026-10-16 11:54 | normal pick from 2026-10-18 11:54 | request from 2026-10-18 11:54
 OK   Beats by Luca — 52 CHICKEN NUGGET (McRave) | last aired 2026-09-12 18:15 | normal pick now | request now
 OK   Bebel Gilberto — Samba Da Benção | last aired 2026-10-15 03:31 | normal pick now | request now
-OK   Beck — Devils Haircut | last aired 2026-10-14 09:01 | normal pick now | request now
+WAIT Beck — Devils Haircut | last aired 2026-10-18 09:11 | normal pick from 2026-10-20 09:11 | request from 2026-10-19 05:11
 WAIT Beck — Loser | last aired 2026-10-16 20:04 | normal pick from 2026-10-18 20:04 | request now
 OK   Beck — The New Pollution | last aired 2026-10-11 04:45 | normal pick now | request now
 WAIT Becky Levi and the Nightjars — Wake Me Up | last aired 2026-10-18 02:06 | normal pick from 2026-10-20 02:06 | request from 2026-10-18 22:06
@@ -32,7 +32,7 @@ WAIT Bert Kaempfert — A Swingin' Safari | last aired 2026-10-17 23:48 | normal
 OK   Betty Carter — Moonlight in Vermont | last aired 2026-10-14 12:26 | normal pick now | request now
 OK   BETWEEN FRIENDS — affection | last aired 2026-10-16 01:26 | normal pick now | request now
 OK   Beyoncé — Crazy In Love | last aired 2026-10-08 07:30 | normal pick now | request now
-OK   Beyoncé — TEXAS HOLD 'EM | last aired 2026-10-11 09:37 | normal pick now | request now
+WAIT Beyoncé — TEXAS HOLD 'EM | last aired 2026-10-18 09:24 | normal pick from 2026-10-20 09:24 | request from 2026-10-19 05:24
 OK   The Beach Boys — God Only Knows (Stereo) | last aired 2026-10-15 16:02 | normal pick now | request now
 WAIT The Beach Boys — Good Vibrations (Stereo/Remastered 2012) | last aired 2026-10-16 20:41 | normal pick from 2026-10-18 20:41 | request now
 OK   The Beatles — A Day In The Life (2017 Mix) | last aired 2026-10-09 17:05 | normal pick now | request now
