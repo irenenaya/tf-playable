@@ -1,4 +1,4 @@
-Track status, artists filed under ST (built Sun Oct 18, 12:05 PM PDT (19:05 UTC)). Times in UTC.
+Track status, artists filed under ST (built Sun Oct 18, 1:05 PM PDT (20:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT St Germain — Rose rouge | last aired 2026-10-18 08:26 | normal pick from 2026-10-19 20:26 | request from 2026-10-19 04:26
@@ -13,7 +13,7 @@ OK   Steely Dan — Babylon Sisters | last aired 2026-10-17 00:49 | normal pick 
 WAIT Steely Dan — Home At Last | last aired 2026-10-17 13:01 | normal pick from 2026-10-19 01:01 | request now
 OK   Steely Dan — Jack of Speed (Album Version) | last aired 2026-10-12 20:39 | normal pick now | request now
 OK   Steely Dan — Kid Charlemagne | last aired 2026-09-29 15:12 | normal pick now | request now
-WAIT Steely Dan — Peg | last aired 2026-10-18 14:42 | normal pick from 2026-10-20 02:42 | request from 2026-10-19 10:42
+WAIT Steely Dan — Peg | last aired 2026-10-18 14:43 | normal pick from 2026-10-20 02:43 | request from 2026-10-19 10:43
 WAIT Steely Dan — Time Out Of Mind | last aired 2026-10-18 07:04 | normal pick from 2026-10-19 19:04 | request from 2026-10-19 03:04
 OK   Steve Miller Band — The Joker | last aired 2026-10-16 01:46 | normal pick now | request now
 OK   Steve Roach — Living the Dream | last aired 2026-10-13 19:39 | normal pick now | request now
@@ -31,7 +31,7 @@ OK   Stevie Wonder — Master Blaster (Jammin') | last aired 2026-10-15 10:47 | 
 OK   Stevie Wonder — Sir Duke | last aired 2026-10-14 00:11 | normal pick now | request now
 OK   Stevie Wonder — Summer Soft | last aired 2026-10-04 13:50 | normal pick now | request now
 WAIT Stevie Wonder — Superstition (Album Version) | last aired 2026-10-17 22:45 | normal pick from 2026-10-19 10:45 | request now
-OK   Stevie Wonder — You Haven't Done Nothin' | last aired 2026-10-11 00:40 | normal pick now | request now
+WAIT Stevie Wonder — You Haven't Done Nothin' | last aired 2026-10-18 19:33 | normal pick from 2026-10-20 19:33 | request from 2026-10-20 19:33
 OK   Still Woozy — Get Down | last aired 2026-10-14 16:21 | normal pick now | request now
 OK   Sting — Desert Rose (Album Version) | last aired 2026-10-17 02:46 | normal pick now | request now
 OK   Sting — Fields Of Gold (My Songs Version) | last aired 2026-10-15 16:27 | normal pick now | request now
