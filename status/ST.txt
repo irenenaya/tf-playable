@@ -1,4 +1,4 @@
-Track status, artists filed under ST (built Mon Oct 19, 1:05 AM PDT (08:05 UTC)). Times in UTC.
+Track status, artists filed under ST (built Mon Oct 19, 2:05 AM PDT (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT St Germain — Rose rouge | last aired 2026-10-18 08:26 | normal pick from 2026-10-19 20:26 | request now
@@ -6,7 +6,7 @@ OK   Stan Bush — The Touch | last aired 2026-10-14 19:40 | normal pick now | r
 WAIT Stan Getz — Corcovado (Quiet Nights Of Quiet Stars) | last aired 2026-10-17 10:21 | normal pick from 2026-10-19 10:21 | request from 2026-10-19 10:21
 OK   Stardust — Music Sounds Better With You | last aired 2026-10-17 04:03 | normal pick now | request now
 OK   Stars of the Lid — Requiem for Dying Mothers, Pt. 1 | last aired 2026-10-16 06:23 | normal pick now | request now
-WAIT Stars of the Lid — Requiem for Dying Mothers, Pt. 2 | last aired 2026-10-18 04:04 | normal pick from 2026-10-19 16:04 | request now
+WAIT Stars of the Lid — Requiem for Dying Mothers, Pt. 2 | last aired 2026-10-19 08:37 | normal pick from 2026-10-20 20:37 | request from 2026-10-20 04:37
 OK   Stealers Wheel — Stuck In The Middle With You | last aired 2026-10-16 06:02 | normal pick now | request now
 OK   Steely Dan — Almost Gothic (Album Version) | last aired 2026-10-16 20:51 | normal pick now | request now
 OK   Steely Dan — Babylon Sisters | last aired 2026-10-17 00:49 | normal pick now | request now
@@ -38,7 +38,7 @@ OK   Sting — Fields Of Gold (My Songs Version) | last aired 2026-10-15 16:27 |
 OK   Sting — Fragile | last aired 2026-10-17 00:00 | normal pick now | request now
 OK   Sting — If You Love Somebody Set Them Free (Single Edit) | last aired 2026-10-06 07:00 | normal pick now | request now
 OK   Sting — Shape Of My Heart (My Songs Version) | last aired 2026-10-17 15:21 | normal pick now | request now
-WAIT Stratovarius — Black Diamond | last aired 2026-10-18 12:54 | normal pick from 2026-10-20 00:54 | request from 2026-10-19 08:54
+WAIT Stratovarius — Black Diamond | last aired 2026-10-18 12:54 | normal pick from 2026-10-20 00:54 | request now
 OK   Studio Group — As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired 2026-08-08 23:18 | normal pick now | request now
 OK   Studio Group — Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired 2026-08-31 18:46 | normal pick now | request now
 OK   Styx — Mr. Roboto | last aired 2026-10-14 14:59 | normal pick now | request now

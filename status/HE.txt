@@ -1,4 +1,4 @@
-Track status, artists filed under HE (built Mon Oct 19, 1:05 AM PDT (08:05 UTC)). Times in UTC.
+Track status, artists filed under HE (built Mon Oct 19, 2:05 AM PDT (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Heathered Pearls — Pacific Summits (Pulse Version) | last aired 2026-10-16 07:06 | normal pick now | request now
@@ -6,7 +6,7 @@ OK   Hector Villalobos — Bachianas Brasileiras No. 5: I Aria (Cantilena) | las
 OK   Heejin — Algorithm | last aired 2026-10-15 08:20 | normal pick now | request now
 OK   Helado Negro — Brown Fluorescence | last aired 2026-10-15 18:34 | normal pick now | request now
 OK   Helen Forrest — It's Been A Long, Long Time | last aired 2026-10-13 01:57 | normal pick now | request now
-WAIT Helios — First Dream Called Ocean | last aired 2026-10-19 06:01 | normal pick from 2026-10-21 06:01 | request from 2026-10-21 06:01
+WAIT Helios — First Dream Called Ocean | last aired 2026-10-19 06:02 | normal pick from 2026-10-21 06:02 | request from 2026-10-21 06:02
 OK   Helloween — Eagle Fly Free (Remastered 2024) | last aired 2026-10-13 02:07 | normal pick now | request now
 OK   Hem — Betting on Trains (Remastered 2025) | last aired 2026-10-15 09:18 | normal pick now | request now
 WAIT Hem — Half Acre (Remastered 2025) | last aired 2026-10-18 09:08 | normal pick from 2026-10-19 21:08 | request now
@@ -19,5 +19,5 @@ OK   Herbert Grönemeyer — Mensch (Remastered 2016) | last aired 2026-10-05 14
 OK   Herbert Grönemeyer — Männer (Remastered 2016) | last aired 2026-10-09 11:50 | normal pick now | request now
 OK   Herbert Grönemeyer — Was soll das (Remastered 2016) | last aired 2026-10-09 00:56 | normal pick now | request now
 OK   Herbert Waltl — Brandenburg Concerto No. 3 in G Major, BWV 1048: I. Allegro | last aired 2026-10-16 07:46 | normal pick now | request now
-WAIT Herbie Hancock — Chameleon | last aired 2026-10-19 05:33 | normal pick from 2026-10-20 17:33 | request from 2026-10-20 01:33
+WAIT Herbie Hancock — Chameleon | last aired 2026-10-19 05:34 | normal pick from 2026-10-20 17:34 | request from 2026-10-20 01:34
 WAIT The Head And The Heart — Down in the Valley | last aired 2026-10-18 15:41 | normal pick from 2026-10-20 03:41 | request from 2026-10-19 11:41

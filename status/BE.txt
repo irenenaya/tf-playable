@@ -1,8 +1,8 @@
-Track status, artists filed under BE (built Mon Oct 19, 1:05 AM PDT (08:05 UTC)). Times in UTC.
+Track status, artists filed under BE (built Mon Oct 19, 2:05 AM PDT (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Beach House — Bluebird | last aired 2026-10-11 03:23 | normal pick now | request now
-WAIT Beach House — Space Song | last aired 2026-10-19 05:14 | normal pick from 2026-10-20 17:14 | request from 2026-10-20 01:14
+WAIT Beach House — Space Song | last aired 2026-10-19 05:15 | normal pick from 2026-10-21 05:15 | request from 2026-10-21 05:15
 OK   Beastie Boys — Sabotage | last aired 2026-10-11 20:50 | normal pick now | request now
 OK   Beatrice Rana — Keyboard Concerto No. 1 in D Minor, BWV 1052: I. Allegro | last aired 2026-10-11 19:13 | normal pick now | request now
 OK   Beatrice Rana — Libertango (Arr. Yamamoto for Piano 4-Hands) | last aired 2026-10-16 11:54 | normal pick now | request now
@@ -33,7 +33,7 @@ OK   Betty Carter — Moonlight in Vermont | last aired 2026-10-14 12:26 | norma
 OK   BETWEEN FRIENDS — affection | last aired 2026-10-16 01:26 | normal pick now | request now
 OK   Beyoncé — Crazy In Love | last aired 2026-10-08 07:30 | normal pick now | request now
 WAIT Beyoncé — TEXAS HOLD 'EM | last aired 2026-10-18 09:25 | normal pick from 2026-10-19 21:25 | request now
-WAIT The Beach Boys — God Only Knows (Stereo) | last aired 2026-10-19 03:47 | normal pick from 2026-10-20 15:47 | request from 2026-10-19 23:47
+WAIT The Beach Boys — God Only Knows (Stereo) | last aired 2026-10-19 03:48 | normal pick from 2026-10-20 15:48 | request from 2026-10-19 23:48
 OK   The Beach Boys — Good Vibrations (Stereo/Remastered 2012) | last aired 2026-10-16 20:41 | normal pick now | request now
 OK   The Beatles — A Day In The Life (2017 Mix) | last aired 2026-10-09 17:05 | normal pick now | request now
 OK   The Beatles — Get Back (2021 Mix) | last aired 2026-10-09 17:25 | normal pick now | request now

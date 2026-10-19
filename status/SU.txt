@@ -1,9 +1,9 @@
-Track status, artists filed under SU (built Mon Oct 19, 1:05 AM PDT (08:05 UTC)). Times in UTC.
+Track status, artists filed under SU (built Mon Oct 19, 2:05 AM PDT (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Suburban Kids With Biblical Names — Rent A Wreck | last aired 2026-10-17 12:33 | normal pick now | request now
 OK   Suede — Animal Nitrate | last aired 2026-10-04 19:04 | normal pick now | request now
-WAIT Sufjan Stevens — Casimir Pulaski Day | last aired 2026-10-19 04:37 | normal pick from 2026-10-20 16:37 | request from 2026-10-20 00:37
+WAIT Sufjan Stevens — Casimir Pulaski Day | last aired 2026-10-19 04:38 | normal pick from 2026-10-20 16:38 | request from 2026-10-20 00:38
 WAIT Sufjan Stevens — Fourth of July | last aired 2026-10-17 21:31 | normal pick from 2026-10-19 09:31 | request now
 WAIT Sufjan Stevens — Mystery of Love | last aired 2026-10-18 21:08 | normal pick from 2026-10-20 09:08 | request from 2026-10-19 17:08
 OK   Sufjan Stevens — Should Have Known Better | last aired 2026-10-17 18:31 | normal pick now | request now
@@ -21,7 +21,7 @@ WAIT Supertramp — Even In The Quietest Moments | last aired 2026-10-19 03:00 |
 OK   Survivor — Eye of the Tiger | last aired 2026-10-17 19:24 | normal pick now | request now
 OK   Susumu Yokota — Saku | last aired 2026-10-12 02:58 | normal pick now | request now
 OK   Suzanne Ciani — Improvisation On Four Sequences Pt.1 | last aired 2026-10-16 02:39 | normal pick now | request now
-WAIT Suzanne Ciani — Oceanium | last aired 2026-10-18 03:09 | normal pick from 2026-10-20 03:09 | request from 2026-10-20 03:09
-WAIT The Sundays — Folk Song | last aired 2026-10-19 07:05 | normal pick from 2026-10-21 07:05 | request from 2026-10-21 07:05
+WAIT Suzanne Ciani — Oceanium | last aired 2026-10-18 03:09 | normal pick from 2026-10-19 15:09 | request now
+WAIT The Sundays — Folk Song | last aired 2026-10-19 07:06 | normal pick from 2026-10-21 07:06 | request from 2026-10-21 07:06
 OK   The Sundays — Wild Horses | last aired 2026-10-17 10:12 | normal pick now | request now
 WAIT The Supremes — Automatically Sunshine | last aired 2026-10-17 11:58 | normal pick from 2026-10-19 11:58 | request from 2026-10-19 11:58
