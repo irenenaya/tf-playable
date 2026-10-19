@@ -1,10 +1,10 @@
-Track status, artists filed under JO (built Sun Oct 18, 11:05 PM PDT (06:05 UTC Mon)). Times in UTC.
+Track status, artists filed under JO (built Mon Oct 19, 12:05 AM PDT (07:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-10-12 10:35 | normal pick now | request now
 OK   Jockstrap — Concrete Over Water | last aired 2026-10-15 18:09 | normal pick now | request now
 OK   Joe Cocker — With A Little Help From My Friends | last aired 2026-10-14 22:18 | normal pick now | request now
-OK   Joe Hisaishi — A Town with an Ocean View (from 'Kiki's Delivery Service') | last aired 2026-09-27 18:13 | normal pick now | request now
+WAIT Joe Hisaishi — A Town with an Ocean View (from 'Kiki's Delivery Service') | last aired 2026-10-19 06:24 | normal pick from 2026-10-20 18:24 | request from 2026-10-20 02:24
 OK   Joe Hisaishi — a Wish to the Moon | last aired 2026-10-16 23:32 | normal pick now | request now
 OK   Joe Hisaishi — Asian Dream Song | last aired 2026-10-15 07:24 | normal pick now | request now
 OK   Joe Hisaishi — Deep Sea Pastures (from 'Ponyo on the Cliff by the Sea') | last aired 2026-10-17 06:55 | normal pick now | request now
@@ -27,7 +27,7 @@ WAIT John Lee Hooker — Boom Boom | last aired 2026-10-18 12:24 | normal pick f
 WAIT John Lee Hooker — I Cover the Waterfront | last aired 2026-10-18 09:01 | normal pick from 2026-10-19 21:01 | request now
 OK   John Lennon — Give Peace A Chance (Remastered 2010) | last aired 2026-10-13 04:40 | normal pick now | request now
 OK   John Lennon — Imagine (Remastered 2010) | last aired 2026-10-14 00:42 | normal pick now | request now
-WAIT John Lennon — Instant Karma! (We All Shine On) (Ultimate Mix) | last aired 2026-10-18 10:13 | normal pick from 2026-10-19 22:13 | request from 2026-10-19 06:13
+WAIT John Lennon — Instant Karma! (We All Shine On) (Ultimate Mix) | last aired 2026-10-18 10:13 | normal pick from 2026-10-19 22:13 | request now
 OK   John Lennon — Watching The Wheels (Remastered 2010) | last aired 2026-10-16 16:48 | normal pick now | request now
 OK   John Mayer — New Light | last aired 2026-10-15 22:48 | normal pick now | request now
 OK   John McLaughlin — You Know, You Know (Album Version) | last aired 2026-10-08 15:40 | normal pick now | request now
