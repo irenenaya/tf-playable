@@ -1,4 +1,4 @@
-Track status, artists filed under MI (built Mon Oct 19, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, artists filed under MI (built Mon Oct 19, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Mica Levi — Love | last aired 2026-10-07 05:28 | normal pick now | request now
@@ -11,16 +11,16 @@ OK   Michael Jackson — Jam | last aired 2026-10-13 00:47 | normal pick now | r
 OK   Michael Jackson — Morphine (Album Version) | last aired 2026-10-13 15:32 | normal pick now | request now
 OK   Michael Jackson — Rock with You (Single Version) | last aired 2026-10-09 21:38 | normal pick now | request now
 OK   Michael Jackson — Stranger in Moscow | last aired 2026-10-14 13:09 | normal pick now | request now
-OK   Michael Jackson — Thriller | last aired 2026-10-08 20:43 | normal pick now | request now
+WAIT Michael Jackson — Thriller | last aired 2026-10-19 15:44 | normal pick from 2026-10-21 03:44 | request from 2026-10-20 11:44
 OK   Michael Jackson — Who Is It | last aired 2026-10-06 12:08 | normal pick now | request now
-WAIT Michael Jackson — You Are Not Alone | last aired 2026-10-18 19:37 | normal pick from 2026-10-20 07:37 | request from 2026-10-19 15:37
+WAIT Michael Jackson — You Are Not Alone | last aired 2026-10-18 19:37 | normal pick from 2026-10-20 07:37 | request now
 WAIT Michael McDonald — I Keep Forgettin' (Every Time You're Near) | last aired 2026-10-19 11:04 | normal pick from 2026-10-21 11:04 | request from 2026-10-21 11:04
 WAIT MIKA — Grace Kelly | last aired 2026-10-18 15:11 | normal pick from 2026-10-20 03:11 | request now
 OK   Mike Marshall — Big Country (Instrumental) | last aired 2026-10-15 16:34 | normal pick now | request now
 OK   Mike Oldfield — Moonlight Shadow | last aired 2026-10-03 22:12 | normal pick now | request now
 OK   Mikis Theodorakis — Zorba the Greek:  Zorba's Dance | last aired 2026-10-15 08:12 | normal pick now | request now
 OK   Miles Davis — Blue in Green | last aired 2026-10-16 17:00 | normal pick now | request now
-WAIT Miles Davis — Flamenco Sketches | last aired 2026-10-18 19:52 | normal pick from 2026-10-20 07:52 | request from 2026-10-19 15:52
+WAIT Miles Davis — Flamenco Sketches | last aired 2026-10-18 19:52 | normal pick from 2026-10-20 07:52 | request now
 OK   Miles Davis — So What | last aired 2026-10-17 23:33 | normal pick now | request now
 WAIT Miley Cyrus — Flowers | last aired 2026-10-18 15:56 | normal pick from 2026-10-20 03:56 | request now
 WAIT Miley Cyrus — Party In The U.S.A. | last aired 2026-10-18 10:36 | normal pick from 2026-10-19 22:36 | request now

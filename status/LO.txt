@@ -1,8 +1,8 @@
-Track status, artists filed under LO (built Mon Oct 19, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, artists filed under LO (built Mon Oct 19, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Lofi Fruits Music — Plastic Love | last aired 2026-10-18 17:57 | normal pick from 2026-10-20 05:57 | request now
-WAIT Lofi Lia — Tell Your World (From "Hatsune Miku")  (Lofi Remix) | last aired 2026-10-18 03:26 | normal pick from 2026-10-19 15:26 | request now
+OK   Lofi Lia — Tell Your World (From "Hatsune Miku")  (Lofi Remix) | last aired 2026-10-18 03:26 | normal pick now | request now
 OK   London Symphony Orchestra — Duel of the Fates | last aired 2026-10-13 11:06 | normal pick now | request now
 OK   LoneGray — Tell Your World | last aired 2026-10-15 15:43 | normal pick now | request now
 WAIT Lord Huron — Life Is Strange | last aired 2026-10-18 20:13 | normal pick from 2026-10-20 20:13 | request from 2026-10-20 20:13
