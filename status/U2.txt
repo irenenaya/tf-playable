@@ -1,4 +1,4 @@
-Track status, artists filed under U2 (built Mon Oct 19, 2:05 PM PDT (21:05 UTC)). Times in UTC.
+Track status, artists filed under U2 (built Mon Oct 19, 3:05 PM PDT (22:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   U2 — All Along The Watchtower (Live - Rattle & Hum Version) | last aired 2026-10-13 00:24 | normal pick now | request now
@@ -7,5 +7,5 @@ OK   U2 — Beautiful Day (Remastered 2020) | last aired 2026-10-14 04:36 | norm
 OK   U2 — New Year's Day (Remastered 2008) | last aired 2026-10-06 13:34 | normal pick now | request now
 OK   U2 — One (Remastered 2011) | last aired 2026-09-19 22:20 | normal pick now | request now
 OK   U2 — The Fly (Remastered 2011) | last aired 2026-10-13 17:59 | normal pick now | request now
-WAIT U2 — When Love Comes To Town (Album Version) | last aired 2026-10-19 01:40 | normal pick from 2026-10-20 13:40 | request from 2026-10-19 21:40
+WAIT U2 — When Love Comes To Town (Album Version) | last aired 2026-10-19 01:40 | normal pick from 2026-10-20 13:40 | request now
 WAIT U2 — Where The Streets Have No Name (Remastered 2007) | last aired 2026-10-18 17:12 | normal pick from 2026-10-20 05:12 | request now

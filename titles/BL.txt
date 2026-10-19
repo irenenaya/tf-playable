@@ -1,4 +1,4 @@
-Track status, song titles filed under BL (built Mon Oct 19, 2:05 PM PDT (21:05 UTC)). Times in UTC.
+Track status, song titles filed under BL (built Mon Oct 19, 3:05 PM PDT (22:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Black Diamond — Stratovarius | last aired 2026-10-18 12:54 | normal pick from 2026-10-20 00:54 | request now
@@ -16,7 +16,7 @@ WAIT Blessed with a Curse — Bring Me The Horizon | last aired 2026-10-18 10:42
 OK   Blinding Lights — The Weeknd | last aired 2026-10-06 15:43 | normal pick now | request now
 OK   Blitzkrieg Bop — Ramones | last aired 2026-10-18 00:43 | normal pick now | request now
 WAIT Blood In The Labyrinth — Boards of Canada | last aired 2026-10-19 09:00 | normal pick from 2026-10-20 21:00 | request from 2026-10-20 05:00
-WAIT Bloodbuzz Ohio (Live in Rome) — The National | last aired 2026-10-19 01:22 | normal pick from 2026-10-20 13:22 | request from 2026-10-19 21:22
+WAIT Bloodbuzz Ohio (Live in Rome) — The National | last aired 2026-10-19 01:22 | normal pick from 2026-10-20 13:22 | request now
 OK   Bloom — Airiel | last aired 2026-09-15 08:41 | normal pick now | request now
 OK   Blue (Flume Remix) — Eiffel 65 | last aired 2026-10-17 20:38 | normal pick now | request now
 OK   Blue Hotel  (Remastered Album Version) — Chris Isaak | last aired 2026-10-17 19:59 | normal pick now | request now
@@ -28,4 +28,4 @@ OK   Blue Moon Of Kentucky — Bill Monroe & His Blue Grass Boys | last aired 20
 OK   Blue Room  (Live) — The Orb | last aired 2026-10-17 20:43 | normal pick now | request now
 OK   Blue Velvet — Bobby Vinton | last aired 2026-10-17 20:02 | normal pick now | request now
 OK   Bluebird — Beach House | last aired 2026-10-11 03:23 | normal pick now | request now
-WAIT The Blower's Daughter — Damien Rice | last aired 2026-10-17 21:36 | normal pick from 2026-10-19 21:36 | request from 2026-10-19 21:36
+OK   The Blower's Daughter — Damien Rice | last aired 2026-10-17 21:36 | normal pick now | request now

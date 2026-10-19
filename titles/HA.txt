@@ -1,8 +1,8 @@
-Track status, song titles filed under HA (built Mon Oct 19, 2:05 PM PDT (21:05 UTC)). Times in UTC.
+Track status, song titles filed under HA (built Mon Oct 19, 3:05 PM PDT (22:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Halah — Mazzy Star | last aired 2026-10-18 23:06 | normal pick from 2026-10-20 23:06 | request from 2026-10-20 23:06
-WAIT Half Acre (Remastered 2025) — Hem | last aired 2026-10-18 09:08 | normal pick from 2026-10-19 21:08 | request now
+OK   Half Acre (Remastered 2025) — Hem | last aired 2026-10-18 09:08 | normal pick now | request now
 OK   Hall of Fame — The Script feat. will.i.am | last aired 2026-10-17 01:55 | normal pick now | request now
 WAIT Hallelujah — Jeff Buckley | last aired 2026-10-18 21:50 | normal pick from 2026-10-20 09:50 | request now
 OK   Hallelujah — Leonard Cohen | last aired 2026-10-13 00:14 | normal pick now | request now
@@ -15,7 +15,7 @@ OK   Hard Times — The Jetzons | last aired 2026-10-16 11:13 | normal pick now 
 OK   Hard to Say I'M Sorry / Get Away — Chicago | last aired 2026-10-15 23:20 | normal pick now | request now
 OK   Hardcore Vibes — Dúné | last aired 2026-10-15 19:09 | normal pick now | request now
 OK   Harder, Better, Faster, Stronger — Daft Punk | last aired 2026-10-13 14:47 | normal pick now | request now
-WAIT Hardline — Julien Baker | last aired 2026-10-17 21:17 | normal pick from 2026-10-19 21:17 | request from 2026-10-19 21:17
+OK   Hardline — Julien Baker | last aired 2026-10-17 21:17 | normal pick now | request now
 OK   Harmony in Blue I — Tim Hecker | last aired 2026-10-17 08:39 | normal pick now | request now
 OK   Haru No Iutoori — indigo la End | last aired 2026-10-09 08:01 | normal pick now | request now
 OK   Harvest Moon (Album Version) — Neil Young | last aired 2026-10-12 20:17 | normal pick now | request now
