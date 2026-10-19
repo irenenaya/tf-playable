@@ -1,17 +1,17 @@
-Track status, artists filed under DO (built Mon Oct 19, 4:05 AM PDT (11:05 UTC)). Times in UTC.
+Track status, artists filed under DO (built Mon Oct 19, 5:05 AM PDT (12:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Dolly Parton — 9 to 5 | last aired 2026-10-12 03:54 | normal pick now | request now
 OK   Dolly Parton — Coat of Many Colors | last aired 2026-10-16 21:09 | normal pick now | request now
 OK   Dolly Parton — I Dreamed About Elvis | last aired 2026-10-17 13:19 | normal pick now | request now
 OK   Dolly Parton — I Will Always Love You | last aired 2026-10-14 01:49 | normal pick now | request now
-WAIT Dolly Parton — Jolene | last aired 2026-10-17 23:12 | normal pick from 2026-10-19 11:12 | request now
+OK   Dolly Parton — Jolene | last aired 2026-10-17 23:12 | normal pick now | request now
 WAIT Don McLean — Vincent | last aired 2026-10-19 00:49 | normal pick from 2026-10-21 00:49 | request from 2026-10-21 00:49
 OK   Donald Fagen — The Nightfly | last aired 2026-10-13 07:57 | normal pick now | request now
 OK   Donna De Lory — Praying For Love | last aired 2026-10-16 04:34 | normal pick now | request now
 OK   Donna Summer — I Feel Love | last aired 2026-10-15 10:26 | normal pick now | request now
 WAIT Donny Hathaway — A Song for You | last aired 2026-10-18 22:23 | normal pick from 2026-10-20 22:23 | request from 2026-10-20 22:23
-OK   Donny Hathaway — Jealous Guy  (Live) | last aired 2026-10-13 13:04 | normal pick now | request now
+WAIT Donny Hathaway — Jealous Guy  (Live) | last aired 2026-10-19 11:33 | normal pick from 2026-10-20 23:33 | request from 2026-10-20 07:33
 OK   Dope Lemon — Honey Bones | last aired 2026-10-17 10:40 | normal pick now | request now
 OK   Dorian Electra — Bizarre Love Triangle | last aired 2026-10-14 13:02 | normal pick now | request now
 OK   Dorian Electra — Feel Good Inc. | last aired 2026-10-13 13:58 | normal pick now | request now
