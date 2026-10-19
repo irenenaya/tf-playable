@@ -1,4 +1,4 @@
-Track status, song titles filed under MA (built Mon Oct 19, 1:05 PM PDT (20:05 UTC)). Times in UTC.
+Track status, song titles filed under MA (built Mon Oct 19, 2:05 PM PDT (21:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Mad World — Gary Jules | last aired 2026-10-13 20:23 | normal pick now | request now
@@ -7,7 +7,7 @@ OK   Madder — Groove Armada | last aired 2026-10-16 22:04 | normal pick now | 
 OK   Madwoman — Laufey | last aired 2026-10-14 21:08 | normal pick now | request now
 WAIT Magic Wanda — Daikaiju | last aired 2026-10-18 17:34 | normal pick from 2026-10-20 05:34 | request now
 OK   Main Theme — Filippo Beck Peccoz | last aired 2026-10-11 11:40 | normal pick now | request now
-WAIT Mais je t'aime — Grand Corps Malade | last aired 2026-10-18 08:14 | normal pick from 2026-10-19 20:14 | request now
+OK   Mais je t'aime — Grand Corps Malade | last aired 2026-10-18 08:14 | normal pick now | request now
 OK   Make a Wish — Azawi | last aired 2026-10-11 05:57 | normal pick now | request now
 OK   Make Me Feel — Janelle Monáe | last aired 2026-10-14 20:45 | normal pick now | request now
 OK   MALAMENTE (Cap.1: Augurio) — ROSALÍA | last aired 2026-10-15 13:29 | normal pick now | request now
@@ -20,7 +20,7 @@ OK   Marunouchi sadistic (Cover) — Mizuki Tomoda | last aired 2026-10-17 14:46
 WAIT Mary — Big Thief | last aired 2026-10-19 03:17 | normal pick from 2026-10-20 15:17 | request from 2026-10-19 23:17
 WAIT Mas, Que Nada! — Jorge Ben Jor | last aired 2026-10-19 12:14 | normal pick from 2026-10-21 12:14 | request from 2026-10-21 12:14
 OK   Mass Production — Iggy Pop | last aired 2026-10-15 19:52 | normal pick now | request now
-WAIT Master Blaster (Jammin') — Stevie Wonder | last aired 2026-10-19 19:31 | normal pick from 2026-10-21 07:31 | request from 2026-10-20 15:31
+WAIT Master Blaster (Jammin') — Stevie Wonder | last aired 2026-10-19 19:32 | normal pick from 2026-10-21 19:32 | request from 2026-10-21 19:32
 OK   Master of Puppets  (Live at Irvine Meadows Amphitheatre, Irvine, CA, 8/4/1996) — Metallica | last aired 2026-10-13 13:45 | normal pick now | request now
 OK   Matte Kudasai — King Crimson | last aired 2026-10-10 15:54 | normal pick now | request now
 OK   Maureen — Martin Ditcham | last aired 2026-08-18 22:36 | normal pick now | request now
