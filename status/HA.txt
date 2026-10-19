@@ -1,4 +1,4 @@
-Track status, artists filed under HA (built Mon Oct 19, 2:05 AM PDT (09:05 UTC)). Times in UTC.
+Track status, artists filed under HA (built Mon Oct 19, 3:05 AM PDT (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Haddaway — What Is Love (7" Mix) (Remastered 2025) (7" Mix / Remastered 2025) | last aired 2026-10-12 04:18 | normal pick now | request now
@@ -9,7 +9,7 @@ OK   Halo — Halo Theme Mjolnir Mix | last aired 2026-09-21 03:04 | normal pick
 OK   Hammerfall — Hearts On Fire | last aired 2026-10-06 09:48 | normal pick now | request now
 WAIT Hammock — Maybe They Will Sing for Us Tomorrow | last aired 2026-10-19 08:05 | normal pick from 2026-10-20 20:05 | request from 2026-10-20 04:05
 WAIT Hammock — Tape Recorder | last aired 2026-10-19 05:20 | normal pick from 2026-10-20 17:20 | request from 2026-10-20 01:20
-WAIT Hania Rani — Eden | last aired 2026-10-17 09:14 | normal pick from 2026-10-19 09:14 | request from 2026-10-19 09:14
+OK   Hania Rani — Eden | last aired 2026-10-17 09:14 | normal pick now | request now
 WAIT Hania Rani — Glass | last aired 2026-10-18 06:06 | normal pick from 2026-10-20 06:06 | request from 2026-10-20 06:06
 OK   Hank Williams — I'm So Lonesome I Could Cry (Single Version) | last aired 2026-10-15 16:31 | normal pick now | request now
 OK   Hans Tanz — Neues Land | last aired 2026-10-16 19:36 | normal pick now | request now
@@ -22,7 +22,7 @@ WAIT Harold Budd — A Stream With Bright Fish (2005 Digital Remaster) | last ai
 OK   Harold Budd — Lost In The Humming Air (2005 Digital Remaster) | last aired 2026-10-16 06:14 | normal pick now | request now
 OK   Harris Jayaraj — Adiyae Kolluthey (From "Vaaranam Aayiram") | last aired 2026-10-16 11:25 | normal pick now | request now
 OK   Harry Styles — As It Was | last aired 2026-10-15 17:33 | normal pick now | request now
-OK   Harry Styles — Watermelon Sugar | last aired 2026-10-10 14:45 | normal pick now | request now
+WAIT Harry Styles — Watermelon Sugar | last aired 2026-10-19 09:26 | normal pick from 2026-10-20 21:26 | request from 2026-10-20 05:26
 OK   Haute & Freddy — Dance The Pain Away | last aired 2026-10-14 14:01 | normal pick now | request now
 OK   Haute & Freddy — Shy Girl | last aired 2026-10-16 18:08 | normal pick now | request now
 OK   Hayley Williams — Simmer  (Acoustic) | last aired 2026-10-15 21:21 | normal pick now | request now

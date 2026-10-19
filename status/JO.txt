@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Mon Oct 19, 2:05 AM PDT (09:05 UTC)). Times in UTC.
+Track status, artists filed under JO (built Mon Oct 19, 3:05 AM PDT (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-10-12 10:35 | normal pick now | request now
@@ -47,7 +47,7 @@ WAIT Joni Mitchell — A Case of You | last aired 2026-10-18 21:22 | normal pick
 OK   Joni Mitchell — At Last (LP Version) | last aired 2026-09-04 00:09 | normal pick now | request now
 OK   Joni Mitchell — River | last aired 2026-10-13 12:16 | normal pick now | request now
 OK   Jorge Ben Jor — Mas, Que Nada! | last aired 2026-10-16 00:44 | normal pick now | request now
-WAIT Josh Rouse — 1972 | last aired 2026-10-18 14:04 | normal pick from 2026-10-20 02:04 | request from 2026-10-19 10:04
+WAIT Josh Rouse — 1972 | last aired 2026-10-18 14:04 | normal pick from 2026-10-20 02:04 | request now
 OK   Josh Rouse — Street Lights | last aired 2026-10-15 18:29 | normal pick now | request now
 WAIT José González — Heartbeats | last aired 2026-10-18 20:18 | normal pick from 2026-10-20 20:18 | request from 2026-10-20 20:18
 WAIT Journey — Don't Stop Believin' (Album Version) | last aired 2026-10-18 16:32 | normal pick from 2026-10-20 04:32 | request from 2026-10-19 12:32

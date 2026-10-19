@@ -1,4 +1,4 @@
-Track status, artists filed under ST (built Mon Oct 19, 2:05 AM PDT (09:05 UTC)). Times in UTC.
+Track status, artists filed under ST (built Mon Oct 19, 3:05 AM PDT (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT St Germain — Rose rouge | last aired 2026-10-18 08:26 | normal pick from 2026-10-19 20:26 | request now
@@ -23,7 +23,7 @@ OK   Stevie Wonder — As | last aired 2026-10-03 00:55 | normal pick now | requ
 WAIT Stevie Wonder — Go Home | last aired 2026-10-18 00:50 | normal pick from 2026-10-19 12:50 | request now
 OK   Stevie Wonder — Golden Lady | last aired 2026-10-16 13:01 | normal pick now | request now
 OK   Stevie Wonder — Happy Birthday | last aired 2026-09-29 18:47 | normal pick now | request now
-OK   Stevie Wonder — Higher Ground (Album Version) | last aired 2026-10-13 16:23 | normal pick now | request now
+WAIT Stevie Wonder — Higher Ground (Album Version) | last aired 2026-10-19 09:50 | normal pick from 2026-10-20 21:50 | request from 2026-10-20 05:50
 OK   Stevie Wonder — I Wish | last aired 2026-10-17 00:17 | normal pick now | request now
 OK   Stevie Wonder — Isn't She Lovely | last aired 2026-10-14 09:47 | normal pick now | request now
 OK   Stevie Wonder — Living For The City (Album Version) | last aired 2026-10-03 14:57 | normal pick now | request now
