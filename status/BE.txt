@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Mon Oct 19, 10:05 AM PDT (17:05 UTC)). Times in UTC.
+Track status, artists filed under BE (built Mon Oct 19, 11:05 AM PDT (18:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Beach House — Bluebird | last aired 2026-10-11 03:23 | normal pick now | request now
@@ -18,7 +18,7 @@ OK   Belcea Quartet — Quatuor à cordes n° 4, Sz. 91 - String Quartet No. 4 i
 OK   Belle and Sebastian — The Boy with the Arab Strap | last aired 2026-10-17 10:02 | normal pick now | request now
 OK   Ben Allison — D.A.V.E. | last aired 2026-10-17 06:41 | normal pick now | request now
 OK   Ben E. King — Stand By Me | last aired 2026-10-14 00:46 | normal pick now | request now
-WAIT Ben Harper — Yard Sale | last aired 2026-10-18 21:37 | normal pick from 2026-10-20 09:37 | request from 2026-10-19 17:37
+WAIT Ben Harper — Yard Sale | last aired 2026-10-18 21:37 | normal pick from 2026-10-20 09:37 | request now
 OK   Ben&Ben — Leaves | last aired 2026-10-16 04:44 | normal pick now | request now
 OK   Ben&Ben — Maybe The Night | last aired 2026-10-08 16:41 | normal pick now | request now
 OK   Benjamin Francis Leftwich — Ticket To Ride | last aired 2026-10-16 08:22 | normal pick now | request now
@@ -42,7 +42,7 @@ OK   The Beatles — Golden Slumbers (Remastered) | last aired 2026-10-09 11:31 
 OK   The Beatles — Here Comes The Sun (2019 Mix) | last aired 2026-10-14 00:19 | normal pick now | request now
 OK   The Beatles — Lucy In The Sky With Diamonds (Remastered 2009) | last aired 2026-10-09 17:10 | normal pick now | request now
 OK   The Beatles — Octopus's Garden (Remastered) | last aired 2026-10-17 23:45 | normal pick now | request now
-WAIT The Beatles — Rain (Remastered) | last aired 2026-10-18 05:49 | normal pick from 2026-10-19 17:49 | request now
+OK   The Beatles — Rain (Remastered) | last aired 2026-10-18 05:49 | normal pick now | request now
 OK   The Beatles — Revolution 9 (Remastered 2009) | last aired 2026-09-14 19:37 | normal pick now | request now
 OK   The Beatles — Strawberry Fields Forever | last aired 2026-10-14 19:15 | normal pick now | request now
 OK   The Beatles — This Boy (Remastered) | last aired 2026-10-18 02:47 | normal pick now | request now

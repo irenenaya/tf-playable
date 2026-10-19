@@ -1,10 +1,10 @@
-Track status, artists filed under SI (built Mon Oct 19, 10:05 AM PDT (17:05 UTC)). Times in UTC.
+Track status, artists filed under SI (built Mon Oct 19, 11:05 AM PDT (18:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Siddhartha — 00:00 | last aired 2026-10-18 14:39 | normal pick from 2026-10-20 14:39 | request from 2026-10-20 14:39
 OK   Side-A — Only You (There Will Never Be Another) | last aired 2026-10-14 07:17 | normal pick now | request now
 WAIT Sigur Rós — Hoppípolla | last aired 2026-10-19 04:06 | normal pick from 2026-10-21 04:06 | request from 2026-10-21 04:06
-OK   Sigur Rós — Starálfur | last aired 2026-10-15 12:13 | normal pick now | request now
+WAIT Sigur Rós — Starálfur | last aired 2026-10-19 17:46 | normal pick from 2026-10-21 05:46 | request from 2026-10-20 13:46
 WAIT Sigur Rós — Sé Lest | last aired 2026-10-18 11:15 | normal pick from 2026-10-19 23:15 | request now
 OK   Sigur Rós — Untitled #3  (Samskeyti) | last aired 2026-10-17 18:55 | normal pick now | request now
 OK   Silverchair — Ana's Song (Open Fire) | last aired 2026-10-15 19:37 | normal pick now | request now
@@ -16,7 +16,7 @@ OK   Simon Trpčeski — Suite bergamasque, CD 82, L. 75: III. Clair de lune | l
 OK   Simple Minds — Alive And Kicking (Remastered 2002) | last aired 2026-10-15 22:51 | normal pick now | request now
 WAIT Simple Minds — Don't You (Forget About Me) | last aired 2026-10-17 19:32 | normal pick from 2026-10-19 19:32 | request from 2026-10-19 19:32
 OK   Simple Minds — Someone Somewhere (In Summertime) | last aired 2026-10-11 16:53 | normal pick now | request now
-OK   Sinéad O'Connor — Nothing Compares 2 U (2009 Remaster) | last aired 2026-10-14 22:52 | normal pick now | request now
+WAIT Sinéad O'Connor — Nothing Compares 2 U (2009 Remaster) | last aired 2026-10-19 17:34 | normal pick from 2026-10-21 05:34 | request from 2026-10-20 13:34
 WAIT Siouxsie & The Banshees — Cities In Dust (Single Version) | last aired 2026-10-19 15:27 | normal pick from 2026-10-21 03:27 | request from 2026-10-20 11:27
 OK   Siouxsie & The Banshees — Spellbound | last aired 2026-10-14 21:19 | normal pick now | request now
 OK   Sir David Willcocks — 5 Tudor Portraits: No. 5, Scherzo. Jolly Rutterkin | last aired 2026-10-17 13:40 | normal pick now | request now
