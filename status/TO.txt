@@ -1,4 +1,4 @@
-Track status, artists filed under TO (built Mon Oct 19, 5:05 AM PDT (12:05 UTC)). Times in UTC.
+Track status, artists filed under TO (built Mon Oct 19, 6:05 AM PDT (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   toe — Goodbye (Live) | last aired 2026-10-16 23:23 | normal pick now | request now
@@ -24,7 +24,7 @@ OK   Tom Petty — Runnin' Down A Dream | last aired 2026-10-14 20:09 | normal p
 WAIT Tom Waits — House Where Nobody Lives | last aired 2026-10-18 23:10 | normal pick from 2026-10-20 11:10 | request from 2026-10-19 19:10
 OK   Tomaso Albinoni — Adagio in G Minor | last aired 2026-10-17 06:21 | normal pick now | request now
 OK   Tomohisa Okudo — Always with Me | last aired 2026-10-16 08:18 | normal pick now | request now
-WAIT Toni Braxton — Un-Break My Heart | last aired 2026-10-18 16:58 | normal pick from 2026-10-20 04:58 | request from 2026-10-19 12:58
+WAIT Toni Braxton — Un-Break My Heart | last aired 2026-10-18 16:58 | normal pick from 2026-10-20 04:58 | request now
 WAIT Tonto's Expanding Head Band — Cybernaut | last aired 2026-10-18 15:19 | normal pick from 2026-10-20 03:19 | request now
 OK   Tony Bennett & Faith Hill — The Way You Look Tonight | last aired 2026-10-13 01:23 | normal pick now | request now
 OK   TOOL — Lateralus | last aired 2026-10-13 10:04 | normal pick now | request now
@@ -33,5 +33,5 @@ OK   Tori Amos — Rattlesnakes | last aired 2026-10-17 01:30 | normal pick now 
 OK   Tori Amos — Winter | last aired 2026-10-13 07:48 | normal pick now | request now
 WAIT Toto — Africa | last aired 2026-10-18 16:03 | normal pick from 2026-10-20 16:03 | request from 2026-10-20 16:03
 OK   Toto — Georgy Porgy (album version) | last aired 2026-10-17 08:34 | normal pick now | request now
-WAIT Toto — Rosanna (Album Version) | last aired 2026-10-19 10:48 | normal pick from 2026-10-20 22:48 | request from 2026-10-20 06:48
+WAIT Toto — Rosanna (Album Version) | last aired 2026-10-19 10:49 | normal pick from 2026-10-21 10:49 | request from 2026-10-21 10:49
 OK   Tove Lo — No One Dies From Love | last aired 2026-10-15 17:29 | normal pick now | request now

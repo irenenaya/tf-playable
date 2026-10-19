@@ -1,4 +1,4 @@
-Track status, artists filed under ST (built Mon Oct 19, 5:05 AM PDT (12:05 UTC)). Times in UTC.
+Track status, artists filed under ST (built Mon Oct 19, 6:05 AM PDT (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT St Germain — Rose rouge | last aired 2026-10-18 08:26 | normal pick from 2026-10-19 20:26 | request now
@@ -6,7 +6,7 @@ OK   Stan Bush — The Touch | last aired 2026-10-14 19:40 | normal pick now | r
 OK   Stan Getz — Corcovado (Quiet Nights Of Quiet Stars) | last aired 2026-10-17 10:21 | normal pick now | request now
 OK   Stardust — Music Sounds Better With You | last aired 2026-10-17 04:03 | normal pick now | request now
 OK   Stars of the Lid — Requiem for Dying Mothers, Pt. 1 | last aired 2026-10-16 06:23 | normal pick now | request now
-WAIT Stars of the Lid — Requiem for Dying Mothers, Pt. 2 | last aired 2026-10-19 08:37 | normal pick from 2026-10-20 20:37 | request from 2026-10-20 04:37
+WAIT Stars of the Lid — Requiem for Dying Mothers, Pt. 2 | last aired 2026-10-19 08:38 | normal pick from 2026-10-21 08:38 | request from 2026-10-21 08:38
 OK   Stealers Wheel — Stuck In The Middle With You | last aired 2026-10-16 06:02 | normal pick now | request now
 OK   Steely Dan — Almost Gothic (Album Version) | last aired 2026-10-16 20:51 | normal pick now | request now
 OK   Steely Dan — Babylon Sisters | last aired 2026-10-17 00:49 | normal pick now | request now
@@ -20,10 +20,10 @@ OK   Steve Roach — Living the Dream | last aired 2026-10-13 19:39 | normal pic
 WAIT Stevie Ray Vaughan & Double Trouble — Pride and Joy | last aired 2026-10-19 01:27 | normal pick from 2026-10-21 01:27 | request from 2026-10-21 01:27
 OK   Stevie Ray Vaughan & Double Trouble — Riviera Paradise | last aired 2026-10-17 08:07 | normal pick now | request now
 OK   Stevie Wonder — As | last aired 2026-10-03 00:55 | normal pick now | request now
-WAIT Stevie Wonder — Go Home | last aired 2026-10-18 00:50 | normal pick from 2026-10-19 12:50 | request now
+OK   Stevie Wonder — Go Home | last aired 2026-10-18 00:50 | normal pick now | request now
 OK   Stevie Wonder — Golden Lady | last aired 2026-10-16 13:01 | normal pick now | request now
 OK   Stevie Wonder — Happy Birthday | last aired 2026-09-29 18:47 | normal pick now | request now
-WAIT Stevie Wonder — Higher Ground (Album Version) | last aired 2026-10-19 09:50 | normal pick from 2026-10-20 21:50 | request from 2026-10-20 05:50
+WAIT Stevie Wonder — Higher Ground (Album Version) | last aired 2026-10-19 09:51 | normal pick from 2026-10-20 21:51 | request from 2026-10-20 05:51
 OK   Stevie Wonder — I Wish | last aired 2026-10-17 00:17 | normal pick now | request now
 OK   Stevie Wonder — Isn't She Lovely | last aired 2026-10-14 09:47 | normal pick now | request now
 OK   Stevie Wonder — Living For The City (Album Version) | last aired 2026-10-03 14:57 | normal pick now | request now
@@ -44,6 +44,6 @@ OK   Studio Group — Love Me Tender / Can't Help Falling In Love / Always On My
 OK   Styx — Mr. Roboto | last aired 2026-10-14 14:59 | normal pick now | request now
 OK   The Staple Singers — I'll Take You There | last aired 2026-10-17 12:49 | normal pick now | request now
 OK   The Strokes — Last Nite | last aired 2026-10-12 15:38 | normal pick now | request now
-WAIT The Strokes — Lonely in the Future | last aired 2026-10-19 10:34 | normal pick from 2026-10-20 22:34 | request from 2026-10-20 06:34
+WAIT The Strokes — Lonely in the Future | last aired 2026-10-19 10:35 | normal pick from 2026-10-20 22:35 | request from 2026-10-20 06:35
 OK   The Strokes — Ode To The Mets | last aired 2026-10-12 01:01 | normal pick now | request now
 OK   The Style Council — Iwasadoledadstoyboy | last aired 2026-10-14 04:58 | normal pick now | request now
