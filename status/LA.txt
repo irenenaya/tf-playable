@@ -1,4 +1,4 @@
-Track status, artists filed under LA (built Sun Oct 18, 8:05 PM PDT (03:05 UTC Mon)). Times in UTC.
+Track status, artists filed under LA (built Sun Oct 18, 9:05 PM PDT (04:05 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   La Fenice — Le Chant des oiseaux | last aired 2026-10-02 15:12 | normal pick now | request now
@@ -11,11 +11,11 @@ OK   Lamb — Gorecki | last aired 2026-10-16 09:26 | normal pick now | request 
 WAIT Lana Del Rey — Diet Mountain Dew | last aired 2026-10-18 23:14 | normal pick from 2026-10-20 11:14 | request from 2026-10-19 19:14
 WAIT Lana Del Rey — Heroin | last aired 2026-10-17 21:55 | normal pick from 2026-10-19 09:55 | request now
 OK   Lana Del Rey — Salvatore | last aired 2026-10-14 03:22 | normal pick now | request now
-OK   Lana Del Rey — Venice Bitch | last aired 2026-10-13 19:20 | normal pick now | request now
+WAIT Lana Del Rey — Venice Bitch | last aired 2026-10-19 03:22 | normal pick from 2026-10-20 15:22 | request from 2026-10-19 23:22
 OK   Lana Del Rey — Young And Beautiful | last aired 2026-10-16 09:08 | normal pick now | request now
 OK   Lang Lang — Joe Hisaishi: Spring | last aired 2026-10-12 09:11 | normal pick now | request now
 OK   Laufey — Madwoman | last aired 2026-10-14 21:08 | normal pick now | request now
-WAIT Laurie Anderson — Sharkey's Day (Album Version) | last aired 2026-10-18 07:26 | normal pick from 2026-10-19 19:26 | request from 2026-10-19 03:26
+WAIT Laurie Anderson — Sharkey's Day (Album Version) | last aired 2026-10-18 07:26 | normal pick from 2026-10-19 19:26 | request now
 WAIT Lauryn Hill — Ex-Factor | last aired 2026-10-18 22:46 | normal pick from 2026-10-20 22:46 | request from 2026-10-20 22:46
 WAIT Lawrence — 23 | last aired 2026-10-17 11:48 | normal pick from 2026-10-19 11:48 | request from 2026-10-19 11:48
 OK   The La's — There She Goes | last aired 2026-10-11 22:47 | normal pick now | request now
