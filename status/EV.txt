@@ -1,7 +1,7 @@
-Track status, artists filed under EV (built Mon Oct 19, 9:05 AM PDT (16:05 UTC)). Times in UTC.
+Track status, artists filed under EV (built Mon Oct 19, 9:55 AM PDT (16:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Eva Cassidy — At Last (Acoustic) | last aired 2026-10-16 20:44 | normal pick now | request now
+WAIT Eva Cassidy — At Last (Acoustic) | last aired 2026-10-19 16:40 | normal pick from 2026-10-21 04:40 | request from 2026-10-20 12:40
 OK   Evan Fong — pe$o$ | last aired 2026-10-18 03:52 | normal pick now | request now
 OK   Evanescence — Bring Me To Life | last aired 2026-10-03 00:24 | normal pick now | request now
 OK   Evergrey — In Orbit | last aired 2026-09-28 22:28 | normal pick now | request now

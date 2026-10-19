@@ -1,4 +1,4 @@
-THINKING FREQUENCIES — PLAYLIST HELPER (built Mon Oct 19, 9:05 AM PDT (16:05 UTC))
+THINKING FREQUENCIES — PLAYLIST HELPER (built Mon Oct 19, 9:55 AM PDT (16:55 UTC))
 
 playable.txt : 50 tracks you can play right now.
 
@@ -8,6 +8,10 @@ To check one song, open status/XX.txt, where XX is the artist's first two letter
   Leonard Cohen -> status/LE.txt   The Sundays -> status/SU.txt   Björk -> status/BJ.txt
   M83 -> status/M8.txt   Artists starting with a digit -> status/0-9.txt
   Names not in Latin letters (Cyrillic, Chinese, ...) -> status/other.txt
+
+Know the song but not the artist? Same rule on the TITLE, in the titles folder:
+  Suzanne -> titles/SU.txt   The Boy with the Arab Strap -> titles/BO.txt
+  (Sittin' On) The Dock of the Bay -> titles/SI.txt   All versions/covers of a song sit together.
 
 Rules behind the times: normal picks rest at least 36 h (longer for busy tracks: 20+ plays
 in 30 days = 72 h, 40+ = 96 h). Requests: at least 20 h plus the same tiers, and never a 4th

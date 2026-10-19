@@ -1,16 +1,16 @@
-Track status, artists filed under CO (built Mon Oct 19, 9:05 AM PDT (16:05 UTC)). Times in UTC.
+Track status, artists filed under CO (built Mon Oct 19, 9:55 AM PDT (16:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Cocteau Twins — Cherry-coloured Funk | last aired 2026-10-14 09:57 | normal pick now | request now
 WAIT Cocteau Twins — Ivo | last aired 2026-10-19 05:50 | normal pick from 2026-10-21 05:50 | request from 2026-10-21 05:50
 OK   Cocteau Twins — Whales Tails | last aired 2026-10-17 18:18 | normal pick now | request now
 OK   Cognitron — Low Frequency Thunderstorm Shield | last aired 2026-10-17 06:04 | normal pick now | request now
-OK   Colbie Caillat — Try | last aired 2026-10-09 12:51 | normal pick now | request now
+WAIT Colbie Caillat — Try | last aired 2026-10-19 16:46 | normal pick from 2026-10-21 04:46 | request from 2026-10-20 12:46
 OK   Coldplay — Talk | last aired 2026-10-16 20:12 | normal pick now | request now
 WAIT Coldplay — Yellow | last aired 2026-10-18 19:29 | normal pick from 2026-10-20 07:29 | request now
 OK   Coleman Hawkins & His Orchestra — Body and Soul | last aired 2026-10-17 03:41 | normal pick now | request now
 OK   Colin Currie — Music for 18 Musicians - Pulses | last aired 2026-10-16 14:33 | normal pick now | request now
-WAIT Conchita Wurst — Rise Like a Phoenix | last aired 2026-10-18 04:54 | normal pick from 2026-10-19 16:54 | request now
+OK   Conchita Wurst — Rise Like a Phoenix | last aired 2026-10-18 04:54 | normal pick now | request now
 OK   Confetti — People Suck [Explicit] | last aired 2026-09-06 09:09 | normal pick now | request now
 OK   Cornelius — New Music Machine (Buffalo Daughter Remix) | last aired 2026-10-15 23:43 | normal pick now | request now
 OK   Cornelius — Star Fruit Surf Rider (Damon Albarn Remix) | last aired 2026-10-08 11:04 | normal pick now | request now
