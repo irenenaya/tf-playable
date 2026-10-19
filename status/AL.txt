@@ -1,11 +1,11 @@
-Track status, artists filed under AL (built Sun Oct 18, 4:05 PM PDT (23:05 UTC)). Times in UTC.
+Track status, artists filed under AL (built Sun Oct 18, 5:05 PM PDT (00:05 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Al Di Meola — Double Concerto | last aired 2026-10-13 18:27 | normal pick now | request now
 OK   Al Di Meola — Libertango | last aired 2026-10-13 20:57 | normal pick now | request now
 OK   Al Di Meola — Passion, Grace & Fire (Album Version) | last aired 2026-10-15 00:43 | normal pick now | request now
 OK   Al Di Meola — Red Moon | last aired 2026-10-15 03:10 | normal pick now | request now
-WAIT Al Green — Let's Stay Together | last aired 2026-10-18 22:16 | normal pick from 2026-10-20 10:16 | request from 2026-10-19 18:16
+WAIT Al Green — Let's Stay Together | last aired 2026-10-18 22:17 | normal pick from 2026-10-20 22:17 | request from 2026-10-20 22:17
 OK   Al Green — Love and Happiness | last aired 2026-10-14 18:19 | normal pick now | request now
 WAIT Al Green — Simply Beautiful | last aired 2026-10-17 22:53 | normal pick from 2026-10-19 22:53 | request from 2026-10-19 22:53
 OK   Al Green — The Lord Will Make a Way | last aired 2026-10-15 10:15 | normal pick now | request now
@@ -26,7 +26,7 @@ OK   Alfa Mist — Organic Rust | last aired 2026-10-16 22:10 | normal pick now 
 OK   Ali Farka Touré — Soukora | last aired 2026-10-15 04:56 | normal pick now | request now
 WAIT Alice Coltrane — Journey In Satchidananda | last aired 2026-10-18 15:05 | normal pick from 2026-10-20 15:05 | request from 2026-10-20 15:05
 WAIT Alice In Chains — Man in the Box | last aired 2026-10-18 12:27 | normal pick from 2026-10-20 00:27 | request from 2026-10-19 08:27
-WAIT Alicia Keys — Fallin' (Album Version) | last aired 2026-10-18 22:59 | normal pick from 2026-10-20 10:59 | request from 2026-10-19 18:59
+WAIT Alicia Keys — Fallin' (Album Version) | last aired 2026-10-18 23:00 | normal pick from 2026-10-20 23:00 | request from 2026-10-20 23:00
 OK   Alison Krauss — Down To The River To Pray (Live) | last aired 2026-09-25 19:57 | normal pick now | request now
 WAIT Almendra — Plegaria para un Niño Dormido | last aired 2026-10-17 11:03 | normal pick from 2026-10-19 11:03 | request from 2026-10-19 11:03
 OK   Alvin Lucier — I Am Sitting in a Room | last aired 2026-09-22 09:20 | normal pick now | request now

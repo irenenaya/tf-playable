@@ -1,4 +1,4 @@
-Track status, artists filed under TO (built Sun Oct 18, 4:05 PM PDT (23:05 UTC)). Times in UTC.
+Track status, artists filed under TO (built Sun Oct 18, 5:05 PM PDT (00:05 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   toe — Goodbye (Live) | last aired 2026-10-16 23:23 | normal pick now | request now
@@ -10,7 +10,7 @@ WAIT Tom Konkle — Fail Upward For A Change | last aired 2026-10-17 13:56 | nor
 OK   Tom Konkle — Life Without The Living | last aired 2026-10-17 06:06 | normal pick now | request now
 OK   Tom Konkle — Light Bulb In My Head | last aired 2026-10-12 20:34 | normal pick now | request now
 OK   Tom Konkle — Losing Faith | last aired 2026-09-12 01:59 | normal pick now | request now
-WAIT Tom Konkle — Manipulation (The Dance) | last aired 2026-10-18 03:37 | normal pick from 2026-10-19 15:37 | request from 2026-10-18 23:37
+WAIT Tom Konkle — Manipulation (The Dance) | last aired 2026-10-18 03:37 | normal pick from 2026-10-19 15:37 | request now
 OK   Tom Konkle — Name On A Screen | last aired 2026-10-15 14:48 | normal pick now | request now
 OK   Tom Konkle — One Last Time | last aired 2026-09-17 07:17 | normal pick now | request now
 OK   Tom Konkle — When Did Love Become A Test | last aired 2026-10-16 13:58 | normal pick now | request now
@@ -21,7 +21,7 @@ OK   Tom Novy — Superstar  (The Jason Nevins' Live Peep Show Mix) | last aired
 WAIT Tom Petty & The Heartbreakers — American Girl | last aired 2026-10-17 14:39 | normal pick from 2026-10-19 02:39 | request now
 OK   Tom Petty — I Won't Back Down | last aired 2026-10-17 05:45 | normal pick now | request now
 OK   Tom Petty — Runnin' Down A Dream | last aired 2026-10-14 20:09 | normal pick now | request now
-OK   Tom Waits — House Where Nobody Lives | last aired 2026-10-13 12:20 | normal pick now | request now
+WAIT Tom Waits — House Where Nobody Lives | last aired 2026-10-18 23:10 | normal pick from 2026-10-20 11:10 | request from 2026-10-19 19:10
 WAIT Tomaso Albinoni — Adagio in G Minor | last aired 2026-10-17 06:21 | normal pick from 2026-10-19 06:21 | request from 2026-10-19 06:21
 OK   Tomohisa Okudo — Always with Me | last aired 2026-10-16 08:18 | normal pick now | request now
 WAIT Toni Braxton — Un-Break My Heart | last aired 2026-10-18 16:58 | normal pick from 2026-10-20 04:58 | request from 2026-10-19 12:58

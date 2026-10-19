@@ -1,9 +1,9 @@
-Track status, artists filed under LI (built Sun Oct 18, 4:05 PM PDT (23:05 UTC)). Times in UTC.
+Track status, artists filed under LI (built Sun Oct 18, 5:05 PM PDT (00:05 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT L'Impératrice — Sonate Pacifique | last aired 2026-10-18 05:07 | normal pick from 2026-10-19 17:07 | request from 2026-10-19 01:07
 OK   Liam Comerford — Front Line (action) | last aired 2026-09-05 17:34 | normal pick now | request now
-OK   Lianne La Havas — Sour Flower | last aired 2026-10-09 08:06 | normal pick now | request now
+WAIT Lianne La Havas — Sour Flower | last aired 2026-10-18 23:47 | normal pick from 2026-10-20 11:47 | request from 2026-10-19 19:47
 WAIT Lianne La Havas — Unstoppable | last aired 2026-10-18 13:13 | normal pick from 2026-10-20 01:13 | request from 2026-10-19 09:13
 OK   Lil Jon — Get Low [Explicit] | last aired 2026-10-07 23:57 | normal pick now | request now
 WAIT Limp Bizkit — Rollin' (Air Raid Vehicle) | last aired 2026-10-18 01:39 | normal pick from 2026-10-19 13:39 | request now
