@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Sun Oct 18, 5:05 PM PDT (00:05 UTC Mon)). Times in UTC.
+Track status, artists filed under JO (built Sun Oct 18, 6:05 PM PDT (01:05 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-10-12 10:35 | normal pick now | request now
@@ -17,7 +17,7 @@ OK   Joe Hisaishi — Summer (from 'Kikujiro') | last aired 2026-10-11 06:03 | n
 WAIT Joe Hisaishi — Symphonic Suite “Princess Mononoke”2021 : V. Mononoke Hime (Live) | last aired 2026-10-18 18:52 | normal pick from 2026-10-20 06:52 | request from 2026-10-19 14:52
 OK   Joe Hisaishi — The Path of the Wind (from 'My Neighbor Totoro') | last aired 2026-10-13 08:47 | normal pick now | request now
 OK   Joe Hisaishi — アシタカとサン (from 'Princess Mononoke') | last aired 2026-10-09 06:12 | normal pick now | request now
-OK   Joel Pott — Chances | last aired 2026-10-15 11:06 | normal pick now | request now
+WAIT Joel Pott — Chances | last aired 2026-10-19 00:13 | normal pick from 2026-10-20 12:13 | request from 2026-10-19 20:13
 WAIT Johann Johannsson — Flight From The City - Jóhannsson: Flight from the City | last aired 2026-10-18 13:00 | normal pick from 2026-10-20 13:00 | request from 2026-10-20 13:00
 OK   John Carpenter — Halloween Theme | last aired 2026-10-13 02:49 | normal pick now | request now
 WAIT John Coltrane — Lush Life | last aired 2026-10-17 15:58 | normal pick from 2026-10-19 15:58 | request from 2026-10-19 15:58
