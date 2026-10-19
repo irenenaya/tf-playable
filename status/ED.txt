@@ -1,7 +1,7 @@
-Track status, artists filed under ED (built Mon Oct 19, 3:05 AM PDT (10:05 UTC)). Times in UTC.
+Track status, artists filed under ED (built Mon Oct 19, 4:05 AM PDT (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Ed Sheeran — Azizam | last aired 2026-10-15 15:29 | normal pick now | request now
+WAIT Ed Sheeran — Azizam | last aired 2026-10-19 10:38 | normal pick from 2026-10-20 22:38 | request from 2026-10-20 06:38
 OK   Ed Sheeran — Beautiful People (feat. Khalid) | last aired 2026-10-17 02:21 | normal pick now | request now
 WAIT Ed Sheeran — Perfect | last aired 2026-10-18 22:00 | normal pick from 2026-10-20 10:00 | request from 2026-10-19 18:00
 OK   Edie Brickell & New Bohemians — Circle (Album Version) | last aired 2026-10-15 01:58 | normal pick now | request now

@@ -1,9 +1,9 @@
-Track status, artists filed under ST (built Mon Oct 19, 3:05 AM PDT (10:05 UTC)). Times in UTC.
+Track status, artists filed under ST (built Mon Oct 19, 4:05 AM PDT (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT St Germain — Rose rouge | last aired 2026-10-18 08:26 | normal pick from 2026-10-19 20:26 | request now
 OK   Stan Bush — The Touch | last aired 2026-10-14 19:40 | normal pick now | request now
-WAIT Stan Getz — Corcovado (Quiet Nights Of Quiet Stars) | last aired 2026-10-17 10:21 | normal pick from 2026-10-19 10:21 | request from 2026-10-19 10:21
+OK   Stan Getz — Corcovado (Quiet Nights Of Quiet Stars) | last aired 2026-10-17 10:21 | normal pick now | request now
 OK   Stardust — Music Sounds Better With You | last aired 2026-10-17 04:03 | normal pick now | request now
 OK   Stars of the Lid — Requiem for Dying Mothers, Pt. 1 | last aired 2026-10-16 06:23 | normal pick now | request now
 WAIT Stars of the Lid — Requiem for Dying Mothers, Pt. 2 | last aired 2026-10-19 08:37 | normal pick from 2026-10-20 20:37 | request from 2026-10-20 04:37
@@ -13,7 +13,7 @@ OK   Steely Dan — Babylon Sisters | last aired 2026-10-17 00:49 | normal pick 
 OK   Steely Dan — Home At Last | last aired 2026-10-17 13:01 | normal pick now | request now
 OK   Steely Dan — Jack of Speed (Album Version) | last aired 2026-10-12 20:39 | normal pick now | request now
 OK   Steely Dan — Kid Charlemagne | last aired 2026-09-29 15:12 | normal pick now | request now
-WAIT Steely Dan — Peg | last aired 2026-10-18 14:43 | normal pick from 2026-10-20 02:43 | request from 2026-10-19 10:43
+WAIT Steely Dan — Peg | last aired 2026-10-18 14:43 | normal pick from 2026-10-20 02:43 | request now
 WAIT Steely Dan — Time Out Of Mind | last aired 2026-10-18 07:04 | normal pick from 2026-10-19 19:04 | request now
 OK   Steve Miller Band — The Joker | last aired 2026-10-16 01:46 | normal pick now | request now
 OK   Steve Roach — Living the Dream | last aired 2026-10-13 19:39 | normal pick now | request now
@@ -30,7 +30,7 @@ OK   Stevie Wonder — Living For The City (Album Version) | last aired 2026-10-
 OK   Stevie Wonder — Master Blaster (Jammin') | last aired 2026-10-15 10:47 | normal pick now | request now
 OK   Stevie Wonder — Sir Duke | last aired 2026-10-14 00:11 | normal pick now | request now
 OK   Stevie Wonder — Summer Soft | last aired 2026-10-04 13:50 | normal pick now | request now
-WAIT Stevie Wonder — Superstition (Album Version) | last aired 2026-10-17 22:45 | normal pick from 2026-10-19 10:45 | request now
+OK   Stevie Wonder — Superstition (Album Version) | last aired 2026-10-17 22:45 | normal pick now | request now
 WAIT Stevie Wonder — You Haven't Done Nothin' | last aired 2026-10-18 19:34 | normal pick from 2026-10-20 19:34 | request from 2026-10-20 19:34
 OK   Still Woozy — Get Down | last aired 2026-10-14 16:21 | normal pick now | request now
 OK   Sting — Desert Rose (Album Version) | last aired 2026-10-17 02:46 | normal pick now | request now
@@ -44,6 +44,6 @@ OK   Studio Group — Love Me Tender / Can't Help Falling In Love / Always On My
 OK   Styx — Mr. Roboto | last aired 2026-10-14 14:59 | normal pick now | request now
 OK   The Staple Singers — I'll Take You There | last aired 2026-10-17 12:49 | normal pick now | request now
 OK   The Strokes — Last Nite | last aired 2026-10-12 15:38 | normal pick now | request now
-OK   The Strokes — Lonely in the Future | last aired 2026-10-16 10:02 | normal pick now | request now
+WAIT The Strokes — Lonely in the Future | last aired 2026-10-19 10:34 | normal pick from 2026-10-20 22:34 | request from 2026-10-20 06:34
 OK   The Strokes — Ode To The Mets | last aired 2026-10-12 01:01 | normal pick now | request now
 OK   The Style Council — Iwasadoledadstoyboy | last aired 2026-10-14 04:58 | normal pick now | request now
