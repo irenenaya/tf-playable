@@ -1,4 +1,4 @@
-Track status, song titles filed under YO (built Mon Oct 19, 3:05 PM PDT (22:05 UTC)). Times in UTC.
+Track status, song titles filed under YO (built Mon Oct 19, 4:05 PM PDT (23:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   You and I — Papooz | last aired 2026-10-09 18:25 | normal pick now | request now
@@ -6,7 +6,7 @@ WAIT You Are — Lionel Richie | last aired 2026-10-18 17:02 | normal pick from 
 WAIT You Are Not Alone — Michael Jackson | last aired 2026-10-18 19:37 | normal pick from 2026-10-20 07:37 | request now
 OK   You Are So Beautiful — Charles Lloyd | last aired 2026-10-17 11:36 | normal pick now | request now
 WAIT You Are So Beautiful — Charles Lloyd & The Marvels | last aired 2026-10-18 20:05 | normal pick from 2026-10-20 08:05 | request now
-WAIT You Belong to Me  (2016 Remaster) — The Doobie Brothers | last aired 2026-10-19 02:57 | normal pick from 2026-10-20 14:57 | request from 2026-10-19 22:57
+WAIT You Belong to Me  (2016 Remaster) — The Doobie Brothers | last aired 2026-10-19 02:57 | normal pick from 2026-10-20 14:57 | request now
 WAIT You Can Call Me Al — Paul Simon | last aired 2026-10-19 02:44 | normal pick from 2026-10-21 02:44 | request from 2026-10-21 02:44
 WAIT You Can Have It All — Yo La Tengo | last aired 2026-10-19 20:53 | normal pick from 2026-10-21 08:53 | request from 2026-10-20 16:53
 OK   You Can't Always Get What You Want — The Rolling Stones | last aired 2026-10-17 04:24 | normal pick now | request now
