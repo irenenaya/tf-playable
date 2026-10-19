@@ -1,4 +1,4 @@
-Track status, song titles filed under SO (built Mon Oct 19, 12:05 PM PDT (19:05 UTC)). Times in UTC.
+Track status, song titles filed under SO (built Mon Oct 19, 1:05 PM PDT (20:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   So Alive — Love and Rockets | last aired 2026-10-03 18:42 | normal pick now | request now
@@ -27,6 +27,6 @@ OK   Soon It Will Be Cold Enough to Build Fires — Emancipator | last aired 202
 OK   Souk Eye — Gorillaz | last aired 2026-10-16 10:10 | normal pick now | request now
 WAIT Soukora — Ali Farka Touré | last aired 2026-10-19 00:38 | normal pick from 2026-10-21 00:38 | request from 2026-10-21 00:38
 OK   Soundtrack to Me and You — Swan Dive | last aired 2026-10-11 05:14 | normal pick now | request now
-WAIT Sour Flower — Lianne La Havas | last aired 2026-10-18 23:48 | normal pick from 2026-10-20 11:48 | request from 2026-10-19 19:48
-WAIT Sour Times — Portishead | last aired 2026-10-18 23:32 | normal pick from 2026-10-20 11:32 | request from 2026-10-19 19:32
+WAIT Sour Flower — Lianne La Havas | last aired 2026-10-18 23:48 | normal pick from 2026-10-20 11:48 | request now
+WAIT Sour Times — Portishead | last aired 2026-10-18 23:32 | normal pick from 2026-10-20 11:32 | request now
 WAIT The Sound of Silence  (Acoustic Version) — Simon & Garfunkel | last aired 2026-10-19 16:04 | normal pick from 2026-10-21 04:04 | request from 2026-10-20 12:04
