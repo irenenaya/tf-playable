@@ -1,4 +1,4 @@
-Track status, artists filed under PE (built Mon Oct 19, 7:05 PM PDT (02:05 UTC Tue)). Times in UTC.
+Track status, artists filed under PE (built Mon Oct 19, 8:05 PM PDT (03:05 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Pearl Jam — Yellow Ledbetter | last aired 2026-10-19 00:28 | normal pick from 2026-10-21 00:28 | request from 2026-10-21 00:28
@@ -14,7 +14,7 @@ OK   Perpetuum Jazzile — Africa | last aired 2026-10-14 07:25 | normal pick no
 OK   Perrie — Die With A Smile  (Bruno Mars & Lady Gaga Cover - BBC Radio 1 Live Lounge) | last aired 2026-10-03 12:23 | normal pick now | request now
 OK   Pet Shop Boys — West End Girls  (2001 Remaster) | last aired 2026-10-18 07:51 | normal pick now | request now
 WAIT Pete Seeger — Solidarity Forever | last aired 2026-10-18 21:57 | normal pick from 2026-10-20 09:57 | request now
-WAIT Pete Seeger — Which Side are You On? | last aired 2026-10-18 02:21 | normal pick from 2026-10-20 02:21 | request from 2026-10-20 02:21
+OK   Pete Seeger — Which Side are You On? | last aired 2026-10-18 02:21 | normal pick now | request now
 WAIT Peter Broderick — A Little Lost | last aired 2026-10-19 17:24 | normal pick from 2026-10-21 17:24 | request from 2026-10-21 17:24
 OK   Peter Fox — Haus am See | last aired 2026-10-18 12:19 | normal pick now | request now
 OK   Peter Gabriel — Don't Give Up  (2012 Remaster) | last aired 2026-10-17 02:40 | normal pick now | request now
