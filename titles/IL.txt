@@ -1,4 +1,4 @@
-Track status, song titles filed under IL (built Tue Oct 20, 3:05 AM PDT (10:05 UTC)). Times in UTC.
+Track status, song titles filed under IL (built Tue Oct 20, 4:05 AM PDT (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   (I Love You) For Sentimental Reasons — Nat King Cole | last aired 2026-10-14 01:03 | normal pick now | request now
@@ -7,5 +7,5 @@ OK   I Lived — OneRepublic | last aired 2026-10-18 13:53 | normal pick now | r
 OK   I Love It (feat. Charli XCX) — Icona Pop | last aired 2026-10-18 12:32 | normal pick now | request now
 OK   I Love Rock 'N Roll — Joan Jett & The Blackhearts | last aired 2026-10-12 10:35 | normal pick now | request now
 OK   I'll Take You There — The Staple Singers | last aired 2026-10-17 12:49 | normal pick now | request now
-OK   I'll Teach You All About Love — Minako Yoshida | last aired 2026-10-15 03:36 | normal pick now | request now
+WAIT I'll Teach You All About Love — Minako Yoshida | last aired 2026-10-20 10:31 | normal pick from 2026-10-22 10:31 | request from 2026-10-22 10:31
 WAIT ILLusions — Kid Cudi | last aired 2026-10-19 08:50 | normal pick from 2026-10-20 20:50 | request now
