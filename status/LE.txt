@@ -1,4 +1,4 @@
-Track status, artists filed under LE (built Mon Oct 19, 9:05 PM PDT (04:05 UTC Tue)). Times in UTC.
+Track status, artists filed under LE (built Mon Oct 19, 10:05 PM PDT (05:05 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   LeAnn Rimes — Blue | last aired 2026-10-17 08:19 | normal pick now | request now
@@ -9,11 +9,11 @@ OK   Led Zeppelin — Stairway to Heaven  (Remaster) | last aired 2026-09-30 22:
 OK   Ledward Kaapana — Salomila  (Live) | last aired 2026-10-15 22:14 | normal pick now | request now
 OK   Lemon Jelly — Ramblin' Man | last aired 2026-10-13 09:12 | normal pick now | request now
 WAIT Leon Bridges — Coming Home | last aired 2026-10-18 23:44 | normal pick from 2026-10-20 23:44 | request from 2026-10-20 23:44
-WAIT Leon Larregui — Brillas | last aired 2026-10-19 08:46 | normal pick from 2026-10-20 20:46 | request from 2026-10-20 04:46
+WAIT Leon Larregui — Brillas | last aired 2026-10-19 08:46 | normal pick from 2026-10-20 20:46 | request now
 OK   Leon Larregui — Locos | last aired 2026-10-16 04:55 | normal pick now | request now
 OK   Leonard Bernstein — Candide: Overture | last aired 2026-10-16 02:35 | normal pick now | request now
 OK   Leonard Bernstein — The Rite of Spring (1913 Version) - Le Sacre du Printemps (The Rite of Spring): Les augures printaniers (Danses des adolescentes) [The Augurs of Spring (Dance of the Young Girls)] (1913 Version) | last aired 2026-10-13 14:05 | normal pick now | request now
-OK   Leonard Cohen — Anthem | last aired 2026-10-10 02:47 | normal pick now | request now
+WAIT Leonard Cohen — Anthem | last aired 2026-10-20 04:07 | normal pick from 2026-10-21 16:07 | request from 2026-10-21 00:07
 WAIT Leonard Cohen — Avalanche | last aired 2026-10-18 23:18 | normal pick from 2026-10-20 11:18 | request now
 OK   Leonard Cohen — Bird on the Wire | last aired 2026-10-15 00:28 | normal pick now | request now
 OK   Leonard Cohen — Dance Me to the End of Love | last aired 2026-10-12 00:29 | normal pick now | request now
