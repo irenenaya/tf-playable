@@ -1,4 +1,4 @@
-Track status, song titles filed under DO (built Tue Oct 20, 7:05 AM PDT (14:05 UTC)). Times in UTC.
+Track status, song titles filed under DO (built Tue Oct 20, 8:05 AM PDT (15:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   (Don't Fear) The Reaper — Blue Öyster Cult | last aired 2026-10-11 12:53 | normal pick now | request now
@@ -8,7 +8,7 @@ WAIT Do Not Disturb — Halestorm | last aired 2026-10-19 08:11 | normal pick fr
 OK   Doctor Who Opening Titles (“In Colour” Mix, Daleks Version) — Delia Derbyshire | last aired 2026-10-15 16:19 | normal pick now | request now
 OK   Dollar Days — David Bowie | last aired 2026-09-30 17:09 | normal pick now | request now
 OK   Dolls — 9MUSES | last aired 2026-10-15 13:55 | normal pick now | request now
-WAIT Don't Change — INXS | last aired 2026-10-18 14:51 | normal pick from 2026-10-20 14:51 | request from 2026-10-20 14:51
+OK   Don't Change — INXS | last aired 2026-10-18 14:51 | normal pick now | request now
 WAIT Don't Delete The Kisses — Wolf Alice | last aired 2026-10-19 04:48 | normal pick from 2026-10-20 16:48 | request now
 OK   Don't Dream It's Over — Crowded House | last aired 2026-10-16 15:28 | normal pick now | request now
 WAIT Don't Give Up  (2012 Remaster) — Peter Gabriel | last aired 2026-10-20 08:26 | normal pick from 2026-10-21 20:26 | request from 2026-10-21 04:26

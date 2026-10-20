@@ -1,10 +1,10 @@
-Track status, song titles filed under HE (built Tue Oct 20, 7:05 AM PDT (14:05 UTC)). Times in UTC.
+Track status, song titles filed under HE (built Tue Oct 20, 8:05 AM PDT (15:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   "Heroes" (2017 Remaster) — David Bowie | last aired 2026-10-11 08:22 | normal pick now | request now
 OK   Heart of Gold — Neil Young | last aired 2026-10-17 23:04 | normal pick now | request now
 OK   heart on my sleeve — Ghostwriter | last aired 2026-10-18 03:48 | normal pick now | request now
-OK   Heart To Heart — Child Seat | last aired 2026-10-10 17:33 | normal pick now | request now
+WAIT Heart To Heart — Child Seat | last aired 2026-10-20 14:08 | normal pick from 2026-10-22 02:08 | request from 2026-10-21 10:08
 OK   Heart-Shaped Box (Album Version) — Nirvana | last aired 2026-10-18 16:08 | normal pick now | request now
 OK   Heartbeat — ANNIE | last aired 2026-10-14 19:49 | normal pick now | request now
 WAIT Heartbeats — José González | last aired 2026-10-18 20:18 | normal pick from 2026-10-20 20:18 | request from 2026-10-20 20:18
