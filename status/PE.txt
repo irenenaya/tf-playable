@@ -1,4 +1,4 @@
-Track status, artists filed under PE (built Tue Oct 20, 3:05 PM PDT (22:05 UTC)). Times in UTC.
+Track status, artists filed under PE (built Tue Oct 20, 4:05 PM PDT (23:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Pearl Jam — Yellow Ledbetter | last aired 2026-10-19 00:28 | normal pick now | request now
@@ -16,6 +16,7 @@ OK   Pet Shop Boys — West End Girls  (2001 Remaster) | last aired 2026-10-18 0
 OK   Pete Seeger — Solidarity Forever | last aired 2026-10-18 21:57 | normal pick now | request now
 OK   Pete Seeger — Which Side are You On? | last aired 2026-10-18 02:21 | normal pick now | request now
 WAIT Peter Broderick — A Little Lost | last aired 2026-10-19 17:24 | normal pick from 2026-10-21 17:24 | request from 2026-10-21 17:24
+WAIT Peter Fox — Alles neu (Album Version) | last aired 2026-10-20 19:34 | normal pick from 2026-10-22 07:34 | request from 2026-10-21 15:34
 OK   Peter Fox — Haus am See | last aired 2026-10-18 12:19 | normal pick now | request now
 WAIT Peter Gabriel — Don't Give Up  (2012 Remaster) | last aired 2026-10-20 08:26 | normal pick from 2026-10-21 20:26 | request from 2026-10-21 04:26
 WAIT Peter Gabriel — Sky Blue | last aired 2026-10-19 16:08 | normal pick from 2026-10-21 04:08 | request now

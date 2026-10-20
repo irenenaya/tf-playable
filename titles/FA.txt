@@ -1,18 +1,18 @@
-Track status, song titles filed under FA (built Tue Oct 20, 3:05 PM PDT (22:05 UTC)). Times in UTC.
+Track status, song titles filed under FA (built Tue Oct 20, 4:05 PM PDT (23:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Face to Face — Daft Punk | last aired 2026-10-14 16:35 | normal pick now | request now
 OK   Facing East — Thievery Corporation | last aired 2026-10-19 09:10 | normal pick now | request now
 WAIT Fade Into You — Mazzy Star | last aired 2026-10-19 21:30 | normal pick from 2026-10-21 09:30 | request now
-WAIT Fade To Grey — Visage | last aired 2026-10-20 21:54 | normal pick from 2026-10-22 09:54 | request from 2026-10-21 17:54
+WAIT Fade To Grey — Visage | last aired 2026-10-20 21:55 | normal pick from 2026-10-22 21:55 | request from 2026-10-22 21:55
 OK   Fado Vadio (Má Fama) — Ana Sofia Varela | last aired 2026-10-15 12:58 | normal pick now | request now
 OK   Fail Upward For A Change — Tom Konkle | last aired 2026-10-17 13:56 | normal pick now | request now
 OK   Fairytale — Alexander Rybak | last aired 2026-10-04 13:35 | normal pick now | request now
 OK   Fait Accompli — Curve | last aired 2026-10-14 10:00 | normal pick now | request now
 WAIT Fake Tales Of San Francisco — Arctic Monkeys | last aired 2026-10-20 09:05 | normal pick from 2026-10-21 21:05 | request from 2026-10-21 05:05
 WAIT Fallen (Album Mix) — Sarah McLachlan | last aired 2026-10-19 21:39 | normal pick from 2026-10-21 09:39 | request now
-WAIT Fallen Star — Djivan Gasparyan | last aired 2026-10-20 20:57 | normal pick from 2026-10-22 08:57 | request from 2026-10-21 16:57
-WAIT Fallin' (Album Version) — Alicia Keys | last aired 2026-10-18 23:00 | normal pick from 2026-10-20 23:00 | request from 2026-10-20 23:00
+WAIT Fallen Star — Djivan Gasparyan | last aired 2026-10-20 20:58 | normal pick from 2026-10-22 20:58 | request from 2026-10-22 20:58
+OK   Fallin' (Album Version) — Alicia Keys | last aired 2026-10-18 23:00 | normal pick now | request now
 WAIT Falling Slowly (Album Version) — Glen Hansard and Marketa Irglova | last aired 2026-10-19 01:35 | normal pick from 2026-10-21 01:35 | request from 2026-10-21 01:35
 OK   Familiar — Nils Frahm | last aired 2026-10-18 06:00 | normal pick now | request now
 OK   Family Portrait — P!nk | last aired 2026-10-14 13:43 | normal pick now | request now
@@ -24,4 +24,4 @@ OK   Fast Car  (2015 Remaster) — Tracy Chapman | last aired 2026-10-15 23:35 |
 OK   Fast Car (LP Version) — Tracy Chapman | last aired 2026-10-18 19:08 | normal pick now | request now
 OK   Faster — Matt Nathanson | last aired 2026-10-13 11:10 | normal pick now | request now
 OK   Fatti avanti amore (feat. Jovanotti)  (5030 version) — Nek | last aired 2026-10-18 01:56 | normal pick now | request now
-WAIT The Fairy Feller's Master-Stroke (2026 Mix) — Queen | last aired 2026-10-20 19:16 | normal pick from 2026-10-22 07:16 | request from 2026-10-21 15:16
+WAIT The Fairy Feller's Master-Stroke (2026 Mix) — Queen | last aired 2026-10-20 19:17 | normal pick from 2026-10-22 07:17 | request from 2026-10-21 15:17
