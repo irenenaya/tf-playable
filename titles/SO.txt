@@ -1,13 +1,13 @@
-Track status, song titles filed under SO (built Tue Oct 20, 10:05 AM PDT (17:05 UTC)). Times in UTC.
+Track status, song titles filed under SO (built Tue Oct 20, 11:05 AM PDT (18:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT So Alive — Love and Rockets | last aired 2026-10-19 22:53 | normal pick from 2026-10-21 10:53 | request from 2026-10-20 18:53
 OK   So Far Away — Carole King | last aired 2026-10-17 23:29 | normal pick now | request now
-WAIT So Long, Marianne — Leonard Cohen | last aired 2026-10-19 21:19 | normal pick from 2026-10-21 09:19 | request from 2026-10-20 17:19
+WAIT So Long, Marianne — Leonard Cohen | last aired 2026-10-19 21:19 | normal pick from 2026-10-21 09:19 | request now
 OK   So Real — Jeff Buckley | last aired 2026-10-18 18:24 | normal pick now | request now
 OK   So What — Miles Davis | last aired 2026-10-17 23:33 | normal pick now | request now
 WAIT So What — P!nk | last aired 2026-10-20 15:13 | normal pick from 2026-10-22 03:13 | request from 2026-10-21 11:13
-WAIT Sodade — Cesária Evora | last aired 2026-10-18 17:47 | normal pick from 2026-10-20 17:47 | request from 2026-10-20 17:47
+OK   Sodade — Cesária Evora | last aired 2026-10-18 17:47 | normal pick now | request now
 OK   Solidarity Forever — Pete Seeger | last aired 2026-10-18 21:57 | normal pick now | request now
 OK   Solitude — Geoffrey Oryema | last aired 2026-10-14 20:26 | normal pick now | request now
 OK   Some Place We Called Home — Piotr Musial | last aired 2026-10-16 05:26 | normal pick now | request now
@@ -24,7 +24,7 @@ WAIT Song for Zula — Phosphorescent | last aired 2026-10-19 15:51 | normal pic
 WAIT Song To The Siren — This Mortal Coil | last aired 2026-10-19 17:14 | normal pick from 2026-10-21 05:14 | request now
 OK   Songbird — Kenny G | last aired 2026-10-11 11:23 | normal pick now | request now
 OK   Soon It Will Be Cold Enough to Build Fires — Emancipator | last aired 2026-10-17 17:23 | normal pick now | request now
-OK   Souk Eye — Gorillaz | last aired 2026-10-16 10:10 | normal pick now | request now
+WAIT Souk Eye — Gorillaz | last aired 2026-10-20 17:37 | normal pick from 2026-10-22 05:37 | request from 2026-10-21 13:37
 WAIT Soukora — Ali Farka Touré | last aired 2026-10-20 10:41 | normal pick from 2026-10-22 10:41 | request from 2026-10-22 10:41
 OK   Soundtrack to Me and You — Swan Dive | last aired 2026-10-11 05:14 | normal pick now | request now
 OK   Sour Flower — Lianne La Havas | last aired 2026-10-18 23:48 | normal pick now | request now

@@ -1,8 +1,8 @@
-Track status, artists filed under BE (built Tue Oct 20, 10:05 AM PDT (17:05 UTC)). Times in UTC.
+Track status, artists filed under BE (built Tue Oct 20, 11:05 AM PDT (18:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Beach House — Bluebird | last aired 2026-10-11 03:23 | normal pick now | request now
-WAIT Beach House — Space Song | last aired 2026-10-19 05:15 | normal pick from 2026-10-20 17:15 | request now
+OK   Beach House — Space Song | last aired 2026-10-19 05:15 | normal pick now | request now
 WAIT Beastie Boys — Sabotage | last aired 2026-10-19 22:10 | normal pick from 2026-10-21 22:10 | request from 2026-10-21 22:10
 OK   Beatrice Rana — Keyboard Concerto No. 1 in D Minor, BWV 1052: I. Allegro | last aired 2026-10-11 19:13 | normal pick now | request now
 OK   Beatrice Rana — Libertango (Arr. Yamamoto for Piano 4-Hands) | last aired 2026-10-16 11:54 | normal pick now | request now

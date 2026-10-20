@@ -1,8 +1,8 @@
-Track status, artists filed under SE (built Tue Oct 20, 10:05 AM PDT (17:05 UTC)). Times in UTC.
+Track status, artists filed under SE (built Tue Oct 20, 11:05 AM PDT (18:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Sea Power — Instrument of Surrender | last aired 2026-10-13 22:35 | normal pick now | request now
-OK   Sea Power — La Revacholiere | last aired 2026-10-11 06:24 | normal pick now | request now
+WAIT Sea Power — La Revacholiere | last aired 2026-10-20 17:49 | normal pick from 2026-10-22 05:49 | request from 2026-10-21 13:49
 OK   Sea Power — Polyhedrons | last aired 2026-10-15 01:20 | normal pick now | request now
 OK   Sea Power — Whirling-In-Rags, 8 AM | last aired 2026-10-06 05:11 | normal pick now | request now
 OK   Seatbelts — Space Lion | last aired 2026-10-18 01:09 | normal pick now | request now
