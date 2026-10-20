@@ -1,4 +1,4 @@
-Track status, song titles filed under FL (built Mon Oct 19, 4:05 PM PDT (23:05 UTC)). Times in UTC.
+Track status, song titles filed under FL (built Mon Oct 19, 5:05 PM PDT (00:05 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Flaca — Andrés Calamaro | last aired 2026-10-17 10:52 | normal pick now | request now
@@ -11,6 +11,6 @@ WAIT Float On — Modest Mouse | last aired 2026-10-19 13:05 | normal pick from 
 OK   Flood — Jars Of Clay | last aired 2026-10-14 21:51 | normal pick now | request now
 WAIT Flowers — In Love With a Ghost | last aired 2026-10-19 21:42 | normal pick from 2026-10-21 09:42 | request from 2026-10-20 17:42
 WAIT Flowers — Miley Cyrus | last aired 2026-10-18 15:56 | normal pick from 2026-10-20 03:56 | request now
-WAIT Fly Me To The Moon (Remastered 2008) — Frank Sinatra | last aired 2026-10-19 03:14 | normal pick from 2026-10-20 15:14 | request from 2026-10-19 23:14
+WAIT Fly Me To The Moon (Remastered 2008) — Frank Sinatra | last aired 2026-10-19 03:14 | normal pick from 2026-10-20 15:14 | request now
 OK   Fly with Me — Iration | last aired 2026-10-15 13:46 | normal pick now | request now
 OK   The Fly (Remastered 2011) — U2 | last aired 2026-10-13 17:59 | normal pick now | request now

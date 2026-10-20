@@ -1,7 +1,7 @@
-Track status, song titles filed under ON (built Mon Oct 19, 4:05 PM PDT (23:05 UTC)). Times in UTC.
+Track status, song titles filed under ON (built Mon Oct 19, 5:05 PM PDT (00:05 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   On & On — Erykah Badu | last aired 2026-10-17 22:10 | normal pick now | request now
+WAIT On & On — Erykah Badu | last aired 2026-10-19 23:12 | normal pick from 2026-10-21 11:12 | request from 2026-10-20 19:12
 OK   On My Own — Patti LaBelle | last aired 2026-10-14 18:05 | normal pick now | request now
 OK   On the Nature of Daylight — Max Richter | last aired 2026-10-11 07:01 | normal pick now | request now
 OK   On The Road Again — Canned Heat | last aired 2026-10-17 11:40 | normal pick now | request now
@@ -16,7 +16,7 @@ OK   One Night In Bangkok (From “Chess” / Remastered 2016) — Murray Head |
 OK   One of These Mornings — Moby | last aired 2026-10-13 13:55 | normal pick now | request now
 OK   One Summer's Day (from 'Spirited Away') — Joe Hisaishi | last aired 2026-10-10 06:04 | normal pick now | request now
 OK   Only Happy When It Rains — Garbage | last aired 2026-10-16 03:15 | normal pick now | request now
-OK   Only Love Can Break Your Heart — Saint Etienne | last aired 2026-10-17 13:23 | normal pick now | request now
+WAIT Only Love Can Break Your Heart — Saint Etienne | last aired 2026-10-19 23:20 | normal pick from 2026-10-21 23:20 | request from 2026-10-21 23:20
 OK   Only You (Remastered 2008) — Yazoo | last aired 2026-10-16 16:35 | normal pick now | request now
 OK   Only You (There Will Never Be Another) — Side-A | last aired 2026-10-14 07:17 | normal pick now | request now
 OK   The One That Got Away — The Civil Wars | last aired 2026-10-17 16:03 | normal pick now | request now
