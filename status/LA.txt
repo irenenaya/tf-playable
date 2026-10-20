@@ -1,4 +1,4 @@
-Track status, artists filed under LA (built Tue Oct 20, 4:05 AM PDT (11:05 UTC)). Times in UTC.
+Track status, artists filed under LA (built Tue Oct 20, 5:05 AM PDT (12:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   La Fenice — Le Chant des oiseaux | last aired 2026-10-02 15:12 | normal pick now | request now
@@ -8,13 +8,13 @@ OK   Laibach — The Whistleblowers | last aired 2026-10-11 20:40 | normal pick 
 OK   Laith Al-Deen — Dein Lied | last aired 2026-10-18 10:25 | normal pick now | request now
 WAIT Lamb — Bonfire | last aired 2026-10-20 03:20 | normal pick from 2026-10-21 15:20 | request from 2026-10-20 23:20
 WAIT Lamb — Gorecki | last aired 2026-10-19 04:26 | normal pick from 2026-10-20 16:26 | request now
-WAIT Lana Del Rey — Diet Mountain Dew | last aired 2026-10-18 23:14 | normal pick from 2026-10-20 11:14 | request now
+OK   Lana Del Rey — Diet Mountain Dew | last aired 2026-10-18 23:14 | normal pick now | request now
 OK   Lana Del Rey — Heroin | last aired 2026-10-17 21:55 | normal pick now | request now
 OK   Lana Del Rey — Salvatore | last aired 2026-10-14 03:22 | normal pick now | request now
 WAIT Lana Del Rey — Venice Bitch | last aired 2026-10-19 03:22 | normal pick from 2026-10-20 15:22 | request now
 OK   Lana Del Rey — Young And Beautiful | last aired 2026-10-16 09:08 | normal pick now | request now
 OK   Lang Lang — Joe Hisaishi: Spring | last aired 2026-10-12 09:11 | normal pick now | request now
-OK   Laufey — Madwoman | last aired 2026-10-14 21:08 | normal pick now | request now
+WAIT Laufey — Madwoman | last aired 2026-10-20 11:31 | normal pick from 2026-10-21 23:31 | request from 2026-10-21 07:31
 OK   Laurie Anderson — Sharkey's Day (Album Version) | last aired 2026-10-18 07:26 | normal pick now | request now
 WAIT Lauryn Hill — Ex-Factor | last aired 2026-10-18 22:46 | normal pick from 2026-10-20 22:46 | request from 2026-10-20 22:46
 WAIT Lawrence — 23 | last aired 2026-10-20 08:51 | normal pick from 2026-10-22 08:51 | request from 2026-10-22 08:51

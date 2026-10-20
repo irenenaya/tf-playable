@@ -1,4 +1,4 @@
-Track status, song titles filed under BR (built Tue Oct 20, 4:05 AM PDT (11:05 UTC)). Times in UTC.
+Track status, song titles filed under BR (built Tue Oct 20, 5:05 AM PDT (12:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Brandenburg Concerto No. 3 in G Major, BWV 1048: I. Allegro — Herbert Waltl | last aired 2026-10-16 07:46 | normal pick now | request now
@@ -12,7 +12,7 @@ OK   Breathing Below Surface (Rerecorded) — Jesse Cook | last aired 2026-10-15
 OK   Bridges (Travessia) — Milton Nascimento | last aired 2026-10-17 11:32 | normal pick now | request now
 WAIT Brillas — Leon Larregui | last aired 2026-10-19 08:46 | normal pick from 2026-10-20 20:46 | request now
 OK   Bring Me To Life — Evanescence | last aired 2026-10-03 00:24 | normal pick now | request now
-WAIT Brothers in Arms — Dire Straits | last aired 2026-10-18 23:55 | normal pick from 2026-10-20 11:55 | request now
+OK   Brothers in Arms — Dire Straits | last aired 2026-10-18 23:55 | normal pick now | request now
 OK   Brothers In Arms — Junkie XL | last aired 2026-10-13 02:18 | normal pick now | request now
 OK   Brown Fluorescence — Helado Negro | last aired 2026-10-15 18:34 | normal pick now | request now
 OK   Brutal Love — The Vampire Lestat | last aired 2026-10-09 15:42 | normal pick now | request now
