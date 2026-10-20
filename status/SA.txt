@@ -1,11 +1,11 @@
-Track status, artists filed under SA (built Mon Oct 19, 11:05 PM PDT (06:05 UTC Tue)). Times in UTC.
+Track status, artists filed under SA (built Tue Oct 20, 1:05 AM PDT (08:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Sabaton — The Last Stand | last aired 2026-10-12 22:10 | normal pick now | request now
 OK   Sabrina Carpenter — Espresso | last aired 2026-10-18 05:19 | normal pick now | request now
 OK   Sabrina Carpenter — Please Please Please | last aired 2026-10-14 14:05 | normal pick now | request now
 WAIT Sabrina Carpenter — Taste | last aired 2026-10-19 09:48 | normal pick from 2026-10-20 21:48 | request now
-WAIT Sade — By Your Side  (Remastered Version) | last aired 2026-10-19 11:00 | normal pick from 2026-10-20 23:00 | request from 2026-10-20 07:00
+WAIT Sade — By Your Side  (Remastered Version) | last aired 2026-10-19 11:00 | normal pick from 2026-10-20 23:00 | request now
 OK   Sade — Cherish the Day  (Remastered Version) | last aired 2026-10-16 18:19 | normal pick now | request now
 WAIT Sade — Is It a Crime (Remastered Version) | last aired 2026-10-19 21:55 | normal pick from 2026-10-21 09:55 | request from 2026-10-20 17:55
 WAIT Sade — Kiss of Life (Remastered Version) | last aired 2026-10-20 01:46 | normal pick from 2026-10-21 13:46 | request from 2026-10-20 21:46
@@ -17,7 +17,7 @@ OK   Saindra — Mil Besos | last aired 2026-10-15 23:03 | normal pick now | req
 WAIT Saint Etienne — Only Love Can Break Your Heart | last aired 2026-10-19 23:21 | normal pick from 2026-10-21 23:21 | request from 2026-10-21 23:21
 OK   Salvador Sobral — Amar pelos Dois | last aired 2026-10-15 21:31 | normal pick now | request now
 OK   Sam Cooke — A Change Is Gonna Come | last aired 2026-10-17 21:43 | normal pick now | request now
-OK   Sampha — (No One Knows Me) Like the Piano | last aired 2026-10-16 13:29 | normal pick now | request now
+WAIT Sampha — (No One Knows Me) Like the Piano | last aired 2026-10-20 07:11 | normal pick from 2026-10-21 19:11 | request from 2026-10-21 03:11
 WAIT Santana — Black Magic Woman | last aired 2026-10-19 19:48 | normal pick from 2026-10-21 07:48 | request from 2026-10-20 15:48
 OK   Santana — Maria Maria | last aired 2026-10-11 14:19 | normal pick now | request now
 OK   Santana — Oye Como Va | last aired 2026-10-12 18:24 | normal pick now | request now

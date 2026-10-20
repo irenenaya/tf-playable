@@ -1,4 +1,4 @@
-Track status, song titles filed under SP (built Mon Oct 19, 11:05 PM PDT (06:05 UTC Tue)). Times in UTC.
+Track status, song titles filed under SP (built Tue Oct 20, 1:05 AM PDT (08:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Space Jam — Quad City DJ's | last aired 2026-10-13 15:44 | normal pick now | request now
@@ -11,6 +11,6 @@ OK   Spanish Castles In Space — The Orb | last aired 2026-10-17 15:38 | normal
 OK   Spellbound — Siouxsie & The Banshees | last aired 2026-10-14 21:19 | normal pick now | request now
 WAIT Spiegel im spiegel — Arvo Pärt | last aired 2026-10-20 05:58 | normal pick from 2026-10-21 17:58 | request from 2026-10-21 01:58
 OK   Spinning Around — Kylie Minogue | last aired 2026-10-15 13:39 | normal pick now | request now
-OK   Spinning Away — Brian Eno | last aired 2026-10-13 07:43 | normal pick now | request now
+WAIT Spinning Away — Brian Eno | last aired 2026-10-20 06:13 | normal pick from 2026-10-21 18:13 | request from 2026-10-21 02:13
 OK   SPIRITS — Nothing More | last aired 2026-10-15 19:32 | normal pick now | request now
 OK   Spit Out The Bone — Metallica | last aired 2026-10-13 18:20 | normal pick now | request now
