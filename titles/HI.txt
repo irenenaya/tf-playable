@@ -1,7 +1,7 @@
-Track status, song titles filed under HI (built Tue Oct 20, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, song titles filed under HI (built Tue Oct 20, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   High Horse — NMIXX | last aired 2026-10-15 04:48 | normal pick now | request now
+WAIT High Horse — NMIXX | last aired 2026-10-20 15:21 | normal pick from 2026-10-22 03:21 | request from 2026-10-21 11:21
 OK   Higher Ground (2014 Remaster) — Red Hot Chili Peppers | last aired 2026-10-13 16:27 | normal pick now | request now
 WAIT Higher Ground (Album Version) — Stevie Wonder | last aired 2026-10-19 09:51 | normal pick from 2026-10-20 21:51 | request now
 WAIT Hip To Be Square — Huey Lewis And The News | last aired 2026-10-19 11:56 | normal pick from 2026-10-21 11:56 | request from 2026-10-21 11:56

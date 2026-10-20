@@ -1,11 +1,11 @@
-Track status, song titles filed under AF (built Tue Oct 20, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, song titles filed under AF (built Tue Oct 20, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   A Forest — The Cure | last aired 2026-10-19 00:23 | normal pick now | request now
 OK   affection — BETWEEN FRIENDS | last aired 2026-10-16 01:26 | normal pick now | request now
 OK   Affirmation (Album Version) — George Benson | last aired 2026-10-17 12:54 | normal pick now | request now
 OK   Africa — Perpetuum Jazzile | last aired 2026-10-14 07:25 | normal pick now | request now
-WAIT Africa — Toto | last aired 2026-10-18 16:03 | normal pick from 2026-10-20 16:03 | request from 2026-10-20 16:03
+OK   Africa — Toto | last aired 2026-10-18 16:03 | normal pick now | request now
 OK   After Dark — Mr.Kitty | last aired 2026-10-06 08:49 | normal pick now | request now
 OK   After Hours — The Weeknd | last aired 2026-10-14 13:24 | normal pick now | request now
 WAIT After The Flood — Talk Talk | last aired 2026-10-20 13:07 | normal pick from 2026-10-22 01:07 | request from 2026-10-21 09:07

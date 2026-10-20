@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Tue Oct 20, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, artists filed under BE (built Tue Oct 20, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Beach House — Bluebird | last aired 2026-10-11 03:23 | normal pick now | request now
@@ -33,7 +33,7 @@ WAIT Betty Carter — Moonlight in Vermont | last aired 2026-10-20 11:00 | norma
 OK   BETWEEN FRIENDS — affection | last aired 2026-10-16 01:26 | normal pick now | request now
 OK   Beyoncé — Crazy In Love | last aired 2026-10-08 07:30 | normal pick now | request now
 OK   Beyoncé — TEXAS HOLD 'EM | last aired 2026-10-18 09:25 | normal pick now | request now
-WAIT The Beach Boys — God Only Knows (Stereo) | last aired 2026-10-19 03:48 | normal pick from 2026-10-20 15:48 | request now
+OK   The Beach Boys — God Only Knows (Stereo) | last aired 2026-10-19 03:48 | normal pick now | request now
 OK   The Beach Boys — Good Vibrations (Stereo/Remastered 2012) | last aired 2026-10-16 20:41 | normal pick now | request now
 OK   The Beatles — A Day In The Life (2017 Mix) | last aired 2026-10-09 17:05 | normal pick now | request now
 OK   The Beatles — Get Back (2021 Mix) | last aired 2026-10-09 17:25 | normal pick now | request now
@@ -46,5 +46,5 @@ OK   The Beatles — Rain (Remastered) | last aired 2026-10-18 05:49 | normal pi
 OK   The Beatles — Revolution 9 (Remastered 2009) | last aired 2026-09-14 19:37 | normal pick now | request now
 WAIT The Beatles — Strawberry Fields Forever | last aired 2026-10-20 12:40 | normal pick from 2026-10-22 00:40 | request from 2026-10-21 08:40
 OK   The Beatles — This Boy (Remastered) | last aired 2026-10-18 02:47 | normal pick now | request now
-OK   The Beatles — With A Little Help From My Friends (2017 Mix) | last aired 2026-10-14 22:23 | normal pick now | request now
+WAIT The Beatles — With A Little Help From My Friends (2017 Mix) | last aired 2026-10-20 15:40 | normal pick from 2026-10-22 03:40 | request from 2026-10-21 11:40
 OK   The Beatles — Yesterday (Remastered) | last aired 2026-10-16 21:46 | normal pick now | request now
