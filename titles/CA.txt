@@ -1,4 +1,4 @@
-Track status, song titles filed under CA (built Tue Oct 20, 9:05 AM PDT (16:05 UTC)). Times in UTC.
+Track status, song titles filed under CA (built Tue Oct 20, 10:05 AM PDT (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   California Dreamin' (Single Version) — The Mamas & The Papas | last aired 2026-10-14 00:49 | normal pick now | request now
@@ -18,5 +18,5 @@ WAIT Caribou — Polar Sun | last aired 2026-10-19 09:18 | normal pick from 2026
 WAIT Cariño — The Marías | last aired 2026-10-20 14:54 | normal pick from 2026-10-22 02:54 | request from 2026-10-21 10:54
 OK   Carry You — Martin Garrix | last aired 2026-10-16 03:48 | normal pick now | request now
 WAIT Cars — Gary Numan | last aired 2026-10-18 17:59 | normal pick from 2026-10-20 17:59 | request from 2026-10-20 17:59
-WAIT Casimir Pulaski Day — Sufjan Stevens | last aired 2026-10-19 04:38 | normal pick from 2026-10-20 16:38 | request now
+OK   Casimir Pulaski Day — Sufjan Stevens | last aired 2026-10-19 04:38 | normal pick now | request now
 OK   Caught Up in the Rapture (LP Version) — Anita Baker | last aired 2026-10-18 22:41 | normal pick now | request now

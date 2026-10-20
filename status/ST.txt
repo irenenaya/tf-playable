@@ -1,4 +1,4 @@
-Track status, artists filed under ST (built Tue Oct 20, 9:05 AM PDT (16:05 UTC)). Times in UTC.
+Track status, artists filed under ST (built Tue Oct 20, 10:05 AM PDT (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   St Germain — Rose rouge | last aired 2026-10-18 08:26 | normal pick now | request now
@@ -12,7 +12,7 @@ OK   Steely Dan — Almost Gothic (Album Version) | last aired 2026-10-16 20:51 
 OK   Steely Dan — Babylon Sisters | last aired 2026-10-17 00:49 | normal pick now | request now
 OK   Steely Dan — Home At Last | last aired 2026-10-17 13:01 | normal pick now | request now
 OK   Steely Dan — Jack of Speed (Album Version) | last aired 2026-10-12 20:39 | normal pick now | request now
-OK   Steely Dan — Kid Charlemagne | last aired 2026-09-29 15:12 | normal pick now | request now
+WAIT Steely Dan — Kid Charlemagne | last aired 2026-10-20 16:11 | normal pick from 2026-10-22 04:11 | request from 2026-10-21 12:11
 OK   Steely Dan — Peg | last aired 2026-10-18 14:43 | normal pick now | request now
 OK   Steely Dan — Time Out Of Mind | last aired 2026-10-18 07:04 | normal pick now | request now
 OK   Steve Miller Band — The Joker | last aired 2026-10-16 01:46 | normal pick now | request now

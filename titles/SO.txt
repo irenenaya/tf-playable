@@ -1,4 +1,4 @@
-Track status, song titles filed under SO (built Tue Oct 20, 9:05 AM PDT (16:05 UTC)). Times in UTC.
+Track status, song titles filed under SO (built Tue Oct 20, 10:05 AM PDT (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT So Alive — Love and Rockets | last aired 2026-10-19 22:53 | normal pick from 2026-10-21 10:53 | request from 2026-10-20 18:53
@@ -13,7 +13,7 @@ OK   Solitude — Geoffrey Oryema | last aired 2026-10-14 20:26 | normal pick no
 OK   Some Place We Called Home — Piotr Musial | last aired 2026-10-16 05:26 | normal pick now | request now
 WAIT Somebody Else — The 1975 | last aired 2026-10-20 13:17 | normal pick from 2026-10-22 01:17 | request from 2026-10-21 09:17
 OK   Somebody to Love (Album Version) — George Michael | last aired 2026-10-13 20:31 | normal pick now | request now
-OK   Somebody To Love — Queen | last aired 2026-10-13 20:26 | normal pick now | request now
+WAIT Somebody To Love — Queen | last aired 2026-10-20 16:24 | normal pick from 2026-10-22 04:24 | request from 2026-10-21 12:24
 OK   Someone Somewhere (In Summertime) — Simple Minds | last aired 2026-10-11 16:53 | normal pick now | request now
 OK   Something About Us — Daft Punk | last aired 2026-10-18 08:38 | normal pick now | request now
 OK   Sometimes It Snows in April (LP Version) — Prince | last aired 2026-10-14 19:53 | normal pick now | request now

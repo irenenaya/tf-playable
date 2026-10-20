@@ -1,9 +1,9 @@
-Track status, artists filed under DO (built Tue Oct 20, 9:05 AM PDT (16:05 UTC)). Times in UTC.
+Track status, artists filed under DO (built Tue Oct 20, 10:05 AM PDT (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Dolly Parton — 9 to 5 | last aired 2026-10-12 03:54 | normal pick now | request now
 OK   Dolly Parton — Coat of Many Colors | last aired 2026-10-16 21:09 | normal pick now | request now
-WAIT Dolly Parton — I Dreamed About Elvis | last aired 2026-10-19 20:50 | normal pick from 2026-10-21 08:50 | request from 2026-10-20 16:50
+WAIT Dolly Parton — I Dreamed About Elvis | last aired 2026-10-19 20:50 | normal pick from 2026-10-21 08:50 | request now
 OK   Dolly Parton — I Will Always Love You | last aired 2026-10-14 01:49 | normal pick now | request now
 OK   Dolly Parton — Jolene | last aired 2026-10-17 23:12 | normal pick now | request now
 WAIT Don McLean — Vincent | last aired 2026-10-19 00:49 | normal pick from 2026-10-21 00:49 | request from 2026-10-21 00:49
@@ -17,7 +17,7 @@ OK   Dorian Electra — Bizarre Love Triangle | last aired 2026-10-14 13:02 | no
 OK   Dorian Electra — Feel Good Inc. | last aired 2026-10-13 13:58 | normal pick now | request now
 OK   Dorian Electra — Hella Good | last aired 2026-10-03 16:47 | normal pick now | request now
 OK   Dot Allison — Bleached By The Sun | last aired 2026-10-16 04:49 | normal pick now | request now
-OK   The Doobie Brothers — What a Fool Believes | last aired 2026-10-17 00:26 | normal pick now | request now
+WAIT The Doobie Brothers — What a Fool Believes | last aired 2026-10-20 16:59 | normal pick from 2026-10-22 04:59 | request from 2026-10-21 12:59
 OK   The Doobie Brothers — You Belong to Me  (2016 Remaster) | last aired 2026-10-19 02:57 | normal pick now | request now
 OK   The Doors — Riders on the Storm | last aired 2026-10-15 13:59 | normal pick now | request now
 OK   The Doors — Spanish Caravan | last aired 2026-10-18 09:21 | normal pick now | request now

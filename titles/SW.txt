@@ -1,9 +1,9 @@
-Track status, song titles filed under SW (built Tue Oct 20, 9:05 AM PDT (16:05 UTC)). Times in UTC.
+Track status, song titles filed under SW (built Tue Oct 20, 10:05 AM PDT (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Sweet Caroline — Neil Diamond | last aired 2026-10-14 02:26 | normal pick now | request now
 OK   Sweet Child O' Mine — Guns N' Roses | last aired 2026-10-12 22:04 | normal pick now | request now
-WAIT Sweet Dreams (Are Made of This) [2018 Remastered] — Eurythmics, Annie Lennox, Dave Stewart | last aired 2026-10-18 16:50 | normal pick from 2026-10-20 16:50 | request from 2026-10-20 16:50
+OK   Sweet Dreams (Are Made of This) [2018 Remastered] — Eurythmics, Annie Lennox, Dave Stewart | last aired 2026-10-18 16:50 | normal pick now | request now
 OK   Sweet Jane   (Full Length Versio — The Velvet Underground | last aired 2026-09-05 10:40 | normal pick now | request now
 OK   Sweet Jane   (Full Length Version; 2015 Remaster) — The Velvet Underground | last aired 2026-10-18 09:50 | normal pick now | request now
 OK   Sweet Little Mountain Bird — The Ray Charles Singers | last aired 2026-09-18 12:34 | normal pick now | request now
