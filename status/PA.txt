@@ -1,4 +1,4 @@
-Track status, artists filed under PA (built Tue Oct 20, 2:05 PM PDT (21:05 UTC)). Times in UTC.
+Track status, artists filed under PA (built Tue Oct 20, 3:05 PM PDT (22:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Paco de Lucía — Entre Dos Aguas | last aired 2026-10-20 10:26 | normal pick from 2026-10-22 10:26 | request from 2026-10-22 10:26
@@ -16,7 +16,7 @@ OK   Patrik Andrén — ARC Raiders | last aired 2026-09-13 03:09 | normal pick 
 OK   Patsy Cline — Crazy (Single Version) | last aired 2026-10-14 22:35 | normal pick now | request now
 OK   Patsy Cline — Strange | last aired 2026-10-05 02:03 | normal pick now | request now
 WAIT Patti LaBelle — If Only You Knew | last aired 2026-10-19 04:21 | normal pick from 2026-10-21 04:21 | request from 2026-10-21 04:21
-OK   Patti LaBelle — On My Own | last aired 2026-10-14 18:05 | normal pick now | request now
+WAIT Patti LaBelle — On My Own | last aired 2026-10-20 21:59 | normal pick from 2026-10-22 09:59 | request from 2026-10-21 17:59
 OK   Paul Leonard-Morgan — She's a Pass | last aired 2026-10-18 02:28 | normal pick now | request now
 OK   Paul Mauriat — Love Is Blue (Album Version) | last aired 2026-10-17 07:11 | normal pick now | request now
 OK   Paul McCartney — Maybe I’m Amazed (2011 Remaster) | last aired 2026-10-14 16:47 | normal pick now | request now
