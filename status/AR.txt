@@ -1,16 +1,16 @@
-Track status, artists filed under AR (built Tue Oct 20, 2:05 AM PDT (09:05 UTC)). Times in UTC.
+Track status, artists filed under AR (built Tue Oct 20, 3:05 AM PDT (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Arcadia — The Promise  (2010 Remaster) | last aired 2026-10-15 17:47 | normal pick now | request now
 OK   Archivio Storico Fondazione Isabella Scelsi — Anahit Concerto per due ondiole | last aired 2026-10-02 03:03 | normal pick now | request now
 OK   Arctic Monkeys — 505 | last aired 2026-10-18 10:59 | normal pick now | request now
 OK   Arctic Monkeys — Do I Wanna Know? | last aired 2026-10-14 02:57 | normal pick now | request now
-OK   Arctic Monkeys — Fake Tales Of San Francisco | last aired 2026-10-14 16:14 | normal pick now | request now
+WAIT Arctic Monkeys — Fake Tales Of San Francisco | last aired 2026-10-20 09:05 | normal pick from 2026-10-21 21:05 | request from 2026-10-21 05:05
 OK   Arctic Monkeys — No. 1 Party Anthem | last aired 2026-10-17 05:48 | normal pick now | request now
-WAIT Aretha Franklin — Day Dreaming (Album Version) | last aired 2026-10-20 08:08 | normal pick from 2026-10-21 20:08 | request from 2026-10-21 04:08
+WAIT Aretha Franklin — Day Dreaming (Album Version) | last aired 2026-10-20 08:09 | normal pick from 2026-10-21 20:09 | request from 2026-10-21 04:09
 OK   Aretha Franklin — I Say a Little Prayer | last aired 2026-10-14 17:09 | normal pick now | request now
 WAIT Aretha Franklin — Precious Lord (Take My Hand) (Part One) | last aired 2026-10-18 22:20 | normal pick from 2026-10-20 10:20 | request now
 OK   Aretha Franklin — Rock Steady (Album Version) | last aired 2026-10-17 22:50 | normal pick now | request now
 WAIT Aretha Franklin — Wholy Holy | last aired 2026-10-19 02:18 | normal pick from 2026-10-20 14:18 | request now
 OK   Armin van Buuren — Set Me Free | last aired 2026-10-16 03:32 | normal pick now | request now
-WAIT Arvo Pärt — Spiegel im spiegel | last aired 2026-10-20 05:58 | normal pick from 2026-10-21 17:58 | request from 2026-10-21 01:58
+WAIT Arvo Pärt — Spiegel im spiegel | last aired 2026-10-20 05:59 | normal pick from 2026-10-21 17:59 | request from 2026-10-21 01:59

@@ -1,4 +1,4 @@
-Track status, song titles filed under AL (built Tue Oct 20, 2:05 AM PDT (09:05 UTC)). Times in UTC.
+Track status, song titles filed under AL (built Tue Oct 20, 3:05 AM PDT (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   A Life (1895 - 1915) — Mark Hollis | last aired 2026-10-14 13:52 | normal pick now | request now
@@ -6,7 +6,7 @@ WAIT A Little Lost — Peter Broderick | last aired 2026-10-19 17:24 | normal pi
 OK   Albatross — Fleetwood Mac | last aired 2026-10-05 18:17 | normal pick now | request now
 OK   Algorithm — Heejin | last aired 2026-10-15 08:20 | normal pick now | request now
 WAIT Alien Observer — Grouper | last aired 2026-10-20 07:07 | normal pick from 2026-10-22 07:07 | request from 2026-10-22 07:07
-OK   Alison — Slowdive | last aired 2026-10-17 18:02 | normal pick now | request now
+WAIT Alison — Slowdive | last aired 2026-10-20 09:53 | normal pick from 2026-10-22 09:53 | request from 2026-10-22 09:53
 OK   Alive And Kicking (Remastered 2002) — Simple Minds | last aired 2026-10-15 22:51 | normal pick now | request now
 OK   All Along The Watchtower (Live - Rattle & Hum Version) — U2 | last aired 2026-10-13 00:24 | normal pick now | request now
 WAIT All I Wanna Do — Sheryl Crow | last aired 2026-10-19 00:09 | normal pick from 2026-10-20 12:09 | request now

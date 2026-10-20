@@ -1,8 +1,8 @@
-Track status, artists filed under AP (built Tue Oct 20, 2:05 AM PDT (09:05 UTC)). Times in UTC.
+Track status, artists filed under AP (built Tue Oct 20, 3:05 AM PDT (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Aphex Twin — Avril 14th | last aired 2026-10-19 06:32 | normal pick from 2026-10-20 18:32 | request now
-WAIT Aphex Twin — Flim | last aired 2026-10-20 06:28 | normal pick from 2026-10-21 18:28 | request from 2026-10-21 02:28
+WAIT Aphex Twin — Flim | last aired 2026-10-20 06:29 | normal pick from 2026-10-21 18:29 | request from 2026-10-21 02:29
 OK   Aphex Twin — Rhubarb Orc. 19.53 Rev | last aired 2026-10-18 03:17 | normal pick now | request now
 OK   Aphex Twin — Windowlicker | last aired 2026-09-26 05:07 | normal pick now | request now
 WAIT Aphex Twin — Xtal | last aired 2026-10-19 23:40 | normal pick from 2026-10-21 11:40 | request from 2026-10-20 19:40

@@ -1,4 +1,4 @@
-Track status, song titles filed under AT (built Tue Oct 20, 2:05 AM PDT (09:05 UTC)). Times in UTC.
+Track status, song titles filed under AT (built Tue Oct 20, 3:05 AM PDT (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   A Taste of Honey — Herb Alpert's Tijuana Brass | last aired 2026-10-13 09:30 | normal pick now | request now
@@ -8,7 +8,7 @@ OK   At Last (Album Version) — Cyndi Lauper | last aired 2026-08-27 14:57 | no
 OK   At Last (Album Version) — The Temptations | last aired 2026-10-17 12:23 | normal pick now | request now
 OK   At Last (LP Version) — Joni Mitchell | last aired 2026-09-04 00:09 | normal pick now | request now
 OK   At Last — Baby Face Willette | last aired 2026-09-26 09:07 | normal pick now | request now
-WAIT At Last — Etta James | last aired 2026-10-20 08:57 | normal pick from 2026-10-21 20:57 | request from 2026-10-21 04:57
+WAIT At Last — Etta James | last aired 2026-10-20 08:58 | normal pick from 2026-10-21 20:58 | request from 2026-10-21 04:58
 OK   At Last — Gene Watson | last aired 2026-10-17 10:29 | normal pick now | request now
 OK   At Last — Geraint Watkins | last aired 2026-10-17 12:36 | normal pick now | request now
 OK   At Last — Glenn Miller & His Orchestra | last aired 2026-10-18 02:00 | normal pick now | request now
