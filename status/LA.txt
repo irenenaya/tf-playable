@@ -1,4 +1,4 @@
-Track status, artists filed under LA (built Tue Oct 20, 1:05 AM PDT (08:05 UTC)). Times in UTC.
+Track status, artists filed under LA (built Tue Oct 20, 2:05 AM PDT (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   La Fenice — Le Chant des oiseaux | last aired 2026-10-02 15:12 | normal pick now | request now
@@ -17,5 +17,5 @@ OK   Lang Lang — Joe Hisaishi: Spring | last aired 2026-10-12 09:11 | normal p
 OK   Laufey — Madwoman | last aired 2026-10-14 21:08 | normal pick now | request now
 OK   Laurie Anderson — Sharkey's Day (Album Version) | last aired 2026-10-18 07:26 | normal pick now | request now
 WAIT Lauryn Hill — Ex-Factor | last aired 2026-10-18 22:46 | normal pick from 2026-10-20 22:46 | request from 2026-10-20 22:46
-OK   Lawrence — 23 | last aired 2026-10-17 11:48 | normal pick now | request now
+WAIT Lawrence — 23 | last aired 2026-10-20 08:50 | normal pick from 2026-10-22 08:50 | request from 2026-10-22 08:50
 WAIT The La's — There She Goes | last aired 2026-10-20 01:55 | normal pick from 2026-10-21 13:55 | request from 2026-10-20 21:55

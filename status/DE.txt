@@ -1,4 +1,4 @@
-Track status, artists filed under DE (built Tue Oct 20, 1:05 AM PDT (08:05 UTC)). Times in UTC.
+Track status, artists filed under DE (built Tue Oct 20, 2:05 AM PDT (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT De La Soul — Me Myself and I | last aired 2026-10-18 15:33 | normal pick from 2026-10-20 15:33 | request from 2026-10-20 15:33
@@ -11,7 +11,7 @@ OK   Def Leppard — Photograph | last aired 2026-10-18 10:21 | normal pick now 
 WAIT Deftones — Change (In the House of Flies) | last aired 2026-10-19 23:30 | normal pick from 2026-10-21 11:30 | request from 2026-10-20 19:30
 OK   Deftones — Cherry Waves | last aired 2026-10-14 10:21 | normal pick now | request now
 OK   Delia Derbyshire — Doctor Who Opening Titles (“In Colour” Mix, Daleks Version) | last aired 2026-10-15 16:19 | normal pick now | request now
-WAIT Dennis Edwards — Don't Look Any Further (Single Version) | last aired 2026-10-18 20:55 | normal pick from 2026-10-20 08:55 | request now
+OK   Dennis Edwards — Don't Look Any Further (Single Version) | last aired 2026-10-18 20:55 | normal pick now | request now
 OK   Depeche Mode — Enjoy the Silence | last aired 2026-10-14 10:42 | normal pick now | request now
 OK   Depeche Mode — Just Can't Get Enough | last aired 2026-10-12 04:30 | normal pick now | request now
 WAIT Depeche Mode — Policy of Truth | last aired 2026-10-19 23:49 | normal pick from 2026-10-21 11:49 | request from 2026-10-20 19:49
