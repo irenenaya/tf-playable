@@ -1,9 +1,9 @@
-Track status, artists filed under LA (built Mon Oct 19, 6:05 PM PDT (01:05 UTC Tue)). Times in UTC.
+Track status, artists filed under LA (built Mon Oct 19, 7:05 PM PDT (02:05 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   La Fenice — Le Chant des oiseaux | last aired 2026-10-02 15:12 | normal pick now | request now
 OK   La Rappresentante di Lista — Ciao Ciao | last aired 2026-10-16 16:29 | normal pick now | request now
-WAIT Lady Gaga — Just Dance | last aired 2026-10-19 22:32 | normal pick from 2026-10-21 10:32 | request from 2026-10-20 18:32
+WAIT Lady Gaga — Just Dance | last aired 2026-10-19 22:33 | normal pick from 2026-10-21 10:33 | request from 2026-10-20 18:33
 OK   Laibach — The Whistleblowers | last aired 2026-10-11 20:40 | normal pick now | request now
 OK   Laith Al-Deen — Dein Lied | last aired 2026-10-18 10:25 | normal pick now | request now
 OK   Lamb — Bonfire | last aired 2026-10-16 22:34 | normal pick now | request now
@@ -18,4 +18,4 @@ OK   Laufey — Madwoman | last aired 2026-10-14 21:08 | normal pick now | reque
 OK   Laurie Anderson — Sharkey's Day (Album Version) | last aired 2026-10-18 07:26 | normal pick now | request now
 WAIT Lauryn Hill — Ex-Factor | last aired 2026-10-18 22:46 | normal pick from 2026-10-20 22:46 | request from 2026-10-20 22:46
 OK   Lawrence — 23 | last aired 2026-10-17 11:48 | normal pick now | request now
-OK   The La's — There She Goes | last aired 2026-10-11 22:47 | normal pick now | request now
+WAIT The La's — There She Goes | last aired 2026-10-20 01:54 | normal pick from 2026-10-21 13:54 | request from 2026-10-20 21:54
