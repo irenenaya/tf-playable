@@ -1,9 +1,9 @@
-Track status, song titles filed under RE (built Tue Oct 20, 6:05 AM PDT (13:05 UTC)). Times in UTC.
+Track status, song titles filed under RE (built Tue Oct 20, 7:05 AM PDT (14:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Reason or Rhyme — Bryan Ferry | last aired 2026-10-16 04:19 | normal pick now | request now
 OK   Rebel Girl — Bikini Kill | last aired 2026-10-04 21:25 | normal pick now | request now
-OK   Rebel Rebel — David Bowie | last aired 2026-10-04 12:56 | normal pick now | request now
+WAIT Rebel Rebel — David Bowie | last aired 2026-10-20 13:33 | normal pick from 2026-10-22 01:33 | request from 2026-10-21 09:33
 OK   Red Moon — Al Di Meola | last aired 2026-10-15 03:10 | normal pick now | request now
 OK   Redemption Day (Album Version) — Johnny Cash | last aired 2026-10-18 12:09 | normal pick now | request now
 OK   Rehab — Amy Winehouse | last aired 2026-10-16 19:32 | normal pick now | request now
@@ -17,4 +17,4 @@ OK   Revenge of Instinct — Gesu No Kiwami Otome | last aired 2026-10-16 03:03 
 OK   Revolution 9 (Remastered 2009) — The Beatles | last aired 2026-09-14 19:37 | normal pick now | request now
 WAIT Reward — THE TEARDROP EXPLODES | last aired 2026-10-19 07:27 | normal pick from 2026-10-20 19:27 | request now
 OK   Rewind — Wonder Girls | last aired 2026-10-15 08:58 | normal pick now | request now
-WAIT Réu Confesso — Tim Maia | last aired 2026-10-20 10:04 | normal pick from 2026-10-22 10:04 | request from 2026-10-22 10:04
+WAIT Réu Confesso — Tim Maia | last aired 2026-10-20 10:05 | normal pick from 2026-10-22 10:05 | request from 2026-10-22 10:05

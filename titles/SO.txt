@@ -1,4 +1,4 @@
-Track status, song titles filed under SO (built Tue Oct 20, 6:05 AM PDT (13:05 UTC)). Times in UTC.
+Track status, song titles filed under SO (built Tue Oct 20, 7:05 AM PDT (14:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT So Alive — Love and Rockets | last aired 2026-10-19 22:53 | normal pick from 2026-10-21 10:53 | request from 2026-10-20 18:53
@@ -11,7 +11,7 @@ WAIT Sodade — Cesária Evora | last aired 2026-10-18 17:47 | normal pick from 
 OK   Solidarity Forever — Pete Seeger | last aired 2026-10-18 21:57 | normal pick now | request now
 OK   Solitude — Geoffrey Oryema | last aired 2026-10-14 20:26 | normal pick now | request now
 OK   Some Place We Called Home — Piotr Musial | last aired 2026-10-16 05:26 | normal pick now | request now
-OK   Somebody Else — The 1975 | last aired 2026-10-15 05:30 | normal pick now | request now
+WAIT Somebody Else — The 1975 | last aired 2026-10-20 13:17 | normal pick from 2026-10-22 01:17 | request from 2026-10-21 09:17
 OK   Somebody to Love (Album Version) — George Michael | last aired 2026-10-13 20:31 | normal pick now | request now
 OK   Somebody To Love — Queen | last aired 2026-10-13 20:26 | normal pick now | request now
 OK   Someone Somewhere (In Summertime) — Simple Minds | last aired 2026-10-11 16:53 | normal pick now | request now
@@ -21,7 +21,7 @@ OK   Somewhere, My Love (Lara's Theme from "Doctor Zhivago") (Album Version) —
 OK   Sonate Pacifique — L'Impératrice | last aired 2026-10-18 05:07 | normal pick now | request now
 OK   Song 2 — Blur | last aired 2026-10-18 13:28 | normal pick now | request now
 WAIT Song for Zula — Phosphorescent | last aired 2026-10-19 15:51 | normal pick from 2026-10-21 03:51 | request now
-WAIT Song To The Siren — This Mortal Coil | last aired 2026-10-19 17:14 | normal pick from 2026-10-21 05:14 | request from 2026-10-20 13:14
+WAIT Song To The Siren — This Mortal Coil | last aired 2026-10-19 17:14 | normal pick from 2026-10-21 05:14 | request now
 OK   Songbird — Kenny G | last aired 2026-10-11 11:23 | normal pick now | request now
 OK   Soon It Will Be Cold Enough to Build Fires — Emancipator | last aired 2026-10-17 17:23 | normal pick now | request now
 OK   Souk Eye — Gorillaz | last aired 2026-10-16 10:10 | normal pick now | request now

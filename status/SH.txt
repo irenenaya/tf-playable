@@ -1,4 +1,4 @@
-Track status, artists filed under SH (built Tue Oct 20, 6:05 AM PDT (13:05 UTC)). Times in UTC.
+Track status, artists filed under SH (built Tue Oct 20, 7:05 AM PDT (14:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Shaboozey — A Bar Song (Tipsy) | last aired 2026-10-03 16:39 | normal pick now | request now
@@ -10,4 +10,4 @@ OK   Sheryl Crow — All I Wanna Do | last aired 2026-10-19 00:09 | normal pick 
 OK   Sheryl Crow — The First Cut Is The Deepest | last aired 2026-10-16 20:55 | normal pick now | request now
 OK   Shida Shahabi — Futō | last aired 2026-10-16 14:16 | normal pick now | request now
 WAIT SHINee — Married To The Music | last aired 2026-10-20 10:22 | normal pick from 2026-10-22 10:22 | request from 2026-10-22 10:22
-OK   Shira Kammen — Downstream (Remastered, 2024) | last aired 2026-10-15 02:59 | normal pick now | request now
+WAIT Shira Kammen — Downstream (Remastered, 2024) | last aired 2026-10-20 14:01 | normal pick from 2026-10-22 02:01 | request from 2026-10-21 10:01

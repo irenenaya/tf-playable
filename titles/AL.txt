@@ -1,4 +1,4 @@
-Track status, song titles filed under AL (built Tue Oct 20, 6:05 AM PDT (13:05 UTC)). Times in UTC.
+Track status, song titles filed under AL (built Tue Oct 20, 7:05 AM PDT (14:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   A Life (1895 - 1915) — Mark Hollis | last aired 2026-10-14 13:52 | normal pick now | request now
@@ -6,7 +6,7 @@ WAIT A Little Lost — Peter Broderick | last aired 2026-10-19 17:24 | normal pi
 OK   Albatross — Fleetwood Mac | last aired 2026-10-05 18:17 | normal pick now | request now
 OK   Algorithm — Heejin | last aired 2026-10-15 08:20 | normal pick now | request now
 WAIT Alien Observer — Grouper | last aired 2026-10-20 07:07 | normal pick from 2026-10-22 07:07 | request from 2026-10-22 07:07
-WAIT Alison — Slowdive | last aired 2026-10-20 09:53 | normal pick from 2026-10-22 09:53 | request from 2026-10-22 09:53
+WAIT Alison — Slowdive | last aired 2026-10-20 09:54 | normal pick from 2026-10-22 09:54 | request from 2026-10-22 09:54
 OK   Alive And Kicking (Remastered 2002) — Simple Minds | last aired 2026-10-15 22:51 | normal pick now | request now
 OK   All Along The Watchtower (Live - Rattle & Hum Version) — U2 | last aired 2026-10-13 00:24 | normal pick now | request now
 OK   All I Wanna Do — Sheryl Crow | last aired 2026-10-19 00:09 | normal pick now | request now
@@ -16,7 +16,7 @@ OK   All My Little Words — The Magnetic Fields | last aired 2026-10-18 13:10 |
 OK   All Star (Album Version) — Smash Mouth | last aired 2026-10-03 17:02 | normal pick now | request now
 OK   All Summer — YASSiN & Sean Terrio | last aired 2026-10-15 21:52 | normal pick now | request now
 OK   All The Small Things — blink-182 | last aired 2026-10-18 17:26 | normal pick now | request now
-WAIT All The Way — Kat Edmonson | last aired 2026-10-20 11:22 | normal pick from 2026-10-21 23:22 | request from 2026-10-21 07:22
+WAIT All The Way — Kat Edmonson | last aired 2026-10-20 11:23 | normal pick from 2026-10-21 23:23 | request from 2026-10-21 07:23
 OK   All Through the Night — Cyndi Lauper | last aired 2026-10-14 22:47 | normal pick now | request now
 OK   All We Are — Matt Nathanson | last aired 2026-10-16 01:34 | normal pick now | request now
 WAIT Almost Blue — Chet Baker | last aired 2026-10-19 08:54 | normal pick from 2026-10-20 20:54 | request now

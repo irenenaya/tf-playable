@@ -1,4 +1,4 @@
-Track status, song titles filed under GR (built Tue Oct 20, 6:05 AM PDT (13:05 UTC)). Times in UTC.
+Track status, song titles filed under GR (built Tue Oct 20, 7:05 AM PDT (14:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Grace Kelly — MIKA | last aired 2026-10-18 15:11 | normal pick now | request now
@@ -6,5 +6,5 @@ OK   Gracias a la Vida (En Vivo NY) — Mercedes Sosa | last aired 2026-10-14 05
 OK   Grandpa (Tell Me 'Bout The Good Old Days) — The Judds | last aired 2026-10-18 00:46 | normal pick now | request now
 OK   greedy — Tate McRae | last aired 2026-10-18 03:24 | normal pick now | request now
 WAIT Green Onions — Booker T. & The M.G.'s | last aired 2026-10-20 08:48 | normal pick from 2026-10-22 08:48 | request from 2026-10-22 08:48
-WAIT The Great Gig in the Sky (2023 Remaster) — Pink Floyd | last aired 2026-10-20 12:07 | normal pick from 2026-10-22 00:07 | request from 2026-10-21 08:07
+WAIT The Great Gig in the Sky (2023 Remaster) — Pink Floyd | last aired 2026-10-20 12:08 | normal pick from 2026-10-22 00:08 | request from 2026-10-21 08:08
 OK   The Great Pretender (Single Version) — The Platters | last aired 2026-10-16 16:32 | normal pick now | request now

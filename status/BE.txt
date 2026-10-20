@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Tue Oct 20, 6:05 AM PDT (13:05 UTC)). Times in UTC.
+Track status, artists filed under BE (built Tue Oct 20, 7:05 AM PDT (14:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Beach House — Bluebird | last aired 2026-10-11 03:23 | normal pick now | request now
@@ -16,7 +16,7 @@ OK   Bee Gees — Night Fever (From "Saturday Night Fever" Soundtrack) | last ai
 OK   Beenie Man — Feel It Boy | last aired 2026-10-16 01:08 | normal pick now | request now
 OK   Belcea Quartet — Quatuor à cordes n° 4, Sz. 91 - String Quartet No. 4 in C Major, Sz. 91: IV. Allegretto pizzicato | last aired 2026-10-16 14:38 | normal pick now | request now
 WAIT Belle and Sebastian — The Boy with the Arab Strap | last aired 2026-10-20 09:48 | normal pick from 2026-10-22 09:48 | request from 2026-10-22 09:48
-WAIT Ben Allison — D.A.V.E. | last aired 2026-10-20 11:09 | normal pick from 2026-10-21 23:09 | request from 2026-10-21 07:09
+WAIT Ben Allison — D.A.V.E. | last aired 2026-10-20 11:10 | normal pick from 2026-10-21 23:10 | request from 2026-10-21 07:10
 WAIT Ben E. King — Stand By Me | last aired 2026-10-19 18:48 | normal pick from 2026-10-21 18:48 | request from 2026-10-21 18:48
 OK   Ben Harper — Yard Sale | last aired 2026-10-18 21:37 | normal pick now | request now
 OK   Ben&Ben — Leaves | last aired 2026-10-16 04:44 | normal pick now | request now
@@ -24,12 +24,12 @@ OK   Ben&Ben — Maybe The Night | last aired 2026-10-08 16:41 | normal pick now
 OK   Benjamin Francis Leftwich — Ticket To Ride | last aired 2026-10-16 08:22 | normal pick now | request now
 OK   Benny Goodman — Sing Sing Sing (With A Swing) (live) | last aired 2026-10-13 22:06 | normal pick now | request now
 OK   Benny Sings — Rolled Up | last aired 2026-10-14 16:06 | normal pick now | request now
-OK   Benny Sings — Sailing | last aired 2026-10-13 16:53 | normal pick now | request now
+WAIT Benny Sings — Sailing | last aired 2026-10-20 13:58 | normal pick from 2026-10-22 01:58 | request from 2026-10-21 09:58
 OK   Benson Boone — Beautiful Things | last aired 2026-10-15 20:17 | normal pick now | request now
 OK   Berlin — Take My Breath Away | last aired 2026-10-16 08:29 | normal pick now | request now
-WAIT Bernard Purdie — Cool Down | last aired 2026-10-18 13:34 | normal pick from 2026-10-20 13:34 | request from 2026-10-20 13:34
+OK   Bernard Purdie — Cool Down | last aired 2026-10-18 13:34 | normal pick now | request now
 OK   Bert Kaempfert — A Swingin' Safari | last aired 2026-10-17 23:48 | normal pick now | request now
-WAIT Betty Carter — Moonlight in Vermont | last aired 2026-10-20 10:59 | normal pick from 2026-10-22 10:59 | request from 2026-10-22 10:59
+WAIT Betty Carter — Moonlight in Vermont | last aired 2026-10-20 11:00 | normal pick from 2026-10-22 11:00 | request from 2026-10-22 11:00
 OK   BETWEEN FRIENDS — affection | last aired 2026-10-16 01:26 | normal pick now | request now
 OK   Beyoncé — Crazy In Love | last aired 2026-10-08 07:30 | normal pick now | request now
 OK   Beyoncé — TEXAS HOLD 'EM | last aired 2026-10-18 09:25 | normal pick now | request now
@@ -44,7 +44,7 @@ OK   The Beatles — Lucy In The Sky With Diamonds (Remastered 2009) | last aire
 OK   The Beatles — Octopus's Garden (Remastered) | last aired 2026-10-17 23:45 | normal pick now | request now
 OK   The Beatles — Rain (Remastered) | last aired 2026-10-18 05:49 | normal pick now | request now
 OK   The Beatles — Revolution 9 (Remastered 2009) | last aired 2026-09-14 19:37 | normal pick now | request now
-WAIT The Beatles — Strawberry Fields Forever | last aired 2026-10-20 12:39 | normal pick from 2026-10-22 00:39 | request from 2026-10-21 08:39
+WAIT The Beatles — Strawberry Fields Forever | last aired 2026-10-20 12:40 | normal pick from 2026-10-22 00:40 | request from 2026-10-21 08:40
 OK   The Beatles — This Boy (Remastered) | last aired 2026-10-18 02:47 | normal pick now | request now
 OK   The Beatles — With A Little Help From My Friends (2017 Mix) | last aired 2026-10-14 22:23 | normal pick now | request now
 OK   The Beatles — Yesterday (Remastered) | last aired 2026-10-16 21:46 | normal pick now | request now

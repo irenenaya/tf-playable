@@ -1,8 +1,8 @@
-Track status, song titles filed under WH (built Tue Oct 20, 6:05 AM PDT (13:05 UTC)). Times in UTC.
+Track status, song titles filed under WH (built Tue Oct 20, 7:05 AM PDT (14:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Whistleblowers — Laibach | last aired 2026-10-11 20:40 | normal pick now | request now
-WAIT Whales Tails — Cocteau Twins | last aired 2026-10-19 17:06 | normal pick from 2026-10-21 17:06 | request from 2026-10-21 17:06
+WAIT Whales Tails — Cocteau Twins | last aired 2026-10-19 17:06 | normal pick from 2026-10-21 05:06 | request now
 OK   What a Fool Believes — The Doobie Brothers | last aired 2026-10-17 00:26 | normal pick now | request now
 OK   What About Us — P!nk | last aired 2026-10-13 04:28 | normal pick now | request now
 WAIT What Cha' Gonna Do for Me — Chaka Khan | last aired 2026-10-19 11:11 | normal pick from 2026-10-21 11:11 | request from 2026-10-21 11:11
@@ -15,7 +15,7 @@ WAIT What's Going On — Marvin Gaye | last aired 2026-10-20 08:05 | normal pick
 OK   When Did Love Become A Test — Tom Konkle | last aired 2026-10-16 13:58 | normal pick now | request now
 OK   When I Met You — Apo Hiking Society | last aired 2026-10-16 04:30 | normal pick now | request now
 OK   When I'm Gone — Albert Hammond | last aired 2026-10-15 15:52 | normal pick now | request now
-WAIT When Love Comes To Town (Album Version) — U2 | last aired 2026-10-19 01:40 | normal pick from 2026-10-20 13:40 | request now
+OK   When Love Comes To Town (Album Version) — U2 | last aired 2026-10-19 01:40 | normal pick now | request now
 OK   when the party's over — Billie Eilish | last aired 2026-10-17 03:25 | normal pick now | request now
 OK   When the Sun Goes Down — The Jetzons | last aired 2026-10-02 05:22 | normal pick now | request now
 OK   When You Go (That's When You'll Know) — The Altons | last aired 2026-10-14 16:51 | normal pick now | request now
