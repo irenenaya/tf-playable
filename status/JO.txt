@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Tue Oct 20, 1:05 PM PDT (20:05 UTC)). Times in UTC.
+Track status, artists filed under JO (built Tue Oct 20, 2:05 PM PDT (21:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-10-20 12:05 | normal pick from 2026-10-22 12:05 | request from 2026-10-22 12:05
@@ -40,7 +40,7 @@ OK   Johnny Cash — Redemption Day (Album Version) | last aired 2026-10-18 12:0
 WAIT Johnny Cash — Ring of Fire | last aired 2026-10-19 16:19 | normal pick from 2026-10-21 04:19 | request now
 OK   Johnny Mathis — Wonderful! Wonderful! | last aired 2026-10-14 01:09 | normal pick now | request now
 OK   Joker Out — Novi Val | last aired 2026-10-12 20:07 | normal pick now | request now
-WAIT Jon Hopkins — Open Eye Signal (Remaster 2023) | last aired 2026-10-19 08:18 | normal pick from 2026-10-20 20:18 | request now
+OK   Jon Hopkins — Open Eye Signal (Remaster 2023) | last aired 2026-10-19 08:18 | normal pick now | request now
 OK   Jon Hopkins — Small Memory | last aired 2026-10-19 07:45 | normal pick now | request now
 OK   Jonathan Parecki — Senbonzakura (Hatsune Miku) | last aired 2026-09-02 17:36 | normal pick now | request now
 WAIT Joni Mitchell — A Case of You | last aired 2026-10-18 21:22 | normal pick from 2026-10-20 21:22 | request from 2026-10-20 21:22
@@ -49,7 +49,7 @@ OK   Joni Mitchell — River | last aired 2026-10-13 12:16 | normal pick now | r
 WAIT Jorge Ben Jor — Mas, Que Nada! | last aired 2026-10-19 12:14 | normal pick from 2026-10-21 12:14 | request from 2026-10-21 12:14
 OK   Josh Rouse — 1972 | last aired 2026-10-18 14:04 | normal pick now | request now
 OK   Josh Rouse — Street Lights | last aired 2026-10-15 18:29 | normal pick now | request now
-WAIT José González — Heartbeats | last aired 2026-10-18 20:18 | normal pick from 2026-10-20 20:18 | request from 2026-10-20 20:18
+OK   José González — Heartbeats | last aired 2026-10-18 20:18 | normal pick now | request now
 OK   Journey — Don't Stop Believin' (Album Version) | last aired 2026-10-18 16:32 | normal pick now | request now
 OK   Journey — Lights (Album Version) | last aired 2026-10-18 12:42 | normal pick now | request now
 WAIT Joywave — In Clover | last aired 2026-10-20 14:20 | normal pick from 2026-10-22 02:20 | request from 2026-10-21 10:20

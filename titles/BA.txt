@@ -1,4 +1,4 @@
-Track status, song titles filed under BA (built Tue Oct 20, 1:05 PM PDT (20:05 UTC)). Times in UTC.
+Track status, song titles filed under BA (built Tue Oct 20, 2:05 PM PDT (21:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   ...Baby One More Time (from Kung Fu Panda 4) — Tenacious D | last aired 2026-10-18 11:11 | normal pick now | request now
@@ -12,7 +12,7 @@ WAIT Bachianas Brasileiras No. 5: I Aria (Cantilena) — Hector Villalobos | las
 OK   Back At The Boathouse — Breakestra | last aired 2026-10-17 13:07 | normal pick now | request now
 OK   Back Stabbers — The O'Jays | last aired 2026-10-17 13:49 | normal pick now | request now
 WAIT Bad Moon Rising (Remastered 1985) — Creedence Clearwater Revival | last aired 2026-10-19 20:36 | normal pick from 2026-10-21 08:36 | request now
-WAIT Bag Lady (Album Version) — Erykah Badu | last aired 2026-10-20 00:59 | normal pick from 2026-10-21 12:59 | request from 2026-10-20 20:59
+WAIT Bag Lady (Album Version) — Erykah Badu | last aired 2026-10-20 00:59 | normal pick from 2026-10-21 12:59 | request now
 OK   Bag's New Groove — Milt Jackson | last aired 2026-10-17 08:40 | normal pick now | request now
 OK   Baker Street — Gerry Rafferty | last aired 2026-10-15 17:55 | normal pick now | request now
 OK   Baller — Abor & Tynna | last aired 2026-10-16 02:11 | normal pick now | request now

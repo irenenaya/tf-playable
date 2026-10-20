@@ -1,7 +1,7 @@
-Track status, artists filed under BO (built Tue Oct 20, 1:05 PM PDT (20:05 UTC)). Times in UTC.
+Track status, artists filed under BO (built Tue Oct 20, 2:05 PM PDT (21:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Boards of Canada — Blood In The Labyrinth | last aired 2026-10-19 09:00 | normal pick from 2026-10-20 21:00 | request now
+OK   Boards of Canada — Blood In The Labyrinth | last aired 2026-10-19 09:00 | normal pick now | request now
 WAIT Boards of Canada — Dayvan Cowboy | last aired 2026-10-19 15:40 | normal pick from 2026-10-21 15:40 | request from 2026-10-21 15:40
 OK   Boards of Canada — Olson | last aired 2026-10-17 17:26 | normal pick now | request now
 OK   Boards of Canada — Roygbiv | last aired 2026-10-19 04:36 | normal pick now | request now
@@ -21,10 +21,10 @@ OK   Bon Jovi — Livin' On A Prayer | last aired 2026-10-18 16:45 | normal pick
 WAIT Bon Jovi — You Give Love A Bad Name | last aired 2026-10-20 12:47 | normal pick from 2026-10-22 00:47 | request from 2026-10-21 08:47
 OK   Boney M. — Gotta Go Home | last aired 2026-10-18 17:38 | normal pick now | request now
 OK   Boney M. — Sunny | last aired 2026-10-15 10:19 | normal pick now | request now
-OK   Bonnie Tyler — Holding Out for a Hero (From "Footloose" Soundtrack) | last aired 2026-10-17 19:49 | normal pick now | request now
+WAIT Bonnie Tyler — Holding Out for a Hero (From "Footloose" Soundtrack) | last aired 2026-10-20 20:25 | normal pick from 2026-10-22 08:25 | request from 2026-10-21 16:25
 OK   Bonnie Tyler — Total Eclipse of the Heart | last aired 2026-10-16 20:22 | normal pick now | request now
 OK   Bonobo — Cirrus | last aired 2026-10-19 04:10 | normal pick now | request now
-WAIT Bonobo — Kiara | last aired 2026-10-19 08:26 | normal pick from 2026-10-20 20:26 | request now
+OK   Bonobo — Kiara | last aired 2026-10-19 08:26 | normal pick now | request now
 WAIT Bonobo — Kong | last aired 2026-10-19 01:18 | normal pick from 2026-10-21 01:18 | request from 2026-10-21 01:18
 OK   Bonobo — Terrapin | last aired 2026-10-19 07:40 | normal pick now | request now
 WAIT Booker T. & The M.G.'s — Green Onions | last aired 2026-10-20 08:48 | normal pick from 2026-10-22 08:48 | request from 2026-10-22 08:48
