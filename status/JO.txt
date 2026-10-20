@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Mon Oct 19, 5:05 PM PDT (00:05 UTC Tue)). Times in UTC.
+Track status, artists filed under JO (built Mon Oct 19, 6:05 PM PDT (01:05 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-10-12 10:35 | normal pick now | request now
@@ -23,7 +23,7 @@ OK   John Carpenter — Halloween Theme | last aired 2026-10-13 02:49 | normal p
 WAIT John Coltrane — Lush Life | last aired 2026-10-19 19:26 | normal pick from 2026-10-21 19:26 | request from 2026-10-21 19:26
 WAIT John Coltrane — My Favorite Things | last aired 2026-10-19 03:51 | normal pick from 2026-10-20 15:51 | request now
 WAIT John Denver — Take Me Home, Country Roads | last aired 2026-10-18 21:34 | normal pick from 2026-10-20 21:34 | request from 2026-10-20 21:34
-WAIT John Lee Hooker — Boom Boom | last aired 2026-10-18 12:24 | normal pick from 2026-10-20 00:24 | request now
+OK   John Lee Hooker — Boom Boom | last aired 2026-10-18 12:24 | normal pick now | request now
 OK   John Lee Hooker — I Cover the Waterfront | last aired 2026-10-18 09:01 | normal pick now | request now
 OK   John Lennon — Give Peace A Chance (Remastered 2010) | last aired 2026-10-13 04:40 | normal pick now | request now
 OK   John Lennon — Imagine (Remastered 2010) | last aired 2026-10-14 00:42 | normal pick now | request now
@@ -36,7 +36,7 @@ OK   John T. Williams — Anything Goes | last aired 2026-10-16 05:14 | normal p
 OK   John Williams — Theme From Superman  (Concert Version) | last aired 2026-10-17 19:06 | normal pick now | request now
 OK   Johnny Cash — Folsom Prison Blues | last aired 2026-10-17 20:35 | normal pick now | request now
 WAIT Johnny Cash — Hurt (Album Version) | last aired 2026-10-19 21:34 | normal pick from 2026-10-21 09:34 | request from 2026-10-20 17:34
-WAIT Johnny Cash — Redemption Day (Album Version) | last aired 2026-10-18 12:09 | normal pick from 2026-10-20 00:09 | request now
+OK   Johnny Cash — Redemption Day (Album Version) | last aired 2026-10-18 12:09 | normal pick now | request now
 WAIT Johnny Cash — Ring of Fire | last aired 2026-10-19 16:19 | normal pick from 2026-10-21 04:19 | request from 2026-10-20 12:19
 OK   Johnny Mathis — Wonderful! Wonderful! | last aired 2026-10-14 01:09 | normal pick now | request now
 OK   Joker Out — Novi Val | last aired 2026-10-12 20:07 | normal pick now | request now
@@ -51,7 +51,7 @@ WAIT Josh Rouse — 1972 | last aired 2026-10-18 14:04 | normal pick from 2026-1
 OK   Josh Rouse — Street Lights | last aired 2026-10-15 18:29 | normal pick now | request now
 WAIT José González — Heartbeats | last aired 2026-10-18 20:18 | normal pick from 2026-10-20 20:18 | request from 2026-10-20 20:18
 WAIT Journey — Don't Stop Believin' (Album Version) | last aired 2026-10-18 16:32 | normal pick from 2026-10-20 04:32 | request now
-WAIT Journey — Lights (Album Version) | last aired 2026-10-18 12:42 | normal pick from 2026-10-20 00:42 | request now
+OK   Journey — Lights (Album Version) | last aired 2026-10-18 12:42 | normal pick now | request now
 OK   Joywave — In Clover | last aired 2026-10-15 05:40 | normal pick now | request now
 OK   Joywave — Rumors | last aired 2026-10-12 01:11 | normal pick now | request now
 WAIT João Gilberto — Chega de Saudade | last aired 2026-10-19 03:09 | normal pick from 2026-10-21 03:09 | request from 2026-10-21 03:09

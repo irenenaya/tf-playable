@@ -1,13 +1,13 @@
-Track status, artists filed under BO (built Mon Oct 19, 5:05 PM PDT (00:05 UTC Tue)). Times in UTC.
+Track status, artists filed under BO (built Mon Oct 19, 6:05 PM PDT (01:05 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Boards of Canada — Blood In The Labyrinth | last aired 2026-10-19 09:00 | normal pick from 2026-10-20 21:00 | request from 2026-10-20 05:00
 WAIT Boards of Canada — Dayvan Cowboy | last aired 2026-10-19 15:40 | normal pick from 2026-10-21 15:40 | request from 2026-10-21 15:40
 OK   Boards of Canada — Olson | last aired 2026-10-17 17:26 | normal pick now | request now
-WAIT Boards of Canada — Roygbiv | last aired 2026-10-19 04:36 | normal pick from 2026-10-20 16:36 | request from 2026-10-20 00:36
+WAIT Boards of Canada — Roygbiv | last aired 2026-10-19 04:36 | normal pick from 2026-10-20 16:36 | request now
 OK   Bob Dylan — Girl from the North Country | last aired 2026-10-17 23:25 | normal pick now | request now
 WAIT Bob Dylan — The Lonesome Death of Hattie Carroll | last aired 2026-10-18 21:12 | normal pick from 2026-10-20 09:12 | request now
-OK   Bob Marley & The Wailers — Get Up, Stand Up | last aired 2026-10-14 15:26 | normal pick now | request now
+WAIT Bob Marley & The Wailers — Get Up, Stand Up | last aired 2026-10-20 00:37 | normal pick from 2026-10-22 00:37 | request from 2026-10-22 00:37
 OK   Bobby Caldwell — Coming Down from Love | last aired 2026-10-14 12:11 | normal pick now | request now
 WAIT Bobby Caldwell — What You Won't Do for Love | last aired 2026-10-18 07:43 | normal pick from 2026-10-20 07:43 | request from 2026-10-20 07:43
 OK   Bobby Darin — Beyond the Sea | last aired 2026-10-14 01:55 | normal pick now | request now
@@ -23,7 +23,7 @@ WAIT Boney M. — Gotta Go Home | last aired 2026-10-18 17:38 | normal pick from
 OK   Boney M. — Sunny | last aired 2026-10-15 10:19 | normal pick now | request now
 OK   Bonnie Tyler — Holding Out for a Hero (From "Footloose" Soundtrack) | last aired 2026-10-17 19:49 | normal pick now | request now
 OK   Bonnie Tyler — Total Eclipse of the Heart | last aired 2026-10-16 20:22 | normal pick now | request now
-WAIT Bonobo — Cirrus | last aired 2026-10-19 04:10 | normal pick from 2026-10-20 16:10 | request from 2026-10-20 00:10
+WAIT Bonobo — Cirrus | last aired 2026-10-19 04:10 | normal pick from 2026-10-20 16:10 | request now
 WAIT Bonobo — Kiara | last aired 2026-10-19 08:26 | normal pick from 2026-10-20 20:26 | request from 2026-10-20 04:26
 WAIT Bonobo — Kong | last aired 2026-10-19 01:18 | normal pick from 2026-10-21 01:18 | request from 2026-10-21 01:18
 WAIT Bonobo — Terrapin | last aired 2026-10-19 07:40 | normal pick from 2026-10-20 19:40 | request from 2026-10-20 03:40
