@@ -1,17 +1,17 @@
-Track status, artists filed under DA (built Mon Oct 19, 10:05 PM PDT (05:05 UTC Tue)). Times in UTC.
+Track status, artists filed under DA (built Mon Oct 19, 11:05 PM PDT (06:05 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT D'Angelo — Untitled (How Does It Feel) | last aired 2026-10-19 11:21 | normal pick from 2026-10-20 23:21 | request from 2026-10-20 07:21
 OK   Daft Punk — Around the World | last aired 2026-10-11 01:17 | normal pick now | request now
 OK   Daft Punk — Face to Face | last aired 2026-10-14 16:35 | normal pick now | request now
-WAIT Daft Punk feat. Julian Casablancas — Instant Crush (feat. Julian Casablancas) | last aired 2026-10-20 01:57 | normal pick from 2026-10-21 13:57 | request from 2026-10-20 21:57
+WAIT Daft Punk feat. Julian Casablancas — Instant Crush (feat. Julian Casablancas) | last aired 2026-10-20 01:58 | normal pick from 2026-10-21 13:58 | request from 2026-10-20 21:58
 OK   Daft Punk — Harder, Better, Faster, Stronger | last aired 2026-10-13 14:47 | normal pick now | request now
 WAIT Daft Punk — One More Time | last aired 2026-10-19 10:22 | normal pick from 2026-10-20 22:22 | request from 2026-10-20 06:22
 OK   Daft Punk — Something About Us | last aired 2026-10-18 08:38 | normal pick now | request now
 OK   Daft Punk — Touch It / Technologic | last aired 2026-10-06 15:05 | normal pick now | request now
 OK   Daft Punk — Voyager | last aired 2026-10-17 07:22 | normal pick now | request now
 WAIT Dafuniks — The Dance | last aired 2026-10-18 15:30 | normal pick from 2026-10-20 15:30 | request from 2026-10-20 15:30
-WAIT Daikaiju — Magic Wanda | last aired 2026-10-18 17:34 | normal pick from 2026-10-20 05:34 | request now
+OK   Daikaiju — Magic Wanda | last aired 2026-10-18 17:34 | normal pick now | request now
 OK   Dalida — Paroles paroles (Album Version) | last aired 2026-10-17 07:40 | normal pick now | request now
 OK   Damien Rice — The Blower's Daughter | last aired 2026-10-17 21:36 | normal pick now | request now
 WAIT Daniel Barenboim — Nocturne n° 2 in E flat, op. 9 n° 2 - Nocturne No. 2 in E-Flat Major, Op. 9 No. 2 | last aired 2026-10-18 18:03 | normal pick from 2026-10-20 18:03 | request from 2026-10-20 18:03
@@ -32,7 +32,7 @@ OK   David Bowie — Slip Away | last aired 2026-10-17 01:45 | normal pick now |
 OK   David Bowie — Slow Burn | last aired 2026-10-17 15:53 | normal pick now | request now
 OK   David Bowie — Space Oddity | last aired 2026-09-28 12:18 | normal pick now | request now
 OK   David Bowie — Starman  (2012 Remaster) | last aired 2026-10-14 20:33 | normal pick now | request now
-OK   David Bowie — Subterraneans  (2017 Remaster) | last aired 2026-10-12 07:28 | normal pick now | request now
+WAIT David Bowie — Subterraneans  (2017 Remaster) | last aired 2026-10-20 05:52 | normal pick from 2026-10-21 17:52 | request from 2026-10-21 01:52
 OK   David Bowie — Warszawa  (2017 Remaster) | last aired 2026-10-17 13:13 | normal pick now | request now
 OK   David Bowie — Wild Is the Wind  (2016 Remaster) | last aired 2026-10-18 00:08 | normal pick now | request now
 OK   David Byrne — Everybody's Coming to My House (Live) | last aired 2026-10-15 16:23 | normal pick now | request now

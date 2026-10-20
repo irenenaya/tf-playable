@@ -1,4 +1,4 @@
-Track status, artists filed under TA (built Mon Oct 19, 10:05 PM PDT (05:05 UTC Tue)). Times in UTC.
+Track status, artists filed under TA (built Mon Oct 19, 11:05 PM PDT (06:05 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Taeko Onuki — 4:00 A.M. | last aired 2026-10-08 15:07 | normal pick now | request now
@@ -16,7 +16,7 @@ WAIT Tame Impala — Is It True | last aired 2026-10-19 10:18 | normal pick from
 WAIT Tame Impala — The Less I Know The Better | last aired 2026-10-19 18:37 | normal pick from 2026-10-21 18:37 | request from 2026-10-21 18:37
 OK   Tammy Wynette — Stand By Your Man (Album Version) | last aired 2026-10-06 18:52 | normal pick now | request now
 OK   Tangerine Dream — Love On A Real Train | last aired 2026-10-16 12:49 | normal pick now | request now
-WAIT Tangerine Dream — Stratosfear (Digital Remastered) | last aired 2026-10-20 02:26 | normal pick from 2026-10-21 14:26 | request from 2026-10-20 22:26
+WAIT Tangerine Dream — Stratosfear (Digital Remastered) | last aired 2026-10-20 02:27 | normal pick from 2026-10-21 14:27 | request from 2026-10-20 22:27
 OK   Tate McRae — greedy | last aired 2026-10-18 03:24 | normal pick now | request now
 OK   Tate McRae — Miss possessive | last aired 2026-08-13 13:28 | normal pick now | request now
 OK   Tate McRae — TIT FOR TAT | last aired 2026-10-15 23:25 | normal pick now | request now

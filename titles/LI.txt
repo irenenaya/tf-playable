@@ -1,4 +1,4 @@
-Track status, song titles filed under LI (built Mon Oct 19, 10:05 PM PDT (05:05 UTC Tue)). Times in UTC.
+Track status, song titles filed under LI (built Mon Oct 19, 11:05 PM PDT (06:05 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Li Beirut (after Joaquín Rodrigo) — Karim Sulayman | last aired 2026-10-17 06:37 | normal pick now | request now
@@ -9,7 +9,7 @@ WAIT Libertango — Yo-Yo Ma | last aired 2026-10-18 19:49 | normal pick from 20
 OK   Lid — Christian Löffler | last aired 2026-10-16 10:58 | normal pick now | request now
 WAIT Life Is Strange — Lord Huron | last aired 2026-10-18 20:13 | normal pick from 2026-10-20 20:13 | request from 2026-10-20 20:13
 OK   Life Is Sweet — Maria McKee | last aired 2026-10-16 07:31 | normal pick now | request now
-WAIT Life Itself — Glass Animals | last aired 2026-10-18 07:38 | normal pick from 2026-10-20 07:38 | request from 2026-10-20 07:38
+OK   Life Itself — Glass Animals | last aired 2026-10-18 07:38 | normal pick now | request now
 OK   Life Letters (Slowed+Reverb) — Never Get Used To People | last aired 2026-10-18 01:29 | normal pick now | request now
 OK   LIFE — Neuro-sama | last aired 2026-08-30 14:26 | normal pick now | request now
 OK   Life Without The Living — Tom Konkle | last aired 2026-10-17 06:06 | normal pick now | request now
@@ -24,5 +24,5 @@ OK   Little Rhymes — Mercury Rev | last aired 2026-10-13 01:47 | normal pick n
 OK   Live For You — Thee Sacred Souls | last aired 2026-10-15 10:44 | normal pick now | request now
 WAIT Live Forever — Oasis | last aired 2026-10-18 19:20 | normal pick from 2026-10-20 07:20 | request now
 WAIT Livin' On A Prayer — Bon Jovi | last aired 2026-10-18 16:45 | normal pick from 2026-10-20 16:45 | request from 2026-10-20 16:45
-WAIT Living For The City (Album Version) — Stevie Wonder | last aired 2026-10-20 01:20 | normal pick from 2026-10-21 13:20 | request from 2026-10-20 21:20
+WAIT Living For The City (Album Version) — Stevie Wonder | last aired 2026-10-20 01:21 | normal pick from 2026-10-21 13:21 | request from 2026-10-20 21:21
 OK   Living the Dream — Steve Roach | last aired 2026-10-13 19:39 | normal pick now | request now
