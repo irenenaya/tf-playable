@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Mon Oct 19, 8:05 PM PDT (03:05 UTC Tue)). Times in UTC.
+Track status, artists filed under JO (built Mon Oct 19, 9:05 PM PDT (04:05 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-10-12 10:35 | normal pick now | request now
@@ -41,7 +41,7 @@ WAIT Johnny Cash — Ring of Fire | last aired 2026-10-19 16:19 | normal pick fr
 OK   Johnny Mathis — Wonderful! Wonderful! | last aired 2026-10-14 01:09 | normal pick now | request now
 OK   Joker Out — Novi Val | last aired 2026-10-12 20:07 | normal pick now | request now
 WAIT Jon Hopkins — Open Eye Signal (Remaster 2023) | last aired 2026-10-19 08:18 | normal pick from 2026-10-20 20:18 | request from 2026-10-20 04:18
-WAIT Jon Hopkins — Small Memory | last aired 2026-10-19 07:45 | normal pick from 2026-10-20 19:45 | request from 2026-10-20 03:45
+WAIT Jon Hopkins — Small Memory | last aired 2026-10-19 07:45 | normal pick from 2026-10-20 19:45 | request now
 OK   Jonathan Parecki — Senbonzakura (Hatsune Miku) | last aired 2026-09-02 17:36 | normal pick now | request now
 WAIT Joni Mitchell — A Case of You | last aired 2026-10-18 21:22 | normal pick from 2026-10-20 21:22 | request from 2026-10-20 21:22
 OK   Joni Mitchell — At Last (LP Version) | last aired 2026-09-04 00:09 | normal pick now | request now
@@ -55,4 +55,4 @@ OK   Journey — Lights (Album Version) | last aired 2026-10-18 12:42 | normal p
 OK   Joywave — In Clover | last aired 2026-10-15 05:40 | normal pick now | request now
 OK   Joywave — Rumors | last aired 2026-10-12 01:11 | normal pick now | request now
 WAIT João Gilberto — Chega de Saudade | last aired 2026-10-19 03:09 | normal pick from 2026-10-21 03:09 | request from 2026-10-21 03:09
-OK   João Gilberto — Garota de Ipanema (Live) | last aired 2026-10-14 04:29 | normal pick now | request now
+WAIT João Gilberto — Garota de Ipanema (Live) | last aired 2026-10-20 03:05 | normal pick from 2026-10-21 15:05 | request from 2026-10-20 23:05
