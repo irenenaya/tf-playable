@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Tue Oct 20, 12:05 PM PDT (19:05 UTC)). Times in UTC.
+Track status, artists filed under JO (built Tue Oct 20, 1:05 PM PDT (20:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-10-20 12:05 | normal pick from 2026-10-22 12:05 | request from 2026-10-22 12:05
@@ -15,7 +15,7 @@ OK   Joe Hisaishi — One Summer's Day (from 'Spirited Away') | last aired 2026-
 OK   Joe Hisaishi — Ponyo's Sisters Lend a Hand - A Song for Mothers and the Sea (from 'Ponyo on the Cliff by the Sea') | last aired 2026-10-13 02:59 | normal pick now | request now
 OK   Joe Hisaishi — Summer (from 'Kikujiro') | last aired 2026-10-11 06:03 | normal pick now | request now
 OK   Joe Hisaishi — Symphonic Suite “Princess Mononoke”2021 : V. Mononoke Hime (Live) | last aired 2026-10-18 18:52 | normal pick now | request now
-OK   Joe Hisaishi — The Path of the Wind (from 'My Neighbor Totoro') | last aired 2026-10-13 08:47 | normal pick now | request now
+WAIT Joe Hisaishi — The Path of the Wind (from 'My Neighbor Totoro') | last aired 2026-10-20 19:22 | normal pick from 2026-10-22 07:22 | request from 2026-10-21 15:22
 OK   Joe Hisaishi — アシタカとサン (from 'Princess Mononoke') | last aired 2026-10-09 06:12 | normal pick now | request now
 OK   Joel Pott — Chances | last aired 2026-10-19 00:14 | normal pick now | request now
 OK   Johann Johannsson — Flight From The City - Jóhannsson: Flight from the City | last aired 2026-10-18 13:00 | normal pick now | request now
@@ -41,7 +41,7 @@ WAIT Johnny Cash — Ring of Fire | last aired 2026-10-19 16:19 | normal pick fr
 OK   Johnny Mathis — Wonderful! Wonderful! | last aired 2026-10-14 01:09 | normal pick now | request now
 OK   Joker Out — Novi Val | last aired 2026-10-12 20:07 | normal pick now | request now
 WAIT Jon Hopkins — Open Eye Signal (Remaster 2023) | last aired 2026-10-19 08:18 | normal pick from 2026-10-20 20:18 | request now
-WAIT Jon Hopkins — Small Memory | last aired 2026-10-19 07:45 | normal pick from 2026-10-20 19:45 | request now
+OK   Jon Hopkins — Small Memory | last aired 2026-10-19 07:45 | normal pick now | request now
 OK   Jonathan Parecki — Senbonzakura (Hatsune Miku) | last aired 2026-09-02 17:36 | normal pick now | request now
 WAIT Joni Mitchell — A Case of You | last aired 2026-10-18 21:22 | normal pick from 2026-10-20 21:22 | request from 2026-10-20 21:22
 WAIT Joni Mitchell — At Last (LP Version) | last aired 2026-10-20 11:54 | normal pick from 2026-10-21 23:54 | request from 2026-10-21 07:54

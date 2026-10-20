@@ -1,4 +1,4 @@
-Track status, song titles filed under MA (built Tue Oct 20, 12:05 PM PDT (19:05 UTC)). Times in UTC.
+Track status, song titles filed under MA (built Tue Oct 20, 1:05 PM PDT (20:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Mad World — Gary Jules | last aired 2026-10-13 20:23 | normal pick now | request now
@@ -13,7 +13,7 @@ OK   Make Me Feel — Janelle Monáe | last aired 2026-10-14 20:45 | normal pick
 OK   MALAMENTE (Cap.1: Augurio) — ROSALÍA | last aired 2026-10-15 13:29 | normal pick now | request now
 OK   Man in the Box — Alice In Chains | last aired 2026-10-18 12:27 | normal pick now | request now
 OK   Manipulation (The Dance) — Tom Konkle | last aired 2026-10-18 03:37 | normal pick now | request now
-WAIT Mannish Boy — Muddy Waters | last aired 2026-10-19 07:29 | normal pick from 2026-10-20 19:29 | request now
+OK   Mannish Boy — Muddy Waters | last aired 2026-10-19 07:29 | normal pick now | request now
 OK   Maria Maria — Santana | last aired 2026-10-11 14:19 | normal pick now | request now
 WAIT Married To The Music — SHINee | last aired 2026-10-20 10:22 | normal pick from 2026-10-22 10:22 | request from 2026-10-22 10:22
 OK   Marunouchi sadistic (Cover) — Mizuki Tomoda | last aired 2026-10-17 14:46 | normal pick now | request now
@@ -28,7 +28,7 @@ WAIT May Ninth — Khruangbin | last aired 2026-10-20 03:44 | normal pick from 2
 OK   Maybe I’m Amazed (2011 Remaster) — Paul McCartney | last aired 2026-10-14 16:47 | normal pick now | request now
 OK   Maybe — The Ink Spots | last aired 2026-10-14 12:22 | normal pick now | request now
 OK   Maybe The Night — Ben&Ben | last aired 2026-10-08 16:41 | normal pick now | request now
-WAIT Maybe They Will Sing for Us Tomorrow — Hammock | last aired 2026-10-19 08:05 | normal pick from 2026-10-20 20:05 | request now
+OK   Maybe They Will Sing for Us Tomorrow — Hammock | last aired 2026-10-19 08:05 | normal pick now | request now
 OK   Má Vlast, JB 1:112-Vltava Smetana, Bedřich 伏塔瓦河 史麥塔納 — 江晴 | last aired 2026-09-21 02:37 | normal pick now | request now
 OK   Männer (Remastered 2016) — Herbert Grönemeyer | last aired 2026-10-09 11:50 | normal pick now | request now
 WAIT The Makings of You (2019 Remaster) (Remastered) — Curtis Mayfield | last aired 2026-10-18 22:07 | normal pick from 2026-10-20 22:07 | request from 2026-10-20 22:07

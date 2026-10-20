@@ -1,4 +1,4 @@
-Track status, song titles filed under FA (built Tue Oct 20, 12:05 PM PDT (19:05 UTC)). Times in UTC.
+Track status, song titles filed under FA (built Tue Oct 20, 1:05 PM PDT (20:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Face to Face — Daft Punk | last aired 2026-10-14 16:35 | normal pick now | request now
@@ -21,7 +21,7 @@ OK   Fancy — Reba McEntire | last aired 2026-10-16 05:21 | normal pick now | r
 WAIT Fantas — Caterina Barbieri | last aired 2026-10-20 17:11 | normal pick from 2026-10-22 05:11 | request from 2026-10-21 13:11
 OK   Fantasiestücke, Op. 73 - Schumann: Fantasiestücke, Op. 73: No. 1, Zart und mit Ausdruck — Sol Gabetta | last aired 2026-10-16 14:08 | normal pick now | request now
 OK   Fast Car  (2015 Remaster) — Tracy Chapman | last aired 2026-10-15 23:35 | normal pick now | request now
-WAIT Fast Car (LP Version) — Tracy Chapman | last aired 2026-10-18 19:08 | normal pick from 2026-10-20 19:08 | request from 2026-10-20 19:08
+OK   Fast Car (LP Version) — Tracy Chapman | last aired 2026-10-18 19:08 | normal pick now | request now
 OK   Faster — Matt Nathanson | last aired 2026-10-13 11:10 | normal pick now | request now
 OK   Fatti avanti amore (feat. Jovanotti)  (5030 version) — Nek | last aired 2026-10-18 01:56 | normal pick now | request now
-OK   The Fairy Feller's Master-Stroke (2026 Mix) — Queen | last aired 2026-10-05 13:34 | normal pick now | request now
+WAIT The Fairy Feller's Master-Stroke (2026 Mix) — Queen | last aired 2026-10-20 19:16 | normal pick from 2026-10-22 07:16 | request from 2026-10-21 15:16

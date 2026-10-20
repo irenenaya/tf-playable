@@ -1,4 +1,4 @@
-Track status, song titles filed under LA (built Tue Oct 20, 12:05 PM PDT (19:05 UTC)). Times in UTC.
+Track status, song titles filed under LA (built Tue Oct 20, 1:05 PM PDT (20:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   L'Amour Looks Something Like You (2018 Remaster) — Kate Bush | last aired 2026-10-17 23:57 | normal pick now | request now
@@ -28,4 +28,4 @@ OK   Late To Work — Marc Rebillet | last aired 2026-10-09 16:38 | normal pick 
 OK   Lateralus — TOOL | last aired 2026-10-13 10:04 | normal pick now | request now
 OK   Lazing On a Sunday Afternoon — The Czech Philharmonic and Theatre | last aired 2026-09-22 07:06 | normal pick now | request now
 OK   The Last Day Of Summer — The Cure | last aired 2026-10-15 00:00 | normal pick now | request now
-OK   The Last Stand — Sabaton | last aired 2026-10-12 22:10 | normal pick now | request now
+WAIT The Last Stand — Sabaton | last aired 2026-10-20 19:44 | normal pick from 2026-10-22 07:44 | request from 2026-10-21 15:44

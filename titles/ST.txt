@@ -1,4 +1,4 @@
-Track status, song titles filed under ST (built Tue Oct 20, 12:05 PM PDT (19:05 UTC)). Times in UTC.
+Track status, song titles filed under ST (built Tue Oct 20, 1:05 PM PDT (20:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   S.T.A.Y. — Hans Zimmer | last aired 2026-10-17 19:10 | normal pick now | request now
@@ -6,7 +6,7 @@ WAIT St. James Infirmary — Jim James | last aired 2026-10-20 04:00 | normal pi
 OK   Stacy's Mom — Fountains Of Wayne | last aired 2026-10-15 16:38 | normal pick now | request now
 OK   Stairway to Heaven  (Remaster) — Led Zeppelin | last aired 2026-09-30 22:40 | normal pick now | request now
 WAIT Stand By Me — Ben E. King | last aired 2026-10-19 18:48 | normal pick from 2026-10-21 18:48 | request from 2026-10-21 18:48
-OK   Stand By Your Man (Album Version) — Tammy Wynette | last aired 2026-10-06 18:52 | normal pick now | request now
+WAIT Stand By Your Man (Album Version) — Tammy Wynette | last aired 2026-10-20 19:58 | normal pick from 2026-10-22 07:58 | request from 2026-10-21 15:58
 OK   Star Fruit Surf Rider (Damon Albarn Remix) — Cornelius | last aired 2026-10-08 11:04 | normal pick now | request now
 OK   Starboy — The Weeknd | last aired 2026-09-29 12:58 | normal pick now | request now
 WAIT Stardust — Bobby Hutcherson | last aired 2026-10-20 11:49 | normal pick from 2026-10-22 11:49 | request from 2026-10-22 11:49
@@ -36,6 +36,6 @@ OK   Street Lights — Josh Rouse | last aired 2026-10-15 18:29 | normal pick no
 OK   Streets of Philadelphia  (Single Edit) — Bruce Springsteen | last aired 2026-10-14 04:33 | normal pick now | request now
 OK   Stressed Out — twenty one pilots | last aired 2026-09-30 20:48 | normal pick now | request now
 OK   Strings of Light — Yussef Kamaal | last aired 2026-10-18 10:01 | normal pick now | request now
-OK   Stripsearch — Faith No More | last aired 2026-10-03 17:11 | normal pick now | request now
+WAIT Stripsearch — Faith No More | last aired 2026-10-20 19:48 | normal pick from 2026-10-22 07:48 | request from 2026-10-21 15:48
 OK   Stuck In The Middle With You — Stealers Wheel | last aired 2026-10-16 06:02 | normal pick now | request now
 WAIT Stupid Cupid — Red Velvet | last aired 2026-10-20 15:33 | normal pick from 2026-10-22 15:33 | request from 2026-10-22 15:33
