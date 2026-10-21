@@ -1,9 +1,9 @@
-Track status, artists filed under SA (built Wed Oct 21, 11:05 AM PDT (18:05 UTC)). Times in UTC.
+Track status, artists filed under SA (built Wed Oct 21, 12:05 PM PDT (19:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Sabaton — The Last Stand | last aired 2026-10-20 19:44 | normal pick from 2026-10-22 07:44 | request now
 OK   Sabrina Carpenter — Espresso | last aired 2026-10-18 05:19 | normal pick now | request now
-WAIT Sabrina Carpenter — Please Please Please | last aired 2026-10-20 22:41 | normal pick from 2026-10-22 10:41 | request from 2026-10-21 18:41
+WAIT Sabrina Carpenter — Please Please Please | last aired 2026-10-20 22:41 | normal pick from 2026-10-22 10:41 | request now
 OK   Sabrina Carpenter — Taste | last aired 2026-10-19 09:48 | normal pick now | request now
 WAIT Sade — By Your Side  (Remastered Version) | last aired 2026-10-21 14:44 | normal pick from 2026-10-23 02:44 | request from 2026-10-22 10:44
 OK   Sade — Cherish the Day  (Remastered Version) | last aired 2026-10-16 18:19 | normal pick now | request now
@@ -19,7 +19,7 @@ OK   Salvador Sobral — Amar pelos Dois | last aired 2026-10-15 21:31 | normal 
 OK   Sam Cooke — A Change Is Gonna Come | last aired 2026-10-17 21:43 | normal pick now | request now
 WAIT Sampha — (No One Knows Me) Like the Piano | last aired 2026-10-20 07:11 | normal pick from 2026-10-22 07:11 | request from 2026-10-22 07:11
 OK   Santana — Black Magic Woman | last aired 2026-10-19 19:48 | normal pick now | request now
-OK   Santana — Maria Maria | last aired 2026-10-11 14:19 | normal pick now | request now
+WAIT Santana — Maria Maria | last aired 2026-10-21 18:44 | normal pick from 2026-10-23 18:44 | request from 2026-10-23 18:44
 WAIT Santana — Oye Como Va | last aired 2026-10-20 16:50 | normal pick from 2026-10-22 16:50 | request from 2026-10-22 16:50
 WAIT Santana — Samba Pa Ti | last aired 2026-10-21 13:19 | normal pick from 2026-10-23 13:19 | request from 2026-10-23 13:19
 OK   Sarah McLachlan — Building a Mystery | last aired 2026-10-18 14:47 | normal pick now | request now
