@@ -1,7 +1,7 @@
-Track status, song titles filed under EL (built Tue Oct 20, 5:05 PM PDT (00:05 UTC Wed)). Times in UTC.
+Track status, song titles filed under EL (built Tue Oct 20, 6:05 PM PDT (01:05 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   El amor después del amor — Fito Páez | last aired 2026-10-15 22:38 | normal pick now | request now
-OK   El Rey — Vicente Fernández | last aired 2026-10-12 16:41 | normal pick now | request now
+WAIT El Rey — Vicente Fernández | last aired 2026-10-21 00:07 | normal pick from 2026-10-22 12:07 | request from 2026-10-21 20:07
 OK   Electric Feel (Album Version) — MGMT | last aired 2026-10-19 09:55 | normal pick now | request now
 OK   Ella — Junior H | last aired 2026-10-14 15:46 | normal pick now | request now
