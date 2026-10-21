@@ -1,4 +1,4 @@
-Track status, song titles filed under LA (built Wed Oct 21, 1:05 PM PDT (20:05 UTC)). Times in UTC.
+Track status, song titles filed under LA (built Wed Oct 21, 2:05 PM PDT (21:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   L'Amour Looks Something Like You (2018 Remaster) — Kate Bush | last aired 2026-10-17 23:57 | normal pick now | request now
@@ -19,7 +19,7 @@ OK   Laisser Lucie faire — Guts | last aired 2026-10-17 07:13 | normal pick no
 WAIT Lamento Boliviano — Los Enanitos Verdes | last aired 2026-10-21 13:16 | normal pick from 2026-10-23 13:16 | request from 2026-10-23 13:16
 WAIT Last Bloom — Floating Points | last aired 2026-10-21 09:56 | normal pick from 2026-10-23 09:56 | request from 2026-10-23 09:56
 OK   Last Christmas (Single Version) — Wham! | last aired 2026-09-19 20:13 | normal pick now | request now
-WAIT Last Goodbye — Jeff Buckley | last aired 2026-10-19 21:05 | normal pick from 2026-10-21 21:05 | request from 2026-10-21 21:05
+OK   Last Goodbye — Jeff Buckley | last aired 2026-10-19 21:05 | normal pick now | request now
 WAIT Last Last — Burna Boy | last aired 2026-10-20 09:58 | normal pick from 2026-10-22 09:58 | request from 2026-10-22 09:58
 OK   Last Nite — The Strokes | last aired 2026-10-12 15:38 | normal pick now | request now
 OK   Last Resort — Papa Roach | last aired 2026-10-14 13:49 | normal pick now | request now

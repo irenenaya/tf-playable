@@ -1,4 +1,4 @@
-Track status, song titles filed under LI (built Wed Oct 21, 1:05 PM PDT (20:05 UTC)). Times in UTC.
+Track status, song titles filed under LI (built Wed Oct 21, 2:05 PM PDT (21:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Li Beirut (after Joaquín Rodrigo) — Karim Sulayman | last aired 2026-10-17 06:37 | normal pick now | request now
@@ -22,7 +22,7 @@ WAIT Lisztomania — Phoenix | last aired 2026-10-20 17:46 | normal pick from 20
 OK   LITE SPOTS — Kaytranada | last aired 2026-10-18 02:10 | normal pick now | request now
 WAIT Little Dark Age — MGMT | last aired 2026-10-20 15:17 | normal pick from 2026-10-22 03:17 | request now
 OK   Little Rhymes — Mercury Rev | last aired 2026-10-13 01:47 | normal pick now | request now
-WAIT Live For You — Thee Sacred Souls | last aired 2026-10-20 08:54 | normal pick from 2026-10-21 20:54 | request now
+OK   Live For You — Thee Sacred Souls | last aired 2026-10-20 08:54 | normal pick now | request now
 OK   Live Forever — Oasis | last aired 2026-10-18 19:20 | normal pick now | request now
 OK   Livin' On A Prayer — Bon Jovi | last aired 2026-10-18 16:45 | normal pick now | request now
 OK   Living For The City (Album Version) — Stevie Wonder | last aired 2026-10-20 01:21 | normal pick now | request now

@@ -1,9 +1,9 @@
-Track status, artists filed under JO (built Wed Oct 21, 1:05 PM PDT (20:05 UTC)). Times in UTC.
+Track status, artists filed under JO (built Wed Oct 21, 2:05 PM PDT (21:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-10-20 12:05 | normal pick from 2026-10-22 12:05 | request from 2026-10-22 12:05
 OK   Jockstrap — Concrete Over Water | last aired 2026-10-15 18:09 | normal pick now | request now
-WAIT Joe Cocker — With A Little Help From My Friends | last aired 2026-10-21 01:00 | normal pick from 2026-10-22 13:00 | request from 2026-10-21 21:00
+WAIT Joe Cocker — With A Little Help From My Friends | last aired 2026-10-21 01:00 | normal pick from 2026-10-22 13:00 | request now
 OK   Joe Hisaishi — A Town with an Ocean View (from 'Kiki's Delivery Service') | last aired 2026-10-19 06:25 | normal pick now | request now
 OK   Joe Hisaishi — a Wish to the Moon | last aired 2026-10-16 23:32 | normal pick now | request now
 OK   Joe Hisaishi — Asian Dream Song | last aired 2026-10-15 07:24 | normal pick now | request now
@@ -39,7 +39,7 @@ WAIT Johnny Cash — Hurt (Album Version) | last aired 2026-10-19 21:35 | normal
 OK   Johnny Cash — Redemption Day (Album Version) | last aired 2026-10-18 12:09 | normal pick now | request now
 OK   Johnny Cash — Ring of Fire | last aired 2026-10-19 16:19 | normal pick now | request now
 OK   Johnny Mathis — Wonderful! Wonderful! | last aired 2026-10-14 01:09 | normal pick now | request now
-WAIT Joker Out — Novi Val | last aired 2026-10-21 00:11 | normal pick from 2026-10-22 12:11 | request from 2026-10-21 20:11
+WAIT Joker Out — Novi Val | last aired 2026-10-21 00:11 | normal pick from 2026-10-22 12:11 | request now
 OK   Jon Hopkins — Open Eye Signal (Remaster 2023) | last aired 2026-10-19 08:18 | normal pick now | request now
 WAIT Jon Hopkins — Small Memory | last aired 2026-10-21 08:22 | normal pick from 2026-10-22 20:22 | request from 2026-10-22 04:22
 OK   Jonathan Parecki — Senbonzakura (Hatsune Miku) | last aired 2026-09-02 17:36 | normal pick now | request now

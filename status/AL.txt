@@ -1,4 +1,4 @@
-Track status, artists filed under AL (built Wed Oct 21, 1:05 PM PDT (20:05 UTC)). Times in UTC.
+Track status, artists filed under AL (built Wed Oct 21, 2:05 PM PDT (21:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Al Di Meola — Double Concerto | last aired 2026-10-13 18:27 | normal pick now | request now
@@ -6,8 +6,8 @@ OK   Al Di Meola — Libertango | last aired 2026-10-13 20:57 | normal pick now 
 OK   Al Di Meola — Passion, Grace & Fire (Album Version) | last aired 2026-10-15 00:43 | normal pick now | request now
 OK   Al Di Meola — Red Moon | last aired 2026-10-15 03:10 | normal pick now | request now
 OK   Al Green — Let's Stay Together | last aired 2026-10-18 22:17 | normal pick now | request now
-OK   Al Green — Love and Happiness | last aired 2026-10-14 18:19 | normal pick now | request now
-WAIT Al Green — Simply Beautiful | last aired 2026-10-19 20:23 | normal pick from 2026-10-21 20:23 | request from 2026-10-21 20:23
+WAIT Al Green — Love and Happiness | last aired 2026-10-21 20:25 | normal pick from 2026-10-23 08:25 | request from 2026-10-22 16:25
+OK   Al Green — Simply Beautiful | last aired 2026-10-19 20:23 | normal pick now | request now
 OK   Al Green — The Lord Will Make a Way | last aired 2026-10-19 18:16 | normal pick now | request now
 OK   Al Stewart — Year of the Cat | last aired 2026-10-18 11:38 | normal pick now | request now
 OK   Alabama 3 — Sad Eyed Lady Of The Low Life | last aired 2026-10-09 09:35 | normal pick now | request now
