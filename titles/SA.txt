@@ -1,11 +1,11 @@
-Track status, song titles filed under SA (built Wed Oct 21, 4:05 AM PDT (11:05 UTC)). Times in UTC.
+Track status, song titles filed under SA (built Wed Oct 21, 5:05 AM PDT (12:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Sabotage — Beastie Boys | last aired 2026-10-19 22:10 | normal pick from 2026-10-21 22:10 | request from 2026-10-21 22:10
 OK   Sad Eyed Lady Of The Low Life — Alabama 3 | last aired 2026-10-09 09:35 | normal pick now | request now
 OK   Sad Robot — Pornophonique | last aired 2026-10-13 17:46 | normal pick now | request now
 WAIT Sailing — Benny Sings | last aired 2026-10-20 13:58 | normal pick from 2026-10-22 01:58 | request now
-WAIT Sailing — Christopher Cross | last aired 2026-10-20 15:54 | normal pick from 2026-10-22 03:54 | request from 2026-10-21 11:54
+WAIT Sailing — Christopher Cross | last aired 2026-10-20 15:54 | normal pick from 2026-10-22 03:54 | request now
 OK   Sailor Song — Gigi Perez | last aired 2026-10-15 05:18 | normal pick now | request now
 WAIT Saku — Susumu Yokota | last aired 2026-10-20 02:21 | normal pick from 2026-10-21 14:21 | request now
 OK   Salomila  (Live) — Ledward Kaapana | last aired 2026-10-15 22:14 | normal pick now | request now
@@ -26,4 +26,4 @@ OK   Saudade — Love and Rockets | last aired 2026-10-14 10:46 | normal pick no
 OK   Save The Children — Marvin Gaye | last aired 2026-10-16 10:06 | normal pick now | request now
 OK   Saving All My Love for You — Whitney Houston | last aired 2026-10-17 00:40 | normal pick now | request now
 OK   Say My Name (feat. Zyra) — ODESZA | last aired 2026-10-19 04:57 | normal pick now | request now
-OK   Says — Nils Frahm | last aired 2026-10-19 08:30 | normal pick now | request now
+WAIT Says — Nils Frahm | last aired 2026-10-21 11:21 | normal pick from 2026-10-23 11:21 | request from 2026-10-23 11:21

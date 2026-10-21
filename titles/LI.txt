@@ -1,10 +1,10 @@
-Track status, song titles filed under LI (built Wed Oct 21, 4:05 AM PDT (11:05 UTC)). Times in UTC.
+Track status, song titles filed under LI (built Wed Oct 21, 5:05 AM PDT (12:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Li Beirut (after Joaquín Rodrigo) — Karim Sulayman | last aired 2026-10-17 06:37 | normal pick now | request now
 OK   Libertango (Arr. Yamamoto for Piano 4-Hands) — Beatrice Rana | last aired 2026-10-16 11:54 | normal pick now | request now
 OK   Libertango — Al Di Meola | last aired 2026-10-13 20:57 | normal pick now | request now
-WAIT Libertango — Rodrigo y Gabriela | last aired 2026-10-19 12:00 | normal pick from 2026-10-21 12:00 | request from 2026-10-21 12:00
+OK   Libertango — Rodrigo y Gabriela | last aired 2026-10-19 12:00 | normal pick now | request now
 OK   Libertango — Yo-Yo Ma | last aired 2026-10-18 19:49 | normal pick now | request now
 WAIT Lid — Christian Löffler | last aired 2026-10-20 07:38 | normal pick from 2026-10-21 19:38 | request now
 WAIT Life Is Strange — Lord Huron | last aired 2026-10-21 10:36 | normal pick from 2026-10-23 10:36 | request from 2026-10-23 10:36
@@ -20,7 +20,7 @@ OK   Like the Weather — 10,000 Maniacs | last aired 2026-10-15 00:36 | normal 
 WAIT Lingus (Alternate Take) — Snarky Puppy | last aired 2026-10-20 11:36 | normal pick from 2026-10-21 23:36 | request now
 WAIT Lisztomania — Phoenix | last aired 2026-10-20 17:46 | normal pick from 2026-10-22 17:46 | request from 2026-10-22 17:46
 OK   LITE SPOTS — Kaytranada | last aired 2026-10-18 02:10 | normal pick now | request now
-WAIT Little Dark Age — MGMT | last aired 2026-10-20 15:17 | normal pick from 2026-10-22 03:17 | request from 2026-10-21 11:17
+WAIT Little Dark Age — MGMT | last aired 2026-10-20 15:17 | normal pick from 2026-10-22 03:17 | request now
 OK   Little Rhymes — Mercury Rev | last aired 2026-10-13 01:47 | normal pick now | request now
 WAIT Live For You — Thee Sacred Souls | last aired 2026-10-20 08:54 | normal pick from 2026-10-21 20:54 | request now
 OK   Live Forever — Oasis | last aired 2026-10-18 19:20 | normal pick now | request now

@@ -1,4 +1,4 @@
-Track status, artists filed under ST (built Wed Oct 21, 4:05 AM PDT (11:05 UTC)). Times in UTC.
+Track status, artists filed under ST (built Wed Oct 21, 5:05 AM PDT (12:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   St Germain — Rose rouge | last aired 2026-10-18 08:26 | normal pick now | request now
@@ -6,7 +6,7 @@ OK   Stan Bush — The Touch | last aired 2026-10-14 19:40 | normal pick now | r
 WAIT Stan Getz — Corcovado (Quiet Nights Of Quiet Stars) | last aired 2026-10-19 20:18 | normal pick from 2026-10-21 20:18 | request from 2026-10-21 20:18
 OK   Stardust — Music Sounds Better With You | last aired 2026-10-17 04:03 | normal pick now | request now
 WAIT Stars of the Lid — Requiem for Dying Mothers, Pt. 1 | last aired 2026-10-21 06:33 | normal pick from 2026-10-22 18:33 | request from 2026-10-22 02:33
-WAIT Stars of the Lid — Requiem for Dying Mothers, Pt. 2 | last aired 2026-10-21 10:44 | normal pick from 2026-10-23 10:44 | request from 2026-10-23 10:44
+WAIT Stars of the Lid — Requiem for Dying Mothers, Pt. 2 | last aired 2026-10-21 10:45 | normal pick from 2026-10-23 10:45 | request from 2026-10-23 10:45
 OK   Stealers Wheel — Stuck In The Middle With You | last aired 2026-10-16 06:02 | normal pick now | request now
 OK   Steely Dan — Almost Gothic (Album Version) | last aired 2026-10-16 20:51 | normal pick now | request now
 OK   Steely Dan — Babylon Sisters | last aired 2026-10-17 00:49 | normal pick now | request now
@@ -45,5 +45,5 @@ OK   Styx — Mr. Roboto | last aired 2026-10-14 14:59 | normal pick now | reque
 OK   The Staple Singers — I'll Take You There | last aired 2026-10-17 12:49 | normal pick now | request now
 OK   The Strokes — Last Nite | last aired 2026-10-12 15:38 | normal pick now | request now
 OK   The Strokes — Lonely in the Future | last aired 2026-10-19 10:35 | normal pick now | request now
-WAIT The Strokes — Ode To The Mets | last aired 2026-10-19 23:54 | normal pick from 2026-10-21 11:54 | request now
+OK   The Strokes — Ode To The Mets | last aired 2026-10-19 23:54 | normal pick now | request now
 OK   The Style Council — Iwasadoledadstoyboy | last aired 2026-10-14 04:58 | normal pick now | request now
