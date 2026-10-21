@@ -1,4 +1,4 @@
-Track status, song titles filed under YO (built Wed Oct 21, 1:05 AM PDT (08:05 UTC)). Times in UTC.
+Track status, song titles filed under YO (built Wed Oct 21, 2:05 AM PDT (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   You and I — Papooz | last aired 2026-10-09 18:25 | normal pick now | request now
@@ -8,10 +8,10 @@ OK   You Are So Beautiful — Charles Lloyd | last aired 2026-10-17 11:36 | norm
 OK   You Are So Beautiful — Charles Lloyd & The Marvels | last aired 2026-10-18 20:05 | normal pick now | request now
 OK   You Belong to Me  (2016 Remaster) — The Doobie Brothers | last aired 2026-10-19 02:57 | normal pick now | request now
 OK   You Can Call Me Al — Paul Simon | last aired 2026-10-19 02:44 | normal pick now | request now
-WAIT You Can Have It All — Yo La Tengo | last aired 2026-10-19 20:54 | normal pick from 2026-10-21 08:54 | request now
+OK   You Can Have It All — Yo La Tengo | last aired 2026-10-19 20:54 | normal pick now | request now
 OK   You Can't Always Get What You Want — The Rolling Stones | last aired 2026-10-17 04:24 | normal pick now | request now
-WAIT You Don't Know What Love Is — Chet Baker | last aired 2026-10-19 20:39 | normal pick from 2026-10-21 08:39 | request now
-WAIT You Give Love A Bad Name — Bon Jovi | last aired 2026-10-20 12:47 | normal pick from 2026-10-22 00:47 | request from 2026-10-21 08:47
+OK   You Don't Know What Love Is — Chet Baker | last aired 2026-10-19 20:39 | normal pick now | request now
+WAIT You Give Love A Bad Name — Bon Jovi | last aired 2026-10-20 12:47 | normal pick from 2026-10-22 00:47 | request now
 OK   You Got This — Skindred | last aired 2026-09-15 08:59 | normal pick now | request now
 OK   You Haven't Done Nothin' — Stevie Wonder | last aired 2026-10-18 19:34 | normal pick now | request now
 OK   You Know Me Better Than I Know Myself — Cult With No Name | last aired 2026-10-16 07:35 | normal pick now | request now

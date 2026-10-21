@@ -1,4 +1,4 @@
-Track status, song titles filed under RE (built Wed Oct 21, 1:05 AM PDT (08:05 UTC)). Times in UTC.
+Track status, song titles filed under RE (built Wed Oct 21, 2:05 AM PDT (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Reason or Rhyme — Bryan Ferry | last aired 2026-10-16 04:19 | normal pick now | request now
@@ -11,9 +11,9 @@ OK   Rehab — Amy Winehouse | last aired 2026-10-16 19:32 | normal pick now | r
 OK   Reminiscing (2002 Digital Remaster) — Little River Band | last aired 2026-10-15 17:43 | normal pick now | request now
 OK   Rent A Wreck — Suburban Kids With Biblical Names | last aired 2026-10-17 12:33 | normal pick now | request now
 WAIT Requiem for Dying Mothers, Pt. 1 — Stars of the Lid | last aired 2026-10-21 06:33 | normal pick from 2026-10-22 18:33 | request from 2026-10-22 02:33
-WAIT Requiem for Dying Mothers, Pt. 2 — Stars of the Lid | last aired 2026-10-19 08:38 | normal pick from 2026-10-21 08:38 | request from 2026-10-21 08:38
+OK   Requiem for Dying Mothers, Pt. 2 — Stars of the Lid | last aired 2026-10-19 08:38 | normal pick now | request now
 OK   Resist The Force — Predatory Meerkats | last aired 2026-10-18 02:56 | normal pick now | request now
-OK   Retrograde — James Blake | last aired 2026-10-19 04:44 | normal pick now | request now
+WAIT Retrograde — James Blake | last aired 2026-10-21 08:59 | normal pick from 2026-10-22 20:59 | request from 2026-10-22 04:59
 OK   Revenge of Instinct — Gesu No Kiwami Otome | last aired 2026-10-16 03:03 | normal pick now | request now
 OK   Revolution 9 (Remastered 2009) — The Beatles | last aired 2026-09-14 19:37 | normal pick now | request now
 OK   Reward — THE TEARDROP EXPLODES | last aired 2026-10-19 07:27 | normal pick now | request now
