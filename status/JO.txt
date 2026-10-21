@@ -1,9 +1,9 @@
-Track status, artists filed under JO (built Tue Oct 20, 7:05 PM PDT (02:05 UTC Wed)). Times in UTC.
+Track status, artists filed under JO (built Tue Oct 20, 8:05 PM PDT (03:05 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-10-20 12:05 | normal pick from 2026-10-22 12:05 | request from 2026-10-22 12:05
 OK   Jockstrap — Concrete Over Water | last aired 2026-10-15 18:09 | normal pick now | request now
-WAIT Joe Cocker — With A Little Help From My Friends | last aired 2026-10-21 00:59 | normal pick from 2026-10-22 12:59 | request from 2026-10-21 20:59
+WAIT Joe Cocker — With A Little Help From My Friends | last aired 2026-10-21 01:00 | normal pick from 2026-10-22 13:00 | request from 2026-10-21 21:00
 OK   Joe Hisaishi — A Town with an Ocean View (from 'Kiki's Delivery Service') | last aired 2026-10-19 06:25 | normal pick now | request now
 OK   Joe Hisaishi — a Wish to the Moon | last aired 2026-10-16 23:32 | normal pick now | request now
 OK   Joe Hisaishi — Asian Dream Song | last aired 2026-10-15 07:24 | normal pick now | request now
@@ -26,7 +26,7 @@ OK   John Denver — Take Me Home, Country Roads | last aired 2026-10-18 21:34 |
 OK   John Lee Hooker — Boom Boom | last aired 2026-10-18 12:24 | normal pick now | request now
 OK   John Lee Hooker — I Cover the Waterfront | last aired 2026-10-18 09:01 | normal pick now | request now
 OK   John Lennon — Give Peace A Chance (Remastered 2010) | last aired 2026-10-13 04:40 | normal pick now | request now
-WAIT John Lennon — Imagine (Remastered 2010) | last aired 2026-10-20 23:55 | normal pick from 2026-10-22 11:55 | request from 2026-10-21 19:55
+WAIT John Lennon — Imagine (Remastered 2010) | last aired 2026-10-20 23:56 | normal pick from 2026-10-22 11:56 | request from 2026-10-21 19:56
 OK   John Lennon — Instant Karma! (We All Shine On) (Ultimate Mix) | last aired 2026-10-18 10:13 | normal pick now | request now
 OK   John Lennon — Watching The Wheels (Remastered 2010) | last aired 2026-10-16 16:48 | normal pick now | request now
 OK   John Mayer — New Light | last aired 2026-10-15 22:48 | normal pick now | request now
@@ -39,7 +39,7 @@ WAIT Johnny Cash — Hurt (Album Version) | last aired 2026-10-19 21:35 | normal
 OK   Johnny Cash — Redemption Day (Album Version) | last aired 2026-10-18 12:09 | normal pick now | request now
 WAIT Johnny Cash — Ring of Fire | last aired 2026-10-19 16:19 | normal pick from 2026-10-21 04:19 | request now
 OK   Johnny Mathis — Wonderful! Wonderful! | last aired 2026-10-14 01:09 | normal pick now | request now
-WAIT Joker Out — Novi Val | last aired 2026-10-21 00:10 | normal pick from 2026-10-22 12:10 | request from 2026-10-21 20:10
+WAIT Joker Out — Novi Val | last aired 2026-10-21 00:11 | normal pick from 2026-10-22 12:11 | request from 2026-10-21 20:11
 OK   Jon Hopkins — Open Eye Signal (Remaster 2023) | last aired 2026-10-19 08:18 | normal pick now | request now
 OK   Jon Hopkins — Small Memory | last aired 2026-10-19 07:45 | normal pick now | request now
 OK   Jonathan Parecki — Senbonzakura (Hatsune Miku) | last aired 2026-09-02 17:36 | normal pick now | request now
