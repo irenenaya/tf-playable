@@ -1,4 +1,4 @@
-Track status, song titles filed under LO (built Wed Oct 21, 3:05 PM PDT (22:05 UTC)). Times in UTC.
+Track status, song titles filed under LO (built Wed Oct 21, 4:05 PM PDT (23:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   L-O-V-E — Nat King Cole | last aired 2026-10-19 18:45 | normal pick now | request now
@@ -15,7 +15,7 @@ OK   Lost Coastlines — Okkervil River | last aired 2026-10-16 21:50 | normal p
 OK   Lost in Music (1995 Remaster) (LP Version) — Sister Sledge | last aired 2026-10-20 01:50 | normal pick now | request now
 OK   Lost In The Humming Air (2005 Digital Remaster) — Harold Budd | last aired 2026-10-20 05:49 | normal pick now | request now
 WAIT Lost on You — LP | last aired 2026-10-20 18:23 | normal pick from 2026-10-22 06:23 | request now
-OK   Louie Bag  (Live at Electric Lady) — YEBBA | last aired 2026-10-15 21:26 | normal pick now | request now
+WAIT Louie Bag  (Live at Electric Lady) — YEBBA | last aired 2026-10-21 22:47 | normal pick from 2026-10-23 10:47 | request from 2026-10-22 18:47
 WAIT Love and Happiness — Al Green | last aired 2026-10-21 20:25 | normal pick from 2026-10-23 08:25 | request from 2026-10-22 16:25
 OK   Love I — The Green | last aired 2026-10-09 01:40 | normal pick now | request now
 OK   Love Is Blue (Album Version) — Paul Mauriat | last aired 2026-10-17 07:11 | normal pick now | request now

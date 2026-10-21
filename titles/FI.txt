@@ -1,4 +1,4 @@
-Track status, song titles filed under FI (built Wed Oct 21, 3:05 PM PDT (22:05 UTC)). Times in UTC.
+Track status, song titles filed under FI (built Wed Oct 21, 4:05 PM PDT (23:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Fickt-Euch-Allee — Grossstadtgeflüster | last aired 2026-09-18 10:29 | normal pick now | request now
@@ -9,6 +9,6 @@ OK   First Dream Called Ocean — Helios | last aired 2026-10-19 06:02 | normal 
 WAIT First Love — Hikaru Utada | last aired 2026-10-20 10:01 | normal pick from 2026-10-22 10:01 | request from 2026-10-22 10:01
 OK   The Final Countdown (Album Version) — Europe | last aired 2026-10-11 20:35 | normal pick now | request now
 OK   The Fire Bird: IV. Infernal Dance of King Kastchei — Pierre Monteux | last aired 2026-10-13 10:34 | normal pick now | request now
-OK   The First Cut Is The Deepest — Sheryl Crow | last aired 2026-10-16 20:55 | normal pick now | request now
+WAIT The First Cut Is The Deepest — Sheryl Crow | last aired 2026-10-21 22:44 | normal pick from 2026-10-23 10:44 | request from 2026-10-22 18:44
 OK   The First Time Ever I Saw Your Face (2020 Remaster) — Roberta Flack | last aired 2026-10-18 22:29 | normal pick now | request now
 OK   The First Time Ever I Saw Your Face — Ewan Maccoll | last aired 2026-10-17 14:57 | normal pick now | request now
