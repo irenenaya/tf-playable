@@ -1,4 +1,4 @@
-Track status, artists filed under SA (built Wed Oct 21, 2:05 AM PDT (09:05 UTC)). Times in UTC.
+Track status, artists filed under SA (built Wed Oct 21, 3:05 AM PDT (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Sabaton — The Last Stand | last aired 2026-10-20 19:44 | normal pick from 2026-10-22 07:44 | request from 2026-10-21 15:44
@@ -7,7 +7,7 @@ WAIT Sabrina Carpenter — Please Please Please | last aired 2026-10-20 22:41 | 
 OK   Sabrina Carpenter — Taste | last aired 2026-10-19 09:48 | normal pick now | request now
 OK   Sade — By Your Side  (Remastered Version) | last aired 2026-10-19 11:00 | normal pick now | request now
 OK   Sade — Cherish the Day  (Remastered Version) | last aired 2026-10-16 18:19 | normal pick now | request now
-WAIT Sade — Is It a Crime (Remastered Version) | last aired 2026-10-19 21:55 | normal pick from 2026-10-21 09:55 | request now
+OK   Sade — Is It a Crime (Remastered Version) | last aired 2026-10-19 21:55 | normal pick now | request now
 WAIT Sade — Kiss of Life (Remastered Version) | last aired 2026-10-20 01:46 | normal pick from 2026-10-21 13:46 | request now
 WAIT Sade — No Ordinary Love  (Remastered Version) | last aired 2026-10-21 08:48 | normal pick from 2026-10-22 20:48 | request from 2026-10-22 04:48
 WAIT Sade — Smooth Operator (2011 Remastered) (Remastered Version) | last aired 2026-10-20 23:52 | normal pick from 2026-10-22 11:52 | request from 2026-10-21 19:52
@@ -23,6 +23,6 @@ OK   Santana — Maria Maria | last aired 2026-10-11 14:19 | normal pick now | r
 WAIT Santana — Oye Como Va | last aired 2026-10-20 16:50 | normal pick from 2026-10-22 16:50 | request from 2026-10-22 16:50
 OK   Santana — Samba Pa Ti | last aired 2026-10-15 03:59 | normal pick now | request now
 OK   Sarah McLachlan — Building a Mystery | last aired 2026-10-18 14:47 | normal pick now | request now
-WAIT Sarah McLachlan — Fallen (Album Mix) | last aired 2026-10-19 21:39 | normal pick from 2026-10-21 09:39 | request now
+OK   Sarah McLachlan — Fallen (Album Mix) | last aired 2026-10-19 21:39 | normal pick now | request now
 OK   Sarah McLachlan — Sweet Surrender (Album Version) | last aired 2026-10-17 01:18 | normal pick now | request now
 OK   Savath &  Savalas — Te Quiero Pero Por Otro Lado. | last aired 2026-10-15 09:27 | normal pick now | request now

@@ -1,5 +1,5 @@
-Track status, artists filed under M8 (built Wed Oct 21, 2:05 AM PDT (09:05 UTC)). Times in UTC.
+Track status, artists filed under M8 (built Wed Oct 21, 3:05 AM PDT (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   M83 — Midnight City | last aired 2026-10-08 11:09 | normal pick now | request now
-OK   M83 — Wait | last aired 2026-10-17 07:34 | normal pick now | request now
+WAIT M83 — Wait | last aired 2026-10-21 09:17 | normal pick from 2026-10-23 09:17 | request from 2026-10-23 09:17
