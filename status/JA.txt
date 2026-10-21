@@ -1,8 +1,8 @@
-Track status, artists filed under JA (built Tue Oct 20, 8:05 PM PDT (03:05 UTC Wed)). Times in UTC.
+Track status, artists filed under JA (built Tue Oct 20, 9:05 PM PDT (04:05 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Jack Johnson — Better Together | last aired 2026-10-16 03:41 | normal pick now | request now
-WAIT Jack Johnson — Upside Down | last aired 2026-10-19 16:01 | normal pick from 2026-10-21 04:01 | request now
+OK   Jack Johnson — Upside Down | last aired 2026-10-19 16:01 | normal pick now | request now
 WAIT Jacquees — Won't Turn It Down | last aired 2026-10-19 23:00 | normal pick from 2026-10-21 11:00 | request now
 OK   James Blake — Retrograde | last aired 2026-10-19 04:44 | normal pick now | request now
 WAIT James Brown — I Got You (I Feel Good) | last aired 2026-10-20 21:02 | normal pick from 2026-10-22 21:02 | request from 2026-10-22 21:02

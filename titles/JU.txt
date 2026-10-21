@@ -1,10 +1,10 @@
-Track status, song titles filed under JU (built Tue Oct 20, 8:05 PM PDT (03:05 UTC Wed)). Times in UTC.
+Track status, song titles filed under JU (built Tue Oct 20, 9:05 PM PDT (04:05 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Jump  (2015 Remaster) — Van Halen | last aired 2026-10-18 12:05 | normal pick now | request now
 WAIT Just a Candle — Wax Tailor | last aired 2026-10-19 16:55 | normal pick from 2026-10-21 04:55 | request now
 OK   Just Asking (Day Theme I) — Max Specter | last aired 2026-10-18 02:38 | normal pick now | request now
-OK   Just Can't Get Enough — Depeche Mode | last aired 2026-10-12 04:30 | normal pick now | request now
+WAIT Just Can't Get Enough — Depeche Mode | last aired 2026-10-21 03:14 | normal pick from 2026-10-23 03:14 | request from 2026-10-23 03:14
 WAIT Just Dance — Lady Gaga | last aired 2026-10-19 22:33 | normal pick from 2026-10-21 10:33 | request now
 OK   Just Dumb Enough to Try — Father John Misty | last aired 2026-10-17 00:59 | normal pick now | request now
 OK   Just Give Me a Reason — P!nk | last aired 2026-09-12 18:57 | normal pick now | request now
