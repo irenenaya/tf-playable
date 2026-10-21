@@ -1,11 +1,11 @@
-Track status, artists filed under HE (built Tue Oct 20, 9:05 PM PDT (04:05 UTC Wed)). Times in UTC.
+Track status, artists filed under HE (built Tue Oct 20, 10:05 PM PDT (05:05 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Heathered Pearls — Pacific Summits (Pulse Version) | last aired 2026-10-16 07:06 | normal pick now | request now
 WAIT Hector Villalobos — Bachianas Brasileiras No. 5: I Aria (Cantilena) | last aired 2026-10-19 20:44 | normal pick from 2026-10-21 08:44 | request now
 OK   Heejin — Algorithm | last aired 2026-10-15 08:20 | normal pick now | request now
 OK   Helado Negro — Brown Fluorescence | last aired 2026-10-15 18:34 | normal pick now | request now
-OK   Helen Forrest — It's Been A Long, Long Time | last aired 2026-10-13 01:57 | normal pick now | request now
+WAIT Helen Forrest — It's Been A Long, Long Time | last aired 2026-10-21 04:50 | normal pick from 2026-10-22 16:50 | request from 2026-10-22 00:50
 WAIT Helios — First Dream Called Ocean | last aired 2026-10-19 06:02 | normal pick from 2026-10-21 06:02 | request from 2026-10-21 06:02
 OK   Helloween — Eagle Fly Free (Remastered 2024) | last aired 2026-10-13 02:07 | normal pick now | request now
 OK   Hem — Betting on Trains (Remastered 2025) | last aired 2026-10-15 09:18 | normal pick now | request now
@@ -16,7 +16,7 @@ OK   Her's — Blue Lips | last aired 2026-10-17 10:25 | normal pick now | reque
 WAIT Herb Alpert's Tijuana Brass — A Taste of Honey | last aired 2026-10-20 10:51 | normal pick from 2026-10-21 22:51 | request from 2026-10-21 06:51
 OK   Herbert Grönemeyer — Mensch | last aired 2026-10-15 21:56 | normal pick now | request now
 OK   Herbert Grönemeyer — Mensch (Remastered 2016) | last aired 2026-10-05 14:42 | normal pick now | request now
-OK   Herbert Grönemeyer — Männer (Remastered 2016) | last aired 2026-10-09 11:50 | normal pick now | request now
+WAIT Herbert Grönemeyer — Männer (Remastered 2016) | last aired 2026-10-21 04:43 | normal pick from 2026-10-22 16:43 | request from 2026-10-22 00:43
 WAIT Herbert Grönemeyer — Was soll das (Remastered 2016) | last aired 2026-10-20 18:08 | normal pick from 2026-10-22 06:08 | request from 2026-10-21 14:08
 OK   Herbert Waltl — Brandenburg Concerto No. 3 in G Major, BWV 1048: I. Allegro | last aired 2026-10-16 07:46 | normal pick now | request now
 OK   Herbie Hancock — Chameleon | last aired 2026-10-19 05:34 | normal pick now | request now

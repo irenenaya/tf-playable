@@ -1,9 +1,9 @@
-Track status, artists filed under SI (built Tue Oct 20, 9:05 PM PDT (04:05 UTC Wed)). Times in UTC.
+Track status, artists filed under SI (built Tue Oct 20, 10:05 PM PDT (05:05 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Siddhartha — 00:00 | last aired 2026-10-18 14:39 | normal pick now | request now
 OK   Side-A — Only You (There Will Never Be Another) | last aired 2026-10-14 07:17 | normal pick now | request now
-WAIT Sigur Rós — Hoppípolla | last aired 2026-10-19 04:06 | normal pick from 2026-10-21 04:06 | request from 2026-10-21 04:06
+OK   Sigur Rós — Hoppípolla | last aired 2026-10-19 04:06 | normal pick now | request now
 WAIT Sigur Rós — Starálfur | last aired 2026-10-19 17:47 | normal pick from 2026-10-21 05:47 | request now
 OK   Sigur Rós — Sé Lest | last aired 2026-10-18 11:15 | normal pick now | request now
 WAIT Sigur Rós — Untitled #3  (Samskeyti) | last aired 2026-10-20 07:01 | normal pick from 2026-10-21 19:01 | request now
