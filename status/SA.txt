@@ -1,16 +1,16 @@
-Track status, artists filed under SA (built Wed Oct 21, 12:05 PM PDT (19:05 UTC)). Times in UTC.
+Track status, artists filed under SA (built Wed Oct 21, 1:05 PM PDT (20:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Sabaton — The Last Stand | last aired 2026-10-20 19:44 | normal pick from 2026-10-22 07:44 | request now
 OK   Sabrina Carpenter — Espresso | last aired 2026-10-18 05:19 | normal pick now | request now
 WAIT Sabrina Carpenter — Please Please Please | last aired 2026-10-20 22:41 | normal pick from 2026-10-22 10:41 | request now
 OK   Sabrina Carpenter — Taste | last aired 2026-10-19 09:48 | normal pick now | request now
-WAIT Sade — By Your Side  (Remastered Version) | last aired 2026-10-21 14:44 | normal pick from 2026-10-23 02:44 | request from 2026-10-22 10:44
+WAIT Sade — By Your Side  (Remastered Version) | last aired 2026-10-21 14:45 | normal pick from 2026-10-23 02:45 | request from 2026-10-22 10:45
 OK   Sade — Cherish the Day  (Remastered Version) | last aired 2026-10-16 18:19 | normal pick now | request now
 OK   Sade — Is It a Crime (Remastered Version) | last aired 2026-10-19 21:55 | normal pick now | request now
 OK   Sade — Kiss of Life (Remastered Version) | last aired 2026-10-20 01:46 | normal pick now | request now
 WAIT Sade — No Ordinary Love  (Remastered Version) | last aired 2026-10-21 08:49 | normal pick from 2026-10-22 20:49 | request from 2026-10-22 04:49
-WAIT Sade — Smooth Operator (2011 Remastered) (Remastered Version) | last aired 2026-10-20 23:52 | normal pick from 2026-10-22 11:52 | request from 2026-10-21 19:52
+WAIT Sade — Smooth Operator (2011 Remastered) (Remastered Version) | last aired 2026-10-20 23:52 | normal pick from 2026-10-22 11:52 | request now
 OK   Sade — The Sweetest Taboo  (Remastered Version) | last aired 2026-10-18 22:55 | normal pick now | request now
 OK   Sadie Jean — WYD Now? | last aired 2026-10-15 15:56 | normal pick now | request now
 OK   Saindra — Mil Besos | last aired 2026-10-15 23:03 | normal pick now | request now
@@ -21,7 +21,7 @@ WAIT Sampha — (No One Knows Me) Like the Piano | last aired 2026-10-20 07:11 |
 OK   Santana — Black Magic Woman | last aired 2026-10-19 19:48 | normal pick now | request now
 WAIT Santana — Maria Maria | last aired 2026-10-21 18:44 | normal pick from 2026-10-23 18:44 | request from 2026-10-23 18:44
 WAIT Santana — Oye Como Va | last aired 2026-10-20 16:50 | normal pick from 2026-10-22 16:50 | request from 2026-10-22 16:50
-WAIT Santana — Samba Pa Ti | last aired 2026-10-21 13:19 | normal pick from 2026-10-23 13:19 | request from 2026-10-23 13:19
+WAIT Santana — Samba Pa Ti | last aired 2026-10-21 13:20 | normal pick from 2026-10-23 13:20 | request from 2026-10-23 13:20
 OK   Sarah McLachlan — Building a Mystery | last aired 2026-10-18 14:47 | normal pick now | request now
 OK   Sarah McLachlan — Fallen (Album Mix) | last aired 2026-10-19 21:39 | normal pick now | request now
 OK   Sarah McLachlan — Sweet Surrender (Album Version) | last aired 2026-10-17 01:18 | normal pick now | request now

@@ -1,12 +1,12 @@
-Track status, song titles filed under LI (built Wed Oct 21, 12:05 PM PDT (19:05 UTC)). Times in UTC.
+Track status, song titles filed under LI (built Wed Oct 21, 1:05 PM PDT (20:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Li Beirut (after Joaquín Rodrigo) — Karim Sulayman | last aired 2026-10-17 06:37 | normal pick now | request now
-WAIT Libertango (Arr. Yamamoto for Piano 4-Hands) — Beatrice Rana | last aired 2026-10-21 15:36 | normal pick from 2026-10-23 15:36 | request from 2026-10-23 15:36
+WAIT Libertango (Arr. Yamamoto for Piano 4-Hands) — Beatrice Rana | last aired 2026-10-21 15:37 | normal pick from 2026-10-23 15:37 | request from 2026-10-23 15:37
 OK   Libertango — Al Di Meola | last aired 2026-10-13 20:57 | normal pick now | request now
 OK   Libertango — Rodrigo y Gabriela | last aired 2026-10-19 12:00 | normal pick now | request now
 OK   Libertango — Yo-Yo Ma | last aired 2026-10-18 19:49 | normal pick now | request now
-WAIT Lid — Christian Löffler | last aired 2026-10-20 07:38 | normal pick from 2026-10-21 19:38 | request now
+OK   Lid — Christian Löffler | last aired 2026-10-20 07:38 | normal pick now | request now
 WAIT Life Is Strange — Lord Huron | last aired 2026-10-21 10:36 | normal pick from 2026-10-23 10:36 | request from 2026-10-23 10:36
 OK   Life Is Sweet — Maria McKee | last aired 2026-10-16 07:31 | normal pick now | request now
 OK   Life Itself — Glass Animals | last aired 2026-10-18 07:38 | normal pick now | request now
@@ -16,7 +16,7 @@ OK   Life Without The Living — Tom Konkle | last aired 2026-10-17 06:06 | norm
 OK   Life's What You Make It  (1997 Remaster) — Talk Talk | last aired 2026-10-19 07:15 | normal pick now | request now
 WAIT Light Bulb In My Head — Tom Konkle | last aired 2026-10-21 03:02 | normal pick from 2026-10-22 15:02 | request from 2026-10-21 23:02
 OK   Lights (Album Version) — Journey | last aired 2026-10-18 12:42 | normal pick now | request now
-WAIT Like the Weather — 10,000 Maniacs | last aired 2026-10-21 18:56 | normal pick from 2026-10-23 06:56 | request from 2026-10-22 14:56
+WAIT Like the Weather — 10,000 Maniacs | last aired 2026-10-21 18:57 | normal pick from 2026-10-23 06:57 | request from 2026-10-22 14:57
 WAIT Lingus (Alternate Take) — Snarky Puppy | last aired 2026-10-20 11:36 | normal pick from 2026-10-21 23:36 | request now
 WAIT Lisztomania — Phoenix | last aired 2026-10-20 17:46 | normal pick from 2026-10-22 17:46 | request from 2026-10-22 17:46
 OK   LITE SPOTS — Kaytranada | last aired 2026-10-18 02:10 | normal pick now | request now

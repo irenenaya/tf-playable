@@ -1,4 +1,4 @@
-Track status, song titles filed under ST (built Wed Oct 21, 12:05 PM PDT (19:05 UTC)). Times in UTC.
+Track status, song titles filed under ST (built Wed Oct 21, 1:05 PM PDT (20:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   S.T.A.Y. — Hans Zimmer | last aired 2026-10-17 19:10 | normal pick now | request now
@@ -17,7 +17,7 @@ OK   Starálfur — Sigur Rós | last aired 2026-10-19 17:47 | normal pick now |
 OK   Static on the Radio — Jim White | last aired 2026-10-15 14:26 | normal pick now | request now
 OK   Stay — Shakespears Sister | last aired 2026-10-17 05:56 | normal pick now | request now
 OK   Steal Away — Robbie Dupree | last aired 2026-10-15 16:50 | normal pick now | request now
-WAIT Steep Hills of Vicodin Tears — A Winged Victory For The Sullen | last aired 2026-10-20 07:34 | normal pick from 2026-10-21 19:34 | request now
+OK   Steep Hills of Vicodin Tears — A Winged Victory For The Sullen | last aired 2026-10-20 07:34 | normal pick now | request now
 OK   Steppe — René Aubry | last aired 2026-10-13 08:22 | normal pick now | request now
 OK   Stick Season — Noah Kahan | last aired 2026-10-15 03:23 | normal pick now | request now
 OK   Still Loving You (2011 Version) — Scorpions | last aired 2026-10-18 00:37 | normal pick now | request now

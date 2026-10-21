@@ -1,8 +1,8 @@
-Track status, artists filed under PA (built Wed Oct 21, 12:05 PM PDT (19:05 UTC)). Times in UTC.
+Track status, artists filed under PA (built Wed Oct 21, 1:05 PM PDT (20:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Paco de Lucía — Entre Dos Aguas | last aired 2026-10-20 10:26 | normal pick from 2026-10-22 10:26 | request from 2026-10-22 10:26
-OK   Paco de Lucía — Mediterranean sundance - Di Meola: Mediterranean sundance | last aired 2026-10-17 12:40 | normal pick now | request now
+WAIT Paco de Lucía — Mediterranean sundance - Di Meola: Mediterranean sundance | last aired 2026-10-21 19:22 | normal pick from 2026-10-23 07:22 | request from 2026-10-22 15:22
 OK   Pages — If I Saw You Again (Album Version) | last aired 2026-10-15 15:22 | normal pick now | request now
 OK   Pale Saints — Kinky Love | last aired 2026-10-16 09:58 | normal pick now | request now
 OK   Paolo Conte — Via Con Me | last aired 2026-10-18 09:42 | normal pick now | request now
@@ -19,7 +19,7 @@ OK   Patti LaBelle — If Only You Knew | last aired 2026-10-19 04:21 | normal p
 WAIT Patti LaBelle — On My Own | last aired 2026-10-20 21:59 | normal pick from 2026-10-22 21:59 | request from 2026-10-22 21:59
 OK   Paul Leonard-Morgan — She's a Pass | last aired 2026-10-18 02:28 | normal pick now | request now
 OK   Paul Mauriat — Love Is Blue (Album Version) | last aired 2026-10-17 07:11 | normal pick now | request now
-WAIT Paul McCartney — Maybe I’m Amazed (2011 Remaster) | last aired 2026-10-21 18:52 | normal pick from 2026-10-23 18:52 | request from 2026-10-23 18:52
+WAIT Paul McCartney — Maybe I’m Amazed (2011 Remaster) | last aired 2026-10-21 18:53 | normal pick from 2026-10-23 18:53 | request from 2026-10-23 18:53
 OK   Paul McCartney — Monkberry Moon Delight (2012 Remaster) | last aired 2026-10-18 11:48 | normal pick now | request now
 OK   Paul Rodgers — Muddy Water Blues | last aired 2026-10-17 22:01 | normal pick now | request now
 OK   Paul Simon — Further to Fly | last aired 2026-10-19 15:33 | normal pick now | request now
