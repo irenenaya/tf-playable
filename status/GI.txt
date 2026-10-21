@@ -1,4 +1,4 @@
-Track status, artists filed under GI (built Wed Oct 21, 9:05 AM PDT (16:05 UTC)). Times in UTC.
+Track status, artists filed under GI (built Wed Oct 21, 10:05 AM PDT (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Gigi Perez — Sailor Song | last aired 2026-10-15 05:18 | normal pick now | request now
@@ -6,4 +6,4 @@ OK   Gilbert Bécaud — Le Pianiste de Varsovie | last aired 2026-10-18 08:33 |
 OK   Gilbert Bécaud — Nathalie | last aired 2026-10-17 06:57 | normal pick now | request now
 WAIT Gilberto Gil — Aquele Abraço | last aired 2026-10-19 18:32 | normal pick from 2026-10-21 18:32 | request from 2026-10-21 18:32
 OK   Gipsy Kings — Bamboleo | last aired 2026-10-14 14:18 | normal pick now | request now
-OK   Girls' Generation — Gee | last aired 2026-10-11 17:20 | normal pick now | request now
+WAIT Girls' Generation — Gee | last aired 2026-10-21 16:09 | normal pick from 2026-10-23 04:09 | request from 2026-10-22 12:09

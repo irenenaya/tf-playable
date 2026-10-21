@@ -1,4 +1,4 @@
-Track status, song titles filed under MA (built Wed Oct 21, 9:05 AM PDT (16:05 UTC)). Times in UTC.
+Track status, song titles filed under MA (built Wed Oct 21, 10:05 AM PDT (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Mad World — Gary Jules | last aired 2026-10-13 20:23 | normal pick now | request now
@@ -8,7 +8,7 @@ WAIT Madwoman — Laufey | last aired 2026-10-20 11:32 | normal pick from 2026-1
 OK   Magic Wanda — Daikaiju | last aired 2026-10-18 17:34 | normal pick now | request now
 OK   Main Theme — Filippo Beck Peccoz | last aired 2026-10-11 11:40 | normal pick now | request now
 OK   Mais je t'aime — Grand Corps Malade | last aired 2026-10-18 08:14 | normal pick now | request now
-OK   Make a Wish — Azawi | last aired 2026-10-11 05:57 | normal pick now | request now
+WAIT Make a Wish — Azawi | last aired 2026-10-21 16:52 | normal pick from 2026-10-23 04:52 | request from 2026-10-22 12:52
 OK   Make Me Feel — Janelle Monáe | last aired 2026-10-14 20:45 | normal pick now | request now
 OK   MALAMENTE (Cap.1: Augurio) — ROSALÍA | last aired 2026-10-15 13:29 | normal pick now | request now
 OK   Man in the Box — Alice In Chains | last aired 2026-10-18 12:27 | normal pick now | request now
