@@ -1,4 +1,4 @@
-Track status, song titles filed under SU (built Wed Oct 21, 12:05 AM PDT (07:05 UTC)). Times in UTC.
+Track status, song titles filed under SU (built Wed Oct 21, 1:05 AM PDT (08:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Subterraneans  (2017 Remaster) — David Bowie | last aired 2026-10-20 05:53 | normal pick from 2026-10-21 17:53 | request now
@@ -6,9 +6,9 @@ OK   Such a Shame  (1997 Remaster) — Talk Talk | last aired 2026-10-14 20:49 |
 WAIT Such Great Heights (Remastered) — The Postal Service | last aired 2026-10-20 14:59 | normal pick from 2026-10-22 02:59 | request from 2026-10-21 10:59
 OK   Such Great Heights — Iron & Wine | last aired 2026-10-16 10:20 | normal pick now | request now
 OK   Sugar Water (Album Version) — Cibo Matto | last aired 2026-10-15 20:20 | normal pick now | request now
-OK   Suite bergamasque, CD 82, L. 75: III. Clair de lune — Simon Trpčeski | last aired 2026-10-16 10:33 | normal pick now | request now
-WAIT Sultans of Swing — Dire Straits | last aired 2026-10-20 11:59 | normal pick from 2026-10-21 23:59 | request from 2026-10-21 07:59
-WAIT Sultans Of Swing — Dire Straits | last aired 2026-10-20 11:58 | normal pick from 2026-10-21 23:58 | request from 2026-10-21 07:58
+WAIT Suite bergamasque, CD 82, L. 75: III. Clair de lune — Simon Trpčeski | last aired 2026-10-21 07:15 | normal pick from 2026-10-23 07:15 | request from 2026-10-23 07:15
+WAIT Sultans of Swing — Dire Straits | last aired 2026-10-20 11:59 | normal pick from 2026-10-21 23:59 | request now
+WAIT Sultans Of Swing — Dire Straits | last aired 2026-10-20 11:58 | normal pick from 2026-10-21 23:58 | request now
 OK   Summer (from 'Kikujiro') — Joe Hisaishi | last aired 2026-10-11 06:03 | normal pick now | request now
 OK   Summer 91 (Looking Back) (Acoustic) — Noizu | last aired 2026-09-30 21:39 | normal pick now | request now
 OK   Summer 91 (Looking Back) — Noizu | last aired 2026-10-14 15:43 | normal pick now | request now
@@ -23,5 +23,5 @@ OK   Sunset Lover — Petit Biscuit | last aired 2026-10-09 07:19 | normal pick 
 WAIT Superstar  (The Jason Nevins' Live Peep Show Mix) — Tom Novy | last aired 2026-10-21 03:32 | normal pick from 2026-10-22 15:32 | request from 2026-10-21 23:32
 OK   Superstition (Album Version) — Stevie Wonder | last aired 2026-10-17 22:45 | normal pick now | request now
 OK   Surprise! You're Dead! — Faith No More | last aired 2026-10-17 05:00 | normal pick now | request now
-OK   Surrounded by Illusion — Eluvium | last aired 2026-10-18 03:57 | normal pick now | request now
+WAIT Surrounded by Illusion — Eluvium | last aired 2026-10-21 07:26 | normal pick from 2026-10-22 19:26 | request from 2026-10-22 03:26
 OK   Suzanne — Leonard Cohen | last aired 2026-10-17 09:10 | normal pick now | request now
