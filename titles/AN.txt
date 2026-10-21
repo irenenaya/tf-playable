@@ -1,10 +1,10 @@
-Track status, song titles filed under AN (built Tue Oct 20, 4:05 PM PDT (23:05 UTC)). Times in UTC.
+Track status, song titles filed under AN (built Tue Oct 20, 5:05 PM PDT (00:05 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   An Ending (Ascent) (Remastered 2019) — Brian Eno | last aired 2026-10-18 05:22 | normal pick now | request now
 WAIT Ana — Pixies | last aired 2026-10-20 02:58 | normal pick from 2026-10-22 02:58 | request from 2026-10-22 02:58
 OK   Ana's Song (Open Fire) — Silverchair | last aired 2026-10-15 19:37 | normal pick now | request now
-OK   Anahit Concerto per due ondiole — Archivio Storico Fondazione Isabella Scelsi | last aired 2026-10-02 03:03 | normal pick now | request now
+WAIT Anahit Concerto per due ondiole — Archivio Storico Fondazione Isabella Scelsi | last aired 2026-10-20 23:19 | normal pick from 2026-10-22 11:19 | request from 2026-10-21 19:19
 OK   Anarchy In The UK — Sex Pistols | last aired 2026-10-18 13:39 | normal pick now | request now
 WAIT andata — Ryuichi Sakamoto | last aired 2026-10-19 04:16 | normal pick from 2026-10-21 04:16 | request from 2026-10-21 04:16
 OK   Angel (LP Version) — Anita Baker | last aired 2026-10-15 02:37 | normal pick now | request now
@@ -22,6 +22,6 @@ OK   Anthem for the Year 2000 (Album Version) — Silverchair | last aired 2026-
 WAIT Anthem — Leonard Cohen | last aired 2026-10-20 04:08 | normal pick from 2026-10-21 16:08 | request from 2026-10-21 00:08
 OK   ANTONYMPH — Vylet Pony | last aired 2026-10-18 11:03 | normal pick now | request now
 WAIT Ants In My Room — Carter Vail | last aired 2026-10-20 14:28 | normal pick from 2026-10-22 02:28 | request from 2026-10-21 10:28
-WAIT Any Time, Any Place — Janet Jackson | last aired 2026-10-19 11:45 | normal pick from 2026-10-20 23:45 | request now
+OK   Any Time, Any Place — Janet Jackson | last aired 2026-10-19 11:45 | normal pick now | request now
 WAIT anything — Adrianne Lenker | last aired 2026-10-19 21:10 | normal pick from 2026-10-21 21:10 | request from 2026-10-21 21:10
 OK   Anything Goes — John T. Williams | last aired 2026-10-16 05:14 | normal pick now | request now

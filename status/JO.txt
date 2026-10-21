@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Tue Oct 20, 4:05 PM PDT (23:05 UTC)). Times in UTC.
+Track status, artists filed under JO (built Tue Oct 20, 5:05 PM PDT (00:05 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-10-20 12:05 | normal pick from 2026-10-22 12:05 | request from 2026-10-22 12:05
@@ -26,7 +26,7 @@ OK   John Denver — Take Me Home, Country Roads | last aired 2026-10-18 21:34 |
 OK   John Lee Hooker — Boom Boom | last aired 2026-10-18 12:24 | normal pick now | request now
 OK   John Lee Hooker — I Cover the Waterfront | last aired 2026-10-18 09:01 | normal pick now | request now
 OK   John Lennon — Give Peace A Chance (Remastered 2010) | last aired 2026-10-13 04:40 | normal pick now | request now
-OK   John Lennon — Imagine (Remastered 2010) | last aired 2026-10-14 00:42 | normal pick now | request now
+WAIT John Lennon — Imagine (Remastered 2010) | last aired 2026-10-20 23:55 | normal pick from 2026-10-22 11:55 | request from 2026-10-21 19:55
 OK   John Lennon — Instant Karma! (We All Shine On) (Ultimate Mix) | last aired 2026-10-18 10:13 | normal pick now | request now
 OK   John Lennon — Watching The Wheels (Remastered 2010) | last aired 2026-10-16 16:48 | normal pick now | request now
 OK   John Mayer — New Light | last aired 2026-10-15 22:48 | normal pick now | request now
@@ -55,4 +55,4 @@ OK   Journey — Lights (Album Version) | last aired 2026-10-18 12:42 | normal p
 WAIT Joywave — In Clover | last aired 2026-10-20 14:20 | normal pick from 2026-10-22 02:20 | request from 2026-10-21 10:20
 OK   Joywave — Rumors | last aired 2026-10-12 01:11 | normal pick now | request now
 WAIT João Gilberto — Chega de Saudade | last aired 2026-10-19 03:09 | normal pick from 2026-10-21 03:09 | request from 2026-10-21 03:09
-WAIT João Gilberto — Garota de Ipanema (Live) | last aired 2026-10-20 03:06 | normal pick from 2026-10-21 15:06 | request from 2026-10-20 23:06
+WAIT João Gilberto — Garota de Ipanema (Live) | last aired 2026-10-20 03:06 | normal pick from 2026-10-21 15:06 | request now

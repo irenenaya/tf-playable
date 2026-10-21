@@ -1,4 +1,4 @@
-Track status, song titles filed under LO (built Tue Oct 20, 4:05 PM PDT (23:05 UTC)). Times in UTC.
+Track status, song titles filed under LO (built Tue Oct 20, 5:05 PM PDT (00:05 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT L-O-V-E — Nat King Cole | last aired 2026-10-19 18:45 | normal pick from 2026-10-21 06:45 | request now
@@ -24,7 +24,7 @@ OK   Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can'
 OK   Love — Mica Levi | last aired 2026-10-07 05:28 | normal pick now | request now
 OK   Love On A Real Train — Tangerine Dream | last aired 2026-10-16 12:49 | normal pick now | request now
 OK   LOVE TRIP — Takako Mamiya | last aired 2026-10-17 13:36 | normal pick now | request now
-OK   Lovely Day — Bill Withers | last aired 2026-10-13 12:24 | normal pick now | request now
+WAIT Lovely Day — Bill Withers | last aired 2026-10-20 23:33 | normal pick from 2026-10-22 23:33 | request from 2026-10-22 23:33
 OK   Lovers Rock — TV Girl | last aired 2026-10-09 03:47 | normal pick now | request now
 WAIT Lovesong  (2010 Remaster) — The Cure | last aired 2026-10-19 13:12 | normal pick from 2026-10-21 01:12 | request now
 OK   Lovin' Every Minute of It — Loverboy | last aired 2026-10-15 23:40 | normal pick now | request now
