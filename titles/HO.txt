@@ -1,7 +1,7 @@
-Track status, song titles filed under HO (built Wed Oct 21, 3:05 AM PDT (10:05 UTC)). Times in UTC.
+Track status, song titles filed under HO (built Wed Oct 21, 4:05 AM PDT (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Holding — Grouper | last aired 2026-10-20 14:41 | normal pick from 2026-10-22 02:41 | request from 2026-10-21 10:41
+WAIT Holding — Grouper | last aired 2026-10-20 14:41 | normal pick from 2026-10-22 02:41 | request now
 WAIT Holding Out for a Hero (From "Footloose" Soundtrack) — Bonnie Tyler | last aired 2026-10-20 20:26 | normal pick from 2026-10-22 08:26 | request from 2026-10-21 16:26
 OK   Holiday (Remastered 2015) — Scorpions | last aired 2026-10-15 01:51 | normal pick now | request now
 OK   Holiday — Madonna | last aired 2026-10-15 01:45 | normal pick now | request now
@@ -15,7 +15,7 @@ OK   Hopopono — GoGo Penguin | last aired 2026-10-17 03:37 | normal pick now |
 OK   Hoppípolla — Sigur Rós | last aired 2026-10-19 04:06 | normal pick now | request now
 OK   HOT TO GO! — Chappell Roan | last aired 2026-10-12 17:42 | normal pick now | request now
 OK   Hotel California  (2013 Remaster) — Eagles | last aired 2026-10-18 10:29 | normal pick now | request now
-WAIT Houdini — Dua Lipa | last aired 2026-10-20 15:04 | normal pick from 2026-10-22 03:04 | request from 2026-10-21 11:04
+WAIT Houdini — Dua Lipa | last aired 2026-10-20 15:04 | normal pick from 2026-10-22 03:04 | request now
 OK   House of the Rising Sun — Erik Grönwall | last aired 2026-10-14 22:41 | normal pick now | request now
 OK   House Where Nobody Lives — Tom Waits | last aired 2026-10-18 23:10 | normal pick now | request now
 WAIT How Deep Is The Ocean — Diana Krall | last aired 2026-10-20 03:39 | normal pick from 2026-10-21 15:39 | request now

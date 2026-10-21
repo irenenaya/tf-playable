@@ -1,9 +1,9 @@
-Track status, song titles filed under SU (built Wed Oct 21, 3:05 AM PDT (10:05 UTC)). Times in UTC.
+Track status, song titles filed under SU (built Wed Oct 21, 4:05 AM PDT (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Subterraneans  (2017 Remaster) — David Bowie | last aired 2026-10-20 05:53 | normal pick from 2026-10-21 17:53 | request now
 OK   Such a Shame  (1997 Remaster) — Talk Talk | last aired 2026-10-14 20:49 | normal pick now | request now
-WAIT Such Great Heights (Remastered) — The Postal Service | last aired 2026-10-20 14:59 | normal pick from 2026-10-22 02:59 | request from 2026-10-21 10:59
+WAIT Such Great Heights (Remastered) — The Postal Service | last aired 2026-10-20 14:59 | normal pick from 2026-10-22 02:59 | request now
 OK   Such Great Heights — Iron & Wine | last aired 2026-10-16 10:20 | normal pick now | request now
 OK   Sugar Water (Album Version) — Cibo Matto | last aired 2026-10-15 20:20 | normal pick now | request now
 WAIT Suite bergamasque, CD 82, L. 75: III. Clair de lune — Simon Trpčeski | last aired 2026-10-21 07:15 | normal pick from 2026-10-23 07:15 | request from 2026-10-23 07:15
@@ -24,4 +24,4 @@ WAIT Superstar  (The Jason Nevins' Live Peep Show Mix) — Tom Novy | last aired
 OK   Superstition (Album Version) — Stevie Wonder | last aired 2026-10-17 22:45 | normal pick now | request now
 OK   Surprise! You're Dead! — Faith No More | last aired 2026-10-17 05:00 | normal pick now | request now
 WAIT Surrounded by Illusion — Eluvium | last aired 2026-10-21 07:26 | normal pick from 2026-10-22 19:26 | request from 2026-10-22 03:26
-OK   Suzanne — Leonard Cohen | last aired 2026-10-17 09:10 | normal pick now | request now
+WAIT Suzanne — Leonard Cohen | last aired 2026-10-21 10:11 | normal pick from 2026-10-23 10:11 | request from 2026-10-23 10:11

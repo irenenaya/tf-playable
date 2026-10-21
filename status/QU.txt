@@ -1,4 +1,4 @@
-Track status, artists filed under QU (built Wed Oct 21, 3:05 AM PDT (10:05 UTC)). Times in UTC.
+Track status, artists filed under QU (built Wed Oct 21, 4:05 AM PDT (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Quad City DJ's — Space Jam | last aired 2026-10-20 22:44 | normal pick from 2026-10-22 10:44 | request from 2026-10-21 18:44
@@ -10,7 +10,7 @@ OK   Queen — Killer Queen (Remastered 2011) | last aired 2026-10-10 21:37 | no
 WAIT Queen — Somebody To Love | last aired 2026-10-20 16:25 | normal pick from 2026-10-22 04:25 | request from 2026-10-21 12:25
 WAIT Queen — The Fairy Feller's Master-Stroke (2026 Mix) | last aired 2026-10-20 19:17 | normal pick from 2026-10-22 07:17 | request from 2026-10-21 15:17
 OK   Queen — The March of the Black Queen (2026 Mix) | last aired 2026-10-18 04:48 | normal pick now | request now
-WAIT Queen — Under Pressure (Remastered 2011) | last aired 2026-10-19 22:17 | normal pick from 2026-10-21 10:17 | request now
+OK   Queen — Under Pressure (Remastered 2011) | last aired 2026-10-19 22:17 | normal pick now | request now
 OK   Queen — We Will Rock You | last aired 2026-10-09 14:26 | normal pick now | request now
 OK   Queens Of The Stone Age — No One Knows | last aired 2026-10-18 15:46 | normal pick now | request now
 OK   Queensrÿche — Silent Lucidity (Remastered 2003) | last aired 2026-10-17 05:25 | normal pick now | request now

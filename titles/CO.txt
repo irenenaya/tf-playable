@@ -1,10 +1,10 @@
-Track status, song titles filed under CO (built Wed Oct 21, 3:05 AM PDT (10:05 UTC)). Times in UTC.
+Track status, song titles filed under CO (built Wed Oct 21, 4:05 AM PDT (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Coat of Many Colors — Dolly Parton | last aired 2026-10-16 21:09 | normal pick now | request now
 WAIT Coffee Homeground — Kate Bush | last aired 2026-10-20 22:04 | normal pick from 2026-10-22 22:04 | request from 2026-10-22 22:04
 OK   Colorful Array — Neuro-sama | last aired 2026-10-18 01:42 | normal pick now | request now
-WAIT Come On Get Higher — Matt Nathanson | last aired 2026-10-19 22:37 | normal pick from 2026-10-21 10:37 | request now
+OK   Come On Get Higher — Matt Nathanson | last aired 2026-10-19 22:37 | normal pick now | request now
 OK   Come Tomorrow (Duet With Barry Gibb (Album Version)) — Various Interprets | last aired 2026-10-13 08:52 | normal pick now | request now
 OK   Comfortably Numb — Pink Floyd | last aired 2026-10-18 09:32 | normal pick now | request now
 WAIT Coming Back to Life — Pink Floyd | last aired 2026-10-21 02:02 | normal pick from 2026-10-22 14:02 | request from 2026-10-21 22:02
@@ -23,7 +23,7 @@ OK   Cool Change — Little River Band | last aired 2026-10-18 09:45 | normal pi
 OK   Cool Down — Bernard Purdie | last aired 2026-10-18 13:34 | normal pick now | request now
 WAIT Corcovado (Quiet Nights Of Quiet Stars) — Stan Getz | last aired 2026-10-19 20:18 | normal pick from 2026-10-21 20:18 | request from 2026-10-21 20:18
 OK   Cornfield Chase — Hans Zimmer | last aired 2026-10-04 01:25 | normal pick now | request now
-WAIT Cosmic Girl (Remastered 2013) — Jamiroquai | last aired 2026-10-19 10:10 | normal pick from 2026-10-21 10:10 | request from 2026-10-21 10:10
+OK   Cosmic Girl (Remastered 2013) — Jamiroquai | last aired 2026-10-19 10:10 | normal pick now | request now
 OK   Cotton Fields — Creedence Clearwater Revival | last aired 2026-10-16 05:02 | normal pick now | request now
 OK   Counting Sheep — Brijean | last aired 2026-10-17 10:59 | normal pick now | request now
 WAIT Cowboy Nudes — Geese | last aired 2026-10-20 19:31 | normal pick from 2026-10-22 07:31 | request from 2026-10-21 15:31
