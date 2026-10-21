@@ -1,4 +1,4 @@
-Track status, song titles filed under LO (built Wed Oct 21, 10:05 AM PDT (17:05 UTC)). Times in UTC.
+Track status, song titles filed under LO (built Wed Oct 21, 11:05 AM PDT (18:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   L-O-V-E — Nat King Cole | last aired 2026-10-19 18:45 | normal pick now | request now
@@ -13,7 +13,7 @@ WAIT Loser — Beck | last aired 2026-10-19 18:54 | normal pick from 2026-10-21 
 OK   Losing Faith — Tom Konkle | last aired 2026-09-12 01:59 | normal pick now | request now
 OK   Lost Coastlines — Okkervil River | last aired 2026-10-16 21:50 | normal pick now | request now
 OK   Lost in Music (1995 Remaster) (LP Version) — Sister Sledge | last aired 2026-10-20 01:50 | normal pick now | request now
-WAIT Lost In The Humming Air (2005 Digital Remaster) — Harold Budd | last aired 2026-10-20 05:49 | normal pick from 2026-10-21 17:49 | request now
+OK   Lost In The Humming Air (2005 Digital Remaster) — Harold Budd | last aired 2026-10-20 05:49 | normal pick now | request now
 WAIT Lost on You — LP | last aired 2026-10-20 18:23 | normal pick from 2026-10-22 06:23 | request now
 OK   Louie Bag  (Live at Electric Lady) — YEBBA | last aired 2026-10-15 21:26 | normal pick now | request now
 OK   Love and Happiness — Al Green | last aired 2026-10-14 18:19 | normal pick now | request now
@@ -34,6 +34,6 @@ WAIT Low Frequency Thunderstorm Shield — Cognitron | last aired 2026-10-21 06:
 OK   Lowdown (2023 Remaster) — Boz Scaggs | last aired 2026-10-18 15:51 | normal pick now | request now
 OK   The Lonesome Death of Hattie Carroll — Bob Dylan | last aired 2026-10-18 21:12 | normal pick now | request now
 OK   The Long Road — Mark Knopfler | last aired 2026-10-19 00:53 | normal pick now | request now
-OK   The Look — Roxette | last aired 2026-10-08 13:36 | normal pick now | request now
+WAIT The Look — Roxette | last aired 2026-10-21 17:40 | normal pick from 2026-10-23 05:40 | request from 2026-10-22 13:40
 OK   The Lord Will Make a Way — Al Green | last aired 2026-10-19 18:16 | normal pick now | request now
 OK   The Love Song — Marilyn Manson | last aired 2026-09-14 11:35 | normal pick now | request now

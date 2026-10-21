@@ -1,4 +1,4 @@
-Track status, song titles filed under AR (built Wed Oct 21, 10:05 AM PDT (17:05 UTC)). Times in UTC.
+Track status, song titles filed under AR (built Wed Oct 21, 11:05 AM PDT (18:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   ARC Raiders — Patrik Andrén | last aired 2026-09-13 03:09 | normal pick now | request now
@@ -7,4 +7,4 @@ OK   Archangel — Burial | last aired 2026-10-19 06:21 | normal pick now | requ
 OK   Are 'Friends' Electric? (1998 Remaster) — Tubeway Army | last aired 2026-10-16 00:18 | normal pick now | request now
 WAIT Are You with Me Now? — Cate Le Bon | last aired 2026-10-20 14:12 | normal pick from 2026-10-22 02:12 | request now
 OK   Army Of Me — Björk | last aired 2026-10-19 12:28 | normal pick now | request now
-OK   Around the World — Daft Punk | last aired 2026-10-11 01:17 | normal pick now | request now
+WAIT Around the World — Daft Punk | last aired 2026-10-21 17:19 | normal pick from 2026-10-23 05:19 | request from 2026-10-22 13:19
