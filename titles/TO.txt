@@ -1,4 +1,4 @@
-Track status, song titles filed under TO (built Tue Oct 20, 6:05 PM PDT (01:05 UTC Wed)). Times in UTC.
+Track status, song titles filed under TO (built Tue Oct 20, 7:05 PM PDT (02:05 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Touch — Stan Bush | last aired 2026-10-14 19:40 | normal pick now | request now
@@ -7,7 +7,7 @@ WAIT Together Forever — Djivan Gasparyan | last aired 2026-10-20 06:50 | norma
 OK   Together We're Strong — Mireille Mathieu | last aired 2026-10-18 08:46 | normal pick now | request now
 OK   Tom Sawyer — Rush | last aired 2026-10-16 15:32 | normal pick now | request now
 OK   Torn — Ednaswap | last aired 2026-10-14 21:46 | normal pick now | request now
-WAIT Torn — Natalie Imbruglia | last aired 2026-10-19 13:37 | normal pick from 2026-10-21 01:37 | request now
+OK   Torn — Natalie Imbruglia | last aired 2026-10-19 13:37 | normal pick now | request now
 WAIT Torna a casa — Måneskin | last aired 2026-10-20 03:53 | normal pick from 2026-10-21 15:53 | request now
 OK   Total Eclipse of the Heart — Bonnie Tyler | last aired 2026-10-16 20:22 | normal pick now | request now
 WAIT Touch It / Technologic — Daft Punk | last aired 2026-10-20 19:39 | normal pick from 2026-10-22 07:39 | request from 2026-10-21 15:39
