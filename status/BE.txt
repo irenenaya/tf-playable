@@ -1,13 +1,13 @@
-Track status, artists filed under BE (built Wed Oct 21, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, artists filed under BE (built Wed Oct 21, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Beach House — Bluebird | last aired 2026-10-11 03:23 | normal pick now | request now
 OK   Beach House — Space Song | last aired 2026-10-19 05:15 | normal pick now | request now
 WAIT Beastie Boys — Sabotage | last aired 2026-10-19 22:10 | normal pick from 2026-10-21 22:10 | request from 2026-10-21 22:10
 WAIT Beatrice Rana — Keyboard Concerto No. 1 in D Minor, BWV 1052: I. Allegro | last aired 2026-10-21 04:56 | normal pick from 2026-10-22 16:56 | request from 2026-10-22 00:56
-OK   Beatrice Rana — Libertango (Arr. Yamamoto for Piano 4-Hands) | last aired 2026-10-16 11:54 | normal pick now | request now
+WAIT Beatrice Rana — Libertango (Arr. Yamamoto for Piano 4-Hands) | last aired 2026-10-21 15:36 | normal pick from 2026-10-23 15:36 | request from 2026-10-23 15:36
 OK   Beats by Luca — 52 CHICKEN NUGGET (McRave) | last aired 2026-10-18 11:09 | normal pick now | request now
-OK   Bebel Gilberto — Samba Da Benção | last aired 2026-10-19 01:49 | normal pick now | request now
+WAIT Bebel Gilberto — Samba Da Benção | last aired 2026-10-21 15:54 | normal pick from 2026-10-23 15:54 | request from 2026-10-23 15:54
 OK   Beck — Devils Haircut | last aired 2026-10-18 09:11 | normal pick now | request now
 WAIT Beck — Loser | last aired 2026-10-19 18:54 | normal pick from 2026-10-21 18:54 | request from 2026-10-21 18:54
 OK   Beck — The New Pollution | last aired 2026-10-19 00:19 | normal pick now | request now
@@ -21,7 +21,7 @@ WAIT Ben E. King — Stand By Me | last aired 2026-10-19 18:48 | normal pick fro
 OK   Ben Harper — Yard Sale | last aired 2026-10-18 21:37 | normal pick now | request now
 OK   Ben&Ben — Leaves | last aired 2026-10-16 04:44 | normal pick now | request now
 OK   Ben&Ben — Maybe The Night | last aired 2026-10-08 16:41 | normal pick now | request now
-OK   Benjamin Francis Leftwich — Ticket To Ride | last aired 2026-10-16 08:22 | normal pick now | request now
+WAIT Benjamin Francis Leftwich — Ticket To Ride | last aired 2026-10-21 15:06 | normal pick from 2026-10-23 03:06 | request from 2026-10-22 11:06
 OK   Benny Goodman — Sing Sing Sing (With A Swing) (live) | last aired 2026-10-13 22:06 | normal pick now | request now
 OK   Benny Sings — Rolled Up | last aired 2026-10-14 16:06 | normal pick now | request now
 WAIT Benny Sings — Sailing | last aired 2026-10-20 13:58 | normal pick from 2026-10-22 01:58 | request now

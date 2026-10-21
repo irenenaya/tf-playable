@@ -1,4 +1,4 @@
-Track status, song titles filed under LA (built Wed Oct 21, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, song titles filed under LA (built Wed Oct 21, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   L'Amour Looks Something Like You (2018 Remaster) — Kate Bush | last aired 2026-10-17 23:57 | normal pick now | request now
@@ -12,7 +12,7 @@ OK   La Negra Tomasa (Bilongo - Version Tropical) — Caifanes | last aired 2026
 WAIT La petite fille de la mer — Vangelis | last aired 2026-10-20 02:42 | normal pick from 2026-10-22 02:42 | request from 2026-10-22 02:42
 WAIT La Revacholiere — Sea Power | last aired 2026-10-20 17:50 | normal pick from 2026-10-22 05:50 | request now
 OK   La Serena — Azam Ali | last aired 2026-10-17 17:49 | normal pick now | request now
-OK   La Vie en rose — Edith Piaf | last aired 2026-10-17 16:29 | normal pick now | request now
+WAIT La Vie en rose — Edith Piaf | last aired 2026-10-21 15:21 | normal pick from 2026-10-23 15:21 | request from 2026-10-23 15:21
 OK   Labios Rotos (Live 8.11.14) — Zoé | last aired 2026-10-15 13:01 | normal pick now | request now
 OK   lagunas — Ed Maverick | last aired 2026-10-19 08:14 | normal pick now | request now
 OK   Laisser Lucie faire — Guts | last aired 2026-10-17 07:13 | normal pick now | request now
@@ -28,4 +28,4 @@ OK   Late To Work — Marc Rebillet | last aired 2026-10-09 16:38 | normal pick 
 OK   Lateralus — TOOL | last aired 2026-10-13 10:04 | normal pick now | request now
 OK   Lazing On a Sunday Afternoon — The Czech Philharmonic and Theatre | last aired 2026-09-22 07:06 | normal pick now | request now
 OK   The Last Day Of Summer — The Cure | last aired 2026-10-15 00:00 | normal pick now | request now
-WAIT The Last Stand — Sabaton | last aired 2026-10-20 19:44 | normal pick from 2026-10-22 07:44 | request from 2026-10-21 15:44
+WAIT The Last Stand — Sabaton | last aired 2026-10-20 19:44 | normal pick from 2026-10-22 07:44 | request now

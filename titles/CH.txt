@@ -1,11 +1,11 @@
-Track status, song titles filed under CH (built Wed Oct 21, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, song titles filed under CH (built Wed Oct 21, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Cha Cha Cha — Käärijä | last aired 2026-10-15 13:35 | normal pick now | request now
 OK   Chaiyya Chaiyya — Sukhwinder Singh | last aired 2026-10-19 12:04 | normal pick now | request now
 OK   Chamber Of Reflection — Mac DeMarco | last aired 2026-10-17 09:42 | normal pick now | request now
 OK   Chameleon — Herbie Hancock | last aired 2026-10-19 05:34 | normal pick now | request now
-OK   Chan Chan — Buena Vista Social Club | last aired 2026-10-15 04:37 | normal pick now | request now
+WAIT Chan Chan — Buena Vista Social Club | last aired 2026-10-21 15:27 | normal pick from 2026-10-23 15:27 | request from 2026-10-23 15:27
 OK   Chances — Joel Pott | last aired 2026-10-19 00:14 | normal pick now | request now
 OK   Change (In the House of Flies) — Deftones | last aired 2026-10-19 23:30 | normal pick now | request now
 WAIT Change the World — Eric Clapton | last aired 2026-10-19 16:32 | normal pick from 2026-10-21 16:32 | request from 2026-10-21 16:32
@@ -20,6 +20,6 @@ WAIT Cherry-coloured Funk — Cocteau Twins | last aired 2026-10-20 06:57 | norm
 OK   Chewbaca — Supernova | last aired 2026-10-06 14:30 | normal pick now | request now
 OK   Child in Time (Special Version) — Rock appetizers | last aired 2026-09-22 21:18 | normal pick now | request now
 OK   Children of No Horizon — Tom Konkle | last aired 2026-09-17 19:18 | normal pick now | request now
-WAIT Children Of The Revolution — T. Rex | last aired 2026-10-20 19:20 | normal pick from 2026-10-22 07:20 | request from 2026-10-21 15:20
+WAIT Children Of The Revolution — T. Rex | last aired 2026-10-20 19:20 | normal pick from 2026-10-22 07:20 | request now
 WAIT Chinatown — Wild Nothing | last aired 2026-10-20 03:57 | normal pick from 2026-10-22 03:57 | request from 2026-10-22 03:57
 OK   Chorus — Holly Herndon | last aired 2026-10-09 18:55 | normal pick now | request now

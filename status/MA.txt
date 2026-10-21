@@ -1,4 +1,4 @@
-Track status, artists filed under MA (built Wed Oct 21, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, artists filed under MA (built Wed Oct 21, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT M/A/R/R/S — Pump Up The Volume (UK 12" Remix) | last aired 2026-10-21 03:08 | normal pick from 2026-10-22 15:08 | request from 2026-10-21 23:08
@@ -49,7 +49,7 @@ OK   Masego — Tadow | last aired 2026-10-14 17:04 | normal pick now | request 
 OK   Massive Attack — Angel | last aired 2026-10-17 17:42 | normal pick now | request now
 OK   Massive Attack — Protection | last aired 2026-10-18 23:36 | normal pick now | request now
 WAIT Massive Attack — Teardrop | last aired 2026-10-20 21:40 | normal pick from 2026-10-22 21:40 | request from 2026-10-22 21:40
-WAIT Massive Attack — Unfinished Sympathy (2012 Mix/Master) | last aired 2026-10-20 03:10 | normal pick from 2026-10-21 15:10 | request now
+OK   Massive Attack — Unfinished Sympathy (2012 Mix/Master) | last aired 2026-10-20 03:10 | normal pick now | request now
 OK   Matt Nathanson — All We Are | last aired 2026-10-16 01:34 | normal pick now | request now
 OK   Matt Nathanson — Come On Get Higher | last aired 2026-10-19 22:37 | normal pick now | request now
 WAIT Matt Nathanson — Faster | last aired 2026-10-21 14:37 | normal pick from 2026-10-23 02:37 | request from 2026-10-22 10:37
@@ -63,7 +63,7 @@ WAIT Maxwell — This Woman's Work (Uncut) | last aired 2026-10-20 07:58 | norma
 OK   Maxwell — Whenever Wherever Whatever (Remastered 2021) (Album Version) | last aired 2026-10-20 01:17 | normal pick now | request now
 WAIT Mazzy Star — Fade Into You | last aired 2026-10-21 08:06 | normal pick from 2026-10-23 08:06 | request from 2026-10-23 08:06
 OK   Mazzy Star — Halah | last aired 2026-10-18 23:06 | normal pick now | request now
-WAIT Måneskin — Torna a casa | last aired 2026-10-20 03:53 | normal pick from 2026-10-21 15:53 | request now
+OK   Måneskin — Torna a casa | last aired 2026-10-20 03:53 | normal pick now | request now
 OK   Måneskin — ZITTI E BUONI | last aired 2026-10-19 12:17 | normal pick now | request now
 OK   The Magnetic Fields — Absolutely Cuckoo | last aired 2026-10-03 17:32 | normal pick now | request now
 OK   The Magnetic Fields — All My Little Words | last aired 2026-10-18 13:10 | normal pick now | request now

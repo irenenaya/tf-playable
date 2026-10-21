@@ -1,9 +1,9 @@
-Track status, artists filed under BU (built Wed Oct 21, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, artists filed under BU (built Wed Oct 21, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Buckcherry — Crazy Bitch | last aired 2026-09-15 19:59 | normal pick now | request now
 OK   Buddy Guy — Damn Right, I've Got the Blues | last aired 2026-10-17 20:51 | normal pick now | request now
-OK   Buena Vista Social Club — Chan Chan | last aired 2026-10-15 04:37 | normal pick now | request now
+WAIT Buena Vista Social Club — Chan Chan | last aired 2026-10-21 15:27 | normal pick from 2026-10-23 15:27 | request from 2026-10-23 15:27
 WAIT Bulgarian State Television Female Choir — Nazdrave ti, Chorbadjiio (Cheers to You, Master of the House) | last aired 2026-10-21 04:54 | normal pick from 2026-10-22 16:54 | request from 2026-10-22 00:54
 OK   Burial — Archangel | last aired 2026-10-19 06:21 | normal pick now | request now
 WAIT Burial — Etched Headplate | last aired 2026-10-20 04:54 | normal pick from 2026-10-21 16:54 | request now

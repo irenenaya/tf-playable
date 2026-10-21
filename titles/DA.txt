@@ -1,11 +1,11 @@
-Track status, song titles filed under DA (built Wed Oct 21, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, song titles filed under DA (built Wed Oct 21, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   D.A.N.C.E. — Justice | last aired 2026-10-17 07:26 | normal pick now | request now
 WAIT D.A.V.E. — Ben Allison | last aired 2026-10-20 11:10 | normal pick from 2026-10-21 23:10 | request now
 OK   Damascus (feat. Omar Souleyman and Yasiin Bey) — Gorillaz | last aired 2026-10-14 20:55 | normal pick now | request now
 OK   Damn Right, I've Got the Blues — Buddy Guy | last aired 2026-10-17 20:51 | normal pick now | request now
-WAIT Dance Me to the End of Love — Leonard Cohen | last aired 2026-10-20 20:01 | normal pick from 2026-10-22 08:01 | request from 2026-10-21 16:01
+WAIT Dance Me to the End of Love — Leonard Cohen | last aired 2026-10-20 20:01 | normal pick from 2026-10-22 08:01 | request now
 OK   Dance The Pain Away — Haute & Freddy | last aired 2026-10-14 14:01 | normal pick now | request now
 OK   Dancing in the Street (2002 Remaster) — David Bowie | last aired 2026-10-14 01:58 | normal pick now | request now
 OK   Dancing Queen — ABBA | last aired 2026-10-18 16:20 | normal pick now | request now
@@ -17,5 +17,5 @@ OK   Das Model — Kraftwerk | last aired 2026-10-17 14:43 | normal pick now | r
 WAIT Day Dreaming (Album Version) — Aretha Franklin | last aired 2026-10-20 08:09 | normal pick from 2026-10-21 20:09 | request now
 OK   Daydream In Blue — I Monster | last aired 2026-10-17 20:31 | normal pick now | request now
 OK   daydreams — Hard Life | last aired 2026-10-15 05:44 | normal pick now | request now
-WAIT Dayvan Cowboy — Boards of Canada | last aired 2026-10-19 15:40 | normal pick from 2026-10-21 15:40 | request from 2026-10-21 15:40
+OK   Dayvan Cowboy — Boards of Canada | last aired 2026-10-19 15:40 | normal pick now | request now
 OK   The Dance — Dafuniks | last aired 2026-10-18 15:30 | normal pick now | request now
