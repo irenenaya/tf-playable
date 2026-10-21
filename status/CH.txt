@@ -1,4 +1,4 @@
-Track status, artists filed under CH (built Wed Oct 21, 6:05 AM PDT (13:05 UTC)). Times in UTC.
+Track status, artists filed under CH (built Wed Oct 21, 7:05 AM PDT (14:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Chaka Khan — What Cha' Gonna Do for Me | last aired 2026-10-19 11:11 | normal pick now | request now
@@ -12,7 +12,7 @@ OK   Charles Mingus — Medley: Mode D - Trio And Group Dancers / Mode E - Singl
 WAIT Charles Mingus — Track A - Solo Dancer (Stop! Look! And Listen, Sinner Jim Whitney!) (Album Version) | last aired 2026-10-20 11:16 | normal pick from 2026-10-21 23:16 | request now
 OK   Charles Wright & The Watts 103rd Street Rhythm Band — Express Yourself (Album Version) | last aired 2026-10-14 18:15 | normal pick now | request now
 OK   Charli XCX — 360 | last aired 2026-10-12 20:50 | normal pick now | request now
-OK   Charly García — Demoliendo Hoteles (Live) | last aired 2026-10-15 18:48 | normal pick now | request now
+WAIT Charly García — Demoliendo Hoteles (Live) | last aired 2026-10-21 13:28 | normal pick from 2026-10-23 01:28 | request from 2026-10-22 09:28
 OK   Chavela Vargas — La llorona | last aired 2026-10-20 00:47 | normal pick now | request now
 WAIT Chet Atkins — Why Worry (Album Version) | last aired 2026-10-20 06:22 | normal pick from 2026-10-21 18:22 | request now
 WAIT Chet Baker — Almost Blue | last aired 2026-10-21 09:34 | normal pick from 2026-10-22 21:34 | request from 2026-10-22 05:34
