@@ -1,4 +1,4 @@
-Track status, artists filed under SU (built Wed Oct 21, 7:05 AM PDT (14:05 UTC)). Times in UTC.
+Track status, artists filed under SU (built Wed Oct 21, 8:05 AM PDT (15:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Suburban Kids With Biblical Names — Rent A Wreck | last aired 2026-10-17 12:33 | normal pick now | request now
@@ -7,7 +7,7 @@ WAIT Sufjan Stevens — Casimir Pulaski Day | last aired 2026-10-21 10:06 | norm
 OK   Sufjan Stevens — Fourth of July | last aired 2026-10-17 21:31 | normal pick now | request now
 OK   Sufjan Stevens — Mystery of Love | last aired 2026-10-18 21:08 | normal pick now | request now
 WAIT Sufjan Stevens — Should Have Known Better | last aired 2026-10-21 08:33 | normal pick from 2026-10-22 20:33 | request from 2026-10-22 04:33
-WAIT Sui Generis — Rasguña Las Piedras (Album Version) | last aired 2026-10-20 18:59 | normal pick from 2026-10-22 06:59 | request from 2026-10-21 14:59
+WAIT Sui Generis — Rasguña Las Piedras (Album Version) | last aired 2026-10-20 18:59 | normal pick from 2026-10-22 06:59 | request now
 OK   Sukhwinder Singh — Chaiyya Chaiyya | last aired 2026-10-19 12:04 | normal pick now | request now
 WAIT Sum 41 — In Too Deep (Album Version) | last aired 2026-10-21 12:49 | normal pick from 2026-10-23 00:49 | request from 2026-10-22 08:49
 OK   Summon The Wolf — Ghost Story | last aired 2026-10-16 18:11 | normal pick now | request now
@@ -20,7 +20,7 @@ OK   Supercell — The World Is Mine (feat. Hatsune Miku) | last aired 2026-10-1
 OK   Supernova — Chewbaca | last aired 2026-10-06 14:30 | normal pick now | request now
 OK   Supertramp — Even In The Quietest Moments | last aired 2026-10-19 03:00 | normal pick now | request now
 OK   Survivor — Eye of the Tiger | last aired 2026-10-17 19:24 | normal pick now | request now
-WAIT Susumu Yokota — Saku | last aired 2026-10-20 02:21 | normal pick from 2026-10-21 14:21 | request now
+OK   Susumu Yokota — Saku | last aired 2026-10-20 02:21 | normal pick now | request now
 OK   Suzanne Ciani — Improvisation On Four Sequences Pt.1 | last aired 2026-10-16 02:39 | normal pick now | request now
 OK   Suzanne Ciani — Oceanium | last aired 2026-10-18 03:09 | normal pick now | request now
 OK   The Sundays — Folk Song | last aired 2026-10-19 07:06 | normal pick now | request now
