@@ -1,4 +1,4 @@
-Track status, song titles filed under PA (built Tue Oct 20, 10:05 PM PDT (05:05 UTC Wed)). Times in UTC.
+Track status, song titles filed under PA (built Wed Oct 21, 12:05 AM PDT (07:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Pac-Man (feat. ScHoolboy Q) — Gorillaz | last aired 2026-10-18 01:05 | normal pick now | request now
@@ -10,7 +10,7 @@ OK   Panic Attack (Album Version) — Dream Theater | last aired 2026-10-15 15:0
 OK   Papa Was a Rodeo — The Magnetic Fields | last aired 2026-10-17 01:13 | normal pick now | request now
 WAIT Papa Was A Rollin' Stone (Full Version) — The Temptations | last aired 2026-10-20 01:05 | normal pick from 2026-10-21 13:05 | request now
 OK   Paradise City — Guns N' Roses | last aired 2026-10-17 05:18 | normal pick now | request now
-WAIT Paranoid Android — Radiohead | last aired 2026-10-20 09:20 | normal pick from 2026-10-21 21:20 | request from 2026-10-21 05:20
+WAIT Paranoid Android — Radiohead | last aired 2026-10-20 09:20 | normal pick from 2026-10-21 21:20 | request now
 OK   Paranoid — Black Sabbath | last aired 2026-10-17 04:32 | normal pick now | request now
 OK   Parisienne Walkways — Gary Moore | last aired 2026-10-18 08:42 | normal pick now | request now
 OK   Paroles paroles (Album Version) — Dalida | last aired 2026-10-17 07:40 | normal pick now | request now
@@ -22,5 +22,5 @@ OK   Passion, Grace & Fire (Album Version) — Al Di Meola | last aired 2026-10-
 WAIT Pata Pata — Miriam Makeba | last aired 2026-10-19 12:10 | normal pick from 2026-10-21 12:10 | request from 2026-10-21 12:10
 OK   Patient — Playroom | last aired 2026-10-14 21:15 | normal pick now | request now
 OK   Pattern Recognition (feat. ODDEEO) — Neuro-sama | last aired 2026-09-25 15:01 | normal pick now | request now
-WAIT Pärt: Für Alina — Alexander Malter | last aired 2026-10-19 06:51 | normal pick from 2026-10-21 06:51 | request from 2026-10-21 06:51
+WAIT Pärt: Für Alina — Alexander Malter | last aired 2026-10-21 06:56 | normal pick from 2026-10-23 06:56 | request from 2026-10-23 06:56
 WAIT The Path of the Wind (from 'My Neighbor Totoro') — Joe Hisaishi | last aired 2026-10-20 19:23 | normal pick from 2026-10-22 07:23 | request from 2026-10-21 15:23

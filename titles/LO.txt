@@ -1,7 +1,7 @@
-Track status, song titles filed under LO (built Tue Oct 20, 10:05 PM PDT (05:05 UTC Wed)). Times in UTC.
+Track status, song titles filed under LO (built Wed Oct 21, 12:05 AM PDT (07:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT L-O-V-E — Nat King Cole | last aired 2026-10-19 18:45 | normal pick from 2026-10-21 06:45 | request now
+OK   L-O-V-E — Nat King Cole | last aired 2026-10-19 18:45 | normal pick now | request now
 OK   Lo Vas A Olvidar — Billie Eilish | last aired 2026-10-16 03:23 | normal pick now | request now
 OK   Locos — Leon Larregui | last aired 2026-10-16 04:55 | normal pick now | request now
 OK   Logic — Euology | last aired 2026-10-09 09:21 | normal pick now | request now
@@ -30,10 +30,10 @@ OK   Lovesong  (2010 Remaster) — The Cure | last aired 2026-10-19 13:12 | norm
 OK   Lovin' Every Minute of It — Loverboy | last aired 2026-10-15 23:40 | normal pick now | request now
 WAIT Lovin' You — Minnie Riperton | last aired 2026-10-20 03:00 | normal pick from 2026-10-21 15:00 | request now
 OK   Loving Machine — TV Girl | last aired 2026-10-16 13:16 | normal pick now | request now
-OK   Low Frequency Thunderstorm Shield — Cognitron | last aired 2026-10-17 06:04 | normal pick now | request now
+WAIT Low Frequency Thunderstorm Shield — Cognitron | last aired 2026-10-21 06:17 | normal pick from 2026-10-22 18:17 | request from 2026-10-22 02:17
 OK   Lowdown (2023 Remaster) — Boz Scaggs | last aired 2026-10-18 15:51 | normal pick now | request now
 OK   The Lonesome Death of Hattie Carroll — Bob Dylan | last aired 2026-10-18 21:12 | normal pick now | request now
 OK   The Long Road — Mark Knopfler | last aired 2026-10-19 00:53 | normal pick now | request now
 OK   The Look — Roxette | last aired 2026-10-08 13:36 | normal pick now | request now
-WAIT The Lord Will Make a Way — Al Green | last aired 2026-10-19 18:16 | normal pick from 2026-10-21 06:16 | request now
+OK   The Lord Will Make a Way — Al Green | last aired 2026-10-19 18:16 | normal pick now | request now
 OK   The Love Song — Marilyn Manson | last aired 2026-09-14 11:35 | normal pick now | request now

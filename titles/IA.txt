@@ -1,5 +1,5 @@
-Track status, song titles filed under IA (built Tue Oct 20, 10:05 PM PDT (05:05 UTC Wed)). Times in UTC.
+Track status, song titles filed under IA (built Wed Oct 21, 12:05 AM PDT (07:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   I Am Not an End — Montaigne | last aired 2026-10-06 02:33 | normal pick now | request now
-OK   I Am Sitting in a Room — Alvin Lucier | last aired 2026-09-22 09:20 | normal pick now | request now
+WAIT I Am Sitting in a Room — Alvin Lucier | last aired 2026-10-21 05:59 | normal pick from 2026-10-22 17:59 | request from 2026-10-22 01:59

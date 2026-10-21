@@ -1,10 +1,10 @@
-Track status, artists filed under BE (built Tue Oct 20, 10:05 PM PDT (05:05 UTC Wed)). Times in UTC.
+Track status, artists filed under BE (built Wed Oct 21, 12:05 AM PDT (07:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Beach House — Bluebird | last aired 2026-10-11 03:23 | normal pick now | request now
 OK   Beach House — Space Song | last aired 2026-10-19 05:15 | normal pick now | request now
 WAIT Beastie Boys — Sabotage | last aired 2026-10-19 22:10 | normal pick from 2026-10-21 22:10 | request from 2026-10-21 22:10
-WAIT Beatrice Rana — Keyboard Concerto No. 1 in D Minor, BWV 1052: I. Allegro | last aired 2026-10-21 04:55 | normal pick from 2026-10-22 16:55 | request from 2026-10-22 00:55
+WAIT Beatrice Rana — Keyboard Concerto No. 1 in D Minor, BWV 1052: I. Allegro | last aired 2026-10-21 04:56 | normal pick from 2026-10-22 16:56 | request from 2026-10-22 00:56
 OK   Beatrice Rana — Libertango (Arr. Yamamoto for Piano 4-Hands) | last aired 2026-10-16 11:54 | normal pick now | request now
 OK   Beats by Luca — 52 CHICKEN NUGGET (McRave) | last aired 2026-10-18 11:09 | normal pick now | request now
 OK   Bebel Gilberto — Samba Da Benção | last aired 2026-10-19 01:49 | normal pick now | request now
@@ -31,7 +31,7 @@ OK   Bernard Purdie — Cool Down | last aired 2026-10-18 13:34 | normal pick no
 OK   Bert Kaempfert — A Swingin' Safari | last aired 2026-10-17 23:48 | normal pick now | request now
 WAIT Betty Carter — Moonlight in Vermont | last aired 2026-10-20 11:00 | normal pick from 2026-10-22 11:00 | request from 2026-10-22 11:00
 OK   BETWEEN FRIENDS — affection | last aired 2026-10-16 01:26 | normal pick now | request now
-WAIT Beyoncé — Crazy In Love | last aired 2026-10-21 03:42 | normal pick from 2026-10-22 15:42 | request from 2026-10-21 23:42
+WAIT Beyoncé — Crazy In Love | last aired 2026-10-21 03:43 | normal pick from 2026-10-22 15:43 | request from 2026-10-21 23:43
 OK   Beyoncé — TEXAS HOLD 'EM | last aired 2026-10-18 09:25 | normal pick now | request now
 WAIT Béla Fleck — My Home's Across The Blue Ridge Mountains | last aired 2026-10-21 01:51 | normal pick from 2026-10-22 13:51 | request from 2026-10-21 21:51
 OK   The Beach Boys — God Only Knows (Stereo) | last aired 2026-10-19 03:48 | normal pick now | request now
