@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Thu Oct 22, 5:05 AM PDT (12:05 UTC)). Times in UTC.
+Track status, artists filed under BE (built Thu Oct 22, 6:05 AM PDT (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Beach House — Bluebird | last aired 2026-10-11 03:23 | normal pick now | request now
@@ -37,7 +37,7 @@ WAIT Béla Fleck — My Home's Across The Blue Ridge Mountains | last aired 2026
 WAIT The Beach Boys — God Only Knows (Stereo) | last aired 2026-10-22 04:24 | normal pick from 2026-10-23 16:24 | request from 2026-10-23 00:24
 OK   The Beach Boys — Good Vibrations (Stereo/Remastered 2012) | last aired 2026-10-16 20:41 | normal pick now | request now
 OK   The Beatles — A Day In The Life (2017 Mix) | last aired 2026-10-09 17:05 | normal pick now | request now
-WAIT The Beatles — Get Back (2021 Mix) | last aired 2026-10-21 00:41 | normal pick from 2026-10-22 12:41 | request now
+OK   The Beatles — Get Back (2021 Mix) | last aired 2026-10-21 00:41 | normal pick now | request now
 OK   The Beatles — Girl (Remastered) | last aired 2026-10-17 01:43 | normal pick now | request now
 OK   The Beatles — Golden Slumbers (Remastered) | last aired 2026-10-09 11:31 | normal pick now | request now
 OK   The Beatles — Here Comes The Sun (2019 Mix) | last aired 2026-10-14 00:19 | normal pick now | request now

@@ -1,8 +1,8 @@
-Track status, song titles filed under FL (built Thu Oct 22, 5:05 AM PDT (12:05 UTC)). Times in UTC.
+Track status, song titles filed under FL (built Thu Oct 22, 6:05 AM PDT (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Flaca — Andrés Calamaro | last aired 2026-10-17 10:52 | normal pick now | request now
-OK   Flamenco Sketches — Miles Davis | last aired 2026-10-18 19:52 | normal pick now | request now
+WAIT Flamenco Sketches — Miles Davis | last aired 2026-10-22 12:30 | normal pick from 2026-10-24 00:30 | request from 2026-10-23 08:30
 OK   Flash (Remastered 2011) — Queen | last aired 2026-10-17 19:39 | normal pick now | request now
 OK   Flashdance...What a Feeling (Radio Edit) — Irene Cara | last aired 2026-10-17 19:28 | normal pick now | request now
 WAIT Flight From The City - Jóhannsson: Flight from the City — Johann Johannsson | last aired 2026-10-22 01:21 | normal pick from 2026-10-24 01:21 | request from 2026-10-24 01:21

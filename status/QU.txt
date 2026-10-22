@@ -1,9 +1,9 @@
-Track status, artists filed under QU (built Thu Oct 22, 5:05 AM PDT (12:05 UTC)). Times in UTC.
+Track status, artists filed under QU (built Thu Oct 22, 6:05 AM PDT (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Quad City DJ's — Space Jam | last aired 2026-10-20 22:44 | normal pick now | request now
 OK   Queen — Another One Bites The Dust | last aired 2026-10-18 09:18 | normal pick now | request now
-WAIT Queen — Bohemian Rhapsody (Remastered 2011) | last aired 2026-10-21 00:22 | normal pick from 2026-10-22 12:22 | request now
+OK   Queen — Bohemian Rhapsody (Remastered 2011) | last aired 2026-10-21 00:22 | normal pick now | request now
 WAIT Queen — Don't Stop Me Now (Remastered 2011) | last aired 2026-10-21 04:01 | normal pick from 2026-10-22 16:01 | request now
 OK   Queen — Flash (Remastered 2011) | last aired 2026-10-17 19:39 | normal pick now | request now
 OK   Queen — Killer Queen (Remastered 2011) | last aired 2026-10-10 21:37 | normal pick now | request now

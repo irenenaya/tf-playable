@@ -1,9 +1,9 @@
-Track status, artists filed under JO (built Thu Oct 22, 5:05 AM PDT (12:05 UTC)). Times in UTC.
+Track status, artists filed under JO (built Thu Oct 22, 6:05 AM PDT (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-10-20 12:05 | normal pick now | request now
 OK   Jockstrap — Concrete Over Water | last aired 2026-10-15 18:09 | normal pick now | request now
-WAIT Joe Cocker — With A Little Help From My Friends | last aired 2026-10-21 01:00 | normal pick from 2026-10-22 13:00 | request now
+OK   Joe Cocker — With A Little Help From My Friends | last aired 2026-10-21 01:00 | normal pick now | request now
 WAIT Joe Hisaishi — A Town with an Ocean View (from 'Kiki's Delivery Service') | last aired 2026-10-22 05:12 | normal pick from 2026-10-23 17:12 | request from 2026-10-23 01:12
 OK   Joe Hisaishi — a Wish to the Moon | last aired 2026-10-16 23:32 | normal pick now | request now
 OK   Joe Hisaishi — Asian Dream Song | last aired 2026-10-15 07:24 | normal pick now | request now
@@ -39,7 +39,7 @@ WAIT Johnny Cash — Hurt (Album Version) | last aired 2026-10-22 05:57 | normal
 OK   Johnny Cash — Redemption Day (Album Version) | last aired 2026-10-18 12:09 | normal pick now | request now
 OK   Johnny Cash — Ring of Fire | last aired 2026-10-19 16:19 | normal pick now | request now
 OK   Johnny Mathis — Wonderful! Wonderful! | last aired 2026-10-14 01:09 | normal pick now | request now
-WAIT Joker Out — Novi Val | last aired 2026-10-21 00:11 | normal pick from 2026-10-22 12:11 | request now
+OK   Joker Out — Novi Val | last aired 2026-10-21 00:11 | normal pick now | request now
 WAIT Jon Hopkins — Open Eye Signal (Remaster 2023) | last aired 2026-10-21 21:47 | normal pick from 2026-10-23 09:47 | request from 2026-10-22 17:47
 WAIT Jon Hopkins — Small Memory | last aired 2026-10-21 08:22 | normal pick from 2026-10-22 20:22 | request now
 OK   Jonathan Parecki — Senbonzakura (Hatsune Miku) | last aired 2026-09-02 17:36 | normal pick now | request now
