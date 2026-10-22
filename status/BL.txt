@@ -1,4 +1,4 @@
-Track status, artists filed under BL (built Thu Oct 22, 1:05 AM PDT (08:05 UTC)). Times in UTC.
+Track status, artists filed under BL (built Thu Oct 22, 2:05 AM PDT (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Black Sabbath — Paranoid | last aired 2026-10-17 04:32 | normal pick now | request now
@@ -11,6 +11,6 @@ OK   Bloodhound Gang — Mope (Album Version) | last aired 2026-10-20 13:28 | no
 OK   Blossom Dearie — It Amazes Me | last aired 2026-10-20 11:03 | normal pick now | request now
 OK   Blue Murder — Still Of The Night (Live In Tokyo, Japan / 1993) | last aired 2026-09-22 16:01 | normal pick now | request now
 OK   Blue Öyster Cult — (Don't Fear) The Reaper | last aired 2026-10-20 16:30 | normal pick now | request now
-WAIT Blur — Song 2 | last aired 2026-10-21 12:44 | normal pick from 2026-10-23 00:44 | request from 2026-10-22 08:44
+WAIT Blur — Song 2 | last aired 2026-10-21 12:44 | normal pick from 2026-10-23 00:44 | request now
 OK   Blur — The Universal | last aired 2026-10-20 18:55 | normal pick now | request now
 OK   The Blind Boys Of Alabama — Amazing Grace | last aired 2026-10-17 16:39 | normal pick now | request now

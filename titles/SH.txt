@@ -1,4 +1,4 @@
-Track status, song titles filed under SH (built Thu Oct 22, 1:05 AM PDT (08:05 UTC)). Times in UTC.
+Track status, song titles filed under SH (built Thu Oct 22, 2:05 AM PDT (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Shampoo — Greg Shilling | last aired 2026-10-19 22:57 | normal pick now | request now
@@ -6,7 +6,7 @@ OK   Shape Of My Heart (My Songs Version) — Sting | last aired 2026-10-17 15:2
 OK   Shape — Sophie Hunger | last aired 2026-10-15 11:32 | normal pick now | request now
 OK   Sharkey's Day (Album Version) — Laurie Anderson | last aired 2026-10-18 07:26 | normal pick now | request now
 OK   She's a Pass — Paul Leonard-Morgan | last aired 2026-10-18 02:28 | normal pick now | request now
-OK   Shellela — Getatchèw Mèkurya | last aired 2026-10-14 05:52 | normal pick now | request now
+WAIT Shellela — Getatchèw Mèkurya | last aired 2026-10-22 08:49 | normal pick from 2026-10-24 08:49 | request from 2026-10-24 08:49
 WAIT Shine A Light — Banners | last aired 2026-10-20 14:16 | normal pick from 2026-10-22 14:16 | request from 2026-10-22 14:16
 WAIT Shining Star — Earth, Wind & Fire | last aired 2026-10-21 01:10 | normal pick from 2026-10-23 01:10 | request from 2026-10-23 01:10
 WAIT Should Have Known Better — Sufjan Stevens | last aired 2026-10-21 08:33 | normal pick from 2026-10-22 20:33 | request now
