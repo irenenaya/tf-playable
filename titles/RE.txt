@@ -1,16 +1,16 @@
-Track status, song titles filed under RE (built Thu Oct 22, 11:05 AM PDT (18:05 UTC)). Times in UTC.
+Track status, song titles filed under RE (built Thu Oct 22, 12:05 PM PDT (19:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Reason or Rhyme — Bryan Ferry | last aired 2026-10-16 04:19 | normal pick now | request now
 WAIT Rebel Girl — Bikini Kill | last aired 2026-10-21 15:00 | normal pick from 2026-10-23 03:00 | request now
 OK   Rebel Rebel — David Bowie | last aired 2026-10-20 13:33 | normal pick now | request now
 OK   Red Moon — Al Di Meola | last aired 2026-10-15 03:10 | normal pick now | request now
-WAIT Redemption Day (Album Version) — Johnny Cash | last aired 2026-10-22 14:08 | normal pick from 2026-10-24 02:08 | request from 2026-10-23 10:08
+WAIT Redemption Day (Album Version) — Johnny Cash | last aired 2026-10-22 14:09 | normal pick from 2026-10-24 02:09 | request from 2026-10-23 10:09
 OK   Regret - À Kader Barry — Ballaké Sissoko | last aired 2026-10-20 17:20 | normal pick now | request now
 OK   Rehab — Amy Winehouse | last aired 2026-10-16 19:32 | normal pick now | request now
 OK   Reminiscing (2002 Digital Remaster) — Little River Band | last aired 2026-10-15 17:43 | normal pick now | request now
 OK   Rent A Wreck — Suburban Kids With Biblical Names | last aired 2026-10-17 12:33 | normal pick now | request now
-WAIT Requiem for Dying Mothers, Pt. 1 — Stars of the Lid | last aired 2026-10-21 06:33 | normal pick from 2026-10-22 18:33 | request now
+OK   Requiem for Dying Mothers, Pt. 1 — Stars of the Lid | last aired 2026-10-21 06:33 | normal pick now | request now
 WAIT Requiem for Dying Mothers, Pt. 2 — Stars of the Lid | last aired 2026-10-21 10:45 | normal pick from 2026-10-23 10:45 | request from 2026-10-23 10:45
 OK   Resist The Force — Predatory Meerkats | last aired 2026-10-18 02:56 | normal pick now | request now
 WAIT Retrograde — James Blake | last aired 2026-10-21 09:00 | normal pick from 2026-10-23 09:00 | request from 2026-10-23 09:00
@@ -18,4 +18,4 @@ OK   Revenge of Instinct — Gesu No Kiwami Otome | last aired 2026-10-16 03:03 
 OK   Revolution 9 (Remastered 2009) — The Beatles | last aired 2026-09-14 19:37 | normal pick now | request now
 OK   Reward — THE TEARDROP EXPLODES | last aired 2026-10-19 07:27 | normal pick now | request now
 OK   Rewind — Wonder Girls | last aired 2026-10-15 08:58 | normal pick now | request now
-WAIT Réu Confesso — Tim Maia | last aired 2026-10-22 16:37 | normal pick from 2026-10-24 16:37 | request from 2026-10-24 16:37
+WAIT Réu Confesso — Tim Maia | last aired 2026-10-22 16:38 | normal pick from 2026-10-24 16:38 | request from 2026-10-24 16:38

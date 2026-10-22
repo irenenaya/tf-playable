@@ -1,4 +1,4 @@
-Track status, song titles filed under WH (built Thu Oct 22, 11:05 AM PDT (18:05 UTC)). Times in UTC.
+Track status, song titles filed under WH (built Thu Oct 22, 12:05 PM PDT (19:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Whistleblowers — Laibach | last aired 2026-10-11 20:40 | normal pick now | request now
@@ -9,9 +9,9 @@ OK   What Cha' Gonna Do for Me — Chaka Khan | last aired 2026-10-19 11:11 | no
 WAIT What I'm Becoming — Cage The Elephant | last aired 2026-10-21 12:32 | normal pick from 2026-10-23 00:32 | request now
 OK   What Is Love (7" Mix) (Remastered 2025) (7" Mix / Remastered 2025) — Haddaway | last aired 2026-10-12 04:18 | normal pick now | request now
 OK   What Is Love (Lynx & Pico Remix) — Haddaway | last aired 2026-10-21 01:17 | normal pick now | request now
-WAIT What Was I Made For? [From The Motion Picture "Barbie"] — Billie Eilish | last aired 2026-10-22 15:51 | normal pick from 2026-10-24 03:51 | request from 2026-10-23 11:51
+WAIT What Was I Made For? [From The Motion Picture "Barbie"] — Billie Eilish | last aired 2026-10-22 15:52 | normal pick from 2026-10-24 03:52 | request from 2026-10-23 11:52
 OK   What You Won't Do for Love — Bobby Caldwell | last aired 2026-10-18 07:43 | normal pick now | request now
-WAIT What's Going On — Marvin Gaye | last aired 2026-10-22 14:51 | normal pick from 2026-10-24 02:51 | request from 2026-10-23 10:51
+WAIT What's Going On — Marvin Gaye | last aired 2026-10-22 14:51 | normal pick from 2026-10-24 14:51 | request from 2026-10-24 14:51
 OK   When Did Love Become A Test — Tom Konkle | last aired 2026-10-16 13:58 | normal pick now | request now
 OK   When I Met You — Apo Hiking Society | last aired 2026-10-16 04:30 | normal pick now | request now
 OK   When I'm Gone — Albert Hammond | last aired 2026-10-15 15:52 | normal pick now | request now
@@ -23,7 +23,7 @@ OK   Whenever Wherever Whatever (Remastered 2021) (Album Version) — Maxwell | 
 OK   Where The Streets Have No Name (Remastered 2007) — U2 | last aired 2026-10-18 17:12 | normal pick now | request now
 WAIT Where Were You (Live) — Jeff Beck | last aired 2026-10-21 19:46 | normal pick from 2026-10-23 07:46 | request now
 OK   Wherefore and Why (LP Version) — Gordon Lightfoot | last aired 2026-10-20 14:33 | normal pick now | request now
-WAIT Which Side are You On? — Pete Seeger | last aired 2026-10-22 15:39 | normal pick from 2026-10-24 03:39 | request from 2026-10-23 11:39
+WAIT Which Side are You On? — Pete Seeger | last aired 2026-10-22 15:40 | normal pick from 2026-10-24 15:40 | request from 2026-10-24 15:40
 OK   Whirling-In-Rags, 8 AM — Sea Power | last aired 2026-10-06 05:11 | normal pick now | request now
 OK   White Christmas — Bing Crosby | last aired 2026-09-05 21:37 | normal pick now | request now
 WAIT White Gloves — Khruangbin | last aired 2026-10-20 21:05 | normal pick from 2026-10-22 21:05 | request from 2026-10-22 21:05
@@ -32,5 +32,5 @@ OK   Who Is It — Michael Jackson | last aired 2026-10-06 12:08 | normal pick n
 OK   Who Knew (Main Version) — P!nk | last aired 2026-09-12 18:53 | normal pick now | request now
 OK   Who's That What's That — Niko B | last aired 2026-10-06 23:39 | normal pick now | request now
 OK   Wholy Holy — Aretha Franklin | last aired 2026-10-19 02:18 | normal pick now | request now
-WAIT Wholy Holy — Marvin Gaye | last aired 2026-10-22 17:01 | normal pick from 2026-10-24 05:01 | request from 2026-10-23 13:01
+WAIT Wholy Holy — Marvin Gaye | last aired 2026-10-22 17:02 | normal pick from 2026-10-24 05:02 | request from 2026-10-23 13:02
 OK   Why Worry (Album Version) — Chet Atkins | last aired 2026-10-20 06:22 | normal pick now | request now

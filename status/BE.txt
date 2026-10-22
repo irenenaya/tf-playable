@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Thu Oct 22, 11:05 AM PDT (18:05 UTC)). Times in UTC.
+Track status, artists filed under BE (built Thu Oct 22, 12:05 PM PDT (19:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Beach House — Bluebird | last aired 2026-10-11 03:23 | normal pick now | request now
@@ -10,7 +10,7 @@ OK   Beats by Luca — 52 CHICKEN NUGGET (McRave) | last aired 2026-10-18 11:09 
 WAIT Bebel Gilberto — Samba Da Benção | last aired 2026-10-21 15:55 | normal pick from 2026-10-23 15:55 | request from 2026-10-23 15:55
 OK   Beck — Devils Haircut | last aired 2026-10-18 09:11 | normal pick now | request now
 WAIT Beck — Loser | last aired 2026-10-22 03:20 | normal pick from 2026-10-24 03:20 | request from 2026-10-24 03:20
-WAIT Beck — The New Pollution | last aired 2026-10-21 22:24 | normal pick from 2026-10-23 10:24 | request from 2026-10-22 18:24
+WAIT Beck — The New Pollution | last aired 2026-10-21 22:24 | normal pick from 2026-10-23 10:24 | request now
 WAIT Becky Levi and the Nightjars — Wake Me Up | last aired 2026-10-22 06:23 | normal pick from 2026-10-23 18:23 | request from 2026-10-23 02:23
 OK   Bee Gees — Night Fever (From "Saturday Night Fever" Soundtrack) | last aired 2026-10-06 16:28 | normal pick now | request now
 OK   Beenie Man — Feel It Boy | last aired 2026-10-16 01:08 | normal pick now | request now
@@ -18,7 +18,7 @@ OK   Belcea Quartet — Quatuor à cordes n° 4, Sz. 91 - String Quartet No. 4 i
 OK   Belle and Sebastian — The Boy with the Arab Strap | last aired 2026-10-20 09:48 | normal pick now | request now
 OK   Ben Allison — D.A.V.E. | last aired 2026-10-20 11:10 | normal pick now | request now
 OK   Ben E. King — Stand By Me | last aired 2026-10-19 18:48 | normal pick now | request now
-OK   Ben Harper — Yard Sale | last aired 2026-10-18 21:37 | normal pick now | request now
+WAIT Ben Harper — Yard Sale | last aired 2026-10-22 18:08 | normal pick from 2026-10-24 18:08 | request from 2026-10-24 18:08
 OK   Ben&Ben — Leaves | last aired 2026-10-16 04:44 | normal pick now | request now
 OK   Ben&Ben — Maybe The Night | last aired 2026-10-08 16:41 | normal pick now | request now
 WAIT Benjamin Francis Leftwich — Ticket To Ride | last aired 2026-10-21 15:07 | normal pick from 2026-10-23 03:07 | request now
@@ -38,7 +38,7 @@ WAIT The Beach Boys — God Only Knows (Stereo) | last aired 2026-10-22 04:24 | 
 OK   The Beach Boys — Good Vibrations (Stereo/Remastered 2012) | last aired 2026-10-16 20:41 | normal pick now | request now
 OK   The Beatles — A Day In The Life (2017 Mix) | last aired 2026-10-09 17:05 | normal pick now | request now
 OK   The Beatles — Get Back (2021 Mix) | last aired 2026-10-21 00:41 | normal pick now | request now
-WAIT The Beatles — Girl (Remastered) | last aired 2026-10-22 15:01 | normal pick from 2026-10-24 03:01 | request from 2026-10-23 11:01
+WAIT The Beatles — Girl (Remastered) | last aired 2026-10-22 15:02 | normal pick from 2026-10-24 03:02 | request from 2026-10-23 11:02
 OK   The Beatles — Golden Slumbers (Remastered) | last aired 2026-10-09 11:31 | normal pick now | request now
 OK   The Beatles — Here Comes The Sun (2019 Mix) | last aired 2026-10-14 00:19 | normal pick now | request now
 OK   The Beatles — Lucy In The Sky With Diamonds (Remastered 2009) | last aired 2026-10-09 17:10 | normal pick now | request now
