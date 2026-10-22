@@ -1,4 +1,4 @@
-Track status, song titles filed under SA (built Thu Oct 22, 1:05 PM PDT (20:05 UTC)). Times in UTC.
+Track status, song titles filed under SA (built Thu Oct 22, 2:05 PM PDT (21:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Sabotage — Beastie Boys | last aired 2026-10-19 22:10 | normal pick now | request now
@@ -9,7 +9,7 @@ OK   Sailing — Christopher Cross | last aired 2026-10-20 15:54 | normal pick n
 OK   Sailor Song — Gigi Perez | last aired 2026-10-15 05:18 | normal pick now | request now
 OK   Saku — Susumu Yokota | last aired 2026-10-20 02:21 | normal pick now | request now
 OK   Salomila  (Live) — Ledward Kaapana | last aired 2026-10-15 22:14 | normal pick now | request now
-OK   Saltwater — Geowulf | last aired 2026-10-16 11:20 | normal pick now | request now
+WAIT Saltwater — Geowulf | last aired 2026-10-22 20:44 | normal pick from 2026-10-24 08:44 | request from 2026-10-23 16:44
 WAIT Salvatore — Lana Del Rey | last aired 2026-10-21 21:37 | normal pick from 2026-10-23 09:37 | request now
 WAIT saman — Ólafur Arnalds | last aired 2026-10-21 06:45 | normal pick from 2026-10-23 06:45 | request from 2026-10-23 06:45
 WAIT Samba Da Benção — Bebel Gilberto | last aired 2026-10-21 15:55 | normal pick from 2026-10-23 15:55 | request from 2026-10-23 15:55
@@ -25,5 +25,5 @@ OK   Saturn — Sleeping At Last | last aired 2026-10-20 06:38 | normal pick now
 OK   Saudade — Love and Rockets | last aired 2026-10-14 10:46 | normal pick now | request now
 OK   Save The Children — Marvin Gaye | last aired 2026-10-16 10:06 | normal pick now | request now
 WAIT Saving All My Love for You — Whitney Houston | last aired 2026-10-22 14:55 | normal pick from 2026-10-24 02:55 | request from 2026-10-23 10:55
-WAIT Say My Name (feat. Zyra) — ODESZA | last aired 2026-10-22 00:45 | normal pick from 2026-10-23 12:45 | request from 2026-10-22 20:45
+WAIT Say My Name (feat. Zyra) — ODESZA | last aired 2026-10-22 00:45 | normal pick from 2026-10-23 12:45 | request now
 WAIT Says — Nils Frahm | last aired 2026-10-21 11:22 | normal pick from 2026-10-23 11:22 | request from 2026-10-23 11:22

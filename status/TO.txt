@@ -1,4 +1,4 @@
-Track status, artists filed under TO (built Thu Oct 22, 1:05 PM PDT (20:05 UTC)). Times in UTC.
+Track status, artists filed under TO (built Thu Oct 22, 2:05 PM PDT (21:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   toe — Goodbye (Live) | last aired 2026-10-16 23:23 | normal pick now | request now
@@ -16,7 +16,7 @@ OK   Tom Konkle — One Last Time | last aired 2026-09-17 07:17 | normal pick no
 OK   Tom Konkle — When Did Love Become A Test | last aired 2026-10-16 13:58 | normal pick now | request now
 OK   Tom Lehrer — Poisoning Pigeons in the Park | last aired 2026-09-29 16:02 | normal pick now | request now
 WAIT Tom Misch — Disco Yes | last aired 2026-10-21 20:35 | normal pick from 2026-10-23 20:35 | request from 2026-10-23 20:35
-OK   Tom Misch — It Runs Through Me (feat. De La Soul) | last aired 2026-10-18 04:16 | normal pick now | request now
+WAIT Tom Misch — It Runs Through Me (feat. De La Soul) | last aired 2026-10-22 20:27 | normal pick from 2026-10-24 08:27 | request from 2026-10-23 16:27
 OK   Tom Novy — Superstar  (The Jason Nevins' Live Peep Show Mix) | last aired 2026-10-21 03:32 | normal pick now | request now
 WAIT Tom Petty & The Heartbreakers — American Girl | last aired 2026-10-21 22:17 | normal pick from 2026-10-23 10:17 | request now
 OK   Tom Petty — I Won't Back Down | last aired 2026-10-19 00:06 | normal pick now | request now

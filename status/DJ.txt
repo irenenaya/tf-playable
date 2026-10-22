@@ -1,11 +1,11 @@
-Track status, artists filed under DJ (built Thu Oct 22, 1:05 PM PDT (20:05 UTC)). Times in UTC.
+Track status, artists filed under DJ (built Thu Oct 22, 2:05 PM PDT (21:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   DJ Benjii — Aykedashem Lebe | last aired 2026-10-16 00:04 | normal pick now | request now
 OK   DJ Cam Quartet — Boss Guitar | last aired 2026-10-17 17:34 | normal pick now | request now
 OK   DJ Cam Quartet — Everybody Loves the Sunshine | last aired 2026-10-20 11:26 | normal pick now | request now
-WAIT Djivan Gasparyan — Fallen Star | last aired 2026-10-20 20:58 | normal pick from 2026-10-22 20:58 | request from 2026-10-22 20:58
-WAIT Djivan Gasparyan — Take My Heart | last aired 2026-10-20 20:32 | normal pick from 2026-10-22 20:32 | request from 2026-10-22 20:32
+OK   Djivan Gasparyan — Fallen Star | last aired 2026-10-20 20:58 | normal pick now | request now
+OK   Djivan Gasparyan — Take My Heart | last aired 2026-10-20 20:32 | normal pick now | request now
 OK   Djivan Gasparyan — They Took My Love Away | last aired 2026-10-09 03:21 | normal pick now | request now
 OK   Djivan Gasparyan — Together Forever | last aired 2026-10-20 06:50 | normal pick now | request now
 OK   Djo — End of Beginning | last aired 2026-10-20 14:31 | normal pick now | request now
