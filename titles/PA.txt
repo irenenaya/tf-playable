@@ -1,9 +1,9 @@
-Track status, song titles filed under PA (built Thu Oct 22, 3:05 PM PDT (22:05 UTC)). Times in UTC.
+Track status, song titles filed under PA (built Thu Oct 22, 4:05 PM PDT (23:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Pac-Man (feat. ScHoolboy Q) — Gorillaz | last aired 2026-10-22 00:14 | normal pick from 2026-10-23 12:14 | request now
 OK   Pacific Summits (Pulse Version) — Heathered Pearls | last aired 2026-10-16 07:06 | normal pick now | request now
-OK   Pagan Poetry — Björk | last aired 2026-10-19 20:31 | normal pick now | request now
+WAIT Pagan Poetry — Björk | last aired 2026-10-22 22:18 | normal pick from 2026-10-24 10:18 | request from 2026-10-23 18:18
 WAIT Paid In Full — Eric B. & Rakim | last aired 2026-10-22 20:16 | normal pick from 2026-10-24 08:16 | request from 2026-10-23 16:16
 WAIT Paint It, Black — The Rolling Stones | last aired 2026-10-22 15:42 | normal pick from 2026-10-24 03:42 | request from 2026-10-23 11:42
 OK   Panic Attack (Album Version) — Dream Theater | last aired 2026-10-15 15:09 | normal pick now | request now
@@ -11,7 +11,7 @@ OK   Papa Was a Rodeo — The Magnetic Fields | last aired 2026-10-17 01:13 | no
 WAIT Papa Was A Rollin' Stone (Full Version) — The Temptations | last aired 2026-10-22 17:36 | normal pick from 2026-10-24 05:36 | request from 2026-10-23 13:36
 OK   Paradise City — Guns N' Roses | last aired 2026-10-17 05:18 | normal pick now | request now
 OK   Paranoid Android — Radiohead | last aired 2026-10-20 09:20 | normal pick now | request now
-OK   Paranoid — Black Sabbath | last aired 2026-10-17 04:32 | normal pick now | request now
+WAIT Paranoid — Black Sabbath | last aired 2026-10-22 22:36 | normal pick from 2026-10-24 10:36 | request from 2026-10-23 18:36
 OK   Parisienne Walkways — Gary Moore | last aired 2026-10-18 08:42 | normal pick now | request now
 OK   Paroles paroles (Album Version) — Dalida | last aired 2026-10-17 07:40 | normal pick now | request now
 OK   Party Hard (Album Version) — Andrew W.K. | last aired 2026-10-15 20:32 | normal pick now | request now

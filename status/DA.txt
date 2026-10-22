@@ -1,9 +1,9 @@
-Track status, artists filed under DA (built Thu Oct 22, 3:05 PM PDT (22:05 UTC)). Times in UTC.
+Track status, artists filed under DA (built Thu Oct 22, 4:05 PM PDT (23:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   D'Angelo — Untitled (How Does It Feel) | last aired 2026-10-19 11:21 | normal pick now | request now
 WAIT Daft Punk — Around the World | last aired 2026-10-21 17:19 | normal pick from 2026-10-23 05:19 | request now
-WAIT Daft Punk — Face to Face | last aired 2026-10-22 20:53 | normal pick from 2026-10-24 08:53 | request from 2026-10-23 16:53
+WAIT Daft Punk — Face to Face | last aired 2026-10-22 20:54 | normal pick from 2026-10-24 08:54 | request from 2026-10-23 16:54
 OK   Daft Punk feat. Julian Casablancas — Instant Crush (feat. Julian Casablancas) | last aired 2026-10-20 01:58 | normal pick now | request now
 WAIT Daft Punk — Harder, Better, Faster, Stronger | last aired 2026-10-22 00:31 | normal pick from 2026-10-23 12:31 | request now
 OK   Daft Punk — One More Time | last aired 2026-10-19 10:22 | normal pick now | request now
@@ -31,11 +31,11 @@ OK   David Bowie — Rebel Rebel | last aired 2026-10-20 13:33 | normal pick now
 OK   David Bowie — Slip Away | last aired 2026-10-17 01:45 | normal pick now | request now
 WAIT David Bowie — Slow Burn | last aired 2026-10-22 12:15 | normal pick from 2026-10-24 00:15 | request from 2026-10-23 08:15
 OK   David Bowie — Space Oddity | last aired 2026-09-28 12:18 | normal pick now | request now
-WAIT David Bowie — Starman  (2012 Remaster) | last aired 2026-10-22 21:35 | normal pick from 2026-10-24 09:35 | request from 2026-10-23 17:35
+WAIT David Bowie — Starman  (2012 Remaster) | last aired 2026-10-22 21:36 | normal pick from 2026-10-24 09:36 | request from 2026-10-23 17:36
 WAIT David Bowie — Subterraneans  (2017 Remaster) | last aired 2026-10-22 07:35 | normal pick from 2026-10-24 07:35 | request from 2026-10-24 07:35
-WAIT David Bowie — Warszawa  (2017 Remaster) | last aired 2026-10-22 02:08 | normal pick from 2026-10-23 14:08 | request from 2026-10-22 22:08
+WAIT David Bowie — Warszawa  (2017 Remaster) | last aired 2026-10-22 02:08 | normal pick from 2026-10-23 14:08 | request now
 OK   David Bowie — Wild Is the Wind  (2016 Remaster) | last aired 2026-10-18 00:08 | normal pick now | request now
 WAIT David Byrne — Everybody's Coming to My House (Live) | last aired 2026-10-21 19:56 | normal pick from 2026-10-23 07:56 | request now
 OK   David Soul — Silver Lady | last aired 2026-10-13 15:58 | normal pick now | request now
 OK   David Sylvian — Darkest Dreaming | last aired 2026-10-14 10:34 | normal pick now | request now
-WAIT The Dave Brubeck Quartet — Take Five | last aired 2026-10-22 18:47 | normal pick from 2026-10-24 06:47 | request from 2026-10-23 14:47
+WAIT The Dave Brubeck Quartet — Take Five | last aired 2026-10-22 18:48 | normal pick from 2026-10-24 06:48 | request from 2026-10-23 14:48

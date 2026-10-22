@@ -1,7 +1,7 @@
-Track status, song titles filed under TH (built Thu Oct 22, 3:05 PM PDT (22:05 UTC)). Times in UTC.
+Track status, song titles filed under TH (built Thu Oct 22, 4:05 PM PDT (23:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT (They Long To Be) Close To You — The Carpenters | last aired 2026-10-22 18:53 | normal pick from 2026-10-24 06:53 | request from 2026-10-23 14:53
+WAIT (They Long To Be) Close To You — The Carpenters | last aired 2026-10-22 18:54 | normal pick from 2026-10-24 06:54 | request from 2026-10-23 14:54
 OK   Thank you — Alabama 3 | last aired 2026-10-12 20:46 | normal pick now | request now
 OK   thanks, my day is ruined — Alex Andre | last aired 2026-10-18 03:00 | normal pick now | request now
 OK   That Acid — Marie Vaunt | last aired 2026-10-13 11:14 | normal pick now | request now
@@ -20,7 +20,7 @@ OK   This Is It — Kenny Loggins | last aired 2026-10-20 15:07 | normal pick no
 OK   This Is The Life — Amy Macdonald | last aired 2026-10-18 21:41 | normal pick now | request now
 OK   This Is Your Life (Originally Performed by Banderas) — Cover Vocals BPM 122 Acapellas | last aired 2026-09-21 02:20 | normal pick now | request now
 OK   This Means War — Petra | last aired 2026-10-16 02:05 | normal pick now | request now
-OK   This Must Be the Place (Naive Melody)  (2005 Remastered LP Version) — Talking Heads | last aired 2026-10-15 22:09 | normal pick now | request now
+WAIT This Must Be the Place (Naive Melody)  (2005 Remastered LP Version) — Talking Heads | last aired 2026-10-22 22:44 | normal pick from 2026-10-24 10:44 | request from 2026-10-23 18:44
 OK   This Woman's Work (Uncut) — Maxwell | last aired 2026-10-20 07:58 | normal pick now | request now
 OK   Threnody — Goldmund | last aired 2026-10-19 06:06 | normal pick now | request now
 OK   Thriller — Michael Jackson | last aired 2026-10-19 15:45 | normal pick now | request now
