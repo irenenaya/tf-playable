@@ -1,11 +1,11 @@
-Track status, song titles filed under TH (built Thu Oct 22, 6:05 AM PDT (13:05 UTC)). Times in UTC.
+Track status, song titles filed under TH (built Thu Oct 22, 7:05 AM PDT (14:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   (They Long To Be) Close To You — The Carpenters | last aired 2026-10-16 21:32 | normal pick now | request now
 OK   Thank you — Alabama 3 | last aired 2026-10-12 20:46 | normal pick now | request now
 OK   thanks, my day is ruined — Alex Andre | last aired 2026-10-18 03:00 | normal pick now | request now
 OK   That Acid — Marie Vaunt | last aired 2026-10-13 11:14 | normal pick now | request now
-WAIT That's All for Everyone — Fleetwood Mac | last aired 2026-10-22 09:43 | normal pick from 2026-10-23 21:43 | request from 2026-10-23 05:43
+WAIT That's All for Everyone — Fleetwood Mac | last aired 2026-10-22 09:44 | normal pick from 2026-10-23 21:44 | request from 2026-10-23 05:44
 OK   The Thieves of Imai — Filippo Beck Peccoz | last aired 2026-10-18 01:47 | normal pick now | request now
 OK   The Thrill Is Gone — B.B. King | last aired 2026-10-17 12:44 | normal pick now | request now
 OK   Theme from "A Summer Place" — Percy Faith & His Orchestra | last aired 2026-10-11 11:09 | normal pick now | request now
@@ -24,7 +24,7 @@ OK   This Must Be the Place (Naive Melody)  (2005 Remastered LP Version) — Tal
 OK   This Woman's Work (Uncut) — Maxwell | last aired 2026-10-20 07:58 | normal pick now | request now
 OK   Threnody — Goldmund | last aired 2026-10-19 06:06 | normal pick now | request now
 OK   Thriller — Michael Jackson | last aired 2026-10-19 15:45 | normal pick now | request now
-WAIT Through The Fire And Flames — Dragonforce | last aired 2026-10-22 11:48 | normal pick from 2026-10-23 23:48 | request from 2026-10-23 07:48
+WAIT Through The Fire And Flames — Dragonforce | last aired 2026-10-22 11:49 | normal pick from 2026-10-23 23:49 | request from 2026-10-23 07:49
 OK   Thrown Away — VAST | last aired 2026-10-06 14:38 | normal pick now | request now
 OK   Thunder Road — Bruce Springsteen | last aired 2026-10-18 00:26 | normal pick now | request now
 OK   Thunderstruck — 2CELLOS | last aired 2026-10-20 12:59 | normal pick now | request now

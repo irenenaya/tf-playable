@@ -1,4 +1,4 @@
-Track status, song titles filed under CO (built Thu Oct 22, 6:05 AM PDT (13:05 UTC)). Times in UTC.
+Track status, song titles filed under CO (built Thu Oct 22, 7:05 AM PDT (14:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Coat of Many Colors — Dolly Parton | last aired 2026-10-16 21:09 | normal pick now | request now
@@ -7,7 +7,7 @@ OK   Colorful Array — Neuro-sama | last aired 2026-10-18 01:42 | normal pick n
 OK   Come On Get Higher — Matt Nathanson | last aired 2026-10-19 22:37 | normal pick now | request now
 OK   Come Tomorrow (Duet With Barry Gibb (Album Version)) — Various Interprets | last aired 2026-10-13 08:52 | normal pick now | request now
 OK   Comfortably Numb — Pink Floyd | last aired 2026-10-18 09:32 | normal pick now | request now
-WAIT Coming Back to Life — Pink Floyd | last aired 2026-10-21 02:02 | normal pick from 2026-10-22 14:02 | request now
+OK   Coming Back to Life — Pink Floyd | last aired 2026-10-21 02:02 | normal pick now | request now
 OK   Coming Down from Love — Bobby Caldwell | last aired 2026-10-20 08:44 | normal pick now | request now
 OK   Coming Home — Leon Bridges | last aired 2026-10-18 23:44 | normal pick now | request now
 OK   Common People (Full Length Version; Album Version) — Pulp | last aired 2026-10-19 13:20 | normal pick now | request now
@@ -18,7 +18,7 @@ OK   Computer Incantations for World Peace — Jean-Luc Ponty | last aired 2026-
 WAIT Computer Love  (2009 Remaster) — Kraftwerk | last aired 2026-10-21 23:43 | normal pick from 2026-10-23 11:43 | request from 2026-10-22 19:43
 OK   Computerlove — Erik Wøllo | last aired 2026-10-16 15:02 | normal pick now | request now
 OK   Concrete Over Water — Jockstrap | last aired 2026-10-15 18:09 | normal pick now | request now
-OK   Construção — Chico Buarque | last aired 2026-10-19 12:58 | normal pick now | request now
+WAIT Construção — Chico Buarque | last aired 2026-10-22 13:29 | normal pick from 2026-10-24 13:29 | request from 2026-10-24 13:29
 OK   Cool Change — Little River Band | last aired 2026-10-18 09:45 | normal pick now | request now
 OK   Cool Down — Bernard Purdie | last aired 2026-10-18 13:34 | normal pick now | request now
 OK   Corcovado (Quiet Nights Of Quiet Stars) — Stan Getz | last aired 2026-10-19 20:18 | normal pick now | request now
