@@ -1,4 +1,4 @@
-Track status, song titles filed under TE (built Thu Oct 22, 9:05 AM PDT (16:05 UTC)). Times in UTC.
+Track status, song titles filed under TE (built Thu Oct 22, 10:05 AM PDT (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Te Quiero Pero Por Otro Lado. — Savath &  Savalas | last aired 2026-10-15 09:27 | normal pick now | request now
@@ -14,4 +14,4 @@ OK   Teo Torriatte (Let Us Cling Together) — Louis Clark | last aired 2026-10-
 WAIT Terrapin — Bonobo | last aired 2026-10-22 02:43 | normal pick from 2026-10-23 14:43 | request from 2026-10-22 22:43
 OK   TEXAS HOLD 'EM — Beyoncé | last aired 2026-10-18 09:25 | normal pick now | request now
 WAIT Tezeta — Hailu Mergia | last aired 2026-10-21 05:29 | normal pick from 2026-10-23 05:29 | request from 2026-10-23 05:29
-WAIT The Tendraam — Fat Bard | last aired 2026-10-21 04:41 | normal pick from 2026-10-22 16:41 | request now
+OK   The Tendraam — Fat Bard | last aired 2026-10-21 04:41 | normal pick now | request now
