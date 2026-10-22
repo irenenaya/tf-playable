@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Thu Oct 22, 10:05 AM PDT (17:05 UTC)). Times in UTC.
+Track status, artists filed under JO (built Thu Oct 22, 11:05 AM PDT (18:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-10-20 12:05 | normal pick now | request now
@@ -12,7 +12,7 @@ WAIT Joe Hisaishi — Departures (from 'Departures') | last aired 2026-10-21 14:
 WAIT Joe Hisaishi — Innocent (from 'Castle in the Sky') | last aired 2026-10-22 16:17 | normal pick from 2026-10-24 04:17 | request from 2026-10-23 12:17
 WAIT Joe Hisaishi — Merry-Go-Round of Life (from 'Howl’s Moving Castle') | last aired 2026-10-22 15:25 | normal pick from 2026-10-24 03:25 | request from 2026-10-23 11:25
 OK   Joe Hisaishi — One Summer's Day (from 'Spirited Away') | last aired 2026-10-10 06:04 | normal pick now | request now
-WAIT Joe Hisaishi — Ponyo's Sisters Lend a Hand - A Song for Mothers and the Sea (from 'Ponyo on the Cliff by the Sea') | last aired 2026-10-21 05:08 | normal pick from 2026-10-22 17:08 | request now
+OK   Joe Hisaishi — Ponyo's Sisters Lend a Hand - A Song for Mothers and the Sea (from 'Ponyo on the Cliff by the Sea') | last aired 2026-10-21 05:08 | normal pick now | request now
 OK   Joe Hisaishi — Summer (from 'Kikujiro') | last aired 2026-10-11 06:03 | normal pick now | request now
 OK   Joe Hisaishi — Symphonic Suite “Princess Mononoke”2021 : V. Mononoke Hime (Live) | last aired 2026-10-18 18:52 | normal pick now | request now
 OK   Joe Hisaishi — The Path of the Wind (from 'My Neighbor Totoro') | last aired 2026-10-20 19:23 | normal pick now | request now
@@ -40,7 +40,7 @@ WAIT Johnny Cash — Redemption Day (Album Version) | last aired 2026-10-22 14:0
 OK   Johnny Cash — Ring of Fire | last aired 2026-10-19 16:19 | normal pick now | request now
 OK   Johnny Mathis — Wonderful! Wonderful! | last aired 2026-10-14 01:09 | normal pick now | request now
 OK   Joker Out — Novi Val | last aired 2026-10-21 00:11 | normal pick now | request now
-WAIT Jon Hopkins — Open Eye Signal (Remaster 2023) | last aired 2026-10-21 21:47 | normal pick from 2026-10-23 09:47 | request from 2026-10-22 17:47
+WAIT Jon Hopkins — Open Eye Signal (Remaster 2023) | last aired 2026-10-21 21:47 | normal pick from 2026-10-23 09:47 | request now
 WAIT Jon Hopkins — Small Memory | last aired 2026-10-21 08:22 | normal pick from 2026-10-22 20:22 | request now
 OK   Jonathan Parecki — Senbonzakura (Hatsune Miku) | last aired 2026-09-02 17:36 | normal pick now | request now
 WAIT Joni Mitchell — A Case of You | last aired 2026-10-21 10:02 | normal pick from 2026-10-23 10:02 | request from 2026-10-23 10:02

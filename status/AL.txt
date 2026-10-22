@@ -1,4 +1,4 @@
-Track status, artists filed under AL (built Thu Oct 22, 10:05 AM PDT (17:05 UTC)). Times in UTC.
+Track status, artists filed under AL (built Thu Oct 22, 11:05 AM PDT (18:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Al Di Meola — Double Concerto | last aired 2026-10-13 18:27 | normal pick now | request now
@@ -8,7 +8,7 @@ OK   Al Di Meola — Red Moon | last aired 2026-10-15 03:10 | normal pick now | 
 OK   Al Green — Let's Stay Together | last aired 2026-10-18 22:17 | normal pick now | request now
 WAIT Al Green — Love and Happiness | last aired 2026-10-21 20:25 | normal pick from 2026-10-23 08:25 | request now
 WAIT Al Green — Simply Beautiful | last aired 2026-10-22 06:52 | normal pick from 2026-10-24 06:52 | request from 2026-10-24 06:52
-OK   Al Green — The Lord Will Make a Way | last aired 2026-10-19 18:16 | normal pick now | request now
+WAIT Al Green — The Lord Will Make a Way | last aired 2026-10-22 17:11 | normal pick from 2026-10-24 05:11 | request from 2026-10-23 13:11
 OK   Al Stewart — Year of the Cat | last aired 2026-10-18 11:38 | normal pick now | request now
 OK   Alabama 3 — Sad Eyed Lady Of The Low Life | last aired 2026-10-09 09:35 | normal pick now | request now
 OK   Alabama 3 — Thank you | last aired 2026-10-12 20:46 | normal pick now | request now
@@ -29,7 +29,7 @@ OK   Alice In Chains — Man in the Box | last aired 2026-10-18 12:27 | normal p
 OK   Alicia Keys — Fallin' (Album Version) | last aired 2026-10-18 23:00 | normal pick now | request now
 WAIT Alison Krauss — Down To The River To Pray (Live) | last aired 2026-10-21 15:53 | normal pick from 2026-10-23 03:53 | request now
 OK   Almendra — Plegaria para un Niño Dormido | last aired 2026-10-17 11:03 | normal pick now | request now
-WAIT Alvin Lucier — I Am Sitting in a Room | last aired 2026-10-21 05:59 | normal pick from 2026-10-22 17:59 | request now
+OK   Alvin Lucier — I Am Sitting in a Room | last aired 2026-10-21 05:59 | normal pick now | request now
 WAIT Alvvays — Belinda Says | last aired 2026-10-21 09:11 | normal pick from 2026-10-23 09:11 | request from 2026-10-23 09:11
 WAIT Alèmayèhu Eshèté — Tashamanaletch | last aired 2026-10-22 08:46 | normal pick from 2026-10-23 20:46 | request from 2026-10-23 04:46
 OK   The Altons — When You Go (That's When You'll Know) | last aired 2026-10-14 16:51 | normal pick now | request now

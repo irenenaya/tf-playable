@@ -1,11 +1,11 @@
-Track status, artists filed under CU (built Thu Oct 22, 10:05 AM PDT (17:05 UTC)). Times in UTC.
+Track status, artists filed under CU (built Thu Oct 22, 11:05 AM PDT (18:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Cuco — One and Only | last aired 2026-10-18 14:26 | normal pick now | request now
 OK   Cult With No Name — You Know Me Better Than I Know Myself | last aired 2026-10-16 07:35 | normal pick now | request now
 WAIT Cults — Gilded Lily | last aired 2026-10-22 05:30 | normal pick from 2026-10-24 05:30 | request from 2026-10-24 05:30
 OK   Cunninlynguists — My Habit (I Haven't Changed) | last aired 2026-10-21 01:24 | normal pick now | request now
-OK   Curtis Mayfield — The Makings of You (2019 Remaster) (Remastered) | last aired 2026-10-18 22:07 | normal pick now | request now
+WAIT Curtis Mayfield — The Makings of You (2019 Remaster) (Remastered) | last aired 2026-10-22 17:32 | normal pick from 2026-10-24 17:32 | request from 2026-10-24 17:32
 OK   Curve — Fait Accompli | last aired 2026-10-14 10:00 | normal pick now | request now
 OK   The Cure — A Forest | last aired 2026-10-20 21:26 | normal pick now | request now
 OK   The Cure — Burn (Live) | last aired 2026-10-13 13:09 | normal pick now | request now
