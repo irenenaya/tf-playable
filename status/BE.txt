@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Thu Oct 22, 4:05 AM PDT (11:05 UTC)). Times in UTC.
+Track status, artists filed under BE (built Thu Oct 22, 5:05 AM PDT (12:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Beach House — Bluebird | last aired 2026-10-11 03:23 | normal pick now | request now
@@ -21,7 +21,7 @@ OK   Ben E. King — Stand By Me | last aired 2026-10-19 18:48 | normal pick now
 OK   Ben Harper — Yard Sale | last aired 2026-10-18 21:37 | normal pick now | request now
 OK   Ben&Ben — Leaves | last aired 2026-10-16 04:44 | normal pick now | request now
 OK   Ben&Ben — Maybe The Night | last aired 2026-10-08 16:41 | normal pick now | request now
-WAIT Benjamin Francis Leftwich — Ticket To Ride | last aired 2026-10-21 15:07 | normal pick from 2026-10-23 03:07 | request from 2026-10-22 11:07
+WAIT Benjamin Francis Leftwich — Ticket To Ride | last aired 2026-10-21 15:07 | normal pick from 2026-10-23 03:07 | request now
 WAIT Benny Goodman — Sing Sing Sing (With A Swing) (live) | last aired 2026-10-21 19:09 | normal pick from 2026-10-23 07:09 | request from 2026-10-22 15:09
 OK   Benny Sings — Rolled Up | last aired 2026-10-14 16:06 | normal pick now | request now
 OK   Benny Sings — Sailing | last aired 2026-10-20 13:58 | normal pick now | request now

@@ -1,4 +1,4 @@
-Track status, song titles filed under DO (built Thu Oct 22, 4:05 AM PDT (11:05 UTC)). Times in UTC.
+Track status, song titles filed under DO (built Thu Oct 22, 5:05 AM PDT (12:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   (Don't Fear) The Reaper — Blue Öyster Cult | last aired 2026-10-20 16:30 | normal pick now | request now
@@ -8,7 +8,7 @@ OK   Do Not Disturb — Halestorm | last aired 2026-10-19 08:11 | normal pick no
 OK   Doctor Who Opening Titles (“In Colour” Mix, Daleks Version) — Delia Derbyshire | last aired 2026-10-15 16:19 | normal pick now | request now
 OK   Dollar Days — David Bowie | last aired 2026-09-30 17:09 | normal pick now | request now
 OK   Dolls — 9MUSES | last aired 2026-10-15 13:55 | normal pick now | request now
-OK   Don't Change — INXS | last aired 2026-10-18 14:51 | normal pick now | request now
+WAIT Don't Change — INXS | last aired 2026-10-22 11:56 | normal pick from 2026-10-24 11:56 | request from 2026-10-24 11:56
 WAIT Don't Delete The Kisses — Wolf Alice | last aired 2026-10-21 13:34 | normal pick from 2026-10-23 01:34 | request now
 WAIT Don't Dream It's Over — Crowded House | last aired 2026-10-21 21:24 | normal pick from 2026-10-23 09:24 | request from 2026-10-22 17:24
 OK   Don't Give Up  (2012 Remaster) — Peter Gabriel | last aired 2026-10-20 08:26 | normal pick now | request now
@@ -24,7 +24,7 @@ WAIT Don't You Want Me — Human League | last aired 2026-10-21 17:27 | normal p
 OK   Double Concerto — Al Di Meola | last aired 2026-10-13 18:27 | normal pick now | request now
 WAIT Doused — DIIV | last aired 2026-10-22 09:18 | normal pick from 2026-10-23 21:18 | request from 2026-10-23 05:18
 OK   Down in the Valley — The Head And The Heart | last aired 2026-10-18 15:41 | normal pick now | request now
-WAIT Down To The River To Pray (Live) — Alison Krauss | last aired 2026-10-21 15:53 | normal pick from 2026-10-23 03:53 | request from 2026-10-22 11:53
+WAIT Down To The River To Pray (Live) — Alison Krauss | last aired 2026-10-21 15:53 | normal pick from 2026-10-23 03:53 | request now
 OK   Down Under — Men At Work | last aired 2026-10-04 11:08 | normal pick now | request now
 OK   Downstream (Remastered, 2024) — Shira Kammen | last aired 2026-10-20 14:02 | normal pick now | request now
 OK   The Door — Teddy Swims | last aired 2026-10-17 06:00 | normal pick now | request now

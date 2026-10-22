@@ -1,4 +1,4 @@
-Track status, song titles filed under TH (built Thu Oct 22, 4:05 AM PDT (11:05 UTC)). Times in UTC.
+Track status, song titles filed under TH (built Thu Oct 22, 5:05 AM PDT (12:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   (They Long To Be) Close To You — The Carpenters | last aired 2026-10-16 21:32 | normal pick now | request now
@@ -24,7 +24,7 @@ OK   This Must Be the Place (Naive Melody)  (2005 Remastered LP Version) — Tal
 OK   This Woman's Work (Uncut) — Maxwell | last aired 2026-10-20 07:58 | normal pick now | request now
 OK   Threnody — Goldmund | last aired 2026-10-19 06:06 | normal pick now | request now
 OK   Thriller — Michael Jackson | last aired 2026-10-19 15:45 | normal pick now | request now
-OK   Through The Fire And Flames — Dragonforce | last aired 2026-10-13 03:11 | normal pick now | request now
+WAIT Through The Fire And Flames — Dragonforce | last aired 2026-10-22 11:48 | normal pick from 2026-10-23 23:48 | request from 2026-10-23 07:48
 OK   Thrown Away — VAST | last aired 2026-10-06 14:38 | normal pick now | request now
 OK   Thunder Road — Bruce Springsteen | last aired 2026-10-18 00:26 | normal pick now | request now
 OK   Thunderstruck — 2CELLOS | last aired 2026-10-20 12:59 | normal pick now | request now
