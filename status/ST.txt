@@ -1,4 +1,4 @@
-Track status, artists filed under ST (built Wed Oct 21, 4:05 PM PDT (23:05 UTC)). Times in UTC.
+Track status, artists filed under ST (built Wed Oct 21, 5:05 PM PDT (00:05 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   St Germain — Rose rouge | last aired 2026-10-18 08:26 | normal pick now | request now
@@ -16,7 +16,7 @@ WAIT Steely Dan — Kid Charlemagne | last aired 2026-10-20 16:11 | normal pick 
 OK   Steely Dan — Peg | last aired 2026-10-18 14:43 | normal pick now | request now
 OK   Steely Dan — Time Out Of Mind | last aired 2026-10-18 07:04 | normal pick now | request now
 OK   Steve Miller Band — The Joker | last aired 2026-10-16 01:46 | normal pick now | request now
-OK   Steve Roach — Living the Dream | last aired 2026-10-13 19:39 | normal pick now | request now
+WAIT Steve Roach — Living the Dream | last aired 2026-10-21 23:25 | normal pick from 2026-10-23 11:25 | request from 2026-10-22 19:25
 OK   Stevie Ray Vaughan & Double Trouble — Pride and Joy | last aired 2026-10-19 01:27 | normal pick now | request now
 OK   Stevie Ray Vaughan & Double Trouble — Riviera Paradise | last aired 2026-10-17 08:07 | normal pick now | request now
 OK   Stevie Wonder — As | last aired 2026-10-20 08:02 | normal pick now | request now

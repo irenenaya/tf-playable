@@ -1,4 +1,4 @@
-Track status, artists filed under HE (built Wed Oct 21, 4:05 PM PDT (23:05 UTC)). Times in UTC.
+Track status, artists filed under HE (built Wed Oct 21, 5:05 PM PDT (00:05 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Heathered Pearls — Pacific Summits (Pulse Version) | last aired 2026-10-16 07:06 | normal pick now | request now
@@ -6,7 +6,7 @@ OK   Hector Villalobos — Bachianas Brasileiras No. 5: I Aria (Cantilena) | las
 WAIT Heejin — Algorithm | last aired 2026-10-21 14:42 | normal pick from 2026-10-23 14:42 | request from 2026-10-23 14:42
 OK   Helado Negro — Brown Fluorescence | last aired 2026-10-15 18:34 | normal pick now | request now
 WAIT Helen Forrest — It's Been A Long, Long Time | last aired 2026-10-21 04:51 | normal pick from 2026-10-22 16:51 | request from 2026-10-22 00:51
-OK   Helios — First Dream Called Ocean | last aired 2026-10-19 06:02 | normal pick now | request now
+WAIT Helios — First Dream Called Ocean | last aired 2026-10-21 23:06 | normal pick from 2026-10-23 23:06 | request from 2026-10-23 23:06
 OK   Helloween — Eagle Fly Free (Remastered 2024) | last aired 2026-10-13 02:07 | normal pick now | request now
 OK   Hem — Betting on Trains (Remastered 2025) | last aired 2026-10-15 09:18 | normal pick now | request now
 OK   Hem — Half Acre (Remastered 2025) | last aired 2026-10-18 09:08 | normal pick now | request now
