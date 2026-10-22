@@ -1,10 +1,10 @@
-Track status, artists filed under NI (built Thu Oct 22, 12:05 AM PDT (07:05 UTC)). Times in UTC.
+Track status, artists filed under NI (built Thu Oct 22, 1:05 AM PDT (08:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Nick Cave & The Bad Seeds — (I'll Love You) Till The End Of The World | last aired 2026-10-20 07:15 | normal pick from 2026-10-22 07:15 | request from 2026-10-22 07:15
+OK   Nick Cave & The Bad Seeds — (I'll Love You) Till The End Of The World | last aired 2026-10-20 07:15 | normal pick now | request now
 OK   Nick Cave & The Bad Seeds — Henry Lee (Remastered 2011) | last aired 2026-10-18 23:23 | normal pick now | request now
 WAIT Nick Drake — Northern Sky | last aired 2026-10-21 05:09 | normal pick from 2026-10-23 05:09 | request from 2026-10-23 05:09
-OK   Nick Drake — Pink Moon | last aired 2026-10-20 06:07 | normal pick now | request now
+WAIT Nick Drake — Pink Moon | last aired 2026-10-22 07:27 | normal pick from 2026-10-24 07:27 | request from 2026-10-24 07:27
 WAIT Nickelback — How You Remind Me (- LP Mix) | last aired 2026-10-21 03:47 | normal pick from 2026-10-22 15:47 | request now
 OK   Nightmares On Wax — Les Nuits | last aired 2026-10-09 16:19 | normal pick now | request now
 WAIT Nightwish — Wishmaster | last aired 2026-10-21 13:02 | normal pick from 2026-10-23 01:02 | request from 2026-10-22 09:02
@@ -17,7 +17,7 @@ WAIT Nina Simone — Feeling Good | last aired 2026-10-20 23:38 | normal pick fr
 WAIT Nina Simone — Wild Is The Wind | last aired 2026-10-21 09:49 | normal pick from 2026-10-22 21:49 | request now
 OK   Nine Inch Nails — Heresy (Nine Inch Noize Version) | last aired 2026-10-13 16:02 | normal pick now | request now
 OK   Nine Inch Nails — Hurt | last aired 2026-10-14 21:55 | normal pick now | request now
-WAIT Nine Inch Nails — Less Than | last aired 2026-10-20 19:28 | normal pick from 2026-10-22 07:28 | request now
+OK   Nine Inch Nails — Less Than | last aired 2026-10-20 19:28 | normal pick now | request now
 OK   Nine Inch Nails — The Hand That Feeds | last aired 2026-10-03 01:28 | normal pick now | request now
 WAIT Nirvana — Heart-Shaped Box (Album Version) | last aired 2026-10-21 13:39 | normal pick from 2026-10-23 01:39 | request from 2026-10-22 09:39
 OK   Nirvana — Smells Like Teen Spirit | last aired 2026-10-19 23:35 | normal pick now | request now

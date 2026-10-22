@@ -1,4 +1,4 @@
-Track status, artists filed under LO (built Thu Oct 22, 12:05 AM PDT (07:05 UTC)). Times in UTC.
+Track status, artists filed under LO (built Thu Oct 22, 1:05 AM PDT (08:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Lofi Fruits Music — Plastic Love | last aired 2026-10-18 17:57 | normal pick now | request now
@@ -11,7 +11,7 @@ OK   Loreen — Euphoria | last aired 2026-10-20 15:59 | normal pick now | reque
 OK   Loreena McKennitt — The Holly and the Ivy  (Live) | last aired 2026-10-19 19:02 | normal pick now | request now
 WAIT Los Enanitos Verdes — Lamento Boliviano | last aired 2026-10-21 13:16 | normal pick from 2026-10-23 13:16 | request from 2026-10-23 13:16
 OK   Los Rodriguez — Milonga del marinero y el capitán | last aired 2026-10-14 15:29 | normal pick now | request now
-WAIT Loscil — Estuarine | last aired 2026-10-21 11:14 | normal pick from 2026-10-22 23:14 | request from 2026-10-22 07:14
+WAIT Loscil — Estuarine | last aired 2026-10-21 11:14 | normal pick from 2026-10-22 23:14 | request now
 OK   Lou Rawls — At Last | last aired 2026-10-17 16:14 | normal pick now | request now
 WAIT Lou Reed — Goodnight Ladies | last aired 2026-10-20 20:37 | normal pick from 2026-10-22 08:37 | request now
 WAIT Lou Reed — Perfect Day | last aired 2026-10-20 20:54 | normal pick from 2026-10-22 08:54 | request now

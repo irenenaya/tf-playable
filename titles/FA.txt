@@ -1,4 +1,4 @@
-Track status, song titles filed under FA (built Thu Oct 22, 12:05 AM PDT (07:05 UTC)). Times in UTC.
+Track status, song titles filed under FA (built Thu Oct 22, 1:05 AM PDT (08:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Face to Face — Daft Punk | last aired 2026-10-14 16:35 | normal pick now | request now
@@ -24,4 +24,4 @@ OK   Fast Car  (2015 Remaster) — Tracy Chapman | last aired 2026-10-15 23:35 |
 OK   Fast Car (LP Version) — Tracy Chapman | last aired 2026-10-18 19:08 | normal pick now | request now
 WAIT Faster — Matt Nathanson | last aired 2026-10-21 14:38 | normal pick from 2026-10-23 02:38 | request from 2026-10-22 10:38
 OK   Fatti avanti amore (feat. Jovanotti)  (5030 version) — Nek | last aired 2026-10-18 01:56 | normal pick now | request now
-WAIT The Fairy Feller's Master-Stroke (2026 Mix) — Queen | last aired 2026-10-20 19:17 | normal pick from 2026-10-22 07:17 | request now
+OK   The Fairy Feller's Master-Stroke (2026 Mix) — Queen | last aired 2026-10-20 19:17 | normal pick now | request now

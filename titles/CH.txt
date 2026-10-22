@@ -1,4 +1,4 @@
-Track status, song titles filed under CH (built Thu Oct 22, 12:05 AM PDT (07:05 UTC)). Times in UTC.
+Track status, song titles filed under CH (built Thu Oct 22, 1:05 AM PDT (08:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Cha Cha Cha — Käärijä | last aired 2026-10-15 13:35 | normal pick now | request now
@@ -20,6 +20,6 @@ OK   Cherry-coloured Funk — Cocteau Twins | last aired 2026-10-20 06:57 | norm
 OK   Chewbaca — Supernova | last aired 2026-10-06 14:30 | normal pick now | request now
 OK   Child in Time (Special Version) — Rock appetizers | last aired 2026-09-22 21:18 | normal pick now | request now
 OK   Children of No Horizon — Tom Konkle | last aired 2026-09-17 19:18 | normal pick now | request now
-WAIT Children Of The Revolution — T. Rex | last aired 2026-10-20 19:20 | normal pick from 2026-10-22 07:20 | request now
+OK   Children Of The Revolution — T. Rex | last aired 2026-10-20 19:20 | normal pick now | request now
 OK   Chinatown — Wild Nothing | last aired 2026-10-20 03:57 | normal pick now | request now
 OK   Chorus — Holly Herndon | last aired 2026-10-09 18:55 | normal pick now | request now

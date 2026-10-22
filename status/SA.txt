@@ -1,7 +1,7 @@
-Track status, artists filed under SA (built Thu Oct 22, 12:05 AM PDT (07:05 UTC)). Times in UTC.
+Track status, artists filed under SA (built Thu Oct 22, 1:05 AM PDT (08:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Sabaton — The Last Stand | last aired 2026-10-20 19:44 | normal pick from 2026-10-22 07:44 | request now
+OK   Sabaton — The Last Stand | last aired 2026-10-20 19:44 | normal pick now | request now
 OK   Sabrina Carpenter — Espresso | last aired 2026-10-18 05:19 | normal pick now | request now
 WAIT Sabrina Carpenter — Please Please Please | last aired 2026-10-20 22:41 | normal pick from 2026-10-22 10:41 | request now
 OK   Sabrina Carpenter — Taste | last aired 2026-10-19 09:48 | normal pick now | request now
@@ -17,7 +17,7 @@ OK   Saindra — Mil Besos | last aired 2026-10-15 23:03 | normal pick now | req
 OK   Saint Etienne — Only Love Can Break Your Heart | last aired 2026-10-19 23:21 | normal pick now | request now
 OK   Salvador Sobral — Amar pelos Dois | last aired 2026-10-15 21:31 | normal pick now | request now
 WAIT Sam Cooke — A Change Is Gonna Come | last aired 2026-10-22 04:51 | normal pick from 2026-10-23 16:51 | request from 2026-10-23 00:51
-WAIT Sampha — (No One Knows Me) Like the Piano | last aired 2026-10-20 07:11 | normal pick from 2026-10-22 07:11 | request from 2026-10-22 07:11
+OK   Sampha — (No One Knows Me) Like the Piano | last aired 2026-10-20 07:11 | normal pick now | request now
 OK   Santana — Black Magic Woman | last aired 2026-10-19 19:48 | normal pick now | request now
 WAIT Santana — Maria Maria | last aired 2026-10-21 18:44 | normal pick from 2026-10-23 18:44 | request from 2026-10-23 18:44
 WAIT Santana — Oye Como Va | last aired 2026-10-20 16:50 | normal pick from 2026-10-22 16:50 | request from 2026-10-22 16:50

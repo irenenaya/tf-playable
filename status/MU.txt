@@ -1,8 +1,8 @@
-Track status, artists filed under MU (built Thu Oct 22, 12:05 AM PDT (07:05 UTC)). Times in UTC.
+Track status, artists filed under MU (built Thu Oct 22, 1:05 AM PDT (08:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Muddy Waters — Mannish Boy | last aired 2026-10-19 07:29 | normal pick now | request now
-OK   Mulatu Astatke — Yègellé Tezeta | last aired 2026-10-19 12:20 | normal pick now | request now
+WAIT Mulatu Astatke — Yègellé Tezeta | last aired 2026-10-22 07:56 | normal pick from 2026-10-24 07:56 | request from 2026-10-24 07:56
 OK   Mulatu Astatqe — Yèkèrmo Sèw (A Man of Experience and Wisdom) | last aired 2026-10-19 01:31 | normal pick now | request now
 WAIT Mumford & Sons — Awake My Soul | last aired 2026-10-21 13:44 | normal pick from 2026-10-23 01:44 | request from 2026-10-22 09:44
 WAIT Murray Gold — A Good Man? (Twelve's Theme) | last aired 2026-10-21 00:14 | normal pick from 2026-10-22 12:14 | request now
