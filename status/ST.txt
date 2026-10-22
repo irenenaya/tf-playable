@@ -1,4 +1,4 @@
-Track status, artists filed under ST (built Wed Oct 21, 5:05 PM PDT (00:05 UTC Thu)). Times in UTC.
+Track status, artists filed under ST (built Wed Oct 21, 6:05 PM PDT (01:05 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   St Germain — Rose rouge | last aired 2026-10-18 08:26 | normal pick now | request now
@@ -16,7 +16,7 @@ WAIT Steely Dan — Kid Charlemagne | last aired 2026-10-20 16:11 | normal pick 
 OK   Steely Dan — Peg | last aired 2026-10-18 14:43 | normal pick now | request now
 OK   Steely Dan — Time Out Of Mind | last aired 2026-10-18 07:04 | normal pick now | request now
 OK   Steve Miller Band — The Joker | last aired 2026-10-16 01:46 | normal pick now | request now
-WAIT Steve Roach — Living the Dream | last aired 2026-10-21 23:25 | normal pick from 2026-10-23 11:25 | request from 2026-10-22 19:25
+WAIT Steve Roach — Living the Dream | last aired 2026-10-21 23:26 | normal pick from 2026-10-23 11:26 | request from 2026-10-22 19:26
 OK   Stevie Ray Vaughan & Double Trouble — Pride and Joy | last aired 2026-10-19 01:27 | normal pick now | request now
 OK   Stevie Ray Vaughan & Double Trouble — Riviera Paradise | last aired 2026-10-17 08:07 | normal pick now | request now
 OK   Stevie Wonder — As | last aired 2026-10-20 08:02 | normal pick now | request now
@@ -24,7 +24,7 @@ OK   Stevie Wonder — Go Home | last aired 2026-10-18 00:50 | normal pick now |
 OK   Stevie Wonder — Golden Lady | last aired 2026-10-16 13:01 | normal pick now | request now
 OK   Stevie Wonder — Happy Birthday | last aired 2026-09-29 18:47 | normal pick now | request now
 OK   Stevie Wonder — Higher Ground (Album Version) | last aired 2026-10-19 09:51 | normal pick now | request now
-WAIT Stevie Wonder — I Wish | last aired 2026-10-21 20:16 | normal pick from 2026-10-23 08:16 | request from 2026-10-22 16:16
+WAIT Stevie Wonder — I Wish | last aired 2026-10-21 20:17 | normal pick from 2026-10-23 08:17 | request from 2026-10-22 16:17
 WAIT Stevie Wonder — Isn't She Lovely | last aired 2026-10-21 14:00 | normal pick from 2026-10-23 02:00 | request from 2026-10-22 10:00
 OK   Stevie Wonder — Living For The City (Album Version) | last aired 2026-10-20 01:21 | normal pick now | request now
 OK   Stevie Wonder — Master Blaster (Jammin') | last aired 2026-10-19 19:32 | normal pick now | request now

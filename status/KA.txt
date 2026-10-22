@@ -1,4 +1,4 @@
-Track status, artists filed under KA (built Wed Oct 21, 5:05 PM PDT (00:05 UTC Thu)). Times in UTC.
+Track status, artists filed under KA (built Wed Oct 21, 6:05 PM PDT (01:05 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Kacey Musgraves — Deeper Well | last aired 2026-10-19 18:41 | normal pick now | request now
@@ -14,5 +14,5 @@ OK   Kate Bush — Under The Ivy | last aired 2026-10-19 17:00 | normal pick now
 OK   Katy Perry — Roar | last aired 2026-10-15 19:48 | normal pick now | request now
 OK   Kavinsky — Nightcall | last aired 2026-10-07 04:53 | normal pick now | request now
 OK   KAYA! — Turn It Up | last aired 2026-10-16 03:12 | normal pick now | request now
-OK   Kaytranada — LITE SPOTS | last aired 2026-10-18 02:10 | normal pick now | request now
+WAIT Kaytranada — LITE SPOTS | last aired 2026-10-22 00:49 | normal pick from 2026-10-23 12:49 | request from 2026-10-22 20:49
 OK   Käärijä — Cha Cha Cha | last aired 2026-10-15 13:35 | normal pick now | request now
