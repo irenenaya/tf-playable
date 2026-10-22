@@ -1,4 +1,4 @@
-Track status, artists filed under GR (built Thu Oct 22, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, artists filed under GR (built Thu Oct 22, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   G.Rag & die Landlergschwister — Odessa | last aired 2026-10-11 04:35 | normal pick now | request now
@@ -12,7 +12,7 @@ OK   Grethe & Jørgen Ingmann — Dansevise | last aired 2026-10-16 04:16 | norm
 OK   Grimes — Oblivion | last aired 2026-10-20 17:33 | normal pick now | request now
 WAIT Groove Armada — At the River | last aired 2026-10-21 17:54 | normal pick from 2026-10-23 05:54 | request now
 WAIT Groove Armada — Madder | last aired 2026-10-22 00:17 | normal pick from 2026-10-23 12:17 | request from 2026-10-22 20:17
-WAIT Groove Armada — My Friend (Album Version) | last aired 2026-10-21 03:56 | normal pick from 2026-10-22 15:56 | request now
+OK   Groove Armada — My Friend (Album Version) | last aired 2026-10-21 03:56 | normal pick now | request now
 OK   Grossstadtgeflüster — Fickt-Euch-Allee | last aired 2026-09-18 10:29 | normal pick now | request now
 WAIT Grouper — Alien Observer | last aired 2026-10-22 07:41 | normal pick from 2026-10-24 07:41 | request from 2026-10-24 07:41
 OK   Grouper — Holding | last aired 2026-10-20 14:41 | normal pick now | request now
