@@ -1,4 +1,4 @@
-Track status, song titles filed under BL (built Wed Oct 21, 11:05 PM PDT (06:05 UTC Thu)). Times in UTC.
+Track status, song titles filed under BL (built Thu Oct 22, 12:05 AM PDT (07:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Black Diamond — Stratovarius | last aired 2026-10-18 12:54 | normal pick now | request now
@@ -6,7 +6,7 @@ OK   Black Fingernails, Red Wine — Eskimo Joe | last aired 2026-10-15 01:03 | 
 OK   Black Hole Sun — Soundgarden | last aired 2026-10-18 20:45 | normal pick now | request now
 OK   Black Magic Woman — Percy Faith & His Orchestra | last aired 2026-10-13 16:16 | normal pick now | request now
 OK   Black Magic Woman — Santana | last aired 2026-10-19 19:48 | normal pick now | request now
-WAIT Black Refraction — Tim Hecker | last aired 2026-10-20 18:52 | normal pick from 2026-10-22 06:52 | request now
+OK   Black Refraction — Tim Hecker | last aired 2026-10-20 18:52 | normal pick now | request now
 OK   Black Roses — Barrington Levy | last aired 2026-10-15 13:26 | normal pick now | request now
 WAIT Black Sea  (Live at Elbphilharmonie) — Hundreds | last aired 2026-10-21 05:49 | normal pick from 2026-10-22 17:49 | request now
 OK   BLACKOUT — Turnstile | last aired 2026-10-10 21:11 | normal pick now | request now
@@ -19,7 +19,7 @@ WAIT Blood In The Labyrinth — Boards of Canada | last aired 2026-10-21 21:42 |
 OK   Bloodbuzz Ohio (Live in Rome) — The National | last aired 2026-10-19 01:22 | normal pick now | request now
 OK   Bloom — Airiel | last aired 2026-09-15 08:41 | normal pick now | request now
 OK   Blue (Flume Remix) — Eiffel 65 | last aired 2026-10-17 20:38 | normal pick now | request now
-OK   Blue Hotel  (Remastered Album Version) — Chris Isaak | last aired 2026-10-17 19:59 | normal pick now | request now
+WAIT Blue Hotel  (Remastered Album Version) — Chris Isaak | last aired 2026-10-22 06:04 | normal pick from 2026-10-23 18:04 | request from 2026-10-23 02:04
 WAIT Blue in Green — Miles Davis | last aired 2026-10-22 05:36 | normal pick from 2026-10-23 17:36 | request from 2026-10-23 01:36
 OK   Blue — LeAnn Rimes | last aired 2026-10-17 08:19 | normal pick now | request now
 OK   Blue Lips — Her's | last aired 2026-10-17 10:25 | normal pick now | request now
@@ -28,4 +28,4 @@ OK   Blue Moon Of Kentucky — Bill Monroe & His Blue Grass Boys | last aired 20
 OK   Blue Room  (Live) — The Orb | last aired 2026-10-17 20:43 | normal pick now | request now
 OK   Blue Velvet — Bobby Vinton | last aired 2026-10-17 20:02 | normal pick now | request now
 OK   Bluebird — Beach House | last aired 2026-10-11 03:23 | normal pick now | request now
-WAIT The Blower's Daughter — Damien Rice | last aired 2026-10-20 06:09 | normal pick from 2026-10-22 06:09 | request from 2026-10-22 06:09
+OK   The Blower's Daughter — Damien Rice | last aired 2026-10-20 06:09 | normal pick now | request now
