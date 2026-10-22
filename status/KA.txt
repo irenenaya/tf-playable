@@ -1,4 +1,4 @@
-Track status, artists filed under KA (built Thu Oct 22, 2:05 PM PDT (21:05 UTC)). Times in UTC.
+Track status, artists filed under KA (built Thu Oct 22, 3:05 PM PDT (22:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Kacey Musgraves — Deeper Well | last aired 2026-10-22 04:43 | normal pick from 2026-10-23 16:43 | request from 2026-10-23 00:43
@@ -7,7 +7,7 @@ OK   Kali Uchis — telepatía | last aired 2026-10-19 18:51 | normal pick now |
 OK   Kanye West — Devil In A New Dress (Album Version (Explicit)) | last aired 2026-10-21 03:26 | normal pick now | request now
 OK   Karim Sulayman — Li Beirut (after Joaquín Rodrigo) | last aired 2026-10-17 06:37 | normal pick now | request now
 OK   Kat Edmonson — All The Way | last aired 2026-10-20 11:23 | normal pick now | request now
-WAIT Kate Bush — Coffee Homeground | last aired 2026-10-20 22:04 | normal pick from 2026-10-22 22:04 | request from 2026-10-22 22:04
+OK   Kate Bush — Coffee Homeground | last aired 2026-10-20 22:04 | normal pick now | request now
 OK   Kate Bush — Get Out Of My House  (2018 Remaster) | last aired 2026-10-20 13:23 | normal pick now | request now
 OK   Kate Bush — L'Amour Looks Something Like You (2018 Remaster) | last aired 2026-10-17 23:57 | normal pick now | request now
 OK   Kate Bush — Under The Ivy | last aired 2026-10-19 17:00 | normal pick now | request now
