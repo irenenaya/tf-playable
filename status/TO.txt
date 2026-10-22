@@ -1,4 +1,4 @@
-Track status, artists filed under TO (built Thu Oct 22, 7:05 AM PDT (14:05 UTC)). Times in UTC.
+Track status, artists filed under TO (built Thu Oct 22, 8:05 AM PDT (15:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   toe — Goodbye (Live) | last aired 2026-10-16 23:23 | normal pick now | request now
@@ -8,7 +8,7 @@ OK   Tom Konkle — Camouflage (Album Mix) | last aired 2026-10-17 01:22 | norma
 OK   Tom Konkle — Children of No Horizon | last aired 2026-09-17 19:18 | normal pick now | request now
 OK   Tom Konkle — Fail Upward For A Change | last aired 2026-10-17 13:56 | normal pick now | request now
 OK   Tom Konkle — Life Without The Living | last aired 2026-10-17 06:06 | normal pick now | request now
-WAIT Tom Konkle — Light Bulb In My Head | last aired 2026-10-21 03:02 | normal pick from 2026-10-22 15:02 | request now
+OK   Tom Konkle — Light Bulb In My Head | last aired 2026-10-21 03:02 | normal pick now | request now
 OK   Tom Konkle — Losing Faith | last aired 2026-09-12 01:59 | normal pick now | request now
 OK   Tom Konkle — Manipulation (The Dance) | last aired 2026-10-18 03:37 | normal pick now | request now
 OK   Tom Konkle — Name On A Screen | last aired 2026-10-15 14:48 | normal pick now | request now

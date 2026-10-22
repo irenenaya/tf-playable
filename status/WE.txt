@@ -1,4 +1,4 @@
-Track status, artists filed under WE (built Thu Oct 22, 7:05 AM PDT (14:05 UTC)). Times in UTC.
+Track status, artists filed under WE (built Thu Oct 22, 8:05 AM PDT (15:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Weeknd — After Hours | last aired 2026-10-14 13:24 | normal pick now | request now
@@ -6,7 +6,7 @@ OK   The Weeknd — Blinding Lights | last aired 2026-10-20 22:57 | normal pick 
 OK   The Weeknd — Call Out My Name | last aired 2026-10-03 20:01 | normal pick now | request now
 OK   The Weeknd — Gasoline | last aired 2026-10-18 04:57 | normal pick now | request now
 OK   The Weeknd — Secrets | last aired 2026-10-02 04:10 | normal pick now | request now
-WAIT The Weeknd — Starboy | last aired 2026-10-21 02:09 | normal pick from 2026-10-22 14:09 | request now
+OK   The Weeknd — Starboy | last aired 2026-10-21 02:09 | normal pick now | request now
 OK   The Weepies — Gotta Have You | last aired 2026-10-17 10:37 | normal pick now | request now
 OK   Weird Al Yankovic — Everything You Know Is Wrong | last aired 2026-10-21 00:49 | normal pick now | request now
 OK   Weird Al Yankovic — Ode to a Superhero (Parody of "Piano Man" by Billy Joel) | last aired 2026-10-18 01:24 | normal pick now | request now
