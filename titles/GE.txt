@@ -1,4 +1,4 @@
-Track status, song titles filed under GE (built Thu Oct 22, 2:05 AM PDT (09:05 UTC)). Times in UTC.
+Track status, song titles filed under GE (built Thu Oct 22, 3:05 AM PDT (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Gee — Girls' Generation | last aired 2026-10-21 16:10 | normal pick from 2026-10-23 04:10 | request from 2026-10-22 12:10
@@ -6,7 +6,7 @@ OK   Genie In a Bottle — Christina Aguilera | last aired 2026-10-20 15:29 | no
 OK   Georgy Porgy (album version) — Toto | last aired 2026-10-17 08:34 | normal pick now | request now
 WAIT Get Back (2021 Mix) — The Beatles | last aired 2026-10-21 00:41 | normal pick from 2026-10-22 12:41 | request now
 OK   Get Down  (Rediscovered) — Blank & Jones | last aired 2026-10-15 16:58 | normal pick now | request now
-OK   Get Down — Still Woozy | last aired 2026-10-19 18:08 | normal pick now | request now
+WAIT Get Down — Still Woozy | last aired 2026-10-22 09:07 | normal pick from 2026-10-23 21:07 | request from 2026-10-23 05:07
 OK   Get It Right the First Time (Album Version) — Billy Joel | last aired 2026-10-15 00:06 | normal pick now | request now
 WAIT Get Low [Explicit] — Lil Jon | last aired 2026-10-21 16:43 | normal pick from 2026-10-23 04:43 | request from 2026-10-22 12:43
 OK   Get Out Of My House  (2018 Remaster) — Kate Bush | last aired 2026-10-20 13:23 | normal pick now | request now

@@ -1,10 +1,10 @@
-Track status, song titles filed under PE (built Thu Oct 22, 2:05 AM PDT (09:05 UTC)). Times in UTC.
+Track status, song titles filed under PE (built Thu Oct 22, 3:05 AM PDT (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   pe$o$ — Evan Fong | last aired 2026-10-18 03:52 | normal pick now | request now
 OK   Peace — Horace Silver Quintet | last aired 2026-10-17 07:57 | normal pick now | request now
-WAIT Peace Piece (Album Version) — Bill Evans | last aired 2026-10-21 09:38 | normal pick from 2026-10-23 09:38 | request from 2026-10-23 09:38
-OK   Peg — Steely Dan | last aired 2026-10-18 14:43 | normal pick now | request now
+WAIT Peace Piece (Album Version) — Bill Evans | last aired 2026-10-21 09:38 | normal pick from 2026-10-22 21:38 | request now
+WAIT Peg — Steely Dan | last aired 2026-10-22 09:52 | normal pick from 2026-10-23 21:52 | request from 2026-10-23 05:52
 OK   Penelope's Song The Odyssey — Celtic Siren Noreen | last aired 2026-10-19 17:28 | normal pick now | request now
 OK   People Everywhere ii — Khruangbin | last aired 2026-10-20 05:41 | normal pick now | request now
 OK   People Get Ready (Single Version) — The Impressions | last aired 2026-10-18 07:48 | normal pick now | request now
@@ -14,4 +14,4 @@ OK   Perfect — Ed Sheeran | last aired 2026-10-18 22:00 | normal pick now | re
 WAIT Perfekte Welle — Juli | last aired 2026-10-21 01:55 | normal pick from 2026-10-22 13:55 | request now
 OK   Perform This Way (Parody of "Born This Way" by Lady Gaga) — Weird Al Yankovic | last aired 2026-10-13 10:00 | normal pick now | request now
 OK   Perhaps You'll Wonder Why (The Paris Sessions) — Melody Gardot | last aired 2026-10-17 07:06 | normal pick now | request now
-WAIT Petit pays — Cesária Evora | last aired 2026-10-22 08:28 | normal pick from 2026-10-24 08:28 | request from 2026-10-24 08:28
+WAIT Petit pays — Cesária Evora | last aired 2026-10-22 08:29 | normal pick from 2026-10-24 08:29 | request from 2026-10-24 08:29

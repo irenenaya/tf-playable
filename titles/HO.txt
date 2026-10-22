@@ -1,9 +1,9 @@
-Track status, song titles filed under HO (built Thu Oct 22, 2:05 AM PDT (09:05 UTC)). Times in UTC.
+Track status, song titles filed under HO (built Thu Oct 22, 3:05 AM PDT (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Holding — Grouper | last aired 2026-10-20 14:41 | normal pick now | request now
 OK   Holding Out for a Hero (From "Footloose" Soundtrack) — Bonnie Tyler | last aired 2026-10-20 20:26 | normal pick now | request now
-WAIT Holiday (Remastered 2015) — Scorpions | last aired 2026-10-21 13:07 | normal pick from 2026-10-23 01:07 | request from 2026-10-22 09:07
+WAIT Holiday (Remastered 2015) — Scorpions | last aired 2026-10-21 13:07 | normal pick from 2026-10-23 01:07 | request now
 OK   Holiday — Madonna | last aired 2026-10-15 01:45 | normal pick now | request now
 WAIT Holocene — Bon Iver | last aired 2026-10-22 02:20 | normal pick from 2026-10-24 02:20 | request from 2026-10-24 02:20
 OK   Holy Water (Album Version) — Soundgarden | last aired 2026-10-17 04:40 | normal pick now | request now
@@ -17,7 +17,7 @@ OK   HOT TO GO! — Chappell Roan | last aired 2026-10-12 17:42 | normal pick no
 OK   Hotel California  (2013 Remaster) — Eagles | last aired 2026-10-18 10:29 | normal pick now | request now
 OK   Houdini — Dua Lipa | last aired 2026-10-20 15:04 | normal pick now | request now
 OK   House of the Rising Sun — Erik Grönwall | last aired 2026-10-14 22:41 | normal pick now | request now
-WAIT House Where Nobody Lives — Tom Waits | last aired 2026-10-22 06:47 | normal pick from 2026-10-23 18:47 | request from 2026-10-23 02:47
+WAIT House Where Nobody Lives — Tom Waits | last aired 2026-10-22 06:48 | normal pick from 2026-10-23 18:48 | request from 2026-10-23 02:48
 OK   How Deep Is The Ocean — Diana Krall | last aired 2026-10-20 03:39 | normal pick now | request now
 OK   How Do — Sneaker Pimps | last aired 2026-10-17 03:20 | normal pick now | request now
 WAIT How I Got Over (Live) — Mahalia Jackson | last aired 2026-10-21 19:01 | normal pick from 2026-10-23 07:01 | request from 2026-10-22 15:01
