@@ -1,7 +1,7 @@
-Track status, song titles filed under AM (built Wed Oct 21, 7:05 PM PDT (02:05 UTC Thu)). Times in UTC.
+Track status, song titles filed under AM (built Wed Oct 21, 8:05 PM PDT (03:05 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT A Minha Menina — Os Mutantes | last aired 2026-10-20 02:37 | normal pick from 2026-10-22 02:37 | request from 2026-10-22 02:37
+OK   A Minha Menina — Os Mutantes | last aired 2026-10-20 02:37 | normal pick now | request now
 OK   Am Fenster — City | last aired 2026-10-13 09:41 | normal pick now | request now
 OK   Amar pelos Dois — Salvador Sobral | last aired 2026-10-15 21:31 | normal pick now | request now
 OK   Amaze Amaze Amaze (Life on Erid) (from "Project Hail Mary") — Daniel Pemberton | last aired 2026-10-17 14:13 | normal pick now | request now

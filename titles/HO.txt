@@ -1,11 +1,11 @@
-Track status, song titles filed under HO (built Wed Oct 21, 7:05 PM PDT (02:05 UTC Thu)). Times in UTC.
+Track status, song titles filed under HO (built Wed Oct 21, 8:05 PM PDT (03:05 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Holding — Grouper | last aired 2026-10-20 14:41 | normal pick from 2026-10-22 02:41 | request now
+OK   Holding — Grouper | last aired 2026-10-20 14:41 | normal pick now | request now
 WAIT Holding Out for a Hero (From "Footloose" Soundtrack) — Bonnie Tyler | last aired 2026-10-20 20:26 | normal pick from 2026-10-22 08:26 | request now
 WAIT Holiday (Remastered 2015) — Scorpions | last aired 2026-10-21 13:07 | normal pick from 2026-10-23 01:07 | request from 2026-10-22 09:07
 OK   Holiday — Madonna | last aired 2026-10-15 01:45 | normal pick now | request now
-OK   Holocene — Bon Iver | last aired 2026-10-18 21:44 | normal pick now | request now
+WAIT Holocene — Bon Iver | last aired 2026-10-22 02:19 | normal pick from 2026-10-24 02:19 | request from 2026-10-24 02:19
 OK   Holy Water (Album Version) — Soundgarden | last aired 2026-10-17 04:40 | normal pick now | request now
 OK   Home At Last — Steely Dan | last aired 2026-10-17 13:01 | normal pick now | request now
 OK   Honesty (Album Version) — Billy Joel | last aired 2026-10-16 19:28 | normal pick now | request now
@@ -15,7 +15,7 @@ OK   Hopopono — GoGo Penguin | last aired 2026-10-17 03:37 | normal pick now |
 WAIT Hoppípolla — Sigur Rós | last aired 2026-10-21 18:09 | normal pick from 2026-10-23 18:09 | request from 2026-10-23 18:09
 OK   HOT TO GO! — Chappell Roan | last aired 2026-10-12 17:42 | normal pick now | request now
 OK   Hotel California  (2013 Remaster) — Eagles | last aired 2026-10-18 10:29 | normal pick now | request now
-WAIT Houdini — Dua Lipa | last aired 2026-10-20 15:04 | normal pick from 2026-10-22 03:04 | request now
+OK   Houdini — Dua Lipa | last aired 2026-10-20 15:04 | normal pick now | request now
 OK   House of the Rising Sun — Erik Grönwall | last aired 2026-10-14 22:41 | normal pick now | request now
 OK   House Where Nobody Lives — Tom Waits | last aired 2026-10-18 23:10 | normal pick now | request now
 OK   How Deep Is The Ocean — Diana Krall | last aired 2026-10-20 03:39 | normal pick now | request now
@@ -24,5 +24,5 @@ WAIT How I Got Over (Live) — Mahalia Jackson | last aired 2026-10-21 19:01 | n
 WAIT How You Remind Me (- LP Mix) — Nickelback | last aired 2026-10-21 03:47 | normal pick from 2026-10-22 15:47 | request now
 WAIT The Hokey Pokey — Ray Anthony | last aired 2026-10-20 18:12 | normal pick from 2026-10-22 06:12 | request now
 OK   The Holly and the Ivy  (Live) — Loreena McKennitt | last aired 2026-10-19 19:02 | normal pick now | request now
-OK   The Host of Seraphim (Remastered) — Dead Can Dance | last aired 2026-10-19 17:18 | normal pick now | request now
+WAIT The Host of Seraphim (Remastered) — Dead Can Dance | last aired 2026-10-22 02:51 | normal pick from 2026-10-23 14:51 | request from 2026-10-22 22:51
 OK   The House of the Rising Sun — The Animals | last aired 2026-09-29 16:09 | normal pick now | request now

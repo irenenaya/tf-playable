@@ -1,11 +1,11 @@
-Track status, artists filed under PO (built Wed Oct 21, 7:05 PM PDT (02:05 UTC Thu)). Times in UTC.
+Track status, artists filed under PO (built Wed Oct 21, 8:05 PM PDT (03:05 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Polar Sun — Caribou | last aired 2026-10-21 23:50 | normal pick from 2026-10-23 11:50 | request from 2026-10-22 19:50
 OK   Pop Evil — Breathe Again | last aired 2026-10-14 15:39 | normal pick now | request now
 OK   Pornophonique — Sad Robot | last aired 2026-10-13 17:46 | normal pick now | request now
 WAIT Portishead — Glory Box (Album Version) | last aired 2026-10-20 21:46 | normal pick from 2026-10-22 21:46 | request from 2026-10-22 21:46
-OK   Portishead — It Could Be Sweet | last aired 2026-10-17 17:38 | normal pick now | request now
+WAIT Portishead — It Could Be Sweet | last aired 2026-10-22 02:29 | normal pick from 2026-10-23 14:29 | request from 2026-10-22 22:29
 WAIT Portishead — Roads | last aired 2026-10-21 05:40 | normal pick from 2026-10-22 17:40 | request now
 OK   Portishead — Sour Times | last aired 2026-10-18 23:32 | normal pick now | request now
 OK   Portishead — Wandering Star | last aired 2026-10-19 20:13 | normal pick now | request now
@@ -14,4 +14,4 @@ OK   Powerwolf — Demons Are a Girl's Best Friend | last aired 2026-10-13 14:01
 OK   The Police — Message In A Bottle (Remastered 2003) | last aired 2026-10-19 11:40 | normal pick now | request now
 OK   The Police — Roxanne (Remastered 2003) | last aired 2026-10-06 15:58 | normal pick now | request now
 OK   The Police — Walking On The Moon (Remastered 2003) | last aired 2026-10-19 00:33 | normal pick now | request now
-WAIT The Postal Service — Such Great Heights (Remastered) | last aired 2026-10-20 14:59 | normal pick from 2026-10-22 02:59 | request now
+OK   The Postal Service — Such Great Heights (Remastered) | last aired 2026-10-20 14:59 | normal pick now | request now

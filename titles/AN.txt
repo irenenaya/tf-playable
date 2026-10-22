@@ -1,8 +1,8 @@
-Track status, song titles filed under AN (built Wed Oct 21, 7:05 PM PDT (02:05 UTC Thu)). Times in UTC.
+Track status, song titles filed under AN (built Wed Oct 21, 8:05 PM PDT (03:05 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT An Ending (Ascent) (Remastered 2019) — Brian Eno | last aired 2026-10-22 00:53 | normal pick from 2026-10-23 12:53 | request from 2026-10-22 20:53
-WAIT Ana — Pixies | last aired 2026-10-20 02:58 | normal pick from 2026-10-22 02:58 | request from 2026-10-22 02:58
+OK   Ana — Pixies | last aired 2026-10-20 02:58 | normal pick now | request now
 OK   Ana's Song (Open Fire) — Silverchair | last aired 2026-10-15 19:37 | normal pick now | request now
 WAIT Anahit Concerto per due ondiole — Archivio Storico Fondazione Isabella Scelsi | last aired 2026-10-20 23:19 | normal pick from 2026-10-22 11:19 | request now
 OK   Anarchy In The UK — Sex Pistols | last aired 2026-10-18 13:39 | normal pick now | request now
@@ -21,7 +21,7 @@ OK   Answering Machine — The Replacements | last aired 2026-10-16 12:57 | norm
 OK   Anthem for the Year 2000 (Album Version) — Silverchair | last aired 2026-10-18 14:00 | normal pick now | request now
 OK   Anthem — Leonard Cohen | last aired 2026-10-20 04:08 | normal pick now | request now
 OK   ANTONYMPH — Vylet Pony | last aired 2026-10-18 11:03 | normal pick now | request now
-WAIT Ants In My Room — Carter Vail | last aired 2026-10-20 14:28 | normal pick from 2026-10-22 02:28 | request now
+OK   Ants In My Room — Carter Vail | last aired 2026-10-20 14:28 | normal pick now | request now
 OK   Any Time, Any Place — Janet Jackson | last aired 2026-10-19 11:45 | normal pick now | request now
 OK   anything — Adrianne Lenker | last aired 2026-10-19 21:10 | normal pick now | request now
 OK   Anything Goes — John T. Williams | last aired 2026-10-16 05:14 | normal pick now | request now
