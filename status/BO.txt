@@ -1,10 +1,10 @@
-Track status, artists filed under BO (built Wed Oct 21, 8:05 PM PDT (03:05 UTC Thu)). Times in UTC.
+Track status, artists filed under BO (built Wed Oct 21, 9:05 PM PDT (04:05 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Boards of Canada — Blood In The Labyrinth | last aired 2026-10-21 21:42 | normal pick from 2026-10-23 09:42 | request from 2026-10-22 17:42
 WAIT Boards of Canada — Dayvan Cowboy | last aired 2026-10-22 02:33 | normal pick from 2026-10-24 02:33 | request from 2026-10-24 02:33
 WAIT Boards of Canada — Olson | last aired 2026-10-21 17:52 | normal pick from 2026-10-23 05:52 | request from 2026-10-22 13:52
-WAIT Boards of Canada — Roygbiv | last aired 2026-10-21 07:24 | normal pick from 2026-10-22 19:24 | request from 2026-10-22 03:24
+WAIT Boards of Canada — Roygbiv | last aired 2026-10-21 07:24 | normal pick from 2026-10-22 19:24 | request now
 OK   Bob Dylan — Girl from the North Country | last aired 2026-10-17 23:25 | normal pick now | request now
 OK   Bob Dylan — The Lonesome Death of Hattie Carroll | last aired 2026-10-18 21:12 | normal pick now | request now
 OK   Bob Marley & The Wailers — Get Up, Stand Up | last aired 2026-10-20 00:38 | normal pick now | request now
@@ -23,7 +23,7 @@ OK   Boney M. — Gotta Go Home | last aired 2026-10-18 17:38 | normal pick now 
 OK   Boney M. — Sunny | last aired 2026-10-15 10:19 | normal pick now | request now
 WAIT Bonnie Tyler — Holding Out for a Hero (From "Footloose" Soundtrack) | last aired 2026-10-20 20:26 | normal pick from 2026-10-22 08:26 | request now
 OK   Bonnie Tyler — Total Eclipse of the Heart | last aired 2026-10-16 20:22 | normal pick now | request now
-WAIT Bonobo — Cirrus | last aired 2026-10-21 07:55 | normal pick from 2026-10-22 19:55 | request from 2026-10-22 03:55
+WAIT Bonobo — Cirrus | last aired 2026-10-21 07:55 | normal pick from 2026-10-22 19:55 | request now
 WAIT Bonobo — Kiara | last aired 2026-10-22 00:26 | normal pick from 2026-10-23 12:26 | request from 2026-10-22 20:26
 WAIT Bonobo — Kong | last aired 2026-10-21 21:08 | normal pick from 2026-10-23 21:08 | request from 2026-10-23 21:08
 WAIT Bonobo — Terrapin | last aired 2026-10-22 02:42 | normal pick from 2026-10-23 14:42 | request from 2026-10-22 22:42

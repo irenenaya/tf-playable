@@ -1,7 +1,7 @@
-Track status, song titles filed under YO (built Wed Oct 21, 8:05 PM PDT (03:05 UTC Thu)). Times in UTC.
+Track status, song titles filed under YO (built Wed Oct 21, 9:05 PM PDT (04:05 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   You and I — Papooz | last aired 2026-10-09 18:25 | normal pick now | request now
+WAIT You and I — Papooz | last aired 2026-10-22 03:12 | normal pick from 2026-10-23 15:12 | request from 2026-10-22 23:12
 OK   You Are — Lionel Richie | last aired 2026-10-18 17:02 | normal pick now | request now
 OK   You Are Not Alone — Michael Jackson | last aired 2026-10-18 19:37 | normal pick now | request now
 OK   You Are So Beautiful — Charles Lloyd | last aired 2026-10-17 11:36 | normal pick now | request now
@@ -20,7 +20,7 @@ WAIT You Suffer — Napalm Death | last aired 2026-10-20 21:14 | normal pick fro
 OK   You — The Jetzons | last aired 2026-10-04 11:47 | normal pick now | request now
 WAIT You're The One That I Want — Angus & Julia Stone | last aired 2026-10-21 10:42 | normal pick from 2026-10-22 22:42 | request from 2026-10-22 06:42
 WAIT Young And Beautiful — Lana Del Rey | last aired 2026-10-21 09:14 | normal pick from 2026-10-22 21:14 | request from 2026-10-22 05:14
-WAIT Your Flag Decal Won't Get You into Heaven Anymore — John Prine | last aired 2026-10-20 04:05 | normal pick from 2026-10-22 04:05 | request from 2026-10-22 04:05
+OK   Your Flag Decal Won't Get You into Heaven Anymore — John Prine | last aired 2026-10-20 04:05 | normal pick now | request now
 OK   Your Hand in Mine — Explosions In The Sky | last aired 2026-10-20 05:16 | normal pick now | request now
 WAIT Your Latest Trick — Dire Straits | last aired 2026-10-20 16:43 | normal pick from 2026-10-22 04:43 | request now
 WAIT Your Love Is King — Serge Clivio | last aired 2026-10-21 15:15 | normal pick from 2026-10-23 03:15 | request from 2026-10-22 11:15

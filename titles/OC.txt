@@ -1,5 +1,5 @@
-Track status, song titles filed under OC (built Wed Oct 21, 8:05 PM PDT (03:05 UTC Thu)). Times in UTC.
+Track status, song titles filed under OC (built Wed Oct 21, 9:05 PM PDT (04:05 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Oceanium — Suzanne Ciani | last aired 2026-10-18 03:09 | normal pick now | request now
-OK   Octopus's Garden (Remastered) — The Beatles | last aired 2026-10-17 23:45 | normal pick now | request now
+WAIT Octopus's Garden (Remastered) — The Beatles | last aired 2026-10-22 03:51 | normal pick from 2026-10-23 15:51 | request from 2026-10-22 23:51
