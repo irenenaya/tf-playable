@@ -1,10 +1,10 @@
-Track status, song titles filed under SA (built Wed Oct 21, 6:05 PM PDT (01:05 UTC Thu)). Times in UTC.
+Track status, song titles filed under SA (built Wed Oct 21, 7:05 PM PDT (02:05 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Sabotage — Beastie Boys | last aired 2026-10-19 22:10 | normal pick now | request now
 OK   Sad Eyed Lady Of The Low Life — Alabama 3 | last aired 2026-10-09 09:35 | normal pick now | request now
 OK   Sad Robot — Pornophonique | last aired 2026-10-13 17:46 | normal pick now | request now
-WAIT Sailing — Benny Sings | last aired 2026-10-20 13:58 | normal pick from 2026-10-22 01:58 | request now
+OK   Sailing — Benny Sings | last aired 2026-10-20 13:58 | normal pick now | request now
 WAIT Sailing — Christopher Cross | last aired 2026-10-20 15:54 | normal pick from 2026-10-22 03:54 | request now
 OK   Sailor Song — Gigi Perez | last aired 2026-10-15 05:18 | normal pick now | request now
 OK   Saku — Susumu Yokota | last aired 2026-10-20 02:21 | normal pick now | request now
@@ -17,7 +17,7 @@ WAIT Samba Pa Ti — Santana | last aired 2026-10-21 13:20 | normal pick from 20
 OK   Same — Smith & Mighty | last aired 2026-10-17 17:15 | normal pick now | request now
 OK   Sandstorm — Darude | last aired 2026-10-15 18:54 | normal pick now | request now
 WAIT Santa María (del Buen Ayre) — Gotan Project | last aired 2026-10-20 10:54 | normal pick from 2026-10-22 10:54 | request from 2026-10-22 10:54
-OK   Sanvean - I Am Your Shadow — Lisa Gerrard | last aired 2026-10-19 17:02 | normal pick now | request now
+WAIT Sanvean - I Am Your Shadow — Lisa Gerrard | last aired 2026-10-22 02:01 | normal pick from 2026-10-23 14:01 | request from 2026-10-22 22:01
 WAIT Sara — Fleetwood Mac | last aired 2026-10-20 23:41 | normal pick from 2026-10-22 11:41 | request now
 WAIT Sarà perché ti amo — Ricchi E Poveri | last aired 2026-10-21 18:35 | normal pick from 2026-10-23 06:35 | request from 2026-10-22 14:35
 OK   Sastanàqqàm — Tinariwen | last aired 2026-10-20 00:05 | normal pick now | request now
