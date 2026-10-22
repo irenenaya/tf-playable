@@ -1,13 +1,13 @@
-Track status, artists filed under BO (built Wed Oct 21, 9:05 PM PDT (04:05 UTC Thu)). Times in UTC.
+Track status, artists filed under BO (built Wed Oct 21, 10:05 PM PDT (05:05 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Boards of Canada — Blood In The Labyrinth | last aired 2026-10-21 21:42 | normal pick from 2026-10-23 09:42 | request from 2026-10-22 17:42
-WAIT Boards of Canada — Dayvan Cowboy | last aired 2026-10-22 02:33 | normal pick from 2026-10-24 02:33 | request from 2026-10-24 02:33
+WAIT Boards of Canada — Dayvan Cowboy | last aired 2026-10-22 02:34 | normal pick from 2026-10-24 02:34 | request from 2026-10-24 02:34
 WAIT Boards of Canada — Olson | last aired 2026-10-21 17:52 | normal pick from 2026-10-23 05:52 | request from 2026-10-22 13:52
 WAIT Boards of Canada — Roygbiv | last aired 2026-10-21 07:24 | normal pick from 2026-10-22 19:24 | request now
 OK   Bob Dylan — Girl from the North Country | last aired 2026-10-17 23:25 | normal pick now | request now
 OK   Bob Dylan — The Lonesome Death of Hattie Carroll | last aired 2026-10-18 21:12 | normal pick now | request now
-OK   Bob Marley & The Wailers — Get Up, Stand Up | last aired 2026-10-20 00:38 | normal pick now | request now
+WAIT Bob Marley & The Wailers — Get Up, Stand Up | last aired 2026-10-22 04:58 | normal pick from 2026-10-24 04:58 | request from 2026-10-24 04:58
 WAIT Bobby Caldwell — Coming Down from Love | last aired 2026-10-20 08:44 | normal pick from 2026-10-22 08:44 | request from 2026-10-22 08:44
 OK   Bobby Caldwell — What You Won't Do for Love | last aired 2026-10-18 07:43 | normal pick now | request now
 WAIT Bobby Darin — Beyond the Sea | last aired 2026-10-20 18:49 | normal pick from 2026-10-22 06:49 | request now
@@ -15,7 +15,7 @@ WAIT Bobby Hutcherson — Stardust | last aired 2026-10-20 11:49 | normal pick f
 OK   Bobby McFerrin — Common Threads | last aired 2026-10-16 03:37 | normal pick now | request now
 OK   Bobby McFerrin — Don't Worry Be Happy | last aired 2026-10-19 09:40 | normal pick now | request now
 OK   Bobby Vinton — Blue Velvet | last aired 2026-10-17 20:02 | normal pick now | request now
-WAIT Bon Iver — Holocene | last aired 2026-10-22 02:19 | normal pick from 2026-10-24 02:19 | request from 2026-10-24 02:19
+WAIT Bon Iver — Holocene | last aired 2026-10-22 02:20 | normal pick from 2026-10-24 02:20 | request from 2026-10-24 02:20
 WAIT Bon Iver — Skinny Love | last aired 2026-10-21 08:56 | normal pick from 2026-10-23 08:56 | request from 2026-10-23 08:56
 OK   Bon Jovi — Livin' On A Prayer | last aired 2026-10-18 16:45 | normal pick now | request now
 OK   Bon Jovi — You Give Love A Bad Name | last aired 2026-10-20 12:47 | normal pick now | request now
@@ -24,9 +24,9 @@ OK   Boney M. — Sunny | last aired 2026-10-15 10:19 | normal pick now | reques
 WAIT Bonnie Tyler — Holding Out for a Hero (From "Footloose" Soundtrack) | last aired 2026-10-20 20:26 | normal pick from 2026-10-22 08:26 | request now
 OK   Bonnie Tyler — Total Eclipse of the Heart | last aired 2026-10-16 20:22 | normal pick now | request now
 WAIT Bonobo — Cirrus | last aired 2026-10-21 07:55 | normal pick from 2026-10-22 19:55 | request now
-WAIT Bonobo — Kiara | last aired 2026-10-22 00:26 | normal pick from 2026-10-23 12:26 | request from 2026-10-22 20:26
+WAIT Bonobo — Kiara | last aired 2026-10-22 00:27 | normal pick from 2026-10-24 00:27 | request from 2026-10-24 00:27
 WAIT Bonobo — Kong | last aired 2026-10-21 21:08 | normal pick from 2026-10-23 21:08 | request from 2026-10-23 21:08
-WAIT Bonobo — Terrapin | last aired 2026-10-22 02:42 | normal pick from 2026-10-23 14:42 | request from 2026-10-22 22:42
+WAIT Bonobo — Terrapin | last aired 2026-10-22 02:43 | normal pick from 2026-10-23 14:43 | request from 2026-10-22 22:43
 WAIT Booker T. & The M.G.'s — Green Onions | last aired 2026-10-20 08:48 | normal pick from 2026-10-22 08:48 | request from 2026-10-22 08:48
 WAIT Booker T. & The M.G.'s — Time Is Tight  (Live) | last aired 2026-10-21 19:49 | normal pick from 2026-10-23 07:49 | request from 2026-10-22 15:49
 OK   Booker T. Jones — Everything Is Everything | last aired 2026-10-17 12:13 | normal pick now | request now

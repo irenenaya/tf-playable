@@ -1,7 +1,7 @@
-Track status, artists filed under KA (built Wed Oct 21, 9:05 PM PDT (04:05 UTC Thu)). Times in UTC.
+Track status, artists filed under KA (built Wed Oct 21, 10:05 PM PDT (05:05 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Kacey Musgraves — Deeper Well | last aired 2026-10-19 18:41 | normal pick now | request now
+WAIT Kacey Musgraves — Deeper Well | last aired 2026-10-22 04:43 | normal pick from 2026-10-23 16:43 | request from 2026-10-23 00:43
 OK   Kali Uchis — For: You | last aired 2026-10-19 12:47 | normal pick now | request now
 OK   Kali Uchis — telepatía | last aired 2026-10-19 18:51 | normal pick now | request now
 WAIT Kanye West — Devil In A New Dress (Album Version (Explicit)) | last aired 2026-10-21 03:26 | normal pick from 2026-10-22 15:26 | request now
@@ -14,5 +14,5 @@ OK   Kate Bush — Under The Ivy | last aired 2026-10-19 17:00 | normal pick now
 OK   Katy Perry — Roar | last aired 2026-10-15 19:48 | normal pick now | request now
 OK   Kavinsky — Nightcall | last aired 2026-10-07 04:53 | normal pick now | request now
 OK   KAYA! — Turn It Up | last aired 2026-10-16 03:12 | normal pick now | request now
-WAIT Kaytranada — LITE SPOTS | last aired 2026-10-22 00:49 | normal pick from 2026-10-23 12:49 | request from 2026-10-22 20:49
+WAIT Kaytranada — LITE SPOTS | last aired 2026-10-22 00:50 | normal pick from 2026-10-23 12:50 | request from 2026-10-22 20:50
 OK   Käärijä — Cha Cha Cha | last aired 2026-10-15 13:35 | normal pick now | request now
