@@ -1,9 +1,9 @@
-Track status, song titles filed under ME (built Thu Oct 22, 12:05 PM PDT (19:05 UTC)). Times in UTC.
+Track status, song titles filed under ME (built Thu Oct 22, 1:05 PM PDT (20:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Me and Bobby McGee — Janis Joplin | last aired 2026-10-20 12:22 | normal pick now | request now
 OK   Me and Bobby McGee — Kris Kristofferson | last aired 2026-10-19 04:53 | normal pick now | request now
-OK   Me Myself and I — De La Soul | last aired 2026-10-18 15:33 | normal pick now | request now
+WAIT Me Myself and I — De La Soul | last aired 2026-10-22 20:00 | normal pick from 2026-10-24 08:00 | request from 2026-10-23 16:00
 WAIT Mediterranean sundance - Di Meola: Mediterranean sundance — Paco de Lucía | last aired 2026-10-21 19:22 | normal pick from 2026-10-23 07:22 | request now
 OK   Medley: Mode D - Trio And Group Dancers / Mode E - Single Solos And Group Dance / Mode F - Group And Solo Dance (Album Version) — Charles Mingus | last aired 2026-09-28 07:39 | normal pick now | request now
 OK   Melt (feat. Hatsune Miku) — Supercell | last aired 2026-10-15 04:11 | normal pick now | request now
