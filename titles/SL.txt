@@ -1,4 +1,4 @@
-Track status, song titles filed under SL (built Fri Oct 23, 1:05 AM PDT (08:05 UTC)). Times in UTC.
+Track status, song titles filed under SL (built Fri Oct 23, 2:05 AM PDT (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Slave To The Rhythm (Hot Blooded Version) — Grace Jones | last aired 2026-10-19 12:32 | normal pick now | request now
@@ -7,5 +7,5 @@ WAIT Sleep Dealer — Oneohtrix Point Never | last aired 2026-10-22 01:40 | norm
 OK   Sleepwalker — Akiaura | last aired 2026-10-21 04:05 | normal pick now | request now
 OK   Slide Away — Michael Hutchence | last aired 2026-10-15 18:40 | normal pick now | request now
 OK   Slip Away — David Bowie | last aired 2026-10-17 01:45 | normal pick now | request now
-WAIT Slow Burn — David Bowie | last aired 2026-10-22 12:15 | normal pick from 2026-10-24 00:15 | request from 2026-10-23 08:15
+WAIT Slow Burn — David Bowie | last aired 2026-10-22 12:15 | normal pick from 2026-10-24 00:15 | request now
 WAIT Slow Like Honey — Fiona Apple | last aired 2026-10-22 19:23 | normal pick from 2026-10-24 07:23 | request from 2026-10-23 15:23

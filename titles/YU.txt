@@ -1,4 +1,4 @@
-Track status, song titles filed under YU (built Fri Oct 23, 1:05 AM PDT (08:05 UTC)). Times in UTC.
+Track status, song titles filed under YU (built Fri Oct 23, 2:05 AM PDT (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Yuve Yuve Yu — The Hu | last aired 2026-10-20 18:32 | normal pick now | request now
+WAIT Yuve Yuve Yu — The Hu | last aired 2026-10-23 08:05 | normal pick from 2026-10-24 20:05 | request from 2026-10-24 04:05
