@@ -1,4 +1,4 @@
-Track status, artists filed under LO (built Fri Oct 23, 9:05 AM PDT (16:05 UTC)). Times in UTC.
+Track status, artists filed under LO (built Fri Oct 23, 10:05 AM PDT (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Lofi Fruits Music — Plastic Love | last aired 2026-10-18 17:57 | normal pick now | request now
@@ -18,6 +18,6 @@ WAIT Lou Reed — Perfect Day | last aired 2026-10-23 15:20 | normal pick from 2
 OK   Louis Clark — Teo Torriatte (Let Us Cling Together) | last aired 2026-10-13 10:39 | normal pick now | request now
 OK   Lovage — Anger Management (Instrumental) | last aired 2026-09-25 16:39 | normal pick now | request now
 WAIT Love and Rockets — Haunted When the Minutes Drag | last aired 2026-10-23 11:33 | normal pick from 2026-10-24 23:33 | request from 2026-10-24 07:33
-OK   Love and Rockets — Saudade | last aired 2026-10-14 10:46 | normal pick now | request now
+WAIT Love and Rockets — Saudade | last aired 2026-10-23 16:37 | normal pick from 2026-10-25 04:37 | request from 2026-10-24 12:37
 OK   Love and Rockets — So Alive | last aired 2026-10-19 22:53 | normal pick now | request now
 OK   Loverboy — Lovin' Every Minute of It | last aired 2026-10-15 23:40 | normal pick now | request now
