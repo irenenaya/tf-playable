@@ -1,4 +1,4 @@
-Track status, song titles filed under 0-9 (built Thu Oct 22, 5:05 PM PDT (00:05 UTC Fri)). Times in UTC.
+Track status, song titles filed under 0-9 (built Thu Oct 22, 6:05 PM PDT (01:05 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   00:00 — Siddhartha | last aired 2026-10-18 14:39 | normal pick now | request now
@@ -16,7 +16,7 @@ OK   360 — Charli XCX | last aired 2026-10-12 20:50 | normal pick now | reques
 OK   4:00 A.M. — Taeko Onuki | last aired 2026-10-08 15:07 | normal pick now | request now
 OK   5 Tudor Portraits: No. 5, Scherzo. Jolly Rutterkin — Sir David Willcocks | last aired 2026-10-17 13:40 | normal pick now | request now
 OK   5.17 — Thom Yorke | last aired 2026-10-18 11:34 | normal pick now | request now
-WAIT 505 — Arctic Monkeys | last aired 2026-10-21 12:28 | normal pick from 2026-10-23 00:28 | request now
+OK   505 — Arctic Monkeys | last aired 2026-10-21 12:28 | normal pick now | request now
 OK   52 CHICKEN NUGGET (McRave) — Beats by Luca | last aired 2026-10-18 11:09 | normal pick now | request now
 OK   6 Underground — Sneaker Pimps | last aired 2026-10-16 08:46 | normal pick now | request now
 WAIT 7 Seconds (Album Version) — Youssou N'Dour featuring Neneh Cherry | last aired 2026-10-22 08:15 | normal pick from 2026-10-24 08:15 | request from 2026-10-24 08:15

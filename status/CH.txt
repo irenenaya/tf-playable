@@ -1,11 +1,11 @@
-Track status, artists filed under CH (built Thu Oct 22, 5:05 PM PDT (00:05 UTC Fri)). Times in UTC.
+Track status, artists filed under CH (built Thu Oct 22, 6:05 PM PDT (01:05 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Chaka Khan — What Cha' Gonna Do for Me | last aired 2026-10-19 11:11 | normal pick now | request now
 OK   Chappell Roan — Good Luck, Babe! | last aired 2026-10-18 04:44 | normal pick now | request now
 OK   Chappell Roan — HOT TO GO! | last aired 2026-10-12 17:42 | normal pick now | request now
 OK   Chappell Roan — Pink Pony Club | last aired 2026-10-18 10:54 | normal pick now | request now
-OK   Charles Lloyd & The Marvels — You Are So Beautiful | last aired 2026-10-18 20:05 | normal pick now | request now
+WAIT Charles Lloyd & The Marvels — You Are So Beautiful | last aired 2026-10-23 00:54 | normal pick from 2026-10-24 12:54 | request from 2026-10-23 20:54
 OK   Charles Lloyd — You Are So Beautiful | last aired 2026-10-17 11:36 | normal pick now | request now
 OK   Charles Mingus — Goodbye Pork Pie Hat (Album Version) | last aired 2026-10-16 17:37 | normal pick now | request now
 OK   Charles Mingus — Medley: Mode D - Trio And Group Dancers / Mode E - Single Solos And Group Dance / Mode F - Group And Solo Dance (Album Version) | last aired 2026-09-28 07:39 | normal pick now | request now
@@ -17,7 +17,7 @@ WAIT Chavela Vargas — La llorona | last aired 2026-10-22 13:50 | normal pick f
 OK   Chet Atkins — Why Worry (Album Version) | last aired 2026-10-20 06:22 | normal pick now | request now
 OK   Chet Baker — Almost Blue | last aired 2026-10-21 09:34 | normal pick now | request now
 WAIT Chet Baker — My Funny Valentine | last aired 2026-10-22 06:38 | normal pick from 2026-10-24 06:38 | request from 2026-10-24 06:38
-OK   Chet Baker — You Don't Know What Love Is | last aired 2026-10-19 20:39 | normal pick now | request now
+WAIT Chet Baker — You Don't Know What Love Is | last aired 2026-10-23 01:01 | normal pick from 2026-10-24 13:01 | request from 2026-10-23 21:01
 WAIT Chic — Good Times  (2018 Remaster) | last aired 2026-10-21 20:09 | normal pick from 2026-10-23 08:09 | request now
 OK   Chicago — Hard to Say I'M Sorry / Get Away | last aired 2026-10-15 23:20 | normal pick now | request now
 WAIT Chico Buarque — Construção | last aired 2026-10-22 13:29 | normal pick from 2026-10-24 13:29 | request from 2026-10-24 13:29
