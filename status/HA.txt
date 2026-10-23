@@ -1,4 +1,4 @@
-Track status, artists filed under HA (built Fri Oct 23, 12:05 PM PDT (19:05 UTC)). Times in UTC.
+Track status, artists filed under HA (built Fri Oct 23, 1:05 PM PDT (20:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Haddaway — What Is Love (7" Mix) (Remastered 2025) (7" Mix / Remastered 2025) | last aired 2026-10-12 04:18 | normal pick now | request now
@@ -21,7 +21,7 @@ OK   Hariprasad Chaurasia — Bhupali | last aired 2026-10-16 08:02 | normal pic
 OK   Harold Budd — A Stream With Bright Fish (2005 Digital Remaster) | last aired 2026-10-21 06:48 | normal pick now | request now
 WAIT Harold Budd — Lost In The Humming Air (2005 Digital Remaster) | last aired 2026-10-23 00:28 | normal pick from 2026-10-24 12:28 | request from 2026-10-23 20:28
 OK   Harris Jayaraj — Adiyae Kolluthey (From "Vaaranam Aayiram") | last aired 2026-10-16 11:25 | normal pick now | request now
-OK   Harry Styles — As It Was | last aired 2026-10-15 17:33 | normal pick now | request now
+WAIT Harry Styles — As It Was | last aired 2026-10-23 19:03 | normal pick from 2026-10-25 07:03 | request from 2026-10-24 15:03
 OK   Harry Styles — Watermelon Sugar | last aired 2026-10-19 09:27 | normal pick now | request now
 OK   Haute & Freddy — Dance The Pain Away | last aired 2026-10-14 14:01 | normal pick now | request now
 OK   Haute & Freddy — Shy Girl | last aired 2026-10-16 18:08 | normal pick now | request now

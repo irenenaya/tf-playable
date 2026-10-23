@@ -1,9 +1,9 @@
-Track status, artists filed under BA (built Fri Oct 23, 12:05 PM PDT (19:05 UTC)). Times in UTC.
+Track status, artists filed under BA (built Fri Oct 23, 1:05 PM PDT (20:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Baby Face Willette — At Last | last aired 2026-09-26 09:07 | normal pick now | request now
 OK   Bachman-Turner Overdrive — Takin' Care Of Business | last aired 2026-10-14 15:05 | normal pick now | request now
-OK   Backstreet Boys — I Want It That Way | last aired 2026-10-18 16:13 | normal pick now | request now
+WAIT Backstreet Boys — I Want It That Way | last aired 2026-10-23 19:17 | normal pick from 2026-10-25 07:17 | request from 2026-10-24 15:17
 OK   Backyard Babies — Minus Celsius | last aired 2026-10-13 17:32 | normal pick now | request now
 WAIT Bad Religion — 21st Century (Digital Boy) | last aired 2026-10-23 11:06 | normal pick from 2026-10-24 23:06 | request from 2026-10-24 07:06
 OK   Ballaké Sissoko — Regret - À Kader Barry | last aired 2026-10-20 17:20 | normal pick now | request now
