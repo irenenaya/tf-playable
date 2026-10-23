@@ -1,9 +1,9 @@
-Track status, artists filed under TH (built Thu Oct 22, 9:05 PM PDT (04:05 UTC Fri)). Times in UTC.
+Track status, artists filed under TH (built Thu Oct 22, 10:05 PM PDT (05:05 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Thee Sacred Souls — Live For You | last aired 2026-10-20 08:54 | normal pick now | request now
 OK   Thelonious Monk — 'Round Midnight (Remastered 2013) | last aired 2026-10-01 19:01 | normal pick now | request now
-OK   Thievery Corporation — Facing East | last aired 2026-10-19 09:10 | normal pick now | request now
+WAIT Thievery Corporation — Facing East | last aired 2026-10-23 04:23 | normal pick from 2026-10-24 16:23 | request from 2026-10-24 00:23
 WAIT Thievery Corporation — Le Coeur | last aired 2026-10-22 00:07 | normal pick from 2026-10-24 00:07 | request from 2026-10-24 00:07
 WAIT Thievery Corporation — Lebanese Blonde | last aired 2026-10-22 07:23 | normal pick from 2026-10-23 19:23 | request now
 WAIT Thievery Corporation — Omid | last aired 2026-10-22 03:01 | normal pick from 2026-10-23 15:01 | request now
