@@ -1,7 +1,7 @@
-Track status, artists filed under SA (built Fri Oct 23, 3:05 AM PDT (10:05 UTC)). Times in UTC.
+Track status, artists filed under SA (built Fri Oct 23, 4:05 AM PDT (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Sabaton — The Last Stand | last aired 2026-10-20 19:44 | normal pick now | request now
+WAIT Sabaton — The Last Stand | last aired 2026-10-23 10:26 | normal pick from 2026-10-24 22:26 | request from 2026-10-24 06:26
 OK   Sabrina Carpenter — Espresso | last aired 2026-10-18 05:19 | normal pick now | request now
 OK   Sabrina Carpenter — Please Please Please | last aired 2026-10-20 22:41 | normal pick now | request now
 OK   Sabrina Carpenter — Taste | last aired 2026-10-19 09:48 | normal pick now | request now

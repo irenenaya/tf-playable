@@ -1,4 +1,4 @@
-Track status, artists filed under MA (built Fri Oct 23, 3:05 AM PDT (10:05 UTC)). Times in UTC.
+Track status, artists filed under MA (built Fri Oct 23, 4:05 AM PDT (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   M/A/R/R/S — Pump Up The Volume (UK 12" Remix) | last aired 2026-10-21 03:08 | normal pick now | request now
@@ -30,7 +30,7 @@ OK   Mark Hollis — A Life (1895 - 1915) | last aired 2026-10-14 13:52 | normal
 OK   Mark Hollis — The Colour Of Spring | last aired 2026-10-12 00:21 | normal pick now | request now
 OK   Mark Knopfler — The Long Road | last aired 2026-10-19 00:53 | normal pick now | request now
 OK   marshall4 — i get gender envy from shadow the hedgehog | last aired 2026-10-18 03:54 | normal pick now | request now
-OK   Martha And The Muffins — Echo Beach | last aired 2026-10-20 17:42 | normal pick now | request now
+WAIT Martha And The Muffins — Echo Beach | last aired 2026-10-23 10:22 | normal pick from 2026-10-24 22:22 | request from 2026-10-24 06:22
 OK   Martin Ditcham — Maureen | last aired 2026-08-18 22:36 | normal pick now | request now
 OK   Martin Garrix — Carry You | last aired 2026-10-16 03:48 | normal pick now | request now
 OK   Martina McBride — Independence Day | last aired 2026-10-15 02:26 | normal pick now | request now
@@ -70,5 +70,5 @@ OK   The Magnetic Fields — All My Little Words | last aired 2026-10-18 13:10 |
 OK   The Magnetic Fields — Born on a Train | last aired 2026-10-21 01:30 | normal pick now | request now
 OK   The Magnetic Fields — Papa Was a Rodeo | last aired 2026-10-17 01:13 | normal pick now | request now
 OK   The Magnetic Fields — The Book of Love | last aired 2026-10-20 14:25 | normal pick now | request now
-WAIT The Mamas & The Papas — California Dreamin' (Single Version) | last aired 2026-10-22 14:06 | normal pick from 2026-10-24 02:06 | request from 2026-10-23 10:06
+WAIT The Mamas & The Papas — California Dreamin' (Single Version) | last aired 2026-10-22 14:06 | normal pick from 2026-10-24 02:06 | request now
 OK   The Marías — Cariño | last aired 2026-10-20 14:55 | normal pick now | request now
