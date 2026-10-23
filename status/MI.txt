@@ -1,4 +1,4 @@
-Track status, artists filed under MI (built Fri Oct 23, 1:05 PM PDT (20:05 UTC)). Times in UTC.
+Track status, artists filed under MI (built Fri Oct 23, 2:05 PM PDT (21:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Mica Levi — Love | last aired 2026-10-07 05:28 | normal pick now | request now
@@ -7,7 +7,7 @@ OK   Michael Bublé — Crazy (with Jon Batiste & Stay Human)  (Live) | last air
 OK   Michael Damian — Rock On | last aired 2026-10-18 16:00 | normal pick now | request now
 OK   Michael Hedges — Aerial Boundaries | last aired 2026-10-17 10:32 | normal pick now | request now
 OK   Michael Hutchence — Slide Away | last aired 2026-10-15 18:40 | normal pick now | request now
-WAIT Michael Jackson — Jam | last aired 2026-10-23 19:43 | normal pick from 2026-10-25 07:43 | request from 2026-10-24 15:43
+WAIT Michael Jackson — Jam | last aired 2026-10-23 19:44 | normal pick from 2026-10-25 07:44 | request from 2026-10-24 15:44
 OK   Michael Jackson — Morphine (Album Version) | last aired 2026-10-13 15:32 | normal pick now | request now
 WAIT Michael Jackson — Rock with You (Single Version) | last aired 2026-10-23 09:29 | normal pick from 2026-10-24 21:29 | request from 2026-10-24 05:29
 OK   Michael Jackson — Stranger in Moscow | last aired 2026-10-14 13:09 | normal pick now | request now
@@ -22,7 +22,7 @@ WAIT Mikis Theodorakis — Zorba the Greek:  Zorba's Dance | last aired 2026-10-
 OK   Miles Davis — Blue in Green | last aired 2026-10-22 05:37 | normal pick now | request now
 WAIT Miles Davis — Flamenco Sketches | last aired 2026-10-22 12:31 | normal pick from 2026-10-24 00:31 | request now
 WAIT Miles Davis — So What | last aired 2026-10-23 12:46 | normal pick from 2026-10-25 00:46 | request from 2026-10-24 08:46
-WAIT Miley Cyrus — Flowers | last aired 2026-10-23 19:33 | normal pick from 2026-10-25 07:33 | request from 2026-10-24 15:33
+WAIT Miley Cyrus — Flowers | last aired 2026-10-23 19:34 | normal pick from 2026-10-25 07:34 | request from 2026-10-24 15:34
 OK   Miley Cyrus — Party In The U.S.A. | last aired 2026-10-18 10:36 | normal pick now | request now
 OK   Milt Jackson — Bag's New Groove | last aired 2026-10-17 08:40 | normal pick now | request now
 WAIT Milton Nascimento — Bridges (Travessia) | last aired 2026-10-22 13:46 | normal pick from 2026-10-24 13:46 | request from 2026-10-24 13:46

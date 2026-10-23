@@ -1,11 +1,11 @@
-Track status, artists filed under LO (built Fri Oct 23, 1:05 PM PDT (20:05 UTC)). Times in UTC.
+Track status, artists filed under LO (built Fri Oct 23, 2:05 PM PDT (21:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Lofi Fruits Music — Plastic Love | last aired 2026-10-18 17:57 | normal pick now | request now
 OK   Lofi Lia — Tell Your World (From "Hatsune Miku")  (Lofi Remix) | last aired 2026-10-18 03:26 | normal pick now | request now
 OK   London Symphony Orchestra — Duel of the Fates | last aired 2026-10-13 11:06 | normal pick now | request now
 OK   LoneGray — Tell Your World | last aired 2026-10-15 15:43 | normal pick now | request now
-OK   Lord Huron — Life Is Strange | last aired 2026-10-21 10:36 | normal pick now | request now
+WAIT Lord Huron — Life Is Strange | last aired 2026-10-23 20:58 | normal pick from 2026-10-25 20:58 | request from 2026-10-25 20:58
 OK   Lordi — Hard Rock Hallelujah | last aired 2026-10-15 13:50 | normal pick now | request now
 WAIT Loreen — Euphoria | last aired 2026-10-23 10:31 | normal pick from 2026-10-24 22:31 | request from 2026-10-24 06:31
 OK   Loreena McKennitt — The Holly and the Ivy  (Live) | last aired 2026-10-19 19:02 | normal pick now | request now
@@ -18,6 +18,6 @@ WAIT Lou Reed — Perfect Day | last aired 2026-10-23 15:20 | normal pick from 2
 OK   Louis Clark — Teo Torriatte (Let Us Cling Together) | last aired 2026-10-13 10:39 | normal pick now | request now
 OK   Lovage — Anger Management (Instrumental) | last aired 2026-09-25 16:39 | normal pick now | request now
 WAIT Love and Rockets — Haunted When the Minutes Drag | last aired 2026-10-23 11:33 | normal pick from 2026-10-24 23:33 | request from 2026-10-24 07:33
-WAIT Love and Rockets — Saudade | last aired 2026-10-23 16:37 | normal pick from 2026-10-25 04:37 | request from 2026-10-24 12:37
+WAIT Love and Rockets — Saudade | last aired 2026-10-23 16:38 | normal pick from 2026-10-25 04:38 | request from 2026-10-24 12:38
 OK   Love and Rockets — So Alive | last aired 2026-10-19 22:53 | normal pick now | request now
 OK   Loverboy — Lovin' Every Minute of It | last aired 2026-10-15 23:40 | normal pick now | request now

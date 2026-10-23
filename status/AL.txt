@@ -1,4 +1,4 @@
-Track status, artists filed under AL (built Fri Oct 23, 1:05 PM PDT (20:05 UTC)). Times in UTC.
+Track status, artists filed under AL (built Fri Oct 23, 2:05 PM PDT (21:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Al Di Meola — Double Concerto | last aired 2026-10-13 18:27 | normal pick now | request now
@@ -31,5 +31,5 @@ OK   Alison Krauss — Down To The River To Pray (Live) | last aired 2026-10-21 
 OK   Almendra — Plegaria para un Niño Dormido | last aired 2026-10-17 11:03 | normal pick now | request now
 OK   Alvin Lucier — I Am Sitting in a Room | last aired 2026-10-21 05:59 | normal pick now | request now
 WAIT Alvvays — Belinda Says | last aired 2026-10-23 12:00 | normal pick from 2026-10-25 12:00 | request from 2026-10-25 12:00
-WAIT Alèmayèhu Eshèté — Tashamanaletch | last aired 2026-10-22 08:46 | normal pick from 2026-10-23 20:46 | request now
+OK   Alèmayèhu Eshèté — Tashamanaletch | last aired 2026-10-22 08:46 | normal pick now | request now
 OK   The Altons — When You Go (That's When You'll Know) | last aired 2026-10-14 16:51 | normal pick now | request now

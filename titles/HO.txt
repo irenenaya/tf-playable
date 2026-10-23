@@ -1,4 +1,4 @@
-Track status, song titles filed under HO (built Fri Oct 23, 1:05 PM PDT (20:05 UTC)). Times in UTC.
+Track status, song titles filed under HO (built Fri Oct 23, 2:05 PM PDT (21:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Holding — Grouper | last aired 2026-10-23 02:08 | normal pick from 2026-10-24 14:08 | request from 2026-10-23 22:08
@@ -11,7 +11,7 @@ WAIT Home At Last — Steely Dan | last aired 2026-10-23 08:47 | normal pick fro
 OK   Honesty (Album Version) — Billy Joel | last aired 2026-10-22 04:15 | normal pick now | request now
 WAIT Honey Bones — Dope Lemon | last aired 2026-10-23 03:29 | normal pick from 2026-10-25 03:29 | request from 2026-10-25 03:29
 OK   Hong Kong — Gorillaz | last aired 2026-10-22 03:44 | normal pick now | request now
-WAIT Hopopono — GoGo Penguin | last aired 2026-10-23 17:31 | normal pick from 2026-10-25 05:31 | request from 2026-10-24 13:31
+WAIT Hopopono — GoGo Penguin | last aired 2026-10-23 17:32 | normal pick from 2026-10-25 05:32 | request from 2026-10-24 13:32
 OK   Hoppípolla — Sigur Rós | last aired 2026-10-21 18:09 | normal pick now | request now
 OK   HOT TO GO! — Chappell Roan | last aired 2026-10-12 17:42 | normal pick now | request now
 OK   Hotel California  (2013 Remaster) — Eagles | last aired 2026-10-18 10:29 | normal pick now | request now

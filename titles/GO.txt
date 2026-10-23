@@ -1,29 +1,29 @@
-Track status, song titles filed under GO (built Fri Oct 23, 1:05 PM PDT (20:05 UTC)). Times in UTC.
+Track status, song titles filed under GO (built Fri Oct 23, 2:05 PM PDT (21:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Go Home — Stevie Wonder | last aired 2026-10-23 08:53 | normal pick from 2026-10-24 20:53 | request from 2026-10-24 04:53
 OK   Go Your Own Way  (2004 Remaster) — Fleetwood Mac | last aired 2026-10-21 12:24 | normal pick now | request now
 OK   God Only Knows (Stereo) — The Beach Boys | last aired 2026-10-22 04:24 | normal pick now | request now
-WAIT GODDESS — Fireboy DML | last aired 2026-10-22 09:04 | normal pick from 2026-10-23 21:04 | request now
+OK   GODDESS — Fireboy DML | last aired 2026-10-22 09:04 | normal pick now | request now
 WAIT Gogol — Gonzales | last aired 2026-10-22 21:27 | normal pick from 2026-10-24 09:27 | request now
 OK   Going Down — Freddie King | last aired 2026-10-19 20:59 | normal pick now | request now
 WAIT Going to California  (Remaster) — Led Zeppelin | last aired 2026-10-22 23:16 | normal pick from 2026-10-24 23:16 | request from 2026-10-24 23:16
-OK   Gold (2003 Remaster) — Spandau Ballet | last aired 2026-10-20 20:12 | normal pick now | request now
+WAIT Gold (2003 Remaster) — Spandau Ballet | last aired 2026-10-23 20:33 | normal pick from 2026-10-25 08:33 | request from 2026-10-24 16:33
 OK   Golden Air — Sun's Signature | last aired 2026-10-21 02:13 | normal pick now | request now
 OK   golden hour — Jvke | last aired 2026-10-09 19:51 | normal pick now | request now
 WAIT Golden — Jill Scott | last aired 2026-10-22 17:56 | normal pick from 2026-10-24 17:56 | request from 2026-10-24 17:56
 OK   Golden Lady — Stevie Wonder | last aired 2026-10-22 04:19 | normal pick now | request now
 OK   Golden Slumbers (Remastered) — The Beatles | last aired 2026-10-09 11:31 | normal pick now | request now
 OK   Good Luck, Babe! — Chappell Roan | last aired 2026-10-18 04:44 | normal pick now | request now
-OK   Good Times  (2018 Remaster) — Chic | last aired 2026-10-21 20:09 | normal pick now | request now
+WAIT Good Times  (2018 Remaster) — Chic | last aired 2026-10-23 20:25 | normal pick from 2026-10-25 08:25 | request from 2026-10-24 16:25
 WAIT Good Vibrations (Stereo/Remastered 2012) — The Beach Boys | last aired 2026-10-23 07:28 | normal pick from 2026-10-24 19:28 | request from 2026-10-24 03:28
 OK   Goodbye (Live) — toe | last aired 2026-10-16 23:23 | normal pick now | request now
 OK   Goodbye Horses - Single — Q Lazzarus | last aired 2026-10-18 15:01 | normal pick now | request now
-WAIT Goodbye Pork Pie Hat (Album Version) — Charles Mingus | last aired 2026-10-23 17:35 | normal pick from 2026-10-25 05:35 | request from 2026-10-24 13:35
+WAIT Goodbye Pork Pie Hat (Album Version) — Charles Mingus | last aired 2026-10-23 17:36 | normal pick from 2026-10-25 05:36 | request from 2026-10-24 13:36
 OK   Goodnight Ladies — Lou Reed | last aired 2026-10-20 20:37 | normal pick now | request now
 OK   Goodnight Tonight (Single Version) — Wings | last aired 2026-10-04 20:19 | normal pick now | request now
-WAIT Gorecki — Lamb | last aired 2026-10-23 00:13 | normal pick from 2026-10-24 12:13 | request from 2026-10-23 20:13
-WAIT Gorilla — Bruno Mars | last aired 2026-10-23 18:54 | normal pick from 2026-10-25 06:54 | request from 2026-10-24 14:54
+WAIT Gorecki — Lamb | last aired 2026-10-23 00:13 | normal pick from 2026-10-24 12:13 | request now
+WAIT Gorilla — Bruno Mars | last aired 2026-10-23 18:55 | normal pick from 2026-10-25 06:55 | request from 2026-10-24 14:55
 OK   Gosh — Jamie xx | last aired 2026-10-21 23:55 | normal pick now | request now
 WAIT Gotta Go Home — Boney M. | last aired 2026-10-23 08:43 | normal pick from 2026-10-24 20:43 | request from 2026-10-24 04:43
 WAIT Gotta Have You — The Weepies | last aired 2026-10-22 15:28 | normal pick from 2026-10-24 15:28 | request from 2026-10-24 15:28
