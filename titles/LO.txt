@@ -1,7 +1,7 @@
-Track status, song titles filed under LO (built Thu Oct 22, 6:05 PM PDT (01:05 UTC Fri)). Times in UTC.
+Track status, song titles filed under LO (built Thu Oct 22, 7:05 PM PDT (02:05 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   L-O-V-E — Nat King Cole | last aired 2026-10-19 18:45 | normal pick now | request now
+WAIT L-O-V-E — Nat King Cole | last aired 2026-10-23 01:13 | normal pick from 2026-10-24 13:13 | request from 2026-10-23 21:13
 OK   Lo Vas A Olvidar — Billie Eilish | last aired 2026-10-16 03:23 | normal pick now | request now
 OK   Locos — Leon Larregui | last aired 2026-10-16 04:55 | normal pick now | request now
 OK   Logic — Euology | last aired 2026-10-09 09:21 | normal pick now | request now
