@@ -1,4 +1,4 @@
-Track status, song titles filed under AL (built Fri Oct 23, 10:05 AM PDT (17:05 UTC)). Times in UTC.
+Track status, song titles filed under AL (built Fri Oct 23, 11:05 AM PDT (18:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   A Life (1895 - 1915) — Mark Hollis | last aired 2026-10-14 13:52 | normal pick now | request now
@@ -24,5 +24,5 @@ WAIT Almost Blue — Chet Baker | last aired 2026-10-23 14:59 | normal pick from
 OK   Almost Blue — Elvis Costello | last aired 2026-10-17 12:10 | normal pick now | request now
 OK   Almost Gothic (Album Version) — Steely Dan | last aired 2026-10-16 20:51 | normal pick now | request now
 OK   Alright — Kendrick Lamar | last aired 2026-10-07 23:41 | normal pick now | request now
-OK   Always something — Jazz Liberatorz | last aired 2026-10-17 13:44 | normal pick now | request now
+WAIT Always something — Jazz Liberatorz | last aired 2026-10-23 17:45 | normal pick from 2026-10-25 05:45 | request from 2026-10-24 13:45
 OK   Always with Me — Tomohisa Okudo | last aired 2026-10-16 08:18 | normal pick now | request now

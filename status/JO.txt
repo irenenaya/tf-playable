@@ -1,11 +1,11 @@
-Track status, artists filed under JO (built Fri Oct 23, 10:05 AM PDT (17:05 UTC)). Times in UTC.
+Track status, artists filed under JO (built Fri Oct 23, 11:05 AM PDT (18:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-10-23 11:03 | normal pick from 2026-10-25 11:03 | request from 2026-10-25 11:03
 OK   Jockstrap — Concrete Over Water | last aired 2026-10-15 18:09 | normal pick now | request now
 OK   Joe Cocker — With A Little Help From My Friends | last aired 2026-10-21 01:00 | normal pick now | request now
-WAIT Joe Hisaishi — A Town with an Ocean View (from 'Kiki's Delivery Service') | last aired 2026-10-22 05:12 | normal pick from 2026-10-23 17:12 | request now
-WAIT Joe Hisaishi — a Wish to the Moon | last aired 2026-10-22 21:55 | normal pick from 2026-10-24 09:55 | request from 2026-10-23 17:55
+OK   Joe Hisaishi — A Town with an Ocean View (from 'Kiki's Delivery Service') | last aired 2026-10-22 05:12 | normal pick now | request now
+WAIT Joe Hisaishi — a Wish to the Moon | last aired 2026-10-22 21:55 | normal pick from 2026-10-24 09:55 | request now
 OK   Joe Hisaishi — Asian Dream Song | last aired 2026-10-15 07:24 | normal pick now | request now
 OK   Joe Hisaishi — Deep Sea Pastures (from 'Ponyo on the Cliff by the Sea') | last aired 2026-10-17 06:55 | normal pick now | request now
 OK   Joe Hisaishi — Departures (from 'Departures') | last aired 2026-10-21 14:26 | normal pick now | request now

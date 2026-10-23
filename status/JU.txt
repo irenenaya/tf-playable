@@ -1,8 +1,8 @@
-Track status, artists filed under JU (built Fri Oct 23, 10:05 AM PDT (17:05 UTC)). Times in UTC.
+Track status, artists filed under JU (built Fri Oct 23, 11:05 AM PDT (18:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Judas Priest — Breaking the Law | last aired 2026-10-17 04:45 | normal pick now | request now
-WAIT Judy Collins — Bread and Roses | last aired 2026-10-22 05:53 | normal pick from 2026-10-23 17:53 | request now
+OK   Judy Collins — Bread and Roses | last aired 2026-10-22 05:53 | normal pick now | request now
 OK   Juli — Perfekte Welle | last aired 2026-10-21 01:55 | normal pick now | request now
 OK   Julian Lage — Emily | last aired 2026-10-16 14:53 | normal pick now | request now
 WAIT Julie London — Cry Me A River | last aired 2026-10-23 01:06 | normal pick from 2026-10-24 13:06 | request from 2026-10-23 21:06
@@ -12,5 +12,5 @@ WAIT Jungle — Busy Earnin' | last aired 2026-10-23 09:09 | normal pick from 20
 OK   Jungle — Keep Moving | last aired 2026-10-21 09:28 | normal pick now | request now
 OK   Junior H — Ella | last aired 2026-10-14 15:46 | normal pick now | request now
 OK   Junkie XL — Brothers In Arms | last aired 2026-10-13 02:18 | normal pick now | request now
-WAIT Justice — D.A.N.C.E. | last aired 2026-10-21 17:44 | normal pick from 2026-10-23 17:44 | request from 2026-10-23 17:44
+OK   Justice — D.A.N.C.E. | last aired 2026-10-21 17:44 | normal pick now | request now
 OK   The Judds — Grandpa (Tell Me 'Bout The Good Old Days) | last aired 2026-10-18 00:46 | normal pick now | request now
