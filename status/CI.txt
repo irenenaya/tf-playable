@@ -1,10 +1,10 @@
-Track status, artists filed under CI (built Thu Oct 22, 7:05 PM PDT (02:05 UTC Fri)). Times in UTC.
+Track status, artists filed under CI (built Thu Oct 22, 8:05 PM PDT (03:05 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Cibo Matto — Sugar Water (Album Version) | last aired 2026-10-15 20:20 | normal pick now | request now
 WAIT Cigarettes After Sex — Apocalypse | last aired 2026-10-21 08:01 | normal pick from 2026-10-23 08:01 | request from 2026-10-23 08:01
 WAIT Cigarettes After Sex — Nothing's Gonna Hurt You Baby | last aired 2026-10-22 08:59 | normal pick from 2026-10-23 20:59 | request from 2026-10-23 04:59
 OK   City — Am Fenster | last aired 2026-10-13 09:41 | normal pick now | request now
-WAIT The Cinematic Orchestra — To Build A Home | last aired 2026-10-22 07:03 | normal pick from 2026-10-23 19:03 | request from 2026-10-23 03:03
+WAIT The Cinematic Orchestra — To Build A Home | last aired 2026-10-22 07:03 | normal pick from 2026-10-23 19:03 | request now
 WAIT The Civil Wars — Poison & Wine | last aired 2026-10-22 06:44 | normal pick from 2026-10-24 06:44 | request from 2026-10-24 06:44
 OK   The Civil Wars — The One That Got Away | last aired 2026-10-17 16:03 | normal pick now | request now

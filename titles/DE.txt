@@ -1,4 +1,4 @@
-Track status, song titles filed under DE (built Thu Oct 22, 7:05 PM PDT (02:05 UTC Fri)). Times in UTC.
+Track status, song titles filed under DE (built Thu Oct 22, 8:05 PM PDT (03:05 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   De Música Ligera (Remasterizado 2007) — Soda Stereo | last aired 2026-10-20 18:37 | normal pick now | request now
@@ -11,7 +11,7 @@ OK   Dein Lied — Laith Al-Deen | last aired 2026-10-18 10:25 | normal pick now
 OK   Demoliendo Hoteles (Live) — Charly García | last aired 2026-10-21 13:29 | normal pick now | request now
 OK   Demons Are a Girl's Best Friend — Powerwolf | last aired 2026-10-13 14:01 | normal pick now | request now
 OK   Denkmal — Wir Sind Helden | last aired 2026-10-18 20:33 | normal pick now | request now
-WAIT Departures (from 'Departures') — Joe Hisaishi | last aired 2026-10-21 14:26 | normal pick from 2026-10-23 02:26 | request now
+OK   Departures (from 'Departures') — Joe Hisaishi | last aired 2026-10-21 14:26 | normal pick now | request now
 OK   Desert Rose (Album Version) — Sting | last aired 2026-10-17 02:46 | normal pick now | request now
 OK   Desolate July — Sons Of Apollo | last aired 2026-09-25 16:24 | normal pick now | request now
 WAIT Despacito — Luis Fonsi | last aired 2026-10-22 13:36 | normal pick from 2026-10-24 01:36 | request from 2026-10-23 09:36
@@ -20,4 +20,4 @@ OK   Desperados III Main Theme — Filippo Beck Peccoz | last aired 2026-10-21 0
 OK   Deutschland — Rammstein | last aired 2026-10-20 19:53 | normal pick now | request now
 OK   Deux mélodies hébraïques, M. A22 - Ravel: Deux mélodies hébraïques, M. A22: I. Kaddisch (Transcr. by Richard Tognetti for Cello and Orchestra ) — Camille Thomas | last aired 2026-10-18 18:47 | normal pick now | request now
 OK   Devil In A New Dress (Album Version (Explicit)) — Kanye West | last aired 2026-10-21 03:26 | normal pick now | request now
-OK   Devils Haircut — Beck | last aired 2026-10-18 09:11 | normal pick now | request now
+WAIT Devils Haircut — Beck | last aired 2026-10-23 03:00 | normal pick from 2026-10-24 15:00 | request from 2026-10-23 23:00
