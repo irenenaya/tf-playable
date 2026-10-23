@@ -1,4 +1,4 @@
-Track status, song titles filed under MA (built Fri Oct 23, 2:05 PM PDT (21:05 UTC)). Times in UTC.
+Track status, song titles filed under MA (built Fri Oct 23, 3:05 PM PDT (22:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Mad World — Gary Jules | last aired 2026-10-13 20:23 | normal pick now | request now
@@ -18,7 +18,7 @@ OK   Many Too Many (2007 Remaster) — Genesis | last aired 2026-10-21 20:39 | n
 OK   Maria Maria — Santana | last aired 2026-10-21 18:44 | normal pick now | request now
 OK   Married To The Music — SHINee | last aired 2026-10-21 13:25 | normal pick now | request now
 OK   Marunouchi sadistic (Cover) — Mizuki Tomoda | last aired 2026-10-17 14:46 | normal pick now | request now
-OK   Mary — Big Thief | last aired 2026-10-21 08:43 | normal pick now | request now
+WAIT Mary — Big Thief | last aired 2026-10-23 21:03 | normal pick from 2026-10-25 09:03 | request from 2026-10-24 17:03
 WAIT Mas, Que Nada! — Jorge Ben Jor | last aired 2026-10-22 13:05 | normal pick from 2026-10-24 13:05 | request from 2026-10-24 13:05
 OK   Mass Production — Iggy Pop | last aired 2026-10-15 19:52 | normal pick now | request now
 OK   Master Blaster (Jammin') — Stevie Wonder | last aired 2026-10-19 19:32 | normal pick now | request now
