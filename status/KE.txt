@@ -1,4 +1,4 @@
-Track status, artists filed under KE (built Fri Oct 23, 6:05 AM PDT (13:05 UTC)). Times in UTC.
+Track status, artists filed under KE (built Fri Oct 23, 7:05 AM PDT (14:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Ken Thomson And Slow/Fast — We Are Not All in This Together | last aired 2026-09-21 21:29 | normal pick now | request now
@@ -6,7 +6,7 @@ OK   Kendrick Lamar — Alright | last aired 2026-10-07 23:41 | normal pick now 
 OK   Kendrick Lamar — Not Like Us | last aired 2026-10-06 23:17 | normal pick now | request now
 OK   Kenny G — At Last | last aired 2026-08-27 15:01 | normal pick now | request now
 OK   Kenny G — Songbird | last aired 2026-10-11 11:23 | normal pick now | request now
-OK   Kenny Loggins — Danger Zone (From "Top Gun" Original Soundtrack) | last aired 2026-10-17 19:21 | normal pick now | request now
+WAIT Kenny Loggins — Danger Zone (From "Top Gun" Original Soundtrack) | last aired 2026-10-23 13:18 | normal pick from 2026-10-25 01:18 | request from 2026-10-24 09:18
 OK   Kenny Loggins — Footloose (Album Version) | last aired 2026-10-18 12:50 | normal pick now | request now
 OK   Kenny Loggins — Footloose (From "Footloose" Soundtrack) | last aired 2026-10-14 21:27 | normal pick now | request now
 OK   Kenny Loggins — This Is It | last aired 2026-10-20 15:07 | normal pick now | request now

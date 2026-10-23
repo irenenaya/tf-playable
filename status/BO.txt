@@ -1,4 +1,4 @@
-Track status, artists filed under BO (built Fri Oct 23, 6:05 AM PDT (13:05 UTC)). Times in UTC.
+Track status, artists filed under BO (built Fri Oct 23, 7:05 AM PDT (14:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Boards of Canada — Blood In The Labyrinth | last aired 2026-10-21 21:42 | normal pick now | request now
@@ -22,7 +22,7 @@ WAIT Bon Jovi — You Give Love A Bad Name | last aired 2026-10-23 13:00 | norma
 WAIT Boney M. — Gotta Go Home | last aired 2026-10-23 08:43 | normal pick from 2026-10-24 20:43 | request from 2026-10-24 04:43
 OK   Boney M. — Sunny | last aired 2026-10-15 10:19 | normal pick now | request now
 OK   Bonnie Tyler — Holding Out for a Hero (From "Footloose" Soundtrack) | last aired 2026-10-20 20:26 | normal pick now | request now
-OK   Bonnie Tyler — Total Eclipse of the Heart | last aired 2026-10-16 20:22 | normal pick now | request now
+WAIT Bonnie Tyler — Total Eclipse of the Heart | last aired 2026-10-23 13:48 | normal pick from 2026-10-25 01:48 | request from 2026-10-24 09:48
 WAIT Bonobo — Cirrus | last aired 2026-10-23 12:30 | normal pick from 2026-10-25 00:30 | request from 2026-10-24 08:30
 WAIT Bonobo — Kiara | last aired 2026-10-22 00:27 | normal pick from 2026-10-24 00:27 | request from 2026-10-24 00:27
 WAIT Bonobo — Kong | last aired 2026-10-21 21:08 | normal pick from 2026-10-23 21:08 | request from 2026-10-23 21:08
