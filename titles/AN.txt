@@ -1,4 +1,4 @@
-Track status, song titles filed under AN (built Fri Oct 23, 3:05 PM PDT (22:05 UTC)). Times in UTC.
+Track status, song titles filed under AN (built Fri Oct 23, 4:05 PM PDT (23:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   An Ending (Ascent) (Remastered 2019) — Brian Eno | last aired 2026-10-22 00:54 | normal pick now | request now
@@ -17,7 +17,7 @@ OK   Anger Management (Instrumental) — Lovage | last aired 2026-09-25 16:39 | 
 OK   Animal Nitrate — Suede | last aired 2026-10-20 09:01 | normal pick now | request now
 OK   Another Brick in the Wall, Pt. 2 — Pink Floyd | last aired 2026-10-18 12:35 | normal pick now | request now
 OK   Another One Bites The Dust — Queen | last aired 2026-10-18 09:18 | normal pick now | request now
-OK   Answering Machine — The Replacements | last aired 2026-10-16 12:57 | normal pick now | request now
+WAIT Answering Machine — The Replacements | last aired 2026-10-23 22:31 | normal pick from 2026-10-25 10:31 | request from 2026-10-24 18:31
 OK   Anthem for the Year 2000 (Album Version) — Silverchair | last aired 2026-10-18 14:00 | normal pick now | request now
 WAIT Anthem — Leonard Cohen | last aired 2026-10-22 18:12 | normal pick from 2026-10-24 06:12 | request now
 OK   ANTONYMPH — Vylet Pony | last aired 2026-10-18 11:03 | normal pick now | request now
