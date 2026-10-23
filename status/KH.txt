@@ -1,4 +1,4 @@
-Track status, artists filed under KH (built Fri Oct 23, 7:05 AM PDT (14:05 UTC)). Times in UTC.
+Track status, artists filed under KH (built Fri Oct 23, 8:05 AM PDT (15:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Khalid — momentary lovers | last aired 2026-10-19 11:53 | normal pick now | request now
@@ -7,7 +7,7 @@ WAIT Khatia Buniatishvili — Orchestral Suite No. 3 in D Major, BMV 1068 "Air O
 OK   Khruangbin — A Calf Born In Winter | last aired 2026-10-15 05:47 | normal pick now | request now
 WAIT Khruangbin — August 10 | last aired 2026-10-22 06:59 | normal pick from 2026-10-23 18:59 | request now
 OK   Khruangbin — Friday Morning | last aired 2026-10-09 08:35 | normal pick now | request now
-OK   Khruangbin — May Ninth | last aired 2026-10-20 03:44 | normal pick now | request now
+WAIT Khruangbin — May Ninth | last aired 2026-10-23 15:01 | normal pick from 2026-10-25 15:01 | request from 2026-10-25 15:01
 WAIT Khruangbin — People Everywhere ii | last aired 2026-10-22 18:00 | normal pick from 2026-10-24 06:00 | request now
 WAIT Khruangbin — Time (You and I) | last aired 2026-10-22 21:03 | normal pick from 2026-10-24 21:03 | request from 2026-10-24 21:03
 OK   Khruangbin — White Gloves | last aired 2026-10-20 21:05 | normal pick now | request now

@@ -1,14 +1,14 @@
-Track status, song titles filed under PE (built Fri Oct 23, 7:05 AM PDT (14:05 UTC)). Times in UTC.
+Track status, song titles filed under PE (built Fri Oct 23, 8:05 AM PDT (15:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   pe$o$ — Evan Fong | last aired 2026-10-18 03:52 | normal pick now | request now
 OK   Peace — Horace Silver Quintet | last aired 2026-10-17 07:57 | normal pick now | request now
-OK   Peace Piece (Album Version) — Bill Evans | last aired 2026-10-21 09:38 | normal pick now | request now
+WAIT Peace Piece (Album Version) — Bill Evans | last aired 2026-10-23 14:36 | normal pick from 2026-10-25 02:36 | request from 2026-10-24 10:36
 WAIT Peg — Steely Dan | last aired 2026-10-22 09:52 | normal pick from 2026-10-23 21:52 | request now
 OK   Penelope's Song The Odyssey — Celtic Siren Noreen | last aired 2026-10-19 17:28 | normal pick now | request now
 WAIT People Everywhere ii — Khruangbin | last aired 2026-10-22 18:00 | normal pick from 2026-10-24 06:00 | request now
 WAIT People Get Ready (Single Version) — The Impressions | last aired 2026-10-22 15:10 | normal pick from 2026-10-24 15:10 | request from 2026-10-24 15:10
-WAIT People Have the Power — Patti Smith | last aired 2026-10-22 18:19 | normal pick from 2026-10-24 06:19 | request from 2026-10-23 14:19
+WAIT People Have the Power — Patti Smith | last aired 2026-10-22 18:19 | normal pick from 2026-10-24 06:19 | request now
 OK   People Suck [Explicit] — Confetti | last aired 2026-09-06 09:09 | normal pick now | request now
 OK   Perfect Day — Lou Reed | last aired 2026-10-20 20:54 | normal pick now | request now
 OK   Perfect — Ed Sheeran | last aired 2026-10-18 22:00 | normal pick now | request now
