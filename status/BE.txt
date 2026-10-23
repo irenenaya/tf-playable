@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Fri Oct 23, 11:05 AM PDT (18:05 UTC)). Times in UTC.
+Track status, artists filed under BE (built Fri Oct 23, 12:05 PM PDT (19:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Beach House — Bluebird | last aired 2026-10-11 03:23 | normal pick now | request now
@@ -7,11 +7,11 @@ OK   Beastie Boys — Sabotage | last aired 2026-10-19 22:10 | normal pick now |
 OK   Beatrice Rana — Keyboard Concerto No. 1 in D Minor, BWV 1052: I. Allegro | last aired 2026-10-21 04:56 | normal pick now | request now
 OK   Beatrice Rana — Libertango (Arr. Yamamoto for Piano 4-Hands) | last aired 2026-10-21 15:37 | normal pick now | request now
 OK   Beats by Luca — 52 CHICKEN NUGGET (McRave) | last aired 2026-10-18 11:09 | normal pick now | request now
-OK   Bebel Gilberto — Samba Da Benção | last aired 2026-10-21 15:55 | normal pick now | request now
+WAIT Bebel Gilberto — Samba Da Benção | last aired 2026-10-23 18:13 | normal pick from 2026-10-25 18:13 | request from 2026-10-25 18:13
 WAIT Beck — Devils Haircut | last aired 2026-10-23 03:00 | normal pick from 2026-10-25 03:00 | request from 2026-10-25 03:00
 WAIT Beck — Loser | last aired 2026-10-22 03:20 | normal pick from 2026-10-24 03:20 | request from 2026-10-24 03:20
 OK   Beck — The New Pollution | last aired 2026-10-21 22:24 | normal pick now | request now
-WAIT Becky Levi and the Nightjars — Wake Me Up | last aired 2026-10-22 06:23 | normal pick from 2026-10-23 18:23 | request now
+OK   Becky Levi and the Nightjars — Wake Me Up | last aired 2026-10-22 06:23 | normal pick now | request now
 OK   Bee Gees — Night Fever (From "Saturday Night Fever" Soundtrack) | last aired 2026-10-06 16:28 | normal pick now | request now
 OK   Beenie Man — Feel It Boy | last aired 2026-10-16 01:08 | normal pick now | request now
 OK   Belcea Quartet — Quatuor à cordes n° 4, Sz. 91 - String Quartet No. 4 in C Major, Sz. 91: IV. Allegretto pizzicato | last aired 2026-10-16 14:38 | normal pick now | request now

@@ -1,8 +1,8 @@
-Track status, song titles filed under TR (built Fri Oct 23, 11:05 AM PDT (18:05 UTC)). Times in UTC.
+Track status, song titles filed under TR (built Fri Oct 23, 12:05 PM PDT (19:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Track A - Solo Dancer (Stop! Look! And Listen, Sinner Jim Whitney!) (Album Version) — Charles Mingus | last aired 2026-10-20 11:16 | normal pick now | request now
-OK   Training Season — Dua Lipa | last aired 2026-10-17 00:13 | normal pick now | request now
+WAIT Training Season — Dua Lipa | last aired 2026-10-23 18:37 | normal pick from 2026-10-25 06:37 | request from 2026-10-24 14:37
 OK   Trans-Europe Express  (2009 Remaster) — Kraftwerk | last aired 2026-10-21 17:02 | normal pick now | request now
 OK   Treaty — Leonard Cohen | last aired 2026-10-18 21:18 | normal pick now | request now
 OK   Tribute — Tenacious D | last aired 2026-10-20 19:24 | normal pick now | request now
