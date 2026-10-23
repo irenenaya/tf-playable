@@ -1,8 +1,8 @@
-Track status, song titles filed under EV (built Thu Oct 22, 10:05 PM PDT (05:05 UTC Fri)). Times in UTC.
+Track status, song titles filed under EV (built Thu Oct 22, 11:05 PM PDT (06:05 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   (Every Time I Turn Around) Back In Love Again (Album Version) — L.T.D. | last aired 2026-10-14 17:33 | normal pick now | request now
-OK   Even In The Quietest Moments — Supertramp | last aired 2026-10-19 03:00 | normal pick now | request now
+WAIT Even In The Quietest Moments — Supertramp | last aired 2026-10-23 05:03 | normal pick from 2026-10-24 17:03 | request from 2026-10-24 01:03
 OK   Evensong — Solarstone | last aired 2026-10-09 04:49 | normal pick now | request now
 OK   Eventually — P!nk | last aired 2026-10-19 22:46 | normal pick now | request now
 OK   Everlong — Foo Fighters | last aired 2026-10-21 12:11 | normal pick now | request now
