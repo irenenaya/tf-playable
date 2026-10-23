@@ -1,4 +1,4 @@
-Track status, artists filed under AL (built Thu Oct 22, 8:05 PM PDT (03:05 UTC Fri)). Times in UTC.
+Track status, artists filed under AL (built Thu Oct 22, 9:05 PM PDT (04:05 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Al Di Meola — Double Concerto | last aired 2026-10-13 18:27 | normal pick now | request now
@@ -25,9 +25,9 @@ WAIT Alexandre Tharaud — Gnossienne No.1 - Gnossienne: No. 1 | last aired 2026
 OK   Alfa Mist — Organic Rust | last aired 2026-10-16 22:10 | normal pick now | request now
 WAIT Ali Farka Touré — Soukora | last aired 2026-10-22 10:44 | normal pick from 2026-10-24 10:44 | request from 2026-10-24 10:44
 OK   Alice Coltrane — Journey In Satchidananda | last aired 2026-10-18 15:05 | normal pick now | request now
-WAIT Alice In Chains — Man in the Box | last aired 2026-10-22 23:44 | normal pick from 2026-10-24 11:44 | request from 2026-10-23 19:44
+WAIT Alice In Chains — Man in the Box | last aired 2026-10-22 23:45 | normal pick from 2026-10-24 11:45 | request from 2026-10-23 19:45
 OK   Alicia Keys — Fallin' (Album Version) | last aired 2026-10-18 23:00 | normal pick now | request now
-WAIT Alison Krauss — Down To The River To Pray (Live) | last aired 2026-10-21 15:53 | normal pick from 2026-10-23 03:53 | request now
+OK   Alison Krauss — Down To The River To Pray (Live) | last aired 2026-10-21 15:53 | normal pick now | request now
 OK   Almendra — Plegaria para un Niño Dormido | last aired 2026-10-17 11:03 | normal pick now | request now
 OK   Alvin Lucier — I Am Sitting in a Room | last aired 2026-10-21 05:59 | normal pick now | request now
 WAIT Alvvays — Belinda Says | last aired 2026-10-21 09:11 | normal pick from 2026-10-23 09:11 | request from 2026-10-23 09:11
