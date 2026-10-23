@@ -1,15 +1,15 @@
-Track status, song titles filed under SW (built Fri Oct 23, 4:05 AM PDT (11:05 UTC)). Times in UTC.
+Track status, song titles filed under SW (built Fri Oct 23, 5:05 AM PDT (12:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Sweet Caroline — Neil Diamond | last aired 2026-10-14 02:26 | normal pick now | request now
-OK   Sweet Child O' Mine — Guns N' Roses | last aired 2026-10-12 22:04 | normal pick now | request now
+WAIT Sweet Child O' Mine — Guns N' Roses | last aired 2026-10-23 11:20 | normal pick from 2026-10-24 23:20 | request from 2026-10-24 07:20
 WAIT Sweet Dreams (Are Made of This) [2018 Remastered] — Eurythmics, Annie Lennox, Dave Stewart | last aired 2026-10-21 17:49 | normal pick from 2026-10-23 17:49 | request from 2026-10-23 17:49
 OK   Sweet Jane   (Full Length Versio — The Velvet Underground | last aired 2026-09-05 10:40 | normal pick now | request now
 OK   Sweet Jane   (Full Length Version; 2015 Remaster) — The Velvet Underground | last aired 2026-10-20 20:22 | normal pick now | request now
 OK   Sweet Little Mountain Bird — The Ray Charles Singers | last aired 2026-09-18 12:34 | normal pick now | request now
 OK   Sweet Love — Anita Baker | last aired 2026-10-20 08:16 | normal pick now | request now
 OK   Sweet Sounds Of Heaven — The Rolling Stones | last aired 2026-10-17 09:34 | normal pick now | request now
-WAIT Sweet Surrender (Album Version) — Sarah McLachlan | last aired 2026-10-22 15:55 | normal pick from 2026-10-24 03:55 | request from 2026-10-23 11:55
+WAIT Sweet Surrender (Album Version) — Sarah McLachlan | last aired 2026-10-22 15:55 | normal pick from 2026-10-24 03:55 | request now
 OK   Sweet Transvestite — Tim Curry | last aired 2026-10-18 09:29 | normal pick now | request now
 OK   Switched-on Wendy — Luca Di Sabatino | last aired 2026-10-16 07:39 | normal pick now | request now
 OK   The Sweetest Taboo  (Remastered Version) — Sade | last aired 2026-10-21 21:17 | normal pick now | request now
