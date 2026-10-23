@@ -1,13 +1,13 @@
-Track status, artists filed under BE (built Fri Oct 23, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, artists filed under BE (built Fri Oct 23, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Beach House — Bluebird | last aired 2026-10-11 03:23 | normal pick now | request now
 WAIT Beach House — Space Song | last aired 2026-10-21 21:03 | normal pick from 2026-10-23 21:03 | request from 2026-10-23 21:03
 OK   Beastie Boys — Sabotage | last aired 2026-10-19 22:10 | normal pick now | request now
 OK   Beatrice Rana — Keyboard Concerto No. 1 in D Minor, BWV 1052: I. Allegro | last aired 2026-10-21 04:56 | normal pick now | request now
-WAIT Beatrice Rana — Libertango (Arr. Yamamoto for Piano 4-Hands) | last aired 2026-10-21 15:37 | normal pick from 2026-10-23 15:37 | request from 2026-10-23 15:37
+OK   Beatrice Rana — Libertango (Arr. Yamamoto for Piano 4-Hands) | last aired 2026-10-21 15:37 | normal pick now | request now
 OK   Beats by Luca — 52 CHICKEN NUGGET (McRave) | last aired 2026-10-18 11:09 | normal pick now | request now
-WAIT Bebel Gilberto — Samba Da Benção | last aired 2026-10-21 15:55 | normal pick from 2026-10-23 15:55 | request from 2026-10-23 15:55
+OK   Bebel Gilberto — Samba Da Benção | last aired 2026-10-21 15:55 | normal pick now | request now
 WAIT Beck — Devils Haircut | last aired 2026-10-23 03:00 | normal pick from 2026-10-25 03:00 | request from 2026-10-25 03:00
 WAIT Beck — Loser | last aired 2026-10-22 03:20 | normal pick from 2026-10-24 03:20 | request from 2026-10-24 03:20
 OK   Beck — The New Pollution | last aired 2026-10-21 22:24 | normal pick now | request now
@@ -42,8 +42,8 @@ WAIT The Beatles — Girl (Remastered) | last aired 2026-10-22 15:02 | normal pi
 OK   The Beatles — Golden Slumbers (Remastered) | last aired 2026-10-09 11:31 | normal pick now | request now
 OK   The Beatles — Here Comes The Sun (2019 Mix) | last aired 2026-10-14 00:19 | normal pick now | request now
 OK   The Beatles — Lucy In The Sky With Diamonds (Remastered 2009) | last aired 2026-10-09 17:10 | normal pick now | request now
-WAIT The Beatles — Octopus's Garden (Remastered) | last aired 2026-10-22 03:51 | normal pick from 2026-10-23 15:51 | request now
-WAIT The Beatles — Rain (Remastered) | last aired 2026-10-23 11:56 | normal pick from 2026-10-24 23:56 | request from 2026-10-24 07:56
+OK   The Beatles — Octopus's Garden (Remastered) | last aired 2026-10-22 03:51 | normal pick now | request now
+WAIT The Beatles — Rain (Remastered) | last aired 2026-10-23 11:57 | normal pick from 2026-10-24 23:57 | request from 2026-10-24 07:57
 OK   The Beatles — Revolution 9 (Remastered 2009) | last aired 2026-09-14 19:37 | normal pick now | request now
 OK   The Beatles — Strawberry Fields Forever | last aired 2026-10-20 12:40 | normal pick now | request now
 OK   The Beatles — This Boy (Remastered) | last aired 2026-10-18 02:47 | normal pick now | request now

@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Fri Oct 23, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, artists filed under JO (built Fri Oct 23, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-10-23 11:03 | normal pick from 2026-10-25 11:03 | request from 2026-10-25 11:03
@@ -50,10 +50,10 @@ OK   Joni Mitchell — River | last aired 2026-10-13 12:16 | normal pick now | r
 WAIT Jorge Ben Jor — Mas, Que Nada! | last aired 2026-10-22 13:05 | normal pick from 2026-10-24 13:05 | request from 2026-10-24 13:05
 OK   Josh Rouse — 1972 | last aired 2026-10-18 14:04 | normal pick now | request now
 OK   Josh Rouse — Street Lights | last aired 2026-10-15 18:29 | normal pick now | request now
-WAIT José González — Heartbeats | last aired 2026-10-23 12:09 | normal pick from 2026-10-25 12:09 | request from 2026-10-25 12:09
-WAIT Journey — Don't Stop Believin' (Album Version) | last aired 2026-10-23 13:22 | normal pick from 2026-10-25 01:22 | request from 2026-10-24 09:22
+WAIT José González — Heartbeats | last aired 2026-10-23 12:10 | normal pick from 2026-10-25 12:10 | request from 2026-10-25 12:10
+WAIT Journey — Don't Stop Believin' (Album Version) | last aired 2026-10-23 13:23 | normal pick from 2026-10-25 01:23 | request from 2026-10-24 09:23
 OK   Journey — Lights (Album Version) | last aired 2026-10-18 12:42 | normal pick now | request now
 OK   Joywave — In Clover | last aired 2026-10-20 14:20 | normal pick now | request now
 OK   Joywave — Rumors | last aired 2026-10-21 03:22 | normal pick now | request now
-WAIT João Gilberto — Chega de Saudade | last aired 2026-10-23 12:36 | normal pick from 2026-10-25 12:36 | request from 2026-10-25 12:36
+WAIT João Gilberto — Chega de Saudade | last aired 2026-10-23 12:37 | normal pick from 2026-10-25 12:37 | request from 2026-10-25 12:37
 WAIT João Gilberto — Garota de Ipanema (Live) | last aired 2026-10-22 14:01 | normal pick from 2026-10-24 02:01 | request now

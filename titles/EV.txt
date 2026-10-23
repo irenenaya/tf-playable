@@ -1,11 +1,11 @@
-Track status, song titles filed under EV (built Fri Oct 23, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, song titles filed under EV (built Fri Oct 23, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   (Every Time I Turn Around) Back In Love Again (Album Version) — L.T.D. | last aired 2026-10-14 17:33 | normal pick now | request now
 WAIT Even In The Quietest Moments — Supertramp | last aired 2026-10-23 05:04 | normal pick from 2026-10-24 17:04 | request from 2026-10-24 01:04
 OK   Evensong — Solarstone | last aired 2026-10-09 04:49 | normal pick now | request now
 OK   Eventually — P!nk | last aired 2026-10-19 22:46 | normal pick now | request now
-OK   Everlong — Foo Fighters | last aired 2026-10-21 12:11 | normal pick now | request now
+WAIT Everlong — Foo Fighters | last aired 2026-10-23 15:39 | normal pick from 2026-10-25 15:39 | request from 2026-10-25 15:39
 OK   Everybody Loves Somebody — Dean Martin | last aired 2026-10-20 23:31 | normal pick now | request now
 OK   Everybody Loves the Sunshine — DJ Cam Quartet | last aired 2026-10-20 11:26 | normal pick now | request now
 OK   Everybody Loves The Sunshine — Roy Ayers Ubiquity | last aired 2026-10-19 18:01 | normal pick now | request now

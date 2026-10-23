@@ -1,5 +1,5 @@
-Track status, song titles filed under RU (built Fri Oct 23, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, song titles filed under RU (built Fri Oct 23, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Rumors — Joywave | last aired 2026-10-21 03:22 | normal pick now | request now
-OK   Runnin' Down A Dream — Tom Petty | last aired 2026-10-21 12:06 | normal pick now | request now
+WAIT Runnin' Down A Dream — Tom Petty | last aired 2026-10-23 15:15 | normal pick from 2026-10-25 15:15 | request from 2026-10-25 15:15

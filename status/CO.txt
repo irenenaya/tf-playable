@@ -1,4 +1,4 @@
-Track status, artists filed under CO (built Fri Oct 23, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, artists filed under CO (built Fri Oct 23, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Cocteau Twins — Cherry-coloured Funk | last aired 2026-10-22 09:27 | normal pick from 2026-10-24 09:27 | request from 2026-10-24 09:27
@@ -7,7 +7,7 @@ WAIT Cocteau Twins — Whales Tails | last aired 2026-10-22 01:47 | normal pick 
 OK   Cognitron — Low Frequency Thunderstorm Shield | last aired 2026-10-21 06:17 | normal pick now | request now
 WAIT Colbie Caillat — Try | last aired 2026-10-22 04:34 | normal pick from 2026-10-23 16:34 | request now
 WAIT Coldplay — Talk | last aired 2026-10-23 05:47 | normal pick from 2026-10-24 17:47 | request from 2026-10-24 01:47
-WAIT Coldplay — Yellow | last aired 2026-10-22 03:31 | normal pick from 2026-10-23 15:31 | request now
+OK   Coldplay — Yellow | last aired 2026-10-22 03:31 | normal pick now | request now
 OK   Coleman Hawkins & His Orchestra — Body and Soul | last aired 2026-10-20 11:46 | normal pick now | request now
 OK   Colin Currie — Music for 18 Musicians - Pulses | last aired 2026-10-16 14:33 | normal pick now | request now
 OK   Conchita Wurst — Rise Like a Phoenix | last aired 2026-10-18 04:54 | normal pick now | request now
