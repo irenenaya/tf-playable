@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Fri Oct 23, 12:05 AM PDT (07:05 UTC)). Times in UTC.
+Track status, artists filed under BE (built Fri Oct 23, 1:05 AM PDT (08:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Beach House — Bluebird | last aired 2026-10-11 03:23 | normal pick now | request now
@@ -15,14 +15,14 @@ WAIT Becky Levi and the Nightjars — Wake Me Up | last aired 2026-10-22 06:23 |
 OK   Bee Gees — Night Fever (From "Saturday Night Fever" Soundtrack) | last aired 2026-10-06 16:28 | normal pick now | request now
 OK   Beenie Man — Feel It Boy | last aired 2026-10-16 01:08 | normal pick now | request now
 OK   Belcea Quartet — Quatuor à cordes n° 4, Sz. 91 - String Quartet No. 4 in C Major, Sz. 91: IV. Allegretto pizzicato | last aired 2026-10-16 14:38 | normal pick now | request now
-OK   Belle and Sebastian — The Boy with the Arab Strap | last aired 2026-10-20 09:48 | normal pick now | request now
+WAIT Belle and Sebastian — The Boy with the Arab Strap | last aired 2026-10-23 07:06 | normal pick from 2026-10-25 07:06 | request from 2026-10-25 07:06
 OK   Ben Allison — D.A.V.E. | last aired 2026-10-20 11:10 | normal pick now | request now
 OK   Ben E. King — Stand By Me | last aired 2026-10-19 18:48 | normal pick now | request now
 WAIT Ben Harper — Yard Sale | last aired 2026-10-22 18:08 | normal pick from 2026-10-24 18:08 | request from 2026-10-24 18:08
-OK   Ben&Ben — Leaves | last aired 2026-10-16 04:44 | normal pick now | request now
+WAIT Ben&Ben — Leaves | last aired 2026-10-23 07:32 | normal pick from 2026-10-24 19:32 | request from 2026-10-24 03:32
 OK   Ben&Ben — Maybe The Night | last aired 2026-10-08 16:41 | normal pick now | request now
 OK   Benjamin Francis Leftwich — Ticket To Ride | last aired 2026-10-21 15:07 | normal pick now | request now
-WAIT Benny Goodman — Sing Sing Sing (With A Swing) (live) | last aired 2026-10-21 19:09 | normal pick from 2026-10-23 07:09 | request now
+OK   Benny Goodman — Sing Sing Sing (With A Swing) (live) | last aired 2026-10-21 19:09 | normal pick now | request now
 OK   Benny Sings — Rolled Up | last aired 2026-10-14 16:06 | normal pick now | request now
 OK   Benny Sings — Sailing | last aired 2026-10-20 13:58 | normal pick now | request now
 OK   Benson Boone — Beautiful Things | last aired 2026-10-15 20:17 | normal pick now | request now
@@ -35,7 +35,7 @@ OK   Beyoncé — Crazy In Love | last aired 2026-10-21 03:43 | normal pick now 
 OK   Beyoncé — TEXAS HOLD 'EM | last aired 2026-10-18 09:25 | normal pick now | request now
 OK   Béla Fleck — My Home's Across The Blue Ridge Mountains | last aired 2026-10-21 01:51 | normal pick now | request now
 WAIT The Beach Boys — God Only Knows (Stereo) | last aired 2026-10-22 04:24 | normal pick from 2026-10-23 16:24 | request now
-OK   The Beach Boys — Good Vibrations (Stereo/Remastered 2012) | last aired 2026-10-16 20:41 | normal pick now | request now
+WAIT The Beach Boys — Good Vibrations (Stereo/Remastered 2012) | last aired 2026-10-23 07:28 | normal pick from 2026-10-24 19:28 | request from 2026-10-24 03:28
 OK   The Beatles — A Day In The Life (2017 Mix) | last aired 2026-10-09 17:05 | normal pick now | request now
 OK   The Beatles — Get Back (2021 Mix) | last aired 2026-10-21 00:41 | normal pick now | request now
 WAIT The Beatles — Girl (Remastered) | last aired 2026-10-22 15:02 | normal pick from 2026-10-24 03:02 | request from 2026-10-23 11:02

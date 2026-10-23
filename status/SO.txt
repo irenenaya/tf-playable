@@ -1,7 +1,7 @@
-Track status, artists filed under SO (built Fri Oct 23, 12:05 AM PDT (07:05 UTC)). Times in UTC.
+Track status, artists filed under SO (built Fri Oct 23, 1:05 AM PDT (08:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Soda Stereo — De Música Ligera (Remasterizado 2007) | last aired 2026-10-20 18:37 | normal pick now | request now
+WAIT Soda Stereo — De Música Ligera (Remasterizado 2007) | last aired 2026-10-23 07:21 | normal pick from 2026-10-25 07:21 | request from 2026-10-25 07:21
 OK   Soda Stereo — En La Ciudad De La Furia (MTV Unplugged) | last aired 2026-10-21 12:53 | normal pick now | request now
 OK   Soda Stereo — Luna Roja (Remasterizado 2007) | last aired 2026-10-21 01:42 | normal pick now | request now
 OK   Soft Cell — Tainted Love | last aired 2026-10-20 15:11 | normal pick now | request now

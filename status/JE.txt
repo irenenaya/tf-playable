@@ -1,10 +1,10 @@
-Track status, artists filed under JE (built Fri Oct 23, 12:05 AM PDT (07:05 UTC)). Times in UTC.
+Track status, artists filed under JE (built Fri Oct 23, 1:05 AM PDT (08:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Jean-Luc Ponty — Computer Incantations for World Peace | last aired 2026-10-20 18:02 | normal pick now | request now
-WAIT Jeff Beck — Where Were You (Live) | last aired 2026-10-21 19:46 | normal pick from 2026-10-23 07:46 | request now
+OK   Jeff Beck — Where Were You (Live) | last aired 2026-10-21 19:46 | normal pick now | request now
 OK   Jeff Buckley — Calling You (Live) | last aired 2026-10-21 02:22 | normal pick now | request now
-WAIT Jeff Buckley — Hallelujah | last aired 2026-10-23 04:16 | normal pick from 2026-10-24 16:16 | request from 2026-10-24 00:16
+WAIT Jeff Buckley — Hallelujah | last aired 2026-10-23 04:17 | normal pick from 2026-10-24 16:17 | request from 2026-10-24 00:17
 WAIT Jeff Buckley — Last Goodbye | last aired 2026-10-22 19:11 | normal pick from 2026-10-24 19:11 | request from 2026-10-24 19:11
 WAIT Jeff Buckley — So Real | last aired 2026-10-22 14:41 | normal pick from 2026-10-24 02:41 | request from 2026-10-23 10:41
 OK   Jeff Lynne — At Last | last aired 2026-10-18 05:13 | normal pick now | request now
