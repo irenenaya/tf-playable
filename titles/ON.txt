@@ -1,4 +1,4 @@
-Track status, song titles filed under ON (built Fri Oct 23, 2:05 AM PDT (09:05 UTC)). Times in UTC.
+Track status, song titles filed under ON (built Fri Oct 23, 3:05 AM PDT (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT On & On — Erykah Badu | last aired 2026-10-22 17:52 | normal pick from 2026-10-24 17:52 | request from 2026-10-24 17:52
@@ -11,7 +11,7 @@ OK   One (Remastered 2011) — U2 | last aired 2026-09-19 22:20 | normal pick no
 OK   One and Only — Cuco | last aired 2026-10-18 14:26 | normal pick now | request now
 OK   One Day I'll Fly Away — Randy Crawford | last aired 2026-10-20 08:33 | normal pick now | request now
 OK   One Last Time — Tom Konkle | last aired 2026-09-17 07:17 | normal pick now | request now
-OK   One More Time — Daft Punk | last aired 2026-10-19 10:22 | normal pick now | request now
+WAIT One More Time — Daft Punk | last aired 2026-10-23 09:23 | normal pick from 2026-10-24 21:23 | request from 2026-10-24 05:23
 OK   One Night In Bangkok (From “Chess” / Remastered 2016) — Murray Head | last aired 2026-10-08 13:06 | normal pick now | request now
 OK   One of These Mornings — Moby | last aired 2026-10-13 13:55 | normal pick now | request now
 OK   One Summer's Day (from 'Spirited Away') — Joe Hisaishi | last aired 2026-10-10 06:04 | normal pick now | request now

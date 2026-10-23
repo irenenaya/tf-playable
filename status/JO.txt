@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Fri Oct 23, 2:05 AM PDT (09:05 UTC)). Times in UTC.
+Track status, artists filed under JO (built Fri Oct 23, 3:05 AM PDT (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-10-20 12:05 | normal pick now | request now
@@ -41,10 +41,10 @@ WAIT Johnny Cash — Ring of Fire | last aired 2026-10-22 19:16 | normal pick fr
 WAIT Johnny Flynn — Detectorists (Original Soundtrack from the TV Series) | last aired 2026-10-23 05:38 | normal pick from 2026-10-24 17:38 | request from 2026-10-24 01:38
 OK   Johnny Mathis — Wonderful! Wonderful! | last aired 2026-10-14 01:09 | normal pick now | request now
 OK   Joker Out — Novi Val | last aired 2026-10-21 00:11 | normal pick now | request now
-WAIT Jon Hopkins — Open Eye Signal (Remaster 2023) | last aired 2026-10-21 21:47 | normal pick from 2026-10-23 09:47 | request now
+OK   Jon Hopkins — Open Eye Signal (Remaster 2023) | last aired 2026-10-21 21:47 | normal pick now | request now
 OK   Jon Hopkins — Small Memory | last aired 2026-10-21 08:22 | normal pick now | request now
 OK   Jonathan Parecki — Senbonzakura (Hatsune Miku) | last aired 2026-09-02 17:36 | normal pick now | request now
-WAIT Joni Mitchell — A Case of You | last aired 2026-10-21 10:02 | normal pick from 2026-10-23 10:02 | request from 2026-10-23 10:02
+OK   Joni Mitchell — A Case of You | last aired 2026-10-21 10:02 | normal pick now | request now
 OK   Joni Mitchell — At Last (LP Version) | last aired 2026-10-20 11:54 | normal pick now | request now
 OK   Joni Mitchell — River | last aired 2026-10-13 12:16 | normal pick now | request now
 WAIT Jorge Ben Jor — Mas, Que Nada! | last aired 2026-10-22 13:05 | normal pick from 2026-10-24 13:05 | request from 2026-10-24 13:05
@@ -55,5 +55,5 @@ OK   Journey — Don't Stop Believin' (Album Version) | last aired 2026-10-18 16
 OK   Journey — Lights (Album Version) | last aired 2026-10-18 12:42 | normal pick now | request now
 OK   Joywave — In Clover | last aired 2026-10-20 14:20 | normal pick now | request now
 OK   Joywave — Rumors | last aired 2026-10-21 03:22 | normal pick now | request now
-WAIT João Gilberto — Chega de Saudade | last aired 2026-10-21 09:32 | normal pick from 2026-10-23 09:32 | request from 2026-10-23 09:32
-WAIT João Gilberto — Garota de Ipanema (Live) | last aired 2026-10-22 14:01 | normal pick from 2026-10-24 02:01 | request from 2026-10-23 10:01
+OK   João Gilberto — Chega de Saudade | last aired 2026-10-21 09:32 | normal pick now | request now
+WAIT João Gilberto — Garota de Ipanema (Live) | last aired 2026-10-22 14:01 | normal pick from 2026-10-24 02:01 | request now

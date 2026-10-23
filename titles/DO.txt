@@ -1,4 +1,4 @@
-Track status, song titles filed under DO (built Fri Oct 23, 2:05 AM PDT (09:05 UTC)). Times in UTC.
+Track status, song titles filed under DO (built Fri Oct 23, 3:05 AM PDT (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   (Don't Fear) The Reaper — Blue Öyster Cult | last aired 2026-10-20 16:30 | normal pick now | request now
@@ -11,13 +11,13 @@ OK   Dollar Days — David Bowie | last aired 2026-09-30 17:09 | normal pick now
 OK   Dolls — 9MUSES | last aired 2026-10-15 13:55 | normal pick now | request now
 WAIT Don't Change — INXS | last aired 2026-10-22 11:56 | normal pick from 2026-10-24 11:56 | request from 2026-10-24 11:56
 OK   Don't Delete The Kisses — Wolf Alice | last aired 2026-10-21 13:34 | normal pick now | request now
-WAIT Don't Dream It's Over — Crowded House | last aired 2026-10-21 21:24 | normal pick from 2026-10-23 09:24 | request now
+OK   Don't Dream It's Over — Crowded House | last aired 2026-10-21 21:24 | normal pick now | request now
 OK   Don't Give Up  (2012 Remaster) — Peter Gabriel | last aired 2026-10-20 08:26 | normal pick now | request now
 OK   Don't Look Any Further (Single Version) — Dennis Edwards | last aired 2026-10-18 20:55 | normal pick now | request now
 OK   Don't Shut Me Down — ABBA | last aired 2026-10-20 22:24 | normal pick now | request now
-OK   Don't Start Now — Dua Lipa | last aired 2026-10-19 07:33 | normal pick now | request now
+WAIT Don't Start Now — Dua Lipa | last aired 2026-10-23 09:48 | normal pick from 2026-10-25 09:48 | request from 2026-10-25 09:48
 OK   Don't Stop Believin' (Album Version) — Journey | last aired 2026-10-18 16:32 | normal pick now | request now
-OK   Don't Stop Me Now (Remastered 2011) — Queen | last aired 2026-10-21 04:01 | normal pick now | request now
+WAIT Don't Stop Me Now (Remastered 2011) — Queen | last aired 2026-10-23 09:15 | normal pick from 2026-10-24 21:15 | request from 2026-10-24 05:15
 OK   Don't Worry Be Happy — Bobby McFerrin | last aired 2026-10-19 09:40 | normal pick now | request now
 OK   Don't You (Forget About Me) — Simple Minds | last aired 2026-10-17 19:32 | normal pick now | request now
 OK   Don't You Ever Stop — Mr. President | last aired 2026-10-21 03:18 | normal pick now | request now
