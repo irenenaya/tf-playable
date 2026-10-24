@@ -1,5 +1,5 @@
-Track status, song titles filed under HY (built Fri Oct 23, 8:05 PM PDT (03:05 UTC Sat)). Times in UTC.
+Track status, song titles filed under HY (built Fri Oct 23, 9:05 PM PDT (04:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Hyperballad — Björk | last aired 2026-10-21 17:31 | normal pick now | request now
-OK   Hyperphantasia — Child Seat | last aired 2026-10-15 11:02 | normal pick now | request now
+WAIT Hyperphantasia — Child Seat | last aired 2026-10-24 03:59 | normal pick from 2026-10-25 15:59 | request from 2026-10-24 23:59

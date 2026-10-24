@@ -1,4 +1,4 @@
-Track status, artists filed under BI (built Fri Oct 23, 8:05 PM PDT (03:05 UTC Sat)). Times in UTC.
+Track status, artists filed under BI (built Fri Oct 23, 9:05 PM PDT (04:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Bicep — Apricots | last aired 2026-10-18 07:56 | normal pick now | request now
@@ -11,8 +11,8 @@ OK   Bill Monroe & His Blue Grass Boys — Blue Moon Of Kentucky | last aired 20
 WAIT Bill Withers — Ain't No Sunshine (Album Version) | last aired 2026-10-22 17:20 | normal pick from 2026-10-24 17:20 | request from 2026-10-24 17:20
 OK   Bill Withers — Lovely Day | last aired 2026-10-20 23:34 | normal pick now | request now
 OK   Billie Eilish — BIRDS OF A FEATHER | last aired 2026-10-10 05:45 | normal pick now | request now
-WAIT Billie Eilish — Lo Vas A Olvidar | last aired 2026-10-23 07:44 | normal pick from 2026-10-24 19:44 | request from 2026-10-24 03:44
-WAIT Billie Eilish — What Was I Made For? [From The Motion Picture "Barbie"] | last aired 2026-10-22 15:52 | normal pick from 2026-10-24 03:52 | request now
+WAIT Billie Eilish — Lo Vas A Olvidar | last aired 2026-10-23 07:44 | normal pick from 2026-10-24 19:44 | request now
+OK   Billie Eilish — What Was I Made For? [From The Motion Picture "Barbie"] | last aired 2026-10-22 15:52 | normal pick now | request now
 OK   Billie Eilish — when the party's over | last aired 2026-10-21 21:21 | normal pick now | request now
 OK   Billy Crystal — If I Didn't Have You (From "Monsters, Inc."/Soundtrack Version) | last aired 2026-10-06 02:44 | normal pick now | request now
 OK   Billy Joel — Get It Right the First Time (Album Version) | last aired 2026-10-15 00:06 | normal pick now | request now
