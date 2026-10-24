@@ -1,8 +1,8 @@
-Track status, artists filed under CO (built Fri Oct 23, 5:05 PM PDT (00:05 UTC Sat)). Times in UTC.
+Track status, artists filed under CO (built Fri Oct 23, 6:05 PM PDT (01:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Cocteau Twins — Cherry-coloured Funk | last aired 2026-10-22 09:27 | normal pick from 2026-10-24 09:27 | request from 2026-10-24 09:27
-OK   Cocteau Twins — Ivo | last aired 2026-10-21 21:55 | normal pick now | request now
+WAIT Cocteau Twins — Ivo | last aired 2026-10-24 00:21 | normal pick from 2026-10-26 00:21 | request from 2026-10-26 00:21
 WAIT Cocteau Twins — Whales Tails | last aired 2026-10-22 01:47 | normal pick from 2026-10-24 01:47 | request from 2026-10-24 01:47
 OK   Cognitron — Low Frequency Thunderstorm Shield | last aired 2026-10-21 06:17 | normal pick now | request now
 OK   Colbie Caillat — Try | last aired 2026-10-22 04:34 | normal pick now | request now

@@ -1,10 +1,10 @@
-Track status, song titles filed under HA (built Fri Oct 23, 5:05 PM PDT (00:05 UTC Sat)). Times in UTC.
+Track status, song titles filed under HA (built Fri Oct 23, 6:05 PM PDT (01:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Halah — Mazzy Star | last aired 2026-10-22 02:05 | normal pick from 2026-10-24 02:05 | request from 2026-10-24 02:05
+WAIT Halah — Mazzy Star | last aired 2026-10-24 00:07 | normal pick from 2026-10-26 00:07 | request from 2026-10-26 00:07
 OK   Half Acre (Remastered 2025) — Hem | last aired 2026-10-18 09:08 | normal pick now | request now
 OK   Hall of Fame — The Script feat. will.i.am | last aired 2026-10-17 01:55 | normal pick now | request now
-WAIT Hallelujah — Jeff Buckley | last aired 2026-10-23 04:17 | normal pick from 2026-10-24 16:17 | request from 2026-10-24 00:17
+WAIT Hallelujah — Jeff Buckley | last aired 2026-10-23 04:17 | normal pick from 2026-10-24 16:17 | request now
 OK   Hallelujah — Leonard Cohen | last aired 2026-10-13 00:14 | normal pick now | request now
 OK   Halloween Theme — John Carpenter | last aired 2026-10-13 02:49 | normal pick now | request now
 OK   Halo Theme Mjolnir Mix — Halo | last aired 2026-09-21 03:04 | normal pick now | request now
@@ -17,7 +17,7 @@ OK   Hardcore Vibes — Dúné | last aired 2026-10-15 19:09 | normal pick now |
 OK   Harder, Better, Faster, Stronger — Daft Punk | last aired 2026-10-22 00:31 | normal pick now | request now
 OK   Hardline — Julien Baker | last aired 2026-10-17 21:17 | normal pick now | request now
 OK   Harmony in Blue I — Tim Hecker | last aired 2026-10-22 01:05 | normal pick now | request now
-WAIT Haru No Iutoori — indigo la End | last aired 2026-10-23 22:06 | normal pick from 2026-10-25 10:06 | request from 2026-10-24 18:06
+WAIT Haru No Iutoori — indigo la End | last aired 2026-10-23 22:07 | normal pick from 2026-10-25 22:07 | request from 2026-10-25 22:07
 OK   Harvest Moon (Album Version) — Neil Young | last aired 2026-10-12 20:17 | normal pick now | request now
 OK   Hate Yourself — TV Girl | last aired 2026-10-14 13:05 | normal pick now | request now
 WAIT Haunted When the Minutes Drag — Love and Rockets | last aired 2026-10-23 11:33 | normal pick from 2026-10-24 23:33 | request from 2026-10-24 07:33
