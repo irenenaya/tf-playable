@@ -1,4 +1,4 @@
-Track status, artists filed under CH (built Sat Oct 24, 11:05 AM PDT (18:05 UTC)). Times in UTC.
+Track status, artists filed under CH (built Sat Oct 24, 12:05 PM PDT (19:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Chaka Khan — What Cha' Gonna Do for Me | last aired 2026-10-19 11:11 | normal pick now | request now
@@ -6,7 +6,7 @@ OK   Chappell Roan — Good Luck, Babe! | last aired 2026-10-18 04:44 | normal p
 OK   Chappell Roan — HOT TO GO! | last aired 2026-10-12 17:42 | normal pick now | request now
 OK   Chappell Roan — Pink Pony Club | last aired 2026-10-18 10:54 | normal pick now | request now
 OK   Charles Lloyd & The Marvels — You Are So Beautiful | last aired 2026-10-23 00:55 | normal pick now | request now
-OK   Charles Lloyd — You Are So Beautiful | last aired 2026-10-17 11:36 | normal pick now | request now
+WAIT Charles Lloyd — You Are So Beautiful | last aired 2026-10-24 18:33 | normal pick from 2026-10-26 06:33 | request from 2026-10-25 14:33
 WAIT Charles Mingus — Goodbye Pork Pie Hat (Album Version) | last aired 2026-10-23 17:36 | normal pick from 2026-10-25 05:36 | request now
 OK   Charles Mingus — Medley: Mode D - Trio And Group Dancers / Mode E - Single Solos And Group Dance / Mode F - Group And Solo Dance (Album Version) | last aired 2026-09-28 07:39 | normal pick now | request now
 OK   Charles Mingus — Track A - Solo Dancer (Stop! Look! And Listen, Sinner Jim Whitney!) (Album Version) | last aired 2026-10-20 11:16 | normal pick now | request now

@@ -1,4 +1,4 @@
-Track status, artists filed under LE (built Sat Oct 24, 11:05 AM PDT (18:05 UTC)). Times in UTC.
+Track status, artists filed under LE (built Sat Oct 24, 12:05 PM PDT (19:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT LeAnn Rimes — Blue | last aired 2026-10-24 04:26 | normal pick from 2026-10-25 16:26 | request from 2026-10-25 00:26
@@ -6,7 +6,7 @@ OK   Lebanon Hanover — Babes of the 80s (She Past Away) | last aired 2026-10-2
 WAIT Led Zeppelin — Going to California  (Remaster) | last aired 2026-10-22 23:16 | normal pick from 2026-10-24 23:16 | request from 2026-10-24 23:16
 WAIT Led Zeppelin — Over the Hills and Far Away  (Remaster) | last aired 2026-10-23 08:38 | normal pick from 2026-10-24 20:38 | request now
 OK   Led Zeppelin — Stairway to Heaven  (Remaster) | last aired 2026-10-21 02:47 | normal pick now | request now
-OK   Ledward Kaapana — Salomila  (Live) | last aired 2026-10-15 22:14 | normal pick now | request now
+WAIT Ledward Kaapana — Salomila  (Live) | last aired 2026-10-24 18:44 | normal pick from 2026-10-26 06:44 | request from 2026-10-25 14:44
 WAIT Lemon Jelly — Ramblin' Man | last aired 2026-10-23 23:50 | normal pick from 2026-10-25 11:50 | request from 2026-10-24 19:50
 WAIT Leon Bridges — Coming Home | last aired 2026-10-22 21:32 | normal pick from 2026-10-24 21:32 | request from 2026-10-24 21:32
 OK   Leon Larregui — Brillas | last aired 2026-10-23 03:20 | normal pick now | request now
