@@ -1,4 +1,4 @@
-Track status, artists filed under BA (built Fri Oct 23, 10:05 PM PDT (05:05 UTC Sat)). Times in UTC.
+Track status, artists filed under BA (built Fri Oct 23, 11:05 PM PDT (06:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Baby Face Willette — At Last | last aired 2026-09-26 09:07 | normal pick now | request now
@@ -9,7 +9,7 @@ WAIT Bad Religion — 21st Century (Digital Boy) | last aired 2026-10-23 11:06 |
 OK   Ballaké Sissoko — Regret - À Kader Barry | last aired 2026-10-20 17:20 | normal pick now | request now
 OK   Banners — Shine A Light | last aired 2026-10-20 14:16 | normal pick now | request now
 OK   Barbara Pravi — Voilà | last aired 2026-10-20 00:17 | normal pick now | request now
-OK   Barbra Streisand — Woman in Love (Album Version) | last aired 2026-10-15 20:46 | normal pick now | request now
+WAIT Barbra Streisand — Woman in Love (Album Version) | last aired 2026-10-24 05:29 | normal pick from 2026-10-25 17:29 | request from 2026-10-25 01:29
 OK   Barrington Levy — Black Roses | last aired 2026-10-15 13:26 | normal pick now | request now
 OK   Bauhaus — Ziggy Stardust | last aired 2026-10-18 01:21 | normal pick now | request now
 WAIT The Band — The Weight (Remastered 2000) | last aired 2026-10-23 15:05 | normal pick from 2026-10-25 15:05 | request from 2026-10-25 15:05
