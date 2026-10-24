@@ -1,4 +1,4 @@
-Track status, song titles filed under HE (built Sat Oct 24, 12:05 PM PDT (19:05 UTC)). Times in UTC.
+Track status, song titles filed under HE (built Sat Oct 24, 1:05 PM PDT (20:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   "Heroes" (2017 Remaster) — David Bowie | last aired 2026-10-20 23:13 | normal pick now | request now
@@ -10,7 +10,7 @@ WAIT Heartbeat — ANNIE | last aired 2026-10-23 14:19 | normal pick from 2026-1
 WAIT Heartbeats — José González | last aired 2026-10-23 12:10 | normal pick from 2026-10-25 12:10 | request from 2026-10-25 12:10
 WAIT Hearts On Fire — Hammerfall | last aired 2026-10-23 16:52 | normal pick from 2026-10-25 04:52 | request now
 WAIT Heat Waves (Stripped Back) — Glass Animals | last aired 2026-10-23 00:48 | normal pick from 2026-10-25 00:48 | request from 2026-10-25 00:48
-OK   Heaven On Your Mind — Kygo | last aired 2026-10-15 19:24 | normal pick now | request now
+WAIT Heaven On Your Mind — Kygo | last aired 2026-10-24 19:47 | normal pick from 2026-10-26 07:47 | request from 2026-10-25 15:47
 OK   Heaven Stood Still — Willy DeVille | last aired 2026-10-20 16:35 | normal pick now | request now
 WAIT Hell Is Round The Corner — Tricky | last aired 2026-10-24 17:01 | normal pick from 2026-10-26 05:01 | request from 2026-10-25 13:01
 OK   Hella Good — Dorian Electra | last aired 2026-10-20 20:08 | normal pick now | request now

@@ -1,4 +1,4 @@
-Track status, artists filed under VA (built Sat Oct 24, 12:05 PM PDT (19:05 UTC)). Times in UTC.
+Track status, artists filed under VA (built Sat Oct 24, 1:05 PM PDT (20:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Vampire Lestat — Brutal Love | last aired 2026-10-09 15:42 | normal pick now | request now
@@ -9,5 +9,5 @@ OK   Vangelis — La petite fille de la mer | last aired 2026-10-22 16:20 | norm
 OK   Vanilla Ice — Ninja Rap | last aired 2026-10-22 20:37 | normal pick now | request now
 OK   Various Interprets — At Last | last aired 2026-09-27 15:48 | normal pick now | request now
 OK   Various Interprets — Come Tomorrow (Duet With Barry Gibb (Album Version)) | last aired 2026-10-13 08:52 | normal pick now | request now
-OK   VAST — Thrown Away | last aired 2026-10-06 14:38 | normal pick now | request now
+WAIT VAST — Thrown Away | last aired 2026-10-24 19:55 | normal pick from 2026-10-26 07:55 | request from 2026-10-25 15:55
 WAIT Vaya Con Dios — Nah Neh Nah | last aired 2026-10-24 16:10 | normal pick from 2026-10-26 04:10 | request from 2026-10-25 12:10
