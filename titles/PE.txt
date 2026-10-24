@@ -1,4 +1,4 @@
-Track status, song titles filed under PE (built Fri Oct 23, 11:05 PM PDT (06:05 UTC Sat)). Times in UTC.
+Track status, song titles filed under PE (built Sat Oct 24, 12:05 AM PDT (07:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   pe$o$ — Evan Fong | last aired 2026-10-18 03:52 | normal pick now | request now
@@ -8,7 +8,7 @@ OK   Peg — Steely Dan | last aired 2026-10-22 09:52 | normal pick now | reques
 OK   Penelope's Song The Odyssey — Celtic Siren Noreen | last aired 2026-10-19 17:28 | normal pick now | request now
 OK   People Everywhere ii — Khruangbin | last aired 2026-10-22 18:00 | normal pick now | request now
 WAIT People Get Ready (Single Version) — The Impressions | last aired 2026-10-22 15:10 | normal pick from 2026-10-24 15:10 | request from 2026-10-24 15:10
-WAIT People Have the Power — Patti Smith | last aired 2026-10-22 18:19 | normal pick from 2026-10-24 06:19 | request now
+OK   People Have the Power — Patti Smith | last aired 2026-10-22 18:19 | normal pick now | request now
 OK   People Suck [Explicit] — Confetti | last aired 2026-09-06 09:09 | normal pick now | request now
 WAIT Perfect Day — Lou Reed | last aired 2026-10-23 15:20 | normal pick from 2026-10-25 03:20 | request from 2026-10-24 11:20
 OK   Perfect — Ed Sheeran | last aired 2026-10-18 22:00 | normal pick now | request now
