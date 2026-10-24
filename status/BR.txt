@@ -1,4 +1,4 @@
-Track status, artists filed under BR (built Sat Oct 24, 7:05 AM PDT (14:05 UTC)). Times in UTC.
+Track status, artists filed under BR (built Sat Oct 24, 8:05 AM PDT (15:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Brainstory — Mnemophobia | last aired 2026-10-24 03:53 | normal pick from 2026-10-25 15:53 | request from 2026-10-24 23:53
@@ -9,12 +9,12 @@ OK   Brenda Lee — Rockin' Around The Christmas Tree | last aired 2026-08-13 13
 OK   Brian Eno — An Ending (Ascent) (Remastered 2019) | last aired 2026-10-22 00:54 | normal pick now | request now
 WAIT Brian Eno — Capsule | last aired 2026-10-24 02:15 | normal pick from 2026-10-25 14:15 | request from 2026-10-24 22:15
 OK   Brian Eno — Deep Blue Day (Remastered 2019) | last aired 2026-10-21 05:36 | normal pick now | request now
-WAIT Brian Eno — Fullness Of Wind (Variation On 'The Canon In D Major' By Johann Pachelbel) (Remastered 2004) | last aired 2026-10-23 02:16 | normal pick from 2026-10-24 14:16 | request now
+OK   Brian Eno — Fullness Of Wind (Variation On 'The Canon In D Major' By Johann Pachelbel) (Remastered 2004) | last aired 2026-10-23 02:16 | normal pick now | request now
 OK   Brian Eno — Spinning Away | last aired 2026-10-20 06:14 | normal pick now | request now
 OK   Brian Eno — The Big Ship (2004 Remaster) | last aired 2026-10-21 10:53 | normal pick now | request now
 OK   Brijean — Counting Sheep | last aired 2026-10-17 10:59 | normal pick now | request now
 OK   Bring Me The Horizon — Blessed with a Curse | last aired 2026-10-18 10:42 | normal pick now | request now
-OK   Bruce Kaphan — Clouds | last aired 2026-10-16 06:06 | normal pick now | request now
+WAIT Bruce Kaphan — Clouds | last aired 2026-10-24 14:04 | normal pick from 2026-10-26 02:04 | request from 2026-10-25 10:04
 OK   Bruce Springsteen — Born in the U.S.A. | last aired 2026-10-21 02:58 | normal pick now | request now
 OK   Bruce Springsteen — Born to Run | last aired 2026-10-22 22:50 | normal pick now | request now
 WAIT Bruce Springsteen — No Surrender | last aired 2026-10-24 13:35 | normal pick from 2026-10-26 01:35 | request from 2026-10-25 09:35
@@ -22,7 +22,7 @@ OK   Bruce Springsteen — Streets of Philadelphia  (Single Edit) | last aired 2
 OK   Bruce Springsteen — The River | last aired 2026-10-20 16:54 | normal pick now | request now
 OK   Bruce Springsteen — Thunder Road | last aired 2026-10-18 00:26 | normal pick now | request now
 WAIT Bruno Battisti D'Amario — Omaggio a giuliani | last aired 2026-10-24 07:08 | normal pick from 2026-10-25 19:08 | request from 2026-10-25 03:08
-WAIT Bruno Mars — Gorilla | last aired 2026-10-23 18:55 | normal pick from 2026-10-25 06:55 | request from 2026-10-24 14:55
+WAIT Bruno Mars — Gorilla | last aired 2026-10-23 18:55 | normal pick from 2026-10-25 06:55 | request now
 WAIT Bruno Mars — I Just Might | last aired 2026-10-23 09:33 | normal pick from 2026-10-24 21:33 | request now
 WAIT Bryan Ferry — Reason or Rhyme | last aired 2026-10-23 04:46 | normal pick from 2026-10-24 16:46 | request now
 WAIT The Brothers Johnson — Strawberry Letter 23 (Album Version) | last aired 2026-10-24 12:20 | normal pick from 2026-10-26 12:20 | request from 2026-10-26 12:20
