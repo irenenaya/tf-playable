@@ -1,4 +1,4 @@
-Track status, song titles filed under HO (built Sat Oct 24, 1:05 PM PDT (20:05 UTC)). Times in UTC.
+Track status, song titles filed under HO (built Sat Oct 24, 2:05 PM PDT (21:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Holding — Grouper | last aired 2026-10-23 02:08 | normal pick now | request now
@@ -7,7 +7,7 @@ OK   Holiday (Remastered 2015) — Scorpions | last aired 2026-10-21 13:07 | nor
 OK   Holiday — Madonna | last aired 2026-10-15 01:45 | normal pick now | request now
 OK   Holocene — Bon Iver | last aired 2026-10-22 02:20 | normal pick now | request now
 WAIT Holy Water (Album Version) — Soundgarden | last aired 2026-10-23 13:05 | normal pick from 2026-10-25 01:05 | request now
-WAIT Home At Last — Steely Dan | last aired 2026-10-23 08:47 | normal pick from 2026-10-24 20:47 | request now
+OK   Home At Last — Steely Dan | last aired 2026-10-23 08:47 | normal pick now | request now
 OK   Honesty (Album Version) — Billy Joel | last aired 2026-10-22 04:15 | normal pick now | request now
 OK   Honey Bones — Dope Lemon | last aired 2026-10-23 03:29 | normal pick now | request now
 OK   Hong Kong — Gorillaz | last aired 2026-10-22 03:44 | normal pick now | request now
@@ -16,7 +16,7 @@ OK   Hoppípolla — Sigur Rós | last aired 2026-10-21 18:09 | normal pick now 
 OK   HOT TO GO! — Chappell Roan | last aired 2026-10-12 17:42 | normal pick now | request now
 OK   Hotel California  (2013 Remaster) — Eagles | last aired 2026-10-18 10:29 | normal pick now | request now
 OK   Houdini — Dua Lipa | last aired 2026-10-20 15:04 | normal pick now | request now
-OK   House of the Rising Sun — Erik Grönwall | last aired 2026-10-14 22:41 | normal pick now | request now
+WAIT House of the Rising Sun — Erik Grönwall | last aired 2026-10-24 20:49 | normal pick from 2026-10-26 08:49 | request from 2026-10-25 16:49
 OK   House Where Nobody Lives — Tom Waits | last aired 2026-10-22 06:48 | normal pick now | request now
 OK   How Deep Is The Ocean — Diana Krall | last aired 2026-10-23 01:27 | normal pick now | request now
 WAIT How Do — Sneaker Pimps | last aired 2026-10-24 17:13 | normal pick from 2026-10-26 05:13 | request from 2026-10-25 13:13
