@@ -1,8 +1,8 @@
-Track status, song titles filed under ST (built Sat Oct 24, 4:05 AM PDT (11:05 UTC)). Times in UTC.
+Track status, song titles filed under ST (built Sat Oct 24, 6:05 AM PDT (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT S.T.A.Y. — Hans Zimmer | last aired 2026-10-24 02:46 | normal pick from 2026-10-25 14:46 | request from 2026-10-24 22:46
-OK   St. James Infirmary — Jim James | last aired 2026-10-20 04:00 | normal pick now | request now
+WAIT St. James Infirmary — Jim James | last aired 2026-10-24 12:25 | normal pick from 2026-10-26 12:25 | request from 2026-10-26 12:25
 OK   Stacy's Mom — Fountains Of Wayne | last aired 2026-10-15 16:38 | normal pick now | request now
 OK   Stairway to Heaven  (Remaster) — Led Zeppelin | last aired 2026-10-21 02:47 | normal pick now | request now
 OK   Stand By Me — Ben E. King | last aired 2026-10-19 18:48 | normal pick now | request now
@@ -30,7 +30,7 @@ OK   Stranger in Moscow — Michael Jackson | last aired 2026-10-14 13:09 | norm
 WAIT Stranger On The Shore — Acker Bilk | last aired 2026-10-24 05:47 | normal pick from 2026-10-25 17:47 | request from 2026-10-25 01:47
 WAIT Stratosfear (Digital Remastered) — Tangerine Dream | last aired 2026-10-24 00:35 | normal pick from 2026-10-25 12:35 | request from 2026-10-24 20:35
 OK   Strawberry Fields Forever — The Beatles | last aired 2026-10-20 12:40 | normal pick now | request now
-OK   Strawberry Letter 23 (Album Version) — The Brothers Johnson | last aired 2026-10-20 08:21 | normal pick now | request now
+WAIT Strawberry Letter 23 (Album Version) — The Brothers Johnson | last aired 2026-10-24 12:20 | normal pick from 2026-10-26 12:20 | request from 2026-10-26 12:20
 OK   Street Fighting Man — The Rolling Stones | last aired 2026-10-14 19:32 | normal pick now | request now
 WAIT Street Lights — Josh Rouse | last aired 2026-10-24 01:39 | normal pick from 2026-10-25 13:39 | request from 2026-10-24 21:39
 OK   Streets of Philadelphia  (Single Edit) — Bruce Springsteen | last aired 2026-10-22 18:40 | normal pick now | request now

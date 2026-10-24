@@ -1,7 +1,7 @@
-Track status, song titles filed under BE (built Sat Oct 24, 4:05 AM PDT (11:05 UTC)). Times in UTC.
+Track status, song titles filed under BE (built Sat Oct 24, 6:05 AM PDT (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Be (Introduction Of Jonathan) — Neil Diamond | last aired 2026-10-19 16:25 | normal pick now | request now
+WAIT Be (Introduction Of Jonathan) — Neil Diamond | last aired 2026-10-24 12:46 | normal pick from 2026-10-26 00:46 | request from 2026-10-25 08:46
 OK   Beach House — The Opium Cartel | last aired 2026-10-21 07:38 | normal pick now | request now
 OK   Beautiful as the Moon; Terrible as an Army with Banners — Henry Cow | last aired 2026-10-10 19:17 | normal pick now | request now
 WAIT Beautiful Day (Remastered 2020) — U2 | last aired 2026-10-23 10:34 | normal pick from 2026-10-24 22:34 | request now

@@ -1,4 +1,4 @@
-Track status, song titles filed under HA (built Sat Oct 24, 4:05 AM PDT (11:05 UTC)). Times in UTC.
+Track status, song titles filed under HA (built Sat Oct 24, 6:05 AM PDT (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Halah — Mazzy Star | last aired 2026-10-24 00:07 | normal pick from 2026-10-26 00:07 | request from 2026-10-26 00:07
@@ -11,7 +11,7 @@ OK   Halo Theme Mjolnir Mix — Halo | last aired 2026-09-21 03:04 | normal pick
 WAIT Hang on Sloopy — The McCoys | last aired 2026-10-23 11:00 | normal pick from 2026-10-24 23:00 | request now
 OK   Happy Birthday — Stevie Wonder | last aired 2026-09-29 18:47 | normal pick now | request now
 OK   Hard Rock Hallelujah — Lordi | last aired 2026-10-15 13:50 | normal pick now | request now
-WAIT Hard Times — The Jetzons | last aired 2026-10-23 16:35 | normal pick from 2026-10-25 04:35 | request from 2026-10-24 12:35
+WAIT Hard Times — The Jetzons | last aired 2026-10-23 16:35 | normal pick from 2026-10-25 04:35 | request now
 OK   Hard to Say I'M Sorry / Get Away — Chicago | last aired 2026-10-15 23:20 | normal pick now | request now
 OK   Hardcore Vibes — Dúné | last aired 2026-10-15 19:09 | normal pick now | request now
 OK   Harder, Better, Faster, Stronger — Daft Punk | last aired 2026-10-22 00:31 | normal pick now | request now

@@ -1,4 +1,4 @@
-Track status, artists filed under HA (built Sat Oct 24, 4:05 AM PDT (11:05 UTC)). Times in UTC.
+Track status, artists filed under HA (built Sat Oct 24, 6:05 AM PDT (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Haddaway — What Is Love (7" Mix) (Remastered 2025) (7" Mix / Remastered 2025) | last aired 2026-10-24 07:57 | normal pick from 2026-10-25 19:57 | request from 2026-10-25 03:57
@@ -6,7 +6,7 @@ OK   Haddaway — What Is Love (Lynx & Pico Remix) | last aired 2026-10-21 01:17
 OK   Hailu Mergia — Tezeta | last aired 2026-10-21 05:29 | normal pick now | request now
 OK   Halestorm — Do Not Disturb | last aired 2026-10-19 08:11 | normal pick now | request now
 OK   Halo — Halo Theme Mjolnir Mix | last aired 2026-09-21 03:04 | normal pick now | request now
-WAIT Hammerfall — Hearts On Fire | last aired 2026-10-23 16:52 | normal pick from 2026-10-25 04:52 | request from 2026-10-24 12:52
+WAIT Hammerfall — Hearts On Fire | last aired 2026-10-23 16:52 | normal pick from 2026-10-25 04:52 | request now
 OK   Hammock — Maybe They Will Sing for Us Tomorrow | last aired 2026-10-22 01:56 | normal pick now | request now
 OK   Hammock — Tape Recorder | last aired 2026-10-21 06:39 | normal pick now | request now
 OK   Hania Rani — Eden | last aired 2026-10-21 06:52 | normal pick now | request now
@@ -19,7 +19,7 @@ OK   Hard Life — daydreams | last aired 2026-10-15 05:44 | normal pick now | r
 OK   Hardcore Superstar — We Don't Celebrate Sundays | last aired 2026-09-22 13:05 | normal pick now | request now
 OK   Hariprasad Chaurasia — Bhupali | last aired 2026-10-16 08:02 | normal pick now | request now
 OK   Harold Budd — A Stream With Bright Fish (2005 Digital Remaster) | last aired 2026-10-21 06:48 | normal pick now | request now
-WAIT Harold Budd — Lost In The Humming Air (2005 Digital Remaster) | last aired 2026-10-23 00:28 | normal pick from 2026-10-24 12:28 | request now
+OK   Harold Budd — Lost In The Humming Air (2005 Digital Remaster) | last aired 2026-10-23 00:28 | normal pick now | request now
 OK   Harris Jayaraj — Adiyae Kolluthey (From "Vaaranam Aayiram") | last aired 2026-10-16 11:25 | normal pick now | request now
 WAIT Harry Styles — As It Was | last aired 2026-10-23 19:04 | normal pick from 2026-10-25 07:04 | request from 2026-10-24 15:04
 OK   Harry Styles — Watermelon Sugar | last aired 2026-10-19 09:27 | normal pick now | request now

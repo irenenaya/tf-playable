@@ -1,8 +1,8 @@
-Track status, artists filed under ST (built Sat Oct 24, 4:05 AM PDT (11:05 UTC)). Times in UTC.
+Track status, artists filed under ST (built Sat Oct 24, 6:05 AM PDT (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT St Germain — Rose rouge | last aired 2026-10-23 10:53 | normal pick from 2026-10-24 22:53 | request now
-WAIT Stan Bush — The Touch | last aired 2026-10-23 16:43 | normal pick from 2026-10-25 04:43 | request from 2026-10-24 12:43
+WAIT Stan Bush — The Touch | last aired 2026-10-23 16:43 | normal pick from 2026-10-25 04:43 | request now
 WAIT Stan Getz — Corcovado (Quiet Nights Of Quiet Stars) | last aired 2026-10-23 01:09 | normal pick from 2026-10-25 01:09 | request from 2026-10-25 01:09
 OK   Stardust — Music Sounds Better With You | last aired 2026-10-17 04:03 | normal pick now | request now
 WAIT Stars of the Lid — Requiem for Dying Mothers, Pt. 1 | last aired 2026-10-24 02:04 | normal pick from 2026-10-25 14:04 | request from 2026-10-24 22:04
@@ -26,11 +26,11 @@ OK   Stevie Wonder — Happy Birthday | last aired 2026-09-29 18:47 | normal pic
 OK   Stevie Wonder — Higher Ground (Album Version) | last aired 2026-10-19 09:51 | normal pick now | request now
 OK   Stevie Wonder — I Wish | last aired 2026-10-21 20:17 | normal pick now | request now
 OK   Stevie Wonder — Isn't She Lovely | last aired 2026-10-21 14:00 | normal pick now | request now
-OK   Stevie Wonder — Living For The City (Album Version) | last aired 2026-10-20 01:21 | normal pick now | request now
+WAIT Stevie Wonder — Living For The City (Album Version) | last aired 2026-10-24 12:36 | normal pick from 2026-10-26 00:36 | request from 2026-10-25 08:36
 OK   Stevie Wonder — Master Blaster (Jammin') | last aired 2026-10-19 19:32 | normal pick now | request now
 OK   Stevie Wonder — Sir Duke | last aired 2026-10-20 20:41 | normal pick now | request now
 OK   Stevie Wonder — Summer Soft | last aired 2026-10-04 13:50 | normal pick now | request now
-WAIT Stevie Wonder — Superstition (Album Version) | last aired 2026-10-22 21:40 | normal pick from 2026-10-24 21:40 | request from 2026-10-24 21:40
+OK   Stevie Wonder — Superstition (Album Version) | last aired 2026-10-22 21:40 | normal pick now | request now
 WAIT Stevie Wonder — You Haven't Done Nothin' | last aired 2026-10-22 17:48 | normal pick from 2026-10-24 17:48 | request from 2026-10-24 17:48
 OK   Still Woozy — Get Down | last aired 2026-10-22 09:07 | normal pick now | request now
 OK   Sting — Desert Rose (Album Version) | last aired 2026-10-17 02:46 | normal pick now | request now

@@ -1,4 +1,4 @@
-Track status, song titles filed under SI (built Sat Oct 24, 4:05 AM PDT (11:05 UTC)). Times in UTC.
+Track status, song titles filed under SI (built Sat Oct 24, 6:05 AM PDT (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   (Sittin' On) the Dock of the Bay — Otis Redding | last aired 2026-10-20 08:13 | normal pick now | request now
@@ -9,7 +9,7 @@ OK   Simmer  (Acoustic) — Hayley Williams | last aired 2026-10-15 21:21 | norm
 WAIT Simone (2023 Remaster) — Boz Scaggs | last aired 2026-10-23 12:26 | normal pick from 2026-10-25 00:26 | request now
 OK   Simply Beautiful — Al Green | last aired 2026-10-22 06:52 | normal pick now | request now
 OK   Sing Sing Sing (With A Swing) (live) — Benny Goodman | last aired 2026-10-21 19:09 | normal pick now | request now
-OK   Singin' in the Rain — Gene Kelly | last aired 2026-10-18 00:14 | normal pick now | request now
+WAIT Singin' in the Rain — Gene Kelly | last aired 2026-10-24 12:43 | normal pick from 2026-10-26 00:43 | request from 2026-10-25 08:43
 OK   Sir Duke — Stevie Wonder | last aired 2026-10-20 20:41 | normal pick now | request now
 OK   Sit Down Beside Me — Patrick Watson | last aired 2026-10-20 14:36 | normal pick now | request now
 OK   Sit Next to Me — Foster The People | last aired 2026-10-22 09:30 | normal pick now | request now

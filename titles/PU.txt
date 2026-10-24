@@ -1,7 +1,7 @@
-Track status, song titles filed under PU (built Sat Oct 24, 4:05 AM PDT (11:05 UTC)). Times in UTC.
+Track status, song titles filed under PU (built Sat Oct 24, 6:05 AM PDT (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Puente — Gustavo Cerati | last aired 2026-10-22 13:00 | normal pick from 2026-10-24 13:00 | request from 2026-10-24 13:00
+OK   Puente — Gustavo Cerati | last aired 2026-10-22 13:00 | normal pick now | request now
 OK   Pump Up The Volume (UK 12" Remix) — M/A/R/R/S | last aired 2026-10-21 03:08 | normal pick now | request now
 WAIT Punish — Ethel Cain | last aired 2026-10-24 00:15 | normal pick from 2026-10-25 12:15 | request from 2026-10-24 20:15
 WAIT Purple Rain  (2015 Paisley Park Remaster) — Prince | last aired 2026-10-23 20:07 | normal pick from 2026-10-25 08:07 | request from 2026-10-24 16:07
