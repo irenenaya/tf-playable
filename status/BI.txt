@@ -1,4 +1,4 @@
-Track status, artists filed under BI (built Sat Oct 24, 10:05 AM PDT (17:05 UTC)). Times in UTC.
+Track status, artists filed under BI (built Sat Oct 24, 11:05 AM PDT (18:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Bicep — Apricots | last aired 2026-10-18 07:56 | normal pick now | request now
@@ -8,7 +8,7 @@ OK   Bikini Kill — Rebel Girl | last aired 2026-10-21 15:00 | normal pick now 
 OK   Bill Callahan — Riding For The Feeling | last aired 2026-10-21 10:25 | normal pick now | request now
 WAIT Bill Evans — Peace Piece (Album Version) | last aired 2026-10-23 14:37 | normal pick from 2026-10-25 02:37 | request now
 OK   Bill Monroe & His Blue Grass Boys — Blue Moon Of Kentucky | last aired 2026-10-17 20:41 | normal pick now | request now
-WAIT Bill Withers — Ain't No Sunshine (Album Version) | last aired 2026-10-22 17:20 | normal pick from 2026-10-24 17:20 | request from 2026-10-24 17:20
+OK   Bill Withers — Ain't No Sunshine (Album Version) | last aired 2026-10-22 17:20 | normal pick now | request now
 OK   Bill Withers — Lovely Day | last aired 2026-10-20 23:34 | normal pick now | request now
 OK   Billie Eilish — BIRDS OF A FEATHER | last aired 2026-10-10 05:45 | normal pick now | request now
 WAIT Billie Eilish — Lo Vas A Olvidar | last aired 2026-10-23 07:44 | normal pick from 2026-10-24 19:44 | request now
@@ -17,7 +17,7 @@ OK   Billie Eilish — when the party's over | last aired 2026-10-21 21:21 | nor
 OK   Billy Crystal — If I Didn't Have You (From "Monsters, Inc."/Soundtrack Version) | last aired 2026-10-06 02:44 | normal pick now | request now
 WAIT Billy Joel — Get It Right the First Time (Album Version) | last aired 2026-10-24 04:22 | normal pick from 2026-10-25 16:22 | request from 2026-10-25 00:22
 OK   Billy Joel — Honesty (Album Version) | last aired 2026-10-22 04:15 | normal pick now | request now
-WAIT Billy Joel — Scenes from an Italian Restaurant (Album Version) | last aired 2026-10-24 15:06 | normal pick from 2026-10-26 03:06 | request from 2026-10-25 11:06
+WAIT Billy Joel — Scenes from an Italian Restaurant (Album Version) | last aired 2026-10-24 15:07 | normal pick from 2026-10-26 03:07 | request from 2026-10-25 11:07
 OK   Billy Joel — The River of Dreams (Album Version) | last aired 2026-10-19 16:36 | normal pick now | request now
 OK   Billy Joel — Vienna (Album Version) | last aired 2026-10-18 19:13 | normal pick now | request now
 OK   Bing Crosby — White Christmas | last aired 2026-09-05 21:37 | normal pick now | request now

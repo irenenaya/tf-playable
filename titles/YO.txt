@@ -1,4 +1,4 @@
-Track status, song titles filed under YO (built Sat Oct 24, 10:05 AM PDT (17:05 UTC)). Times in UTC.
+Track status, song titles filed under YO (built Sat Oct 24, 11:05 AM PDT (18:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   You and I — Papooz | last aired 2026-10-22 03:13 | normal pick now | request now
@@ -13,7 +13,7 @@ WAIT You Can't Always Get What You Want — The Rolling Stones | last aired 2026
 OK   You Don't Know What Love Is — Chet Baker | last aired 2026-10-23 01:01 | normal pick now | request now
 WAIT You Give Love A Bad Name — Bon Jovi | last aired 2026-10-23 13:01 | normal pick from 2026-10-25 01:01 | request now
 OK   You Got This — Skindred | last aired 2026-09-15 08:59 | normal pick now | request now
-WAIT You Haven't Done Nothin' — Stevie Wonder | last aired 2026-10-22 17:48 | normal pick from 2026-10-24 17:48 | request from 2026-10-24 17:48
+OK   You Haven't Done Nothin' — Stevie Wonder | last aired 2026-10-22 17:48 | normal pick now | request now
 OK   You Know Me Better Than I Know Myself — Cult With No Name | last aired 2026-10-16 07:35 | normal pick now | request now
 OK   You Know, You Know (Album Version) — John McLaughlin | last aired 2026-10-20 05:00 | normal pick now | request now
 OK   You Suffer — Napalm Death | last aired 2026-08-10 11:48 | normal pick now | request now
