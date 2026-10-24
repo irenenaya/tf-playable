@@ -1,4 +1,4 @@
-Track status, artists filed under BR (built Fri Oct 23, 7:05 PM PDT (02:05 UTC Sat)). Times in UTC.
+Track status, artists filed under BR (built Fri Oct 23, 8:05 PM PDT (03:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Brainstory — Mnemophobia | last aired 2026-10-15 18:15 | normal pick now | request now
@@ -7,7 +7,7 @@ OK   Breakbot — Baby I'm Yours | last aired 2026-10-12 02:30 | normal pick now
 OK   Breakestra — Back At The Boathouse | last aired 2026-10-17 13:07 | normal pick now | request now
 OK   Brenda Lee — Rockin' Around The Christmas Tree | last aired 2026-08-13 13:36 | normal pick now | request now
 OK   Brian Eno — An Ending (Ascent) (Remastered 2019) | last aired 2026-10-22 00:54 | normal pick now | request now
-OK   Brian Eno — Capsule | last aired 2026-10-21 07:21 | normal pick now | request now
+WAIT Brian Eno — Capsule | last aired 2026-10-24 02:14 | normal pick from 2026-10-25 14:14 | request from 2026-10-24 22:14
 OK   Brian Eno — Deep Blue Day (Remastered 2019) | last aired 2026-10-21 05:36 | normal pick now | request now
 WAIT Brian Eno — Fullness Of Wind (Variation On 'The Canon In D Major' By Johann Pachelbel) (Remastered 2004) | last aired 2026-10-23 02:16 | normal pick from 2026-10-24 14:16 | request now
 OK   Brian Eno — Spinning Away | last aired 2026-10-20 06:14 | normal pick now | request now

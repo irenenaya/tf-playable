@@ -1,4 +1,4 @@
-Track status, song titles filed under UN (built Fri Oct 23, 7:05 PM PDT (02:05 UTC Sat)). Times in UTC.
+Track status, song titles filed under UN (built Fri Oct 23, 8:05 PM PDT (03:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Universal — Blur | last aired 2026-10-20 18:55 | normal pick now | request now
@@ -8,11 +8,11 @@ WAIT Under Pressure (Remastered 2011) — Queen | last aired 2026-10-22 19:04 | 
 OK   Under The Ivy — Kate Bush | last aired 2026-10-19 17:00 | normal pick now | request now
 OK   Under The Pressure — The War On Drugs | last aired 2026-10-22 12:44 | normal pick now | request now
 OK   Underwater Love — Smoke City | last aired 2026-10-15 03:40 | normal pick now | request now
-OK   Underwater — Sun's Signature | last aired 2026-10-16 12:42 | normal pick now | request now
+WAIT Underwater — Sun's Signature | last aired 2026-10-24 02:21 | normal pick from 2026-10-25 14:21 | request from 2026-10-24 22:21
 OK   Unfinished Sympathy (2012 Mix/Master) — Massive Attack | last aired 2026-10-22 07:14 | normal pick now | request now
 OK   Unravel — Björk | last aired 2026-10-20 00:56 | normal pick now | request now
 WAIT Unstoppable — Lianne La Havas | last aired 2026-10-22 21:16 | normal pick from 2026-10-24 21:16 | request from 2026-10-24 21:16
-WAIT Until Death Do Us Part — Filippo Beck Peccoz | last aired 2026-10-23 06:49 | normal pick from 2026-10-24 18:49 | request from 2026-10-24 02:49
+WAIT Until Death Do Us Part — Filippo Beck Peccoz | last aired 2026-10-23 06:49 | normal pick from 2026-10-24 18:49 | request now
 OK   Until — Swan Dive | last aired 2026-10-19 07:19 | normal pick now | request now
 WAIT Until We Meet Again — Lisa Gerrard | last aired 2026-10-22 19:46 | normal pick from 2026-10-24 07:46 | request now
 OK   Untitled #3  (Samskeyti) — Sigur Rós | last aired 2026-10-20 07:01 | normal pick now | request now
