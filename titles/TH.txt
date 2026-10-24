@@ -1,4 +1,4 @@
-Track status, song titles filed under TH (built Sat Oct 24, 6:05 AM PDT (13:05 UTC)). Times in UTC.
+Track status, song titles filed under TH (built Sat Oct 24, 7:05 AM PDT (14:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   (They Long To Be) Close To You — The Carpenters | last aired 2026-10-22 18:54 | normal pick now | request now
@@ -7,7 +7,7 @@ OK   thanks, my day is ruined — Alex Andre | last aired 2026-10-18 03:00 | nor
 OK   That Acid — Marie Vaunt | last aired 2026-10-13 11:14 | normal pick now | request now
 OK   That's All for Everyone — Fleetwood Mac | last aired 2026-10-22 09:44 | normal pick now | request now
 OK   The Thieves of Imai — Filippo Beck Peccoz | last aired 2026-10-18 01:47 | normal pick now | request now
-OK   The Thrill Is Gone — B.B. King | last aired 2026-10-17 12:44 | normal pick now | request now
+WAIT The Thrill Is Gone — B.B. King | last aired 2026-10-24 13:27 | normal pick from 2026-10-26 01:27 | request from 2026-10-25 09:27
 OK   Theme from "A Summer Place" — Percy Faith & His Orchestra | last aired 2026-10-11 11:09 | normal pick now | request now
 WAIT Theme From Harry's Game — Clannad | last aired 2026-10-23 05:18 | normal pick from 2026-10-25 05:18 | request from 2026-10-25 05:18
 OK   Theme From Superman  (Concert Version) — John Williams | last aired 2026-10-17 19:06 | normal pick now | request now
@@ -19,7 +19,7 @@ OK   This Foolish Heart Could Love You — Melody Gardot | last aired 2026-10-21
 OK   This Is It — Kenny Loggins | last aired 2026-10-20 15:07 | normal pick now | request now
 WAIT This Is The Life — Amy Macdonald | last aired 2026-10-23 18:18 | normal pick from 2026-10-25 18:18 | request from 2026-10-25 18:18
 OK   This Is Your Life (Originally Performed by Banderas) — Cover Vocals BPM 122 Acapellas | last aired 2026-09-21 02:20 | normal pick now | request now
-OK   This Means War — Petra | last aired 2026-10-16 02:05 | normal pick now | request now
+WAIT This Means War — Petra | last aired 2026-10-24 13:21 | normal pick from 2026-10-26 01:21 | request from 2026-10-25 09:21
 WAIT This Must Be the Place (Naive Melody)  (2005 Remastered LP Version) — Talking Heads | last aired 2026-10-22 22:45 | normal pick from 2026-10-24 22:45 | request from 2026-10-24 22:45
 OK   This Woman's Work (Uncut) — Maxwell | last aired 2026-10-20 07:58 | normal pick now | request now
 WAIT Threnody — Goldmund | last aired 2026-10-23 06:51 | normal pick from 2026-10-24 18:51 | request now

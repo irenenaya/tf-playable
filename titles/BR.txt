@@ -1,4 +1,4 @@
-Track status, song titles filed under BR (built Sat Oct 24, 6:05 AM PDT (13:05 UTC)). Times in UTC.
+Track status, song titles filed under BR (built Sat Oct 24, 7:05 AM PDT (14:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Brandenburg Concerto No. 3 in G Major, BWV 1048: I. Allegro — Herbert Waltl | last aired 2026-10-16 07:46 | normal pick now | request now
@@ -8,8 +8,8 @@ OK   Breaking Glass  (2017 Remaster) — David Bowie | last aired 2026-10-18 12:
 OK   Breaking the Law — Judas Priest | last aired 2026-10-17 04:45 | normal pick now | request now
 OK   Breathe (In the Air) — Pink Floyd | last aired 2026-10-21 18:32 | normal pick now | request now
 WAIT Breathe Again — Pop Evil | last aired 2026-10-24 11:24 | normal pick from 2026-10-25 23:24 | request from 2026-10-25 07:24
-WAIT Breathing Below Surface (Rerecorded) — Jesse Cook | last aired 2026-10-22 13:40 | normal pick from 2026-10-24 13:40 | request from 2026-10-24 13:40
-WAIT Bridges (Travessia) — Milton Nascimento | last aired 2026-10-22 13:46 | normal pick from 2026-10-24 13:46 | request from 2026-10-24 13:46
+OK   Breathing Below Surface (Rerecorded) — Jesse Cook | last aired 2026-10-22 13:40 | normal pick now | request now
+OK   Bridges (Travessia) — Milton Nascimento | last aired 2026-10-22 13:46 | normal pick now | request now
 WAIT Brillas — Leon Larregui | last aired 2026-10-23 03:20 | normal pick from 2026-10-24 15:20 | request now
 OK   Bring Me To Life — Evanescence | last aired 2026-10-03 00:24 | normal pick now | request now
 WAIT Brothers in Arms — Dire Straits | last aired 2026-10-23 04:34 | normal pick from 2026-10-24 16:34 | request now
