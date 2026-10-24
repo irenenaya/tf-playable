@@ -1,12 +1,12 @@
-Track status, song titles filed under RA (built Fri Oct 23, 4:05 PM PDT (23:05 UTC)). Times in UTC.
+Track status, song titles filed under RA (built Fri Oct 23, 5:05 PM PDT (00:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Rabbit in Your Headlights — Unkle | last aired 2026-10-17 16:56 | normal pick now | request now
 WAIT Radar Love — Golden Earring | last aired 2026-10-23 18:46 | normal pick from 2026-10-25 06:46 | request from 2026-10-24 14:46
 WAIT Rain (Remastered) — The Beatles | last aired 2026-10-23 11:57 | normal pick from 2026-10-24 23:57 | request from 2026-10-24 07:57
-WAIT Rain On Dry Concrete — Thorsten Quaeschning | last aired 2026-10-21 23:20 | normal pick from 2026-10-23 23:20 | request from 2026-10-23 23:20
+OK   Rain On Dry Concrete — Thorsten Quaeschning | last aired 2026-10-21 23:20 | normal pick now | request now
 OK   Raise Your Glass — P!nk | last aired 2026-09-12 18:44 | normal pick now | request now
-OK   Ramblin' Man — Lemon Jelly | last aired 2026-10-21 14:18 | normal pick now | request now
+WAIT Ramblin' Man — Lemon Jelly | last aired 2026-10-23 23:49 | normal pick from 2026-10-25 11:49 | request from 2026-10-24 19:49
 OK   Rasguña Las Piedras (Album Version) — Sui Generis | last aired 2026-10-20 18:59 | normal pick now | request now
 OK   Rattlesnakes — Tori Amos | last aired 2026-10-19 16:15 | normal pick now | request now
 OK   Raven — GoGo Penguin | last aired 2026-10-01 04:39 | normal pick now | request now
