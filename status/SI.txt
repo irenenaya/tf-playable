@@ -1,4 +1,4 @@
-Track status, artists filed under SI (built Fri Oct 23, 9:05 PM PDT (04:05 UTC Sat)). Times in UTC.
+Track status, artists filed under SI (built Fri Oct 23, 10:05 PM PDT (05:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Siddhartha — 00:00 | last aired 2026-10-18 14:39 | normal pick now | request now
@@ -9,7 +9,7 @@ WAIT Sigur Rós — Sé Lest | last aired 2026-10-23 10:39 | normal pick from 20
 OK   Sigur Rós — Untitled #3  (Samskeyti) | last aired 2026-10-20 07:01 | normal pick now | request now
 OK   Silverchair — Ana's Song (Open Fire) | last aired 2026-10-15 19:37 | normal pick now | request now
 OK   Silverchair — Anthem for the Year 2000 (Album Version) | last aired 2026-10-18 14:00 | normal pick now | request now
-WAIT Simon & Garfunkel — Scarborough Fair (Live at Central Park, New York, NY - September 19, 1981) | last aired 2026-10-22 16:34 | normal pick from 2026-10-24 04:34 | request now
+OK   Simon & Garfunkel — Scarborough Fair (Live at Central Park, New York, NY - September 19, 1981) | last aired 2026-10-22 16:34 | normal pick now | request now
 WAIT Simon & Garfunkel — The Boxer | last aired 2026-10-23 15:10 | normal pick from 2026-10-25 15:10 | request from 2026-10-25 15:10
 OK   Simon & Garfunkel — The Sound of Silence  (Acoustic Version) | last aired 2026-10-22 06:20 | normal pick now | request now
 OK   Simon Trpčeski — Suite bergamasque, CD 82, L. 75: III. Clair de lune | last aired 2026-10-21 07:16 | normal pick now | request now

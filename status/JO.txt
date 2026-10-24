@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Fri Oct 23, 9:05 PM PDT (04:05 UTC Sat)). Times in UTC.
+Track status, artists filed under JO (built Fri Oct 23, 10:05 PM PDT (05:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-10-23 11:03 | normal pick from 2026-10-25 11:03 | request from 2026-10-25 11:03
@@ -6,10 +6,10 @@ OK   Jockstrap — Concrete Over Water | last aired 2026-10-15 18:09 | normal pi
 OK   Joe Cocker — With A Little Help From My Friends | last aired 2026-10-21 01:00 | normal pick now | request now
 OK   Joe Hisaishi — A Town with an Ocean View (from 'Kiki's Delivery Service') | last aired 2026-10-22 05:12 | normal pick now | request now
 WAIT Joe Hisaishi — a Wish to the Moon | last aired 2026-10-22 21:55 | normal pick from 2026-10-24 09:55 | request now
-WAIT Joe Hisaishi — Asian Dream Song | last aired 2026-10-24 01:05 | normal pick from 2026-10-25 13:05 | request from 2026-10-24 21:05
+WAIT Joe Hisaishi — Asian Dream Song | last aired 2026-10-24 01:06 | normal pick from 2026-10-25 13:06 | request from 2026-10-24 21:06
 OK   Joe Hisaishi — Deep Sea Pastures (from 'Ponyo on the Cliff by the Sea') | last aired 2026-10-17 06:55 | normal pick now | request now
 OK   Joe Hisaishi — Departures (from 'Departures') | last aired 2026-10-21 14:26 | normal pick now | request now
-WAIT Joe Hisaishi — Innocent (from 'Castle in the Sky') | last aired 2026-10-22 16:17 | normal pick from 2026-10-24 04:17 | request now
+OK   Joe Hisaishi — Innocent (from 'Castle in the Sky') | last aired 2026-10-22 16:17 | normal pick now | request now
 OK   Joe Hisaishi — Merry-Go-Round of Life (from 'Howl’s Moving Castle') | last aired 2026-10-22 15:25 | normal pick now | request now
 OK   Joe Hisaishi — One Summer's Day (from 'Spirited Away') | last aired 2026-10-10 06:04 | normal pick now | request now
 OK   Joe Hisaishi — Ponyo's Sisters Lend a Hand - A Song for Mothers and the Sea (from 'Ponyo on the Cliff by the Sea') | last aired 2026-10-21 05:08 | normal pick now | request now
@@ -39,7 +39,7 @@ WAIT Johnny Cash — Hurt (Album Version) | last aired 2026-10-22 05:57 | normal
 OK   Johnny Cash — Redemption Day (Album Version) | last aired 2026-10-22 14:09 | normal pick now | request now
 WAIT Johnny Cash — Ring of Fire | last aired 2026-10-22 19:16 | normal pick from 2026-10-24 07:16 | request now
 WAIT Johnny Flynn — Detectorists (Original Soundtrack from the TV Series) | last aired 2026-10-23 05:38 | normal pick from 2026-10-24 17:38 | request now
-OK   Johnny Mathis — Wonderful! Wonderful! | last aired 2026-10-14 01:09 | normal pick now | request now
+WAIT Johnny Mathis — Wonderful! Wonderful! | last aired 2026-10-24 04:05 | normal pick from 2026-10-25 16:05 | request from 2026-10-25 00:05
 WAIT Joker Out — Novi Val | last aired 2026-10-23 10:03 | normal pick from 2026-10-24 22:03 | request from 2026-10-24 06:03
 OK   Jon Hopkins — Open Eye Signal (Remaster 2023) | last aired 2026-10-21 21:47 | normal pick now | request now
 WAIT Jon Hopkins — Small Memory | last aired 2026-10-23 22:58 | normal pick from 2026-10-25 10:58 | request from 2026-10-24 18:58
@@ -49,7 +49,7 @@ OK   Joni Mitchell — At Last (LP Version) | last aired 2026-10-20 11:54 | norm
 OK   Joni Mitchell — River | last aired 2026-10-13 12:16 | normal pick now | request now
 WAIT Jorge Ben Jor — Mas, Que Nada! | last aired 2026-10-22 13:05 | normal pick from 2026-10-24 13:05 | request from 2026-10-24 13:05
 OK   Josh Rouse — 1972 | last aired 2026-10-18 14:04 | normal pick now | request now
-WAIT Josh Rouse — Street Lights | last aired 2026-10-24 01:38 | normal pick from 2026-10-25 13:38 | request from 2026-10-24 21:38
+WAIT Josh Rouse — Street Lights | last aired 2026-10-24 01:39 | normal pick from 2026-10-25 13:39 | request from 2026-10-24 21:39
 WAIT José González — Heartbeats | last aired 2026-10-23 12:10 | normal pick from 2026-10-25 12:10 | request from 2026-10-25 12:10
 WAIT Journey — Don't Stop Believin' (Album Version) | last aired 2026-10-23 13:23 | normal pick from 2026-10-25 01:23 | request from 2026-10-24 09:23
 OK   Journey — Lights (Album Version) | last aired 2026-10-18 12:42 | normal pick now | request now

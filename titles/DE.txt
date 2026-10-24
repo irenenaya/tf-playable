@@ -1,4 +1,4 @@
-Track status, song titles filed under DE (built Fri Oct 23, 9:05 PM PDT (04:05 UTC Sat)). Times in UTC.
+Track status, song titles filed under DE (built Fri Oct 23, 10:05 PM PDT (05:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT De Música Ligera (Remasterizado 2007) — Soda Stereo | last aired 2026-10-23 07:21 | normal pick from 2026-10-25 07:21 | request from 2026-10-25 07:21
@@ -10,7 +10,7 @@ OK   Deeper Well — Kacey Musgraves | last aired 2026-10-22 04:43 | normal pick
 OK   Dein Lied — Laith Al-Deen | last aired 2026-10-18 10:25 | normal pick now | request now
 OK   Demoliendo Hoteles (Live) — Charly García | last aired 2026-10-21 13:29 | normal pick now | request now
 OK   Demons Are a Girl's Best Friend — Powerwolf | last aired 2026-10-13 14:01 | normal pick now | request now
-OK   Denkmal — Wir Sind Helden | last aired 2026-10-18 20:33 | normal pick now | request now
+WAIT Denkmal — Wir Sind Helden | last aired 2026-10-24 04:40 | normal pick from 2026-10-25 16:40 | request from 2026-10-25 00:40
 OK   Departures (from 'Departures') — Joe Hisaishi | last aired 2026-10-21 14:26 | normal pick now | request now
 OK   Desert Rose (Album Version) — Sting | last aired 2026-10-17 02:46 | normal pick now | request now
 OK   Desolate July — Sons Of Apollo | last aired 2026-09-25 16:24 | normal pick now | request now

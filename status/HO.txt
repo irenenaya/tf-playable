@@ -1,4 +1,4 @@
-Track status, artists filed under HO (built Fri Oct 23, 9:05 PM PDT (04:05 UTC Sat)). Times in UTC.
+Track status, artists filed under HO (built Fri Oct 23, 10:05 PM PDT (05:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Holly Herndon — Chorus | last aired 2026-10-09 18:55 | normal pick now | request now
@@ -11,7 +11,7 @@ OK   Howard Shore — Caras Galadhon / "Lament for Gandalf" (feat. Elizabeth Fra
 OK   Howlin' Wolf — Smokestack Lightnin' | last aired 2026-10-21 16:25 | normal pick now | request now
 OK   Hozier — Angel Of Small Death & The Codeine Scene | last aired 2026-10-17 01:03 | normal pick now | request now
 OK   Hozier — Cherry Wine  (Live) | last aired 2026-10-21 19:38 | normal pick now | request now
-WAIT Hozier — From Eden | last aired 2026-10-22 05:02 | normal pick from 2026-10-24 05:02 | request from 2026-10-24 05:02
+OK   Hozier — From Eden | last aired 2026-10-22 05:02 | normal pick now | request now
 OK   Hozier — Take Me To Church | last aired 2026-10-18 20:21 | normal pick now | request now
 OK   Hozier — Wasteland, Baby! | last aired 2026-10-22 03:16 | normal pick now | request now
 OK   The Hollyridge Strings — Yesterday | last aired 2026-10-21 15:19 | normal pick now | request now
