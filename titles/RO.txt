@@ -1,4 +1,4 @@
-Track status, song titles filed under RO (built Sat Oct 24, 9:05 AM PDT (16:05 UTC)). Times in UTC.
+Track status, song titles filed under RO (built Sat Oct 24, 10:05 AM PDT (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   'Round Midnight (Remastered 2013) — Thelonious Monk | last aired 2026-10-01 19:01 | normal pick now | request now
@@ -14,7 +14,7 @@ WAIT Rock with You (Single Version) — Michael Jackson | last aired 2026-10-23 
 WAIT Rocket Man (I Think It's Going To Be A Long, Long Time) — Elton John | last aired 2026-10-23 03:56 | normal pick from 2026-10-25 03:56 | request from 2026-10-25 03:56
 OK   Rockin' Around The Christmas Tree — Brenda Lee | last aired 2026-08-13 13:36 | normal pick now | request now
 WAIT Rocky Trail — Kings Of Convenience | last aired 2026-10-23 12:04 | normal pick from 2026-10-25 12:04 | request from 2026-10-25 12:04
-OK   Rolled Up — Benny Sings | last aired 2026-10-14 16:06 | normal pick now | request now
+WAIT Rolled Up — Benny Sings | last aired 2026-10-24 16:16 | normal pick from 2026-10-26 04:16 | request from 2026-10-25 12:16
 OK   Rollin' (Air Raid Vehicle) — Limp Bizkit | last aired 2026-10-18 01:39 | normal pick now | request now
 OK   Rooster (2022 Remaster) — Jerry Cantrell | last aired 2026-10-05 22:21 | normal pick now | request now
 OK   Roots Bloody Roots  (2017 Remaster) — Sepultura | last aired 2026-10-15 15:18 | normal pick now | request now

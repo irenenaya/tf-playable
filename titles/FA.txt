@@ -1,8 +1,8 @@
-Track status, song titles filed under FA (built Sat Oct 24, 9:05 AM PDT (16:05 UTC)). Times in UTC.
+Track status, song titles filed under FA (built Sat Oct 24, 10:05 AM PDT (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Face to Face — Daft Punk | last aired 2026-10-22 20:54 | normal pick now | request now
-WAIT Facing East — Thievery Corporation | last aired 2026-10-23 04:24 | normal pick from 2026-10-24 16:24 | request now
+OK   Facing East — Thievery Corporation | last aired 2026-10-23 04:24 | normal pick now | request now
 OK   Fade Into You — Mazzy Star | last aired 2026-10-21 08:06 | normal pick now | request now
 OK   Fade To Grey — Visage | last aired 2026-10-20 21:55 | normal pick now | request now
 OK   Fado Vadio (Má Fama) — Ana Sofia Varela | last aired 2026-10-15 12:58 | normal pick now | request now

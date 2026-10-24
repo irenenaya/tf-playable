@@ -1,4 +1,4 @@
-Track status, song titles filed under PA (built Sat Oct 24, 9:05 AM PDT (16:05 UTC)). Times in UTC.
+Track status, song titles filed under PA (built Sat Oct 24, 10:05 AM PDT (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Pac-Man (feat. ScHoolboy Q) — Gorillaz | last aired 2026-10-22 00:14 | normal pick now | request now
@@ -20,7 +20,7 @@ OK   Pasión (Album Version) — Rodrigo Leão | last aired 2026-10-22 05:46 | n
 OK   Passion Play (Live in Paris) — William Fitzsimmons | last aired 2026-10-20 07:50 | normal pick now | request now
 WAIT Passion, Grace & Fire (Album Version) — Al Di Meola | last aired 2026-10-24 03:34 | normal pick from 2026-10-25 15:34 | request from 2026-10-24 23:34
 WAIT Pata Pata — Miriam Makeba | last aired 2026-10-24 10:37 | normal pick from 2026-10-26 10:37 | request from 2026-10-26 10:37
-OK   Patient — Playroom | last aired 2026-10-14 21:15 | normal pick now | request now
+WAIT Patient — Playroom | last aired 2026-10-24 16:37 | normal pick from 2026-10-26 04:37 | request from 2026-10-25 12:37
 OK   Pattern Recognition (feat. ODDEEO) — Neuro-sama | last aired 2026-09-25 15:01 | normal pick now | request now
 OK   Pärt: Für Alina — Alexander Malter | last aired 2026-10-21 06:57 | normal pick now | request now
 WAIT The Path of the Wind (from 'My Neighbor Totoro') — Joe Hisaishi | last aired 2026-10-24 10:28 | normal pick from 2026-10-25 22:28 | request from 2026-10-25 06:28

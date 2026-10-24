@@ -1,4 +1,4 @@
-Track status, artists filed under MI (built Sat Oct 24, 9:05 AM PDT (16:05 UTC)). Times in UTC.
+Track status, artists filed under MI (built Sat Oct 24, 10:05 AM PDT (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Mica Levi — Love | last aired 2026-10-07 05:28 | normal pick now | request now
@@ -29,7 +29,7 @@ OK   Milton Nascimento — Bridges (Travessia) | last aired 2026-10-22 13:46 | n
 OK   Minako Yoshida — I'll Teach You All About Love | last aired 2026-10-20 10:32 | normal pick now | request now
 OK   Ministry — Just One Fix (Album Version) | last aired 2026-10-13 03:19 | normal pick now | request now
 OK   Minnie Riperton — Lovin' You | last aired 2026-10-20 03:00 | normal pick now | request now
-OK   Miracles of Modern Science — Dear Pressure | last aired 2026-10-15 11:16 | normal pick now | request now
+WAIT Miracles of Modern Science — Dear Pressure | last aired 2026-10-24 16:12 | normal pick from 2026-10-26 04:12 | request from 2026-10-25 12:12
 WAIT Mireille Mathieu — Together We're Strong | last aired 2026-10-24 08:34 | normal pick from 2026-10-25 20:34 | request from 2026-10-25 04:34
 WAIT Miriam Makeba — Pata Pata | last aired 2026-10-24 10:37 | normal pick from 2026-10-26 10:37 | request from 2026-10-26 10:37
 OK   Missio — I See You | last aired 2026-10-18 20:41 | normal pick now | request now

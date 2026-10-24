@@ -1,4 +1,4 @@
-Track status, artists filed under TI (built Sat Oct 24, 9:05 AM PDT (16:05 UTC)). Times in UTC.
+Track status, artists filed under TI (built Sat Oct 24, 10:05 AM PDT (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   TilaR — More Than A Friend | last aired 2026-10-18 03:29 | normal pick now | request now
@@ -9,7 +9,7 @@ OK   Tim Hecker — Black Refraction | last aired 2026-10-23 02:04 | normal pick
 OK   Tim Hecker — Harmony in Blue I | last aired 2026-10-22 01:05 | normal pick now | request now
 WAIT Tim Hecker — In the Fog I | last aired 2026-10-24 02:10 | normal pick from 2026-10-25 14:10 | request from 2026-10-24 22:10
 OK   Tim Hecker — In the Fog II | last aired 2026-10-21 10:56 | normal pick now | request now
-WAIT Tim Maia — Réu Confesso | last aired 2026-10-22 16:38 | normal pick from 2026-10-24 16:38 | request from 2026-10-24 16:38
+OK   Tim Maia — Réu Confesso | last aired 2026-10-22 16:38 | normal pick now | request now
 WAIT Tina Turner — The Best | last aired 2026-10-23 19:50 | normal pick from 2026-10-25 07:50 | request now
 OK   Tinariwen — Sastanàqqàm | last aired 2026-10-22 08:00 | normal pick now | request now
 OK   Tinashe — Nasty | last aired 2026-10-14 17:30 | normal pick now | request now

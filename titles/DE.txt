@@ -1,9 +1,9 @@
-Track status, song titles filed under DE (built Sat Oct 24, 9:05 AM PDT (16:05 UTC)). Times in UTC.
+Track status, song titles filed under DE (built Sat Oct 24, 10:05 AM PDT (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT De Música Ligera (Remasterizado 2007) — Soda Stereo | last aired 2026-10-23 07:21 | normal pick from 2026-10-25 07:21 | request from 2026-10-25 07:21
 OK   Dead Ringer For Love (Album Version) — Meat Loaf | last aired 2026-10-17 22:41 | normal pick now | request now
-OK   Dear Pressure — Miracles of Modern Science | last aired 2026-10-15 11:16 | normal pick now | request now
+WAIT Dear Pressure — Miracles of Modern Science | last aired 2026-10-24 16:12 | normal pick from 2026-10-26 04:12 | request from 2026-10-25 12:12
 OK   Deep Blue Day (Remastered 2019) — Brian Eno | last aired 2026-10-21 05:36 | normal pick now | request now
 OK   Deep Sea Pastures (from 'Ponyo on the Cliff by the Sea') — Joe Hisaishi | last aired 2026-10-17 06:55 | normal pick now | request now
 OK   Deeper Well — Kacey Musgraves | last aired 2026-10-22 04:43 | normal pick now | request now
