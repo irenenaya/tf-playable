@@ -1,6 +1,6 @@
-Track status, song titles filed under OH (built Sat Oct 24, 12:05 AM PDT (07:05 UTC)). Times in UTC.
+Track status, song titles filed under OH (built Sat Oct 24, 1:05 AM PDT (08:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   O Holy Night — Mariah Carey | last aired 2026-04-30 06:20 | normal pick now | request now
 OK   Oh Happy Day — The Edwin Hawkins Singers | last aired 2026-10-14 09:41 | normal pick now | request now
-WAIT Oh, Pretty Woman — Roy Orbison | last aired 2026-10-22 19:08 | normal pick from 2026-10-24 07:08 | request now
+OK   Oh, Pretty Woman — Roy Orbison | last aired 2026-10-22 19:08 | normal pick now | request now

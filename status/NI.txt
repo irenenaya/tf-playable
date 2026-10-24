@@ -1,10 +1,10 @@
-Track status, artists filed under NI (built Sat Oct 24, 12:05 AM PDT (07:05 UTC)). Times in UTC.
+Track status, artists filed under NI (built Sat Oct 24, 1:05 AM PDT (08:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Nick Cave & The Bad Seeds — (I'll Love You) Till The End Of The World | last aired 2026-10-22 12:40 | normal pick now | request now
 OK   Nick Cave & The Bad Seeds — Henry Lee (Remastered 2011) | last aired 2026-10-22 16:09 | normal pick now | request now
 WAIT Nick Drake — Northern Sky | last aired 2026-10-23 08:21 | normal pick from 2026-10-25 08:21 | request from 2026-10-25 08:21
-WAIT Nick Drake — Pink Moon | last aired 2026-10-22 07:28 | normal pick from 2026-10-24 07:28 | request from 2026-10-24 07:28
+OK   Nick Drake — Pink Moon | last aired 2026-10-22 07:28 | normal pick now | request now
 OK   Nickelback — How You Remind Me (- LP Mix) | last aired 2026-10-21 03:47 | normal pick now | request now
 OK   Nightmares On Wax — Les Nuits | last aired 2026-10-09 16:19 | normal pick now | request now
 OK   Nightwish — Wishmaster | last aired 2026-10-21 13:02 | normal pick now | request now

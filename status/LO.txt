@@ -1,4 +1,4 @@
-Track status, artists filed under LO (built Sat Oct 24, 12:05 AM PDT (07:05 UTC)). Times in UTC.
+Track status, artists filed under LO (built Sat Oct 24, 1:05 AM PDT (08:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Lofi Fruits Music — Plastic Love | last aired 2026-10-18 17:57 | normal pick now | request now
@@ -15,9 +15,9 @@ OK   Loscil — Estuarine | last aired 2026-10-21 11:14 | normal pick now | requ
 OK   Lou Rawls — At Last | last aired 2026-10-17 16:14 | normal pick now | request now
 OK   Lou Reed — Goodnight Ladies | last aired 2026-10-20 20:37 | normal pick now | request now
 WAIT Lou Reed — Perfect Day | last aired 2026-10-23 15:20 | normal pick from 2026-10-25 03:20 | request from 2026-10-24 11:20
-OK   Louis Clark — Teo Torriatte (Let Us Cling Together) | last aired 2026-10-13 10:39 | normal pick now | request now
+WAIT Louis Clark — Teo Torriatte (Let Us Cling Together) | last aired 2026-10-24 07:33 | normal pick from 2026-10-25 19:33 | request from 2026-10-25 03:33
 OK   Lovage — Anger Management (Instrumental) | last aired 2026-09-25 16:39 | normal pick now | request now
-WAIT Love and Rockets — Haunted When the Minutes Drag | last aired 2026-10-23 11:33 | normal pick from 2026-10-24 23:33 | request from 2026-10-24 07:33
+WAIT Love and Rockets — Haunted When the Minutes Drag | last aired 2026-10-23 11:33 | normal pick from 2026-10-24 23:33 | request now
 WAIT Love and Rockets — Saudade | last aired 2026-10-23 16:38 | normal pick from 2026-10-25 04:38 | request from 2026-10-24 12:38
 OK   Love and Rockets — So Alive | last aired 2026-10-19 22:53 | normal pick now | request now
 OK   Loverboy — Lovin' Every Minute of It | last aired 2026-10-15 23:40 | normal pick now | request now

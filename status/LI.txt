@@ -1,4 +1,4 @@
-Track status, artists filed under LI (built Sat Oct 24, 12:05 AM PDT (07:05 UTC)). Times in UTC.
+Track status, artists filed under LI (built Sat Oct 24, 1:05 AM PDT (08:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   L'Impératrice — Sonate Pacifique | last aired 2026-10-18 05:07 | normal pick now | request now
@@ -12,7 +12,7 @@ WAIT Linkin Park — In the End | last aired 2026-10-23 13:10 | normal pick from
 WAIT Linkin Park — Numb | last aired 2026-10-22 21:29 | normal pick from 2026-10-24 09:29 | request now
 WAIT Lionel Richie — You Are | last aired 2026-10-23 20:43 | normal pick from 2026-10-25 20:43 | request from 2026-10-25 20:43
 OK   Lisa Gerrard — Sanvean - I Am Your Shadow | last aired 2026-10-22 02:01 | normal pick now | request now
-WAIT Lisa Gerrard — Until We Meet Again | last aired 2026-10-22 19:46 | normal pick from 2026-10-24 07:46 | request now
+OK   Lisa Gerrard — Until We Meet Again | last aired 2026-10-22 19:46 | normal pick now | request now
 OK   Lita Ford & Ozzy Osborne — Close My Eyes Forever | last aired 2026-10-20 13:02 | normal pick now | request now
 OK   Little Axe — Ride On (Fight On) | last aired 2026-10-17 15:16 | normal pick now | request now
 OK   Little People — Start Shootin' | last aired 2026-10-20 02:15 | normal pick now | request now
