@@ -1,4 +1,4 @@
-Track status, artists filed under RO (built Sat Oct 24, 1:05 AM PDT (08:05 UTC)). Times in UTC.
+Track status, artists filed under RO (built Sat Oct 24, 2:05 AM PDT (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Robbie Dupree — Steal Away | last aired 2026-10-15 16:50 | normal pick now | request now
@@ -26,4 +26,4 @@ WAIT Röyksopp — Eple | last aired 2026-10-23 23:46 | normal pick from 2026-10
 OK   The Rolling Stones — Paint It, Black | last aired 2026-10-22 15:42 | normal pick now | request now
 OK   The Rolling Stones — Street Fighting Man | last aired 2026-10-14 19:32 | normal pick now | request now
 OK   The Rolling Stones — Sweet Sounds Of Heaven | last aired 2026-10-17 09:34 | normal pick now | request now
-OK   The Rolling Stones — You Can't Always Get What You Want | last aired 2026-10-17 04:24 | normal pick now | request now
+WAIT The Rolling Stones — You Can't Always Get What You Want | last aired 2026-10-24 08:38 | normal pick from 2026-10-25 20:38 | request from 2026-10-25 04:38

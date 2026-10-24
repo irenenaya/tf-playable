@@ -1,4 +1,4 @@
-Track status, artists filed under MU (built Sat Oct 24, 1:05 AM PDT (08:05 UTC)). Times in UTC.
+Track status, artists filed under MU (built Sat Oct 24, 2:05 AM PDT (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Muddy Waters — Mannish Boy | last aired 2026-10-19 07:29 | normal pick now | request now
@@ -8,4 +8,4 @@ WAIT Mumford & Sons — Awake My Soul | last aired 2026-10-23 21:18 | normal pic
 OK   Murray Gold — A Good Man? (Twelve's Theme) | last aired 2026-10-21 00:14 | normal pick now | request now
 OK   Murray Head — One Night In Bangkok (From “Chess” / Remastered 2016) | last aired 2026-10-08 13:06 | normal pick now | request now
 OK   Muse — Feeling Good | last aired 2026-10-22 11:41 | normal pick now | request now
-WAIT Muse — Won’t Stand Down | last aired 2026-10-23 12:39 | normal pick from 2026-10-25 00:39 | request from 2026-10-24 08:39
+WAIT Muse — Won’t Stand Down | last aired 2026-10-23 12:39 | normal pick from 2026-10-25 00:39 | request now

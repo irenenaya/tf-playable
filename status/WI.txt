@@ -1,4 +1,4 @@
-Track status, artists filed under WI (built Sat Oct 24, 1:05 AM PDT (08:05 UTC)). Times in UTC.
+Track status, artists filed under WI (built Sat Oct 24, 2:05 AM PDT (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Winstons — Amen Brother | last aired 2026-10-17 11:45 | normal pick now | request now
@@ -10,4 +10,4 @@ OK   Willy DeVille — Heaven Stood Still | last aired 2026-10-20 16:35 | normal
 OK   Wilson Pickett — In the Midnight Hour | last aired 2026-10-09 22:59 | normal pick now | request now
 OK   Wings — Goodnight Tonight (Single Version) | last aired 2026-10-04 20:19 | normal pick now | request now
 WAIT Wir Sind Helden — Denkmal | last aired 2026-10-24 04:40 | normal pick from 2026-10-25 16:40 | request from 2026-10-25 00:40
-WAIT Wizkid — Essence | last aired 2026-10-22 08:41 | normal pick from 2026-10-24 08:41 | request from 2026-10-24 08:41
+OK   Wizkid — Essence | last aired 2026-10-22 08:41 | normal pick now | request now
