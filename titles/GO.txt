@@ -1,4 +1,4 @@
-Track status, song titles filed under GO (built Sat Oct 24, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, song titles filed under GO (built Sat Oct 24, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Go Home — Stevie Wonder | last aired 2026-10-23 08:53 | normal pick from 2026-10-24 20:53 | request now
@@ -17,7 +17,7 @@ OK   Golden Slumbers (Remastered) — The Beatles | last aired 2026-10-09 11:31 
 OK   Good Luck, Babe! — Chappell Roan | last aired 2026-10-18 04:44 | normal pick now | request now
 WAIT Good Times  (2018 Remaster) — Chic | last aired 2026-10-23 20:26 | normal pick from 2026-10-25 08:26 | request from 2026-10-24 16:26
 WAIT Good Vibrations (Stereo/Remastered 2012) — The Beach Boys | last aired 2026-10-23 07:28 | normal pick from 2026-10-24 19:28 | request now
-OK   Goodbye (Live) — toe | last aired 2026-10-16 23:23 | normal pick now | request now
+WAIT Goodbye (Live) — toe | last aired 2026-10-24 15:38 | normal pick from 2026-10-26 03:38 | request from 2026-10-25 11:38
 OK   Goodbye Horses - Single — Q Lazzarus | last aired 2026-10-18 15:01 | normal pick now | request now
 WAIT Goodbye Pork Pie Hat (Album Version) — Charles Mingus | last aired 2026-10-23 17:36 | normal pick from 2026-10-25 05:36 | request now
 OK   Goodnight Ladies — Lou Reed | last aired 2026-10-20 20:37 | normal pick now | request now
@@ -26,4 +26,4 @@ OK   Gorecki — Lamb | last aired 2026-10-23 00:13 | normal pick now | request 
 WAIT Gorilla — Bruno Mars | last aired 2026-10-23 18:55 | normal pick from 2026-10-25 06:55 | request now
 WAIT Gosh — Jamie xx | last aired 2026-10-23 23:30 | normal pick from 2026-10-25 23:30 | request from 2026-10-25 23:30
 WAIT Gotta Go Home — Boney M. | last aired 2026-10-23 08:43 | normal pick from 2026-10-24 20:43 | request now
-WAIT Gotta Have You — The Weepies | last aired 2026-10-22 15:28 | normal pick from 2026-10-24 15:28 | request from 2026-10-24 15:28
+OK   Gotta Have You — The Weepies | last aired 2026-10-22 15:28 | normal pick now | request now

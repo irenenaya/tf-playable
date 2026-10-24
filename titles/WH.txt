@@ -1,4 +1,4 @@
-Track status, song titles filed under WH (built Sat Oct 24, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, song titles filed under WH (built Sat Oct 24, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Whistleblowers — Laibach | last aired 2026-10-11 20:40 | normal pick now | request now
@@ -13,7 +13,7 @@ OK   What Was I Made For? [From The Motion Picture "Barbie"] — Billie Eilish |
 OK   What You Won't Do for Love — Bobby Caldwell | last aired 2026-10-18 07:43 | normal pick now | request now
 OK   What's Going On — Marvin Gaye | last aired 2026-10-22 14:51 | normal pick now | request now
 OK   When Did Love Become A Test — Tom Konkle | last aired 2026-10-16 13:58 | normal pick now | request now
-OK   When I Met You — Apo Hiking Society | last aired 2026-10-16 04:30 | normal pick now | request now
+WAIT When I Met You — Apo Hiking Society | last aired 2026-10-24 15:59 | normal pick from 2026-10-26 03:59 | request from 2026-10-25 11:59
 WAIT When I'm Gone — Albert Hammond | last aired 2026-10-24 03:24 | normal pick from 2026-10-25 15:24 | request from 2026-10-24 23:24
 OK   When Love Comes To Town (Album Version) — U2 | last aired 2026-10-19 01:40 | normal pick now | request now
 OK   when the party's over — Billie Eilish | last aired 2026-10-21 21:21 | normal pick now | request now
@@ -23,7 +23,7 @@ OK   Whenever Wherever Whatever (Remastered 2021) (Album Version) — Maxwell | 
 WAIT Where The Streets Have No Name (Remastered 2007) — U2 | last aired 2026-10-23 08:10 | normal pick from 2026-10-25 08:10 | request from 2026-10-25 08:10
 OK   Where Were You (Live) — Jeff Beck | last aired 2026-10-21 19:46 | normal pick now | request now
 OK   Wherefore and Why (LP Version) — Gordon Lightfoot | last aired 2026-10-20 14:33 | normal pick now | request now
-WAIT Which Side are You On? — Pete Seeger | last aired 2026-10-22 15:40 | normal pick from 2026-10-24 15:40 | request from 2026-10-24 15:40
+OK   Which Side are You On? — Pete Seeger | last aired 2026-10-22 15:40 | normal pick now | request now
 OK   Whirling-In-Rags, 8 AM — Sea Power | last aired 2026-10-06 05:11 | normal pick now | request now
 OK   White Christmas — Bing Crosby | last aired 2026-09-05 21:37 | normal pick now | request now
 OK   White Gloves — Khruangbin | last aired 2026-10-20 21:05 | normal pick now | request now
