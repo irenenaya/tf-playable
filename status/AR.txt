@@ -1,7 +1,7 @@
-Track status, artists filed under AR (built Sat Oct 24, 2:05 PM PDT (21:05 UTC)). Times in UTC.
+Track status, artists filed under AR (built Sat Oct 24, 3:05 PM PDT (22:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Arcadia — The Promise  (2010 Remaster) | last aired 2026-10-24 18:09 | normal pick from 2026-10-26 06:09 | request from 2026-10-25 14:09
+WAIT Arcadia — The Promise  (2010 Remaster) | last aired 2026-10-24 18:10 | normal pick from 2026-10-26 06:10 | request from 2026-10-25 14:10
 OK   Archivio Storico Fondazione Isabella Scelsi — Anahit Concerto per due ondiole | last aired 2026-10-20 23:19 | normal pick now | request now
 WAIT Arctic Monkeys — 505 | last aired 2026-10-23 15:44 | normal pick from 2026-10-25 15:44 | request from 2026-10-25 15:44
 OK   Arctic Monkeys — Do I Wanna Know? | last aired 2026-10-22 03:08 | normal pick now | request now
@@ -10,7 +10,7 @@ OK   Arctic Monkeys — No. 1 Party Anthem | last aired 2026-10-22 21:59 | norma
 OK   Aretha Franklin — Day Dreaming (Album Version) | last aired 2026-10-22 17:15 | normal pick now | request now
 OK   Aretha Franklin — I Say a Little Prayer | last aired 2026-10-21 15:49 | normal pick now | request now
 OK   Aretha Franklin — Precious Lord (Take My Hand) (Part One) | last aired 2026-10-18 22:20 | normal pick now | request now
-WAIT Aretha Franklin — Rock Steady (Album Version) | last aired 2026-10-22 22:04 | normal pick from 2026-10-24 22:04 | request from 2026-10-24 22:04
+OK   Aretha Franklin — Rock Steady (Album Version) | last aired 2026-10-22 22:04 | normal pick now | request now
 OK   Aretha Franklin — Wholy Holy | last aired 2026-10-19 02:18 | normal pick now | request now
 OK   Armin van Buuren — Set Me Free | last aired 2026-10-16 03:32 | normal pick now | request now
 OK   Arvo Pärt — Spiegel im spiegel | last aired 2026-10-23 05:52 | normal pick now | request now

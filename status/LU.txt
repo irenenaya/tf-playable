@@ -1,13 +1,13 @@
-Track status, artists filed under LU (built Sat Oct 24, 2:05 PM PDT (21:05 UTC)). Times in UTC.
+Track status, artists filed under LU (built Sat Oct 24, 3:05 PM PDT (22:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Lubomyr Melnyk — The Six Day Moment | last aired 2026-10-24 05:57 | normal pick from 2026-10-25 17:57 | request from 2026-10-25 01:57
-OK   Luca Di Sabatino — Switched-on Wendy | last aired 2026-10-16 07:39 | normal pick now | request now
+WAIT Luca Di Sabatino — Switched-on Wendy | last aired 2026-10-24 21:24 | normal pick from 2026-10-26 09:24 | request from 2026-10-25 17:24
 OK   Lucy Dacus — Night Shift | last aired 2026-10-09 12:55 | normal pick now | request now
 OK   Ludovico Einaudi — Einaudi: Canzone Africana IV | last aired 2026-10-22 16:51 | normal pick now | request now
-WAIT Ludovico Einaudi — Nuvole Bianche | last aired 2026-10-24 01:12 | normal pick from 2026-10-26 01:12 | request from 2026-10-26 01:12
+WAIT Ludovico Einaudi — Nuvole Bianche | last aired 2026-10-24 01:12 | normal pick from 2026-10-25 13:12 | request now
 OK   Ludovico Einaudi — Primavera | last aired 2026-10-15 06:36 | normal pick now | request now
-WAIT Luis Alberto Spinetta — Muchacha Ojos De Papel (Live) | last aired 2026-10-24 01:17 | normal pick from 2026-10-25 13:17 | request from 2026-10-24 21:17
+WAIT Luis Alberto Spinetta — Muchacha Ojos De Papel (Live) | last aired 2026-10-24 01:17 | normal pick from 2026-10-25 13:17 | request now
 OK   Luis Fonsi — Despacito | last aired 2026-10-22 13:36 | normal pick now | request now
 OK   Luis Miguel — La Mentira | last aired 2026-10-18 13:42 | normal pick now | request now
 OK   Luther Vandross — A House Is Not A Home | last aired 2026-10-23 01:57 | normal pick now | request now

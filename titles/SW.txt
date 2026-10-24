@@ -1,4 +1,4 @@
-Track status, song titles filed under SW (built Sat Oct 24, 2:05 PM PDT (21:05 UTC)). Times in UTC.
+Track status, song titles filed under SW (built Sat Oct 24, 3:05 PM PDT (22:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Sweet Caroline — Neil Diamond | last aired 2026-10-23 18:05 | normal pick from 2026-10-25 06:05 | request now
@@ -11,5 +11,5 @@ OK   Sweet Love — Anita Baker | last aired 2026-10-20 08:16 | normal pick now 
 OK   Sweet Sounds Of Heaven — The Rolling Stones | last aired 2026-10-17 09:34 | normal pick now | request now
 OK   Sweet Surrender (Album Version) — Sarah McLachlan | last aired 2026-10-22 15:55 | normal pick now | request now
 OK   Sweet Transvestite — Tim Curry | last aired 2026-10-18 09:29 | normal pick now | request now
-OK   Switched-on Wendy — Luca Di Sabatino | last aired 2026-10-16 07:39 | normal pick now | request now
+WAIT Switched-on Wendy — Luca Di Sabatino | last aired 2026-10-24 21:24 | normal pick from 2026-10-26 09:24 | request from 2026-10-25 17:24
 OK   The Sweetest Taboo  (Remastered Version) — Sade | last aired 2026-10-21 21:17 | normal pick now | request now

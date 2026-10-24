@@ -1,4 +1,4 @@
-Track status, artists filed under BO (built Sat Oct 24, 2:05 PM PDT (21:05 UTC)). Times in UTC.
+Track status, artists filed under BO (built Sat Oct 24, 3:05 PM PDT (22:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Boards of Canada — Blood In The Labyrinth | last aired 2026-10-21 21:42 | normal pick now | request now
@@ -9,7 +9,7 @@ OK   Bob Dylan — Girl from the North Country | last aired 2026-10-22 06:13 | n
 OK   Bob Dylan — The Lonesome Death of Hattie Carroll | last aired 2026-10-23 03:23 | normal pick now | request now
 OK   Bob Marley & The Wailers — Get Up, Stand Up | last aired 2026-10-22 04:58 | normal pick now | request now
 OK   Bobby Caldwell — Coming Down from Love | last aired 2026-10-20 08:44 | normal pick now | request now
-OK   Bobby Caldwell — What You Won't Do for Love | last aired 2026-10-18 07:43 | normal pick now | request now
+WAIT Bobby Caldwell — What You Won't Do for Love | last aired 2026-10-24 21:12 | normal pick from 2026-10-26 21:12 | request from 2026-10-26 21:12
 OK   Bobby Darin — Beyond the Sea | last aired 2026-10-20 18:49 | normal pick now | request now
 OK   Bobby Hutcherson — Stardust | last aired 2026-10-20 11:49 | normal pick now | request now
 OK   Bobby McFerrin — Common Threads | last aired 2026-10-16 03:37 | normal pick now | request now
@@ -20,7 +20,7 @@ WAIT Bon Iver — Skinny Love | last aired 2026-10-23 21:35 | normal pick from 2
 OK   Bon Jovi — Livin' On A Prayer | last aired 2026-10-18 16:45 | normal pick now | request now
 WAIT Bon Jovi — You Give Love A Bad Name | last aired 2026-10-23 13:01 | normal pick from 2026-10-25 01:01 | request now
 OK   Boney M. — Gotta Go Home | last aired 2026-10-23 08:43 | normal pick now | request now
-WAIT Boney M. — Sunny | last aired 2026-10-24 20:58 | normal pick from 2026-10-26 08:58 | request from 2026-10-25 16:58
+WAIT Boney M. — Sunny | last aired 2026-10-24 20:59 | normal pick from 2026-10-26 08:59 | request from 2026-10-25 16:59
 OK   Bonnie Tyler — Holding Out for a Hero (From "Footloose" Soundtrack) | last aired 2026-10-20 20:26 | normal pick now | request now
 WAIT Bonnie Tyler — Total Eclipse of the Heart | last aired 2026-10-23 13:49 | normal pick from 2026-10-25 01:49 | request now
 WAIT Bonobo — Cirrus | last aired 2026-10-23 12:31 | normal pick from 2026-10-25 00:31 | request now

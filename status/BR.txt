@@ -1,9 +1,9 @@
-Track status, artists filed under BR (built Sat Oct 24, 2:05 PM PDT (21:05 UTC)). Times in UTC.
+Track status, artists filed under BR (built Sat Oct 24, 3:05 PM PDT (22:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Brainstory — Mnemophobia | last aired 2026-10-24 03:53 | normal pick from 2026-10-25 15:53 | request from 2026-10-24 23:53
 OK   Brandi Carlile — The Joke | last aired 2026-10-22 04:47 | normal pick now | request now
-WAIT Breakbot — Baby I'm Yours | last aired 2026-10-24 20:54 | normal pick from 2026-10-26 08:54 | request from 2026-10-25 16:54
+WAIT Breakbot — Baby I'm Yours | last aired 2026-10-24 20:55 | normal pick from 2026-10-26 08:55 | request from 2026-10-25 16:55
 OK   Breakestra — Back At The Boathouse | last aired 2026-10-17 13:07 | normal pick now | request now
 OK   Brenda Lee — Rockin' Around The Christmas Tree | last aired 2026-08-13 13:36 | normal pick now | request now
 OK   Brian Eno — An Ending (Ascent) (Remastered 2019) | last aired 2026-10-22 00:54 | normal pick now | request now
@@ -23,6 +23,6 @@ OK   Bruce Springsteen — The River | last aired 2026-10-20 16:54 | normal pick
 OK   Bruce Springsteen — Thunder Road | last aired 2026-10-18 00:26 | normal pick now | request now
 WAIT Bruno Battisti D'Amario — Omaggio a giuliani | last aired 2026-10-24 07:08 | normal pick from 2026-10-25 19:08 | request from 2026-10-25 03:08
 WAIT Bruno Mars — Gorilla | last aired 2026-10-23 18:55 | normal pick from 2026-10-25 06:55 | request now
-WAIT Bruno Mars — I Just Might | last aired 2026-10-23 09:33 | normal pick from 2026-10-24 21:33 | request now
+OK   Bruno Mars — I Just Might | last aired 2026-10-23 09:33 | normal pick now | request now
 OK   Bryan Ferry — Reason or Rhyme | last aired 2026-10-23 04:46 | normal pick now | request now
 WAIT The Brothers Johnson — Strawberry Letter 23 (Album Version) | last aired 2026-10-24 12:20 | normal pick from 2026-10-26 12:20 | request from 2026-10-26 12:20

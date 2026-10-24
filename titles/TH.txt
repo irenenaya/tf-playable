@@ -1,4 +1,4 @@
-Track status, song titles filed under TH (built Sat Oct 24, 2:05 PM PDT (21:05 UTC)). Times in UTC.
+Track status, song titles filed under TH (built Sat Oct 24, 3:05 PM PDT (22:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   (They Long To Be) Close To You — The Carpenters | last aired 2026-10-22 18:54 | normal pick now | request now
@@ -13,7 +13,7 @@ WAIT Theme From Harry's Game — Clannad | last aired 2026-10-23 05:18 | normal 
 OK   Theme From Superman  (Concert Version) — John Williams | last aired 2026-10-17 19:06 | normal pick now | request now
 OK   There She Goes — The La's | last aired 2026-10-20 01:55 | normal pick now | request now
 OK   They Took My Love Away — Djivan Gasparyan | last aired 2026-10-09 03:21 | normal pick now | request now
-WAIT Thick Skull — Paramore | last aired 2026-10-23 16:08 | normal pick from 2026-10-25 16:08 | request from 2026-10-25 16:08
+WAIT Thick Skull — Paramore | last aired 2026-10-23 16:08 | normal pick from 2026-10-25 04:08 | request now
 OK   This Boy (Remastered) — The Beatles | last aired 2026-10-18 02:47 | normal pick now | request now
 OK   This Foolish Heart Could Love You — Melody Gardot | last aired 2026-10-21 22:21 | normal pick now | request now
 OK   This Is It — Kenny Loggins | last aired 2026-10-20 15:07 | normal pick now | request now
@@ -25,7 +25,7 @@ OK   This Woman's Work (Uncut) — Maxwell | last aired 2026-10-20 07:58 | norma
 OK   Threnody — Goldmund | last aired 2026-10-23 06:51 | normal pick now | request now
 OK   Thriller — Michael Jackson | last aired 2026-10-19 15:45 | normal pick now | request now
 OK   Through The Fire And Flames — Dragonforce | last aired 2026-10-22 11:49 | normal pick now | request now
-WAIT Thrown Away — VAST | last aired 2026-10-24 19:55 | normal pick from 2026-10-26 07:55 | request from 2026-10-25 15:55
+WAIT Thrown Away — VAST | last aired 2026-10-24 19:56 | normal pick from 2026-10-26 07:56 | request from 2026-10-25 15:56
 OK   Thunder Road — Bruce Springsteen | last aired 2026-10-18 00:26 | normal pick now | request now
 OK   Thunderstruck — 2CELLOS | last aired 2026-10-20 12:59 | normal pick now | request now
 OK   Thunderstruck — AC/DC | last aired 2026-10-13 16:30 | normal pick now | request now
