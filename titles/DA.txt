@@ -1,17 +1,17 @@
-Track status, song titles filed under DA (built Sat Oct 24, 2:05 AM PDT (09:05 UTC)). Times in UTC.
+Track status, song titles filed under DA (built Sat Oct 24, 3:05 AM PDT (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   D.A.N.C.E. — Justice | last aired 2026-10-21 17:44 | normal pick now | request now
 OK   D.A.V.E. — Ben Allison | last aired 2026-10-20 11:10 | normal pick now | request now
 OK   Damascus (feat. Omar Souleyman and Yasiin Bey) — Gorillaz | last aired 2026-10-22 20:09 | normal pick now | request now
-OK   Damn Right, I've Got the Blues — Buddy Guy | last aired 2026-10-17 20:51 | normal pick now | request now
+WAIT Damn Right, I've Got the Blues — Buddy Guy | last aired 2026-10-24 09:14 | normal pick from 2026-10-25 21:14 | request from 2026-10-25 05:14
 OK   Dance Me to the End of Love — Leonard Cohen | last aired 2026-10-20 20:01 | normal pick now | request now
 WAIT Dance The Pain Away — Haute & Freddy | last aired 2026-10-24 08:31 | normal pick from 2026-10-25 20:31 | request from 2026-10-25 04:31
 OK   Dancing Barefoot — Patti Smith Group | last aired 2026-10-22 18:30 | normal pick now | request now
 OK   Dancing in the Street (2002 Remaster) — David Bowie | last aired 2026-10-21 20:00 | normal pick now | request now
 WAIT Dancing Queen — ABBA | last aired 2026-10-23 09:20 | normal pick from 2026-10-25 09:20 | request from 2026-10-25 09:20
 OK   Dancing With Myself — The Vampire Lestat | last aired 2026-10-18 03:44 | normal pick now | request now
-WAIT Danger Zone (From "Top Gun" Original Soundtrack) — Kenny Loggins | last aired 2026-10-23 13:19 | normal pick from 2026-10-25 01:19 | request from 2026-10-24 09:19
+WAIT Danger Zone (From "Top Gun" Original Soundtrack) — Kenny Loggins | last aired 2026-10-23 13:19 | normal pick from 2026-10-25 01:19 | request now
 OK   Dansevise — Grethe & Jørgen Ingmann | last aired 2026-10-16 04:16 | normal pick now | request now
 OK   Darkest Dreaming — David Sylvian | last aired 2026-10-14 10:34 | normal pick now | request now
 OK   Das Model — Kraftwerk | last aired 2026-10-22 16:03 | normal pick now | request now

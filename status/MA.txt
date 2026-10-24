@@ -1,9 +1,9 @@
-Track status, artists filed under MA (built Sat Oct 24, 2:05 AM PDT (09:05 UTC)). Times in UTC.
+Track status, artists filed under MA (built Sat Oct 24, 3:05 AM PDT (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   M/A/R/R/S — Pump Up The Volume (UK 12" Remix) | last aired 2026-10-21 03:08 | normal pick now | request now
 OK   Mac DeMarco — Chamber Of Reflection | last aired 2026-10-22 09:10 | normal pick now | request now
-WAIT Mac DeMarco — My Kind of Woman | last aired 2026-10-22 21:44 | normal pick from 2026-10-24 09:44 | request now
+OK   Mac DeMarco — My Kind of Woman | last aired 2026-10-22 21:44 | normal pick now | request now
 OK   Mac DeMarco — No Other Heart | last aired 2026-10-22 03:24 | normal pick now | request now
 OK   Madness — Our House | last aired 2026-10-20 09:41 | normal pick now | request now
 OK   Madonna — Holiday | last aired 2026-10-15 01:45 | normal pick now | request now
@@ -25,7 +25,7 @@ OK   Marija Šerifović — Molitva | last aired 2026-10-15 23:17 | normal pick 
 OK   Marilyn Manson — The Love Song | last aired 2026-09-14 11:35 | normal pick now | request now
 WAIT Marisa Monte — Beija Eu | last aired 2026-10-22 13:08 | normal pick from 2026-10-24 13:08 | request from 2026-10-24 13:08
 OK   Mariya Takeuchi — Plastic Love | last aired 2026-10-20 00:25 | normal pick now | request now
-WAIT Mariza — Ó gente da minha terra | last aired 2026-10-22 10:02 | normal pick from 2026-10-24 10:02 | request from 2026-10-24 10:02
+OK   Mariza — Ó gente da minha terra | last aired 2026-10-22 10:02 | normal pick now | request now
 OK   Mark Hollis — A Life (1895 - 1915) | last aired 2026-10-14 13:52 | normal pick now | request now
 WAIT Mark Hollis — The Colour Of Spring | last aired 2026-10-24 03:43 | normal pick from 2026-10-25 15:43 | request from 2026-10-24 23:43
 WAIT Mark Knopfler — The Long Road | last aired 2026-10-24 06:41 | normal pick from 2026-10-25 18:41 | request from 2026-10-25 02:41

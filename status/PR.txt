@@ -1,4 +1,4 @@
-Track status, artists filed under PR (built Sat Oct 24, 2:05 AM PDT (09:05 UTC)). Times in UTC.
+Track status, artists filed under PR (built Sat Oct 24, 3:05 AM PDT (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Predatory Meerkats — Resist The Force | last aired 2026-10-18 02:56 | normal pick now | request now
@@ -10,4 +10,4 @@ WAIT Prince — Purple Rain  (2015 Paisley Park Remaster) | last aired 2026-10-2
 OK   Prince — Sometimes It Snows in April (LP Version) | last aired 2026-10-14 19:53 | normal pick now | request now
 OK   Prince — Uptown (LP Version) | last aired 2026-10-19 19:51 | normal pick now | request now
 OK   Procol Harum — A Whiter Shade of Pale (Original Single Version (2007 Remaster)) | last aired 2026-10-22 12:27 | normal pick now | request now
-OK   The Proclaimers — I'm Gonna Be (500 Miles) | last aired 2026-10-18 14:08 | normal pick now | request now
+WAIT The Proclaimers — I'm Gonna Be (500 Miles) | last aired 2026-10-24 09:31 | normal pick from 2026-10-26 09:31 | request from 2026-10-26 09:31
