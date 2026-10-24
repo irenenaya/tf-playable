@@ -1,4 +1,4 @@
-Track status, artists filed under HE (built Fri Oct 23, 6:05 PM PDT (01:05 UTC Sat)). Times in UTC.
+Track status, artists filed under HE (built Fri Oct 23, 7:05 PM PDT (02:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Heathered Pearls — Pacific Summits (Pulse Version) | last aired 2026-10-16 07:06 | normal pick now | request now
@@ -20,4 +20,4 @@ OK   Herbert Grönemeyer — Männer (Remastered 2016) | last aired 2026-10-21 0
 WAIT Herbert Grönemeyer — Was soll das (Remastered 2016) | last aired 2026-10-23 12:16 | normal pick from 2026-10-25 00:16 | request from 2026-10-24 08:16
 OK   Herbert Waltl — Brandenburg Concerto No. 3 in G Major, BWV 1048: I. Allegro | last aired 2026-10-16 07:46 | normal pick now | request now
 OK   Herbie Hancock — Chameleon | last aired 2026-10-21 20:47 | normal pick now | request now
-WAIT The Head And The Heart — Down in the Valley | last aired 2026-10-23 05:26 | normal pick from 2026-10-24 17:26 | request from 2026-10-24 01:26
+WAIT The Head And The Heart — Down in the Valley | last aired 2026-10-23 05:26 | normal pick from 2026-10-24 17:26 | request now

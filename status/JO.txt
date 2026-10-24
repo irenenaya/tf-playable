@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Fri Oct 23, 6:05 PM PDT (01:05 UTC Sat)). Times in UTC.
+Track status, artists filed under JO (built Fri Oct 23, 7:05 PM PDT (02:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-10-23 11:03 | normal pick from 2026-10-25 11:03 | request from 2026-10-25 11:03
@@ -6,7 +6,7 @@ OK   Jockstrap — Concrete Over Water | last aired 2026-10-15 18:09 | normal pi
 OK   Joe Cocker — With A Little Help From My Friends | last aired 2026-10-21 01:00 | normal pick now | request now
 OK   Joe Hisaishi — A Town with an Ocean View (from 'Kiki's Delivery Service') | last aired 2026-10-22 05:12 | normal pick now | request now
 WAIT Joe Hisaishi — a Wish to the Moon | last aired 2026-10-22 21:55 | normal pick from 2026-10-24 09:55 | request now
-OK   Joe Hisaishi — Asian Dream Song | last aired 2026-10-15 07:24 | normal pick now | request now
+WAIT Joe Hisaishi — Asian Dream Song | last aired 2026-10-24 01:05 | normal pick from 2026-10-25 13:05 | request from 2026-10-24 21:05
 OK   Joe Hisaishi — Deep Sea Pastures (from 'Ponyo on the Cliff by the Sea') | last aired 2026-10-17 06:55 | normal pick now | request now
 OK   Joe Hisaishi — Departures (from 'Departures') | last aired 2026-10-21 14:26 | normal pick now | request now
 WAIT Joe Hisaishi — Innocent (from 'Castle in the Sky') | last aired 2026-10-22 16:17 | normal pick from 2026-10-24 04:17 | request now
@@ -18,7 +18,7 @@ OK   Joe Hisaishi — Symphonic Suite “Princess Mononoke”2021 : V. Mononoke 
 OK   Joe Hisaishi — The Path of the Wind (from 'My Neighbor Totoro') | last aired 2026-10-20 19:23 | normal pick now | request now
 OK   Joe Hisaishi — アシタカとサン (from 'Princess Mononoke') | last aired 2026-10-09 06:12 | normal pick now | request now
 OK   Joel Pott — Chances | last aired 2026-10-19 00:14 | normal pick now | request now
-WAIT Johann Johannsson — Flight From The City - Jóhannsson: Flight from the City | last aired 2026-10-22 01:21 | normal pick from 2026-10-24 01:21 | request from 2026-10-24 01:21
+OK   Johann Johannsson — Flight From The City - Jóhannsson: Flight from the City | last aired 2026-10-22 01:21 | normal pick now | request now
 OK   John Carpenter — Halloween Theme | last aired 2026-10-13 02:49 | normal pick now | request now
 WAIT John Coltrane — Lush Life | last aired 2026-10-23 04:09 | normal pick from 2026-10-24 16:09 | request now
 WAIT John Coltrane — My Favorite Things | last aired 2026-10-23 17:00 | normal pick from 2026-10-25 05:00 | request from 2026-10-24 13:00
@@ -38,7 +38,7 @@ OK   Johnny Cash — Folsom Prison Blues | last aired 2026-10-17 20:35 | normal 
 WAIT Johnny Cash — Hurt (Album Version) | last aired 2026-10-22 05:57 | normal pick from 2026-10-24 05:57 | request from 2026-10-24 05:57
 WAIT Johnny Cash — Redemption Day (Album Version) | last aired 2026-10-22 14:09 | normal pick from 2026-10-24 02:09 | request now
 WAIT Johnny Cash — Ring of Fire | last aired 2026-10-22 19:16 | normal pick from 2026-10-24 07:16 | request now
-WAIT Johnny Flynn — Detectorists (Original Soundtrack from the TV Series) | last aired 2026-10-23 05:38 | normal pick from 2026-10-24 17:38 | request from 2026-10-24 01:38
+WAIT Johnny Flynn — Detectorists (Original Soundtrack from the TV Series) | last aired 2026-10-23 05:38 | normal pick from 2026-10-24 17:38 | request now
 OK   Johnny Mathis — Wonderful! Wonderful! | last aired 2026-10-14 01:09 | normal pick now | request now
 WAIT Joker Out — Novi Val | last aired 2026-10-23 10:03 | normal pick from 2026-10-24 22:03 | request from 2026-10-24 06:03
 OK   Jon Hopkins — Open Eye Signal (Remaster 2023) | last aired 2026-10-21 21:47 | normal pick now | request now
@@ -49,11 +49,11 @@ OK   Joni Mitchell — At Last (LP Version) | last aired 2026-10-20 11:54 | norm
 OK   Joni Mitchell — River | last aired 2026-10-13 12:16 | normal pick now | request now
 WAIT Jorge Ben Jor — Mas, Que Nada! | last aired 2026-10-22 13:05 | normal pick from 2026-10-24 13:05 | request from 2026-10-24 13:05
 OK   Josh Rouse — 1972 | last aired 2026-10-18 14:04 | normal pick now | request now
-OK   Josh Rouse — Street Lights | last aired 2026-10-15 18:29 | normal pick now | request now
+WAIT Josh Rouse — Street Lights | last aired 2026-10-24 01:38 | normal pick from 2026-10-25 13:38 | request from 2026-10-24 21:38
 WAIT José González — Heartbeats | last aired 2026-10-23 12:10 | normal pick from 2026-10-25 12:10 | request from 2026-10-25 12:10
 WAIT Journey — Don't Stop Believin' (Album Version) | last aired 2026-10-23 13:23 | normal pick from 2026-10-25 01:23 | request from 2026-10-24 09:23
 OK   Journey — Lights (Album Version) | last aired 2026-10-18 12:42 | normal pick now | request now
 OK   Joywave — In Clover | last aired 2026-10-20 14:20 | normal pick now | request now
 OK   Joywave — Rumors | last aired 2026-10-21 03:22 | normal pick now | request now
 WAIT João Gilberto — Chega de Saudade | last aired 2026-10-23 12:37 | normal pick from 2026-10-25 12:37 | request from 2026-10-25 12:37
-WAIT João Gilberto — Garota de Ipanema (Live) | last aired 2026-10-22 14:01 | normal pick from 2026-10-24 02:01 | request now
+OK   João Gilberto — Garota de Ipanema (Live) | last aired 2026-10-22 14:01 | normal pick now | request now
