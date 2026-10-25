@@ -1,4 +1,4 @@
-Track status, song titles filed under HA (built Sun Oct 25, 1:05 PM PDT (20:05 UTC)). Times in UTC.
+Track status, song titles filed under HA (built Sun Oct 25, 2:05 PM PDT (21:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Halah — Mazzy Star | last aired 2026-10-24 00:07 | normal pick from 2026-10-26 00:07 | request from 2026-10-26 00:07
@@ -10,7 +10,7 @@ OK   Halloween Theme — John Carpenter | last aired 2026-10-13 02:49 | normal p
 OK   Halo Theme Mjolnir Mix — Halo | last aired 2026-09-21 03:04 | normal pick now | request now
 OK   Hang on Sloopy — The McCoys | last aired 2026-10-23 11:00 | normal pick now | request now
 OK   Happy Birthday — Stevie Wonder | last aired 2026-09-29 18:47 | normal pick now | request now
-OK   Hard Rock Hallelujah — Lordi | last aired 2026-10-15 13:50 | normal pick now | request now
+WAIT Hard Rock Hallelujah — Lordi | last aired 2026-10-25 20:02 | normal pick from 2026-10-27 08:02 | request from 2026-10-26 16:02
 OK   Hard Times — The Jetzons | last aired 2026-10-23 16:35 | normal pick now | request now
 WAIT Hard to Say I'M Sorry / Get Away — Chicago | last aired 2026-10-24 20:27 | normal pick from 2026-10-26 08:27 | request now
 WAIT Hardcore Vibes — Dúné | last aired 2026-10-24 19:37 | normal pick from 2026-10-26 07:37 | request now
@@ -24,4 +24,4 @@ OK   Haunted When the Minutes Drag — Love and Rockets | last aired 2026-10-23 
 OK   Haus am See — Peter Fox | last aired 2026-10-22 20:24 | normal pick now | request now
 OK   Have a Cigar — Pink Floyd | last aired 2026-10-19 22:41 | normal pick now | request now
 OK   Have Yourself A Merry Little Christmas (Remastered 1999) — Frank Sinatra | last aired 2026-08-13 12:59 | normal pick now | request now
-OK   The Hand That Feeds — Nine Inch Nails | last aired 2026-10-03 01:28 | normal pick now | request now
+WAIT The Hand That Feeds — Nine Inch Nails | last aired 2026-10-25 20:48 | normal pick from 2026-10-27 08:48 | request from 2026-10-26 16:48
