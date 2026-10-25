@@ -1,8 +1,8 @@
-Track status, song titles filed under PA (built Sun Oct 25, 11:05 AM PDT (18:05 UTC)). Times in UTC.
+Track status, song titles filed under PA (built Sun Oct 25, 12:05 PM PDT (19:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Pac-Man (feat. ScHoolboy Q) — Gorillaz | last aired 2026-10-22 00:14 | normal pick now | request now
-WAIT Pacific Summits (Pulse Version) — Heathered Pearls | last aired 2026-10-24 06:16 | normal pick from 2026-10-25 18:16 | request now
+OK   Pacific Summits (Pulse Version) — Heathered Pearls | last aired 2026-10-24 06:16 | normal pick now | request now
 OK   Pagan Poetry — Björk | last aired 2026-10-22 22:18 | normal pick now | request now
 OK   Paid In Full — Eric B. & Rakim | last aired 2026-10-22 20:16 | normal pick now | request now
 WAIT Paint It, Black — The Rolling Stones | last aired 2026-10-24 17:56 | normal pick from 2026-10-26 05:56 | request now
@@ -22,5 +22,5 @@ OK   Passion, Grace & Fire (Album Version) — Al Di Meola | last aired 2026-10-
 WAIT Pata Pata — Miriam Makeba | last aired 2026-10-24 10:37 | normal pick from 2026-10-26 10:37 | request from 2026-10-26 10:37
 WAIT Patient — Playroom | last aired 2026-10-24 16:38 | normal pick from 2026-10-26 04:38 | request now
 OK   Pattern Recognition (feat. ODDEEO) — Neuro-sama | last aired 2026-09-25 15:01 | normal pick now | request now
-OK   Pärt: Für Alina — Alexander Malter | last aired 2026-10-21 06:57 | normal pick now | request now
+WAIT Pärt: Für Alina — Alexander Malter | last aired 2026-10-25 18:32 | normal pick from 2026-10-27 18:32 | request from 2026-10-27 18:32
 WAIT The Path of the Wind (from 'My Neighbor Totoro') — Joe Hisaishi | last aired 2026-10-24 10:28 | normal pick from 2026-10-25 22:28 | request now
