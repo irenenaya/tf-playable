@@ -1,11 +1,11 @@
-Track status, artists filed under PA (built Sun Oct 25, 1:05 AM PDT (08:05 UTC)). Times in UTC.
+Track status, artists filed under PA (built Sun Oct 25, 2:05 AM PDT (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Paco de Lucía — Entre Dos Aguas | last aired 2026-10-20 10:26 | normal pick now | request now
 OK   Paco de Lucía — Mediterranean sundance - Di Meola: Mediterranean sundance | last aired 2026-10-21 19:22 | normal pick now | request now
 OK   Pages — If I Saw You Again (Album Version) | last aired 2026-10-22 14:29 | normal pick now | request now
 OK   Pale Saints — Kinky Love | last aired 2026-10-16 09:58 | normal pick now | request now
-OK   Paolo Conte — Via Con Me | last aired 2026-10-22 12:53 | normal pick now | request now
+WAIT Paolo Conte — Via Con Me | last aired 2026-10-25 08:17 | normal pick from 2026-10-27 08:17 | request from 2026-10-27 08:17
 OK   Papa Roach — Last Resort | last aired 2026-10-14 13:49 | normal pick now | request now
 OK   Papooz — You and I | last aired 2026-10-22 03:13 | normal pick now | request now
 OK   Paramore — Thick Skull | last aired 2026-10-23 16:08 | normal pick now | request now
@@ -27,5 +27,5 @@ OK   Paul McCartney — Maybe I’m Amazed (2011 Remaster) | last aired 2026-10-
 WAIT Paul McCartney — Monkberry Moon Delight (2012 Remaster) | last aired 2026-10-24 18:17 | normal pick from 2026-10-26 06:17 | request from 2026-10-25 14:17
 WAIT Paul Rodgers — Muddy Water Blues | last aired 2026-10-25 03:36 | normal pick from 2026-10-26 15:36 | request from 2026-10-25 23:36
 OK   Paul Simon — Further to Fly | last aired 2026-10-22 04:38 | normal pick now | request now
-WAIT Paul Simon — You Can Call Me Al | last aired 2026-10-23 08:16 | normal pick from 2026-10-25 08:16 | request from 2026-10-25 08:16
+OK   Paul Simon — You Can Call Me Al | last aired 2026-10-23 08:16 | normal pick now | request now
 WAIT Paula Abdul — Straight Up (Single Version) | last aired 2026-10-24 16:25 | normal pick from 2026-10-26 04:25 | request from 2026-10-25 12:25
