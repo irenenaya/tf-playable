@@ -1,10 +1,10 @@
-Track status, artists filed under DA (built Sun Oct 25, 3:05 PM PDT (22:05 UTC)). Times in UTC.
+Track status, artists filed under DA (built Sun Oct 25, 4:05 PM PDT (23:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT D'Angelo — Untitled (How Does It Feel) | last aired 2026-10-24 14:59 | normal pick from 2026-10-26 02:59 | request now
 OK   Daft Punk — Around the World | last aired 2026-10-21 17:19 | normal pick now | request now
 OK   Daft Punk — Face to Face | last aired 2026-10-22 20:54 | normal pick now | request now
-WAIT Daft Punk feat. Julian Casablancas — Instant Crush (feat. Julian Casablancas) | last aired 2026-10-24 11:05 | normal pick from 2026-10-25 23:05 | request now
+OK   Daft Punk feat. Julian Casablancas — Instant Crush (feat. Julian Casablancas) | last aired 2026-10-24 11:05 | normal pick now | request now
 OK   Daft Punk — Harder, Better, Faster, Stronger | last aired 2026-10-22 00:31 | normal pick now | request now
 OK   Daft Punk — One More Time | last aired 2026-10-23 09:24 | normal pick now | request now
 WAIT Daft Punk — Something About Us | last aired 2026-10-25 08:32 | normal pick from 2026-10-27 08:32 | request from 2026-10-27 08:32
@@ -15,7 +15,7 @@ OK   Daikaiju — Magic Wanda | last aired 2026-10-18 17:34 | normal pick now | 
 WAIT Dalida — Paroles paroles (Album Version) | last aired 2026-10-24 22:33 | normal pick from 2026-10-26 22:33 | request from 2026-10-26 22:33
 OK   Damien Rice — The Blower's Daughter | last aired 2026-10-22 07:30 | normal pick now | request now
 WAIT Daniel Barenboim — Nocturne n° 2 in E flat, op. 9 n° 2 - Nocturne No. 2 in E-Flat Major, Op. 9 No. 2 | last aired 2026-10-25 18:18 | normal pick from 2026-10-27 18:18 | request from 2026-10-27 18:18
-WAIT Daniel Pemberton — Amaze Amaze Amaze (Life on Erid) (from "Project Hail Mary") | last aired 2026-10-25 12:41 | normal pick from 2026-10-27 00:41 | request from 2026-10-26 08:41
+WAIT Daniel Pemberton — Amaze Amaze Amaze (Life on Erid) (from "Project Hail Mary") | last aired 2026-10-25 22:33 | normal pick from 2026-10-27 10:33 | request from 2026-10-26 18:33
 WAIT Dara — Bangaranga | last aired 2026-10-24 21:47 | normal pick from 2026-10-26 09:47 | request now
 WAIT Darude — Sandstorm | last aired 2026-10-24 22:57 | normal pick from 2026-10-26 10:57 | request now
 OK   Daryl Hall & John Oates — I Can't Go For That (No Can Do) (Remastered 2003) | last aired 2026-10-22 09:47 | normal pick now | request now
