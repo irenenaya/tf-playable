@@ -1,4 +1,4 @@
-Track status, artists filed under BO (built Sat Oct 24, 5:05 PM PDT (00:05 UTC Sun)). Times in UTC.
+Track status, artists filed under BO (built Sat Oct 24, 6:05 PM PDT (01:05 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Boards of Canada — Blood In The Labyrinth | last aired 2026-10-21 21:42 | normal pick now | request now
@@ -18,12 +18,12 @@ WAIT Bobby Vinton — Blue Velvet | last aired 2026-10-24 09:26 | normal pick fr
 OK   Bon Iver — Holocene | last aired 2026-10-22 02:20 | normal pick now | request now
 WAIT Bon Iver — Skinny Love | last aired 2026-10-23 21:35 | normal pick from 2026-10-25 21:35 | request from 2026-10-25 21:35
 OK   Bon Jovi — Livin' On A Prayer | last aired 2026-10-18 16:45 | normal pick now | request now
-WAIT Bon Jovi — You Give Love A Bad Name | last aired 2026-10-23 13:01 | normal pick from 2026-10-25 01:01 | request now
+OK   Bon Jovi — You Give Love A Bad Name | last aired 2026-10-23 13:01 | normal pick now | request now
 OK   Boney M. — Gotta Go Home | last aired 2026-10-23 08:43 | normal pick now | request now
 WAIT Boney M. — Sunny | last aired 2026-10-24 20:59 | normal pick from 2026-10-26 08:59 | request from 2026-10-25 16:59
 OK   Bonnie Tyler — Holding Out for a Hero (From "Footloose" Soundtrack) | last aired 2026-10-20 20:26 | normal pick now | request now
 WAIT Bonnie Tyler — Total Eclipse of the Heart | last aired 2026-10-23 13:49 | normal pick from 2026-10-25 01:49 | request now
-WAIT Bonobo — Cirrus | last aired 2026-10-23 12:31 | normal pick from 2026-10-25 00:31 | request now
+OK   Bonobo — Cirrus | last aired 2026-10-23 12:31 | normal pick now | request now
 OK   Bonobo — Kiara | last aired 2026-10-22 00:27 | normal pick now | request now
 WAIT Bonobo — Kong | last aired 2026-10-23 23:20 | normal pick from 2026-10-25 23:20 | request from 2026-10-25 23:20
 OK   Bonobo — Terrapin | last aired 2026-10-22 02:43 | normal pick now | request now
@@ -36,4 +36,4 @@ WAIT Boy Throb — Finger | last aired 2026-10-24 16:49 | normal pick from 2026-
 OK   Boyz II Men — End Of The Road (Album Version) | last aired 2026-10-22 14:23 | normal pick now | request now
 OK   Boz Scaggs — JoJo (2023 Remaster) | last aired 2026-10-19 11:15 | normal pick now | request now
 OK   Boz Scaggs — Lowdown (2023 Remaster) | last aired 2026-10-18 15:51 | normal pick now | request now
-WAIT Boz Scaggs — Simone (2023 Remaster) | last aired 2026-10-23 12:26 | normal pick from 2026-10-25 00:26 | request now
+OK   Boz Scaggs — Simone (2023 Remaster) | last aired 2026-10-23 12:26 | normal pick now | request now

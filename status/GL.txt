@@ -1,14 +1,14 @@
-Track status, artists filed under GL (built Sat Oct 24, 5:05 PM PDT (00:05 UTC Sun)). Times in UTC.
+Track status, artists filed under GL (built Sat Oct 24, 6:05 PM PDT (01:05 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Glasperlenspiel — Nie vergessen | last aired 2026-10-24 07:42 | normal pick from 2026-10-25 19:42 | request from 2026-10-25 03:42
-WAIT Glass Animals — Heat Waves (Stripped Back) | last aired 2026-10-23 00:48 | normal pick from 2026-10-25 00:48 | request from 2026-10-25 00:48
+OK   Glass Animals — Heat Waves (Stripped Back) | last aired 2026-10-23 00:48 | normal pick now | request now
 OK   Glass Animals — Life Itself | last aired 2026-10-22 09:14 | normal pick now | request now
 OK   Glen Hansard and Marketa Irglova — Falling Slowly (Album Version) | last aired 2026-10-19 01:35 | normal pick now | request now
 OK   Glenn Gould — 3 Klavierstücke, Op. 11 - No. 1, Massig | last aired 2026-10-18 04:12 | normal pick now | request now
 WAIT Glenn Gould — 3 Klavierstücke, Op. 11 - No. 2, Mässige Achtel (Instrumental) | last aired 2026-10-24 05:19 | normal pick from 2026-10-25 17:19 | request from 2026-10-25 01:19
 OK   Glenn Gould — 3 Klavierstücke, Op. 11 - No. 3, Bewegte Achtel (Instrumental) | last aired 2026-10-16 07:43 | normal pick now | request now
-WAIT Glenn Miller & His Orchestra — (I've Got A Gal In) Kalamazoo | last aired 2026-10-23 12:43 | normal pick from 2026-10-25 00:43 | request now
+OK   Glenn Miller & His Orchestra — (I've Got A Gal In) Kalamazoo | last aired 2026-10-23 12:43 | normal pick now | request now
 OK   Glenn Miller & His Orchestra — At Last | last aired 2026-10-18 02:00 | normal pick now | request now
 OK   Gloria Estefan — Rhythm Is Gonna Get You | last aired 2026-10-21 18:20 | normal pick now | request now
 OK   Gloria Gaynor — I Will Survive | last aired 2026-10-19 22:02 | normal pick now | request now

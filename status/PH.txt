@@ -1,9 +1,9 @@
-Track status, artists filed under PH (built Sat Oct 24, 5:05 PM PDT (00:05 UTC Sun)). Times in UTC.
+Track status, artists filed under PH (built Sat Oct 24, 6:05 PM PDT (01:05 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Phil Collins — In the Air Tonight  (2015 Remaster) | last aired 2026-10-12 17:32 | normal pick now | request now
 WAIT Phoebe Bridgers — Kyoto | last aired 2026-10-23 21:15 | normal pick from 2026-10-25 21:15 | request from 2026-10-25 21:15
 OK   Phoebe Bridgers — Moon Song | last aired 2026-10-22 03:35 | normal pick now | request now
 OK   Phoebe Bridgers — Smoke Signals | last aired 2026-10-21 10:31 | normal pick now | request now
-WAIT Phoenix — Lisztomania | last aired 2026-10-23 00:51 | normal pick from 2026-10-25 00:51 | request from 2026-10-25 00:51
+OK   Phoenix — Lisztomania | last aired 2026-10-23 00:51 | normal pick now | request now
 WAIT Phosphorescent — Song for Zula | last aired 2026-10-24 01:43 | normal pick from 2026-10-25 13:43 | request now
