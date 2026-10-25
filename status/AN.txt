@@ -1,7 +1,7 @@
-Track status, artists filed under AN (built Sun Oct 25, 9:05 AM PDT (16:05 UTC)). Times in UTC.
+Track status, artists filed under AN (built Sun Oct 25, 10:05 AM PDT (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Ana Sofia Varela — Fado Vadio (Má Fama) | last aired 2026-10-15 12:58 | normal pick now | request now
+WAIT Ana Sofia Varela — Fado Vadio (Má Fama) | last aired 2026-10-25 16:05 | normal pick from 2026-10-27 04:05 | request from 2026-10-26 12:05
 OK   Andrew W.K. — Party Hard (Album Version) | last aired 2026-10-15 20:32 | normal pick now | request now
 WAIT Andrés Calamaro — Flaca | last aired 2026-10-24 22:52 | normal pick from 2026-10-26 22:52 | request from 2026-10-26 22:52
 WAIT Angus & Julia Stone — You're The One That I Want | last aired 2026-10-23 21:27 | normal pick from 2026-10-25 21:27 | request from 2026-10-25 21:27
@@ -11,7 +11,7 @@ OK   Anita Baker — Angel (LP Version) | last aired 2026-10-23 01:52 | normal p
 OK   Anita Baker — Caught Up in the Rapture (LP Version) | last aired 2026-10-22 17:22 | normal pick now | request now
 WAIT Anita Baker — Sweet Love | last aired 2026-10-25 14:27 | normal pick from 2026-10-27 14:27 | request from 2026-10-27 14:27
 WAIT Anne Clark — Our Darkness | last aired 2026-10-25 13:09 | normal pick from 2026-10-27 01:09 | request from 2026-10-26 09:09
-WAIT Annenmaykantereit — Oft gefragt | last aired 2026-10-24 04:37 | normal pick from 2026-10-25 16:37 | request now
+OK   Annenmaykantereit — Oft gefragt | last aired 2026-10-24 04:37 | normal pick now | request now
 OK   ANNIE — Heartbeat | last aired 2026-10-23 14:19 | normal pick now | request now
 WAIT ANORAQUE — Ivy | last aired 2026-10-25 05:48 | normal pick from 2026-10-26 17:48 | request from 2026-10-26 01:48
 WAIT Antonio Campo — I Need You More and More  (Remastered) | last aired 2026-10-25 11:55 | normal pick from 2026-10-26 23:55 | request from 2026-10-26 07:55
