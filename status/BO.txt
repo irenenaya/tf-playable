@@ -1,4 +1,4 @@
-Track status, artists filed under BO (built Sat Oct 24, 9:05 PM PDT (04:05 UTC Sun)). Times in UTC.
+Track status, artists filed under BO (built Sat Oct 24, 10:05 PM PDT (05:05 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Boards of Canada — Blood In The Labyrinth | last aired 2026-10-21 21:42 | normal pick now | request now
@@ -35,5 +35,5 @@ OK   Bowling For Soup — 1985 | last aired 2026-10-15 02:19 | normal pick now |
 WAIT Boy Throb — Finger | last aired 2026-10-24 16:49 | normal pick from 2026-10-26 04:49 | request from 2026-10-25 12:49
 OK   Boyz II Men — End Of The Road (Album Version) | last aired 2026-10-22 14:23 | normal pick now | request now
 OK   Boz Scaggs — JoJo (2023 Remaster) | last aired 2026-10-19 11:15 | normal pick now | request now
-OK   Boz Scaggs — Lowdown (2023 Remaster) | last aired 2026-10-18 15:51 | normal pick now | request now
+WAIT Boz Scaggs — Lowdown (2023 Remaster) | last aired 2026-10-25 04:23 | normal pick from 2026-10-26 16:23 | request from 2026-10-26 00:23
 OK   Boz Scaggs — Simone (2023 Remaster) | last aired 2026-10-23 12:26 | normal pick now | request now

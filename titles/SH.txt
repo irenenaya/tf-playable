@@ -1,7 +1,7 @@
-Track status, song titles filed under SH (built Sat Oct 24, 9:05 PM PDT (04:05 UTC Sun)). Times in UTC.
+Track status, song titles filed under SH (built Sat Oct 24, 10:05 PM PDT (05:05 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Shampoo — Greg Shilling | last aired 2026-10-19 22:57 | normal pick now | request now
+WAIT Shampoo — Greg Shilling | last aired 2026-10-25 04:45 | normal pick from 2026-10-26 16:45 | request from 2026-10-26 00:45
 OK   Shape Of My Heart (My Songs Version) — Sting | last aired 2026-10-17 15:21 | normal pick now | request now
 WAIT Shape — Sophie Hunger | last aired 2026-10-24 12:53 | normal pick from 2026-10-26 00:53 | request from 2026-10-25 08:53
 OK   Sharkey's Day (Album Version) — Laurie Anderson | last aired 2026-10-23 14:22 | normal pick now | request now

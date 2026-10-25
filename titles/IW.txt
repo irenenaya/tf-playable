@@ -1,4 +1,4 @@
-Track status, song titles filed under IW (built Sat Oct 24, 9:05 PM PDT (04:05 UTC Sun)). Times in UTC.
+Track status, song titles filed under IW (built Sat Oct 24, 10:05 PM PDT (05:05 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT I Wanna Dance with Somebody (Who Loves Me) — Whitney Houston | last aired 2026-10-23 18:33 | normal pick from 2026-10-25 06:33 | request now
@@ -9,5 +9,5 @@ OK   I Will Survive — Gloria Gaynor | last aired 2026-10-19 22:02 | normal pic
 OK   I Wish — Stevie Wonder | last aired 2026-10-21 20:17 | normal pick now | request now
 OK   I Won't Back Down — Tom Petty | last aired 2026-10-23 07:25 | normal pick now | request now
 OK   I Wonder (Album Version) — Mahavishnu Orchestra | last aired 2026-10-17 09:46 | normal pick now | request now
-OK   I Wonder (Departure) — ABBA | last aired 2026-10-18 12:14 | normal pick now | request now
-OK   Iwasadoledadstoyboy — The Style Council | last aired 2026-10-14 04:58 | normal pick now | request now
+WAIT I Wonder (Departure) — ABBA | last aired 2026-10-25 04:52 | normal pick from 2026-10-26 16:52 | request from 2026-10-26 00:52
+WAIT Iwasadoledadstoyboy — The Style Council | last aired 2026-10-25 04:18 | normal pick from 2026-10-26 16:18 | request from 2026-10-26 00:18
