@@ -1,4 +1,4 @@
-Track status, artists filed under DU (built Sat Oct 24, 8:05 PM PDT (03:05 UTC Sun)). Times in UTC.
+Track status, artists filed under DU (built Sat Oct 24, 9:05 PM PDT (04:05 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Dua Lipa — Don't Start Now | last aired 2026-10-23 09:49 | normal pick from 2026-10-25 09:49 | request from 2026-10-25 09:49
@@ -8,7 +8,7 @@ WAIT Dua Lipa — Training Season | last aired 2026-10-23 18:38 | normal pick fr
 OK   Duke Ellington — In A Sentimental Mood | last aired 2026-10-22 15:21 | normal pick now | request now
 WAIT Duncan Laurence — Arcade (feat. FLETCHER) | last aired 2026-10-24 03:56 | normal pick from 2026-10-25 15:56 | request now
 OK   Duncan Sheik — Barely Breathing | last aired 2026-09-19 22:14 | normal pick now | request now
-WAIT Duran Duran — Notorious  (2010 Remaster) | last aired 2026-10-24 07:45 | normal pick from 2026-10-25 19:45 | request from 2026-10-25 03:45
+WAIT Duran Duran — Notorious  (2010 Remaster) | last aired 2026-10-24 07:45 | normal pick from 2026-10-25 19:45 | request now
 OK   Duran Duran — Ordinary World | last aired 2026-10-20 21:15 | normal pick now | request now
 OK   Duran Duran — PSYCHO KILLER (feat. Victoria De Angelis) (Cover) | last aired 2026-10-21 01:05 | normal pick now | request now
 WAIT Durand Jones & The Indications — Witchoo | last aired 2026-10-24 21:21 | normal pick from 2026-10-26 09:21 | request from 2026-10-25 17:21

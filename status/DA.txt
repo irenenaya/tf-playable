@@ -1,4 +1,4 @@
-Track status, artists filed under DA (built Sat Oct 24, 8:05 PM PDT (03:05 UTC Sun)). Times in UTC.
+Track status, artists filed under DA (built Sat Oct 24, 9:05 PM PDT (04:05 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT D'Angelo — Untitled (How Does It Feel) | last aired 2026-10-24 14:59 | normal pick from 2026-10-26 02:59 | request from 2026-10-25 10:59
@@ -30,7 +30,7 @@ OK   David Bowie — Moonage Daydream (2012 Remaster) | last aired 2026-10-21 03
 OK   David Bowie — Rebel Rebel | last aired 2026-10-20 13:33 | normal pick now | request now
 OK   David Bowie — Slip Away | last aired 2026-10-17 01:45 | normal pick now | request now
 OK   David Bowie — Slow Burn | last aired 2026-10-22 12:15 | normal pick now | request now
-WAIT David Bowie — Sound and Vision  (2017 Remaster) | last aired 2026-10-23 15:48 | normal pick from 2026-10-25 03:48 | request now
+OK   David Bowie — Sound and Vision  (2017 Remaster) | last aired 2026-10-23 15:48 | normal pick now | request now
 OK   David Bowie — Space Oddity | last aired 2026-09-28 12:18 | normal pick now | request now
 OK   David Bowie — Starman  (2012 Remaster) | last aired 2026-10-22 21:36 | normal pick now | request now
 OK   David Bowie — Subterraneans  (2017 Remaster) | last aired 2026-10-22 07:35 | normal pick now | request now
