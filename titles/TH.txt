@@ -1,8 +1,8 @@
-Track status, song titles filed under TH (built Sun Oct 25, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, song titles filed under TH (built Sun Oct 25, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   (They Long To Be) Close To You — The Carpenters | last aired 2026-10-22 18:54 | normal pick now | request now
-WAIT Thank you — Alabama 3 | last aired 2026-10-24 03:49 | normal pick from 2026-10-25 15:49 | request now
+OK   Thank you — Alabama 3 | last aired 2026-10-24 03:49 | normal pick now | request now
 WAIT thanks, my day is ruined — Alex Andre | last aired 2026-10-25 13:48 | normal pick from 2026-10-27 01:48 | request from 2026-10-26 09:48
 OK   That Acid — Marie Vaunt | last aired 2026-10-13 11:14 | normal pick now | request now
 OK   That's All for Everyone — Fleetwood Mac | last aired 2026-10-22 09:44 | normal pick now | request now
@@ -25,7 +25,7 @@ OK   This Woman's Work (Uncut) — Maxwell | last aired 2026-10-20 07:58 | norma
 OK   Threnody — Goldmund | last aired 2026-10-23 06:51 | normal pick now | request now
 OK   Thriller — Michael Jackson | last aired 2026-10-19 15:45 | normal pick now | request now
 OK   Through The Fire And Flames — Dragonforce | last aired 2026-10-22 11:49 | normal pick now | request now
-WAIT Thrown Away — VAST | last aired 2026-10-24 19:56 | normal pick from 2026-10-26 07:56 | request from 2026-10-25 15:56
+WAIT Thrown Away — VAST | last aired 2026-10-24 19:56 | normal pick from 2026-10-26 07:56 | request now
 OK   Thunder Road — Bruce Springsteen | last aired 2026-10-18 00:26 | normal pick now | request now
 OK   Thunderstruck — 2CELLOS | last aired 2026-10-20 12:59 | normal pick now | request now
 OK   Thunderstruck — AC/DC | last aired 2026-10-13 16:30 | normal pick now | request now

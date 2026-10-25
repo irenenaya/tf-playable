@@ -1,4 +1,4 @@
-Track status, artists filed under DO (built Sun Oct 25, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, artists filed under DO (built Sun Oct 25, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Dolly Parton — 9 to 5 | last aired 2026-10-12 03:54 | normal pick now | request now
@@ -20,4 +20,4 @@ OK   Dot Allison — Bleached By The Sun | last aired 2026-10-24 01:53 | normal 
 WAIT The Doobie Brothers — What a Fool Believes | last aired 2026-10-25 14:47 | normal pick from 2026-10-27 02:47 | request from 2026-10-26 10:47
 OK   The Doobie Brothers — You Belong to Me  (2016 Remaster) | last aired 2026-10-23 13:31 | normal pick now | request now
 OK   The Doors — Riders on the Storm | last aired 2026-10-21 13:52 | normal pick now | request now
-WAIT The Doors — Spanish Caravan | last aired 2026-10-24 03:40 | normal pick from 2026-10-25 15:40 | request now
+OK   The Doors — Spanish Caravan | last aired 2026-10-24 03:40 | normal pick now | request now

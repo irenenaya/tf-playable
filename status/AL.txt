@@ -1,9 +1,9 @@
-Track status, artists filed under AL (built Sun Oct 25, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, artists filed under AL (built Sun Oct 25, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Al Di Meola — Double Concerto | last aired 2026-10-24 07:27 | normal pick from 2026-10-25 19:27 | request now
 OK   Al Di Meola — Libertango | last aired 2026-10-13 20:57 | normal pick now | request now
-WAIT Al Di Meola — Passion, Grace & Fire (Album Version) | last aired 2026-10-24 03:34 | normal pick from 2026-10-25 15:34 | request now
+OK   Al Di Meola — Passion, Grace & Fire (Album Version) | last aired 2026-10-24 03:34 | normal pick now | request now
 OK   Al Di Meola — Red Moon | last aired 2026-10-15 03:10 | normal pick now | request now
 WAIT Al Green — Let's Stay Together | last aired 2026-10-25 04:29 | normal pick from 2026-10-27 04:29 | request from 2026-10-27 04:29
 OK   Al Green — Love and Happiness | last aired 2026-10-21 20:25 | normal pick now | request now
@@ -11,9 +11,9 @@ OK   Al Green — Simply Beautiful | last aired 2026-10-22 06:52 | normal pick n
 OK   Al Green — The Lord Will Make a Way | last aired 2026-10-22 17:12 | normal pick now | request now
 OK   Al Stewart — Year of the Cat | last aired 2026-10-18 11:38 | normal pick now | request now
 WAIT Alabama 3 — Sad Eyed Lady Of The Low Life | last aired 2026-10-25 01:37 | normal pick from 2026-10-26 13:37 | request from 2026-10-25 21:37
-WAIT Alabama 3 — Thank you | last aired 2026-10-24 03:49 | normal pick from 2026-10-25 15:49 | request now
+OK   Alabama 3 — Thank you | last aired 2026-10-24 03:49 | normal pick now | request now
 OK   Alabama 3 — Woke Up This Morning | last aired 2026-09-25 07:44 | normal pick now | request now
-WAIT Albert Hammond — When I'm Gone | last aired 2026-10-24 03:24 | normal pick from 2026-10-25 15:24 | request now
+OK   Albert Hammond — When I'm Gone | last aired 2026-10-24 03:24 | normal pick now | request now
 OK   Albert King — Born Under A Bad Sign | last aired 2026-10-21 02:44 | normal pick now | request now
 OK   Alestorm — Captain Morgan`s Revenge | last aired 2026-10-18 02:31 | normal pick now | request now
 OK   Alestorm — Drink | last aired 2026-09-25 20:38 | normal pick now | request now

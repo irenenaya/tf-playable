@@ -1,7 +1,7 @@
-Track status, artists filed under BR (built Sun Oct 25, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, artists filed under BR (built Sun Oct 25, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Brainstory — Mnemophobia | last aired 2026-10-24 03:53 | normal pick from 2026-10-25 15:53 | request now
+OK   Brainstory — Mnemophobia | last aired 2026-10-24 03:53 | normal pick now | request now
 OK   Brandi Carlile — The Joke | last aired 2026-10-22 04:47 | normal pick now | request now
 WAIT Breakbot — Baby I'm Yours | last aired 2026-10-24 20:55 | normal pick from 2026-10-26 08:55 | request from 2026-10-25 16:55
 OK   Breakestra — Back At The Boathouse | last aired 2026-10-17 13:07 | normal pick now | request now
@@ -12,7 +12,7 @@ OK   Brian Eno — Deep Blue Day (Remastered 2019) | last aired 2026-10-21 05:36
 OK   Brian Eno — Fullness Of Wind (Variation On 'The Canon In D Major' By Johann Pachelbel) (Remastered 2004) | last aired 2026-10-23 02:16 | normal pick now | request now
 OK   Brian Eno — Spinning Away | last aired 2026-10-20 06:14 | normal pick now | request now
 OK   Brian Eno — The Big Ship (2004 Remaster) | last aired 2026-10-21 10:53 | normal pick now | request now
-WAIT Brijean — Counting Sheep | last aired 2026-10-24 19:18 | normal pick from 2026-10-26 07:18 | request from 2026-10-25 15:18
+WAIT Brijean — Counting Sheep | last aired 2026-10-24 19:18 | normal pick from 2026-10-26 07:18 | request now
 OK   Bring Me The Horizon — Blessed with a Curse | last aired 2026-10-18 10:42 | normal pick now | request now
 WAIT Bruce Kaphan — Clouds | last aired 2026-10-24 14:04 | normal pick from 2026-10-26 02:04 | request now
 OK   Bruce Springsteen — Born in the U.S.A. | last aired 2026-10-21 02:58 | normal pick now | request now
