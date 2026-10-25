@@ -1,15 +1,15 @@
-Track status, song titles filed under SO (built Sat Oct 24, 6:05 PM PDT (01:05 UTC Sun)). Times in UTC.
+Track status, song titles filed under SO (built Sat Oct 24, 7:05 PM PDT (02:05 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   So Alive — Love and Rockets | last aired 2026-10-19 22:53 | normal pick now | request now
-WAIT So Far Away — Carole King | last aired 2026-10-23 01:23 | normal pick from 2026-10-25 01:23 | request from 2026-10-25 01:23
+OK   So Far Away — Carole King | last aired 2026-10-23 01:23 | normal pick now | request now
 OK   So Long, Marianne — Leonard Cohen | last aired 2026-10-22 05:24 | normal pick now | request now
 OK   So Real — Jeff Buckley | last aired 2026-10-22 14:41 | normal pick now | request now
 OK   So What — Miles Davis | last aired 2026-10-23 12:46 | normal pick now | request now
 OK   So What — P!nk | last aired 2026-10-20 15:13 | normal pick now | request now
 WAIT Sodade — Cesária Evora | last aired 2026-10-23 07:57 | normal pick from 2026-10-25 07:57 | request from 2026-10-25 07:57
 OK   Solidarity Forever — Pete Seeger | last aired 2026-10-18 21:57 | normal pick now | request now
-WAIT Solitude — Geoffrey Oryema | last aired 2026-10-24 05:50 | normal pick from 2026-10-25 17:50 | request from 2026-10-25 01:50
+WAIT Solitude — Geoffrey Oryema | last aired 2026-10-24 05:50 | normal pick from 2026-10-25 17:50 | request now
 OK   Some Place We Called Home — Piotr Musial | last aired 2026-10-23 08:02 | normal pick now | request now
 OK   Somebody Else — The 1975 | last aired 2026-10-20 13:17 | normal pick now | request now
 WAIT Somebody to Love (Album Version) — George Michael | last aired 2026-10-24 03:12 | normal pick from 2026-10-25 15:12 | request now
