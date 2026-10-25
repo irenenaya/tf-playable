@@ -1,4 +1,4 @@
-Track status, song titles filed under LO (built Sat Oct 24, 7:05 PM PDT (02:05 UTC Sun)). Times in UTC.
+Track status, song titles filed under LO (built Sat Oct 24, 8:05 PM PDT (03:05 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   L-O-V-E — Nat King Cole | last aired 2026-10-23 01:14 | normal pick now | request now
@@ -22,7 +22,7 @@ WAIT Love Is Blue (Album Version) — Paul Mauriat | last aired 2026-10-24 09:23
 WAIT Love Kills — Freddie Mercury | last aired 2026-10-24 13:49 | normal pick from 2026-10-26 01:49 | request from 2026-10-25 09:49
 OK   Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley — Studio Group | last aired 2026-08-31 18:46 | normal pick now | request now
 OK   Love — Mica Levi | last aired 2026-10-07 05:28 | normal pick now | request now
-OK   Love On A Real Train — Tangerine Dream | last aired 2026-10-16 12:49 | normal pick now | request now
+WAIT Love On A Real Train — Tangerine Dream | last aired 2026-10-25 02:38 | normal pick from 2026-10-26 14:38 | request from 2026-10-25 22:38
 WAIT LOVE TRIP — Takako Mamiya | last aired 2026-10-24 17:46 | normal pick from 2026-10-26 17:46 | request from 2026-10-26 17:46
 OK   Lovely Day — Bill Withers | last aired 2026-10-20 23:34 | normal pick now | request now
 WAIT Lovers Rock — TV Girl | last aired 2026-10-24 07:54 | normal pick from 2026-10-25 19:54 | request from 2026-10-25 03:54
@@ -33,7 +33,7 @@ OK   Loving Machine — TV Girl | last aired 2026-10-16 13:16 | normal pick now 
 OK   Low Frequency Thunderstorm Shield — Cognitron | last aired 2026-10-21 06:17 | normal pick now | request now
 OK   Lowdown (2023 Remaster) — Boz Scaggs | last aired 2026-10-18 15:51 | normal pick now | request now
 OK   The Lonesome Death of Hattie Carroll — Bob Dylan | last aired 2026-10-23 03:23 | normal pick now | request now
-WAIT The Long Road — Mark Knopfler | last aired 2026-10-24 06:41 | normal pick from 2026-10-25 18:41 | request from 2026-10-25 02:41
+WAIT The Long Road — Mark Knopfler | last aired 2026-10-24 06:41 | normal pick from 2026-10-25 18:41 | request now
 OK   The Look — Roxette | last aired 2026-10-21 17:40 | normal pick now | request now
 OK   The Lord Will Make a Way — Al Green | last aired 2026-10-22 17:12 | normal pick now | request now
 OK   The Love Song — Marilyn Manson | last aired 2026-09-14 11:35 | normal pick now | request now

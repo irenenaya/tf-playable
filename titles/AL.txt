@@ -1,4 +1,4 @@
-Track status, song titles filed under AL (built Sat Oct 24, 7:05 PM PDT (02:05 UTC Sun)). Times in UTC.
+Track status, song titles filed under AL (built Sat Oct 24, 8:05 PM PDT (03:05 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   A Life (1895 - 1915) — Mark Hollis | last aired 2026-10-14 13:52 | normal pick now | request now
@@ -6,7 +6,7 @@ OK   A Little Lost — Peter Broderick | last aired 2026-10-22 01:27 | normal pi
 OK   Albatross — Fleetwood Mac | last aired 2026-10-05 18:17 | normal pick now | request now
 OK   Algorithm — Heejin | last aired 2026-10-21 14:42 | normal pick now | request now
 OK   Alien Observer — Grouper | last aired 2026-10-22 07:41 | normal pick now | request now
-WAIT Alison — Slowdive | last aired 2026-10-25 00:26 | normal pick from 2026-10-27 00:26 | request from 2026-10-27 00:26
+WAIT Alison — Slowdive | last aired 2026-10-25 00:27 | normal pick from 2026-10-27 00:27 | request from 2026-10-27 00:27
 WAIT Alive And Kicking (Remastered 2002) — Simple Minds | last aired 2026-10-24 13:01 | normal pick from 2026-10-26 01:01 | request from 2026-10-25 09:01
 OK   All Along The Watchtower (Live - Rattle & Hum Version) — U2 | last aired 2026-10-21 15:02 | normal pick now | request now
 OK   All I Wanna Do — Sheryl Crow | last aired 2026-10-23 09:37 | normal pick now | request now
@@ -20,7 +20,7 @@ OK   All The Way — Kat Edmonson | last aired 2026-10-20 11:23 | normal pick no
 OK   All Through the Night — Cyndi Lauper | last aired 2026-10-14 22:47 | normal pick now | request now
 OK   All We Are — Matt Nathanson | last aired 2026-10-16 01:34 | normal pick now | request now
 OK   Alles neu (Album Version) — Peter Fox | last aired 2026-10-20 19:34 | normal pick now | request now
-WAIT Almost Blue — Chet Baker | last aired 2026-10-23 14:59 | normal pick from 2026-10-25 02:59 | request now
+OK   Almost Blue — Chet Baker | last aired 2026-10-23 14:59 | normal pick now | request now
 OK   Almost Blue — Elvis Costello | last aired 2026-10-17 12:10 | normal pick now | request now
 OK   Almost Gothic (Album Version) — Steely Dan | last aired 2026-10-16 20:51 | normal pick now | request now
 WAIT Alright — Kendrick Lamar | last aired 2026-10-24 03:20 | normal pick from 2026-10-25 15:20 | request now

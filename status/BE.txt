@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Sat Oct 24, 7:05 PM PDT (02:05 UTC Sun)). Times in UTC.
+Track status, artists filed under BE (built Sat Oct 24, 8:05 PM PDT (03:05 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Beach House — Bluebird | last aired 2026-10-11 03:23 | normal pick now | request now
@@ -8,12 +8,12 @@ OK   Beatrice Rana — Keyboard Concerto No. 1 in D Minor, BWV 1052: I. Allegro 
 WAIT Beatrice Rana — Libertango (Arr. Yamamoto for Piano 4-Hands) | last aired 2026-10-24 10:48 | normal pick from 2026-10-26 10:48 | request from 2026-10-26 10:48
 OK   Beats by Luca — 52 CHICKEN NUGGET (McRave) | last aired 2026-10-18 11:09 | normal pick now | request now
 WAIT Bebel Gilberto — Samba Da Benção | last aired 2026-10-23 18:14 | normal pick from 2026-10-25 18:14 | request from 2026-10-25 18:14
-WAIT Beck — Devils Haircut | last aired 2026-10-23 03:00 | normal pick from 2026-10-25 03:00 | request from 2026-10-25 03:00
+OK   Beck — Devils Haircut | last aired 2026-10-23 03:00 | normal pick now | request now
 OK   Beck — Loser | last aired 2026-10-22 03:20 | normal pick now | request now
 OK   Beck — The New Pollution | last aired 2026-10-21 22:24 | normal pick now | request now
 OK   Becky Levi and the Nightjars — Wake Me Up | last aired 2026-10-22 06:23 | normal pick now | request now
 OK   Bee Gees — Night Fever (From "Saturday Night Fever" Soundtrack) | last aired 2026-10-06 16:28 | normal pick now | request now
-WAIT Beenie Man — Feel It Boy | last aired 2026-10-24 21:49 | normal pick from 2026-10-26 09:49 | request from 2026-10-25 17:49
+WAIT Beenie Man — Feel It Boy | last aired 2026-10-24 21:50 | normal pick from 2026-10-26 09:50 | request from 2026-10-25 17:50
 OK   Belcea Quartet — Quatuor à cordes n° 4, Sz. 91 - String Quartet No. 4 in C Major, Sz. 91: IV. Allegretto pizzicato | last aired 2026-10-16 14:38 | normal pick now | request now
 WAIT Belle and Sebastian — The Boy with the Arab Strap | last aired 2026-10-23 07:06 | normal pick from 2026-10-25 07:06 | request from 2026-10-25 07:06
 OK   Ben Allison — D.A.V.E. | last aired 2026-10-20 11:10 | normal pick now | request now
@@ -27,7 +27,7 @@ WAIT Benny Sings — Rolled Up | last aired 2026-10-24 16:16 | normal pick from 
 WAIT Benny Sings — Sailing | last aired 2026-10-24 16:58 | normal pick from 2026-10-26 04:58 | request from 2026-10-25 12:58
 OK   Benson Boone — Beautiful Things | last aired 2026-10-15 20:17 | normal pick now | request now
 OK   Berlin — Take My Breath Away | last aired 2026-10-16 08:29 | normal pick now | request now
-WAIT Bernard Purdie — Cool Down | last aired 2026-10-24 21:28 | normal pick from 2026-10-26 21:28 | request from 2026-10-26 21:28
+WAIT Bernard Purdie — Cool Down | last aired 2026-10-24 21:29 | normal pick from 2026-10-26 21:29 | request from 2026-10-26 21:29
 OK   Bert Kaempfert — A Swingin' Safari | last aired 2026-10-17 23:48 | normal pick now | request now
 OK   Betty Carter — Moonlight in Vermont | last aired 2026-10-20 11:00 | normal pick now | request now
 WAIT BETWEEN FRIENDS — affection | last aired 2026-10-24 19:22 | normal pick from 2026-10-26 07:22 | request from 2026-10-25 15:22
