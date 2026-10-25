@@ -1,4 +1,4 @@
-Track status, song titles filed under ON (built Sun Oct 25, 2:05 AM PDT (09:05 UTC)). Times in UTC.
+Track status, song titles filed under ON (built Sun Oct 25, 3:05 AM PDT (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   On & On — Erykah Badu | last aired 2026-10-22 17:52 | normal pick now | request now
@@ -20,4 +20,4 @@ OK   Only Happy When It Rains — Garbage | last aired 2026-10-21 22:40 | normal
 WAIT Only Love Can Break Your Heart — Saint Etienne | last aired 2026-10-23 14:01 | normal pick from 2026-10-25 14:01 | request from 2026-10-25 14:01
 OK   Only You (Remastered 2008) — Yazoo | last aired 2026-10-22 12:56 | normal pick now | request now
 OK   Only You (There Will Never Be Another) — Side-A | last aired 2026-10-14 07:17 | normal pick now | request now
-WAIT The One That Got Away — The Civil Wars | last aired 2026-10-23 21:54 | normal pick from 2026-10-25 09:54 | request now
+OK   The One That Got Away — The Civil Wars | last aired 2026-10-23 21:54 | normal pick now | request now
