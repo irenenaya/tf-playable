@@ -1,4 +1,4 @@
-Track status, song titles filed under SA (built Sun Oct 25, 7:05 AM PDT (14:05 UTC)). Times in UTC.
+Track status, song titles filed under SA (built Sun Oct 25, 8:05 AM PDT (15:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Sabotage — Beastie Boys | last aired 2026-10-19 22:10 | normal pick now | request now
@@ -8,7 +8,7 @@ WAIT Sailing — Benny Sings | last aired 2026-10-24 16:58 | normal pick from 20
 OK   Sailing — Christopher Cross | last aired 2026-10-23 05:10 | normal pick now | request now
 WAIT Sailor Song — Gigi Perez | last aired 2026-10-24 09:36 | normal pick from 2026-10-26 09:36 | request from 2026-10-26 09:36
 WAIT Saku — Susumu Yokota | last aired 2026-10-24 23:41 | normal pick from 2026-10-26 11:41 | request from 2026-10-25 19:41
-WAIT Salomila  (Live) — Ledward Kaapana | last aired 2026-10-24 18:45 | normal pick from 2026-10-26 06:45 | request from 2026-10-25 14:45
+WAIT Salomila  (Live) — Ledward Kaapana | last aired 2026-10-24 18:45 | normal pick from 2026-10-26 06:45 | request now
 OK   Saltwater — Geowulf | last aired 2026-10-22 20:45 | normal pick now | request now
 OK   Salvatore — Lana Del Rey | last aired 2026-10-21 21:37 | normal pick now | request now
 OK   saman — Ólafur Arnalds | last aired 2026-10-21 06:45 | normal pick now | request now
@@ -20,7 +20,7 @@ WAIT Santa María (del Buen Ayre) — Gotan Project | last aired 2026-10-25 08:2
 OK   Sanvean - I Am Your Shadow — Lisa Gerrard | last aired 2026-10-22 02:01 | normal pick now | request now
 OK   Sara — Fleetwood Mac | last aired 2026-10-23 03:04 | normal pick now | request now
 OK   Sarà perché ti amo — Ricchi E Poveri | last aired 2026-10-21 18:35 | normal pick now | request now
-WAIT Sastanàqqàm — Tinariwen | last aired 2026-10-25 10:40 | normal pick from 2026-10-27 10:40 | request from 2026-10-27 10:40
+WAIT Sastanàqqàm — Tinariwen | last aired 2026-10-25 10:41 | normal pick from 2026-10-27 10:41 | request from 2026-10-27 10:41
 OK   Saturn — Sleeping At Last | last aired 2026-10-23 21:40 | normal pick now | request now
 OK   Saudade — Love and Rockets | last aired 2026-10-23 16:38 | normal pick now | request now
 WAIT Save The Children — Marvin Gaye | last aired 2026-10-25 01:20 | normal pick from 2026-10-26 13:20 | request from 2026-10-25 21:20
