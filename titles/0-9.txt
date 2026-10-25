@@ -1,4 +1,4 @@
-Track status, song titles filed under 0-9 (built Sun Oct 25, 10:05 AM PDT (17:05 UTC)). Times in UTC.
+Track status, song titles filed under 0-9 (built Sun Oct 25, 11:05 AM PDT (18:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   00:00 — Siddhartha | last aired 2026-10-18 14:39 | normal pick now | request now
@@ -10,7 +10,7 @@ OK   21st Century (Digital Boy) — Bad Religion | last aired 2026-10-23 11:06 |
 OK   21st Century Schizoid Man (Including 'Mirrors') — King Crimson | last aired 2026-10-14 11:28 | normal pick now | request now
 WAIT 23 — Lawrence | last aired 2026-10-25 14:08 | normal pick from 2026-10-27 14:08 | request from 2026-10-27 14:08
 OK   3 Klavierstücke, Op. 11 - No. 1, Massig — Glenn Gould | last aired 2026-10-18 04:12 | normal pick now | request now
-WAIT 3 Klavierstücke, Op. 11 - No. 2, Mässige Achtel (Instrumental) — Glenn Gould | last aired 2026-10-24 05:19 | normal pick from 2026-10-25 17:19 | request now
+OK   3 Klavierstücke, Op. 11 - No. 2, Mässige Achtel (Instrumental) — Glenn Gould | last aired 2026-10-24 05:19 | normal pick now | request now
 OK   3 Klavierstücke, Op. 11 - No. 3, Bewegte Achtel (Instrumental) — Glenn Gould | last aired 2026-10-16 07:43 | normal pick now | request now
 OK   360 — Charli XCX | last aired 2026-10-23 19:42 | normal pick now | request now
 OK   4:00 A.M. — Taeko Onuki | last aired 2026-10-08 15:07 | normal pick now | request now
