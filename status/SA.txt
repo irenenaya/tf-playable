@@ -1,4 +1,4 @@
-Track status, artists filed under SA (built Sun Oct 25, 6:05 AM PDT (13:05 UTC)). Times in UTC.
+Track status, artists filed under SA (built Sun Oct 25, 7:05 AM PDT (14:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Sabaton — The Last Stand | last aired 2026-10-23 10:27 | normal pick now | request now
@@ -14,7 +14,7 @@ OK   Sade — Smooth Operator (2011 Remastered) (Remastered Version) | last aire
 OK   Sade — The Sweetest Taboo  (Remastered Version) | last aired 2026-10-21 21:17 | normal pick now | request now
 OK   Sadie Jean — WYD Now? | last aired 2026-10-15 15:56 | normal pick now | request now
 WAIT Saindra — Mil Besos | last aired 2026-10-25 04:57 | normal pick from 2026-10-26 16:57 | request from 2026-10-26 00:57
-WAIT Saint Etienne — Only Love Can Break Your Heart | last aired 2026-10-23 14:01 | normal pick from 2026-10-25 14:01 | request from 2026-10-25 14:01
+OK   Saint Etienne — Only Love Can Break Your Heart | last aired 2026-10-23 14:01 | normal pick now | request now
 WAIT Salvador Sobral — Amar pelos Dois | last aired 2026-10-24 05:43 | normal pick from 2026-10-25 17:43 | request now
 OK   Sam Cooke — A Change Is Gonna Come | last aired 2026-10-22 04:52 | normal pick now | request now
 OK   Sampha — (No One Knows Me) Like the Piano | last aired 2026-10-23 07:12 | normal pick now | request now
@@ -23,6 +23,6 @@ OK   Santana — Maria Maria | last aired 2026-10-21 18:44 | normal pick now | r
 OK   Santana — Oye Como Va | last aired 2026-10-22 21:09 | normal pick now | request now
 OK   Santana — Samba Pa Ti | last aired 2026-10-21 13:20 | normal pick now | request now
 OK   Sarah McLachlan — Building a Mystery | last aired 2026-10-23 18:22 | normal pick now | request now
-WAIT Sarah McLachlan — Fallen (Album Mix) | last aired 2026-10-24 01:49 | normal pick from 2026-10-25 13:49 | request now
+OK   Sarah McLachlan — Fallen (Album Mix) | last aired 2026-10-24 01:49 | normal pick now | request now
 OK   Sarah McLachlan — Sweet Surrender (Album Version) | last aired 2026-10-22 15:55 | normal pick now | request now
 WAIT Savath &  Savalas — Te Quiero Pero Por Otro Lado. | last aired 2026-10-24 19:52 | normal pick from 2026-10-26 19:52 | request from 2026-10-26 19:52
