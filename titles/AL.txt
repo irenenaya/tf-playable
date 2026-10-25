@@ -1,4 +1,4 @@
-Track status, song titles filed under AL (built Sat Oct 24, 4:05 PM PDT (23:05 UTC)). Times in UTC.
+Track status, song titles filed under AL (built Sat Oct 24, 5:05 PM PDT (00:05 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   A Life (1895 - 1915) — Mark Hollis | last aired 2026-10-14 13:52 | normal pick now | request now
@@ -15,7 +15,7 @@ WAIT All Melody — Nils Frahm | last aired 2026-10-23 23:03 | normal pick from 
 OK   All My Little Words — The Magnetic Fields | last aired 2026-10-18 13:10 | normal pick now | request now
 WAIT All Star (Album Version) — Smash Mouth | last aired 2026-10-24 18:00 | normal pick from 2026-10-26 06:00 | request from 2026-10-25 14:00
 OK   All Summer — YASSiN & Sean Terrio | last aired 2026-10-15 21:52 | normal pick now | request now
-WAIT All The Small Things — blink-182 | last aired 2026-10-23 11:09 | normal pick from 2026-10-24 23:09 | request now
+OK   All The Small Things — blink-182 | last aired 2026-10-23 11:09 | normal pick now | request now
 OK   All The Way — Kat Edmonson | last aired 2026-10-20 11:23 | normal pick now | request now
 OK   All Through the Night — Cyndi Lauper | last aired 2026-10-14 22:47 | normal pick now | request now
 OK   All We Are — Matt Nathanson | last aired 2026-10-16 01:34 | normal pick now | request now
@@ -23,6 +23,6 @@ OK   Alles neu (Album Version) — Peter Fox | last aired 2026-10-20 19:34 | nor
 WAIT Almost Blue — Chet Baker | last aired 2026-10-23 14:59 | normal pick from 2026-10-25 02:59 | request now
 OK   Almost Blue — Elvis Costello | last aired 2026-10-17 12:10 | normal pick now | request now
 OK   Almost Gothic (Album Version) — Steely Dan | last aired 2026-10-16 20:51 | normal pick now | request now
-WAIT Alright — Kendrick Lamar | last aired 2026-10-24 03:20 | normal pick from 2026-10-25 15:20 | request from 2026-10-24 23:20
+WAIT Alright — Kendrick Lamar | last aired 2026-10-24 03:20 | normal pick from 2026-10-25 15:20 | request now
 WAIT Always something — Jazz Liberatorz | last aired 2026-10-23 17:46 | normal pick from 2026-10-25 05:46 | request now
 OK   Always with Me — Tomohisa Okudo | last aired 2026-10-16 08:18 | normal pick now | request now
