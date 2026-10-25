@@ -1,7 +1,7 @@
-Track status, artists filed under AL (built Sun Oct 25, 12:05 PM PDT (19:05 UTC)). Times in UTC.
+Track status, artists filed under AL (built Sun Oct 25, 1:05 PM PDT (20:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Al Di Meola — Double Concerto | last aired 2026-10-24 07:27 | normal pick from 2026-10-25 19:27 | request now
+OK   Al Di Meola — Double Concerto | last aired 2026-10-24 07:27 | normal pick now | request now
 OK   Al Di Meola — Libertango | last aired 2026-10-13 20:57 | normal pick now | request now
 OK   Al Di Meola — Passion, Grace & Fire (Album Version) | last aired 2026-10-24 03:34 | normal pick now | request now
 OK   Al Di Meola — Red Moon | last aired 2026-10-15 03:10 | normal pick now | request now
@@ -19,11 +19,11 @@ OK   Alestorm — Captain Morgan`s Revenge | last aired 2026-10-18 02:31 | norma
 OK   Alestorm — Drink | last aired 2026-09-25 20:38 | normal pick now | request now
 OK   Alestorm — Keelhauled | last aired 2026-10-03 06:59 | normal pick now | request now
 WAIT Alex Andre — thanks, my day is ruined | last aired 2026-10-25 13:48 | normal pick from 2026-10-27 01:48 | request from 2026-10-26 09:48
-WAIT Alexander Malter — Pärt: Für Alina | last aired 2026-10-25 18:32 | normal pick from 2026-10-27 18:32 | request from 2026-10-27 18:32
+WAIT Alexander Malter — Pärt: Für Alina | last aired 2026-10-25 18:33 | normal pick from 2026-10-27 18:33 | request from 2026-10-27 18:33
 OK   Alexander Rybak — Fairytale | last aired 2026-10-21 18:05 | normal pick now | request now
-WAIT Alexandre Tharaud — Gnossienne No.1 - Gnossienne: No. 1 | last aired 2026-10-25 18:43 | normal pick from 2026-10-27 18:43 | request from 2026-10-27 18:43
+WAIT Alexandre Tharaud — Gnossienne No.1 - Gnossienne: No. 1 | last aired 2026-10-25 18:44 | normal pick from 2026-10-27 18:44 | request from 2026-10-27 18:44
 OK   Alfa Mist — Organic Rust | last aired 2026-10-24 04:32 | normal pick now | request now
-WAIT Ali Farka Touré — Soukora | last aired 2026-10-25 16:47 | normal pick from 2026-10-27 16:47 | request from 2026-10-27 16:47
+WAIT Ali Farka Touré — Soukora | last aired 2026-10-25 16:48 | normal pick from 2026-10-27 16:48 | request from 2026-10-27 16:48
 OK   Alice Coltrane — Journey In Satchidananda | last aired 2026-10-23 05:31 | normal pick now | request now
 OK   Alice In Chains — Man in the Box | last aired 2026-10-22 23:45 | normal pick now | request now
 WAIT Alicia Keys — Fallin' (Album Version) | last aired 2026-10-25 01:08 | normal pick from 2026-10-27 01:08 | request from 2026-10-27 01:08
