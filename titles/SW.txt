@@ -1,4 +1,4 @@
-Track status, song titles filed under SW (built Sun Oct 25, 5:05 AM PDT (12:05 UTC)). Times in UTC.
+Track status, song titles filed under SW (built Sun Oct 25, 6:05 AM PDT (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Sweet Caroline — Neil Diamond | last aired 2026-10-23 18:05 | normal pick now | request now
@@ -10,6 +10,6 @@ OK   Sweet Little Mountain Bird — The Ray Charles Singers | last aired 2026-09
 OK   Sweet Love — Anita Baker | last aired 2026-10-20 08:16 | normal pick now | request now
 OK   Sweet Sounds Of Heaven — The Rolling Stones | last aired 2026-10-17 09:34 | normal pick now | request now
 OK   Sweet Surrender (Album Version) — Sarah McLachlan | last aired 2026-10-22 15:55 | normal pick now | request now
-OK   Sweet Transvestite — Tim Curry | last aired 2026-10-18 09:29 | normal pick now | request now
+WAIT Sweet Transvestite — Tim Curry | last aired 2026-10-25 12:33 | normal pick from 2026-10-27 00:33 | request from 2026-10-26 08:33
 WAIT Switched-on Wendy — Luca Di Sabatino | last aired 2026-10-24 21:25 | normal pick from 2026-10-26 09:25 | request from 2026-10-25 17:25
 OK   The Sweetest Taboo  (Remastered Version) — Sade | last aired 2026-10-21 21:17 | normal pick now | request now
