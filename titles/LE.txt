@@ -1,9 +1,9 @@
-Track status, song titles filed under LE (built Sat Oct 24, 11:05 PM PDT (06:05 UTC Sun)). Times in UTC.
+Track status, song titles filed under LE (built Sun Oct 25, 12:05 AM PDT (07:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Le Chant des oiseaux — La Fenice | last aired 2026-10-02 15:12 | normal pick now | request now
 OK   Le Coeur — Thievery Corporation | last aired 2026-10-22 00:07 | normal pick now | request now
-WAIT Le onde — Chris Snelling | last aired 2026-10-25 06:01 | normal pick from 2026-10-26 18:01 | request from 2026-10-26 02:01
+WAIT Le onde — Chris Snelling | last aired 2026-10-25 06:01 | normal pick from 2026-10-27 06:01 | request from 2026-10-27 06:01
 WAIT Le Pianiste de Varsovie — Gilbert Bécaud | last aired 2026-10-24 07:02 | normal pick from 2026-10-25 19:02 | request now
 OK   Le vent nous portera — Sophie Hunger | last aired 2026-10-18 21:30 | normal pick now | request now
 OK   Lean On Me — Club Nouveau | last aired 2026-10-18 13:19 | normal pick now | request now
@@ -19,6 +19,6 @@ WAIT Let You Go — RY X | last aired 2026-10-24 14:00 | normal pick from 2026-1
 OK   Let's Dance  (2018 Remaster) — David Bowie | last aired 2026-10-21 16:28 | normal pick now | request now
 OK   Let's Get It On — Marvin Gaye | last aired 2026-10-10 00:27 | normal pick now | request now
 WAIT Let's Groove (Album Version) — Earth, Wind & Fire | last aired 2026-10-23 09:03 | normal pick from 2026-10-25 09:03 | request from 2026-10-25 09:03
-WAIT Let's Stay Together — Al Green | last aired 2026-10-25 04:28 | normal pick from 2026-10-26 16:28 | request from 2026-10-26 00:28
+WAIT Let's Stay Together — Al Green | last aired 2026-10-25 04:29 | normal pick from 2026-10-27 04:29 | request from 2026-10-27 04:29
 WAIT The Ledge — Fleetwood Mac | last aired 2026-10-23 22:55 | normal pick from 2026-10-25 10:55 | request now
 OK   The Less I Know The Better — Tame Impala | last aired 2026-10-21 21:28 | normal pick now | request now

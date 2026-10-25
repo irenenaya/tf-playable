@@ -1,7 +1,7 @@
-Track status, artists filed under CH (built Sat Oct 24, 11:05 PM PDT (06:05 UTC Sun)). Times in UTC.
+Track status, artists filed under CH (built Sun Oct 25, 12:05 AM PDT (07:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Chaka Khan — What Cha' Gonna Do for Me | last aired 2026-10-25 03:15 | normal pick from 2026-10-26 15:15 | request from 2026-10-25 23:15
+WAIT Chaka Khan — What Cha' Gonna Do for Me | last aired 2026-10-25 03:16 | normal pick from 2026-10-27 03:16 | request from 2026-10-27 03:16
 WAIT Chappell Roan — Good Luck, Babe! | last aired 2026-10-24 21:33 | normal pick from 2026-10-26 09:33 | request from 2026-10-25 17:33
 OK   Chappell Roan — HOT TO GO! | last aired 2026-10-12 17:42 | normal pick now | request now
 OK   Chappell Roan — Pink Pony Club | last aired 2026-10-18 10:54 | normal pick now | request now
@@ -9,7 +9,7 @@ OK   Charles Lloyd & The Marvels — You Are So Beautiful | last aired 2026-10-2
 WAIT Charles Lloyd — You Are So Beautiful | last aired 2026-10-24 18:34 | normal pick from 2026-10-26 06:34 | request from 2026-10-25 14:34
 OK   Charles Mingus — Goodbye Pork Pie Hat (Album Version) | last aired 2026-10-23 17:36 | normal pick now | request now
 OK   Charles Mingus — Medley: Mode D - Trio And Group Dancers / Mode E - Single Solos And Group Dance / Mode F - Group And Solo Dance (Album Version) | last aired 2026-09-28 07:39 | normal pick now | request now
-OK   Charles Mingus — Track A - Solo Dancer (Stop! Look! And Listen, Sinner Jim Whitney!) (Album Version) | last aired 2026-10-20 11:16 | normal pick now | request now
+WAIT Charles Mingus — Track A - Solo Dancer (Stop! Look! And Listen, Sinner Jim Whitney!) (Album Version) | last aired 2026-10-25 06:27 | normal pick from 2026-10-26 18:27 | request from 2026-10-26 02:27
 WAIT Charles Wright & The Watts 103rd Street Rhythm Band — Express Yourself (Album Version) | last aired 2026-10-24 08:02 | normal pick from 2026-10-26 08:02 | request from 2026-10-26 08:02
 WAIT Charli XCX — 360 | last aired 2026-10-23 19:42 | normal pick from 2026-10-25 07:42 | request now
 WAIT Charly García — Demoliendo Hoteles (Live) | last aired 2026-10-24 11:11 | normal pick from 2026-10-26 11:11 | request from 2026-10-26 11:11
@@ -28,7 +28,7 @@ WAIT Chris De Burgh — The Getaway | last aired 2026-10-24 09:45 | normal pick 
 OK   Chris Huelsbeck — GSTD Ingame 4 | last aired 2026-10-11 11:31 | normal pick now | request now
 OK   Chris Isaak — Blue Hotel  (Remastered Album Version) | last aired 2026-10-22 06:05 | normal pick now | request now
 OK   Chris Isaak — Wicked Game  (Remastered Album Version) | last aired 2026-10-20 18:27 | normal pick now | request now
-WAIT Chris Snelling — Le onde | last aired 2026-10-25 06:01 | normal pick from 2026-10-26 18:01 | request from 2026-10-26 02:01
+WAIT Chris Snelling — Le onde | last aired 2026-10-25 06:01 | normal pick from 2026-10-27 06:01 | request from 2026-10-27 06:01
 WAIT Chris Whitley — Big Sky Country (Album Version) | last aired 2026-10-25 01:00 | normal pick from 2026-10-27 01:00 | request from 2026-10-27 01:00
 WAIT Christian Löffler — Lid | last aired 2026-10-24 23:36 | normal pick from 2026-10-26 11:36 | request from 2026-10-25 19:36
 OK   Christina Aguilera — Genie In a Bottle | last aired 2026-10-20 15:29 | normal pick now | request now

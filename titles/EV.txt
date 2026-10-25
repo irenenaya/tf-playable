@@ -1,4 +1,4 @@
-Track status, song titles filed under EV (built Sat Oct 24, 11:05 PM PDT (06:05 UTC Sun)). Times in UTC.
+Track status, song titles filed under EV (built Sun Oct 25, 12:05 AM PDT (07:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT (Every Time I Turn Around) Back In Love Again (Album Version) — L.T.D. | last aired 2026-10-24 08:22 | normal pick from 2026-10-25 20:22 | request now
@@ -7,7 +7,7 @@ OK   Evensong — Solarstone | last aired 2026-10-09 04:49 | normal pick now | r
 OK   Eventually — P!nk | last aired 2026-10-19 22:46 | normal pick now | request now
 OK   Everlong — Foo Fighters | last aired 2026-10-23 15:39 | normal pick now | request now
 OK   Everybody Loves Somebody — Dean Martin | last aired 2026-10-20 23:31 | normal pick now | request now
-OK   Everybody Loves the Sunshine — DJ Cam Quartet | last aired 2026-10-20 11:26 | normal pick now | request now
+WAIT Everybody Loves the Sunshine — DJ Cam Quartet | last aired 2026-10-25 06:11 | normal pick from 2026-10-26 18:11 | request from 2026-10-26 02:11
 OK   Everybody Loves The Sunshine — Roy Ayers Ubiquity | last aired 2026-10-23 17:51 | normal pick now | request now
 OK   Everybody Wants To Rule The World — Tears For Fears | last aired 2026-10-20 13:36 | normal pick now | request now
 OK   Everybody's Coming to My House (Live) — David Byrne | last aired 2026-10-21 19:56 | normal pick now | request now
