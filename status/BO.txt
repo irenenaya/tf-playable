@@ -1,4 +1,4 @@
-Track status, artists filed under BO (built Sun Oct 25, 2:05 PM PDT (21:05 UTC)). Times in UTC.
+Track status, artists filed under BO (built Sun Oct 25, 3:05 PM PDT (22:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Boards of Canada — Blood In The Labyrinth | last aired 2026-10-21 21:42 | normal pick now | request now
@@ -14,9 +14,9 @@ OK   Bobby Darin — Beyond the Sea | last aired 2026-10-20 18:49 | normal pick 
 OK   Bobby Hutcherson — Stardust | last aired 2026-10-20 11:49 | normal pick now | request now
 WAIT Bobby McFerrin — Common Threads | last aired 2026-10-25 03:28 | normal pick from 2026-10-26 15:28 | request from 2026-10-25 23:28
 OK   Bobby McFerrin — Don't Worry Be Happy | last aired 2026-10-19 09:40 | normal pick now | request now
-WAIT Bobby Vinton — Blue Velvet | last aired 2026-10-24 09:26 | normal pick from 2026-10-25 21:26 | request now
+OK   Bobby Vinton — Blue Velvet | last aired 2026-10-24 09:26 | normal pick now | request now
 OK   Bon Iver — Holocene | last aired 2026-10-22 02:20 | normal pick now | request now
-WAIT Bon Iver — Skinny Love | last aired 2026-10-23 21:35 | normal pick from 2026-10-25 21:35 | request from 2026-10-25 21:35
+OK   Bon Iver — Skinny Love | last aired 2026-10-23 21:35 | normal pick now | request now
 OK   Bon Jovi — Livin' On A Prayer | last aired 2026-10-18 16:45 | normal pick now | request now
 OK   Bon Jovi — You Give Love A Bad Name | last aired 2026-10-23 13:01 | normal pick now | request now
 OK   Boney M. — Gotta Go Home | last aired 2026-10-23 08:43 | normal pick now | request now
@@ -29,7 +29,7 @@ WAIT Bonobo — Kong | last aired 2026-10-23 23:20 | normal pick from 2026-10-25
 OK   Bonobo — Terrapin | last aired 2026-10-22 02:43 | normal pick now | request now
 WAIT Booker T. & The M.G.'s — Green Onions | last aired 2026-10-25 14:35 | normal pick from 2026-10-27 14:35 | request from 2026-10-27 14:35
 OK   Booker T. & The M.G.'s — Time Is Tight  (Live) | last aired 2026-10-21 19:49 | normal pick now | request now
-WAIT Booker T. Jones — Everything Is Everything | last aired 2026-10-25 01:24 | normal pick from 2026-10-26 13:24 | request from 2026-10-25 21:24
+WAIT Booker T. Jones — Everything Is Everything | last aired 2026-10-25 01:24 | normal pick from 2026-10-26 13:24 | request now
 OK   Bootsy Collins — Psychoticbumpschool (LP Version) | last aired 2026-10-24 03:29 | normal pick now | request now
 WAIT Bowling For Soup — 1985 | last aired 2026-10-25 19:59 | normal pick from 2026-10-27 07:59 | request from 2026-10-26 15:59
 WAIT Boy Throb — Finger | last aired 2026-10-24 16:49 | normal pick from 2026-10-26 04:49 | request now

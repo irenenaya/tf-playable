@@ -1,10 +1,10 @@
-Track status, artists filed under AN (built Sun Oct 25, 2:05 PM PDT (21:05 UTC)). Times in UTC.
+Track status, artists filed under AN (built Sun Oct 25, 3:05 PM PDT (22:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Ana Sofia Varela — Fado Vadio (Má Fama) | last aired 2026-10-25 16:06 | normal pick from 2026-10-27 04:06 | request from 2026-10-26 12:06
 WAIT Andrew W.K. — Party Hard (Album Version) | last aired 2026-10-25 20:17 | normal pick from 2026-10-27 08:17 | request from 2026-10-26 16:17
 WAIT Andrés Calamaro — Flaca | last aired 2026-10-24 22:52 | normal pick from 2026-10-26 22:52 | request from 2026-10-26 22:52
-WAIT Angus & Julia Stone — You're The One That I Want | last aired 2026-10-23 21:27 | normal pick from 2026-10-25 21:27 | request from 2026-10-25 21:27
+OK   Angus & Julia Stone — You're The One That I Want | last aired 2026-10-23 21:27 | normal pick now | request now
 OK   Angèle Dubeau — The Mission – Buona Fortuna Jack (Live) | last aired 2026-10-21 19:27 | normal pick now | request now
 OK   Angélique Kidjo — Agolo | last aired 2026-10-22 08:33 | normal pick now | request now
 OK   Anita Baker — Angel (LP Version) | last aired 2026-10-23 01:52 | normal pick now | request now
@@ -14,7 +14,7 @@ WAIT Anne Clark — Our Darkness | last aired 2026-10-25 13:09 | normal pick fro
 OK   Annenmaykantereit — Oft gefragt | last aired 2026-10-24 04:37 | normal pick now | request now
 OK   ANNIE — Heartbeat | last aired 2026-10-23 14:19 | normal pick now | request now
 WAIT ANORAQUE — Ivy | last aired 2026-10-25 05:48 | normal pick from 2026-10-26 17:48 | request from 2026-10-26 01:48
-WAIT Antonio Campo — I Need You More and More  (Remastered) | last aired 2026-10-25 11:55 | normal pick from 2026-10-26 23:55 | request from 2026-10-26 07:55
+WAIT Antonio Campo — I Need You More and More  (Remastered) | last aired 2026-10-25 21:48 | normal pick from 2026-10-27 09:48 | request from 2026-10-26 17:48
 WAIT Antonio Carlos Jobim — The Girl From Ipanema | last aired 2026-10-24 10:25 | normal pick from 2026-10-26 10:25 | request from 2026-10-26 10:25
 OK   Antonio Carlos Jobim — Wave | last aired 2026-10-22 16:31 | normal pick now | request now
 OK   The Animals — The House of the Rising Sun | last aired 2026-09-29 16:09 | normal pick now | request now
