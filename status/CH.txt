@@ -1,4 +1,4 @@
-Track status, artists filed under CH (built Sat Oct 24, 10:05 PM PDT (05:05 UTC Sun)). Times in UTC.
+Track status, artists filed under CH (built Sat Oct 24, 11:05 PM PDT (06:05 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Chaka Khan — What Cha' Gonna Do for Me | last aired 2026-10-25 03:15 | normal pick from 2026-10-26 15:15 | request from 2026-10-25 23:15
@@ -7,7 +7,7 @@ OK   Chappell Roan — HOT TO GO! | last aired 2026-10-12 17:42 | normal pick no
 OK   Chappell Roan — Pink Pony Club | last aired 2026-10-18 10:54 | normal pick now | request now
 OK   Charles Lloyd & The Marvels — You Are So Beautiful | last aired 2026-10-23 00:55 | normal pick now | request now
 WAIT Charles Lloyd — You Are So Beautiful | last aired 2026-10-24 18:34 | normal pick from 2026-10-26 06:34 | request from 2026-10-25 14:34
-WAIT Charles Mingus — Goodbye Pork Pie Hat (Album Version) | last aired 2026-10-23 17:36 | normal pick from 2026-10-25 05:36 | request now
+OK   Charles Mingus — Goodbye Pork Pie Hat (Album Version) | last aired 2026-10-23 17:36 | normal pick now | request now
 OK   Charles Mingus — Medley: Mode D - Trio And Group Dancers / Mode E - Single Solos And Group Dance / Mode F - Group And Solo Dance (Album Version) | last aired 2026-09-28 07:39 | normal pick now | request now
 OK   Charles Mingus — Track A - Solo Dancer (Stop! Look! And Listen, Sinner Jim Whitney!) (Album Version) | last aired 2026-10-20 11:16 | normal pick now | request now
 WAIT Charles Wright & The Watts 103rd Street Rhythm Band — Express Yourself (Album Version) | last aired 2026-10-24 08:02 | normal pick from 2026-10-26 08:02 | request from 2026-10-26 08:02
@@ -24,11 +24,11 @@ OK   Chico Buarque — Construção | last aired 2026-10-22 13:29 | normal pick 
 OK   Child Seat — Heart To Heart | last aired 2026-10-20 14:09 | normal pick now | request now
 WAIT Child Seat — Hyperphantasia | last aired 2026-10-24 03:59 | normal pick from 2026-10-25 15:59 | request now
 OK   Chris Christodoulou — The Rain Formerly Known as Purple | last aired 2026-10-19 21:47 | normal pick now | request now
-WAIT Chris De Burgh — The Getaway | last aired 2026-10-24 09:45 | normal pick from 2026-10-25 21:45 | request from 2026-10-25 05:45
+WAIT Chris De Burgh — The Getaway | last aired 2026-10-24 09:45 | normal pick from 2026-10-25 21:45 | request now
 OK   Chris Huelsbeck — GSTD Ingame 4 | last aired 2026-10-11 11:31 | normal pick now | request now
 OK   Chris Isaak — Blue Hotel  (Remastered Album Version) | last aired 2026-10-22 06:05 | normal pick now | request now
 OK   Chris Isaak — Wicked Game  (Remastered Album Version) | last aired 2026-10-20 18:27 | normal pick now | request now
-OK   Chris Snelling — Le onde | last aired 2026-10-22 05:07 | normal pick now | request now
+WAIT Chris Snelling — Le onde | last aired 2026-10-25 06:01 | normal pick from 2026-10-26 18:01 | request from 2026-10-26 02:01
 WAIT Chris Whitley — Big Sky Country (Album Version) | last aired 2026-10-25 01:00 | normal pick from 2026-10-27 01:00 | request from 2026-10-27 01:00
 WAIT Christian Löffler — Lid | last aired 2026-10-24 23:36 | normal pick from 2026-10-26 11:36 | request from 2026-10-25 19:36
 OK   Christina Aguilera — Genie In a Bottle | last aired 2026-10-20 15:29 | normal pick now | request now
