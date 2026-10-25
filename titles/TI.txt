@@ -1,4 +1,4 @@
-Track status, song titles filed under TI (built Sun Oct 25, 12:05 AM PDT (07:05 UTC)). Times in UTC.
+Track status, song titles filed under TI (built Sun Oct 25, 1:05 AM PDT (08:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT The Time Is Now — Moloko | last aired 2026-10-24 23:14 | normal pick from 2026-10-26 11:14 | request from 2026-10-25 19:14
@@ -6,7 +6,7 @@ OK   The Time Warp — Richard O Brien | last aired 2026-10-10 20:11 | normal pi
 OK   Ticket To Ride — Benjamin Francis Leftwich | last aired 2026-10-21 15:07 | normal pick now | request now
 OK   Timber — Pitbull | last aired 2026-10-09 11:28 | normal pick now | request now
 OK   Time (You and I) — Khruangbin | last aired 2026-10-22 21:03 | normal pick now | request now
-WAIT Time After Time — Cyndi Lauper | last aired 2026-10-23 19:07 | normal pick from 2026-10-25 07:07 | request now
+OK   Time After Time — Cyndi Lauper | last aired 2026-10-23 19:07 | normal pick now | request now
 OK   Time Is Tight  (Live) — Booker T. & The M.G.'s | last aired 2026-10-21 19:49 | normal pick now | request now
 OK   Time Out Of Mind — Steely Dan | last aired 2026-10-18 07:04 | normal pick now | request now
 OK   Time to Pretend (Album Version) — MGMT | last aired 2026-10-22 09:22 | normal pick now | request now
