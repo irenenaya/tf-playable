@@ -1,4 +1,4 @@
-Track status, song titles filed under AL (built Sun Oct 25, 3:05 AM PDT (10:05 UTC)). Times in UTC.
+Track status, song titles filed under AL (built Sun Oct 25, 4:05 AM PDT (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   A Life (1895 - 1915) — Mark Hollis | last aired 2026-10-14 13:52 | normal pick now | request now
@@ -11,7 +11,7 @@ WAIT Alive And Kicking (Remastered 2002) — Simple Minds | last aired 2026-10-2
 OK   All Along The Watchtower (Live - Rattle & Hum Version) — U2 | last aired 2026-10-21 15:02 | normal pick now | request now
 OK   All I Wanna Do — Sheryl Crow | last aired 2026-10-23 09:37 | normal pick now | request now
 OK   All I Want for Christmas Is You — Mariah Carey | last aired 2026-04-20 09:48 | normal pick now | request now
-WAIT All Melody — Nils Frahm | last aired 2026-10-23 23:03 | normal pick from 2026-10-25 23:03 | request from 2026-10-25 23:03
+OK   All Melody — Nils Frahm | last aired 2026-10-23 23:03 | normal pick now | request now
 OK   All My Little Words — The Magnetic Fields | last aired 2026-10-18 13:10 | normal pick now | request now
 WAIT All Star (Album Version) — Smash Mouth | last aired 2026-10-24 18:00 | normal pick from 2026-10-26 06:00 | request from 2026-10-25 14:00
 OK   All Summer — YASSiN & Sean Terrio | last aired 2026-10-15 21:52 | normal pick now | request now
@@ -25,4 +25,4 @@ OK   Almost Blue — Elvis Costello | last aired 2026-10-17 12:10 | normal pick 
 OK   Almost Gothic (Album Version) — Steely Dan | last aired 2026-10-16 20:51 | normal pick now | request now
 WAIT Alright — Kendrick Lamar | last aired 2026-10-24 03:20 | normal pick from 2026-10-25 15:20 | request now
 OK   Always something — Jazz Liberatorz | last aired 2026-10-23 17:46 | normal pick now | request now
-WAIT Always with Me — Tomohisa Okudo | last aired 2026-10-25 07:53 | normal pick from 2026-10-26 19:53 | request from 2026-10-26 03:53
+WAIT Always with Me — Tomohisa Okudo | last aired 2026-10-25 07:54 | normal pick from 2026-10-26 19:54 | request from 2026-10-26 03:54

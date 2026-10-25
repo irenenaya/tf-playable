@@ -1,4 +1,4 @@
-Track status, song titles filed under UN (built Sun Oct 25, 3:05 AM PDT (10:05 UTC)). Times in UTC.
+Track status, song titles filed under UN (built Sun Oct 25, 4:05 AM PDT (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Universal — Blur | last aired 2026-10-20 18:55 | normal pick now | request now
@@ -15,6 +15,6 @@ OK   Unstoppable — Lianne La Havas | last aired 2026-10-22 21:16 | normal pick
 OK   Until Death Do Us Part — Filippo Beck Peccoz | last aired 2026-10-23 06:49 | normal pick now | request now
 OK   Until — Swan Dive | last aired 2026-10-19 07:19 | normal pick now | request now
 OK   Until We Meet Again — Lisa Gerrard | last aired 2026-10-22 19:46 | normal pick now | request now
-WAIT Untitled #3  (Samskeyti) — Sigur Rós | last aired 2026-10-25 07:34 | normal pick from 2026-10-26 19:34 | request from 2026-10-26 03:34
-WAIT Untitled (How Does It Feel) — D'Angelo | last aired 2026-10-24 14:59 | normal pick from 2026-10-26 02:59 | request from 2026-10-25 10:59
+WAIT Untitled #3  (Samskeyti) — Sigur Rós | last aired 2026-10-25 07:35 | normal pick from 2026-10-26 19:35 | request from 2026-10-26 03:35
+WAIT Untitled (How Does It Feel) — D'Angelo | last aired 2026-10-24 14:59 | normal pick from 2026-10-26 02:59 | request now
 OK   Untravel — Rival Consoles | last aired 2026-10-21 23:00 | normal pick now | request now

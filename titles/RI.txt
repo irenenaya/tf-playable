@@ -1,7 +1,7 @@
-Track status, song titles filed under RI (built Sun Oct 25, 3:05 AM PDT (10:05 UTC)). Times in UTC.
+Track status, song titles filed under RI (built Sun Oct 25, 4:05 AM PDT (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Richter: Shadow Journal — Tilda Swinton | last aired 2026-10-25 07:25 | normal pick from 2026-10-26 19:25 | request from 2026-10-26 03:25
+WAIT Richter: Shadow Journal — Tilda Swinton | last aired 2026-10-25 07:26 | normal pick from 2026-10-26 19:26 | request from 2026-10-26 03:26
 WAIT Ride Like the Wind (Album Version) — Christopher Cross | last aired 2026-10-25 03:40 | normal pick from 2026-10-26 15:40 | request from 2026-10-25 23:40
 WAIT Ride On (Fight On) — Little Axe | last aired 2026-10-24 09:53 | normal pick from 2026-10-26 09:53 | request from 2026-10-26 09:53
 OK   Ride On Time — DEEN | last aired 2026-10-16 03:27 | normal pick now | request now
@@ -13,7 +13,7 @@ OK   Ring of Fire — Johnny Cash | last aired 2026-10-22 19:16 | normal pick no
 OK   Ring Ring Ring — Tyler, The Creator | last aired 2026-10-22 20:13 | normal pick now | request now
 OK   Rise Like a Phoenix — Conchita Wurst | last aired 2026-10-18 04:54 | normal pick now | request now
 OK   River — Joni Mitchell | last aired 2026-10-13 12:16 | normal pick now | request now
-WAIT Riviera Paradise — Stevie Ray Vaughan & Double Trouble | last aired 2026-10-23 22:43 | normal pick from 2026-10-25 10:43 | request now
+OK   Riviera Paradise — Stevie Ray Vaughan & Double Trouble | last aired 2026-10-23 22:43 | normal pick now | request now
 OK   The Rite of Spring (1913 Version) - Le Sacre du Printemps (The Rite of Spring): Les augures printaniers (Danses des adolescentes) [The Augurs of Spring (Dance of the Young Girls)] (1913 Version) — Leonard Bernstein | last aired 2026-10-13 14:05 | normal pick now | request now
 OK   The River — Bruce Springsteen | last aired 2026-10-20 16:54 | normal pick now | request now
 OK   The River of Dreams (Album Version) — Billy Joel | last aired 2026-10-19 16:36 | normal pick now | request now

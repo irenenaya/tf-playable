@@ -1,4 +1,4 @@
-Track status, song titles filed under TO (built Sun Oct 25, 3:05 AM PDT (10:05 UTC)). Times in UTC.
+Track status, song titles filed under TO (built Sun Oct 25, 4:05 AM PDT (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Touch — Stan Bush | last aired 2026-10-23 16:43 | normal pick now | request now
@@ -11,4 +11,4 @@ OK   Torn — Natalie Imbruglia | last aired 2026-10-23 03:48 | normal pick now 
 OK   Torna a casa — Måneskin | last aired 2026-10-23 09:59 | normal pick now | request now
 OK   Total Eclipse of the Heart — Bonnie Tyler | last aired 2026-10-23 13:49 | normal pick now | request now
 OK   Touch It / Technologic — Daft Punk | last aired 2026-10-20 19:39 | normal pick now | request now
-WAIT Touch The Hem Of His Garment — The Soul Stirrers | last aired 2026-10-23 22:29 | normal pick from 2026-10-25 10:29 | request now
+OK   Touch The Hem Of His Garment — The Soul Stirrers | last aired 2026-10-23 22:29 | normal pick now | request now
