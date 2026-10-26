@@ -1,4 +1,4 @@
-Track status, song titles filed under MA (built Mon Oct 26, 6:05 AM PDT (13:05 UTC)). Times in UTC.
+Track status, song titles filed under MA (built Mon Oct 26, 7:05 AM PDT (14:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Mad World — Gary Jules | last aired 2026-10-24 05:54 | normal pick now | request now
@@ -27,7 +27,7 @@ OK   Matte Kudasai — King Crimson | last aired 2026-10-24 20:41 | normal pick 
 OK   Maureen — Martin Ditcham | last aired 2026-08-18 22:36 | normal pick now | request now
 OK   May Ninth — Khruangbin | last aired 2026-10-23 15:02 | normal pick now | request now
 OK   Maybe I’m Amazed (2011 Remaster) — Paul McCartney | last aired 2026-10-21 18:53 | normal pick now | request now
-OK   Maybe — The Ink Spots | last aired 2026-10-14 12:22 | normal pick now | request now
+WAIT Maybe — The Ink Spots | last aired 2026-10-26 13:16 | normal pick from 2026-10-28 01:16 | request from 2026-10-27 09:16
 OK   Maybe The Night — Ben&Ben | last aired 2026-10-08 16:41 | normal pick now | request now
 OK   Maybe They Will Sing for Us Tomorrow — Hammock | last aired 2026-10-22 01:56 | normal pick now | request now
 OK   Má Vlast, JB 1:112-Vltava Smetana, Bedřich 伏塔瓦河 史麥塔納 — 江晴 | last aired 2026-09-21 02:37 | normal pick now | request now
