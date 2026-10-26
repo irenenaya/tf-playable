@@ -1,4 +1,4 @@
-Track status, artists filed under PI (built Sun Oct 25, 6:05 PM PDT (01:05 UTC Mon)). Times in UTC.
+Track status, artists filed under PI (built Sun Oct 25, 7:05 PM PDT (02:05 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Pierre Monteux — The Fire Bird: IV. Infernal Dance of King Kastchei | last aired 2026-10-13 10:34 | normal pick now | request now
@@ -7,7 +7,7 @@ OK   Pink Floyd — Breathe (In the Air) | last aired 2026-10-21 18:32 | normal 
 OK   Pink Floyd — Comfortably Numb | last aired 2026-10-18 09:32 | normal pick now | request now
 WAIT Pink Floyd — Coming Back to Life | last aired 2026-10-25 09:20 | normal pick from 2026-10-26 21:20 | request from 2026-10-26 05:20
 OK   Pink Floyd — Fearless | last aired 2026-10-12 22:36 | normal pick now | request now
-OK   Pink Floyd — Have a Cigar | last aired 2026-10-19 22:41 | normal pick now | request now
+WAIT Pink Floyd — Have a Cigar | last aired 2026-10-26 01:08 | normal pick from 2026-10-27 13:08 | request from 2026-10-26 21:08
 OK   Pink Floyd — Money | last aired 2026-10-05 20:11 | normal pick now | request now
 OK   Pink Floyd — The Great Gig in the Sky (2023 Remaster) | last aired 2026-10-20 12:08 | normal pick now | request now
 OK   Pink Floyd — Wish You Were Here | last aired 2026-10-23 03:43 | normal pick now | request now
