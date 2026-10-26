@@ -1,11 +1,11 @@
-Track status, song titles filed under PR (built Mon Oct 26, 10:05 AM PDT (17:05 UTC)). Times in UTC.
+Track status, song titles filed under PR (built Mon Oct 26, 11:05 AM PDT (18:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Praying For Love — Donna De Lory | last aired 2026-10-25 01:33 | normal pick now | request now
 OK   Precious — Depeche Mode | last aired 2026-10-24 20:17 | normal pick now | request now
 OK   Precious Lord (Take My Hand) (Part One) — Aretha Franklin | last aired 2026-10-18 22:20 | normal pick now | request now
 OK   Pretty Wings (uncut) — Maxwell | last aired 2026-10-24 16:52 | normal pick now | request now
-OK   Pride and Joy — Stevie Ray Vaughan & Double Trouble | last aired 2026-10-22 22:27 | normal pick now | request now
+WAIT Pride and Joy — Stevie Ray Vaughan & Double Trouble | last aired 2026-10-26 17:34 | normal pick from 2026-10-28 17:34 | request from 2026-10-28 17:34
 WAIT Primavera — Ludovico Einaudi | last aired 2026-10-26 06:55 | normal pick from 2026-10-27 18:55 | request from 2026-10-27 02:55
 OK   Prime Audio Soup — Meat Beat Manifesto | last aired 2026-10-18 11:27 | normal pick now | request now
 OK   princess mononoke theme — KOHTO | last aired 2026-10-16 03:35 | normal pick now | request now

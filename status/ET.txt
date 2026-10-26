@@ -1,6 +1,6 @@
-Track status, artists filed under ET (built Mon Oct 26, 10:05 AM PDT (17:05 UTC)). Times in UTC.
+Track status, artists filed under ET (built Mon Oct 26, 11:05 AM PDT (18:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Ethel Cain — Punish | last aired 2026-10-24 00:15 | normal pick now | request now
 OK   Etta James — At Last | last aired 2026-10-22 19:01 | normal pick now | request now
-OK   Etta James — I'd Rather Go Blind | last aired 2026-10-22 06:36 | normal pick now | request now
+WAIT Etta James — I'd Rather Go Blind | last aired 2026-10-26 17:38 | normal pick from 2026-10-28 17:38 | request from 2026-10-28 17:38

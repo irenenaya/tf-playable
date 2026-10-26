@@ -1,11 +1,11 @@
-Track status, artists filed under BO (built Mon Oct 26, 10:05 AM PDT (17:05 UTC)). Times in UTC.
+Track status, artists filed under BO (built Mon Oct 26, 11:05 AM PDT (18:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Boards of Canada — Blood In The Labyrinth | last aired 2026-10-21 21:42 | normal pick now | request now
 OK   Boards of Canada — Dayvan Cowboy | last aired 2026-10-22 02:34 | normal pick now | request now
 OK   Boards of Canada — Olson | last aired 2026-10-21 17:52 | normal pick now | request now
 OK   Boards of Canada — Roygbiv | last aired 2026-10-23 23:13 | normal pick now | request now
-OK   Bob Dylan — Girl from the North Country | last aired 2026-10-22 06:13 | normal pick now | request now
+WAIT Bob Dylan — Girl from the North Country | last aired 2026-10-26 17:58 | normal pick from 2026-10-28 17:58 | request from 2026-10-28 17:58
 OK   Bob Dylan — The Lonesome Death of Hattie Carroll | last aired 2026-10-23 03:23 | normal pick now | request now
 OK   Bob Marley & The Wailers — Get Up, Stand Up | last aired 2026-10-22 04:58 | normal pick now | request now
 WAIT Bobby Caldwell — Coming Down from Love | last aired 2026-10-26 13:35 | normal pick from 2026-10-28 13:35 | request from 2026-10-28 13:35
@@ -15,7 +15,7 @@ WAIT Bobby Hutcherson — Stardust | last aired 2026-10-26 03:52 | normal pick f
 OK   Bobby McFerrin — Common Threads | last aired 2026-10-25 03:28 | normal pick now | request now
 OK   Bobby McFerrin — Don't Worry Be Happy | last aired 2026-10-19 09:40 | normal pick now | request now
 OK   Bobby Vinton — Blue Velvet | last aired 2026-10-24 09:26 | normal pick now | request now
-OK   Bon Iver — Holocene | last aired 2026-10-22 02:20 | normal pick now | request now
+WAIT Bon Iver — Holocene | last aired 2026-10-26 17:46 | normal pick from 2026-10-28 17:46 | request from 2026-10-28 17:46
 OK   Bon Iver — Skinny Love | last aired 2026-10-23 21:35 | normal pick now | request now
 WAIT Bon Jovi — Livin' On A Prayer | last aired 2026-10-26 15:27 | normal pick from 2026-10-28 15:27 | request from 2026-10-28 15:27
 OK   Bon Jovi — You Give Love A Bad Name | last aired 2026-10-23 13:01 | normal pick now | request now
