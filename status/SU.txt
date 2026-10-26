@@ -1,11 +1,11 @@
-Track status, artists filed under SU (built Mon Oct 26, 3:05 PM PDT (22:05 UTC)). Times in UTC.
+Track status, artists filed under SU (built Mon Oct 26, 4:05 PM PDT (23:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Suburban Kids With Biblical Names — Rent A Wreck | last aired 2026-10-25 22:47 | normal pick from 2026-10-27 22:47 | request from 2026-10-27 22:47
 OK   Suede — Animal Nitrate | last aired 2026-10-20 09:01 | normal pick now | request now
 WAIT Sufjan Stevens — Casimir Pulaski Day | last aired 2026-10-25 11:25 | normal pick from 2026-10-26 23:25 | request now
 OK   Sufjan Stevens — Fourth of July | last aired 2026-10-17 21:31 | normal pick now | request now
-OK   Sufjan Stevens — Mystery of Love | last aired 2026-10-22 02:25 | normal pick now | request now
+WAIT Sufjan Stevens — Mystery of Love | last aired 2026-10-26 22:02 | normal pick from 2026-10-28 10:02 | request from 2026-10-27 18:02
 OK   Sufjan Stevens — Should Have Known Better | last aired 2026-10-23 12:21 | normal pick now | request now
 OK   Sui Generis — Rasguña Las Piedras (Album Version) | last aired 2026-10-20 18:59 | normal pick now | request now
 OK   Sukhwinder Singh — Chaiyya Chaiyya | last aired 2026-10-22 10:14 | normal pick now | request now
