@@ -1,4 +1,4 @@
-Track status, song titles filed under PA (built Sun Oct 25, 9:05 PM PDT (04:05 UTC Mon)). Times in UTC.
+Track status, song titles filed under PA (built Sun Oct 25, 10:05 PM PDT (05:05 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Pac-Man (feat. ScHoolboy Q) — Gorillaz | last aired 2026-10-22 00:14 | normal pick now | request now
@@ -11,7 +11,7 @@ WAIT Papa Was a Rodeo — The Magnetic Fields | last aired 2026-10-25 00:31 | no
 WAIT Papa Was A Rollin' Stone (Full Version) — The Temptations | last aired 2026-10-25 17:43 | normal pick from 2026-10-27 05:43 | request from 2026-10-26 13:43
 OK   Paradise City — Guns N' Roses | last aired 2026-10-22 23:04 | normal pick now | request now
 OK   Paranoid Android — Radiohead | last aired 2026-10-23 07:37 | normal pick now | request now
-WAIT Paranoid — Black Sabbath | last aired 2026-10-26 01:41 | normal pick from 2026-10-27 13:41 | request from 2026-10-26 21:41
+WAIT Paranoid — Black Sabbath | last aired 2026-10-26 01:42 | normal pick from 2026-10-27 13:42 | request from 2026-10-26 21:42
 OK   Parisienne Walkways — Gary Moore | last aired 2026-10-24 09:20 | normal pick now | request now
 WAIT Paroles paroles (Album Version) — Dalida | last aired 2026-10-24 22:33 | normal pick from 2026-10-26 22:33 | request from 2026-10-26 22:33
 WAIT Party Hard (Album Version) — Andrew W.K. | last aired 2026-10-26 02:48 | normal pick from 2026-10-27 14:48 | request from 2026-10-26 22:48
@@ -20,7 +20,7 @@ WAIT Pasión (Album Version) — Rodrigo Leão | last aired 2026-10-25 15:07 | n
 WAIT Passion Play (Live in Paris) — William Fitzsimmons | last aired 2026-10-25 19:18 | normal pick from 2026-10-27 07:18 | request from 2026-10-26 15:18
 OK   Passion, Grace & Fire (Album Version) — Al Di Meola | last aired 2026-10-24 03:34 | normal pick now | request now
 WAIT Pata Pata — Miriam Makeba | last aired 2026-10-24 10:37 | normal pick from 2026-10-26 10:37 | request from 2026-10-26 10:37
-WAIT Patient — Playroom | last aired 2026-10-24 16:38 | normal pick from 2026-10-26 04:38 | request now
+OK   Patient — Playroom | last aired 2026-10-24 16:38 | normal pick now | request now
 OK   Pattern Recognition (feat. ODDEEO) — Neuro-sama | last aired 2026-09-25 15:01 | normal pick now | request now
 WAIT Pärt: Für Alina — Alexander Malter | last aired 2026-10-25 18:33 | normal pick from 2026-10-27 18:33 | request from 2026-10-27 18:33
 OK   The Path of the Wind (from 'My Neighbor Totoro') — Joe Hisaishi | last aired 2026-10-24 10:28 | normal pick now | request now

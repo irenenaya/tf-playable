@@ -1,11 +1,11 @@
-Track status, song titles filed under ST (built Sun Oct 25, 9:05 PM PDT (04:05 UTC Mon)). Times in UTC.
+Track status, song titles filed under ST (built Sun Oct 25, 10:05 PM PDT (05:05 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   S.T.A.Y. — Hans Zimmer | last aired 2026-10-24 02:46 | normal pick now | request now
 WAIT St. James Infirmary — Jim James | last aired 2026-10-24 12:25 | normal pick from 2026-10-26 12:25 | request from 2026-10-26 12:25
 OK   Stacy's Mom — Fountains Of Wayne | last aired 2026-10-15 16:38 | normal pick now | request now
 OK   Stairway to Heaven  (Remaster) — Led Zeppelin | last aired 2026-10-21 02:47 | normal pick now | request now
-OK   Stand By Me — Ben E. King | last aired 2026-10-19 18:48 | normal pick now | request now
+WAIT Stand By Me — Ben E. King | last aired 2026-10-26 04:14 | normal pick from 2026-10-28 04:14 | request from 2026-10-28 04:14
 OK   Stand By Your Man (Album Version) — Tammy Wynette | last aired 2026-10-20 19:58 | normal pick now | request now
 WAIT Star Fruit Surf Rider (Damon Albarn Remix) — Cornelius | last aired 2026-10-24 23:47 | normal pick from 2026-10-26 11:47 | request now
 OK   Starboy — The Weeknd | last aired 2026-10-21 02:09 | normal pick now | request now
@@ -25,7 +25,7 @@ OK   Still Loving You (2011 Version) — Scorpions | last aired 2026-10-22 11:21
 OK   Still Of The Night (2018 Remaster) — Whitesnake | last aired 2026-10-06 13:24 | normal pick now | request now
 OK   Still Of The Night (Live In Tokyo, Japan / 1993) — Blue Murder | last aired 2026-09-22 16:01 | normal pick now | request now
 OK   Straight Outta Vagina (feat. Desi Mo & Leikeli47) — Pussy Riot | last aired 2026-09-15 09:55 | normal pick now | request now
-WAIT Straight Up (Single Version) — Paula Abdul | last aired 2026-10-24 16:25 | normal pick from 2026-10-26 04:25 | request now
+OK   Straight Up (Single Version) — Paula Abdul | last aired 2026-10-24 16:25 | normal pick now | request now
 OK   Strange — Patsy Cline | last aired 2026-10-23 04:15 | normal pick now | request now
 OK   Stranger in Moscow — Michael Jackson | last aired 2026-10-14 13:09 | normal pick now | request now
 OK   Stranger On The Shore — Acker Bilk | last aired 2026-10-24 05:47 | normal pick now | request now

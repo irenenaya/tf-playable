@@ -1,9 +1,9 @@
-Track status, song titles filed under HO (built Sun Oct 25, 9:05 PM PDT (04:05 UTC Mon)). Times in UTC.
+Track status, song titles filed under HO (built Sun Oct 25, 10:05 PM PDT (05:05 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Holding — Grouper | last aired 2026-10-23 02:08 | normal pick now | request now
 OK   Holding Out for a Hero (From "Footloose" Soundtrack) — Bonnie Tyler | last aired 2026-10-20 20:26 | normal pick now | request now
-WAIT Holiday (Remastered 2015) — Scorpions | last aired 2026-10-26 01:16 | normal pick from 2026-10-27 13:16 | request from 2026-10-26 21:16
+WAIT Holiday (Remastered 2015) — Scorpions | last aired 2026-10-26 01:17 | normal pick from 2026-10-27 13:17 | request from 2026-10-26 21:17
 OK   Holiday — Madonna | last aired 2026-10-15 01:45 | normal pick now | request now
 OK   Holocene — Bon Iver | last aired 2026-10-22 02:20 | normal pick now | request now
 OK   Holy Water (Album Version) — Soundgarden | last aired 2026-10-23 13:05 | normal pick now | request now
@@ -12,10 +12,10 @@ WAIT Honesty (Album Version) — Billy Joel | last aired 2026-10-25 22:09 | norm
 OK   Honey Bones — Dope Lemon | last aired 2026-10-23 03:29 | normal pick now | request now
 OK   Hong Kong — Gorillaz | last aired 2026-10-22 03:44 | normal pick now | request now
 OK   Hopopono — GoGo Penguin | last aired 2026-10-23 17:32 | normal pick now | request now
-WAIT Hoppípolla — Sigur Rós | last aired 2026-10-26 01:53 | normal pick from 2026-10-28 01:53 | request from 2026-10-28 01:53
+WAIT Hoppípolla — Sigur Rós | last aired 2026-10-26 01:54 | normal pick from 2026-10-28 01:54 | request from 2026-10-28 01:54
 OK   HOT TO GO! — Chappell Roan | last aired 2026-10-12 17:42 | normal pick now | request now
 OK   Hotel California  (2013 Remaster) — Eagles | last aired 2026-10-18 10:29 | normal pick now | request now
-WAIT Houdini — Dua Lipa | last aired 2026-10-26 02:56 | normal pick from 2026-10-27 14:56 | request from 2026-10-26 22:56
+WAIT Houdini — Dua Lipa | last aired 2026-10-26 02:57 | normal pick from 2026-10-27 14:57 | request from 2026-10-26 22:57
 WAIT House of the Rising Sun — Erik Grönwall | last aired 2026-10-24 20:50 | normal pick from 2026-10-26 08:50 | request now
 OK   House Where Nobody Lives — Tom Waits | last aired 2026-10-22 06:48 | normal pick now | request now
 OK   How Deep Is The Ocean — Diana Krall | last aired 2026-10-23 01:27 | normal pick now | request now

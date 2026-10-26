@@ -1,11 +1,11 @@
-Track status, artists filed under CH (built Sun Oct 25, 9:05 PM PDT (04:05 UTC Mon)). Times in UTC.
+Track status, artists filed under CH (built Sun Oct 25, 10:05 PM PDT (05:05 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Chaka Khan — What Cha' Gonna Do for Me | last aired 2026-10-25 03:16 | normal pick from 2026-10-27 03:16 | request from 2026-10-27 03:16
 WAIT Chappell Roan — Good Luck, Babe! | last aired 2026-10-24 21:33 | normal pick from 2026-10-26 09:33 | request now
 OK   Chappell Roan — HOT TO GO! | last aired 2026-10-12 17:42 | normal pick now | request now
 OK   Chappell Roan — Pink Pony Club | last aired 2026-10-18 10:54 | normal pick now | request now
-OK   Charles Lloyd & The Marvels — You Are So Beautiful | last aired 2026-10-23 00:55 | normal pick now | request now
+WAIT Charles Lloyd & The Marvels — You Are So Beautiful | last aired 2026-10-26 04:57 | normal pick from 2026-10-27 16:57 | request from 2026-10-27 00:57
 WAIT Charles Lloyd — You Are So Beautiful | last aired 2026-10-24 18:34 | normal pick from 2026-10-26 06:34 | request now
 OK   Charles Mingus — Goodbye Pork Pie Hat (Album Version) | last aired 2026-10-23 17:36 | normal pick now | request now
 OK   Charles Mingus — Medley: Mode D - Trio And Group Dancers / Mode E - Single Solos And Group Dance / Mode F - Group And Solo Dance (Album Version) | last aired 2026-09-28 07:39 | normal pick now | request now
@@ -32,7 +32,7 @@ WAIT Chris Snelling — Le onde | last aired 2026-10-25 06:01 | normal pick from
 WAIT Chris Whitley — Big Sky Country (Album Version) | last aired 2026-10-25 01:00 | normal pick from 2026-10-27 01:00 | request from 2026-10-27 01:00
 WAIT Christian Löffler — Lid | last aired 2026-10-24 23:36 | normal pick from 2026-10-26 11:36 | request now
 OK   Christina Aguilera — Genie In a Bottle | last aired 2026-10-20 15:29 | normal pick now | request now
-WAIT Christopher Cross — I Really Don't Know Anymore  (2019 Remaster) | last aired 2026-10-26 03:42 | normal pick from 2026-10-27 15:42 | request from 2026-10-26 23:42
+WAIT Christopher Cross — I Really Don't Know Anymore  (2019 Remaster) | last aired 2026-10-26 03:43 | normal pick from 2026-10-27 15:43 | request from 2026-10-26 23:43
 WAIT Christopher Cross — Ride Like the Wind (Album Version) | last aired 2026-10-25 03:40 | normal pick from 2026-10-26 15:40 | request now
 OK   Christopher Cross — Sailing | last aired 2026-10-23 05:10 | normal pick now | request now
 OK   Chuck Berry — Johnny B. Goode | last aired 2026-10-24 13:19 | normal pick now | request now

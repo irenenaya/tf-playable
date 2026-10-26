@@ -1,13 +1,13 @@
-Track status, artists filed under VA (built Sun Oct 25, 9:05 PM PDT (04:05 UTC Mon)). Times in UTC.
+Track status, artists filed under VA (built Sun Oct 25, 10:05 PM PDT (05:05 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Vampire Lestat — Brutal Love | last aired 2026-10-09 15:42 | normal pick now | request now
 OK   The Vampire Lestat — Dancing With Myself | last aired 2026-10-18 03:44 | normal pick now | request now
-WAIT The Vampire Lestat — La Fontaine De Sang | last aired 2026-10-26 01:57 | normal pick from 2026-10-27 13:57 | request from 2026-10-26 21:57
+WAIT The Vampire Lestat — La Fontaine De Sang | last aired 2026-10-26 01:58 | normal pick from 2026-10-27 13:58 | request from 2026-10-26 21:58
 OK   Van Halen — Jump  (2015 Remaster) | last aired 2026-10-23 13:34 | normal pick now | request now
 OK   Vangelis — La petite fille de la mer | last aired 2026-10-22 16:20 | normal pick now | request now
 OK   Vanilla Ice — Ninja Rap | last aired 2026-10-22 20:37 | normal pick now | request now
 OK   Various Interprets — At Last | last aired 2026-09-27 15:48 | normal pick now | request now
-WAIT Various Interprets — Come Tomorrow (Duet With Barry Gibb (Album Version)) | last aired 2026-10-26 02:59 | normal pick from 2026-10-27 14:59 | request from 2026-10-26 22:59
+WAIT Various Interprets — Come Tomorrow (Duet With Barry Gibb (Album Version)) | last aired 2026-10-26 03:00 | normal pick from 2026-10-27 15:00 | request from 2026-10-26 23:00
 WAIT VAST — Thrown Away | last aired 2026-10-24 19:56 | normal pick from 2026-10-26 07:56 | request now
-WAIT Vaya Con Dios — Nah Neh Nah | last aired 2026-10-24 16:10 | normal pick from 2026-10-26 04:10 | request now
+OK   Vaya Con Dios — Nah Neh Nah | last aired 2026-10-24 16:10 | normal pick now | request now
