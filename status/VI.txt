@@ -1,7 +1,7 @@
-Track status, artists filed under VI (built Mon Oct 26, 2:05 AM PDT (09:05 UTC)). Times in UTC.
+Track status, artists filed under VI (built Mon Oct 26, 3:05 AM PDT (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Vicente Fernández — El Rey | last aired 2026-10-21 00:08 | normal pick now | request now
+WAIT Vicente Fernández — El Rey | last aired 2026-10-26 09:53 | normal pick from 2026-10-27 21:53 | request from 2026-10-27 05:53
 OK   Victor Babin — Vocalise: Lentamente, Molto cantabile - 14 Romances Op. 34, No. 14 (arr. Babin - Sergei Rachmaninoff)  (Remastered 2023, Hollywood 1939) | last aired 2026-10-24 05:07 | normal pick now | request now
 WAIT Victor Leksell — Skriker mitt namn | last aired 2026-10-25 01:57 | normal pick from 2026-10-26 13:57 | request now
 OK   Vinicius Cantuaria — Lua e Estrela | last aired 2026-10-24 02:42 | normal pick now | request now
