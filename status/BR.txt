@@ -1,10 +1,10 @@
-Track status, artists filed under BR (built Sun Oct 25, 7:05 PM PDT (02:05 UTC Mon)). Times in UTC.
+Track status, artists filed under BR (built Sun Oct 25, 8:05 PM PDT (03:05 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Brainstory — Mnemophobia | last aired 2026-10-24 03:53 | normal pick now | request now
 OK   Brandi Carlile — The Joke | last aired 2026-10-22 04:47 | normal pick now | request now
 WAIT Breakbot — Baby I'm Yours | last aired 2026-10-24 20:55 | normal pick from 2026-10-26 08:55 | request now
-OK   Breakestra — Back At The Boathouse | last aired 2026-10-17 13:07 | normal pick now | request now
+WAIT Breakestra — Back At The Boathouse | last aired 2026-10-26 02:27 | normal pick from 2026-10-27 14:27 | request from 2026-10-26 22:27
 OK   Brenda Lee — Rockin' Around The Christmas Tree | last aired 2026-08-13 13:36 | normal pick now | request now
 WAIT Brian Eno — An Ending (Ascent) (Remastered 2019) | last aired 2026-10-25 02:48 | normal pick from 2026-10-26 14:48 | request now
 OK   Brian Eno — Capsule | last aired 2026-10-24 02:15 | normal pick now | request now

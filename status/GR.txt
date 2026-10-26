@@ -1,4 +1,4 @@
-Track status, artists filed under GR (built Sun Oct 25, 7:05 PM PDT (02:05 UTC Mon)). Times in UTC.
+Track status, artists filed under GR (built Sun Oct 25, 8:05 PM PDT (03:05 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   G.Rag & die Landlergschwister — Odessa | last aired 2026-10-11 04:35 | normal pick now | request now
@@ -8,7 +8,7 @@ WAIT Grand Corps Malade — Mais je t'aime | last aired 2026-10-25 19:08 | norma
 OK   Grateful Dead — Eyes of the World | last aired 2026-10-24 11:30 | normal pick now | request now
 OK   Green Day — American Idiot (Album Version) | last aired 2026-10-23 15:51 | normal pick now | request now
 WAIT Greg Shilling — Shampoo | last aired 2026-10-25 04:45 | normal pick from 2026-10-26 16:45 | request now
-WAIT Grethe & Jørgen Ingmann — Dansevise | last aired 2026-10-24 14:56 | normal pick from 2026-10-26 02:56 | request now
+OK   Grethe & Jørgen Ingmann — Dansevise | last aired 2026-10-24 14:56 | normal pick now | request now
 OK   Grimes — Oblivion | last aired 2026-10-23 14:15 | normal pick now | request now
 OK   Groove Armada — At the River | last aired 2026-10-21 17:54 | normal pick now | request now
 OK   Groove Armada — Madder | last aired 2026-10-22 00:17 | normal pick now | request now
@@ -16,5 +16,5 @@ OK   Groove Armada — My Friend (Album Version) | last aired 2026-10-21 03:56 |
 OK   Grossstadtgeflüster — Fickt-Euch-Allee | last aired 2026-09-18 10:29 | normal pick now | request now
 OK   Grouper — Alien Observer | last aired 2026-10-22 07:41 | normal pick now | request now
 OK   Grouper — Holding | last aired 2026-10-23 02:08 | normal pick now | request now
-WAIT Grover Washington Jr. — Mister Magic | last aired 2026-10-25 06:42 | normal pick from 2026-10-26 18:42 | request from 2026-10-26 02:42
+WAIT Grover Washington Jr. — Mister Magic | last aired 2026-10-25 06:42 | normal pick from 2026-10-26 18:42 | request now
 OK   The Green — Love I | last aired 2026-10-09 01:40 | normal pick now | request now

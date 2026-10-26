@@ -1,7 +1,7 @@
-Track status, song titles filed under DO (built Sun Oct 25, 7:05 PM PDT (02:05 UTC Mon)). Times in UTC.
+Track status, song titles filed under DO (built Sun Oct 25, 8:05 PM PDT (03:05 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   (Don't Fear) The Reaper — Blue Öyster Cult | last aired 2026-10-20 16:30 | normal pick now | request now
+WAIT (Don't Fear) The Reaper — Blue Öyster Cult | last aired 2026-10-26 02:51 | normal pick from 2026-10-27 14:51 | request from 2026-10-26 22:51
 OK   Do I Wanna Know? — Arctic Monkeys | last aired 2026-10-22 03:08 | normal pick now | request now
 OK   Do It — Underscores | last aired 2026-10-16 02:13 | normal pick now | request now
 OK   Do Not Disturb — Halestorm | last aired 2026-10-19 08:11 | normal pick now | request now
@@ -14,7 +14,7 @@ OK   Don't Delete The Kisses — Wolf Alice | last aired 2026-10-23 16:15 | norm
 OK   Don't Dream It's Over — Crowded House | last aired 2026-10-21 21:24 | normal pick now | request now
 WAIT Don't Give Up  (2012 Remaster) — Peter Gabriel | last aired 2026-10-25 08:56 | normal pick from 2026-10-26 20:56 | request from 2026-10-26 04:56
 WAIT Don't Look Any Further (Single Version) — Dennis Edwards | last aired 2026-10-24 18:23 | normal pick from 2026-10-26 06:23 | request now
-OK   Don't Shut Me Down — ABBA | last aired 2026-10-20 22:24 | normal pick now | request now
+WAIT Don't Shut Me Down — ABBA | last aired 2026-10-26 02:18 | normal pick from 2026-10-27 14:18 | request from 2026-10-26 22:18
 OK   Don't Start Now — Dua Lipa | last aired 2026-10-23 09:49 | normal pick now | request now
 OK   Don't Stop Believin' (Album Version) — Journey | last aired 2026-10-23 13:23 | normal pick now | request now
 OK   Don't Stop Me Now (Remastered 2011) — Queen | last aired 2026-10-23 09:16 | normal pick now | request now
