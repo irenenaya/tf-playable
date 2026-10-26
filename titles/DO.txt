@@ -1,4 +1,4 @@
-Track status, song titles filed under DO (built Sun Oct 25, 11:05 PM PDT (06:05 UTC Mon)). Times in UTC.
+Track status, song titles filed under DO (built Mon Oct 26, 12:05 AM PDT (07:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT (Don't Fear) The Reaper — Blue Öyster Cult | last aired 2026-10-26 02:52 | normal pick from 2026-10-27 14:52 | request from 2026-10-26 22:52
@@ -13,7 +13,7 @@ OK   Don't Change — INXS | last aired 2026-10-22 11:56 | normal pick now | req
 OK   Don't Delete The Kisses — Wolf Alice | last aired 2026-10-23 16:15 | normal pick now | request now
 OK   Don't Dream It's Over — Crowded House | last aired 2026-10-21 21:24 | normal pick now | request now
 WAIT Don't Give Up  (2012 Remaster) — Peter Gabriel | last aired 2026-10-25 08:56 | normal pick from 2026-10-26 20:56 | request now
-WAIT Don't Look Any Further (Single Version) — Dennis Edwards | last aired 2026-10-24 18:23 | normal pick from 2026-10-26 06:23 | request now
+OK   Don't Look Any Further (Single Version) — Dennis Edwards | last aired 2026-10-24 18:23 | normal pick now | request now
 WAIT Don't Shut Me Down — ABBA | last aired 2026-10-26 02:19 | normal pick from 2026-10-27 14:19 | request from 2026-10-26 22:19
 OK   Don't Start Now — Dua Lipa | last aired 2026-10-23 09:49 | normal pick now | request now
 OK   Don't Stop Believin' (Album Version) — Journey | last aired 2026-10-23 13:23 | normal pick now | request now

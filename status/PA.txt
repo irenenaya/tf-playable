@@ -1,4 +1,4 @@
-Track status, artists filed under PA (built Sun Oct 25, 11:05 PM PDT (06:05 UTC Mon)). Times in UTC.
+Track status, artists filed under PA (built Mon Oct 26, 12:05 AM PDT (07:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Paco de Lucía — Entre Dos Aguas | last aired 2026-10-25 11:59 | normal pick from 2026-10-27 11:59 | request from 2026-10-27 11:59
@@ -11,7 +11,7 @@ OK   Papooz — You and I | last aired 2026-10-22 03:13 | normal pick now | requ
 OK   Paramore — Thick Skull | last aired 2026-10-23 16:08 | normal pick now | request now
 OK   Parcels — Overnight - from Hansa Studios, Berlin | last aired 2026-10-03 20:05 | normal pick now | request now
 WAIT Parliament — Give Up The Funk (Tear The Roof Off The Sucker) | last aired 2026-10-25 17:37 | normal pick from 2026-10-27 17:37 | request from 2026-10-27 17:37
-WAIT Patrick Watson — Sit Down Beside Me | last aired 2026-10-25 10:56 | normal pick from 2026-10-26 22:56 | request from 2026-10-26 06:56
+WAIT Patrick Watson — Sit Down Beside Me | last aired 2026-10-25 10:56 | normal pick from 2026-10-26 22:56 | request now
 OK   Patrik Andrén — ARC Raiders | last aired 2026-09-13 03:09 | normal pick now | request now
 OK   Patsy Cline — Crazy (Single Version) | last aired 2026-10-22 06:30 | normal pick now | request now
 OK   Patsy Cline — Strange | last aired 2026-10-23 04:15 | normal pick now | request now
@@ -24,7 +24,7 @@ OK   Patti Smith — Wing | last aired 2026-10-22 18:35 | normal pick now | requ
 OK   Paul Leonard-Morgan — She's a Pass | last aired 2026-10-18 02:28 | normal pick now | request now
 OK   Paul Mauriat — Love Is Blue (Album Version) | last aired 2026-10-24 09:23 | normal pick now | request now
 OK   Paul McCartney — Maybe I’m Amazed (2011 Remaster) | last aired 2026-10-21 18:53 | normal pick now | request now
-WAIT Paul McCartney — Monkberry Moon Delight (2012 Remaster) | last aired 2026-10-24 18:17 | normal pick from 2026-10-26 06:17 | request now
+OK   Paul McCartney — Monkberry Moon Delight (2012 Remaster) | last aired 2026-10-24 18:17 | normal pick now | request now
 WAIT Paul Rodgers — Muddy Water Blues | last aired 2026-10-25 03:36 | normal pick from 2026-10-26 15:36 | request now
 OK   Paul Simon — Further to Fly | last aired 2026-10-22 04:38 | normal pick now | request now
 OK   Paul Simon — You Can Call Me Al | last aired 2026-10-23 08:16 | normal pick now | request now
