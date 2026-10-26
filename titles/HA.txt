@@ -1,4 +1,4 @@
-Track status, song titles filed under HA (built Mon Oct 26, 5:05 AM PDT (12:05 UTC)). Times in UTC.
+Track status, song titles filed under HA (built Mon Oct 26, 6:05 AM PDT (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Halah — Mazzy Star | last aired 2026-10-24 00:07 | normal pick now | request now
@@ -8,7 +8,7 @@ OK   Hallelujah — Jeff Buckley | last aired 2026-10-23 04:17 | normal pick now
 OK   Hallelujah — Leonard Cohen | last aired 2026-10-13 00:14 | normal pick now | request now
 OK   Halloween Theme — John Carpenter | last aired 2026-10-13 02:49 | normal pick now | request now
 OK   Halo Theme Mjolnir Mix — Halo | last aired 2026-09-21 03:04 | normal pick now | request now
-OK   Hang on Sloopy — The McCoys | last aired 2026-10-23 11:00 | normal pick now | request now
+WAIT Hang on Sloopy — The McCoys | last aired 2026-10-26 12:06 | normal pick from 2026-10-28 00:06 | request from 2026-10-27 08:06
 OK   Happy Birthday — Stevie Wonder | last aired 2026-09-29 18:47 | normal pick now | request now
 WAIT Hard Rock Hallelujah — Lordi | last aired 2026-10-25 20:02 | normal pick from 2026-10-27 08:02 | request from 2026-10-26 16:02
 OK   Hard Times — The Jetzons | last aired 2026-10-23 16:35 | normal pick now | request now
@@ -18,10 +18,10 @@ OK   Harder, Better, Faster, Stronger — Daft Punk | last aired 2026-10-22 00:3
 WAIT Hardline — Julien Baker | last aired 2026-10-25 06:18 | normal pick from 2026-10-27 06:18 | request from 2026-10-27 06:18
 OK   Harmony in Blue I — Tim Hecker | last aired 2026-10-22 01:05 | normal pick now | request now
 OK   Haru No Iutoori — indigo la End | last aired 2026-10-23 22:07 | normal pick now | request now
-WAIT Harvest Moon (Album Version) — Neil Young | last aired 2026-10-26 08:16 | normal pick from 2026-10-28 08:16 | request from 2026-10-28 08:16
+WAIT Harvest Moon (Album Version) — Neil Young | last aired 2026-10-26 08:17 | normal pick from 2026-10-28 08:17 | request from 2026-10-28 08:17
 WAIT Hate Yourself — TV Girl | last aired 2026-10-25 19:56 | normal pick from 2026-10-27 07:56 | request from 2026-10-26 15:56
 OK   Haunted When the Minutes Drag — Love and Rockets | last aired 2026-10-23 11:33 | normal pick now | request now
-WAIT Haus am See — Peter Fox | last aired 2026-10-26 09:58 | normal pick from 2026-10-28 09:58 | request from 2026-10-28 09:58
+WAIT Haus am See — Peter Fox | last aired 2026-10-26 09:59 | normal pick from 2026-10-28 09:59 | request from 2026-10-28 09:59
 WAIT Have a Cigar — Pink Floyd | last aired 2026-10-26 01:08 | normal pick from 2026-10-27 13:08 | request from 2026-10-26 21:08
 OK   Have Yourself A Merry Little Christmas (Remastered 1999) — Frank Sinatra | last aired 2026-08-13 12:59 | normal pick now | request now
 WAIT The Hand That Feeds — Nine Inch Nails | last aired 2026-10-25 20:49 | normal pick from 2026-10-27 08:49 | request from 2026-10-26 16:49

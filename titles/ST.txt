@@ -1,8 +1,8 @@
-Track status, song titles filed under ST (built Mon Oct 26, 5:05 AM PDT (12:05 UTC)). Times in UTC.
+Track status, song titles filed under ST (built Mon Oct 26, 6:05 AM PDT (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   S.T.A.Y. — Hans Zimmer | last aired 2026-10-24 02:46 | normal pick now | request now
-WAIT St. James Infirmary — Jim James | last aired 2026-10-24 12:25 | normal pick from 2026-10-26 12:25 | request from 2026-10-26 12:25
+OK   St. James Infirmary — Jim James | last aired 2026-10-24 12:25 | normal pick now | request now
 OK   Stacy's Mom — Fountains Of Wayne | last aired 2026-10-15 16:38 | normal pick now | request now
 OK   Stairway to Heaven  (Remaster) — Led Zeppelin | last aired 2026-10-21 02:47 | normal pick now | request now
 WAIT Stand By Me — Ben E. King | last aired 2026-10-26 04:15 | normal pick from 2026-10-28 04:15 | request from 2026-10-28 04:15
@@ -20,7 +20,7 @@ WAIT Steal Away — Robbie Dupree | last aired 2026-10-25 03:13 | normal pick fr
 OK   Steep Hills of Vicodin Tears — A Winged Victory For The Sullen | last aired 2026-10-24 01:59 | normal pick now | request now
 OK   Steppe — René Aubry | last aired 2026-10-13 08:22 | normal pick now | request now
 OK   Stick Season — Noah Kahan | last aired 2026-10-15 03:23 | normal pick now | request now
-WAIT Still Life (2015 Remaster) — Iron Maiden | last aired 2026-10-25 16:43 | normal pick from 2026-10-27 04:43 | request from 2026-10-26 12:43
+WAIT Still Life (2015 Remaster) — Iron Maiden | last aired 2026-10-25 16:43 | normal pick from 2026-10-27 04:43 | request now
 OK   Still Loving You (2011 Version) — Scorpions | last aired 2026-10-22 11:21 | normal pick now | request now
 OK   Still Of The Night (2018 Remaster) — Whitesnake | last aired 2026-10-06 13:24 | normal pick now | request now
 OK   Still Of The Night (Live In Tokyo, Japan / 1993) — Blue Murder | last aired 2026-09-22 16:01 | normal pick now | request now
@@ -31,11 +31,11 @@ OK   Stranger in Moscow — Michael Jackson | last aired 2026-10-14 13:09 | norm
 OK   Stranger On The Shore — Acker Bilk | last aired 2026-10-24 05:47 | normal pick now | request now
 OK   Stratosfear (Digital Remastered) — Tangerine Dream | last aired 2026-10-24 00:35 | normal pick now | request now
 WAIT Strawberry Fields Forever — The Beatles | last aired 2026-10-25 14:15 | normal pick from 2026-10-27 02:15 | request now
-WAIT Strawberry Letter 23 (Album Version) — The Brothers Johnson | last aired 2026-10-24 12:20 | normal pick from 2026-10-26 12:20 | request from 2026-10-26 12:20
+OK   Strawberry Letter 23 (Album Version) — The Brothers Johnson | last aired 2026-10-24 12:20 | normal pick now | request now
 OK   Street Fighting Man — The Rolling Stones | last aired 2026-10-24 13:40 | normal pick now | request now
 OK   Street Lights — Josh Rouse | last aired 2026-10-24 01:39 | normal pick now | request now
 OK   Streets of Philadelphia  (Single Edit) — Bruce Springsteen | last aired 2026-10-22 18:40 | normal pick now | request now
-OK   Stressed Out — twenty one pilots | last aired 2026-10-21 02:19 | normal pick now | request now
+WAIT Stressed Out — twenty one pilots | last aired 2026-10-26 12:17 | normal pick from 2026-10-28 00:17 | request from 2026-10-27 08:17
 OK   Strings of Light — Yussef Kamaal | last aired 2026-10-23 17:23 | normal pick now | request now
 OK   Stripsearch — Faith No More | last aired 2026-10-20 19:48 | normal pick now | request now
 OK   Stuck In The Middle With You — Stealers Wheel | last aired 2026-10-24 22:00 | normal pick now | request now

@@ -1,8 +1,8 @@
-Track status, artists filed under AL (built Mon Oct 26, 5:05 AM PDT (12:05 UTC)). Times in UTC.
+Track status, artists filed under AL (built Mon Oct 26, 6:05 AM PDT (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Al Di Meola — Double Concerto | last aired 2026-10-24 07:27 | normal pick now | request now
-WAIT Al Di Meola — Libertango | last aired 2026-10-26 09:26 | normal pick from 2026-10-27 21:26 | request from 2026-10-27 05:26
+WAIT Al Di Meola — Libertango | last aired 2026-10-26 09:27 | normal pick from 2026-10-27 21:27 | request from 2026-10-27 05:27
 OK   Al Di Meola — Passion, Grace & Fire (Album Version) | last aired 2026-10-24 03:34 | normal pick now | request now
 WAIT Al Di Meola — Red Moon | last aired 2026-10-26 06:44 | normal pick from 2026-10-27 18:44 | request from 2026-10-27 02:44
 WAIT Al Green — Let's Stay Together | last aired 2026-10-25 04:29 | normal pick from 2026-10-27 04:29 | request from 2026-10-27 04:29
@@ -20,7 +20,7 @@ WAIT Alestorm — Drink | last aired 2026-10-26 00:56 | normal pick from 2026-10
 OK   Alestorm — Keelhauled | last aired 2026-10-03 06:59 | normal pick now | request now
 WAIT Alex Andre — thanks, my day is ruined | last aired 2026-10-25 13:48 | normal pick from 2026-10-27 01:48 | request now
 WAIT Alexander Malter — Pärt: Für Alina | last aired 2026-10-25 18:33 | normal pick from 2026-10-27 18:33 | request from 2026-10-27 18:33
-WAIT Alexander Rybak — Fairytale | last aired 2026-10-26 03:15 | normal pick from 2026-10-27 15:15 | request from 2026-10-26 23:15
+WAIT Alexander Rybak — Fairytale | last aired 2026-10-26 12:20 | normal pick from 2026-10-28 00:20 | request from 2026-10-27 08:20
 WAIT Alexandre Tharaud — Gnossienne No.1 - Gnossienne: No. 1 | last aired 2026-10-26 08:27 | normal pick from 2026-10-28 08:27 | request from 2026-10-28 08:27
 WAIT Alexi Murdoch — Orange Sky | last aired 2026-10-26 05:23 | normal pick from 2026-10-27 17:23 | request from 2026-10-27 01:23
 OK   Alfa Mist — Organic Rust | last aired 2026-10-24 04:32 | normal pick now | request now
