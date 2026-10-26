@@ -1,10 +1,10 @@
-Track status, artists filed under TA (built Mon Oct 26, 1:05 PM PDT (20:05 UTC)). Times in UTC.
+Track status, artists filed under TA (built Mon Oct 26, 2:05 PM PDT (21:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Tabu — Dobra Vila | last aired 2026-10-22 16:58 | normal pick now | request now
 OK   Taeko Onuki — 4:00 A.M. | last aired 2026-10-08 15:07 | normal pick now | request now
 OK   Takako Mamiya — LOVE TRIP | last aired 2026-10-24 17:46 | normal pick now | request now
-OK   Takako Mamiya — Nagisade Dance | last aired 2026-10-23 01:39 | normal pick now | request now
+WAIT Takako Mamiya — Nagisade Dance | last aired 2026-10-26 20:46 | normal pick from 2026-10-28 20:46 | request from 2026-10-28 20:46
 OK   Talk Talk — After The Flood | last aired 2026-10-20 13:07 | normal pick now | request now
 WAIT Talk Talk — I Believe in You  (1997 Remaster) | last aired 2026-10-26 08:41 | normal pick from 2026-10-27 20:41 | request from 2026-10-27 04:41
 OK   Talk Talk — Life's What You Make It  (1997 Remaster) | last aired 2026-10-19 07:15 | normal pick now | request now

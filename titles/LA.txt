@@ -1,16 +1,16 @@
-Track status, song titles filed under LA (built Mon Oct 26, 1:05 PM PDT (20:05 UTC)). Times in UTC.
+Track status, song titles filed under LA (built Mon Oct 26, 2:05 PM PDT (21:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   L'Amour Looks Something Like You (2018 Remaster) — Kate Bush | last aired 2026-10-24 05:27 | normal pick now | request now
 WAIT La bonne étoile (Live 2020) — -M- | last aired 2026-10-25 19:04 | normal pick from 2026-10-27 07:04 | request now
 OK   La chanson des vieux amants — Melody Gardot | last aired 2026-10-18 08:01 | normal pick now | request now
-WAIT La femme d'argent — Air | last aired 2026-10-25 08:40 | normal pick from 2026-10-26 20:40 | request now
+OK   La femme d'argent — Air | last aired 2026-10-25 08:40 | normal pick now | request now
 WAIT La Fontaine De Sang — The Vampire Lestat | last aired 2026-10-26 01:58 | normal pick from 2026-10-27 13:58 | request from 2026-10-26 21:58
 OK   La llorona — Chavela Vargas | last aired 2026-10-22 13:50 | normal pick now | request now
 WAIT La Mentira — Luis Miguel | last aired 2026-10-24 22:09 | normal pick from 2026-10-26 22:09 | request from 2026-10-26 22:09
 OK   La Negra Tomasa (Bilongo - Version Tropical) — Caifanes | last aired 2026-10-22 11:28 | normal pick now | request now
 WAIT La petite fille de la mer — Vangelis | last aired 2026-10-26 16:57 | normal pick from 2026-10-28 16:57 | request from 2026-10-28 16:57
-WAIT La Revacholiere — Sea Power | last aired 2026-10-26 00:52 | normal pick from 2026-10-27 12:52 | request from 2026-10-26 20:52
+WAIT La Revacholiere — Sea Power | last aired 2026-10-26 00:52 | normal pick from 2026-10-27 12:52 | request now
 WAIT La Serena — Azam Ali | last aired 2026-10-25 14:38 | normal pick from 2026-10-27 14:38 | request from 2026-10-27 14:38
 WAIT La valse d'Amélie — Yann Tiersen | last aired 2026-10-26 08:04 | normal pick from 2026-10-27 20:04 | request from 2026-10-27 04:04
 WAIT La Vie en rose — Edith Piaf | last aired 2026-10-25 19:01 | normal pick from 2026-10-27 19:01 | request from 2026-10-27 19:01

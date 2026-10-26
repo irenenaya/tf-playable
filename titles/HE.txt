@@ -1,11 +1,11 @@
-Track status, song titles filed under HE (built Mon Oct 26, 1:05 PM PDT (20:05 UTC)). Times in UTC.
+Track status, song titles filed under HE (built Mon Oct 26, 2:05 PM PDT (21:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   "Heroes" (2017 Remaster) — David Bowie | last aired 2026-10-20 23:13 | normal pick now | request now
 OK   Heart of Gold — Neil Young | last aired 2026-10-22 06:41 | normal pick now | request now
 OK   heart on my sleeve — Ghostwriter | last aired 2026-10-18 03:48 | normal pick now | request now
 OK   Heart To Heart — Child Seat | last aired 2026-10-20 14:09 | normal pick now | request now
-OK   Heart-Shaped Box (Album Version) — Nirvana | last aired 2026-10-23 16:20 | normal pick now | request now
+WAIT Heart-Shaped Box (Album Version) — Nirvana | last aired 2026-10-26 20:10 | normal pick from 2026-10-28 08:10 | request from 2026-10-27 16:10
 OK   Heartbeat — ANNIE | last aired 2026-10-23 14:19 | normal pick now | request now
 OK   Heartbeats — José González | last aired 2026-10-23 12:10 | normal pick now | request now
 OK   Hearts On Fire — Hammerfall | last aired 2026-10-23 16:52 | normal pick now | request now
@@ -22,5 +22,5 @@ OK   Henry Lee (Remastered 2011) — Nick Cave & The Bad Seeds | last aired 2026
 OK   Her Yerde Sen (Akustik) — Zeynep Bastık | last aired 2026-10-22 10:37 | normal pick now | request now
 OK   Here Comes The Flood (Exposure Fourth Edition: 2021 Stereo Mix) — Robert Fripp | last aired 2026-10-16 02:19 | normal pick now | request now
 OK   Here Comes The Sun (2019 Mix) — The Beatles | last aired 2026-10-14 00:19 | normal pick now | request now
-WAIT Heresy (Nine Inch Noize Version) — Nine Inch Nails | last aired 2026-10-26 00:20 | normal pick from 2026-10-27 12:20 | request from 2026-10-26 20:20
+WAIT Heresy (Nine Inch Noize Version) — Nine Inch Nails | last aired 2026-10-26 00:20 | normal pick from 2026-10-27 12:20 | request now
 OK   Heroin — Lana Del Rey | last aired 2026-10-17 21:55 | normal pick now | request now
