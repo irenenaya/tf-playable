@@ -1,4 +1,4 @@
-Track status, artists filed under CH (built Mon Oct 26, 4:05 AM PDT (11:05 UTC)). Times in UTC.
+Track status, artists filed under CH (built Mon Oct 26, 5:05 AM PDT (12:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Chaka Khan — What Cha' Gonna Do for Me | last aired 2026-10-25 03:16 | normal pick from 2026-10-27 03:16 | request from 2026-10-27 03:16
@@ -12,7 +12,7 @@ WAIT Charles Mingus — Medley: Mode D - Trio And Group Dancers / Mode E - Singl
 WAIT Charles Mingus — Track A - Solo Dancer (Stop! Look! And Listen, Sinner Jim Whitney!) (Album Version) | last aired 2026-10-25 06:28 | normal pick from 2026-10-26 18:28 | request now
 OK   Charles Wright & The Watts 103rd Street Rhythm Band — Express Yourself (Album Version) | last aired 2026-10-24 08:02 | normal pick now | request now
 OK   Charli XCX — 360 | last aired 2026-10-23 19:42 | normal pick now | request now
-WAIT Charly García — Demoliendo Hoteles (Live) | last aired 2026-10-24 11:11 | normal pick from 2026-10-26 11:11 | request from 2026-10-26 11:11
+OK   Charly García — Demoliendo Hoteles (Live) | last aired 2026-10-24 11:11 | normal pick now | request now
 OK   Chavela Vargas — La llorona | last aired 2026-10-22 13:50 | normal pick now | request now
 OK   Chet Atkins — Why Worry (Album Version) | last aired 2026-10-23 04:28 | normal pick now | request now
 WAIT Chet Baker — Almost Blue | last aired 2026-10-26 05:12 | normal pick from 2026-10-28 05:12 | request from 2026-10-28 05:12
@@ -30,7 +30,7 @@ OK   Chris Isaak — Blue Hotel  (Remastered Album Version) | last aired 2026-10
 OK   Chris Isaak — Wicked Game  (Remastered Album Version) | last aired 2026-10-20 18:27 | normal pick now | request now
 WAIT Chris Snelling — Le onde | last aired 2026-10-25 06:01 | normal pick from 2026-10-26 18:01 | request now
 WAIT Chris Whitley — Big Sky Country (Album Version) | last aired 2026-10-25 01:00 | normal pick from 2026-10-27 01:00 | request from 2026-10-27 01:00
-WAIT Christian Löffler — Lid | last aired 2026-10-24 23:36 | normal pick from 2026-10-26 11:36 | request now
+OK   Christian Löffler — Lid | last aired 2026-10-24 23:36 | normal pick now | request now
 OK   Christina Aguilera — Genie In a Bottle | last aired 2026-10-20 15:29 | normal pick now | request now
 WAIT Christopher Cross — I Really Don't Know Anymore  (2019 Remaster) | last aired 2026-10-26 03:43 | normal pick from 2026-10-27 15:43 | request from 2026-10-26 23:43
 WAIT Christopher Cross — Ride Like the Wind (Album Version) | last aired 2026-10-25 03:40 | normal pick from 2026-10-26 15:40 | request now
@@ -38,5 +38,5 @@ OK   Christopher Cross — Sailing | last aired 2026-10-23 05:10 | normal pick n
 OK   Chuck Berry — Johnny B. Goode | last aired 2026-10-24 13:19 | normal pick now | request now
 OK   Chuck Mangione — Feels So Good | last aired 2026-10-24 05:34 | normal pick now | request now
 WAIT CHVRCHES — Clearest Blue | last aired 2026-10-25 00:49 | normal pick from 2026-10-27 00:49 | request from 2026-10-27 00:49
-WAIT The Chills — Pink Frost | last aired 2026-10-24 23:56 | normal pick from 2026-10-26 11:56 | request now
+OK   The Chills — Pink Frost | last aired 2026-10-24 23:56 | normal pick now | request now
 OK   The Chordettes — Mr. Sandman | last aired 2026-10-18 04:36 | normal pick now | request now

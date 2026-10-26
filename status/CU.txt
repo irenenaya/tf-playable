@@ -1,4 +1,4 @@
-Track status, artists filed under CU (built Mon Oct 26, 4:05 AM PDT (11:05 UTC)). Times in UTC.
+Track status, artists filed under CU (built Mon Oct 26, 5:05 AM PDT (12:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Cuco — One and Only | last aired 2026-10-24 21:40 | normal pick from 2026-10-26 21:40 | request from 2026-10-26 21:40
@@ -12,5 +12,5 @@ WAIT The Cure — Burn (Live) | last aired 2026-10-26 06:48 | normal pick from 2
 OK   The Cure — Just Like Heaven (Album Version) | last aired 2026-10-22 03:27 | normal pick now | request now
 OK   The Cure — Lovesong  (2010 Remaster) | last aired 2026-10-23 03:10 | normal pick now | request now
 OK   The Cure — Pictures of You | last aired 2026-10-23 00:19 | normal pick now | request now
-WAIT The Cure — Plainsong (Remastered) | last aired 2026-10-25 00:00 | normal pick from 2026-10-26 12:00 | request now
+OK   The Cure — Plainsong (Remastered) | last aired 2026-10-25 00:00 | normal pick now | request now
 OK   The Cure — The Last Day Of Summer | last aired 2026-10-15 00:00 | normal pick now | request now

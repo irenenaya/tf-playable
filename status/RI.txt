@@ -1,4 +1,4 @@
-Track status, artists filed under RI (built Mon Oct 26, 4:05 AM PDT (11:05 UTC)). Times in UTC.
+Track status, artists filed under RI (built Mon Oct 26, 5:05 AM PDT (12:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Ricchi E Poveri — Sarà perché ti amo | last aired 2026-10-21 18:35 | normal pick now | request now
@@ -9,5 +9,5 @@ OK   Rick Astley — Never Gonna Give You Up | last aired 2026-10-23 19:22 | nor
 OK   Rick Springfield — Jessie's Girl | last aired 2026-10-15 20:25 | normal pick now | request now
 WAIT Ride — Vapour Trail | last aired 2026-10-25 00:23 | normal pick from 2026-10-26 12:23 | request now
 OK   Rihanna — Umbrella (Album Version) | last aired 2026-10-23 19:30 | normal pick now | request now
-OK   Rio Reiser — Für immer und dich (Album Version) | last aired 2026-10-24 04:44 | normal pick now | request now
+WAIT Rio Reiser — Für immer und dich (Album Version) | last aired 2026-10-26 11:05 | normal pick from 2026-10-27 23:05 | request from 2026-10-27 07:05
 OK   Rival Consoles — Untravel | last aired 2026-10-21 23:00 | normal pick now | request now
