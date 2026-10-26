@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Mon Oct 26, 2:05 PM PDT (21:05 UTC)). Times in UTC.
+Track status, artists filed under JO (built Mon Oct 26, 3:05 PM PDT (22:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-10-23 11:03 | normal pick now | request now
@@ -23,7 +23,7 @@ OK   John Carpenter — Halloween Theme | last aired 2026-10-13 02:49 | normal p
 OK   John Coltrane — Lush Life | last aired 2026-10-23 04:09 | normal pick now | request now
 OK   John Coltrane — My Favorite Things | last aired 2026-10-23 17:00 | normal pick now | request now
 WAIT John Denver — Take Me Home, Country Roads | last aired 2026-10-25 09:45 | normal pick from 2026-10-27 09:45 | request from 2026-10-27 09:45
-WAIT John Lee Hooker — Boom Boom | last aired 2026-10-26 17:26 | normal pick from 2026-10-28 05:26 | request from 2026-10-27 13:26
+WAIT John Lee Hooker — Boom Boom | last aired 2026-10-26 17:27 | normal pick from 2026-10-28 05:27 | request from 2026-10-27 13:27
 WAIT John Lee Hooker — I Cover the Waterfront | last aired 2026-10-25 21:06 | normal pick from 2026-10-27 09:06 | request now
 OK   John Lennon — Give Peace A Chance (Remastered 2010) | last aired 2026-10-21 04:16 | normal pick now | request now
 OK   John Lennon — Imagine (Remastered 2010) | last aired 2026-10-20 23:56 | normal pick now | request now
@@ -40,7 +40,7 @@ OK   Johnny Cash — Redemption Day (Album Version) | last aired 2026-10-22 14:0
 OK   Johnny Cash — Ring of Fire | last aired 2026-10-22 19:16 | normal pick now | request now
 OK   Johnny Flynn — Detectorists (Original Soundtrack from the TV Series) | last aired 2026-10-23 05:38 | normal pick now | request now
 OK   Johnny Mathis — Wonderful! Wonderful! | last aired 2026-10-24 04:05 | normal pick now | request now
-OK   Joker Out — Novi Val | last aired 2026-10-23 10:03 | normal pick now | request now
+WAIT Joker Out — Novi Val | last aired 2026-10-26 21:11 | normal pick from 2026-10-28 09:11 | request from 2026-10-27 17:11
 OK   Jon Hopkins — Open Eye Signal (Remaster 2023) | last aired 2026-10-21 21:47 | normal pick now | request now
 OK   Jon Hopkins — Small Memory | last aired 2026-10-23 22:58 | normal pick now | request now
 OK   Jonathan Parecki — Senbonzakura (Hatsune Miku) | last aired 2026-09-02 17:36 | normal pick now | request now
@@ -52,7 +52,7 @@ OK   Josh Rouse — 1972 | last aired 2026-10-25 01:29 | normal pick now | reque
 OK   Josh Rouse — Street Lights | last aired 2026-10-24 01:39 | normal pick now | request now
 OK   José González — Heartbeats | last aired 2026-10-23 12:10 | normal pick now | request now
 OK   Journey — Don't Stop Believin' (Album Version) | last aired 2026-10-23 13:23 | normal pick now | request now
-WAIT Journey — Lights (Album Version) | last aired 2026-10-26 19:17 | normal pick from 2026-10-28 07:17 | request from 2026-10-27 15:17
+WAIT Journey — Lights (Album Version) | last aired 2026-10-26 19:18 | normal pick from 2026-10-28 19:18 | request from 2026-10-28 19:18
 WAIT Joywave — In Clover | last aired 2026-10-25 05:53 | normal pick from 2026-10-27 05:53 | request from 2026-10-27 05:53
 WAIT Joywave — Rumors | last aired 2026-10-26 15:36 | normal pick from 2026-10-28 03:36 | request from 2026-10-27 11:36
 OK   João Gilberto — Chega de Saudade | last aired 2026-10-23 12:37 | normal pick now | request now

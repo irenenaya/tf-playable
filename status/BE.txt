@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Mon Oct 26, 2:05 PM PDT (21:05 UTC)). Times in UTC.
+Track status, artists filed under BE (built Mon Oct 26, 3:05 PM PDT (22:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Beach House — Bluebird | last aired 2026-10-11 03:23 | normal pick now | request now
@@ -10,7 +10,7 @@ OK   Beats by Luca — 52 CHICKEN NUGGET (McRave) | last aired 2026-10-18 11:09 
 OK   Bebel Gilberto — Samba Da Benção | last aired 2026-10-23 18:14 | normal pick now | request now
 OK   Beck — Devils Haircut | last aired 2026-10-23 03:00 | normal pick now | request now
 OK   Beck — Loser | last aired 2026-10-22 03:20 | normal pick now | request now
-WAIT Beck — The New Pollution | last aired 2026-10-26 19:02 | normal pick from 2026-10-28 07:02 | request from 2026-10-27 15:02
+WAIT Beck — The New Pollution | last aired 2026-10-26 19:03 | normal pick from 2026-10-28 07:03 | request from 2026-10-27 15:03
 OK   Becky Levi and the Nightjars — Wake Me Up | last aired 2026-10-22 06:23 | normal pick now | request now
 OK   Bee Gees — Night Fever (From "Saturday Night Fever" Soundtrack) | last aired 2026-10-06 16:28 | normal pick now | request now
 OK   Beenie Man — Feel It Boy | last aired 2026-10-24 21:50 | normal pick now | request now
@@ -23,12 +23,12 @@ WAIT Ben Howard — Only Love | last aired 2026-10-26 05:29 | normal pick from 2
 OK   Ben&Ben — Leaves | last aired 2026-10-23 07:32 | normal pick now | request now
 OK   Ben&Ben — Maybe The Night | last aired 2026-10-08 16:41 | normal pick now | request now
 OK   Benjamin Francis Leftwich — Ticket To Ride | last aired 2026-10-21 15:07 | normal pick now | request now
-WAIT Benny Goodman — Sing Sing Sing (With A Swing) (live) | last aired 2026-10-26 17:03 | normal pick from 2026-10-28 05:03 | request from 2026-10-27 13:03
+WAIT Benny Goodman — Sing Sing Sing (With A Swing) (live) | last aired 2026-10-26 17:04 | normal pick from 2026-10-28 05:04 | request from 2026-10-27 13:04
 OK   Benny Sings — Rolled Up | last aired 2026-10-24 16:16 | normal pick now | request now
-WAIT Benny Sings — Sailing | last aired 2026-10-26 20:27 | normal pick from 2026-10-28 08:27 | request from 2026-10-27 16:27
+WAIT Benny Sings — Sailing | last aired 2026-10-26 20:28 | normal pick from 2026-10-28 20:28 | request from 2026-10-28 20:28
 WAIT Benson Boone — Beautiful Things | last aired 2026-10-25 15:50 | normal pick from 2026-10-27 03:50 | request now
-OK   Berlin — Take My Breath Away | last aired 2026-10-25 03:45 | normal pick now | request now
-WAIT Bernard Purdie — Cool Down | last aired 2026-10-24 21:29 | normal pick from 2026-10-26 21:29 | request from 2026-10-26 21:29
+WAIT Berlin — Take My Breath Away | last aired 2026-10-26 21:22 | normal pick from 2026-10-28 09:22 | request from 2026-10-27 17:22
+OK   Bernard Purdie — Cool Down | last aired 2026-10-24 21:29 | normal pick now | request now
 OK   Bert Kaempfert — A Swingin' Safari | last aired 2026-10-17 23:48 | normal pick now | request now
 WAIT Betty Carter — Moonlight in Vermont | last aired 2026-10-25 14:00 | normal pick from 2026-10-27 02:00 | request now
 OK   BETWEEN FRIENDS — affection | last aired 2026-10-24 19:22 | normal pick now | request now
