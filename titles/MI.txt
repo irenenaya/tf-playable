@@ -1,4 +1,4 @@
-Track status, song titles filed under MI (built Mon Oct 26, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, song titles filed under MI (built Mon Oct 26, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Mice City — Hotel Ugly | last aired 2026-10-26 10:35 | normal pick from 2026-10-27 22:35 | request from 2026-10-27 06:35
@@ -6,7 +6,7 @@ OK   Midnight City — M83 | last aired 2026-10-08 11:09 | normal pick now | req
 OK   Midnight On Mars — Ashra | last aired 2026-10-06 06:08 | normal pick now | request now
 WAIT Mil Besos — Saindra | last aired 2026-10-25 04:57 | normal pick from 2026-10-26 16:57 | request now
 WAIT Milonga Del Angel — Astor Piazzolla | last aired 2026-10-25 15:32 | normal pick from 2026-10-27 15:32 | request from 2026-10-27 15:32
-OK   Milonga del marinero y el capitán — Los Rodriguez | last aired 2026-10-24 09:09 | normal pick now | request now
+WAIT Milonga del marinero y el capitán — Los Rodriguez | last aired 2026-10-26 15:07 | normal pick from 2026-10-28 15:07 | request from 2026-10-28 15:07
 OK   Minuet for a Cheap Piano Number Two — A Winged Victory For The Sullen | last aired 2026-10-22 01:17 | normal pick now | request now
 OK   Minus Celsius — Backyard Babies | last aired 2026-10-24 18:27 | normal pick now | request now
 OK   Mirror Mirror (Remastered 2007) — Blind Guardian | last aired 2026-10-18 17:52 | normal pick now | request now

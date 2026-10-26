@@ -1,7 +1,7 @@
-Track status, artists filed under RO (built Mon Oct 26, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, artists filed under RO (built Mon Oct 26, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Robbie Dupree — Steal Away | last aired 2026-10-25 03:13 | normal pick from 2026-10-26 15:13 | request now
+OK   Robbie Dupree — Steal Away | last aired 2026-10-25 03:13 | normal pick now | request now
 WAIT Robbie Robertson — Coyote Dance | last aired 2026-10-25 15:17 | normal pick from 2026-10-27 15:17 | request from 2026-10-27 15:17
 OK   Robert Fripp — Here Comes The Flood (Exposure Fourth Edition: 2021 Stereo Mix) | last aired 2026-10-16 02:19 | normal pick now | request now
 OK   Robert Johnson — Cross Road Blues | last aired 2026-10-24 09:13 | normal pick now | request now
@@ -15,7 +15,7 @@ WAIT Roland Dyens — Fuoco (Libra Sonatine) | last aired 2026-10-24 19:04 | nor
 OK   ROSALÍA — Berghain | last aired 2026-10-22 21:52 | normal pick now | request now
 OK   ROSALÍA — MALAMENTE (Cap.1: Augurio) | last aired 2026-10-22 13:59 | normal pick now | request now
 WAIT Roseanna Vitro — If I Didn't Have You (If I Didn't Have You) | last aired 2026-10-26 04:01 | normal pick from 2026-10-27 16:01 | request from 2026-10-27 00:01
-OK   Roxette — The Look | last aired 2026-10-21 17:40 | normal pick now | request now
+WAIT Roxette — The Look | last aired 2026-10-26 15:53 | normal pick from 2026-10-28 03:53 | request from 2026-10-27 11:53
 WAIT Roxy Music — Bitter Sweet (Remastered 1999) | last aired 2026-10-26 08:55 | normal pick from 2026-10-27 20:55 | request from 2026-10-27 04:55
 WAIT Roy Ayers Ubiquity — Everybody Loves The Sunshine | last aired 2026-10-26 13:44 | normal pick from 2026-10-28 01:44 | request from 2026-10-27 09:44
 OK   Roy Orbison — Oh, Pretty Woman | last aired 2026-10-22 19:08 | normal pick now | request now

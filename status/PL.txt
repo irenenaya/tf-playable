@@ -1,6 +1,6 @@
-Track status, artists filed under PL (built Mon Oct 26, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, artists filed under PL (built Mon Oct 26, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Player — Baby Come Back | last aired 2026-10-26 09:14 | normal pick from 2026-10-27 21:14 | request from 2026-10-27 05:14
-OK   Playroom — Patient | last aired 2026-10-24 16:38 | normal pick now | request now
+WAIT Player — Baby Come Back | last aired 2026-10-26 15:11 | normal pick from 2026-10-28 03:11 | request from 2026-10-27 11:11
+WAIT Playroom — Patient | last aired 2026-10-26 15:31 | normal pick from 2026-10-28 03:31 | request from 2026-10-27 11:31
 OK   The Platters — The Great Pretender (Single Version) | last aired 2026-10-24 12:13 | normal pick now | request now

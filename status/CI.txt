@@ -1,7 +1,7 @@
-Track status, artists filed under CI (built Mon Oct 26, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, artists filed under CI (built Mon Oct 26, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Cibo Matto — Sugar Water (Album Version) | last aired 2026-10-25 03:20 | normal pick from 2026-10-26 15:20 | request now
+OK   Cibo Matto — Sugar Water (Album Version) | last aired 2026-10-25 03:20 | normal pick now | request now
 OK   Cigarettes After Sex — Apocalypse | last aired 2026-10-24 00:04 | normal pick now | request now
 OK   Cigarettes After Sex — Nothing's Gonna Hurt You Baby | last aired 2026-10-22 08:59 | normal pick now | request now
 OK   City — Am Fenster | last aired 2026-10-24 09:59 | normal pick now | request now

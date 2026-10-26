@@ -1,4 +1,4 @@
-Track status, artists filed under LO (built Mon Oct 26, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, artists filed under LO (built Mon Oct 26, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Lofi Fruits Music — Plastic Love | last aired 2026-10-24 17:51 | normal pick now | request now
@@ -6,11 +6,11 @@ OK   Lofi Lia — Tell Your World (From "Hatsune Miku")  (Lofi Remix) | last air
 OK   London Symphony Orchestra — Duel of the Fates | last aired 2026-10-24 19:07 | normal pick now | request now
 OK   LoneGray — Tell Your World | last aired 2026-10-23 23:58 | normal pick now | request now
 OK   Lord Huron — Life Is Strange | last aired 2026-10-23 20:59 | normal pick now | request now
-WAIT Lordi — Hard Rock Hallelujah | last aired 2026-10-25 20:02 | normal pick from 2026-10-27 08:02 | request from 2026-10-26 16:02
+WAIT Lordi — Hard Rock Hallelujah | last aired 2026-10-25 20:02 | normal pick from 2026-10-27 08:02 | request now
 OK   Loreen — Euphoria | last aired 2026-10-23 10:31 | normal pick now | request now
 OK   Loreena McKennitt — The Holly and the Ivy  (Live) | last aired 2026-10-19 19:02 | normal pick now | request now
 WAIT Los Enanitos Verdes — Lamento Boliviano | last aired 2026-10-26 11:17 | normal pick from 2026-10-28 11:17 | request from 2026-10-28 11:17
-OK   Los Rodriguez — Milonga del marinero y el capitán | last aired 2026-10-24 09:09 | normal pick now | request now
+WAIT Los Rodriguez — Milonga del marinero y el capitán | last aired 2026-10-26 15:07 | normal pick from 2026-10-28 15:07 | request from 2026-10-28 15:07
 OK   Loscil — Estuarine | last aired 2026-10-21 11:14 | normal pick now | request now
 OK   Lou Rawls — At Last | last aired 2026-10-17 16:14 | normal pick now | request now
 OK   Lou Reed — Goodnight Ladies | last aired 2026-10-20 20:37 | normal pick now | request now

@@ -1,7 +1,7 @@
-Track status, artists filed under CH (built Mon Oct 26, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, artists filed under CH (built Mon Oct 26, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Chaka Khan — What Cha' Gonna Do for Me | last aired 2026-10-25 03:16 | normal pick from 2026-10-26 15:16 | request now
+OK   Chaka Khan — What Cha' Gonna Do for Me | last aired 2026-10-25 03:16 | normal pick now | request now
 OK   Chappell Roan — Good Luck, Babe! | last aired 2026-10-24 21:33 | normal pick now | request now
 OK   Chappell Roan — HOT TO GO! | last aired 2026-10-12 17:42 | normal pick now | request now
 OK   Chappell Roan — Pink Pony Club | last aired 2026-10-18 10:54 | normal pick now | request now
@@ -33,7 +33,7 @@ WAIT Chris Whitley — Big Sky Country (Album Version) | last aired 2026-10-25 0
 OK   Christian Löffler — Lid | last aired 2026-10-24 23:36 | normal pick now | request now
 OK   Christina Aguilera — Genie In a Bottle | last aired 2026-10-20 15:29 | normal pick now | request now
 WAIT Christopher Cross — I Really Don't Know Anymore  (2019 Remaster) | last aired 2026-10-26 03:43 | normal pick from 2026-10-27 15:43 | request from 2026-10-26 23:43
-WAIT Christopher Cross — Ride Like the Wind (Album Version) | last aired 2026-10-25 03:40 | normal pick from 2026-10-26 15:40 | request now
+OK   Christopher Cross — Ride Like the Wind (Album Version) | last aired 2026-10-25 03:40 | normal pick now | request now
 OK   Christopher Cross — Sailing | last aired 2026-10-23 05:10 | normal pick now | request now
 OK   Chuck Berry — Johnny B. Goode | last aired 2026-10-24 13:19 | normal pick now | request now
 OK   Chuck Mangione — Feels So Good | last aired 2026-10-24 05:34 | normal pick now | request now
