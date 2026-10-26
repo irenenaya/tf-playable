@@ -1,4 +1,4 @@
-Track status, artists filed under TO (built Mon Oct 26, 12:05 PM PDT (19:05 UTC)). Times in UTC.
+Track status, artists filed under TO (built Mon Oct 26, 1:05 PM PDT (20:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   toe — Goodbye (Live) | last aired 2026-10-24 15:39 | normal pick now | request now
@@ -33,6 +33,6 @@ OK   Tori Amos — A Sorta Fairytale (2023 Remaster) | last aired 2026-10-23 03:
 OK   Tori Amos — Rattlesnakes | last aired 2026-10-19 16:15 | normal pick now | request now
 WAIT Tori Amos — Winter | last aired 2026-10-26 03:47 | normal pick from 2026-10-27 15:47 | request from 2026-10-26 23:47
 OK   Toto — Africa | last aired 2026-10-23 16:47 | normal pick now | request now
-OK   Toto — Georgy Porgy (album version) | last aired 2026-10-24 04:14 | normal pick now | request now
+WAIT Toto — Georgy Porgy (album version) | last aired 2026-10-26 19:13 | normal pick from 2026-10-28 07:13 | request from 2026-10-27 15:13
 OK   Toto — Rosanna (Album Version) | last aired 2026-10-22 09:56 | normal pick now | request now
 WAIT Tove Lo — No One Dies From Love | last aired 2026-10-26 18:19 | normal pick from 2026-10-28 06:19 | request from 2026-10-27 14:19

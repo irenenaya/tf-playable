@@ -1,9 +1,9 @@
-Track status, song titles filed under SP (built Mon Oct 26, 12:05 PM PDT (19:05 UTC)). Times in UTC.
+Track status, song titles filed under SP (built Mon Oct 26, 1:05 PM PDT (20:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Space Jam — Quad City DJ's | last aired 2026-10-26 10:40 | normal pick from 2026-10-27 22:40 | request from 2026-10-27 06:40
 OK   Space Lion — Seatbelts | last aired 2026-10-18 01:09 | normal pick now | request now
-WAIT Space Oddity — David Bowie | last aired 2026-10-25 23:13 | normal pick from 2026-10-27 11:13 | request from 2026-10-26 19:13
+WAIT Space Oddity — David Bowie | last aired 2026-10-25 23:13 | normal pick from 2026-10-27 11:13 | request now
 OK   Space Song — Beach House | last aired 2026-10-24 00:26 | normal pick now | request now
 OK   SPACEDOG (OhtoPlaya Remix) — OhtoPlaya | last aired 2026-10-18 03:33 | normal pick now | request now
 OK   Spanish Caravan — The Doors | last aired 2026-10-24 03:40 | normal pick now | request now
@@ -11,6 +11,6 @@ OK   Spanish Castles In Space — The Orb | last aired 2026-10-24 06:20 | normal
 WAIT Spellbound — Siouxsie & The Banshees | last aired 2026-10-26 10:02 | normal pick from 2026-10-27 22:02 | request from 2026-10-27 06:02
 OK   Spiegel im spiegel — Arvo Pärt | last aired 2026-10-23 05:52 | normal pick now | request now
 OK   Spinning Around — Kylie Minogue | last aired 2026-10-22 10:33 | normal pick now | request now
-WAIT Spinning Away — Brian Eno | last aired 2026-10-25 23:57 | normal pick from 2026-10-27 11:57 | request from 2026-10-26 19:57
+WAIT Spinning Away — Brian Eno | last aired 2026-10-25 23:57 | normal pick from 2026-10-27 11:57 | request now
 OK   SPIRITS — Nothing More | last aired 2026-10-15 19:32 | normal pick now | request now
 OK   Spit Out The Bone — Metallica | last aired 2026-10-23 11:26 | normal pick now | request now

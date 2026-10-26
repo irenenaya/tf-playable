@@ -1,7 +1,7 @@
-Track status, song titles filed under TE (built Mon Oct 26, 12:05 PM PDT (19:05 UTC)). Times in UTC.
+Track status, song titles filed under TE (built Mon Oct 26, 1:05 PM PDT (20:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Te Quiero Pero Por Otro Lado. — Savath &  Savalas | last aired 2026-10-24 19:52 | normal pick from 2026-10-26 19:52 | request from 2026-10-26 19:52
+OK   Te Quiero Pero Por Otro Lado. — Savath &  Savalas | last aired 2026-10-24 19:52 | normal pick now | request now
 WAIT Teardrop — Massive Attack | last aired 2026-10-25 03:53 | normal pick from 2026-10-27 03:53 | request from 2026-10-27 03:53
 OK   Technicolour — Montaigne | last aired 2026-10-24 07:15 | normal pick now | request now
 OK   Teenage Kicks — The Undertones | last aired 2026-10-24 03:47 | normal pick now | request now
