@@ -1,9 +1,9 @@
-Track status, song titles filed under WI (built Mon Oct 26, 1:05 AM PDT (08:05 UTC)). Times in UTC.
+Track status, song titles filed under WI (built Mon Oct 26, 2:05 AM PDT (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Wicked Game  (Remastered Album Version) — Chris Isaak | last aired 2026-10-20 18:27 | normal pick now | request now
 OK   Wild Horses — The Sundays | last aired 2026-10-23 00:08 | normal pick now | request now
-WAIT Wild Indian Woman — Free | last aired 2026-10-26 04:24 | normal pick from 2026-10-27 16:24 | request from 2026-10-27 00:24
+WAIT Wild Indian Woman — Free | last aired 2026-10-26 04:25 | normal pick from 2026-10-27 16:25 | request from 2026-10-27 00:25
 OK   Wild Is the Wind  (2016 Remaster) — David Bowie | last aired 2026-10-18 00:08 | normal pick now | request now
 OK   Wild Is The Wind — Nina Simone | last aired 2026-10-23 14:44 | normal pick now | request now
 WAIT Window Seat — Erykah Badu | last aired 2026-10-25 03:59 | normal pick from 2026-10-26 15:59 | request now
@@ -15,4 +15,4 @@ OK   Wishmaster — Nightwish | last aired 2026-10-21 13:02 | normal pick now | 
 WAIT Witchoo — Durand Jones & The Indications | last aired 2026-10-24 21:21 | normal pick from 2026-10-26 09:21 | request now
 OK   With A Little Help From My Friends (2017 Mix) — The Beatles | last aired 2026-10-23 09:41 | normal pick now | request now
 OK   With A Little Help From My Friends — Joe Cocker | last aired 2026-10-21 01:00 | normal pick now | request now
-WAIT With Arms Wide Open — Creed | last aired 2026-10-24 20:32 | normal pick from 2026-10-26 08:32 | request now
+OK   With Arms Wide Open — Creed | last aired 2026-10-24 20:32 | normal pick now | request now

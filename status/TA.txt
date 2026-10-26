@@ -1,4 +1,4 @@
-Track status, artists filed under TA (built Mon Oct 26, 1:05 AM PDT (08:05 UTC)). Times in UTC.
+Track status, artists filed under TA (built Mon Oct 26, 2:05 AM PDT (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Tabu — Dobra Vila | last aired 2026-10-22 16:58 | normal pick now | request now
@@ -6,7 +6,7 @@ OK   Taeko Onuki — 4:00 A.M. | last aired 2026-10-08 15:07 | normal pick now |
 WAIT Takako Mamiya — LOVE TRIP | last aired 2026-10-24 17:46 | normal pick from 2026-10-26 17:46 | request from 2026-10-26 17:46
 OK   Takako Mamiya — Nagisade Dance | last aired 2026-10-23 01:39 | normal pick now | request now
 OK   Talk Talk — After The Flood | last aired 2026-10-20 13:07 | normal pick now | request now
-OK   Talk Talk — I Believe in You  (1997 Remaster) | last aired 2026-10-13 22:19 | normal pick now | request now
+WAIT Talk Talk — I Believe in You  (1997 Remaster) | last aired 2026-10-26 08:41 | normal pick from 2026-10-27 20:41 | request from 2026-10-27 04:41
 OK   Talk Talk — Life's What You Make It  (1997 Remaster) | last aired 2026-10-19 07:15 | normal pick now | request now
 OK   Talk Talk — New Grass | last aired 2026-10-21 05:19 | normal pick now | request now
 OK   Talk Talk — Such a Shame  (1997 Remaster) | last aired 2026-10-23 20:01 | normal pick now | request now
@@ -22,3 +22,4 @@ OK   Tate McRae — greedy | last aired 2026-10-18 03:24 | normal pick now | req
 OK   Tate McRae — Miss possessive | last aired 2026-08-13 13:28 | normal pick now | request now
 WAIT Tate McRae — TIT FOR TAT | last aired 2026-10-25 19:53 | normal pick from 2026-10-27 07:53 | request from 2026-10-26 15:53
 OK   Taylor Swift — Cruel Summer | last aired 2026-10-07 00:48 | normal pick now | request now
+WAIT The Tallest Man On Earth — The Gardener | last aired 2026-10-26 05:37 | normal pick from 2026-10-27 17:37 | request from 2026-10-27 01:37

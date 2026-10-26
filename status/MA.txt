@@ -1,14 +1,14 @@
-Track status, artists filed under MA (built Mon Oct 26, 1:05 AM PDT (08:05 UTC)). Times in UTC.
+Track status, artists filed under MA (built Mon Oct 26, 2:05 AM PDT (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   M/A/R/R/S — Pump Up The Volume (UK 12" Remix) | last aired 2026-10-21 03:08 | normal pick now | request now
 OK   Mac DeMarco — Chamber Of Reflection | last aired 2026-10-22 09:10 | normal pick now | request now
 OK   Mac DeMarco — My Kind of Woman | last aired 2026-10-22 21:44 | normal pick now | request now
 OK   Mac DeMarco — No Other Heart | last aired 2026-10-22 03:24 | normal pick now | request now
-WAIT Madness — Our House | last aired 2026-10-26 07:51 | normal pick from 2026-10-28 07:51 | request from 2026-10-28 07:51
+WAIT Madness — Our House | last aired 2026-10-26 07:52 | normal pick from 2026-10-28 07:52 | request from 2026-10-28 07:52
 OK   Madonna — Holiday | last aired 2026-10-15 01:45 | normal pick now | request now
 OK   Mahalia Jackson — How I Got Over (Live) | last aired 2026-10-21 19:01 | normal pick now | request now
-WAIT Mahavishnu Orchestra — I Wonder (Album Version) | last aired 2026-10-25 12:14 | normal pick from 2026-10-27 00:14 | request from 2026-10-26 08:14
+WAIT Mahavishnu Orchestra — I Wonder (Album Version) | last aired 2026-10-25 12:14 | normal pick from 2026-10-27 00:14 | request now
 OK   Mahmoud Ahmed — Ere Mela Mela / Meche Neu | last aired 2026-10-22 08:21 | normal pick now | request now
 WAIT Mana — Rayando el Sol | last aired 2026-10-25 12:59 | normal pick from 2026-10-27 12:59 | request from 2026-10-27 12:59
 OK   Manal — MORAK | last aired 2026-10-24 14:22 | normal pick now | request now
@@ -24,7 +24,7 @@ OK   Marie Vaunt — That Acid | last aired 2026-10-13 11:14 | normal pick now |
 WAIT Marija Šerifović — Molitva | last aired 2026-10-25 02:01 | normal pick from 2026-10-26 14:01 | request now
 WAIT Marilyn Manson — The Love Song | last aired 2026-10-25 20:53 | normal pick from 2026-10-27 08:53 | request from 2026-10-26 16:53
 WAIT Marisa Monte — Beija Eu | last aired 2026-10-25 16:23 | normal pick from 2026-10-27 16:23 | request from 2026-10-27 16:23
-OK   Mariya Takeuchi — Plastic Love | last aired 2026-10-20 00:25 | normal pick now | request now
+WAIT Mariya Takeuchi — Plastic Love | last aired 2026-10-26 08:59 | normal pick from 2026-10-28 08:59 | request from 2026-10-28 08:59
 OK   Mariza — Ó gente da minha terra | last aired 2026-10-22 10:02 | normal pick now | request now
 OK   Mark Hollis — A Life (1895 - 1915) | last aired 2026-10-14 13:52 | normal pick now | request now
 OK   Mark Hollis — The Colour Of Spring | last aired 2026-10-24 03:43 | normal pick now | request now

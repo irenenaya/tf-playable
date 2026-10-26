@@ -1,4 +1,4 @@
-Track status, song titles filed under BE (built Mon Oct 26, 1:05 AM PDT (08:05 UTC)). Times in UTC.
+Track status, song titles filed under BE (built Mon Oct 26, 2:05 AM PDT (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Be (Introduction Of Jonathan) — Neil Diamond | last aired 2026-10-24 12:47 | normal pick now | request now
@@ -19,5 +19,5 @@ OK   Betting on Trains (Remastered 2025) — Hem | last aired 2026-10-22 14:13 |
 WAIT Between the Sheets — The Isley Brothers | last aired 2026-10-25 17:17 | normal pick from 2026-10-27 05:17 | request from 2026-10-26 13:17
 WAIT Bewitched, Bothered And Bewildered  (Ella Fitzgerald and Her Famous Orchestra Bewitched, Bothered And Bewildered) — Ella Fitzgerald | last aired 2026-10-25 06:34 | normal pick from 2026-10-26 18:34 | request now
 OK   Bewitched, Bothered And Bewildered — Ella Fitzgerald | last aired 2026-10-22 06:27 | normal pick now | request now
-OK   Beyond the Sea — Bobby Darin | last aired 2026-10-20 18:49 | normal pick now | request now
+WAIT Beyond the Sea — Bobby Darin | last aired 2026-10-26 08:51 | normal pick from 2026-10-27 20:51 | request from 2026-10-27 04:51
 OK   The Best — Tina Turner | last aired 2026-10-23 19:50 | normal pick now | request now
