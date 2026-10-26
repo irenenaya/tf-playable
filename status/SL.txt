@@ -1,6 +1,6 @@
-Track status, artists filed under SL (built Sun Oct 25, 5:05 PM PDT (00:05 UTC Mon)). Times in UTC.
+Track status, artists filed under SL (built Sun Oct 25, 6:05 PM PDT (01:05 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Sleeping At Last — Saturn | last aired 2026-10-23 21:40 | normal pick now | request now
 WAIT Slowdive — Alison | last aired 2026-10-25 00:27 | normal pick from 2026-10-27 00:27 | request from 2026-10-27 00:27
-WAIT Slowdive — Erik's Song (Album Version) | last aired 2026-10-24 00:11 | normal pick from 2026-10-26 00:11 | request from 2026-10-26 00:11
+OK   Slowdive — Erik's Song (Album Version) | last aired 2026-10-24 00:11 | normal pick now | request now

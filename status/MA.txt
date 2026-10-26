@@ -1,4 +1,4 @@
-Track status, artists filed under MA (built Sun Oct 25, 5:05 PM PDT (00:05 UTC Mon)). Times in UTC.
+Track status, artists filed under MA (built Sun Oct 25, 6:05 PM PDT (01:05 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   M/A/R/R/S — Pump Up The Volume (UK 12" Remix) | last aired 2026-10-21 03:08 | normal pick now | request now
@@ -44,13 +44,13 @@ WAIT Marvin Gaye — Save The Children | last aired 2026-10-25 01:20 | normal pi
 OK   Marvin Gaye — Sexual Healing (Album Version) | last aired 2026-10-21 20:31 | normal pick now | request now
 OK   Marvin Gaye — What's Going On | last aired 2026-10-22 14:51 | normal pick now | request now
 OK   Marvin Gaye — Wholy Holy | last aired 2026-10-22 17:02 | normal pick now | request now
-OK   Mary Halvorson — About Ghosts | last aired 2026-10-17 11:07 | normal pick now | request now
+WAIT Mary Halvorson — About Ghosts | last aired 2026-10-26 00:09 | normal pick from 2026-10-27 12:09 | request from 2026-10-26 20:09
 OK   Masego — Tadow | last aired 2026-10-22 20:32 | normal pick now | request now
 OK   Massive Attack — Angel | last aired 2026-10-22 00:00 | normal pick now | request now
 OK   Massive Attack — Protection | last aired 2026-10-23 04:01 | normal pick now | request now
 WAIT Massive Attack — Teardrop | last aired 2026-10-25 03:53 | normal pick from 2026-10-27 03:53 | request from 2026-10-27 03:53
 OK   Massive Attack — Unfinished Sympathy (2012 Mix/Master) | last aired 2026-10-22 07:14 | normal pick now | request now
-WAIT Matt Nathanson — All We Are | last aired 2026-10-25 04:38 | normal pick from 2026-10-26 16:38 | request from 2026-10-26 00:38
+WAIT Matt Nathanson — All We Are | last aired 2026-10-25 04:38 | normal pick from 2026-10-26 16:38 | request now
 OK   Matt Nathanson — Come On Get Higher | last aired 2026-10-19 22:37 | normal pick now | request now
 OK   Matt Nathanson — Faster | last aired 2026-10-21 14:38 | normal pick now | request now
 WAIT Mavis Staples — We're Gonna Make It | last aired 2026-10-25 01:12 | normal pick from 2026-10-27 01:12 | request from 2026-10-27 01:12
@@ -62,7 +62,7 @@ WAIT Maxwell — Pretty Wings (uncut) | last aired 2026-10-24 16:52 | normal pic
 OK   Maxwell — This Woman's Work (Uncut) | last aired 2026-10-20 07:58 | normal pick now | request now
 OK   Maxwell — Whenever Wherever Whatever (Remastered 2021) (Album Version) | last aired 2026-10-20 01:17 | normal pick now | request now
 OK   Mazzy Star — Fade Into You | last aired 2026-10-21 08:06 | normal pick now | request now
-WAIT Mazzy Star — Halah | last aired 2026-10-24 00:07 | normal pick from 2026-10-26 00:07 | request from 2026-10-26 00:07
+OK   Mazzy Star — Halah | last aired 2026-10-24 00:07 | normal pick now | request now
 OK   Måneskin — Torna a casa | last aired 2026-10-23 09:59 | normal pick now | request now
 OK   Måneskin — ZITTI E BUONI | last aired 2026-10-22 10:59 | normal pick now | request now
 OK   The Magnetic Fields — Absolutely Cuckoo | last aired 2026-10-21 16:36 | normal pick now | request now

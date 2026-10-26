@@ -1,4 +1,4 @@
-Track status, song titles filed under CH (built Sun Oct 25, 5:05 PM PDT (00:05 UTC Mon)). Times in UTC.
+Track status, song titles filed under CH (built Sun Oct 25, 6:05 PM PDT (01:05 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Cha Cha Cha — Käärijä | last aired 2026-10-25 20:24 | normal pick from 2026-10-27 20:24 | request from 2026-10-27 20:24
@@ -13,7 +13,7 @@ OK   Chateau — Synergy | last aired 2026-10-24 07:10 | normal pick now | reque
 OK   Chega de Saudade — João Gilberto | last aired 2026-10-23 12:37 | normal pick now | request now
 WAIT Chemical — Post Malone | last aired 2026-10-25 20:42 | normal pick from 2026-10-27 08:42 | request from 2026-10-26 16:42
 OK   Cherish the Day  (Remastered Version) — Sade | last aired 2026-10-22 05:18 | normal pick now | request now
-WAIT Cherry Twist — The Crystal Method | last aired 2026-10-24 12:09 | normal pick from 2026-10-26 00:09 | request now
+OK   Cherry Twist — The Crystal Method | last aired 2026-10-24 12:09 | normal pick now | request now
 OK   Cherry Waves — Deftones | last aired 2026-10-23 11:45 | normal pick now | request now
 OK   Cherry Wine  (Live) — Hozier | last aired 2026-10-21 19:38 | normal pick now | request now
 OK   Cherry-coloured Funk — Cocteau Twins | last aired 2026-10-22 09:27 | normal pick now | request now
@@ -22,4 +22,4 @@ OK   Child in Time (Special Version) — Rock appetizers | last aired 2026-09-22
 OK   Children of No Horizon — Tom Konkle | last aired 2026-09-17 19:18 | normal pick now | request now
 OK   Children Of The Revolution — T. Rex | last aired 2026-10-20 19:20 | normal pick now | request now
 OK   Chinatown — Wild Nothing | last aired 2026-10-23 22:12 | normal pick now | request now
-OK   Chorus — Holly Herndon | last aired 2026-10-09 18:55 | normal pick now | request now
+WAIT Chorus — Holly Herndon | last aired 2026-10-26 00:02 | normal pick from 2026-10-27 12:02 | request from 2026-10-26 20:02

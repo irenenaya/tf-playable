@@ -1,4 +1,4 @@
-Track status, artists filed under AL (built Sun Oct 25, 5:05 PM PDT (00:05 UTC Mon)). Times in UTC.
+Track status, artists filed under AL (built Sun Oct 25, 6:05 PM PDT (01:05 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Al Di Meola — Double Concerto | last aired 2026-10-24 07:27 | normal pick now | request now
@@ -16,7 +16,7 @@ OK   Alabama 3 — Woke Up This Morning | last aired 2026-09-25 07:44 | normal p
 OK   Albert Hammond — When I'm Gone | last aired 2026-10-24 03:24 | normal pick now | request now
 OK   Albert King — Born Under A Bad Sign | last aired 2026-10-21 02:44 | normal pick now | request now
 OK   Alestorm — Captain Morgan`s Revenge | last aired 2026-10-18 02:31 | normal pick now | request now
-OK   Alestorm — Drink | last aired 2026-09-25 20:38 | normal pick now | request now
+WAIT Alestorm — Drink | last aired 2026-10-26 00:55 | normal pick from 2026-10-27 12:55 | request from 2026-10-26 20:55
 OK   Alestorm — Keelhauled | last aired 2026-10-03 06:59 | normal pick now | request now
 WAIT Alex Andre — thanks, my day is ruined | last aired 2026-10-25 13:48 | normal pick from 2026-10-27 01:48 | request from 2026-10-26 09:48
 WAIT Alexander Malter — Pärt: Für Alina | last aired 2026-10-25 18:33 | normal pick from 2026-10-27 18:33 | request from 2026-10-27 18:33
