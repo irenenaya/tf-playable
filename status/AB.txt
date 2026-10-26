@@ -1,7 +1,7 @@
-Track status, artists filed under AB (built Mon Oct 26, 7:05 AM PDT (14:05 UTC)). Times in UTC.
+Track status, artists filed under AB (built Mon Oct 26, 8:05 AM PDT (15:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   ABBA — Dancing Queen | last aired 2026-10-23 09:20 | normal pick now | request now
+WAIT ABBA — Dancing Queen | last aired 2026-10-26 14:35 | normal pick from 2026-10-28 14:35 | request from 2026-10-28 14:35
 WAIT ABBA — Don't Shut Me Down | last aired 2026-10-26 02:19 | normal pick from 2026-10-27 14:19 | request from 2026-10-26 22:19
 OK   ABBA — Gimme! Gimme! Gimme! (A Man After Midnight) | last aired 2026-10-07 15:38 | normal pick now | request now
 WAIT ABBA — I Wonder (Departure) | last aired 2026-10-25 04:53 | normal pick from 2026-10-26 16:53 | request now

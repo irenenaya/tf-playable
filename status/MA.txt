@@ -1,4 +1,4 @@
-Track status, artists filed under MA (built Mon Oct 26, 7:05 AM PDT (14:05 UTC)). Times in UTC.
+Track status, artists filed under MA (built Mon Oct 26, 8:05 AM PDT (15:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   M/A/R/R/S — Pump Up The Volume (UK 12" Remix) | last aired 2026-10-21 03:08 | normal pick now | request now
@@ -14,7 +14,7 @@ WAIT Mana — Rayando el Sol | last aired 2026-10-25 12:59 | normal pick from 20
 OK   Manal — MORAK | last aired 2026-10-24 14:22 | normal pick now | request now
 WAIT Manau — Je Jazz Les Couleurs (Album Version) | last aired 2026-10-25 01:45 | normal pick from 2026-10-27 01:45 | request from 2026-10-27 01:45
 OK   Marc Rebillet — Late To Work | last aired 2026-10-09 16:38 | normal pick now | request now
-WAIT Marconi Union — Weightless | last aired 2026-10-25 02:22 | normal pick from 2026-10-26 14:22 | request now
+OK   Marconi Union — Weightless | last aired 2026-10-25 02:22 | normal pick now | request now
 OK   Margaret Berger — I Feed You My Love (Extended Version) | last aired 2026-10-24 23:05 | normal pick now | request now
 WAIT Maria McKee — Absolutely Barking Stars | last aired 2026-10-25 20:30 | normal pick from 2026-10-27 08:30 | request from 2026-10-26 16:30
 OK   Maria McKee — Life Is Sweet | last aired 2026-10-24 05:15 | normal pick now | request now
@@ -51,7 +51,7 @@ OK   Massive Attack — Protection | last aired 2026-10-23 04:01 | normal pick n
 WAIT Massive Attack — Teardrop | last aired 2026-10-25 03:53 | normal pick from 2026-10-27 03:53 | request from 2026-10-27 03:53
 OK   Massive Attack — Unfinished Sympathy (2012 Mix/Master) | last aired 2026-10-22 07:14 | normal pick now | request now
 WAIT Matt Nathanson — All We Are | last aired 2026-10-25 04:38 | normal pick from 2026-10-26 16:38 | request now
-OK   Matt Nathanson — Come On Get Higher | last aired 2026-10-19 22:37 | normal pick now | request now
+WAIT Matt Nathanson — Come On Get Higher | last aired 2026-10-26 14:16 | normal pick from 2026-10-28 02:16 | request from 2026-10-27 10:16
 OK   Matt Nathanson — Faster | last aired 2026-10-21 14:38 | normal pick now | request now
 WAIT Mavis Staples — We're Gonna Make It | last aired 2026-10-25 01:12 | normal pick from 2026-10-27 01:12 | request from 2026-10-27 01:12
 WAIT Max Richter — Dream 3 (in the midst of my life) | last aired 2026-10-25 18:23 | normal pick from 2026-10-27 18:23 | request from 2026-10-27 18:23
@@ -69,6 +69,6 @@ OK   The Magnetic Fields — Absolutely Cuckoo | last aired 2026-10-21 16:36 | n
 OK   The Magnetic Fields — All My Little Words | last aired 2026-10-18 13:10 | normal pick now | request now
 OK   The Magnetic Fields — Born on a Train | last aired 2026-10-23 22:00 | normal pick now | request now
 OK   The Magnetic Fields — Papa Was a Rodeo | last aired 2026-10-25 00:31 | normal pick now | request now
-OK   The Magnetic Fields — The Book of Love | last aired 2026-10-20 14:25 | normal pick now | request now
+WAIT The Magnetic Fields — The Book of Love | last aired 2026-10-26 14:04 | normal pick from 2026-10-28 02:04 | request from 2026-10-27 10:04
 OK   The Mamas & The Papas — California Dreamin' (Single Version) | last aired 2026-10-22 14:06 | normal pick now | request now
 OK   The Marías — Cariño | last aired 2026-10-20 14:55 | normal pick now | request now
