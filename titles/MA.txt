@@ -1,7 +1,7 @@
-Track status, song titles filed under MA (built Sun Oct 25, 10:05 PM PDT (05:05 UTC Mon)). Times in UTC.
+Track status, song titles filed under MA (built Sun Oct 25, 11:05 PM PDT (06:05 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Mad World — Gary Jules | last aired 2026-10-24 05:54 | normal pick from 2026-10-26 05:54 | request from 2026-10-26 05:54
+OK   Mad World — Gary Jules | last aired 2026-10-24 05:54 | normal pick now | request now
 OK   Mad World — Tears For Fears | last aired 2026-10-21 13:48 | normal pick now | request now
 OK   Madder — Groove Armada | last aired 2026-10-22 00:17 | normal pick now | request now
 WAIT Madwoman — Laufey | last aired 2026-10-25 05:28 | normal pick from 2026-10-26 17:28 | request now

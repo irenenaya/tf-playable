@@ -1,4 +1,4 @@
-Track status, song titles filed under HO (built Sun Oct 25, 10:05 PM PDT (05:05 UTC Mon)). Times in UTC.
+Track status, song titles filed under HO (built Sun Oct 25, 11:05 PM PDT (06:05 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Holding — Grouper | last aired 2026-10-23 02:08 | normal pick now | request now
@@ -7,7 +7,7 @@ WAIT Holiday (Remastered 2015) — Scorpions | last aired 2026-10-26 01:17 | nor
 OK   Holiday — Madonna | last aired 2026-10-15 01:45 | normal pick now | request now
 OK   Holocene — Bon Iver | last aired 2026-10-22 02:20 | normal pick now | request now
 OK   Holy Water (Album Version) — Soundgarden | last aired 2026-10-23 13:05 | normal pick now | request now
-WAIT Home At Last — Steely Dan | last aired 2026-10-25 09:39 | normal pick from 2026-10-26 21:39 | request from 2026-10-26 05:39
+WAIT Home At Last — Steely Dan | last aired 2026-10-25 09:39 | normal pick from 2026-10-26 21:39 | request now
 WAIT Honesty (Album Version) — Billy Joel | last aired 2026-10-25 22:09 | normal pick from 2026-10-27 10:09 | request from 2026-10-26 18:09
 OK   Honey Bones — Dope Lemon | last aired 2026-10-23 03:29 | normal pick now | request now
 OK   Hong Kong — Gorillaz | last aired 2026-10-22 03:44 | normal pick now | request now
@@ -19,7 +19,7 @@ WAIT Houdini — Dua Lipa | last aired 2026-10-26 02:57 | normal pick from 2026-
 WAIT House of the Rising Sun — Erik Grönwall | last aired 2026-10-24 20:50 | normal pick from 2026-10-26 08:50 | request now
 OK   House Where Nobody Lives — Tom Waits | last aired 2026-10-22 06:48 | normal pick now | request now
 OK   How Deep Is The Ocean — Diana Krall | last aired 2026-10-23 01:27 | normal pick now | request now
-WAIT How Do — Sneaker Pimps | last aired 2026-10-24 17:14 | normal pick from 2026-10-26 05:14 | request now
+OK   How Do — Sneaker Pimps | last aired 2026-10-24 17:14 | normal pick now | request now
 OK   How I Got Over (Live) — Mahalia Jackson | last aired 2026-10-21 19:01 | normal pick now | request now
 OK   How You Remind Me (- LP Mix) — Nickelback | last aired 2026-10-21 03:47 | normal pick now | request now
 OK   The Hokey Pokey — Ray Anthony | last aired 2026-10-20 18:12 | normal pick now | request now
