@@ -1,4 +1,4 @@
-Track status, song titles filed under EV (built Mon Oct 26, 3:05 AM PDT (10:05 UTC)). Times in UTC.
+Track status, song titles filed under EV (built Mon Oct 26, 4:05 AM PDT (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   (Every Time I Turn Around) Back In Love Again (Album Version) — L.T.D. | last aired 2026-10-24 08:22 | normal pick now | request now
@@ -15,5 +15,5 @@ OK   Everybody's Got To Learn Sometime — The Korgis | last aired 2026-10-24 01
 WAIT Everything Is Everything — Booker T. Jones | last aired 2026-10-25 01:24 | normal pick from 2026-10-26 13:24 | request now
 OK   Everything You Know Is Wrong — Weird Al Yankovic | last aired 2026-10-21 00:49 | normal pick now | request now
 OK   Everything Zen (Remastered) — Bush | last aired 2026-10-09 02:29 | normal pick now | request now
-WAIT Everytime We Touch — Cascada | last aired 2026-10-24 22:45 | normal pick from 2026-10-26 10:45 | request now
+OK   Everytime We Touch — Cascada | last aired 2026-10-24 22:45 | normal pick now | request now
 WAIT Evil Woman — Electric Light Orchestra | last aired 2026-10-26 09:04 | normal pick from 2026-10-27 21:04 | request from 2026-10-27 05:04

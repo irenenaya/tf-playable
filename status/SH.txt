@@ -1,4 +1,4 @@
-Track status, artists filed under SH (built Mon Oct 26, 3:05 AM PDT (10:05 UTC)). Times in UTC.
+Track status, artists filed under SH (built Mon Oct 26, 4:05 AM PDT (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Shaboozey — A Bar Song (Tipsy) | last aired 2026-10-21 01:48 | normal pick now | request now
@@ -9,5 +9,5 @@ OK   Shellac — The End of Radio | last aired 2026-10-20 20:45 | normal pick no
 OK   Sheryl Crow — All I Wanna Do | last aired 2026-10-23 09:37 | normal pick now | request now
 OK   Sheryl Crow — The First Cut Is The Deepest | last aired 2026-10-21 22:44 | normal pick now | request now
 OK   Shida Shahabi — Futō | last aired 2026-10-24 19:12 | normal pick now | request now
-WAIT SHINee — Married To The Music | last aired 2026-10-24 10:17 | normal pick from 2026-10-26 10:17 | request from 2026-10-26 10:17
+OK   SHINee — Married To The Music | last aired 2026-10-24 10:17 | normal pick now | request now
 OK   Shira Kammen — Downstream (Remastered, 2024) | last aired 2026-10-20 14:02 | normal pick now | request now

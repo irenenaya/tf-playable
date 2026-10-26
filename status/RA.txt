@@ -1,4 +1,4 @@
-Track status, artists filed under RA (built Mon Oct 26, 3:05 AM PDT (10:05 UTC)). Times in UTC.
+Track status, artists filed under RA (built Mon Oct 26, 4:05 AM PDT (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Radiohead — Paranoid Android | last aired 2026-10-23 07:37 | normal pick now | request now
@@ -9,7 +9,7 @@ WAIT Randy Crawford — One Day I'll Fly Away | last aired 2026-10-25 07:41 | no
 OK   Randy Travis — Forever and Ever, Amen | last aired 2026-10-23 15:56 | normal pick now | request now
 WAIT Raquel Tavares — Como É Grande o Meu Amor por Você | last aired 2026-10-24 13:56 | normal pick from 2026-10-26 13:56 | request from 2026-10-26 13:56
 OK   Ray Anthony — The Hokey Pokey | last aired 2026-10-20 18:12 | normal pick now | request now
-OK   Ray Parker Junior — Ghostbusters (Album Version) | last aired 2026-10-17 19:17 | normal pick now | request now
+WAIT Ray Parker Junior — Ghostbusters (Album Version) | last aired 2026-10-26 10:26 | normal pick from 2026-10-27 22:26 | request from 2026-10-27 06:26
 WAIT Rayland Baxter — Objects In The Mirror | last aired 2026-10-25 05:01 | normal pick from 2026-10-26 17:01 | request now
 WAIT The Rah Band — Clouds Across the Moon | last aired 2026-10-26 04:35 | normal pick from 2026-10-27 16:35 | request from 2026-10-27 00:35
 OK   The Rah Band — Messages from the Stars (Remaster) | last aired 2026-10-16 15:45 | normal pick now | request now
