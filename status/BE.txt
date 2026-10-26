@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Sun Oct 25, 4:05 PM PDT (23:05 UTC)). Times in UTC.
+Track status, artists filed under BE (built Sun Oct 25, 5:05 PM PDT (00:05 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Beach House — Bluebird | last aired 2026-10-11 03:23 | normal pick now | request now
@@ -16,7 +16,7 @@ OK   Bee Gees — Night Fever (From "Saturday Night Fever" Soundtrack) | last ai
 WAIT Beenie Man — Feel It Boy | last aired 2026-10-24 21:50 | normal pick from 2026-10-26 09:50 | request now
 OK   Belcea Quartet — Quatuor à cordes n° 4, Sz. 91 - String Quartet No. 4 in C Major, Sz. 91: IV. Allegretto pizzicato | last aired 2026-10-16 14:38 | normal pick now | request now
 OK   Belle and Sebastian — The Boy with the Arab Strap | last aired 2026-10-23 07:06 | normal pick now | request now
-WAIT Ben Allison — D.A.V.E. | last aired 2026-10-25 21:21 | normal pick from 2026-10-27 09:21 | request from 2026-10-26 17:21
+WAIT Ben Allison — D.A.V.E. | last aired 2026-10-25 21:22 | normal pick from 2026-10-27 09:22 | request from 2026-10-26 17:22
 OK   Ben E. King — Stand By Me | last aired 2026-10-19 18:48 | normal pick now | request now
 OK   Ben Harper — Yard Sale | last aired 2026-10-22 18:08 | normal pick now | request now
 OK   Ben&Ben — Leaves | last aired 2026-10-23 07:32 | normal pick now | request now
@@ -26,7 +26,7 @@ OK   Benny Goodman — Sing Sing Sing (With A Swing) (live) | last aired 2026-10
 WAIT Benny Sings — Rolled Up | last aired 2026-10-24 16:16 | normal pick from 2026-10-26 04:16 | request now
 WAIT Benny Sings — Sailing | last aired 2026-10-24 16:58 | normal pick from 2026-10-26 04:58 | request now
 WAIT Benson Boone — Beautiful Things | last aired 2026-10-25 15:50 | normal pick from 2026-10-27 03:50 | request from 2026-10-26 11:50
-WAIT Berlin — Take My Breath Away | last aired 2026-10-25 03:45 | normal pick from 2026-10-26 15:45 | request from 2026-10-25 23:45
+WAIT Berlin — Take My Breath Away | last aired 2026-10-25 03:45 | normal pick from 2026-10-26 15:45 | request now
 WAIT Bernard Purdie — Cool Down | last aired 2026-10-24 21:29 | normal pick from 2026-10-26 21:29 | request from 2026-10-26 21:29
 OK   Bert Kaempfert — A Swingin' Safari | last aired 2026-10-17 23:48 | normal pick now | request now
 WAIT Betty Carter — Moonlight in Vermont | last aired 2026-10-25 14:00 | normal pick from 2026-10-27 02:00 | request from 2026-10-26 10:00
@@ -39,13 +39,13 @@ OK   The Beach Boys — Good Vibrations (Stereo/Remastered 2012) | last aired 20
 OK   The Beatles — A Day In The Life (2017 Mix) | last aired 2026-10-09 17:05 | normal pick now | request now
 OK   The Beatles — Get Back (2021 Mix) | last aired 2026-10-21 00:41 | normal pick now | request now
 OK   The Beatles — Girl (Remastered) | last aired 2026-10-22 15:02 | normal pick now | request now
-OK   The Beatles — Golden Slumbers (Remastered) | last aired 2026-10-09 11:31 | normal pick now | request now
+WAIT The Beatles — Golden Slumbers (Remastered) | last aired 2026-10-25 23:34 | normal pick from 2026-10-27 11:34 | request from 2026-10-26 19:34
 OK   The Beatles — Here Comes The Sun (2019 Mix) | last aired 2026-10-14 00:19 | normal pick now | request now
-WAIT The Beatles — Lucy In The Sky With Diamonds (Remastered 2009) | last aired 2026-10-25 20:34 | normal pick from 2026-10-27 08:34 | request from 2026-10-26 16:34
+WAIT The Beatles — Lucy In The Sky With Diamonds (Remastered 2009) | last aired 2026-10-25 20:35 | normal pick from 2026-10-27 08:35 | request from 2026-10-26 16:35
 OK   The Beatles — Octopus's Garden (Remastered) | last aired 2026-10-22 03:51 | normal pick now | request now
 OK   The Beatles — Rain (Remastered) | last aired 2026-10-23 11:57 | normal pick now | request now
 OK   The Beatles — Revolution 9 (Remastered 2009) | last aired 2026-09-14 19:37 | normal pick now | request now
 WAIT The Beatles — Strawberry Fields Forever | last aired 2026-10-25 14:15 | normal pick from 2026-10-27 02:15 | request from 2026-10-26 10:15
-WAIT The Beatles — This Boy (Remastered) | last aired 2026-10-25 22:24 | normal pick from 2026-10-27 10:24 | request from 2026-10-26 18:24
+WAIT The Beatles — This Boy (Remastered) | last aired 2026-10-25 22:25 | normal pick from 2026-10-27 10:25 | request from 2026-10-26 18:25
 OK   The Beatles — With A Little Help From My Friends (2017 Mix) | last aired 2026-10-23 09:41 | normal pick now | request now
 OK   The Beatles — Yesterday (Remastered) | last aired 2026-10-16 21:46 | normal pick now | request now

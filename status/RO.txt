@@ -1,7 +1,7 @@
-Track status, artists filed under RO (built Sun Oct 25, 4:05 PM PDT (23:05 UTC)). Times in UTC.
+Track status, artists filed under RO (built Sun Oct 25, 5:05 PM PDT (00:05 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Robbie Dupree — Steal Away | last aired 2026-10-25 03:13 | normal pick from 2026-10-26 15:13 | request from 2026-10-25 23:13
+WAIT Robbie Dupree — Steal Away | last aired 2026-10-25 03:13 | normal pick from 2026-10-26 15:13 | request now
 WAIT Robbie Robertson — Coyote Dance | last aired 2026-10-25 15:17 | normal pick from 2026-10-27 15:17 | request from 2026-10-27 15:17
 OK   Robert Fripp — Here Comes The Flood (Exposure Fourth Edition: 2021 Stereo Mix) | last aired 2026-10-16 02:19 | normal pick now | request now
 OK   Robert Johnson — Cross Road Blues | last aired 2026-10-24 09:13 | normal pick now | request now
@@ -22,7 +22,7 @@ OK   Roy Orbison — Oh, Pretty Woman | last aired 2026-10-22 19:08 | normal pic
 OK   Royal Blood — Boilermaker | last aired 2026-10-23 16:12 | normal pick now | request now
 OK   Rozen — Voice of NO Return | last aired 2026-09-05 17:43 | normal pick now | request now
 WAIT Róisín Murphy — Murphy's Law (Album Version) | last aired 2026-10-24 18:03 | normal pick from 2026-10-26 06:03 | request now
-WAIT Röyksopp — Eple | last aired 2026-10-23 23:46 | normal pick from 2026-10-25 23:46 | request from 2026-10-25 23:46
+OK   Röyksopp — Eple | last aired 2026-10-23 23:46 | normal pick now | request now
 WAIT The Rolling Stones — Paint It, Black | last aired 2026-10-24 17:56 | normal pick from 2026-10-26 05:56 | request now
 WAIT The Rolling Stones — Street Fighting Man | last aired 2026-10-24 13:40 | normal pick from 2026-10-26 01:40 | request now
 OK   The Rolling Stones — Sweet Sounds Of Heaven | last aired 2026-10-17 09:34 | normal pick now | request now

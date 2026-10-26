@@ -1,8 +1,8 @@
-Track status, song titles filed under HA (built Sun Oct 25, 4:05 PM PDT (23:05 UTC)). Times in UTC.
+Track status, song titles filed under HA (built Sun Oct 25, 5:05 PM PDT (00:05 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Halah — Mazzy Star | last aired 2026-10-24 00:07 | normal pick from 2026-10-26 00:07 | request from 2026-10-26 00:07
-WAIT Half Acre (Remastered 2025) — Hem | last aired 2026-10-25 03:33 | normal pick from 2026-10-26 15:33 | request from 2026-10-25 23:33
+WAIT Half Acre (Remastered 2025) — Hem | last aired 2026-10-25 03:33 | normal pick from 2026-10-26 15:33 | request now
 WAIT Hall of Fame — The Script feat. will.i.am | last aired 2026-10-24 14:13 | normal pick from 2026-10-26 14:13 | request from 2026-10-26 14:13
 OK   Hallelujah — Jeff Buckley | last aired 2026-10-23 04:17 | normal pick now | request now
 OK   Hallelujah — Leonard Cohen | last aired 2026-10-13 00:14 | normal pick now | request now
@@ -19,9 +19,9 @@ WAIT Hardline — Julien Baker | last aired 2026-10-25 06:18 | normal pick from 
 OK   Harmony in Blue I — Tim Hecker | last aired 2026-10-22 01:05 | normal pick now | request now
 OK   Haru No Iutoori — indigo la End | last aired 2026-10-23 22:07 | normal pick now | request now
 OK   Harvest Moon (Album Version) — Neil Young | last aired 2026-10-12 20:17 | normal pick now | request now
-WAIT Hate Yourself — TV Girl | last aired 2026-10-25 19:55 | normal pick from 2026-10-27 07:55 | request from 2026-10-26 15:55
+WAIT Hate Yourself — TV Girl | last aired 2026-10-25 19:56 | normal pick from 2026-10-27 07:56 | request from 2026-10-26 15:56
 OK   Haunted When the Minutes Drag — Love and Rockets | last aired 2026-10-23 11:33 | normal pick now | request now
 OK   Haus am See — Peter Fox | last aired 2026-10-22 20:24 | normal pick now | request now
 OK   Have a Cigar — Pink Floyd | last aired 2026-10-19 22:41 | normal pick now | request now
 OK   Have Yourself A Merry Little Christmas (Remastered 1999) — Frank Sinatra | last aired 2026-08-13 12:59 | normal pick now | request now
-WAIT The Hand That Feeds — Nine Inch Nails | last aired 2026-10-25 20:48 | normal pick from 2026-10-27 08:48 | request from 2026-10-26 16:48
+WAIT The Hand That Feeds — Nine Inch Nails | last aired 2026-10-25 20:49 | normal pick from 2026-10-27 08:49 | request from 2026-10-26 16:49

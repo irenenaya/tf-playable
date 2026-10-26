@@ -1,4 +1,4 @@
-THINKING FREQUENCIES — PLAYLIST HELPER (built Sun Oct 25, 4:05 PM PDT (23:05 UTC))
+THINKING FREQUENCIES — PLAYLIST HELPER (built Sun Oct 25, 5:05 PM PDT (00:05 UTC Mon))
 
 playable.txt : 50 tracks you can play right now.
 
@@ -18,4 +18,4 @@ in 30 days = 72 h, 40+ = 96 h). Requests: at least 20 h plus the same tiers, and
 Budapest day in a row. A song in no file at all is new: fine to play once.
 If status/XX.txt doesn't exist, no artist in the library starts with those letters.
 
-212 status files, 1912 tracks.
+213 status files, 1913 tracks.
