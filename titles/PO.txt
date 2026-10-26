@@ -1,10 +1,10 @@
-Track status, song titles filed under PO (built Mon Oct 26, 12:05 AM PDT (07:05 UTC)). Times in UTC.
+Track status, song titles filed under PO (built Mon Oct 26, 1:05 AM PDT (08:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Poison & Wine — The Civil Wars | last aired 2026-10-22 06:44 | normal pick now | request now
 OK   Poisoning Pigeons in the Park — Tom Lehrer | last aired 2026-09-29 16:02 | normal pick now | request now
 OK   Policy of Truth — Depeche Mode | last aired 2026-10-19 23:49 | normal pick now | request now
-OK   Polyhedrons — Sea Power | last aired 2026-10-15 01:20 | normal pick now | request now
+WAIT Polyhedrons — Sea Power | last aired 2026-10-26 07:48 | normal pick from 2026-10-27 19:48 | request from 2026-10-27 03:48
 OK   Ponyo's Sisters Lend a Hand - A Song for Mothers and the Sea (from 'Ponyo on the Cliff by the Sea') — Joe Hisaishi | last aired 2026-10-21 05:08 | normal pick now | request now
 WAIT Por una Cabeza — Carlos Gardel | last aired 2026-10-25 19:44 | normal pick from 2026-10-27 19:44 | request from 2026-10-27 19:44
 OK   Postales — Federico Aubele | last aired 2026-10-24 06:08 | normal pick now | request now
