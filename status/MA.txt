@@ -1,4 +1,4 @@
-Track status, artists filed under MA (built Tue Oct 27, 9:05 AM PDT (16:05 UTC)). Times in UTC.
+Track status, artists filed under MA (built Tue Oct 27, 10:05 AM PDT (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   M/A/R/R/S — Pump Up The Volume (UK 12" Remix) | last aired 2026-10-21 03:08 | normal pick now | request now
@@ -23,7 +23,7 @@ OK   Mariah Carey — O Holy Night | last aired 2026-04-30 06:20 | normal pick n
 OK   Marie Vaunt — That Acid | last aired 2026-10-13 11:14 | normal pick now | request now
 OK   Marija Šerifović — Molitva | last aired 2026-10-25 02:01 | normal pick now | request now
 OK   Marilyn Manson — The Love Song | last aired 2026-10-25 20:53 | normal pick now | request now
-WAIT Marisa Monte — Beija Eu | last aired 2026-10-25 16:23 | normal pick from 2026-10-27 16:23 | request from 2026-10-27 16:23
+OK   Marisa Monte — Beija Eu | last aired 2026-10-25 16:23 | normal pick now | request now
 WAIT Mariya Takeuchi — Plastic Love | last aired 2026-10-26 09:00 | normal pick from 2026-10-28 09:00 | request from 2026-10-28 09:00
 WAIT Mariza — Ó gente da minha terra | last aired 2026-10-27 08:03 | normal pick from 2026-10-29 08:03 | request from 2026-10-29 08:03
 OK   Mark Hollis — A Life (1895 - 1915) | last aired 2026-10-14 13:52 | normal pick now | request now
@@ -64,7 +64,7 @@ OK   Maxwell — Whenever Wherever Whatever (Remastered 2021) (Album Version) | 
 OK   Mazzy Star — Fade Into You | last aired 2026-10-21 08:06 | normal pick now | request now
 OK   Mazzy Star — Halah | last aired 2026-10-24 00:07 | normal pick now | request now
 OK   Måneskin — Torna a casa | last aired 2026-10-23 09:59 | normal pick now | request now
-WAIT Måneskin — ZITTI E BUONI | last aired 2026-10-26 20:43 | normal pick from 2026-10-28 08:43 | request from 2026-10-27 16:43
+WAIT Måneskin — ZITTI E BUONI | last aired 2026-10-26 20:43 | normal pick from 2026-10-28 08:43 | request now
 OK   The Magnetic Fields — Absolutely Cuckoo | last aired 2026-10-21 16:36 | normal pick now | request now
 OK   The Magnetic Fields — All My Little Words | last aired 2026-10-18 13:10 | normal pick now | request now
 WAIT The Magnetic Fields — Born on a Train | last aired 2026-10-27 11:34 | normal pick from 2026-10-28 23:34 | request from 2026-10-28 07:34

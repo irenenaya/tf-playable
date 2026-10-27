@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Tue Oct 27, 9:05 AM PDT (16:05 UTC)). Times in UTC.
+Track status, artists filed under BE (built Tue Oct 27, 10:05 AM PDT (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Beach House — Bluebird | last aired 2026-10-11 03:23 | normal pick now | request now
@@ -29,7 +29,7 @@ WAIT Benny Sings — Sailing | last aired 2026-10-26 20:28 | normal pick from 20
 OK   Benson Boone — Beautiful Things | last aired 2026-10-25 15:50 | normal pick now | request now
 WAIT Berlin — Take My Breath Away | last aired 2026-10-26 21:23 | normal pick from 2026-10-28 21:23 | request from 2026-10-28 21:23
 OK   Bernard Purdie — Cool Down | last aired 2026-10-24 21:29 | normal pick now | request now
-OK   Bert Kaempfert — A Swingin' Safari | last aired 2026-10-17 23:48 | normal pick now | request now
+WAIT Bert Kaempfert — A Swingin' Safari | last aired 2026-10-27 16:38 | normal pick from 2026-10-29 04:38 | request from 2026-10-28 12:38
 OK   Betty Carter — Moonlight in Vermont | last aired 2026-10-25 14:00 | normal pick now | request now
 OK   BETWEEN FRIENDS — affection | last aired 2026-10-24 19:22 | normal pick now | request now
 OK   Beyoncé — Crazy In Love | last aired 2026-10-25 12:22 | normal pick now | request now

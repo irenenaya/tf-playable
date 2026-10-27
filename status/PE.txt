@@ -1,12 +1,12 @@
-Track status, artists filed under PE (built Tue Oct 27, 9:05 AM PDT (16:05 UTC)). Times in UTC.
+Track status, artists filed under PE (built Tue Oct 27, 10:05 AM PDT (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Pearl Jam — Yellow Ledbetter | last aired 2026-10-26 23:46 | normal pick from 2026-10-28 11:46 | request from 2026-10-27 19:46
 WAIT Pebe Sebert — City's Burning | last aired 2026-10-26 19:07 | normal pick from 2026-10-28 07:07 | request now
-WAIT Pedro Infante — Amorcito corazón | last aired 2026-10-25 16:54 | normal pick from 2026-10-27 16:54 | request from 2026-10-27 16:54
+OK   Pedro Infante — Amorcito corazón | last aired 2026-10-25 16:54 | normal pick now | request now
 OK   Peeping Tom — Your Neighborhood Spaceman | last aired 2026-10-21 16:19 | normal pick now | request now
 OK   Peggy Gou — Starry Night | last aired 2026-10-07 15:13 | normal pick now | request now
-WAIT Pellek — Bohemian Rhapsody | last aired 2026-10-26 04:48 | normal pick from 2026-10-27 16:48 | request now
+OK   Pellek — Bohemian Rhapsody | last aired 2026-10-26 04:48 | normal pick now | request now
 OK   Pent Up Pup — ORDER:SCORE | last aired 2026-10-18 03:50 | normal pick now | request now
 OK   Percy Faith & His Orchestra — Black Magic Woman | last aired 2026-10-25 20:39 | normal pick now | request now
 OK   Percy Faith & His Orchestra — Theme from "A Summer Place" | last aired 2026-10-11 11:09 | normal pick now | request now

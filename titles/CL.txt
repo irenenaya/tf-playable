@@ -1,4 +1,4 @@
-Track status, song titles filed under CL (built Tue Oct 27, 9:05 AM PDT (16:05 UTC)). Times in UTC.
+Track status, song titles filed under CL (built Tue Oct 27, 10:05 AM PDT (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Clair de Lune: I — Claude Debussy | last aired 2026-10-17 07:48 | normal pick now | request now
@@ -6,5 +6,5 @@ OK   Clearest Blue — CHVRCHES | last aired 2026-10-25 00:49 | normal pick now 
 OK   Clipper — Autechre | last aired 2026-10-21 02:28 | normal pick now | request now
 OK   Close in the Distance (FFXIV Endwalker) [Synthwave] — Dutyyaknow | last aired 2026-10-26 00:36 | normal pick now | request now
 OK   Close My Eyes Forever — Lita Ford & Ozzy Osborne | last aired 2026-10-26 02:44 | normal pick now | request now
-WAIT Clouds Across the Moon — The Rah Band | last aired 2026-10-26 04:35 | normal pick from 2026-10-27 16:35 | request now
+OK   Clouds Across the Moon — The Rah Band | last aired 2026-10-26 04:35 | normal pick now | request now
 OK   Clouds — Bruce Kaphan | last aired 2026-10-24 14:04 | normal pick now | request now
