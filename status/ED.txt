@@ -1,4 +1,4 @@
-Track status, artists filed under ED (built Tue Oct 27, 12:05 PM PDT (19:05 UTC)). Times in UTC.
+Track status, artists filed under ED (built Tue Oct 27, 1:05 PM PDT (20:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Ed Maverick — lagunas | last aired 2026-10-19 08:14 | normal pick now | request now
@@ -10,4 +10,4 @@ OK   Edith Piaf — La Vie en rose | last aired 2026-10-25 19:01 | normal pick n
 WAIT Ednaswap — Torn | last aired 2026-10-27 04:50 | normal pick from 2026-10-28 16:50 | request from 2026-10-28 00:50
 OK   Edwin Rosen — Vertigo | last aired 2026-10-25 13:25 | normal pick now | request now
 OK   Edwin Starr — War | last aired 2026-10-24 21:18 | normal pick now | request now
-WAIT The Edwin Hawkins Singers — Oh Happy Day | last aired 2026-10-26 07:55 | normal pick from 2026-10-27 19:55 | request now
+OK   The Edwin Hawkins Singers — Oh Happy Day | last aired 2026-10-26 07:55 | normal pick now | request now
