@@ -1,14 +1,14 @@
-Track status, artists filed under BE (built Tue Oct 27, 4:05 AM PDT (11:05 UTC)). Times in UTC.
+Track status, artists filed under BE (built Tue Oct 27, 5:05 AM PDT (12:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Beach House — Bluebird | last aired 2026-10-11 03:23 | normal pick now | request now
-OK   Beach House — Space Song | last aired 2026-10-24 00:26 | normal pick now | request now
+WAIT Beach House — Space Song | last aired 2026-10-27 11:07 | normal pick from 2026-10-29 11:07 | request from 2026-10-29 11:07
 OK   Beastie Boys — Sabotage | last aired 2026-10-19 22:10 | normal pick now | request now
 OK   Beatrice Rana — Keyboard Concerto No. 1 in D Minor, BWV 1052: I. Allegro | last aired 2026-10-21 04:56 | normal pick now | request now
 WAIT Beatrice Rana — Libertango (Arr. Yamamoto for Piano 4-Hands) | last aired 2026-10-26 10:49 | normal pick from 2026-10-28 10:49 | request from 2026-10-28 10:49
 OK   Beats by Luca — 52 CHICKEN NUGGET (McRave) | last aired 2026-10-18 11:09 | normal pick now | request now
 WAIT Bebel Gilberto — Samba Da Benção | last aired 2026-10-27 03:05 | normal pick from 2026-10-29 03:05 | request from 2026-10-29 03:05
-OK   Beck — Devils Haircut | last aired 2026-10-23 03:00 | normal pick now | request now
+WAIT Beck — Devils Haircut | last aired 2026-10-27 11:51 | normal pick from 2026-10-28 23:51 | request from 2026-10-28 07:51
 OK   Beck — Loser | last aired 2026-10-22 03:20 | normal pick now | request now
 WAIT Beck — The New Pollution | last aired 2026-10-26 19:03 | normal pick from 2026-10-28 07:03 | request from 2026-10-27 15:03
 OK   Becky Levi and the Nightjars — Wake Me Up | last aired 2026-10-22 06:23 | normal pick now | request now
@@ -40,7 +40,7 @@ OK   The Beach Boys — Good Vibrations (Stereo/Remastered 2012) | last aired 20
 OK   The Beatles — A Day In The Life (2017 Mix) | last aired 2026-10-09 17:05 | normal pick now | request now
 OK   The Beatles — Get Back (2021 Mix) | last aired 2026-10-21 00:41 | normal pick now | request now
 OK   The Beatles — Girl (Remastered) | last aired 2026-10-22 15:02 | normal pick now | request now
-WAIT The Beatles — Golden Slumbers (Remastered) | last aired 2026-10-25 23:34 | normal pick from 2026-10-27 11:34 | request now
+OK   The Beatles — Golden Slumbers (Remastered) | last aired 2026-10-25 23:34 | normal pick now | request now
 OK   The Beatles — Here Comes The Sun (2019 Mix) | last aired 2026-10-14 00:19 | normal pick now | request now
 OK   The Beatles — Lucy In The Sky With Diamonds (Remastered 2009) | last aired 2026-10-25 20:35 | normal pick now | request now
 OK   The Beatles — Octopus's Garden (Remastered) | last aired 2026-10-22 03:51 | normal pick now | request now

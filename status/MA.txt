@@ -1,4 +1,4 @@
-Track status, artists filed under MA (built Tue Oct 27, 4:05 AM PDT (11:05 UTC)). Times in UTC.
+Track status, artists filed under MA (built Tue Oct 27, 5:05 AM PDT (12:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   M/A/R/R/S — Pump Up The Volume (UK 12" Remix) | last aired 2026-10-21 03:08 | normal pick now | request now
@@ -67,7 +67,7 @@ OK   Måneskin — Torna a casa | last aired 2026-10-23 09:59 | normal pick now 
 WAIT Måneskin — ZITTI E BUONI | last aired 2026-10-26 20:43 | normal pick from 2026-10-28 08:43 | request from 2026-10-27 16:43
 OK   The Magnetic Fields — Absolutely Cuckoo | last aired 2026-10-21 16:36 | normal pick now | request now
 OK   The Magnetic Fields — All My Little Words | last aired 2026-10-18 13:10 | normal pick now | request now
-OK   The Magnetic Fields — Born on a Train | last aired 2026-10-23 22:00 | normal pick now | request now
+WAIT The Magnetic Fields — Born on a Train | last aired 2026-10-27 11:34 | normal pick from 2026-10-28 23:34 | request from 2026-10-28 07:34
 OK   The Magnetic Fields — Papa Was a Rodeo | last aired 2026-10-25 00:31 | normal pick now | request now
 WAIT The Magnetic Fields — The Book of Love | last aired 2026-10-26 14:05 | normal pick from 2026-10-28 14:05 | request from 2026-10-28 14:05
 OK   The Mamas & The Papas — California Dreamin' (Single Version) | last aired 2026-10-22 14:06 | normal pick now | request now

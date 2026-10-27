@@ -1,4 +1,4 @@
-Track status, song titles filed under BO (built Tue Oct 27, 4:05 AM PDT (11:05 UTC)). Times in UTC.
+Track status, song titles filed under BO (built Tue Oct 27, 5:05 AM PDT (12:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Bocca di rosa — Fabrizio De Andrè | last aired 2026-10-25 15:39 | normal pick now | request now
@@ -10,7 +10,7 @@ WAIT Bonfire — Lamb | last aired 2026-10-27 00:20 | normal pick from 2026-10-2
 WAIT Boom Boom — John Lee Hooker | last aired 2026-10-26 17:27 | normal pick from 2026-10-28 05:27 | request from 2026-10-27 13:27
 OK   Bop to the Top — Ashley Tisdale | last aired 2026-10-19 22:50 | normal pick now | request now
 OK   Born in the U.S.A. — Bruce Springsteen | last aired 2026-10-21 02:58 | normal pick now | request now
-OK   Born on a Train — The Magnetic Fields | last aired 2026-10-23 22:00 | normal pick now | request now
+WAIT Born on a Train — The Magnetic Fields | last aired 2026-10-27 11:34 | normal pick from 2026-10-28 23:34 | request from 2026-10-28 07:34
 OK   Born to Run — Bruce Springsteen | last aired 2026-10-22 22:50 | normal pick now | request now
 WAIT Born Under A Bad Sign — Albert King | last aired 2026-10-26 17:24 | normal pick from 2026-10-28 05:24 | request from 2026-10-27 13:24
 OK   Boss Guitar — DJ Cam Quartet | last aired 2026-10-23 17:42 | normal pick now | request now
