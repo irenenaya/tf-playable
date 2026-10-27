@@ -1,4 +1,4 @@
-Track status, song titles filed under FA (built Tue Oct 27, 1:05 AM PDT (08:05 UTC)). Times in UTC.
+Track status, song titles filed under FA (built Tue Oct 27, 2:05 AM PDT (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Face to Face — Daft Punk | last aired 2026-10-22 20:54 | normal pick now | request now
@@ -7,7 +7,7 @@ OK   Fade Into You — Mazzy Star | last aired 2026-10-21 08:06 | normal pick no
 WAIT Fade To Grey — Visage | last aired 2026-10-25 13:36 | normal pick from 2026-10-27 13:36 | request from 2026-10-27 13:36
 WAIT Fado Vadio (Má Fama) — Ana Sofia Varela | last aired 2026-10-26 08:07 | normal pick from 2026-10-27 20:07 | request now
 OK   Fail Upward For A Change — Tom Konkle | last aired 2026-10-17 13:56 | normal pick now | request now
-WAIT Fairytale — Alexander Rybak | last aired 2026-10-26 12:21 | normal pick from 2026-10-28 00:21 | request from 2026-10-27 08:21
+WAIT Fairytale — Alexander Rybak | last aired 2026-10-26 12:21 | normal pick from 2026-10-28 00:21 | request now
 OK   Fait Accompli — Curve | last aired 2026-10-24 07:22 | normal pick now | request now
 OK   Fake Tales Of San Francisco — Arctic Monkeys | last aired 2026-10-22 11:02 | normal pick now | request now
 OK   Fallen (Album Mix) — Sarah McLachlan | last aired 2026-10-24 01:49 | normal pick now | request now
@@ -21,7 +21,7 @@ OK   Fancy — Reba McEntire | last aired 2026-10-24 18:48 | normal pick now | r
 WAIT Fantas — Caterina Barbieri | last aired 2026-10-26 07:07 | normal pick from 2026-10-27 19:07 | request now
 OK   Fantasiestücke, Op. 73 - Schumann: Fantasiestücke, Op. 73: No. 1, Zart und mit Ausdruck — Sol Gabetta | last aired 2026-10-23 01:33 | normal pick now | request now
 WAIT Fast Car  (2015 Remaster) — Tracy Chapman | last aired 2026-10-26 12:24 | normal pick from 2026-10-28 12:24 | request from 2026-10-28 12:24
-OK   Fast Car (LP Version) — Tracy Chapman | last aired 2026-10-23 18:26 | normal pick now | request now
+WAIT Fast Car (LP Version) — Tracy Chapman | last aired 2026-10-27 08:45 | normal pick from 2026-10-28 20:45 | request from 2026-10-28 04:45
 OK   Faster — Matt Nathanson | last aired 2026-10-21 14:38 | normal pick now | request now
 OK   Fatti avanti amore (feat. Jovanotti)  (5030 version) — Nek | last aired 2026-10-25 03:04 | normal pick now | request now
 OK   The Fairy Feller's Master-Stroke (2026 Mix) — Queen | last aired 2026-10-20 19:17 | normal pick now | request now

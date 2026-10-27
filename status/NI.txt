@@ -1,8 +1,8 @@
-Track status, artists filed under NI (built Tue Oct 27, 1:05 AM PDT (08:05 UTC)). Times in UTC.
+Track status, artists filed under NI (built Tue Oct 27, 2:05 AM PDT (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Nick Cave & The Bad Seeds — (I'll Love You) Till The End Of The World | last aired 2026-10-22 12:40 | normal pick now | request now
-OK   Nick Cave & The Bad Seeds — Henry Lee (Remastered 2011) | last aired 2026-10-22 16:09 | normal pick now | request now
+WAIT Nick Cave & The Bad Seeds — Henry Lee (Remastered 2011) | last aired 2026-10-27 08:50 | normal pick from 2026-10-28 20:50 | request from 2026-10-28 04:50
 OK   Nick Drake — Northern Sky | last aired 2026-10-23 08:21 | normal pick now | request now
 OK   Nick Drake — Pink Moon | last aired 2026-10-22 07:28 | normal pick now | request now
 OK   Nickelback — How You Remind Me (- LP Mix) | last aired 2026-10-21 03:47 | normal pick now | request now
@@ -18,6 +18,6 @@ OK   Nina Simone — Wild Is The Wind | last aired 2026-10-23 14:44 | normal pic
 WAIT Nine Inch Nails — Heresy (Nine Inch Noize Version) | last aired 2026-10-26 00:20 | normal pick from 2026-10-27 12:20 | request now
 OK   Nine Inch Nails — Hurt | last aired 2026-10-14 21:55 | normal pick now | request now
 OK   Nine Inch Nails — Less Than | last aired 2026-10-20 19:28 | normal pick now | request now
-WAIT Nine Inch Nails — The Hand That Feeds | last aired 2026-10-25 20:49 | normal pick from 2026-10-27 08:49 | request now
+OK   Nine Inch Nails — The Hand That Feeds | last aired 2026-10-25 20:49 | normal pick now | request now
 WAIT Nirvana — Heart-Shaped Box (Album Version) | last aired 2026-10-26 20:11 | normal pick from 2026-10-28 08:11 | request from 2026-10-27 16:11
 OK   Nirvana — Smells Like Teen Spirit | last aired 2026-10-22 22:59 | normal pick now | request now

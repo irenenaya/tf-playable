@@ -1,4 +1,4 @@
-Track status, artists filed under PA (built Tue Oct 27, 1:05 AM PDT (08:05 UTC)). Times in UTC.
+Track status, artists filed under PA (built Tue Oct 27, 2:05 AM PDT (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Paco de Lucía — Entre Dos Aguas | last aired 2026-10-25 11:59 | normal pick from 2026-10-27 11:59 | request from 2026-10-27 11:59
@@ -6,7 +6,7 @@ OK   Paco de Lucía — Mediterranean sundance - Di Meola: Mediterranean sundanc
 OK   Pages — If I Saw You Again (Album Version) | last aired 2026-10-22 14:29 | normal pick now | request now
 WAIT Pale Saints — Kinky Love | last aired 2026-10-26 14:48 | normal pick from 2026-10-28 02:48 | request from 2026-10-27 10:48
 WAIT Paolo Conte — Via Con Me | last aired 2026-10-25 19:37 | normal pick from 2026-10-27 19:37 | request from 2026-10-27 19:37
-WAIT Papa Roach — Last Resort | last aired 2026-10-25 20:14 | normal pick from 2026-10-27 08:14 | request now
+OK   Papa Roach — Last Resort | last aired 2026-10-25 20:14 | normal pick now | request now
 OK   Papooz — You and I | last aired 2026-10-22 03:13 | normal pick now | request now
 WAIT Paramore — Thick Skull | last aired 2026-10-27 01:29 | normal pick from 2026-10-28 13:29 | request from 2026-10-27 21:29
 WAIT Parcels — Overnight - from Hansa Studios, Berlin | last aired 2026-10-26 10:23 | normal pick from 2026-10-27 22:23 | request now
@@ -26,6 +26,6 @@ OK   Paul Mauriat — Love Is Blue (Album Version) | last aired 2026-10-24 09:23
 OK   Paul McCartney — Maybe I’m Amazed (2011 Remaster) | last aired 2026-10-21 18:53 | normal pick now | request now
 OK   Paul McCartney — Monkberry Moon Delight (2012 Remaster) | last aired 2026-10-24 18:17 | normal pick now | request now
 OK   Paul Rodgers — Muddy Water Blues | last aired 2026-10-25 03:36 | normal pick now | request now
-OK   Paul Simon — Further to Fly | last aired 2026-10-22 04:38 | normal pick now | request now
+WAIT Paul Simon — Further to Fly | last aired 2026-10-27 08:40 | normal pick from 2026-10-28 20:40 | request from 2026-10-28 04:40
 WAIT Paul Simon — You Can Call Me Al | last aired 2026-10-26 19:53 | normal pick from 2026-10-28 19:53 | request from 2026-10-28 19:53
 OK   Paula Abdul — Straight Up (Single Version) | last aired 2026-10-24 16:25 | normal pick now | request now
