@@ -1,4 +1,4 @@
-Track status, artists filed under CH (built Tue Oct 27, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, artists filed under CH (built Tue Oct 27, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Chaka Khan — What Cha' Gonna Do for Me | last aired 2026-10-26 23:06 | normal pick from 2026-10-28 23:06 | request from 2026-10-28 23:06
@@ -22,7 +22,7 @@ OK   Chic — Good Times  (2018 Remaster) | last aired 2026-10-23 20:26 | normal
 OK   Chicago — Hard to Say I'M Sorry / Get Away | last aired 2026-10-24 20:27 | normal pick now | request now
 WAIT Chico Buarque — Construção | last aired 2026-10-25 16:36 | normal pick from 2026-10-27 16:36 | request from 2026-10-27 16:36
 OK   Child Seat — Heart To Heart | last aired 2026-10-20 14:09 | normal pick now | request now
-WAIT Child Seat — Hyperphantasia | last aired 2026-10-26 19:10 | normal pick from 2026-10-28 07:10 | request from 2026-10-27 15:10
+WAIT Child Seat — Hyperphantasia | last aired 2026-10-26 19:10 | normal pick from 2026-10-28 07:10 | request now
 WAIT Chris Christodoulou — The Rain Formerly Known as Purple | last aired 2026-10-26 05:48 | normal pick from 2026-10-27 17:48 | request now
 WAIT Chris De Burgh — The Getaway | last aired 2026-10-26 20:16 | normal pick from 2026-10-28 08:16 | request from 2026-10-27 16:16
 OK   Chris Huelsbeck — GSTD Ingame 4 | last aired 2026-10-11 11:31 | normal pick now | request now
@@ -32,7 +32,7 @@ OK   Chris Snelling — Le onde | last aired 2026-10-25 06:01 | normal pick now 
 OK   Chris Whitley — Big Sky Country (Album Version) | last aired 2026-10-25 00:01 | normal pick now | request now
 WAIT Christian Löffler — Lid | last aired 2026-10-27 01:54 | normal pick from 2026-10-28 13:54 | request from 2026-10-27 21:54
 OK   Christina Aguilera — Genie In a Bottle | last aired 2026-10-20 15:29 | normal pick now | request now
-WAIT Christopher Cross — I Really Don't Know Anymore  (2019 Remaster) | last aired 2026-10-26 03:43 | normal pick from 2026-10-27 15:43 | request now
+OK   Christopher Cross — I Really Don't Know Anymore  (2019 Remaster) | last aired 2026-10-26 03:43 | normal pick now | request now
 OK   Christopher Cross — Ride Like the Wind (Album Version) | last aired 2026-10-25 03:40 | normal pick now | request now
 WAIT Christopher Cross — Sailing | last aired 2026-10-27 09:16 | normal pick from 2026-10-28 21:16 | request from 2026-10-28 05:16
 OK   Chuck Berry — Johnny B. Goode | last aired 2026-10-24 13:19 | normal pick now | request now

@@ -1,11 +1,11 @@
-Track status, song titles filed under MA (built Tue Oct 27, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, song titles filed under MA (built Tue Oct 27, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Mad World — Gary Jules | last aired 2026-10-27 05:09 | normal pick from 2026-10-29 05:09 | request from 2026-10-29 05:09
 OK   Mad World — Tears For Fears | last aired 2026-10-21 13:48 | normal pick now | request now
 WAIT Madder — Groove Armada | last aired 2026-10-27 03:10 | normal pick from 2026-10-29 03:10 | request from 2026-10-29 03:10
 WAIT Madwoman — Laufey | last aired 2026-10-27 05:43 | normal pick from 2026-10-28 17:43 | request from 2026-10-28 01:43
-WAIT Magic Wanda — Daikaiju | last aired 2026-10-26 03:11 | normal pick from 2026-10-27 15:11 | request now
+OK   Magic Wanda — Daikaiju | last aired 2026-10-26 03:11 | normal pick now | request now
 OK   Main Theme — Filippo Beck Peccoz | last aired 2026-10-22 05:16 | normal pick now | request now
 OK   Mais je t'aime — Grand Corps Malade | last aired 2026-10-25 19:08 | normal pick now | request now
 OK   Make a Wish — Azawi | last aired 2026-10-21 16:53 | normal pick now | request now
@@ -16,7 +16,7 @@ OK   Manipulation (The Dance) — Tom Konkle | last aired 2026-10-18 03:37 | nor
 WAIT Mannish Boy — Muddy Waters | last aired 2026-10-26 17:20 | normal pick from 2026-10-28 05:20 | request now
 OK   Many Too Many (2007 Remaster) — Genesis | last aired 2026-10-21 20:39 | normal pick now | request now
 OK   Maria Maria — Santana | last aired 2026-10-21 18:44 | normal pick now | request now
-OK   Married To The Music — SHINee | last aired 2026-10-24 10:17 | normal pick now | request now
+WAIT Married To The Music — SHINee | last aired 2026-10-27 15:13 | normal pick from 2026-10-29 15:13 | request from 2026-10-29 15:13
 OK   Marunouchi sadistic (Cover) — Mizuki Tomoda | last aired 2026-10-17 14:46 | normal pick now | request now
 WAIT Mary — Big Thief | last aired 2026-10-27 11:38 | normal pick from 2026-10-28 23:38 | request from 2026-10-28 07:38
 OK   Mas, Que Nada! — Jorge Ben Jor | last aired 2026-10-25 10:53 | normal pick now | request now

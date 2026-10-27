@@ -1,4 +1,4 @@
-Track status, artists filed under SO (built Tue Oct 27, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, artists filed under SO (built Tue Oct 27, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Soda Stereo — De Música Ligera (Remasterizado 2007) | last aired 2026-10-23 07:21 | normal pick now | request now
@@ -10,7 +10,7 @@ OK   Solange — Cranes in the Sky | last aired 2026-10-11 23:27 | normal pick n
 OK   Solarstone — Evensong | last aired 2026-10-09 04:49 | normal pick now | request now
 OK   Solisti e Orchestre del Cinema Italiano — L'uomo dell'armonica | last aired 2026-10-17 10:17 | normal pick now | request now
 OK   Sons Of Apollo — Desolate July | last aired 2026-09-25 16:24 | normal pick now | request now
-WAIT Sophie Hunger — Le vent nous portera | last aired 2026-10-26 03:35 | normal pick from 2026-10-27 15:35 | request now
+OK   Sophie Hunger — Le vent nous portera | last aired 2026-10-26 03:35 | normal pick now | request now
 WAIT Sophie Hunger — Shape | last aired 2026-10-26 21:19 | normal pick from 2026-10-28 09:19 | request from 2026-10-27 17:19
 OK   Soul Coughing — Screenwriter's Blues | last aired 2026-10-25 23:36 | normal pick now | request now
 WAIT Soundgarden — Black Hole Sun | last aired 2026-10-27 14:12 | normal pick from 2026-10-29 02:12 | request from 2026-10-28 10:12
