@@ -1,4 +1,4 @@
-Track status, song titles filed under ST (built Tue Oct 27, 10:05 AM PDT (17:05 UTC)). Times in UTC.
+Track status, song titles filed under ST (built Tue Oct 27, 11:05 AM PDT (18:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   S.T.A.Y. — Hans Zimmer | last aired 2026-10-24 02:46 | normal pick now | request now
@@ -33,7 +33,7 @@ OK   Stratosfear (Digital Remastered) — Tangerine Dream | last aired 2026-10-2
 OK   Strawberry Fields Forever — The Beatles | last aired 2026-10-25 14:15 | normal pick now | request now
 OK   Strawberry Letter 23 (Album Version) — The Brothers Johnson | last aired 2026-10-24 12:20 | normal pick now | request now
 OK   Street Fighting Man — The Rolling Stones | last aired 2026-10-24 13:40 | normal pick now | request now
-OK   Street Lights — Josh Rouse | last aired 2026-10-24 01:39 | normal pick now | request now
+WAIT Street Lights — Josh Rouse | last aired 2026-10-27 17:55 | normal pick from 2026-10-29 05:55 | request from 2026-10-28 13:55
 OK   Streets of Philadelphia  (Single Edit) — Bruce Springsteen | last aired 2026-10-22 18:40 | normal pick now | request now
 WAIT Stressed Out — twenty one pilots | last aired 2026-10-26 12:18 | normal pick from 2026-10-28 00:18 | request now
 OK   Strings of Light — Yussef Kamaal | last aired 2026-10-23 17:23 | normal pick now | request now

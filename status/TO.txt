@@ -1,4 +1,4 @@
-Track status, artists filed under TO (built Tue Oct 27, 10:05 AM PDT (17:05 UTC)). Times in UTC.
+Track status, artists filed under TO (built Tue Oct 27, 11:05 AM PDT (18:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   toe — Goodbye (Live) | last aired 2026-10-24 15:39 | normal pick now | request now
@@ -22,7 +22,7 @@ OK   Tom Petty & The Heartbreakers — American Girl | last aired 2026-10-21 22:
 OK   Tom Petty — I Won't Back Down | last aired 2026-10-23 07:25 | normal pick now | request now
 OK   Tom Petty — Runnin' Down A Dream | last aired 2026-10-23 15:15 | normal pick now | request now
 OK   Tom Robinson — The Saturday Disco | last aired 2026-10-24 21:03 | normal pick now | request now
-WAIT Tom Waits — House Where Nobody Lives | last aired 2026-10-26 21:43 | normal pick from 2026-10-28 09:43 | request from 2026-10-27 17:43
+WAIT Tom Waits — House Where Nobody Lives | last aired 2026-10-26 21:43 | normal pick from 2026-10-28 09:43 | request now
 OK   Tomaso Albinoni — Adagio in G Minor | last aired 2026-10-23 06:13 | normal pick now | request now
 OK   Tomohisa Okudo — Always with Me | last aired 2026-10-25 15:45 | normal pick now | request now
 OK   Toni Braxton — Un-Break My Heart | last aired 2026-10-23 13:56 | normal pick now | request now

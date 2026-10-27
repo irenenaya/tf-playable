@@ -1,8 +1,8 @@
-Track status, song titles filed under WE (built Tue Oct 27, 10:05 AM PDT (17:05 UTC)). Times in UTC.
+Track status, song titles filed under WE (built Tue Oct 27, 11:05 AM PDT (18:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Weight (Remastered 2000) — The Band | last aired 2026-10-23 15:05 | normal pick now | request now
-WAIT We Are Not All in This Together — Ken Thomson And Slow/Fast | last aired 2026-10-26 05:41 | normal pick from 2026-10-27 17:41 | request now
+OK   We Are Not All in This Together — Ken Thomson And Slow/Fast | last aired 2026-10-26 05:41 | normal pick now | request now
 OK   We Are The World — USA for Africa | last aired 2026-10-24 15:48 | normal pick now | request now
 OK   We Don't Celebrate Sundays — Hardcore Superstar | last aired 2026-09-22 13:05 | normal pick now | request now
 OK   We Like To Party! (The Vengabus) — Vengaboys | last aired 2026-10-22 10:50 | normal pick now | request now
@@ -13,4 +13,4 @@ OK   Weak In Your Light — Nation of Language | last aired 2026-10-25 05:44 | n
 OK   Weak — SWV | last aired 2026-10-24 14:31 | normal pick now | request now
 OK   Weightless — Marconi Union | last aired 2026-10-25 02:22 | normal pick now | request now
 WAIT Weird Fishes / Arpeggi — Radiohead | last aired 2026-10-27 11:24 | normal pick from 2026-10-29 11:24 | request from 2026-10-29 11:24
-OK   West End Girls  (2001 Remaster) — Pet Shop Boys | last aired 2026-10-21 17:14 | normal pick now | request now
+WAIT West End Girls  (2001 Remaster) — Pet Shop Boys | last aired 2026-10-27 17:20 | normal pick from 2026-10-29 05:20 | request from 2026-10-28 13:20

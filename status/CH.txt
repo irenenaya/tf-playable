@@ -1,4 +1,4 @@
-Track status, artists filed under CH (built Tue Oct 27, 10:05 AM PDT (17:05 UTC)). Times in UTC.
+Track status, artists filed under CH (built Tue Oct 27, 11:05 AM PDT (18:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Chaka Khan — What Cha' Gonna Do for Me | last aired 2026-10-26 23:06 | normal pick from 2026-10-28 23:06 | request from 2026-10-28 23:06
@@ -15,7 +15,7 @@ OK   Charli XCX — 360 | last aired 2026-10-23 19:42 | normal pick now | reques
 OK   Charly García — Demoliendo Hoteles (Live) | last aired 2026-10-24 11:11 | normal pick now | request now
 OK   Chavela Vargas — La llorona | last aired 2026-10-22 13:50 | normal pick now | request now
 OK   Chet Atkins — Why Worry (Album Version) | last aired 2026-10-23 04:28 | normal pick now | request now
-WAIT Chet Baker — Almost Blue | last aired 2026-10-26 05:12 | normal pick from 2026-10-27 17:12 | request now
+OK   Chet Baker — Almost Blue | last aired 2026-10-26 05:12 | normal pick now | request now
 OK   Chet Baker — My Funny Valentine | last aired 2026-10-22 06:38 | normal pick now | request now
 WAIT Chet Baker — You Don't Know What Love Is | last aired 2026-10-27 16:07 | normal pick from 2026-10-29 04:07 | request from 2026-10-28 12:07
 OK   Chic — Good Times  (2018 Remaster) | last aired 2026-10-23 20:26 | normal pick now | request now
@@ -23,7 +23,7 @@ OK   Chicago — Hard to Say I'M Sorry / Get Away | last aired 2026-10-24 20:27 
 OK   Chico Buarque — Construção | last aired 2026-10-25 16:36 | normal pick now | request now
 OK   Child Seat — Heart To Heart | last aired 2026-10-20 14:09 | normal pick now | request now
 WAIT Child Seat — Hyperphantasia | last aired 2026-10-26 19:10 | normal pick from 2026-10-28 07:10 | request now
-WAIT Chris Christodoulou — The Rain Formerly Known as Purple | last aired 2026-10-26 05:48 | normal pick from 2026-10-27 17:48 | request now
+OK   Chris Christodoulou — The Rain Formerly Known as Purple | last aired 2026-10-26 05:48 | normal pick now | request now
 WAIT Chris De Burgh — The Getaway | last aired 2026-10-26 20:16 | normal pick from 2026-10-28 08:16 | request now
 OK   Chris Huelsbeck — GSTD Ingame 4 | last aired 2026-10-11 11:31 | normal pick now | request now
 OK   Chris Isaak — Blue Hotel  (Remastered Album Version) | last aired 2026-10-22 06:05 | normal pick now | request now
