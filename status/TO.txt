@@ -1,4 +1,4 @@
-Track status, artists filed under TO (built Tue Oct 27, 7:05 AM PDT (14:05 UTC)). Times in UTC.
+Track status, artists filed under TO (built Tue Oct 27, 8:05 AM PDT (15:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   toe — Goodbye (Live) | last aired 2026-10-24 15:39 | normal pick now | request now
@@ -35,4 +35,4 @@ WAIT Tori Amos — Winter | last aired 2026-10-26 03:47 | normal pick from 2026-
 OK   Toto — Africa | last aired 2026-10-23 16:47 | normal pick now | request now
 WAIT Toto — Georgy Porgy (album version) | last aired 2026-10-26 19:14 | normal pick from 2026-10-28 07:14 | request from 2026-10-27 15:14
 OK   Toto — Rosanna (Album Version) | last aired 2026-10-22 09:56 | normal pick now | request now
-WAIT Tove Lo — No One Dies From Love | last aired 2026-10-26 18:20 | normal pick from 2026-10-28 06:20 | request from 2026-10-27 14:20
+WAIT Tove Lo — No One Dies From Love | last aired 2026-10-26 18:20 | normal pick from 2026-10-28 06:20 | request now

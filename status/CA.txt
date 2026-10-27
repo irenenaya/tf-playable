@@ -1,8 +1,8 @@
-Track status, artists filed under CA (built Tue Oct 27, 7:05 AM PDT (14:05 UTC)). Times in UTC.
+Track status, artists filed under CA (built Tue Oct 27, 8:05 AM PDT (15:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Caetano Veloso — O Leãozinho (Ao Vivo) | last aired 2026-10-26 16:43 | normal pick from 2026-10-28 16:43 | request from 2026-10-28 16:43
-OK   Caetano Veloso — Tropicália (Remastered 2006) | last aired 2026-10-25 12:30 | normal pick now | request now
+WAIT Caetano Veloso — Tropicália (Remastered 2006) | last aired 2026-10-27 14:30 | normal pick from 2026-10-29 14:30 | request from 2026-10-29 14:30
 WAIT Café Tacvba — Eres (Album Version) | last aired 2026-10-26 15:58 | normal pick from 2026-10-28 15:58 | request from 2026-10-28 15:58
 WAIT Cage The Elephant — What I'm Becoming | last aired 2026-10-26 11:54 | normal pick from 2026-10-27 23:54 | request now
 OK   Caifanes — Afuera | last aired 2026-10-23 22:38 | normal pick now | request now
@@ -15,7 +15,7 @@ OK   Cardiacs — Big Ship | last aired 2026-10-15 16:05 | normal pick now | req
 WAIT Carlos Gardel — Por una Cabeza | last aired 2026-10-25 19:44 | normal pick from 2026-10-27 19:44 | request from 2026-10-27 19:44
 OK   Carole King — It's Too Late | last aired 2026-10-22 04:30 | normal pick now | request now
 WAIT Carole King — So Far Away | last aired 2026-10-27 06:44 | normal pick from 2026-10-29 06:44 | request from 2026-10-29 06:44
-WAIT Caroline Polachek — Bunny Is A Rider | last aired 2026-10-26 18:59 | normal pick from 2026-10-28 06:59 | request from 2026-10-27 14:59
+WAIT Caroline Polachek — Bunny Is A Rider | last aired 2026-10-26 18:59 | normal pick from 2026-10-28 06:59 | request now
 OK   Carter Vail — Ants In My Room | last aired 2026-10-20 14:28 | normal pick now | request now
 OK   Cartola — As Rosas Não Falam | last aired 2026-10-24 14:53 | normal pick now | request now
 OK   Cascada — Everytime We Touch | last aired 2026-10-24 22:45 | normal pick now | request now

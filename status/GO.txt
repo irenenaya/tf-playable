@@ -1,15 +1,15 @@
-Track status, artists filed under GO (built Tue Oct 27, 7:05 AM PDT (14:05 UTC)). Times in UTC.
+Track status, artists filed under GO (built Tue Oct 27, 8:05 AM PDT (15:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Go_A — SHUM | last aired 2026-10-15 11:53 | normal pick now | request now
 OK   GoGo Penguin — Hopopono | last aired 2026-10-23 17:32 | normal pick now | request now
-WAIT GoGo Penguin — Raven | last aired 2026-10-27 12:04 | normal pick from 2026-10-29 00:04 | request from 2026-10-28 08:04
+WAIT GoGo Penguin — Raven | last aired 2026-10-27 12:05 | normal pick from 2026-10-29 00:05 | request from 2026-10-28 08:05
 WAIT Golden Earring — Radar Love | last aired 2026-10-26 10:59 | normal pick from 2026-10-27 22:59 | request now
 OK   Goldmund — Threnody | last aired 2026-10-23 06:51 | normal pick now | request now
 OK   Gonzales — Gogol | last aired 2026-10-22 21:27 | normal pick now | request now
 OK   Gordon Lightfoot — Wherefore and Why (LP Version) | last aired 2026-10-20 14:33 | normal pick now | request now
 OK   Gorillaz — Damascus (feat. Omar Souleyman and Yasiin Bey) | last aired 2026-10-22 20:09 | normal pick now | request now
-WAIT Gorillaz — Empire Ants (feat. Little Dragon) | last aired 2026-10-27 12:39 | normal pick from 2026-10-29 00:39 | request from 2026-10-28 08:39
+WAIT Gorillaz — Empire Ants (feat. Little Dragon) | last aired 2026-10-27 12:39 | normal pick from 2026-10-29 12:39 | request from 2026-10-29 12:39
 OK   Gorillaz — Hong Kong | last aired 2026-10-22 03:44 | normal pick now | request now
 OK   Gorillaz — Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar) | last aired 2026-10-21 18:38 | normal pick now | request now
 OK   Gorillaz — Pac-Man (feat. ScHoolboy Q) | last aired 2026-10-22 00:14 | normal pick now | request now

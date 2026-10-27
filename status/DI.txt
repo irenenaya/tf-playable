@@ -1,15 +1,15 @@
-Track status, artists filed under DI (built Tue Oct 27, 7:05 AM PDT (14:05 UTC)). Times in UTC.
+Track status, artists filed under DI (built Tue Oct 27, 8:05 AM PDT (15:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Diana Krall — How Deep Is The Ocean | last aired 2026-10-26 21:05 | normal pick from 2026-10-28 09:05 | request from 2026-10-27 17:05
 OK   Diana Ross — I'm Coming Out | last aired 2026-10-23 19:55 | normal pick now | request now
-WAIT Diana Ross — Muscles | last aired 2026-10-25 14:43 | normal pick from 2026-10-27 14:43 | request from 2026-10-27 14:43
+OK   Diana Ross — Muscles | last aired 2026-10-25 14:43 | normal pick now | request now
 OK   Die Fantastischen Vier — MfG - Mit freundlichen Grüßen  (2022) | last aired 2026-10-22 20:20 | normal pick now | request now
 OK   DIIV — Doused | last aired 2026-10-25 00:12 | normal pick now | request now
 OK   Dire Straits — Brothers in Arms | last aired 2026-10-23 04:34 | normal pick now | request now
 OK   Dire Straits — Money for Nothing | last aired 2026-10-24 13:06 | normal pick now | request now
-WAIT Dire Straits — Sultans of Swing | last aired 2026-10-26 02:10 | normal pick from 2026-10-27 14:10 | request now
-WAIT Dire Straits — Sultans Of Swing | last aired 2026-10-26 02:10 | normal pick from 2026-10-27 14:10 | request now
+OK   Dire Straits — Sultans of Swing | last aired 2026-10-26 02:10 | normal pick now | request now
+OK   Dire Straits — Sultans Of Swing | last aired 2026-10-26 02:10 | normal pick now | request now
 OK   Dire Straits — Your Latest Trick | last aired 2026-10-20 16:43 | normal pick now | request now
 OK   Disclosure — Help Me Lose My Mind | last aired 2026-10-22 00:10 | normal pick now | request now
 WAIT Disturbed — Won't Back Down | last aired 2026-10-26 14:26 | normal pick from 2026-10-28 02:26 | request now
