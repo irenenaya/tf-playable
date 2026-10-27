@@ -1,11 +1,11 @@
-Track status, song titles filed under CH (built Mon Oct 26, 6:05 PM PDT (01:05 UTC Tue)). Times in UTC.
+Track status, song titles filed under CH (built Mon Oct 26, 7:05 PM PDT (02:05 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Cha Cha Cha — Käärijä | last aired 2026-10-25 20:24 | normal pick from 2026-10-27 20:24 | request from 2026-10-27 20:24
 OK   Chaiyya Chaiyya — Sukhwinder Singh | last aired 2026-10-22 10:14 | normal pick now | request now
 OK   Chamber Of Reflection — Mac DeMarco | last aired 2026-10-22 09:10 | normal pick now | request now
 OK   Chameleon — Herbie Hancock | last aired 2026-10-21 20:47 | normal pick now | request now
-WAIT Chan Chan — Buena Vista Social Club | last aired 2026-10-26 23:13 | normal pick from 2026-10-28 23:13 | request from 2026-10-28 23:13
+WAIT Chan Chan — Buena Vista Social Club | last aired 2026-10-26 23:14 | normal pick from 2026-10-28 23:14 | request from 2026-10-28 23:14
 WAIT Chances — Joel Pott | last aired 2026-10-26 11:28 | normal pick from 2026-10-27 23:28 | request from 2026-10-27 07:28
 OK   Change (In the House of Flies) — Deftones | last aired 2026-10-19 23:30 | normal pick now | request now
 OK   Change the World — Eric Clapton | last aired 2026-10-22 23:50 | normal pick now | request now
@@ -14,7 +14,7 @@ OK   Chega de Saudade — João Gilberto | last aired 2026-10-23 12:37 | normal 
 WAIT Chemical — Post Malone | last aired 2026-10-25 20:42 | normal pick from 2026-10-27 08:42 | request now
 OK   Cherish the Day  (Remastered Version) — Sade | last aired 2026-10-22 05:18 | normal pick now | request now
 OK   Cherry Twist — The Crystal Method | last aired 2026-10-24 12:09 | normal pick now | request now
-OK   Cherry Waves — Deftones | last aired 2026-10-23 11:45 | normal pick now | request now
+WAIT Cherry Waves — Deftones | last aired 2026-10-27 01:04 | normal pick from 2026-10-28 13:04 | request from 2026-10-27 21:04
 OK   Cherry Wine  (Live) — Hozier | last aired 2026-10-21 19:38 | normal pick now | request now
 OK   Cherry-coloured Funk — Cocteau Twins | last aired 2026-10-22 09:27 | normal pick now | request now
 OK   Chewbaca — Supernova | last aired 2026-10-06 14:30 | normal pick now | request now

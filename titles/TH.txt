@@ -1,9 +1,9 @@
-Track status, song titles filed under TH (built Mon Oct 26, 6:05 PM PDT (01:05 UTC Tue)). Times in UTC.
+Track status, song titles filed under TH (built Mon Oct 26, 7:05 PM PDT (02:05 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   (They Long To Be) Close To You — The Carpenters | last aired 2026-10-22 18:54 | normal pick now | request now
-WAIT Thank you — Alabama 3 | last aired 2026-10-26 22:52 | normal pick from 2026-10-28 10:52 | request from 2026-10-27 18:52
-WAIT thanks, my day is ruined — Alex Andre | last aired 2026-10-25 13:48 | normal pick from 2026-10-27 01:48 | request now
+WAIT Thank you — Alabama 3 | last aired 2026-10-26 22:53 | normal pick from 2026-10-28 10:53 | request from 2026-10-27 18:53
+OK   thanks, my day is ruined — Alex Andre | last aired 2026-10-25 13:48 | normal pick now | request now
 OK   That Acid — Marie Vaunt | last aired 2026-10-13 11:14 | normal pick now | request now
 WAIT That's All for Everyone — Fleetwood Mac | last aired 2026-10-26 19:26 | normal pick from 2026-10-28 07:26 | request from 2026-10-27 15:26
 OK   The Thieves of Imai — Filippo Beck Peccoz | last aired 2026-10-18 01:47 | normal pick now | request now
@@ -13,7 +13,7 @@ OK   Theme From Harry's Game — Clannad | last aired 2026-10-23 05:18 | normal 
 WAIT Theme From Superman  (Concert Version) — John Williams | last aired 2026-10-26 10:06 | normal pick from 2026-10-27 22:06 | request from 2026-10-27 06:06
 OK   There She Goes — The La's | last aired 2026-10-20 01:55 | normal pick now | request now
 OK   They Took My Love Away — Djivan Gasparyan | last aired 2026-10-09 03:21 | normal pick now | request now
-OK   Thick Skull — Paramore | last aired 2026-10-23 16:08 | normal pick now | request now
+WAIT Thick Skull — Paramore | last aired 2026-10-27 01:29 | normal pick from 2026-10-28 13:29 | request from 2026-10-27 21:29
 WAIT This Boy (Remastered) — The Beatles | last aired 2026-10-25 22:25 | normal pick from 2026-10-27 10:25 | request now
 OK   This Foolish Heart Could Love You — Melody Gardot | last aired 2026-10-21 22:21 | normal pick now | request now
 WAIT This Is It — Kenny Loggins | last aired 2026-10-26 15:47 | normal pick from 2026-10-28 03:47 | request from 2026-10-27 11:47

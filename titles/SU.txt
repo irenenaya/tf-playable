@@ -1,11 +1,11 @@
-Track status, song titles filed under SU (built Mon Oct 26, 6:05 PM PDT (01:05 UTC Tue)). Times in UTC.
+Track status, song titles filed under SU (built Mon Oct 26, 7:05 PM PDT (02:05 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Subterraneans  (2017 Remaster) — David Bowie | last aired 2026-10-25 07:09 | normal pick now | request now
 OK   Such a Shame  (1997 Remaster) — Talk Talk | last aired 2026-10-23 20:01 | normal pick now | request now
 OK   Such Great Heights (Remastered) — The Postal Service | last aired 2026-10-23 00:43 | normal pick now | request now
 WAIT Such Great Heights — Iron & Wine | last aired 2026-10-25 11:50 | normal pick from 2026-10-27 11:50 | request from 2026-10-27 11:50
-WAIT Sugar Water (Album Version) — Cibo Matto | last aired 2026-10-26 21:14 | normal pick from 2026-10-28 09:14 | request from 2026-10-27 17:14
+WAIT Sugar Water (Album Version) — Cibo Matto | last aired 2026-10-26 21:15 | normal pick from 2026-10-28 09:15 | request from 2026-10-27 17:15
 OK   Suite bergamasque, CD 82, L. 75: III. Clair de lune — Simon Trpčeski | last aired 2026-10-21 07:16 | normal pick now | request now
 WAIT Sultans of Swing — Dire Straits | last aired 2026-10-26 02:10 | normal pick from 2026-10-27 14:10 | request now
 WAIT Sultans Of Swing — Dire Straits | last aired 2026-10-26 02:10 | normal pick from 2026-10-27 14:10 | request now
@@ -23,5 +23,5 @@ OK   Sunset Lover — Petit Biscuit | last aired 2026-10-09 07:19 | normal pick 
 OK   Superstar  (The Jason Nevins' Live Peep Show Mix) — Tom Novy | last aired 2026-10-21 03:32 | normal pick now | request now
 OK   Superstition (Album Version) — Stevie Wonder | last aired 2026-10-22 21:40 | normal pick now | request now
 OK   Surprise! You're Dead! — Faith No More | last aired 2026-10-17 05:00 | normal pick now | request now
-WAIT Surrounded by Illusion — Eluvium | last aired 2026-10-25 02:04 | normal pick from 2026-10-27 02:04 | request from 2026-10-27 02:04
+OK   Surrounded by Illusion — Eluvium | last aired 2026-10-25 02:04 | normal pick now | request now
 OK   Suzanne — Leonard Cohen | last aired 2026-10-21 10:12 | normal pick now | request now
