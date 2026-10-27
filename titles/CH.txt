@@ -1,7 +1,7 @@
-Track status, song titles filed under CH (built Tue Oct 27, 1:05 PM PDT (20:05 UTC)). Times in UTC.
+Track status, song titles filed under CH (built Tue Oct 27, 2:05 PM PDT (21:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Cha Cha Cha — Käärijä | last aired 2026-10-25 20:24 | normal pick from 2026-10-27 20:24 | request from 2026-10-27 20:24
+OK   Cha Cha Cha — Käärijä | last aired 2026-10-25 20:24 | normal pick now | request now
 OK   Chaiyya Chaiyya — Sukhwinder Singh | last aired 2026-10-22 10:14 | normal pick now | request now
 WAIT Chamber Of Reflection — Mac DeMarco | last aired 2026-10-27 04:42 | normal pick from 2026-10-29 04:42 | request from 2026-10-29 04:42
 OK   Chameleon — Herbie Hancock | last aired 2026-10-21 20:47 | normal pick now | request now
@@ -14,7 +14,7 @@ OK   Chega de Saudade — João Gilberto | last aired 2026-10-23 12:37 | normal 
 OK   Chemical — Post Malone | last aired 2026-10-25 20:42 | normal pick now | request now
 OK   Cherish the Day  (Remastered Version) — Sade | last aired 2026-10-22 05:18 | normal pick now | request now
 OK   Cherry Twist — The Crystal Method | last aired 2026-10-24 12:09 | normal pick now | request now
-WAIT Cherry Waves — Deftones | last aired 2026-10-27 01:04 | normal pick from 2026-10-28 13:04 | request from 2026-10-27 21:04
+WAIT Cherry Waves — Deftones | last aired 2026-10-27 01:04 | normal pick from 2026-10-28 13:04 | request now
 OK   Cherry Wine  (Live) — Hozier | last aired 2026-10-21 19:38 | normal pick now | request now
 OK   Cherry-coloured Funk — Cocteau Twins | last aired 2026-10-22 09:27 | normal pick now | request now
 OK   Chewbaca — Supernova | last aired 2026-10-06 14:30 | normal pick now | request now
