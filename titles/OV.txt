@@ -1,4 +1,4 @@
-Track status, song titles filed under OV (built Tue Oct 27, 3:05 PM PDT (22:05 UTC)). Times in UTC.
+Track status, song titles filed under OV (built Tue Oct 27, 4:05 PM PDT (23:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Over & Over — Moloko | last aired 2026-10-20 03:29 | normal pick now | request now
@@ -6,4 +6,4 @@ WAIT Over the Hills and Far Away  (Remaster) — Led Zeppelin | last aired 2026-
 OK   Over the Rainbow (Israel Kamakawiwoʻole Cover) — The Leeward Fits | last aired 2026-10-18 00:22 | normal pick now | request now
 OK   Over The Rainbow (Live) — Melody Gardot | last aired 2026-10-25 08:13 | normal pick now | request now
 OK   Overkill — Men At Work | last aired 2026-10-24 21:36 | normal pick now | request now
-WAIT Overnight - from Hansa Studios, Berlin — Parcels | last aired 2026-10-26 10:23 | normal pick from 2026-10-27 22:23 | request now
+OK   Overnight - from Hansa Studios, Berlin — Parcels | last aired 2026-10-26 10:23 | normal pick now | request now

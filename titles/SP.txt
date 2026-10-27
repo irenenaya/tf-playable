@@ -1,7 +1,7 @@
-Track status, song titles filed under SP (built Tue Oct 27, 3:05 PM PDT (22:05 UTC)). Times in UTC.
+Track status, song titles filed under SP (built Tue Oct 27, 4:05 PM PDT (23:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Space Jam — Quad City DJ's | last aired 2026-10-26 10:40 | normal pick from 2026-10-27 22:40 | request now
+OK   Space Jam — Quad City DJ's | last aired 2026-10-26 10:40 | normal pick now | request now
 OK   Space Lion — Seatbelts | last aired 2026-10-18 01:09 | normal pick now | request now
 OK   Space Oddity — David Bowie | last aired 2026-10-25 23:13 | normal pick now | request now
 WAIT Space Song — Beach House | last aired 2026-10-27 11:08 | normal pick from 2026-10-29 11:08 | request from 2026-10-29 11:08

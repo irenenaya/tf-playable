@@ -1,4 +1,4 @@
-Track status, song titles filed under SO (built Tue Oct 27, 3:05 PM PDT (22:05 UTC)). Times in UTC.
+Track status, song titles filed under SO (built Tue Oct 27, 4:05 PM PDT (23:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   So Alive — Love and Rockets | last aired 2026-10-19 22:53 | normal pick now | request now
@@ -19,7 +19,7 @@ OK   Something About Us — Daft Punk | last aired 2026-10-25 08:32 | normal pic
 OK   Sometimes It Snows in April (LP Version) — Prince | last aired 2026-10-14 19:53 | normal pick now | request now
 OK   Somewhere, My Love (Lara's Theme from "Doctor Zhivago") (Album Version) — The Ray Conniff Singers | last aired 2026-10-25 21:37 | normal pick now | request now
 OK   Sonate Pacifique — L'Impératrice | last aired 2026-10-25 06:22 | normal pick now | request now
-OK   Song 2 — Blur | last aired 2026-10-23 15:54 | normal pick now | request now
+WAIT Song 2 — Blur | last aired 2026-10-27 22:29 | normal pick from 2026-10-29 22:29 | request from 2026-10-29 22:29
 OK   Song for Zula — Phosphorescent | last aired 2026-10-24 01:43 | normal pick now | request now
 WAIT Song To The Siren — This Mortal Coil | last aired 2026-10-27 11:13 | normal pick from 2026-10-29 11:13 | request from 2026-10-29 11:13
 OK   Songbird — Kenny G | last aired 2026-10-11 11:23 | normal pick now | request now
