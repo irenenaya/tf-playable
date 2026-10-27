@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Mon Oct 26, 8:05 PM PDT (03:05 UTC Tue)). Times in UTC.
+Track status, artists filed under BE (built Mon Oct 26, 9:05 PM PDT (04:05 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Beach House — Bluebird | last aired 2026-10-11 03:23 | normal pick now | request now
@@ -7,7 +7,7 @@ OK   Beastie Boys — Sabotage | last aired 2026-10-19 22:10 | normal pick now |
 OK   Beatrice Rana — Keyboard Concerto No. 1 in D Minor, BWV 1052: I. Allegro | last aired 2026-10-21 04:56 | normal pick now | request now
 WAIT Beatrice Rana — Libertango (Arr. Yamamoto for Piano 4-Hands) | last aired 2026-10-26 10:49 | normal pick from 2026-10-28 10:49 | request from 2026-10-28 10:49
 OK   Beats by Luca — 52 CHICKEN NUGGET (McRave) | last aired 2026-10-18 11:09 | normal pick now | request now
-OK   Bebel Gilberto — Samba Da Benção | last aired 2026-10-23 18:14 | normal pick now | request now
+WAIT Bebel Gilberto — Samba Da Benção | last aired 2026-10-27 03:04 | normal pick from 2026-10-29 03:04 | request from 2026-10-29 03:04
 OK   Beck — Devils Haircut | last aired 2026-10-23 03:00 | normal pick now | request now
 OK   Beck — Loser | last aired 2026-10-22 03:20 | normal pick now | request now
 WAIT Beck — The New Pollution | last aired 2026-10-26 19:03 | normal pick from 2026-10-28 07:03 | request from 2026-10-27 15:03
@@ -26,7 +26,7 @@ WAIT Benjamin Francis Leftwich — Ticket To Ride | last aired 2026-10-27 02:54 
 WAIT Benny Goodman — Sing Sing Sing (With A Swing) (live) | last aired 2026-10-26 17:04 | normal pick from 2026-10-28 05:04 | request from 2026-10-27 13:04
 OK   Benny Sings — Rolled Up | last aired 2026-10-24 16:16 | normal pick now | request now
 WAIT Benny Sings — Sailing | last aired 2026-10-26 20:28 | normal pick from 2026-10-28 20:28 | request from 2026-10-28 20:28
-WAIT Benson Boone — Beautiful Things | last aired 2026-10-25 15:50 | normal pick from 2026-10-27 03:50 | request now
+OK   Benson Boone — Beautiful Things | last aired 2026-10-25 15:50 | normal pick now | request now
 WAIT Berlin — Take My Breath Away | last aired 2026-10-26 21:23 | normal pick from 2026-10-28 21:23 | request from 2026-10-28 21:23
 OK   Bernard Purdie — Cool Down | last aired 2026-10-24 21:29 | normal pick now | request now
 OK   Bert Kaempfert — A Swingin' Safari | last aired 2026-10-17 23:48 | normal pick now | request now
