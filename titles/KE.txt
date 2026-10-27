@@ -1,10 +1,10 @@
-Track status, song titles filed under KE (built Mon Oct 26, 7:05 PM PDT (02:05 UTC Tue)). Times in UTC.
+Track status, song titles filed under KE (built Mon Oct 26, 8:05 PM PDT (03:05 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Kedvesem  (Original) — ByeAlex | last aired 2026-10-24 21:44 | normal pick now | request now
 OK   Keelhauled — Alestorm | last aired 2026-10-03 06:59 | normal pick now | request now
 OK   Keep It Healthy — Warpaint | last aired 2026-10-24 11:19 | normal pick now | request now
-OK   Keep Moving — Jungle | last aired 2026-10-23 23:16 | normal pick now | request now
+WAIT Keep Moving — Jungle | last aired 2026-10-27 02:34 | normal pick from 2026-10-29 02:34 | request from 2026-10-29 02:34
 OK   Keine Party (Single Edit) — Deichkind | last aired 2026-10-23 12:12 | normal pick now | request now
 OK   Kesärenkaat — Robin Packalen | last aired 2026-10-14 02:22 | normal pick now | request now
 OK   Keyboard Concerto No. 1 in D Minor, BWV 1052: I. Allegro — Beatrice Rana | last aired 2026-10-21 04:56 | normal pick now | request now
