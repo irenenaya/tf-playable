@@ -1,4 +1,4 @@
-Track status, song titles filed under ST (built Tue Oct 27, 11:05 AM PDT (18:05 UTC)). Times in UTC.
+Track status, song titles filed under ST (built Tue Oct 27, 12:05 PM PDT (19:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   S.T.A.Y. — Hans Zimmer | last aired 2026-10-24 02:46 | normal pick now | request now
@@ -9,14 +9,14 @@ WAIT Stand By Me — Ben E. King | last aired 2026-10-26 04:15 | normal pick fro
 OK   Stand By Your Man (Album Version) — Tammy Wynette | last aired 2026-10-20 19:58 | normal pick now | request now
 OK   Star Fruit Surf Rider (Damon Albarn Remix) — Cornelius | last aired 2026-10-24 23:47 | normal pick now | request now
 OK   Starboy — The Weeknd | last aired 2026-10-21 02:09 | normal pick now | request now
-WAIT Stardust — Bobby Hutcherson | last aired 2026-10-26 03:52 | normal pick from 2026-10-28 03:52 | request from 2026-10-28 03:52
+OK   Stardust — Bobby Hutcherson | last aired 2026-10-26 03:52 | normal pick now | request now
 OK   Starman  (2012 Remaster) — David Bowie | last aired 2026-10-22 21:36 | normal pick now | request now
 OK   Starry Night — Peggy Gou | last aired 2026-10-07 15:13 | normal pick now | request now
 OK   Start Shootin' — Little People | last aired 2026-10-24 17:40 | normal pick now | request now
 OK   Starálfur — Sigur Rós | last aired 2026-10-21 21:59 | normal pick now | request now
 OK   Static on the Radio — Jim White | last aired 2026-10-25 22:41 | normal pick now | request now
 WAIT Stay — Shakespears Sister | last aired 2026-10-26 07:35 | normal pick from 2026-10-27 19:35 | request now
-WAIT Steal Away — Robbie Dupree | last aired 2026-10-26 22:29 | normal pick from 2026-10-28 10:29 | request from 2026-10-27 18:29
+WAIT Steal Away — Robbie Dupree | last aired 2026-10-26 22:29 | normal pick from 2026-10-28 10:29 | request now
 OK   Steep Hills of Vicodin Tears — A Winged Victory For The Sullen | last aired 2026-10-24 01:59 | normal pick now | request now
 OK   Steppe — René Aubry | last aired 2026-10-13 08:22 | normal pick now | request now
 OK   Stick Season — Noah Kahan | last aired 2026-10-15 03:23 | normal pick now | request now
@@ -24,6 +24,7 @@ OK   Still Life (2015 Remaster) — Iron Maiden | last aired 2026-10-25 16:43 | 
 OK   Still Loving You (2011 Version) — Scorpions | last aired 2026-10-22 11:21 | normal pick now | request now
 OK   Still Of The Night (2018 Remaster) — Whitesnake | last aired 2026-10-06 13:24 | normal pick now | request now
 OK   Still Of The Night (Live In Tokyo, Japan / 1993) — Blue Murder | last aired 2026-09-22 16:01 | normal pick now | request now
+WAIT Stop Googling Me ! — Bart&Baker | last aired 2026-10-27 16:34 | normal pick from 2026-10-29 04:34 | request from 2026-10-28 12:34
 OK   Straight Outta Vagina (feat. Desi Mo & Leikeli47) — Pussy Riot | last aired 2026-09-15 09:55 | normal pick now | request now
 OK   Straight Up (Single Version) — Paula Abdul | last aired 2026-10-24 16:25 | normal pick now | request now
 OK   Strange — Patsy Cline | last aired 2026-10-23 04:15 | normal pick now | request now
@@ -33,7 +34,7 @@ OK   Stratosfear (Digital Remastered) — Tangerine Dream | last aired 2026-10-2
 OK   Strawberry Fields Forever — The Beatles | last aired 2026-10-25 14:15 | normal pick now | request now
 OK   Strawberry Letter 23 (Album Version) — The Brothers Johnson | last aired 2026-10-24 12:20 | normal pick now | request now
 OK   Street Fighting Man — The Rolling Stones | last aired 2026-10-24 13:40 | normal pick now | request now
-WAIT Street Lights — Josh Rouse | last aired 2026-10-27 17:55 | normal pick from 2026-10-29 05:55 | request from 2026-10-28 13:55
+WAIT Street Lights — Josh Rouse | last aired 2026-10-27 17:56 | normal pick from 2026-10-29 05:56 | request from 2026-10-28 13:56
 OK   Streets of Philadelphia  (Single Edit) — Bruce Springsteen | last aired 2026-10-22 18:40 | normal pick now | request now
 WAIT Stressed Out — twenty one pilots | last aired 2026-10-26 12:18 | normal pick from 2026-10-28 00:18 | request now
 OK   Strings of Light — Yussef Kamaal | last aired 2026-10-23 17:23 | normal pick now | request now
