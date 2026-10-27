@@ -1,4 +1,4 @@
-Track status, artists filed under MI (built Mon Oct 26, 11:05 PM PDT (06:05 UTC Tue)). Times in UTC.
+Track status, artists filed under MI (built Tue Oct 27, 12:05 AM PDT (07:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Mica Levi — Love | last aired 2026-10-26 05:56 | normal pick from 2026-10-27 17:56 | request now
@@ -13,7 +13,7 @@ OK   Michael Jackson — Rock with You (Single Version) | last aired 2026-10-23 
 OK   Michael Jackson — Stranger in Moscow | last aired 2026-10-14 13:09 | normal pick now | request now
 OK   Michael Jackson — Thriller | last aired 2026-10-19 15:45 | normal pick now | request now
 OK   Michael Jackson — Who Is It | last aired 2026-10-06 12:08 | normal pick now | request now
-WAIT Michael Jackson — You Are Not Alone | last aired 2026-10-26 10:10 | normal pick from 2026-10-27 22:10 | request from 2026-10-27 06:10
+WAIT Michael Jackson — You Are Not Alone | last aired 2026-10-26 10:10 | normal pick from 2026-10-27 22:10 | request now
 WAIT Michael McDonald — I Keep Forgettin' (Every Time You're Near) | last aired 2026-10-26 22:21 | normal pick from 2026-10-28 22:21 | request from 2026-10-28 22:21
 OK   MIKA — Grace Kelly | last aired 2026-10-24 21:57 | normal pick now | request now
 OK   Mike Marshall — Big Country (Instrumental) | last aired 2026-10-15 16:34 | normal pick now | request now
@@ -24,7 +24,7 @@ OK   Miles Davis — Flamenco Sketches | last aired 2026-10-22 12:31 | normal pi
 OK   Miles Davis — So What | last aired 2026-10-23 12:46 | normal pick now | request now
 OK   Miley Cyrus — Flowers | last aired 2026-10-23 19:34 | normal pick now | request now
 OK   Miley Cyrus — Party In The U.S.A. | last aired 2026-10-24 21:54 | normal pick now | request now
-OK   Milt Jackson — Bag's New Groove | last aired 2026-10-24 08:51 | normal pick now | request now
+WAIT Milt Jackson — Bag's New Groove | last aired 2026-10-27 06:23 | normal pick from 2026-10-28 18:23 | request from 2026-10-28 02:23
 OK   Milton Nascimento — Bridges (Travessia) | last aired 2026-10-22 13:46 | normal pick now | request now
 WAIT Minako Yoshida — I'll Teach You All About Love | last aired 2026-10-25 15:21 | normal pick from 2026-10-27 15:21 | request from 2026-10-27 15:21
 WAIT Ministry — Just One Fix (Album Version) | last aired 2026-10-26 00:15 | normal pick from 2026-10-27 12:15 | request now

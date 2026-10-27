@@ -1,4 +1,4 @@
-Track status, artists filed under LI (built Mon Oct 26, 11:05 PM PDT (06:05 UTC Tue)). Times in UTC.
+Track status, artists filed under LI (built Tue Oct 27, 12:05 AM PDT (07:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   L'Impératrice — Sonate Pacifique | last aired 2026-10-25 06:22 | normal pick now | request now
@@ -10,7 +10,7 @@ WAIT Limp Bizkit — Rollin' (Air Raid Vehicle) | last aired 2026-10-27 03:54 | 
 WAIT Lindsey Buckingham — Trouble | last aired 2026-10-27 05:05 | normal pick from 2026-10-28 17:05 | request from 2026-10-28 01:05
 WAIT Linkin Park — In the End | last aired 2026-10-27 04:06 | normal pick from 2026-10-28 16:06 | request from 2026-10-28 00:06
 OK   Linkin Park — Numb | last aired 2026-10-22 21:29 | normal pick now | request now
-OK   Lionel Richie — You Are | last aired 2026-10-23 20:43 | normal pick now | request now
+WAIT Lionel Richie — You Are | last aired 2026-10-27 06:47 | normal pick from 2026-10-28 18:47 | request from 2026-10-28 02:47
 OK   Lisa Gerrard — Sanvean - I Am Your Shadow | last aired 2026-10-22 02:01 | normal pick now | request now
 OK   Lisa Gerrard — Until We Meet Again | last aired 2026-10-22 19:46 | normal pick now | request now
 WAIT Lita Ford & Ozzy Osborne — Close My Eyes Forever | last aired 2026-10-26 02:44 | normal pick from 2026-10-27 14:44 | request now
