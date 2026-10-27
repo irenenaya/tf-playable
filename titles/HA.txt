@@ -1,4 +1,4 @@
-Track status, song titles filed under HA (built Tue Oct 27, 12:05 AM PDT (07:05 UTC)). Times in UTC.
+Track status, song titles filed under HA (built Tue Oct 27, 1:05 AM PDT (08:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Halah — Mazzy Star | last aired 2026-10-24 00:07 | normal pick now | request now
@@ -10,7 +10,7 @@ OK   Halloween Theme — John Carpenter | last aired 2026-10-13 02:49 | normal p
 OK   Halo Theme Mjolnir Mix — Halo | last aired 2026-09-21 03:04 | normal pick now | request now
 WAIT Hang on Sloopy — The McCoys | last aired 2026-10-26 12:06 | normal pick from 2026-10-28 00:06 | request from 2026-10-27 08:06
 OK   Happy Birthday — Stevie Wonder | last aired 2026-09-29 18:47 | normal pick now | request now
-WAIT Hard Rock Hallelujah — Lordi | last aired 2026-10-25 20:02 | normal pick from 2026-10-27 08:02 | request now
+OK   Hard Rock Hallelujah — Lordi | last aired 2026-10-25 20:02 | normal pick now | request now
 OK   Hard Times — The Jetzons | last aired 2026-10-23 16:35 | normal pick now | request now
 OK   Hard to Say I'M Sorry / Get Away — Chicago | last aired 2026-10-24 20:27 | normal pick now | request now
 OK   Hardcore Vibes — Dúné | last aired 2026-10-24 19:37 | normal pick now | request now
@@ -19,7 +19,7 @@ OK   Hardline — Julien Baker | last aired 2026-10-25 06:18 | normal pick now |
 OK   Harmony in Blue I — Tim Hecker | last aired 2026-10-22 01:05 | normal pick now | request now
 OK   Haru No Iutoori — indigo la End | last aired 2026-10-23 22:07 | normal pick now | request now
 WAIT Harvest Moon (Album Version) — Neil Young | last aired 2026-10-26 08:17 | normal pick from 2026-10-28 08:17 | request from 2026-10-28 08:17
-WAIT Hate Yourself — TV Girl | last aired 2026-10-25 19:56 | normal pick from 2026-10-27 07:56 | request now
+OK   Hate Yourself — TV Girl | last aired 2026-10-25 19:56 | normal pick now | request now
 OK   Haunted When the Minutes Drag — Love and Rockets | last aired 2026-10-23 11:33 | normal pick now | request now
 WAIT Haus am See — Peter Fox | last aired 2026-10-26 09:59 | normal pick from 2026-10-28 09:59 | request from 2026-10-28 09:59
 WAIT Have a Cigar — Pink Floyd | last aired 2026-10-26 01:08 | normal pick from 2026-10-27 13:08 | request now
