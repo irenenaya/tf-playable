@@ -1,7 +1,7 @@
-Track status, artists filed under EL (built Mon Oct 26, 9:05 PM PDT (04:05 UTC Tue)). Times in UTC.
+Track status, artists filed under EL (built Mon Oct 26, 10:05 PM PDT (05:05 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Electric Light Orchestra — Evil Woman | last aired 2026-10-26 09:05 | normal pick from 2026-10-27 21:05 | request from 2026-10-27 05:05
+WAIT Electric Light Orchestra — Evil Woman | last aired 2026-10-26 09:05 | normal pick from 2026-10-27 21:05 | request now
 WAIT Electric Light Orchestra — Mr. Blue Sky | last aired 2026-10-26 22:57 | normal pick from 2026-10-28 22:57 | request from 2026-10-28 22:57
 WAIT Electric Light Orchestra — Yours Truly, 2095 | last aired 2026-10-25 20:11 | normal pick from 2026-10-27 08:11 | request now
 OK   Elis Regina — Águas De Marco | last aired 2026-10-22 05:42 | normal pick now | request now
@@ -12,7 +12,7 @@ OK   Elliott Smith — Angeles | last aired 2026-10-23 12:07 | normal pick now |
 WAIT Elliott Smith — Independence Day | last aired 2026-10-26 11:47 | normal pick from 2026-10-27 23:47 | request from 2026-10-27 07:47
 OK   Elton John — Rocket Man (I Think It's Going To Be A Long, Long Time) | last aired 2026-10-23 03:56 | normal pick now | request now
 OK   Eluvium — Indoor Swimming At The Space Station | last aired 2026-10-22 01:07 | normal pick now | request now
-OK   Eluvium — Surrounded by Illusion | last aired 2026-10-25 02:04 | normal pick now | request now
+WAIT Eluvium — Surrounded by Illusion | last aired 2026-10-27 04:53 | normal pick from 2026-10-29 04:53 | request from 2026-10-29 04:53
 OK   Eluvium — Taken | last aired 2026-10-21 11:43 | normal pick now | request now
 WAIT Elvis Costello — Almost Blue | last aired 2026-10-25 20:27 | normal pick from 2026-10-27 08:27 | request now
 OK   Elvis Costello — Watching The Detectives (Single Version) | last aired 2026-10-20 12:26 | normal pick now | request now
