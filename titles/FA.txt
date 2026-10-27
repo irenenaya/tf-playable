@@ -1,8 +1,8 @@
-Track status, song titles filed under FA (built Tue Oct 27, 3:05 AM PDT (10:05 UTC)). Times in UTC.
+Track status, song titles filed under FA (built Tue Oct 27, 4:05 AM PDT (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Face to Face — Daft Punk | last aired 2026-10-22 20:54 | normal pick now | request now
-WAIT Facing East — Thievery Corporation | last aired 2026-10-27 07:48 | normal pick from 2026-10-28 19:48 | request from 2026-10-28 03:48
+WAIT Facing East — Thievery Corporation | last aired 2026-10-27 07:49 | normal pick from 2026-10-28 19:49 | request from 2026-10-28 03:49
 OK   Fade Into You — Mazzy Star | last aired 2026-10-21 08:06 | normal pick now | request now
 WAIT Fade To Grey — Visage | last aired 2026-10-25 13:36 | normal pick from 2026-10-27 13:36 | request from 2026-10-27 13:36
 WAIT Fado Vadio (Má Fama) — Ana Sofia Varela | last aired 2026-10-26 08:07 | normal pick from 2026-10-27 20:07 | request now
@@ -11,9 +11,9 @@ WAIT Fairytale — Alexander Rybak | last aired 2026-10-26 12:21 | normal pick f
 OK   Fait Accompli — Curve | last aired 2026-10-24 07:22 | normal pick now | request now
 OK   Fake Tales Of San Francisco — Arctic Monkeys | last aired 2026-10-22 11:02 | normal pick now | request now
 OK   Fallen (Album Mix) — Sarah McLachlan | last aired 2026-10-24 01:49 | normal pick now | request now
-WAIT Fallen Star — Djivan Gasparyan | last aired 2026-10-25 10:44 | normal pick from 2026-10-27 10:44 | request from 2026-10-27 10:44
+OK   Fallen Star — Djivan Gasparyan | last aired 2026-10-25 10:44 | normal pick now | request now
 OK   Fallin' (Album Version) — Alicia Keys | last aired 2026-10-25 00:09 | normal pick now | request now
-OK   Falling Slowly (Album Version) — Glen Hansard and Marketa Irglova | last aired 2026-10-19 01:35 | normal pick now | request now
+WAIT Falling Slowly (Album Version) — Glen Hansard and Marketa Irglova | last aired 2026-10-27 10:58 | normal pick from 2026-10-29 10:58 | request from 2026-10-29 10:58
 OK   Familiar — Nils Frahm | last aired 2026-10-21 05:13 | normal pick now | request now
 OK   Family Portrait — P!nk | last aired 2026-10-14 13:43 | normal pick now | request now
 OK   Famous Blue Raincoat — Leonard Cohen | last aired 2026-10-21 14:49 | normal pick now | request now
@@ -21,7 +21,7 @@ OK   Fancy — Reba McEntire | last aired 2026-10-24 18:48 | normal pick now | r
 WAIT Fantas — Caterina Barbieri | last aired 2026-10-26 07:07 | normal pick from 2026-10-27 19:07 | request now
 OK   Fantasiestücke, Op. 73 - Schumann: Fantasiestücke, Op. 73: No. 1, Zart und mit Ausdruck — Sol Gabetta | last aired 2026-10-23 01:33 | normal pick now | request now
 WAIT Fast Car  (2015 Remaster) — Tracy Chapman | last aired 2026-10-26 12:24 | normal pick from 2026-10-28 12:24 | request from 2026-10-28 12:24
-WAIT Fast Car (LP Version) — Tracy Chapman | last aired 2026-10-27 08:45 | normal pick from 2026-10-28 20:45 | request from 2026-10-28 04:45
+WAIT Fast Car (LP Version) — Tracy Chapman | last aired 2026-10-27 08:46 | normal pick from 2026-10-28 20:46 | request from 2026-10-28 04:46
 OK   Faster — Matt Nathanson | last aired 2026-10-21 14:38 | normal pick now | request now
 OK   Fatti avanti amore (feat. Jovanotti)  (5030 version) — Nek | last aired 2026-10-25 03:04 | normal pick now | request now
 OK   The Fairy Feller's Master-Stroke (2026 Mix) — Queen | last aired 2026-10-20 19:17 | normal pick now | request now

@@ -1,4 +1,4 @@
-Track status, song titles filed under HA (built Tue Oct 27, 3:05 AM PDT (10:05 UTC)). Times in UTC.
+Track status, song titles filed under HA (built Tue Oct 27, 4:05 AM PDT (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Halah — Mazzy Star | last aired 2026-10-24 00:07 | normal pick now | request now
@@ -17,9 +17,9 @@ OK   Hardcore Vibes — Dúné | last aired 2026-10-24 19:37 | normal pick now |
 OK   Harder, Better, Faster, Stronger — Daft Punk | last aired 2026-10-22 00:31 | normal pick now | request now
 OK   Hardline — Julien Baker | last aired 2026-10-25 06:18 | normal pick now | request now
 OK   Harmony in Blue I — Tim Hecker | last aired 2026-10-22 01:05 | normal pick now | request now
-WAIT Haru No Iutoori — indigo la End | last aired 2026-10-27 09:11 | normal pick from 2026-10-29 09:11 | request from 2026-10-29 09:11
+WAIT Haru No Iutoori — indigo la End | last aired 2026-10-27 09:12 | normal pick from 2026-10-29 09:12 | request from 2026-10-29 09:12
 WAIT Harvest Moon (Album Version) — Neil Young | last aired 2026-10-26 08:17 | normal pick from 2026-10-28 08:17 | request from 2026-10-28 08:17
-WAIT Hate Yourself — TV Girl | last aired 2026-10-27 09:59 | normal pick from 2026-10-28 21:59 | request from 2026-10-28 05:59
+WAIT Hate Yourself — TV Girl | last aired 2026-10-27 10:00 | normal pick from 2026-10-28 22:00 | request from 2026-10-28 06:00
 OK   Haunted When the Minutes Drag — Love and Rockets | last aired 2026-10-23 11:33 | normal pick now | request now
 WAIT Haus am See — Peter Fox | last aired 2026-10-26 09:59 | normal pick from 2026-10-28 09:59 | request from 2026-10-28 09:59
 WAIT Have a Cigar — Pink Floyd | last aired 2026-10-26 01:08 | normal pick from 2026-10-27 13:08 | request now

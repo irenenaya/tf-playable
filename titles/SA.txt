@@ -1,14 +1,14 @@
-Track status, song titles filed under SA (built Tue Oct 27, 3:05 AM PDT (10:05 UTC)). Times in UTC.
+Track status, song titles filed under SA (built Tue Oct 27, 4:05 AM PDT (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Sabotage — Beastie Boys | last aired 2026-10-19 22:10 | normal pick now | request now
 OK   Sad Eyed Lady Of The Low Life — Alabama 3 | last aired 2026-10-25 00:38 | normal pick now | request now
 WAIT Sad Robot — Pornophonique | last aired 2026-10-26 22:12 | normal pick from 2026-10-28 10:12 | request from 2026-10-27 18:12
 WAIT Sailing — Benny Sings | last aired 2026-10-26 20:28 | normal pick from 2026-10-28 20:28 | request from 2026-10-28 20:28
-WAIT Sailing — Christopher Cross | last aired 2026-10-27 09:15 | normal pick from 2026-10-28 21:15 | request from 2026-10-28 05:15
+WAIT Sailing — Christopher Cross | last aired 2026-10-27 09:16 | normal pick from 2026-10-28 21:16 | request from 2026-10-28 05:16
 OK   Sailor Song — Gigi Perez | last aired 2026-10-24 09:36 | normal pick now | request now
-WAIT Saku — Susumu Yokota | last aired 2026-10-27 07:25 | normal pick from 2026-10-28 19:25 | request from 2026-10-28 03:25
-OK   Salomila  (Live) — Ledward Kaapana | last aired 2026-10-24 18:45 | normal pick now | request now
+WAIT Saku — Susumu Yokota | last aired 2026-10-27 07:26 | normal pick from 2026-10-28 19:26 | request from 2026-10-28 03:26
+WAIT Salomila  (Live) — Ledward Kaapana | last aired 2026-10-27 10:31 | normal pick from 2026-10-28 22:31 | request from 2026-10-28 06:31
 WAIT Saltwater — Geowulf | last aired 2026-10-26 20:39 | normal pick from 2026-10-28 08:39 | request from 2026-10-27 16:39
 OK   Salvatore — Lana Del Rey | last aired 2026-10-21 21:37 | normal pick now | request now
 WAIT saman — Ólafur Arnalds | last aired 2026-10-25 18:02 | normal pick from 2026-10-27 18:02 | request from 2026-10-27 18:02
@@ -20,7 +20,7 @@ WAIT Santa María (del Buen Ayre) — Gotan Project | last aired 2026-10-25 19:3
 OK   Sanvean - I Am Your Shadow — Lisa Gerrard | last aired 2026-10-22 02:01 | normal pick now | request now
 OK   Sara — Fleetwood Mac | last aired 2026-10-23 03:04 | normal pick now | request now
 OK   Sarà perché ti amo — Ricchi E Poveri | last aired 2026-10-21 18:35 | normal pick now | request now
-WAIT Sastanàqqàm — Tinariwen | last aired 2026-10-25 10:41 | normal pick from 2026-10-27 10:41 | request from 2026-10-27 10:41
+OK   Sastanàqqàm — Tinariwen | last aired 2026-10-25 10:41 | normal pick now | request now
 OK   Saturn — Sleeping At Last | last aired 2026-10-23 21:40 | normal pick now | request now
 OK   Saudade — Love and Rockets | last aired 2026-10-23 16:38 | normal pick now | request now
 OK   Save The Children — Marvin Gaye | last aired 2026-10-25 00:21 | normal pick now | request now

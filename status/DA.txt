@@ -1,4 +1,4 @@
-Track status, artists filed under DA (built Tue Oct 27, 3:05 AM PDT (10:05 UTC)). Times in UTC.
+Track status, artists filed under DA (built Tue Oct 27, 4:05 AM PDT (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   D'Angelo — Untitled (How Does It Feel) | last aired 2026-10-24 14:59 | normal pick now | request now
@@ -8,14 +8,14 @@ OK   Daft Punk feat. Julian Casablancas — Instant Crush (feat. Julian Casablan
 OK   Daft Punk — Harder, Better, Faster, Stronger | last aired 2026-10-22 00:31 | normal pick now | request now
 WAIT Daft Punk — One More Time | last aired 2026-10-26 16:33 | normal pick from 2026-10-28 04:33 | request from 2026-10-27 12:33
 OK   Daft Punk — Something About Us | last aired 2026-10-25 08:32 | normal pick now | request now
-WAIT Daft Punk — Touch It / Technologic | last aired 2026-10-25 23:02 | normal pick from 2026-10-27 11:02 | request now
+OK   Daft Punk — Touch It / Technologic | last aired 2026-10-25 23:02 | normal pick now | request now
 OK   Daft Punk — Voyager | last aired 2026-10-22 15:36 | normal pick now | request now
 OK   Dafuniks — The Dance | last aired 2026-10-24 08:15 | normal pick now | request now
 WAIT Daikaiju — Magic Wanda | last aired 2026-10-26 03:11 | normal pick from 2026-10-27 15:11 | request now
 OK   Dalida — Paroles paroles (Album Version) | last aired 2026-10-24 22:33 | normal pick now | request now
 OK   Damien Rice — The Blower's Daughter | last aired 2026-10-22 07:30 | normal pick now | request now
 WAIT Daniel Barenboim — Nocturne n° 2 in E flat, op. 9 n° 2 - Nocturne No. 2 in E-Flat Major, Op. 9 No. 2 | last aired 2026-10-25 18:18 | normal pick from 2026-10-27 18:18 | request from 2026-10-27 18:18
-WAIT Daniel Pemberton — Amaze Amaze Amaze (Life on Erid) (from "Project Hail Mary") | last aired 2026-10-25 22:33 | normal pick from 2026-10-27 10:33 | request now
+OK   Daniel Pemberton — Amaze Amaze Amaze (Life on Erid) (from "Project Hail Mary") | last aired 2026-10-25 22:33 | normal pick now | request now
 OK   Dara — Bangaranga | last aired 2026-10-24 21:47 | normal pick now | request now
 OK   Darude — Sandstorm | last aired 2026-10-24 22:57 | normal pick now | request now
 OK   Daryl Hall & John Oates — I Can't Go For That (No Can Do) (Remastered 2003) | last aired 2026-10-22 09:47 | normal pick now | request now
@@ -35,7 +35,7 @@ WAIT David Bowie — Space Oddity | last aired 2026-10-25 23:13 | normal pick fr
 OK   David Bowie — Starman  (2012 Remaster) | last aired 2026-10-22 21:36 | normal pick now | request now
 OK   David Bowie — Subterraneans  (2017 Remaster) | last aired 2026-10-25 07:09 | normal pick now | request now
 OK   David Bowie — Warszawa  (2017 Remaster) | last aired 2026-10-22 02:08 | normal pick now | request now
-WAIT David Bowie — Wild Is the Wind  (2016 Remaster) | last aired 2026-10-26 14:08 | normal pick from 2026-10-28 02:08 | request from 2026-10-27 10:08
+WAIT David Bowie — Wild Is the Wind  (2016 Remaster) | last aired 2026-10-26 14:08 | normal pick from 2026-10-28 02:08 | request now
 WAIT David Byrne — Everybody's Coming to My House (Live) | last aired 2026-10-26 23:31 | normal pick from 2026-10-28 11:31 | request from 2026-10-27 19:31
 OK   David Soul — Silver Lady | last aired 2026-10-13 15:58 | normal pick now | request now
 WAIT David Sylvian — Darkest Dreaming | last aired 2026-10-26 20:24 | normal pick from 2026-10-28 08:24 | request from 2026-10-27 16:24
