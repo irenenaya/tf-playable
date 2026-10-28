@@ -1,4 +1,4 @@
-Track status, artists filed under SI (built Wed Oct 28, 10:05 AM PDT (17:05 UTC)). Times in UTC.
+Track status, artists filed under SI (built Wed Oct 28, 11:05 AM PDT (18:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Siddhartha — 00:00 | last aired 2026-10-18 14:39 | normal pick now | request now
@@ -10,10 +10,10 @@ OK   Sigur Rós — Untitled #3  (Samskeyti) | last aired 2026-10-25 07:35 | nor
 OK   Silverchair — Ana's Song (Open Fire) | last aired 2026-10-15 19:37 | normal pick now | request now
 WAIT Silverchair — Anthem for the Year 2000 (Album Version) | last aired 2026-10-27 13:57 | normal pick from 2026-10-29 13:57 | request from 2026-10-29 13:57
 OK   Simon & Garfunkel — Scarborough Fair (Live at Central Park, New York, NY - September 19, 1981) | last aired 2026-10-26 12:09 | normal pick now | request now
-WAIT Simon & Garfunkel — The Boxer | last aired 2026-10-26 18:02 | normal pick from 2026-10-28 18:02 | request from 2026-10-28 18:02
+OK   Simon & Garfunkel — The Boxer | last aired 2026-10-26 18:02 | normal pick now | request now
 OK   Simon & Garfunkel — The Sound of Silence  (Acoustic Version) | last aired 2026-10-22 06:20 | normal pick now | request now
 WAIT Simon Trpčeski — Suite bergamasque, CD 82, L. 75: III. Clair de lune | last aired 2026-10-28 02:50 | normal pick from 2026-10-30 02:50 | request from 2026-10-30 02:50
-WAIT Simple Minds — Alive And Kicking (Remastered 2002) | last aired 2026-10-27 21:52 | normal pick from 2026-10-29 09:52 | request from 2026-10-28 17:52
+WAIT Simple Minds — Alive And Kicking (Remastered 2002) | last aired 2026-10-27 21:52 | normal pick from 2026-10-29 09:52 | request now
 OK   Simple Minds — Don't You (Forget About Me) | last aired 2026-10-26 15:17 | normal pick now | request now
 OK   Simple Minds — Someone Somewhere (In Summertime) | last aired 2026-10-11 16:53 | normal pick now | request now
 OK   Sinéad O'Connor — Nothing Compares 2 U (2009 Remaster) | last aired 2026-10-21 21:32 | normal pick now | request now

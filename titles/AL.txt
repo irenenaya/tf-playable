@@ -1,13 +1,13 @@
-Track status, song titles filed under AL (built Wed Oct 28, 10:05 AM PDT (17:05 UTC)). Times in UTC.
+Track status, song titles filed under AL (built Wed Oct 28, 11:05 AM PDT (18:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT A Life (1895 - 1915) — Mark Hollis | last aired 2026-10-28 12:31 | normal pick from 2026-10-30 00:31 | request from 2026-10-29 08:31
 WAIT A Little Lost — Peter Broderick | last aired 2026-10-28 06:11 | normal pick from 2026-10-30 06:11 | request from 2026-10-30 06:11
-WAIT Albatross — Fleetwood Mac | last aired 2026-10-27 21:14 | normal pick from 2026-10-29 09:14 | request from 2026-10-28 17:14
+WAIT Albatross — Fleetwood Mac | last aired 2026-10-27 21:14 | normal pick from 2026-10-29 09:14 | request now
 WAIT Algorithm — Heejin | last aired 2026-10-27 10:56 | normal pick from 2026-10-28 22:56 | request now
 OK   Alien Observer — Grouper | last aired 2026-10-22 07:41 | normal pick now | request now
 WAIT Alison — Slowdive | last aired 2026-10-28 00:38 | normal pick from 2026-10-30 00:38 | request from 2026-10-30 00:38
-WAIT Alive And Kicking (Remastered 2002) — Simple Minds | last aired 2026-10-27 21:52 | normal pick from 2026-10-29 09:52 | request from 2026-10-28 17:52
+WAIT Alive And Kicking (Remastered 2002) — Simple Minds | last aired 2026-10-27 21:52 | normal pick from 2026-10-29 09:52 | request now
 OK   All Along The Watchtower (Live - Rattle & Hum Version) — U2 | last aired 2026-10-21 15:02 | normal pick now | request now
 OK   All I Wanna Do — Sheryl Crow | last aired 2026-10-26 20:02 | normal pick now | request now
 OK   All I Want for Christmas Is You — Mariah Carey | last aired 2026-04-20 09:48 | normal pick now | request now
@@ -16,7 +16,7 @@ OK   All My Little Words — The Magnetic Fields | last aired 2026-10-18 13:10 |
 OK   All Star (Album Version) — Smash Mouth | last aired 2026-10-24 18:00 | normal pick now | request now
 OK   All Summer — YASSiN & Sean Terrio | last aired 2026-10-15 21:52 | normal pick now | request now
 OK   All The Small Things — blink-182 | last aired 2026-10-23 11:09 | normal pick now | request now
-WAIT All The Way — Kat Edmonson | last aired 2026-10-27 21:40 | normal pick from 2026-10-29 09:40 | request from 2026-10-28 17:40
+WAIT All The Way — Kat Edmonson | last aired 2026-10-27 21:40 | normal pick from 2026-10-29 09:40 | request now
 OK   All Through the Night — Cyndi Lauper | last aired 2026-10-14 22:47 | normal pick now | request now
 OK   All We Are — Matt Nathanson | last aired 2026-10-25 04:38 | normal pick now | request now
 OK   Alles neu (Album Version) — Peter Fox | last aired 2026-10-20 19:34 | normal pick now | request now
