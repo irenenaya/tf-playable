@@ -1,4 +1,4 @@
-Track status, song titles filed under BO (built Tue Oct 27, 10:05 PM PDT (05:05 UTC Wed)). Times in UTC.
+Track status, song titles filed under BO (built Tue Oct 27, 11:05 PM PDT (06:05 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Bocca di rosa — Fabrizio De Andrè | last aired 2026-10-25 15:39 | normal pick now | request now
@@ -7,12 +7,12 @@ OK   Bohemian Rhapsody (Remastered 2011) — Queen | last aired 2026-10-21 00:22
 OK   Bohemian Rhapsody — Pellek | last aired 2026-10-26 04:48 | normal pick now | request now
 OK   Boilermaker — Royal Blood | last aired 2026-10-23 16:12 | normal pick now | request now
 WAIT Bonfire — Lamb | last aired 2026-10-27 00:20 | normal pick from 2026-10-28 12:20 | request now
-WAIT Boom Boom — John Lee Hooker | last aired 2026-10-26 17:27 | normal pick from 2026-10-28 05:27 | request now
+OK   Boom Boom — John Lee Hooker | last aired 2026-10-26 17:27 | normal pick now | request now
 OK   Bop to the Top — Ashley Tisdale | last aired 2026-10-19 22:50 | normal pick now | request now
 OK   Born in the U.S.A. — Bruce Springsteen | last aired 2026-10-21 02:58 | normal pick now | request now
 WAIT Born on a Train — The Magnetic Fields | last aired 2026-10-27 11:34 | normal pick from 2026-10-28 23:34 | request from 2026-10-28 07:34
 OK   Born to Run — Bruce Springsteen | last aired 2026-10-22 22:50 | normal pick now | request now
-WAIT Born Under A Bad Sign — Albert King | last aired 2026-10-26 17:24 | normal pick from 2026-10-28 05:24 | request now
+OK   Born Under A Bad Sign — Albert King | last aired 2026-10-26 17:24 | normal pick now | request now
 WAIT Boss Guitar — DJ Cam Quartet | last aired 2026-10-27 13:00 | normal pick from 2026-10-29 01:00 | request from 2026-10-28 09:00
 WAIT The Book of Love — The Magnetic Fields | last aired 2026-10-26 14:05 | normal pick from 2026-10-28 14:05 | request from 2026-10-28 14:05
 WAIT The Boxer — Simon & Garfunkel | last aired 2026-10-26 18:02 | normal pick from 2026-10-28 18:02 | request from 2026-10-28 18:02
