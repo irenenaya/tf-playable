@@ -1,4 +1,4 @@
-Track status, song titles filed under ST (built Wed Oct 28, 5:05 AM PDT (12:05 UTC)). Times in UTC.
+Track status, song titles filed under ST (built Wed Oct 28, 6:05 AM PDT (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT S.T.A.Y. — Hans Zimmer | last aired 2026-10-28 02:27 | normal pick from 2026-10-29 14:27 | request from 2026-10-28 22:27
@@ -7,7 +7,7 @@ OK   Stacy's Mom — Fountains Of Wayne | last aired 2026-10-15 16:38 | normal p
 OK   Stairway to Heaven  (Remaster) — Led Zeppelin | last aired 2026-10-21 02:47 | normal pick now | request now
 OK   Stand By Me — Ben E. King | last aired 2026-10-26 04:15 | normal pick now | request now
 WAIT Stand By Your Man (Album Version) — Tammy Wynette | last aired 2026-10-27 20:41 | normal pick from 2026-10-29 08:41 | request from 2026-10-28 16:41
-OK   Star Fruit Surf Rider (Damon Albarn Remix) — Cornelius | last aired 2026-10-24 23:47 | normal pick now | request now
+WAIT Star Fruit Surf Rider (Damon Albarn Remix) — Cornelius | last aired 2026-10-28 12:18 | normal pick from 2026-10-30 00:18 | request from 2026-10-29 08:18
 OK   Starboy — The Weeknd | last aired 2026-10-21 02:09 | normal pick now | request now
 OK   Stardust — Bobby Hutcherson | last aired 2026-10-26 03:52 | normal pick now | request now
 OK   Starman  (2012 Remaster) — David Bowie | last aired 2026-10-22 21:36 | normal pick now | request now
@@ -24,7 +24,7 @@ OK   Still Life (2015 Remaster) — Iron Maiden | last aired 2026-10-25 16:43 | 
 WAIT Still Loving You (2011 Version) — Scorpions | last aired 2026-10-28 01:03 | normal pick from 2026-10-29 13:03 | request from 2026-10-28 21:03
 WAIT Still Of The Night (2018 Remaster) — Whitesnake | last aired 2026-10-28 01:10 | normal pick from 2026-10-29 13:10 | request from 2026-10-28 21:10
 OK   Still Of The Night (Live In Tokyo, Japan / 1993) — Blue Murder | last aired 2026-09-22 16:01 | normal pick now | request now
-WAIT Stop Googling Me ! — Bart&Baker | last aired 2026-10-27 16:34 | normal pick from 2026-10-29 04:34 | request from 2026-10-28 12:34
+WAIT Stop Googling Me ! — Bart&Baker | last aired 2026-10-27 16:34 | normal pick from 2026-10-29 04:34 | request now
 OK   Straight Outta Vagina (feat. Desi Mo & Leikeli47) — Pussy Riot | last aired 2026-09-15 09:55 | normal pick now | request now
 OK   Straight Up (Single Version) — Paula Abdul | last aired 2026-10-24 16:25 | normal pick now | request now
 OK   Strange — Patsy Cline | last aired 2026-10-23 04:15 | normal pick now | request now

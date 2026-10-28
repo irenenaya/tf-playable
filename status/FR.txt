@@ -1,4 +1,4 @@
-Track status, artists filed under FR (built Wed Oct 28, 5:05 AM PDT (12:05 UTC)). Times in UTC.
+Track status, artists filed under FR (built Wed Oct 28, 6:05 AM PDT (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   France Clidat — Pièces froides No.1 "Trois airs à faire fuir" | last aired 2026-10-25 06:51 | normal pick now | request now
@@ -8,7 +8,7 @@ WAIT Frank Sinatra — Fly Me To The Moon (Remastered 2008) | last aired 2026-10
 OK   Frank Sinatra — Have Yourself A Merry Little Christmas (Remastered 1999) | last aired 2026-08-13 12:59 | normal pick now | request now
 WAIT Franko Mladen — Jamboree  (Remastered) | last aired 2026-10-27 03:32 | normal pick from 2026-10-28 15:32 | request now
 WAIT Fraunhofer Diffraction — Kvrt in Space | last aired 2026-10-27 07:20 | normal pick from 2026-10-28 19:20 | request now
-WAIT Fred again.. — leavemealone | last aired 2026-10-27 00:38 | normal pick from 2026-10-28 12:38 | request now
+OK   Fred again.. — leavemealone | last aired 2026-10-27 00:38 | normal pick now | request now
 OK   Fred again.. — Victory Lap | last aired 2026-10-23 23:39 | normal pick now | request now
 WAIT Freddie King — Going Down | last aired 2026-10-27 15:17 | normal pick from 2026-10-29 03:17 | request now
 OK   Freddie Mercury — Love Kills | last aired 2026-10-24 13:49 | normal pick now | request now

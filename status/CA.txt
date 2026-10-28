@@ -1,4 +1,4 @@
-Track status, artists filed under CA (built Wed Oct 28, 5:05 AM PDT (12:05 UTC)). Times in UTC.
+Track status, artists filed under CA (built Wed Oct 28, 6:05 AM PDT (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Caetano Veloso — O Leãozinho (Ao Vivo) | last aired 2026-10-28 10:34 | normal pick from 2026-10-30 10:34 | request from 2026-10-30 10:34
@@ -11,7 +11,7 @@ OK   Camille — Ta douleur | last aired 2026-10-17 07:19 | normal pick now | re
 WAIT Camille Thomas — Deux mélodies hébraïques, M. A22 - Ravel: Deux mélodies hébraïques, M. A22: I. Kaddisch (Transcr. by Richard Tognetti for Cello and Orchestra ) | last aired 2026-10-28 04:52 | normal pick from 2026-10-29 16:52 | request from 2026-10-29 00:52
 OK   Canned Heat — On The Road Again | last aired 2026-10-26 17:30 | normal pick now | request now
 WAIT Carbon Based Lifeforms — Photosynthesis | last aired 2026-10-27 07:32 | normal pick from 2026-10-28 19:32 | request now
-OK   Cardiacs — Big Ship | last aired 2026-10-15 16:05 | normal pick now | request now
+WAIT Cardiacs — Big Ship | last aired 2026-10-28 12:57 | normal pick from 2026-10-30 00:57 | request from 2026-10-29 08:57
 WAIT Carlos Gardel — Por una Cabeza | last aired 2026-10-28 03:42 | normal pick from 2026-10-30 03:42 | request from 2026-10-30 03:42
 WAIT Carole King — It's Too Late | last aired 2026-10-27 17:41 | normal pick from 2026-10-29 17:41 | request from 2026-10-29 17:41
 WAIT Carole King — So Far Away | last aired 2026-10-27 06:44 | normal pick from 2026-10-29 06:44 | request from 2026-10-29 06:44

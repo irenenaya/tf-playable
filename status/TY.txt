@@ -1,7 +1,7 @@
-Track status, artists filed under TY (built Wed Oct 28, 5:05 AM PDT (12:05 UTC)). Times in UTC.
+Track status, artists filed under TY (built Wed Oct 28, 6:05 AM PDT (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Tycho — A Walk | last aired 2026-10-27 00:14 | normal pick from 2026-10-28 12:14 | request now
+OK   Tycho — A Walk | last aired 2026-10-27 00:14 | normal pick now | request now
 OK   Tycho — Awake | last aired 2026-10-12 15:33 | normal pick now | request now
 OK   Tycho — Dive | last aired 2026-10-23 02:31 | normal pick now | request now
 WAIT Tyla — Water | last aired 2026-10-27 10:28 | normal pick from 2026-10-29 10:28 | request from 2026-10-29 10:28
