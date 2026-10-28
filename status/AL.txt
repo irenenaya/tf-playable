@@ -1,4 +1,4 @@
-Track status, artists filed under AL (built Wed Oct 28, 6:05 AM PDT (13:05 UTC)). Times in UTC.
+Track status, artists filed under AL (built Wed Oct 28, 7:05 AM PDT (14:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Al Di Meola — Double Concerto | last aired 2026-10-24 07:27 | normal pick now | request now
@@ -7,7 +7,7 @@ OK   Al Di Meola — Passion, Grace & Fire (Album Version) | last aired 2026-10-
 OK   Al Di Meola — Red Moon | last aired 2026-10-26 06:44 | normal pick now | request now
 WAIT Al Green — Let's Stay Together | last aired 2026-10-27 12:10 | normal pick from 2026-10-29 12:10 | request from 2026-10-29 12:10
 OK   Al Green — Love and Happiness | last aired 2026-10-26 13:22 | normal pick now | request now
-OK   Al Green — Simply Beautiful | last aired 2026-10-22 06:52 | normal pick now | request now
+WAIT Al Green — Simply Beautiful | last aired 2026-10-28 13:10 | normal pick from 2026-10-30 13:10 | request from 2026-10-30 13:10
 OK   Al Green — The Lord Will Make a Way | last aired 2026-10-22 17:12 | normal pick now | request now
 WAIT Al Stewart — Year of the Cat | last aired 2026-10-27 22:09 | normal pick from 2026-10-29 10:09 | request from 2026-10-28 18:09
 OK   Alabama 3 — Sad Eyed Lady Of The Low Life | last aired 2026-10-25 00:38 | normal pick now | request now
@@ -24,8 +24,8 @@ OK   Alexander Rybak — Fairytale | last aired 2026-10-26 12:21 | normal pick n
 OK   Alexandre Tharaud — Gnossienne No.1 - Gnossienne: No. 1 | last aired 2026-10-26 08:27 | normal pick now | request now
 OK   Alexi Murdoch — Orange Sky | last aired 2026-10-26 05:23 | normal pick now | request now
 WAIT Alfa Mist — Organic Rust | last aired 2026-10-27 06:30 | normal pick from 2026-10-28 18:30 | request now
-OK   Ali Farka Touré — Soukora | last aired 2026-10-25 16:48 | normal pick now | request now
-OK   Alice Coltrane — Journey In Satchidananda | last aired 2026-10-23 05:31 | normal pick now | request now
+WAIT Ali Farka Touré — Soukora | last aired 2026-10-28 13:21 | normal pick from 2026-10-30 13:21 | request from 2026-10-30 13:21
+WAIT Alice Coltrane — Journey In Satchidananda | last aired 2026-10-28 13:14 | normal pick from 2026-10-30 01:14 | request from 2026-10-29 09:14
 OK   Alice In Chains — Man in the Box | last aired 2026-10-22 23:45 | normal pick now | request now
 OK   Alicia Keys — Fallin' (Album Version) | last aired 2026-10-25 00:09 | normal pick now | request now
 OK   Alison Krauss — Down To The River To Pray (Live) | last aired 2026-10-21 15:53 | normal pick now | request now

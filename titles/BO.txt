@@ -1,4 +1,4 @@
-Track status, song titles filed under BO (built Wed Oct 28, 6:05 AM PDT (13:05 UTC)). Times in UTC.
+Track status, song titles filed under BO (built Wed Oct 28, 7:05 AM PDT (14:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Bocca di rosa — Fabrizio De Andrè | last aired 2026-10-28 08:13 | normal pick from 2026-10-29 20:13 | request from 2026-10-29 04:13
@@ -14,6 +14,6 @@ WAIT Born on a Train — The Magnetic Fields | last aired 2026-10-27 11:34 | nor
 OK   Born to Run — Bruce Springsteen | last aired 2026-10-22 22:50 | normal pick now | request now
 OK   Born Under A Bad Sign — Albert King | last aired 2026-10-26 17:24 | normal pick now | request now
 WAIT Boss Guitar — DJ Cam Quartet | last aired 2026-10-27 13:00 | normal pick from 2026-10-29 01:00 | request now
-WAIT The Book of Love — The Magnetic Fields | last aired 2026-10-26 14:05 | normal pick from 2026-10-28 14:05 | request from 2026-10-28 14:05
+OK   The Book of Love — The Magnetic Fields | last aired 2026-10-26 14:05 | normal pick now | request now
 WAIT The Boxer — Simon & Garfunkel | last aired 2026-10-26 18:02 | normal pick from 2026-10-28 18:02 | request from 2026-10-28 18:02
 WAIT The Boy with the Arab Strap — Belle and Sebastian | last aired 2026-10-28 11:49 | normal pick from 2026-10-30 11:49 | request from 2026-10-30 11:49
