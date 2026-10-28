@@ -1,13 +1,13 @@
-Track status, artists filed under ST (built Tue Oct 27, 5:05 PM PDT (00:05 UTC Wed)). Times in UTC.
+Track status, artists filed under ST (built Tue Oct 27, 6:05 PM PDT (01:05 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   St Germain — Rose rouge | last aired 2026-10-23 10:53 | normal pick now | request now
+WAIT St Germain — Rose rouge | last aired 2026-10-28 00:55 | normal pick from 2026-10-29 12:55 | request from 2026-10-28 20:55
 OK   Stan Bush — The Touch | last aired 2026-10-23 16:43 | normal pick now | request now
 WAIT Stan Getz — Corcovado (Quiet Nights Of Quiet Stars) | last aired 2026-10-27 14:49 | normal pick from 2026-10-29 14:49 | request from 2026-10-29 14:49
 OK   Stardust — Music Sounds Better With You | last aired 2026-10-25 13:29 | normal pick now | request now
 OK   Stars of the Lid — Requiem for Dying Mothers, Pt. 1 | last aired 2026-10-24 02:04 | normal pick now | request now
 OK   Stars of the Lid — Requiem for Dying Mothers, Pt. 2 | last aired 2026-10-25 07:02 | normal pick now | request now
-OK   Stealers Wheel — Stuck In The Middle With You | last aired 2026-10-24 22:00 | normal pick now | request now
+WAIT Stealers Wheel — Stuck In The Middle With You | last aired 2026-10-28 00:51 | normal pick from 2026-10-29 12:51 | request from 2026-10-28 20:51
 OK   Steely Dan — Almost Gothic (Album Version) | last aired 2026-10-16 20:51 | normal pick now | request now
 OK   Steely Dan — Babylon Sisters | last aired 2026-10-24 04:49 | normal pick now | request now
 OK   Steely Dan — Home At Last | last aired 2026-10-25 09:39 | normal pick now | request now
@@ -41,7 +41,7 @@ OK   Sting — Shape Of My Heart (My Songs Version) | last aired 2026-10-17 15:2
 OK   Stratovarius — Black Diamond | last aired 2026-10-18 12:54 | normal pick now | request now
 OK   Studio Group — As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired 2026-08-08 23:18 | normal pick now | request now
 OK   Studio Group — Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired 2026-08-31 18:46 | normal pick now | request now
-WAIT Styx — Mr. Roboto | last aired 2026-10-26 12:12 | normal pick from 2026-10-28 00:12 | request now
+OK   Styx — Mr. Roboto | last aired 2026-10-26 12:12 | normal pick now | request now
 WAIT The Staple Singers — I'll Take You There | last aired 2026-10-26 23:35 | normal pick from 2026-10-28 11:35 | request now
 OK   The Strokes — Last Nite | last aired 2026-10-12 15:38 | normal pick now | request now
 OK   The Strokes — Lonely in the Future | last aired 2026-10-22 03:04 | normal pick now | request now
