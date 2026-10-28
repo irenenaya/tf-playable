@@ -1,9 +1,9 @@
-Track status, song titles filed under LO (built Wed Oct 28, 11:05 AM PDT (18:05 UTC)). Times in UTC.
+Track status, song titles filed under LO (built Wed Oct 28, 12:05 PM PDT (19:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT L-O-V-E — Nat King Cole | last aired 2026-10-27 15:54 | normal pick from 2026-10-29 03:54 | request now
 WAIT Lo Vas A Olvidar — Billie Eilish | last aired 2026-10-27 17:37 | normal pick from 2026-10-29 05:37 | request now
-OK   Locos — Leon Larregui | last aired 2026-10-25 15:11 | normal pick now | request now
+WAIT Locos — Leon Larregui | last aired 2026-10-28 19:00 | normal pick from 2026-10-30 07:00 | request from 2026-10-29 15:00
 OK   Logic — Euology | last aired 2026-10-09 09:21 | normal pick now | request now
 OK   London Calling — The Clash | last aired 2026-10-22 23:29 | normal pick now | request now
 OK   Lonely in the Future — The Strokes | last aired 2026-10-22 03:04 | normal pick now | request now
@@ -15,7 +15,7 @@ OK   Lost Coastlines — Okkervil River | last aired 2026-10-24 09:39 | normal p
 WAIT Lost in Music (1995 Remaster) (LP Version) — Sister Sledge | last aired 2026-10-27 21:47 | normal pick from 2026-10-29 21:47 | request from 2026-10-29 21:47
 OK   Lost In The Humming Air (2005 Digital Remaster) — Harold Budd | last aired 2026-10-23 00:28 | normal pick now | request now
 OK   Lost on You — LP | last aired 2026-10-26 02:35 | normal pick now | request now
-WAIT Louie Bag  (Live at Electric Lady) — YEBBA | last aired 2026-10-27 06:19 | normal pick from 2026-10-28 18:19 | request now
+OK   Louie Bag  (Live at Electric Lady) — YEBBA | last aired 2026-10-27 06:19 | normal pick now | request now
 OK   Love and Happiness — Al Green | last aired 2026-10-26 13:22 | normal pick now | request now
 OK   Love I — The Green | last aired 2026-10-09 01:40 | normal pick now | request now
 OK   Love Is Blue (Album Version) — Paul Mauriat | last aired 2026-10-24 09:23 | normal pick now | request now

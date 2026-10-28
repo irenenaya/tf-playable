@@ -1,4 +1,4 @@
-Track status, artists filed under MI (built Wed Oct 28, 11:05 AM PDT (18:05 UTC)). Times in UTC.
+Track status, artists filed under MI (built Wed Oct 28, 12:05 PM PDT (19:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Mica Levi — Love | last aired 2026-10-28 02:44 | normal pick from 2026-10-29 14:44 | request from 2026-10-28 22:44
@@ -24,7 +24,7 @@ OK   Miles Davis — Flamenco Sketches | last aired 2026-10-22 12:31 | normal pi
 OK   Miles Davis — So What | last aired 2026-10-23 12:46 | normal pick now | request now
 OK   Miley Cyrus — Flowers | last aired 2026-10-23 19:34 | normal pick now | request now
 OK   Miley Cyrus — Party In The U.S.A. | last aired 2026-10-24 21:54 | normal pick now | request now
-WAIT Milt Jackson — Bag's New Groove | last aired 2026-10-27 06:24 | normal pick from 2026-10-28 18:24 | request now
+OK   Milt Jackson — Bag's New Groove | last aired 2026-10-27 06:24 | normal pick now | request now
 WAIT Milton Nascimento — Bridges (Travessia) | last aired 2026-10-27 08:55 | normal pick from 2026-10-29 08:55 | request from 2026-10-29 08:55
 WAIT Minako Yoshida — I'll Teach You All About Love | last aired 2026-10-28 03:35 | normal pick from 2026-10-30 03:35 | request from 2026-10-30 03:35
 OK   Ministry — Just One Fix (Album Version) | last aired 2026-10-26 00:15 | normal pick now | request now
