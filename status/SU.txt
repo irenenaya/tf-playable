@@ -1,4 +1,4 @@
-Track status, artists filed under SU (built Wed Oct 28, 4:05 AM PDT (11:05 UTC)). Times in UTC.
+Track status, artists filed under SU (built Wed Oct 28, 5:05 AM PDT (12:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Suburban Kids With Biblical Names — Rent A Wreck | last aired 2026-10-25 22:47 | normal pick now | request now
@@ -11,7 +11,7 @@ OK   Sui Generis — Rasguña Las Piedras (Album Version) | last aired 2026-10-2
 OK   Sukhwinder Singh — Chaiyya Chaiyya | last aired 2026-10-22 10:14 | normal pick now | request now
 OK   Sum 41 — In Too Deep (Album Version) | last aired 2026-10-23 16:31 | normal pick now | request now
 WAIT Summon The Wolf — Ghost Story | last aired 2026-10-27 04:46 | normal pick from 2026-10-28 16:46 | request now
-WAIT Sun Ra Arkestra — It's After The End Of The World | last aired 2026-10-26 23:10 | normal pick from 2026-10-28 11:10 | request now
+OK   Sun Ra Arkestra — It's After The End Of The World | last aired 2026-10-26 23:10 | normal pick now | request now
 WAIT Sun Ra — Images | last aired 2026-10-27 23:38 | normal pick from 2026-10-29 11:38 | request from 2026-10-28 19:38
 WAIT Sun's Signature — Golden Air | last aired 2026-10-27 11:59 | normal pick from 2026-10-28 23:59 | request now
 WAIT Sun's Signature — Underwater | last aired 2026-10-27 07:56 | normal pick from 2026-10-28 19:56 | request now
@@ -24,5 +24,5 @@ WAIT Susumu Yokota — Saku | last aired 2026-10-27 07:26 | normal pick from 202
 OK   Suzanne Ciani — Improvisation On Four Sequences Pt.1 | last aired 2026-10-24 02:53 | normal pick now | request now
 OK   Suzanne Ciani — Oceanium | last aired 2026-10-23 06:01 | normal pick now | request now
 OK   The Sundays — Folk Song | last aired 2026-10-23 22:52 | normal pick now | request now
-WAIT The Sundays — Wild Horses | last aired 2026-10-28 11:01 | normal pick from 2026-10-29 23:01 | request from 2026-10-29 07:01
+WAIT The Sundays — Wild Horses | last aired 2026-10-28 11:02 | normal pick from 2026-10-29 23:02 | request from 2026-10-29 07:02
 OK   The Supremes — Automatically Sunshine | last aired 2026-10-25 17:30 | normal pick now | request now

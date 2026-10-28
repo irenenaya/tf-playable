@@ -1,7 +1,7 @@
-Track status, artists filed under BE (built Wed Oct 28, 4:05 AM PDT (11:05 UTC)). Times in UTC.
+Track status, artists filed under BE (built Wed Oct 28, 5:05 AM PDT (12:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Beach House — Bluebird | last aired 2026-10-28 09:18 | normal pick from 2026-10-29 21:18 | request from 2026-10-29 05:18
+WAIT Beach House — Bluebird | last aired 2026-10-28 09:19 | normal pick from 2026-10-29 21:19 | request from 2026-10-29 05:19
 WAIT Beach House — Space Song | last aired 2026-10-27 11:08 | normal pick from 2026-10-29 11:08 | request from 2026-10-29 11:08
 OK   Beastie Boys — Sabotage | last aired 2026-10-19 22:10 | normal pick now | request now
 OK   Beatrice Rana — Keyboard Concerto No. 1 in D Minor, BWV 1052: I. Allegro | last aired 2026-10-21 04:56 | normal pick now | request now
@@ -9,17 +9,17 @@ OK   Beatrice Rana — Libertango (Arr. Yamamoto for Piano 4-Hands) | last aired
 OK   Beats by Luca — 52 CHICKEN NUGGET (McRave) | last aired 2026-10-18 11:09 | normal pick now | request now
 WAIT Bebel Gilberto — Samba Da Benção | last aired 2026-10-27 03:05 | normal pick from 2026-10-29 03:05 | request from 2026-10-29 03:05
 WAIT Beck — Devils Haircut | last aired 2026-10-27 11:52 | normal pick from 2026-10-28 23:52 | request now
-OK   Beck — Loser | last aired 2026-10-22 03:20 | normal pick now | request now
+WAIT Beck — Loser | last aired 2026-10-28 11:23 | normal pick from 2026-10-30 11:23 | request from 2026-10-30 11:23
 OK   Beck — The New Pollution | last aired 2026-10-26 19:03 | normal pick now | request now
 OK   Becky Levi and the Nightjars — Wake Me Up | last aired 2026-10-22 06:23 | normal pick now | request now
 OK   Bee Gees — Night Fever (From "Saturday Night Fever" Soundtrack) | last aired 2026-10-06 16:28 | normal pick now | request now
 OK   Beenie Man — Feel It Boy | last aired 2026-10-24 21:50 | normal pick now | request now
 OK   Belcea Quartet — Quatuor à cordes n° 4, Sz. 91 - String Quartet No. 4 in C Major, Sz. 91: IV. Allegretto pizzicato | last aired 2026-10-16 14:38 | normal pick now | request now
-OK   Belle and Sebastian — The Boy with the Arab Strap | last aired 2026-10-23 07:06 | normal pick now | request now
+WAIT Belle and Sebastian — The Boy with the Arab Strap | last aired 2026-10-28 11:49 | normal pick from 2026-10-30 11:49 | request from 2026-10-30 11:49
 OK   Ben Allison — D.A.V.E. | last aired 2026-10-25 21:22 | normal pick now | request now
 OK   Ben E. King — Stand By Me | last aired 2026-10-26 04:15 | normal pick now | request now
 WAIT Ben Harper — Yard Sale | last aired 2026-10-27 01:24 | normal pick from 2026-10-29 01:24 | request from 2026-10-29 01:24
-OK   Ben Howard — Only Love | last aired 2026-10-26 05:29 | normal pick now | request now
+WAIT Ben Howard — Only Love | last aired 2026-10-28 11:54 | normal pick from 2026-10-29 23:54 | request from 2026-10-29 07:54
 OK   Ben&Ben — Leaves | last aired 2026-10-23 07:32 | normal pick now | request now
 OK   Ben&Ben — Maybe The Night | last aired 2026-10-08 16:41 | normal pick now | request now
 WAIT Benjamin Francis Leftwich — Ticket To Ride | last aired 2026-10-27 02:55 | normal pick from 2026-10-29 02:55 | request from 2026-10-29 02:55

@@ -1,10 +1,10 @@
-Track status, artists filed under SH (built Wed Oct 28, 4:05 AM PDT (11:05 UTC)). Times in UTC.
+Track status, artists filed under SH (built Wed Oct 28, 5:05 AM PDT (12:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Shaboozey — A Bar Song (Tipsy) | last aired 2026-10-21 01:48 | normal pick now | request now
 OK   Shakatak — Night Birds | last aired 2026-10-08 04:45 | normal pick now | request now
 OK   Shakespears Sister — Stay | last aired 2026-10-26 07:35 | normal pick now | request now
-WAIT Shearwater — Empty Orchestra | last aired 2026-10-26 23:18 | normal pick from 2026-10-28 11:18 | request now
+OK   Shearwater — Empty Orchestra | last aired 2026-10-26 23:18 | normal pick now | request now
 OK   Shellac — The End of Radio | last aired 2026-10-20 20:45 | normal pick now | request now
 OK   Sheryl Crow — All I Wanna Do | last aired 2026-10-26 20:02 | normal pick now | request now
 WAIT Sheryl Crow — The First Cut Is The Deepest | last aired 2026-10-27 09:04 | normal pick from 2026-10-28 21:04 | request now
