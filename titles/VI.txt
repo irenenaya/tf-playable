@@ -1,10 +1,10 @@
-Track status, song titles filed under VI (built Wed Oct 28, 1:05 AM PDT (08:05 UTC)). Times in UTC.
+Track status, song titles filed under VI (built Wed Oct 28, 2:05 AM PDT (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Via Con Me — Paolo Conte | last aired 2026-10-25 19:37 | normal pick now | request now
 OK   Vice II — Database | last aired 2026-10-09 11:05 | normal pick now | request now
 OK   Victory Lap — Fred again.. | last aired 2026-10-23 23:39 | normal pick now | request now
-OK   Vida En El Espejo — Enjambre | last aired 2026-10-24 20:45 | normal pick now | request now
+WAIT Vida En El Espejo — Enjambre | last aired 2026-10-28 08:37 | normal pick from 2026-10-29 20:37 | request from 2026-10-29 04:37
 WAIT Vienna (2008 Remaster) — Ultravox | last aired 2026-10-27 09:31 | normal pick from 2026-10-29 09:31 | request from 2026-10-29 09:31
 OK   Vienna (Album Version) — Billy Joel | last aired 2026-10-26 03:31 | normal pick now | request now
 OK   Vienna Calling — Falco | last aired 2026-10-26 12:29 | normal pick now | request now
