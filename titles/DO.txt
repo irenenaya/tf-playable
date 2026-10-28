@@ -1,4 +1,4 @@
-Track status, song titles filed under DO (built Tue Oct 27, 8:05 PM PDT (03:05 UTC Wed)). Times in UTC.
+Track status, song titles filed under DO (built Tue Oct 27, 9:05 PM PDT (04:05 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   (Don't Fear) The Reaper — Blue Öyster Cult | last aired 2026-10-26 02:52 | normal pick now | request now
@@ -13,7 +13,7 @@ WAIT Don't Change — INXS | last aired 2026-10-26 16:02 | normal pick from 2026
 WAIT Don't Delete The Kisses — Wolf Alice | last aired 2026-10-27 04:33 | normal pick from 2026-10-29 04:33 | request from 2026-10-29 04:33
 OK   Don't Dream It's Over — Crowded House | last aired 2026-10-21 21:24 | normal pick now | request now
 OK   Don't Give Up  (2012 Remaster) — Peter Gabriel | last aired 2026-10-25 08:56 | normal pick now | request now
-WAIT Don't Look Any Further (Single Version) — Dennis Edwards | last aired 2026-10-27 23:09 | normal pick from 2026-10-29 11:09 | request from 2026-10-28 19:09
+WAIT Don't Look Any Further (Single Version) — Dennis Edwards | last aired 2026-10-27 23:10 | normal pick from 2026-10-29 11:10 | request from 2026-10-28 19:10
 OK   Don't Shut Me Down — ABBA | last aired 2026-10-26 02:19 | normal pick now | request now
 OK   Don't Start Now — Dua Lipa | last aired 2026-10-23 09:49 | normal pick now | request now
 WAIT Don't Stop Believin' (Album Version) — Journey | last aired 2026-10-27 18:01 | normal pick from 2026-10-29 06:01 | request from 2026-10-28 14:01
@@ -27,5 +27,5 @@ OK   Doused — DIIV | last aired 2026-10-25 00:12 | normal pick now | request n
 OK   Down in the Valley — The Head And The Heart | last aired 2026-10-23 05:26 | normal pick now | request now
 OK   Down To The River To Pray (Live) — Alison Krauss | last aired 2026-10-21 15:53 | normal pick now | request now
 OK   Down Under — Men At Work | last aired 2026-10-26 04:53 | normal pick now | request now
-OK   Downstream (Remastered, 2024) — Shira Kammen | last aired 2026-10-20 14:02 | normal pick now | request now
+WAIT Downstream (Remastered, 2024) — Shira Kammen | last aired 2026-10-28 03:28 | normal pick from 2026-10-29 15:28 | request from 2026-10-28 23:28
 OK   The Door — Teddy Swims | last aired 2026-10-25 03:25 | normal pick now | request now

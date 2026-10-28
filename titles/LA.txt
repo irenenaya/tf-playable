@@ -1,4 +1,4 @@
-Track status, song titles filed under LA (built Tue Oct 27, 8:05 PM PDT (03:05 UTC Wed)). Times in UTC.
+Track status, song titles filed under LA (built Tue Oct 27, 9:05 PM PDT (04:05 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   L'Amour Looks Something Like You (2018 Remaster) — Kate Bush | last aired 2026-10-24 05:27 | normal pick now | request now
@@ -8,7 +8,7 @@ OK   La femme d'argent — Air | last aired 2026-10-25 08:40 | normal pick now |
 OK   La Fontaine De Sang — The Vampire Lestat | last aired 2026-10-26 01:58 | normal pick now | request now
 OK   La llorona — Chavela Vargas | last aired 2026-10-22 13:50 | normal pick now | request now
 WAIT La Mentira — Luis Miguel | last aired 2026-10-27 10:24 | normal pick from 2026-10-29 10:24 | request from 2026-10-29 10:24
-OK   La Negra Tomasa (Bilongo - Version Tropical) — Caifanes | last aired 2026-10-22 11:28 | normal pick now | request now
+WAIT La Negra Tomasa (Bilongo - Version Tropical) — Caifanes | last aired 2026-10-28 03:47 | normal pick from 2026-10-29 15:47 | request from 2026-10-28 23:47
 WAIT La petite fille de la mer — Vangelis | last aired 2026-10-26 16:58 | normal pick from 2026-10-28 16:58 | request from 2026-10-28 16:58
 OK   La Revacholiere — Sea Power | last aired 2026-10-26 00:52 | normal pick now | request now
 OK   La Serena — Azam Ali | last aired 2026-10-25 14:38 | normal pick now | request now
@@ -29,4 +29,4 @@ WAIT Late To Work — Marc Rebillet | last aired 2026-10-27 18:59 | normal pick 
 WAIT Lateralus — TOOL | last aired 2026-10-28 01:50 | normal pick from 2026-10-29 13:50 | request from 2026-10-28 21:50
 OK   Lazing On a Sunday Afternoon — The Czech Philharmonic and Theatre | last aired 2026-09-22 07:06 | normal pick now | request now
 OK   The Last Day Of Summer — The Cure | last aired 2026-10-15 00:00 | normal pick now | request now
-WAIT The Last Stand — Sabaton | last aired 2026-10-28 01:42 | normal pick from 2026-10-29 13:42 | request from 2026-10-28 21:42
+WAIT The Last Stand — Sabaton | last aired 2026-10-28 01:43 | normal pick from 2026-10-29 13:43 | request from 2026-10-28 21:43
