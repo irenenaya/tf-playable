@@ -1,4 +1,4 @@
-Track status, song titles filed under CO (built Wed Oct 28, 7:05 AM PDT (14:05 UTC)). Times in UTC.
+Track status, song titles filed under CO (built Wed Oct 28, 8:05 AM PDT (15:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Coat of Many Colors — Dolly Parton | last aired 2026-10-22 22:07 | normal pick now | request now
@@ -15,7 +15,7 @@ OK   Common Threads — Bobby McFerrin | last aired 2026-10-25 03:28 | normal pi
 WAIT Como É Grande o Meu Amor por Você — Raquel Tavares | last aired 2026-10-27 19:37 | normal pick from 2026-10-29 19:37 | request from 2026-10-29 19:37
 OK   Comptine d'un autre été, l'après-midi — Yann Tiersen | last aired 2026-10-25 07:59 | normal pick now | request now
 WAIT Computer Incantations for World Peace — Jean-Luc Ponty | last aired 2026-10-28 08:54 | normal pick from 2026-10-29 20:54 | request from 2026-10-29 04:54
-OK   Computer Love  (2009 Remaster) — Kraftwerk | last aired 2026-10-21 23:43 | normal pick now | request now
+WAIT Computer Love  (2009 Remaster) — Kraftwerk | last aired 2026-10-28 14:05 | normal pick from 2026-10-30 02:05 | request from 2026-10-29 10:05
 OK   Computerlove — Erik Wøllo | last aired 2026-10-25 23:41 | normal pick now | request now
 WAIT Concrete Over Water — Jockstrap | last aired 2026-10-27 19:28 | normal pick from 2026-10-29 07:28 | request from 2026-10-28 15:28
 OK   Construção — Chico Buarque | last aired 2026-10-25 16:36 | normal pick now | request now

@@ -1,4 +1,4 @@
-Track status, artists filed under GO (built Wed Oct 28, 7:05 AM PDT (14:05 UTC)). Times in UTC.
+Track status, artists filed under GO (built Wed Oct 28, 8:05 AM PDT (15:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Go_A — SHUM | last aired 2026-10-15 11:53 | normal pick now | request now
@@ -16,5 +16,5 @@ OK   Gorillaz — Pac-Man (feat. ScHoolboy Q) | last aired 2026-10-22 00:14 | no
 OK   Gorillaz — Rock the House | last aired 2026-10-23 11:41 | normal pick now | request now
 OK   Gorillaz — Souk Eye | last aired 2026-10-20 17:39 | normal pick now | request now
 OK   Gorillaz — The Empty Dream Machine (feat. Black Thought, Johnny Marr and Anoushka Shankar) | last aired 2026-10-20 06:32 | normal pick now | request now
-OK   Gotan Project — Santa María (del Buen Ayre) | last aired 2026-10-25 19:31 | normal pick now | request now
+WAIT Gotan Project — Santa María (del Buen Ayre) | last aired 2026-10-28 14:17 | normal pick from 2026-10-30 14:17 | request from 2026-10-30 14:17
 WAIT The Good, The Bad & The Queen — History Song | last aired 2026-10-28 13:03 | normal pick from 2026-10-30 01:03 | request from 2026-10-29 09:03
