@@ -1,9 +1,9 @@
-Track status, artists filed under WH (built Tue Oct 27, 6:05 PM PDT (01:05 UTC Wed)). Times in UTC.
+Track status, artists filed under WH (built Tue Oct 27, 7:05 PM PDT (02:05 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   The White Stripes — Seven Nation Army | last aired 2026-10-26 11:37 | normal pick now | request now
+WAIT The White Stripes — Seven Nation Army | last aired 2026-10-28 01:16 | normal pick from 2026-10-29 13:16 | request from 2026-10-28 21:16
 OK   Wham! — Last Christmas (Single Version) | last aired 2026-09-19 20:13 | normal pick now | request now
-OK   Whitesnake — Still Of The Night (2018 Remaster) | last aired 2026-10-06 13:24 | normal pick now | request now
+WAIT Whitesnake — Still Of The Night (2018 Remaster) | last aired 2026-10-28 01:09 | normal pick from 2026-10-29 13:09 | request from 2026-10-28 21:09
 OK   Whitney Houston — I Have Nothing | last aired 2026-10-22 19:38 | normal pick now | request now
 OK   Whitney Houston — I Wanna Dance with Somebody (Who Loves Me) | last aired 2026-10-23 18:33 | normal pick now | request now
 OK   Whitney Houston — Saving All My Love for You | last aired 2026-10-22 14:55 | normal pick now | request now
