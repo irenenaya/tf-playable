@@ -1,11 +1,11 @@
-Track status, artists filed under TA (built Wed Oct 28, 12:05 AM PDT (07:05 UTC)). Times in UTC.
+Track status, artists filed under TA (built Wed Oct 28, 1:05 AM PDT (08:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Tabu — Dobra Vila | last aired 2026-10-22 16:58 | normal pick now | request now
 OK   Taeko Onuki — 4:00 A.M. | last aired 2026-10-08 15:07 | normal pick now | request now
 WAIT Takako Mamiya — LOVE TRIP | last aired 2026-10-27 20:37 | normal pick from 2026-10-29 20:37 | request from 2026-10-29 20:37
 WAIT Takako Mamiya — Nagisade Dance | last aired 2026-10-26 20:47 | normal pick from 2026-10-28 20:47 | request from 2026-10-28 20:47
-OK   Talk Talk — After The Flood | last aired 2026-10-20 13:07 | normal pick now | request now
+WAIT Talk Talk — After The Flood | last aired 2026-10-28 07:58 | normal pick from 2026-10-29 19:58 | request from 2026-10-29 03:58
 OK   Talk Talk — I Believe in You  (1997 Remaster) | last aired 2026-10-26 08:41 | normal pick now | request now
 WAIT Talk Talk — Life's What You Make It  (1997 Remaster) | last aired 2026-10-27 20:33 | normal pick from 2026-10-29 08:33 | request from 2026-10-28 16:33
 OK   Talk Talk — New Grass | last aired 2026-10-21 05:19 | normal pick now | request now
@@ -16,8 +16,8 @@ OK   Tamara Živković — Nova Zora (Eurovision 2026) | last aired 2026-10-23 2
 OK   Tame Impala — Is It True | last aired 2026-10-26 01:29 | normal pick now | request now
 OK   Tame Impala — The Less I Know The Better | last aired 2026-10-21 21:28 | normal pick now | request now
 WAIT Tammy Wynette — Stand By Your Man (Album Version) | last aired 2026-10-27 20:41 | normal pick from 2026-10-29 08:41 | request from 2026-10-28 16:41
-WAIT Tangerine Dream — Love On A Real Train | last aired 2026-10-28 06:53 | normal pick from 2026-10-29 18:53 | request from 2026-10-29 02:53
-WAIT Tangerine Dream — Stratosfear (Digital Remastered) | last aired 2026-10-28 06:57 | normal pick from 2026-10-29 18:57 | request from 2026-10-29 02:57
+WAIT Tangerine Dream — Love On A Real Train | last aired 2026-10-28 06:54 | normal pick from 2026-10-29 18:54 | request from 2026-10-29 02:54
+WAIT Tangerine Dream — Stratosfear (Digital Remastered) | last aired 2026-10-28 06:58 | normal pick from 2026-10-29 18:58 | request from 2026-10-29 02:58
 OK   Tate McRae — greedy | last aired 2026-10-18 03:24 | normal pick now | request now
 OK   Tate McRae — Miss possessive | last aired 2026-08-13 13:28 | normal pick now | request now
 OK   Tate McRae — TIT FOR TAT | last aired 2026-10-25 19:53 | normal pick now | request now
