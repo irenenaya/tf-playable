@@ -1,10 +1,10 @@
-Track status, song titles filed under CH (built Wed Oct 28, 12:05 PM PDT (19:05 UTC)). Times in UTC.
+Track status, song titles filed under CH (built Wed Oct 28, 1:05 PM PDT (20:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Cha Cha Cha — Käärijä | last aired 2026-10-25 20:24 | normal pick now | request now
 OK   Chaiyya Chaiyya — Sukhwinder Singh | last aired 2026-10-22 10:14 | normal pick now | request now
 WAIT Chamber Of Reflection — Mac DeMarco | last aired 2026-10-27 04:42 | normal pick from 2026-10-29 04:42 | request from 2026-10-29 04:42
-WAIT Chameleon — Herbie Hancock | last aired 2026-10-28 16:20 | normal pick from 2026-10-30 04:20 | request from 2026-10-29 12:20
+WAIT Chameleon — Herbie Hancock | last aired 2026-10-28 16:21 | normal pick from 2026-10-30 04:21 | request from 2026-10-29 12:21
 WAIT Chan Chan — Buena Vista Social Club | last aired 2026-10-26 23:14 | normal pick from 2026-10-28 23:14 | request from 2026-10-28 23:14
 OK   Chances — Joel Pott | last aired 2026-10-26 11:28 | normal pick now | request now
 OK   Change (In the House of Flies) — Deftones | last aired 2026-10-19 23:30 | normal pick now | request now
@@ -16,7 +16,7 @@ OK   Cherish the Day  (Remastered Version) — Sade | last aired 2026-10-22 05:1
 OK   Cherry Twist — The Crystal Method | last aired 2026-10-24 12:09 | normal pick now | request now
 OK   Cherry Waves — Deftones | last aired 2026-10-27 01:04 | normal pick now | request now
 OK   Cherry Wine  (Live) — Hozier | last aired 2026-10-21 19:38 | normal pick now | request now
-WAIT Cherry-coloured Funk — Cocteau Twins | last aired 2026-10-28 11:20 | normal pick from 2026-10-30 11:20 | request from 2026-10-30 11:20
+WAIT Cherry-coloured Funk — Cocteau Twins | last aired 2026-10-28 11:20 | normal pick from 2026-10-29 23:20 | request from 2026-10-29 07:20
 OK   Chewbaca — Supernova | last aired 2026-10-06 14:30 | normal pick now | request now
 OK   Child in Time (Special Version) — Rock appetizers | last aired 2026-09-22 21:18 | normal pick now | request now
 OK   Children of No Horizon — Tom Konkle | last aired 2026-09-17 19:18 | normal pick now | request now

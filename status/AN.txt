@@ -1,4 +1,4 @@
-Track status, artists filed under AN (built Wed Oct 28, 12:05 PM PDT (19:05 UTC)). Times in UTC.
+Track status, artists filed under AN (built Wed Oct 28, 1:05 PM PDT (20:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Ana Sofia Varela — Fado Vadio (Má Fama) | last aired 2026-10-28 08:10 | normal pick from 2026-10-30 08:10 | request from 2026-10-30 08:10
@@ -9,7 +9,7 @@ WAIT Angèle Dubeau — The Mission – Buona Fortuna Jack (Live) | last aired 2
 OK   Angélique Kidjo — Agolo | last aired 2026-10-22 08:33 | normal pick now | request now
 WAIT Angélique Kidjo — Malaika | last aired 2026-10-28 15:02 | normal pick from 2026-10-30 03:02 | request from 2026-10-29 11:02
 OK   Anita Baker — Angel (LP Version) | last aired 2026-10-23 01:52 | normal pick now | request now
-WAIT Anita Baker — Caught Up in the Rapture (LP Version) | last aired 2026-10-28 16:42 | normal pick from 2026-10-30 16:42 | request from 2026-10-30 16:42
+WAIT Anita Baker — Caught Up in the Rapture (LP Version) | last aired 2026-10-28 16:43 | normal pick from 2026-10-30 16:43 | request from 2026-10-30 16:43
 WAIT Anita Baker — Sweet Love | last aired 2026-10-28 05:51 | normal pick from 2026-10-30 05:51 | request from 2026-10-30 05:51
 OK   Anne Clark — Our Darkness | last aired 2026-10-25 13:09 | normal pick now | request now
 OK   Annenmaykantereit — Oft gefragt | last aired 2026-10-24 04:37 | normal pick now | request now
@@ -17,5 +17,5 @@ OK   ANNIE — Heartbeat | last aired 2026-10-23 14:19 | normal pick now | reque
 OK   ANORAQUE — Ivy | last aired 2026-10-26 15:13 | normal pick now | request now
 OK   Antonio Campo — I Need You More and More  (Remastered) | last aired 2026-10-25 21:49 | normal pick now | request now
 WAIT Antonio Carlos Jobim — The Girl From Ipanema | last aired 2026-10-27 17:26 | normal pick from 2026-10-29 17:26 | request from 2026-10-29 17:26
-WAIT Antonio Carlos Jobim — Wave | last aired 2026-10-28 16:39 | normal pick from 2026-10-30 04:39 | request from 2026-10-29 12:39
+WAIT Antonio Carlos Jobim — Wave | last aired 2026-10-28 16:40 | normal pick from 2026-10-30 04:40 | request from 2026-10-29 12:40
 OK   The Animals — The House of the Rising Sun | last aired 2026-09-29 16:09 | normal pick now | request now
