@@ -1,4 +1,4 @@
-Track status, song titles filed under DO (built Wed Oct 28, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, song titles filed under DO (built Wed Oct 28, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   (Don't Fear) The Reaper — Blue Öyster Cult | last aired 2026-10-26 02:52 | normal pick now | request now
@@ -9,7 +9,7 @@ OK   Dobra Vila — Tabu | last aired 2026-10-22 16:58 | normal pick now | reque
 OK   Doctor Who Opening Titles (“In Colour” Mix, Daleks Version) — Delia Derbyshire | last aired 2026-10-26 10:16 | normal pick now | request now
 OK   Dollar Days — David Bowie | last aired 2026-09-30 17:09 | normal pick now | request now
 OK   Dolls — 9MUSES | last aired 2026-10-25 20:45 | normal pick now | request now
-WAIT Don't Change — INXS | last aired 2026-10-26 16:02 | normal pick from 2026-10-28 16:02 | request from 2026-10-28 16:02
+OK   Don't Change — INXS | last aired 2026-10-26 16:02 | normal pick now | request now
 WAIT Don't Delete The Kisses — Wolf Alice | last aired 2026-10-27 04:33 | normal pick from 2026-10-29 04:33 | request from 2026-10-29 04:33
 OK   Don't Dream It's Over — Crowded House | last aired 2026-10-21 21:24 | normal pick now | request now
 OK   Don't Give Up  (2012 Remaster) — Peter Gabriel | last aired 2026-10-25 08:56 | normal pick now | request now
@@ -19,7 +19,7 @@ OK   Don't Start Now — Dua Lipa | last aired 2026-10-23 09:49 | normal pick no
 WAIT Don't Stop Believin' (Album Version) — Journey | last aired 2026-10-27 18:01 | normal pick from 2026-10-29 06:01 | request now
 OK   Don't Stop Me Now (Remastered 2011) — Queen | last aired 2026-10-23 09:16 | normal pick now | request now
 WAIT Don't Worry Be Happy — Bobby McFerrin | last aired 2026-10-27 12:34 | normal pick from 2026-10-29 00:34 | request now
-WAIT Don't You (Forget About Me) — Simple Minds | last aired 2026-10-26 15:17 | normal pick from 2026-10-28 15:17 | request from 2026-10-28 15:17
+OK   Don't You (Forget About Me) — Simple Minds | last aired 2026-10-26 15:17 | normal pick now | request now
 OK   Don't You Ever Stop — Mr. President | last aired 2026-10-21 03:18 | normal pick now | request now
 OK   Don't You Want Me — Human League | last aired 2026-10-23 20:39 | normal pick now | request now
 OK   Double Concerto — Al Di Meola | last aired 2026-10-24 07:27 | normal pick now | request now

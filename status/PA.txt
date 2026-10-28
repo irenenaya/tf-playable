@@ -1,4 +1,4 @@
-Track status, artists filed under PA (built Wed Oct 28, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, artists filed under PA (built Wed Oct 28, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Paco de Lucía — Entre Dos Aguas | last aired 2026-10-27 20:10 | normal pick from 2026-10-29 20:10 | request from 2026-10-29 20:10
@@ -16,7 +16,7 @@ OK   Patrik Andrén — ARC Raiders | last aired 2026-09-13 03:09 | normal pick 
 WAIT Patsy Cline — Crazy (Single Version) | last aired 2026-10-27 20:16 | normal pick from 2026-10-29 08:16 | request from 2026-10-28 16:16
 OK   Patsy Cline — Strange | last aired 2026-10-23 04:15 | normal pick now | request now
 WAIT Patti LaBelle — If Only You Knew | last aired 2026-10-27 05:34 | normal pick from 2026-10-29 05:34 | request from 2026-10-29 05:34
-WAIT Patti LaBelle — On My Own | last aired 2026-10-27 17:29 | normal pick from 2026-10-29 17:29 | request from 2026-10-29 17:29
+WAIT Patti LaBelle — On My Own | last aired 2026-10-27 17:29 | normal pick from 2026-10-29 05:29 | request now
 OK   Patti Smith — Gloria : In Excelsis Deo - Gloria | last aired 2026-10-22 18:24 | normal pick now | request now
 OK   Patti Smith Group — Dancing Barefoot | last aired 2026-10-22 18:30 | normal pick now | request now
 OK   Patti Smith — People Have the Power | last aired 2026-10-22 18:19 | normal pick now | request now

@@ -1,4 +1,4 @@
-Track status, song titles filed under GO (built Wed Oct 28, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, song titles filed under GO (built Wed Oct 28, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Go Home — Stevie Wonder | last aired 2026-10-25 09:30 | normal pick now | request now
@@ -8,14 +8,14 @@ OK   GODDESS — Fireboy DML | last aired 2026-10-22 09:04 | normal pick now | r
 OK   Gogol — Gonzales | last aired 2026-10-22 21:27 | normal pick now | request now
 WAIT Going Down — Freddie King | last aired 2026-10-27 15:17 | normal pick from 2026-10-29 03:17 | request now
 WAIT Going to California  (Remaster) — Led Zeppelin | last aired 2026-10-27 11:55 | normal pick from 2026-10-29 11:55 | request from 2026-10-29 11:55
-WAIT Gold (2003 Remaster) — Spandau Ballet | last aired 2026-10-27 03:16 | normal pick from 2026-10-28 15:16 | request now
+OK   Gold (2003 Remaster) — Spandau Ballet | last aired 2026-10-27 03:16 | normal pick now | request now
 WAIT Golden Air — Sun's Signature | last aired 2026-10-27 11:59 | normal pick from 2026-10-28 23:59 | request now
 OK   golden hour — Jvke | last aired 2026-10-09 19:51 | normal pick now | request now
 OK   Golden — Jill Scott | last aired 2026-10-22 17:56 | normal pick now | request now
 OK   Golden Lady — Stevie Wonder | last aired 2026-10-22 04:19 | normal pick now | request now
 OK   Golden Slumbers (Remastered) — The Beatles | last aired 2026-10-25 23:34 | normal pick now | request now
 OK   Good Luck, Babe! — Chappell Roan | last aired 2026-10-24 21:33 | normal pick now | request now
-OK   Good Times  (2018 Remaster) — Chic | last aired 2026-10-23 20:26 | normal pick now | request now
+WAIT Good Times  (2018 Remaster) — Chic | last aired 2026-10-28 15:49 | normal pick from 2026-10-30 03:49 | request from 2026-10-29 11:49
 OK   Good Vibrations (Stereo/Remastered 2012) — The Beach Boys | last aired 2026-10-23 07:28 | normal pick now | request now
 WAIT Goodbye (Live) — toe | last aired 2026-10-28 01:34 | normal pick from 2026-10-29 13:34 | request from 2026-10-28 21:34
 OK   Goodbye Horses - Single — Q Lazzarus | last aired 2026-10-25 12:37 | normal pick now | request now
