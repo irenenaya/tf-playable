@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Wed Oct 28, 3:05 PM PDT (22:05 UTC)). Times in UTC.
+Track status, artists filed under BE (built Wed Oct 28, 4:05 PM PDT (23:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Beach House — Bluebird | last aired 2026-10-28 09:19 | normal pick from 2026-10-29 21:19 | request from 2026-10-29 05:19
@@ -16,7 +16,7 @@ OK   Bee Gees — Night Fever (From "Saturday Night Fever" Soundtrack) | last ai
 OK   Beenie Man — Feel It Boy | last aired 2026-10-24 21:50 | normal pick now | request now
 OK   Belcea Quartet — Quatuor à cordes n° 4, Sz. 91 - String Quartet No. 4 in C Major, Sz. 91: IV. Allegretto pizzicato | last aired 2026-10-16 14:38 | normal pick now | request now
 WAIT Belle and Sebastian — The Boy with the Arab Strap | last aired 2026-10-28 11:50 | normal pick from 2026-10-30 11:50 | request from 2026-10-30 11:50
-OK   Ben Allison — D.A.V.E. | last aired 2026-10-25 21:22 | normal pick now | request now
+WAIT Ben Allison — D.A.V.E. | last aired 2026-10-28 22:54 | normal pick from 2026-10-30 10:54 | request from 2026-10-29 18:54
 WAIT Ben E. King — Stand By Me | last aired 2026-10-28 19:48 | normal pick from 2026-10-30 07:48 | request from 2026-10-29 15:48
 WAIT Ben Harper — Yard Sale | last aired 2026-10-27 01:24 | normal pick from 2026-10-29 01:24 | request from 2026-10-29 01:24
 WAIT Ben Howard — Only Love | last aired 2026-10-28 11:55 | normal pick from 2026-10-29 23:55 | request from 2026-10-29 07:55
@@ -33,7 +33,7 @@ WAIT Bert Kaempfert — A Swingin' Safari | last aired 2026-10-27 16:38 | normal
 OK   Betty Carter — Moonlight in Vermont | last aired 2026-10-25 14:00 | normal pick now | request now
 OK   BETWEEN FRIENDS — affection | last aired 2026-10-24 19:22 | normal pick now | request now
 WAIT Beyoncé — Crazy In Love | last aired 2026-10-27 17:17 | normal pick from 2026-10-29 05:17 | request now
-OK   Beyoncé — TEXAS HOLD 'EM | last aired 2026-10-23 19:14 | normal pick now | request now
+WAIT Beyoncé — TEXAS HOLD 'EM | last aired 2026-10-28 22:05 | normal pick from 2026-10-30 10:05 | request from 2026-10-29 18:05
 OK   Béla Fleck — My Home's Across The Blue Ridge Mountains | last aired 2026-10-21 01:51 | normal pick now | request now
 OK   The Beach Boys — God Only Knows (Stereo) | last aired 2026-10-22 04:24 | normal pick now | request now
 OK   The Beach Boys — Good Vibrations (Stereo/Remastered 2012) | last aired 2026-10-23 07:28 | normal pick now | request now

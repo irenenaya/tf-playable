@@ -1,7 +1,7 @@
-Track status, song titles filed under ST (built Wed Oct 28, 3:05 PM PDT (22:05 UTC)). Times in UTC.
+Track status, song titles filed under ST (built Wed Oct 28, 4:05 PM PDT (23:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT S.T.A.Y. — Hans Zimmer | last aired 2026-10-28 02:27 | normal pick from 2026-10-29 14:27 | request from 2026-10-28 22:27
+WAIT S.T.A.Y. — Hans Zimmer | last aired 2026-10-28 02:27 | normal pick from 2026-10-29 14:27 | request now
 OK   St. James Infirmary — Jim James | last aired 2026-10-24 12:25 | normal pick now | request now
 OK   Stacy's Mom — Fountains Of Wayne | last aired 2026-10-15 16:38 | normal pick now | request now
 OK   Stairway to Heaven  (Remaster) — Led Zeppelin | last aired 2026-10-21 02:47 | normal pick now | request now
@@ -27,7 +27,7 @@ OK   Still Of The Night (Live In Tokyo, Japan / 1993) — Blue Murder | last air
 WAIT Stop Googling Me ! — Bart&Baker | last aired 2026-10-27 16:34 | normal pick from 2026-10-29 04:34 | request now
 OK   Straight Outta Vagina (feat. Desi Mo & Leikeli47) — Pussy Riot | last aired 2026-09-15 09:55 | normal pick now | request now
 OK   Straight Up (Single Version) — Paula Abdul | last aired 2026-10-24 16:25 | normal pick now | request now
-OK   Strange — Patsy Cline | last aired 2026-10-23 04:15 | normal pick now | request now
+WAIT Strange — Patsy Cline | last aired 2026-10-28 22:27 | normal pick from 2026-10-30 10:27 | request from 2026-10-29 18:27
 OK   Stranger in Moscow — Michael Jackson | last aired 2026-10-14 13:09 | normal pick now | request now
 OK   Stranger On The Shore — Acker Bilk | last aired 2026-10-24 05:47 | normal pick now | request now
 WAIT Stratosfear (Digital Remastered) — Tangerine Dream | last aired 2026-10-28 06:58 | normal pick from 2026-10-29 18:58 | request from 2026-10-29 02:58

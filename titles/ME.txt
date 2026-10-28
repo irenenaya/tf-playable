@@ -1,10 +1,10 @@
-Track status, song titles filed under ME (built Wed Oct 28, 3:05 PM PDT (22:05 UTC)). Times in UTC.
+Track status, song titles filed under ME (built Wed Oct 28, 4:05 PM PDT (23:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Me and Bobby McGee — Janis Joplin | last aired 2026-10-27 18:55 | normal pick from 2026-10-29 06:55 | request now
 OK   Me and Bobby McGee — Kris Kristofferson | last aired 2026-10-23 04:50 | normal pick now | request now
 WAIT Me Myself and I — De La Soul | last aired 2026-10-27 23:06 | normal pick from 2026-10-29 23:06 | request from 2026-10-29 23:06
-OK   Mediterranean sundance - Di Meola: Mediterranean sundance — Paco de Lucía | last aired 2026-10-21 19:22 | normal pick now | request now
+WAIT Mediterranean sundance - Di Meola: Mediterranean sundance — Paco de Lucía | last aired 2026-10-28 22:49 | normal pick from 2026-10-30 10:49 | request from 2026-10-29 18:49
 OK   Medley: Mode D - Trio And Group Dancers / Mode E - Single Solos And Group Dance / Mode F - Group And Solo Dance (Album Version) — Charles Mingus | last aired 2026-10-26 06:18 | normal pick now | request now
 OK   Melt (feat. Hatsune Miku) — Supercell | last aired 2026-10-15 04:11 | normal pick now | request now
 OK   Memories of Tomorrow (The Koln Concert - Part IIc) — THREESOME (Marlene, Jiro Yoshida, Makoto Kuriya) | last aired 2026-10-24 06:55 | normal pick now | request now
@@ -15,4 +15,4 @@ OK   Mercy Mercy Me (The Ecology) — Marvin Gaye | last aired 2026-10-26 09:44 
 OK   Merry Christmas Mr. Lawrence — Ryuichi Sakamoto | last aired 2026-10-13 02:44 | normal pick now | request now
 OK   Merry-Go-Round of Life (from 'Howl’s Moving Castle') — Joe Hisaishi | last aired 2026-10-22 15:25 | normal pick now | request now
 OK   Message In A Bottle (Remastered 2003) — The Police | last aired 2026-10-22 15:13 | normal pick now | request now
-OK   Messages from the Stars (Remaster) — The Rah Band | last aired 2026-10-16 15:45 | normal pick now | request now
+WAIT Messages from the Stars (Remaster) — The Rah Band | last aired 2026-10-28 22:37 | normal pick from 2026-10-30 10:37 | request from 2026-10-29 18:37

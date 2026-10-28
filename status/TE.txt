@@ -1,7 +1,7 @@
-Track status, artists filed under TE (built Wed Oct 28, 3:05 PM PDT (22:05 UTC)). Times in UTC.
+Track status, artists filed under TE (built Wed Oct 28, 4:05 PM PDT (23:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Tears For Fears — Everybody Wants To Rule The World | last aired 2026-10-26 22:25 | normal pick from 2026-10-28 22:25 | request from 2026-10-28 22:25
+OK   Tears For Fears — Everybody Wants To Rule The World | last aired 2026-10-26 22:25 | normal pick now | request now
 WAIT Tears For Fears — Mad World | last aired 2026-10-28 00:16 | normal pick from 2026-10-30 00:16 | request from 2026-10-30 00:16
 OK   Teddy Swims — The Door | last aired 2026-10-25 03:25 | normal pick now | request now
 OK   Tenacious D — ...Baby One More Time (from Kung Fu Panda 4) | last aired 2026-10-18 11:11 | normal pick now | request now
