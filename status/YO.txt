@@ -1,7 +1,7 @@
-Track status, artists filed under YO (built Wed Oct 28, 3:05 AM PDT (10:05 UTC)). Times in UTC.
+Track status, artists filed under YO (built Wed Oct 28, 4:05 AM PDT (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Yo La Tengo — You Can Have It All | last aired 2026-10-22 02:15 | normal pick now | request now
+WAIT Yo La Tengo — You Can Have It All | last aired 2026-10-28 10:56 | normal pick from 2026-10-29 22:56 | request from 2026-10-29 06:56
 OK   Yo-Yo Ma — Carnival of the Animals, R. 125: XIII. The Swan | last aired 2026-10-25 21:56 | normal pick now | request now
-OK   Yo-Yo Ma — Libertango | last aired 2026-10-25 15:04 | normal pick now | request now
+WAIT Yo-Yo Ma — Libertango | last aired 2026-10-28 10:30 | normal pick from 2026-10-30 10:30 | request from 2026-10-30 10:30
 WAIT Youssou N'Dour featuring Neneh Cherry — 7 Seconds (Album Version) | last aired 2026-10-26 16:28 | normal pick from 2026-10-28 16:28 | request from 2026-10-28 16:28

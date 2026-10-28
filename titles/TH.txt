@@ -1,8 +1,8 @@
-Track status, song titles filed under TH (built Wed Oct 28, 3:05 AM PDT (10:05 UTC)). Times in UTC.
+Track status, song titles filed under TH (built Wed Oct 28, 4:05 AM PDT (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   (They Long To Be) Close To You — The Carpenters | last aired 2026-10-22 18:54 | normal pick now | request now
-WAIT Thank you — Alabama 3 | last aired 2026-10-26 22:53 | normal pick from 2026-10-28 10:53 | request now
+OK   Thank you — Alabama 3 | last aired 2026-10-26 22:53 | normal pick now | request now
 OK   thanks, my day is ruined — Alex Andre | last aired 2026-10-25 13:48 | normal pick now | request now
 OK   That Acid — Marie Vaunt | last aired 2026-10-13 11:14 | normal pick now | request now
 OK   That's All for Everyone — Fleetwood Mac | last aired 2026-10-26 19:26 | normal pick now | request now
@@ -15,7 +15,7 @@ OK   There She Goes — The La's | last aired 2026-10-20 01:55 | normal pick now
 OK   They Took My Love Away — Djivan Gasparyan | last aired 2026-10-09 03:21 | normal pick now | request now
 WAIT Thick Skull — Paramore | last aired 2026-10-27 01:29 | normal pick from 2026-10-28 13:29 | request now
 OK   This Boy (Remastered) — The Beatles | last aired 2026-10-25 22:25 | normal pick now | request now
-WAIT This Foolish Heart Could Love You — Melody Gardot | last aired 2026-10-27 14:54 | normal pick from 2026-10-29 02:54 | request from 2026-10-28 10:54
+WAIT This Foolish Heart Could Love You — Melody Gardot | last aired 2026-10-27 14:54 | normal pick from 2026-10-29 02:54 | request now
 OK   This Is It — Kenny Loggins | last aired 2026-10-26 15:47 | normal pick now | request now
 WAIT This Is The Life — Amy Macdonald | last aired 2026-10-27 03:02 | normal pick from 2026-10-29 03:02 | request from 2026-10-29 03:02
 OK   This Is Your Life (Originally Performed by Banderas) — Cover Vocals BPM 122 Acapellas | last aired 2026-09-21 02:20 | normal pick now | request now

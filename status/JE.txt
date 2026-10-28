@@ -1,4 +1,4 @@
-Track status, artists filed under JE (built Wed Oct 28, 3:05 AM PDT (10:05 UTC)). Times in UTC.
+Track status, artists filed under JE (built Wed Oct 28, 4:05 AM PDT (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Jean-Luc Ponty — Computer Incantations for World Peace | last aired 2026-10-28 08:53 | normal pick from 2026-10-29 20:53 | request from 2026-10-29 04:53
@@ -10,7 +10,7 @@ OK   Jeff Buckley — So Real | last aired 2026-10-22 14:41 | normal pick now | 
 OK   Jeff Lynne — At Last | last aired 2026-10-18 05:13 | normal pick now | request now
 OK   Jerry Cantrell — Rooster (2022 Remaster) | last aired 2026-10-05 22:21 | normal pick now | request now
 OK   Jerry Cantrell — Would? (2022 Remaster) | last aired 2026-10-21 22:28 | normal pick now | request now
-WAIT Jesse Cook — Breathing Below Surface (Rerecorded) | last aired 2026-10-26 10:53 | normal pick from 2026-10-28 10:53 | request from 2026-10-28 10:53
+OK   Jesse Cook — Breathing Below Surface (Rerecorded) | last aired 2026-10-26 10:53 | normal pick now | request now
 OK   The Jetzons — Hard Times | last aired 2026-10-23 16:35 | normal pick now | request now
 OK   The Jetzons — When the Sun Goes Down | last aired 2026-10-02 05:22 | normal pick now | request now
 OK   The Jetzons — You | last aired 2026-10-23 16:56 | normal pick now | request now
