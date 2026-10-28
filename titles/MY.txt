@@ -1,4 +1,4 @@
-Track status, song titles filed under MY (built Wed Oct 28, 2:05 AM PDT (09:05 UTC)). Times in UTC.
+Track status, song titles filed under MY (built Wed Oct 28, 3:05 AM PDT (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   My Favorite Things — John Coltrane | last aired 2026-10-23 17:00 | normal pick now | request now
@@ -11,4 +11,4 @@ WAIT My Kind of Woman — Mac DeMarco | last aired 2026-10-27 17:13 | normal pic
 OK   My Love Mine All Mine — Mitski | last aired 2026-10-24 04:02 | normal pick now | request now
 OK   My Secret Playlist — ODD EYE CIRCLE (ARTMS) | last aired 2026-10-24 16:47 | normal pick now | request now
 WAIT Mykonos — Fleet Foxes | last aired 2026-10-27 21:10 | normal pick from 2026-10-29 21:10 | request from 2026-10-29 21:10
-WAIT Mystery of Love — Sufjan Stevens | last aired 2026-10-26 22:02 | normal pick from 2026-10-28 10:02 | request now
+OK   Mystery of Love — Sufjan Stevens | last aired 2026-10-26 22:02 | normal pick now | request now

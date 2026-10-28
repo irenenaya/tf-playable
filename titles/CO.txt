@@ -1,4 +1,4 @@
-Track status, song titles filed under CO (built Wed Oct 28, 2:05 AM PDT (09:05 UTC)). Times in UTC.
+Track status, song titles filed under CO (built Wed Oct 28, 3:05 AM PDT (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Coat of Many Colors — Dolly Parton | last aired 2026-10-22 22:07 | normal pick now | request now
@@ -25,7 +25,7 @@ WAIT Corcovado (Quiet Nights Of Quiet Stars) — Stan Getz | last aired 2026-10-
 OK   Cornfield Chase — Hans Zimmer | last aired 2026-10-25 22:06 | normal pick now | request now
 WAIT Cosmic Girl (Remastered 2013) — Jamiroquai | last aired 2026-10-27 18:34 | normal pick from 2026-10-29 18:34 | request from 2026-10-29 18:34
 OK   Cotton Fields — Creedence Clearwater Revival | last aired 2026-10-24 13:33 | normal pick now | request now
-WAIT Counting Sheep — Brijean | last aired 2026-10-27 13:31 | normal pick from 2026-10-29 01:31 | request from 2026-10-28 09:31
+WAIT Counting Sheep — Brijean | last aired 2026-10-27 13:31 | normal pick from 2026-10-29 01:31 | request now
 OK   Cowboy Nudes — Geese | last aired 2026-10-20 19:31 | normal pick now | request now
 OK   Coyote Dance — Robbie Robertson | last aired 2026-10-25 15:17 | normal pick now | request now
 WAIT The Colour Of Spring — Mark Hollis | last aired 2026-10-27 09:44 | normal pick from 2026-10-28 21:44 | request now
