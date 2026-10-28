@@ -1,10 +1,10 @@
-Track status, artists filed under RE (built Tue Oct 27, 4:05 PM PDT (23:05 UTC)). Times in UTC.
+Track status, artists filed under RE (built Tue Oct 27, 5:05 PM PDT (00:05 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT R.E.M. — Endgame | last aired 2026-10-27 01:10 | normal pick from 2026-10-28 13:10 | request now
 OK   R.E.M. — Orange Crush (Remastered) | last aired 2026-10-23 13:45 | normal pick now | request now
-OK   Reba McEntire — Fancy | last aired 2026-10-24 18:48 | normal pick now | request now
-OK   Red Hot Chili Peppers — Californication | last aired 2026-10-23 12:55 | normal pick now | request now
+WAIT Reba McEntire — Fancy | last aired 2026-10-27 23:20 | normal pick from 2026-10-29 11:20 | request from 2026-10-28 19:20
+WAIT Red Hot Chili Peppers — Californication | last aired 2026-10-27 23:25 | normal pick from 2026-10-29 11:25 | request from 2026-10-28 19:25
 WAIT Red Hot Chili Peppers — Higher Ground (2014 Remaster) | last aired 2026-10-27 03:47 | normal pick from 2026-10-29 03:47 | request from 2026-10-29 03:47
 WAIT Red Velvet — Stupid Cupid | last aired 2026-10-26 18:23 | normal pick from 2026-10-28 18:23 | request from 2026-10-28 18:23
 OK   Remi Wolf — Disco Man | last aired 2026-10-24 08:06 | normal pick now | request now
