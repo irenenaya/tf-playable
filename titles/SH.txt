@@ -1,4 +1,4 @@
-Track status, song titles filed under SH (built Wed Oct 28, 11:05 PM PDT (06:05 UTC Thu)). Times in UTC.
+Track status, song titles filed under SH (built Thu Oct 29, 12:05 AM PDT (07:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Shampoo — Greg Shilling | last aired 2026-10-25 04:45 | normal pick now | request now
@@ -15,4 +15,4 @@ OK   Show Me How — Men I Trust | last aired 2026-10-27 13:09 | normal pick now
 WAIT SHUM — Go_A | last aired 2026-10-29 01:02 | normal pick from 2026-10-30 13:02 | request from 2026-10-29 21:02
 OK   Shut Up Your Monkey — Moes Haven | last aired 2026-10-18 11:07 | normal pick now | request now
 OK   Shy Girl — Haute & Freddy | last aired 2026-10-16 18:08 | normal pick now | request now
-OK   The Sheltering Sky — King Crimson | last aired 2026-10-21 00:28 | normal pick now | request now
+WAIT The Sheltering Sky — King Crimson | last aired 2026-10-29 06:21 | normal pick from 2026-10-30 18:21 | request from 2026-10-30 02:21
