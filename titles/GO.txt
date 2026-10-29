@@ -1,4 +1,4 @@
-Track status, song titles filed under GO (built Thu Oct 29, 4:05 AM PDT (11:05 UTC)). Times in UTC.
+Track status, song titles filed under GO (built Thu Oct 29, 5:05 AM PDT (12:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Go Home — Stevie Wonder | last aired 2026-10-25 09:30 | normal pick now | request now
@@ -7,7 +7,7 @@ WAIT God Only Knows (Stereo) — The Beach Boys | last aired 2026-10-29 03:42 | 
 OK   GODDESS — Fireboy DML | last aired 2026-10-22 09:04 | normal pick now | request now
 OK   Gogol — Gonzales | last aired 2026-10-22 21:27 | normal pick now | request now
 OK   Going Down — Freddie King | last aired 2026-10-27 15:17 | normal pick now | request now
-WAIT Going to California  (Remaster) — Led Zeppelin | last aired 2026-10-27 11:55 | normal pick from 2026-10-29 11:55 | request from 2026-10-29 11:55
+OK   Going to California  (Remaster) — Led Zeppelin | last aired 2026-10-27 11:55 | normal pick now | request now
 WAIT Gold (2003 Remaster) — Spandau Ballet | last aired 2026-10-28 20:37 | normal pick from 2026-10-30 08:37 | request from 2026-10-29 16:37
 OK   Golden Air — Sun's Signature | last aired 2026-10-27 11:59 | normal pick now | request now
 OK   golden hour — Jvke | last aired 2026-10-09 19:51 | normal pick now | request now

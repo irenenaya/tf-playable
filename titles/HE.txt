@@ -1,15 +1,15 @@
-Track status, song titles filed under HE (built Thu Oct 29, 4:05 AM PDT (11:05 UTC)). Times in UTC.
+Track status, song titles filed under HE (built Thu Oct 29, 5:05 AM PDT (12:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   "Heroes" (2017 Remaster) — David Bowie | last aired 2026-10-20 23:13 | normal pick now | request now
 OK   Heart of Gold — Neil Young | last aired 2026-10-27 21:18 | normal pick now | request now
 OK   heart on my sleeve — Ghostwriter | last aired 2026-10-18 03:48 | normal pick now | request now
 OK   Heart To Heart — Child Seat | last aired 2026-10-20 14:09 | normal pick now | request now
-OK   Heart-Shaped Box (Album Version) — Nirvana | last aired 2026-10-26 20:11 | normal pick now | request now
+WAIT Heart-Shaped Box (Album Version) — Nirvana | last aired 2026-10-29 11:03 | normal pick from 2026-10-30 23:03 | request from 2026-10-30 07:03
 OK   Heartbeat — ANNIE | last aired 2026-10-23 14:19 | normal pick now | request now
 WAIT Heartbeats — José González | last aired 2026-10-29 02:25 | normal pick from 2026-10-31 02:25 | request from 2026-10-31 02:25
 OK   Hearts On Fire — Hammerfall | last aired 2026-10-23 16:52 | normal pick now | request now
-WAIT Heat Waves (Stripped Back) — Glass Animals | last aired 2026-10-27 11:21 | normal pick from 2026-10-29 11:21 | request from 2026-10-29 11:21
+OK   Heat Waves (Stripped Back) — Glass Animals | last aired 2026-10-27 11:21 | normal pick now | request now
 OK   Heaven On Your Mind — Kygo | last aired 2026-10-26 16:47 | normal pick now | request now
 OK   Heaven Stood Still — Willy DeVille | last aired 2026-10-27 20:47 | normal pick now | request now
 OK   Hell Is Round The Corner — Tricky | last aired 2026-10-27 00:47 | normal pick now | request now

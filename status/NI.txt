@@ -1,4 +1,4 @@
-Track status, artists filed under NI (built Thu Oct 29, 4:05 AM PDT (11:05 UTC)). Times in UTC.
+Track status, artists filed under NI (built Thu Oct 29, 5:05 AM PDT (12:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Nick Cave & The Bad Seeds — (I'll Love You) Till The End Of The World | last aired 2026-10-28 11:34 | normal pick from 2026-10-29 23:34 | request now
@@ -20,5 +20,5 @@ OK   Nine Inch Nails — Heresy (Nine Inch Noize Version) | last aired 2026-10-2
 WAIT Nine Inch Nails — Hurt | last aired 2026-10-28 00:42 | normal pick from 2026-10-29 12:42 | request now
 OK   Nine Inch Nails — Less Than | last aired 2026-10-20 19:28 | normal pick now | request now
 OK   Nine Inch Nails — The Hand That Feeds | last aired 2026-10-25 20:49 | normal pick now | request now
-OK   Nirvana — Heart-Shaped Box (Album Version) | last aired 2026-10-26 20:11 | normal pick now | request now
+WAIT Nirvana — Heart-Shaped Box (Album Version) | last aired 2026-10-29 11:03 | normal pick from 2026-10-30 23:03 | request from 2026-10-30 07:03
 WAIT Nirvana — Smells Like Teen Spirit | last aired 2026-10-28 11:29 | normal pick from 2026-10-30 11:29 | request from 2026-10-30 11:29
