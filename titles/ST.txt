@@ -1,4 +1,4 @@
-Track status, song titles filed under ST (built Thu Oct 29, 11:05 AM PDT (18:05 UTC)). Times in UTC.
+Track status, song titles filed under ST (built Thu Oct 29, 12:05 PM PDT (19:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   S.T.A.Y. — Hans Zimmer | last aired 2026-10-28 02:27 | normal pick now | request now
@@ -27,10 +27,10 @@ OK   Still Of The Night (Live In Tokyo, Japan / 1993) — Blue Murder | last air
 OK   Stop Googling Me ! — Bart&Baker | last aired 2026-10-27 16:34 | normal pick now | request now
 OK   Straight Outta Vagina (feat. Desi Mo & Leikeli47) — Pussy Riot | last aired 2026-09-15 09:55 | normal pick now | request now
 OK   Straight Up (Single Version) — Paula Abdul | last aired 2026-10-24 16:25 | normal pick now | request now
-WAIT Strange — Patsy Cline | last aired 2026-10-28 22:28 | normal pick from 2026-10-30 10:28 | request from 2026-10-29 18:28
+WAIT Strange — Patsy Cline | last aired 2026-10-28 22:28 | normal pick from 2026-10-30 10:28 | request now
 WAIT Stranger in Moscow — Michael Jackson | last aired 2026-10-29 12:39 | normal pick from 2026-10-31 00:39 | request from 2026-10-30 08:39
 OK   Stranger On The Shore — Acker Bilk | last aired 2026-10-24 05:47 | normal pick now | request now
-WAIT Stratosfear (Digital Remastered) — Tangerine Dream | last aired 2026-10-28 06:58 | normal pick from 2026-10-29 18:58 | request now
+OK   Stratosfear (Digital Remastered) — Tangerine Dream | last aired 2026-10-28 06:58 | normal pick now | request now
 OK   Strawberry Fields Forever — The Beatles | last aired 2026-10-25 14:15 | normal pick now | request now
 OK   Strawberry Letter 23 (Album Version) — The Brothers Johnson | last aired 2026-10-24 12:20 | normal pick now | request now
 OK   Street Fighting Man — The Rolling Stones | last aired 2026-10-24 13:40 | normal pick now | request now
@@ -39,5 +39,5 @@ OK   Streets of Philadelphia  (Single Edit) — Bruce Springsteen | last aired 2
 OK   Stressed Out — twenty one pilots | last aired 2026-10-26 12:18 | normal pick now | request now
 OK   Strings of Light — Yussef Kamaal | last aired 2026-10-23 17:23 | normal pick now | request now
 OK   Stripsearch — Faith No More | last aired 2026-10-20 19:48 | normal pick now | request now
-OK   Stuck In The Middle With You — Stealers Wheel | last aired 2026-10-28 00:52 | normal pick now | request now
+WAIT Stuck In The Middle With You — Stealers Wheel | last aired 2026-10-29 18:49 | normal pick from 2026-10-31 06:49 | request from 2026-10-30 14:49
 OK   Stupid Cupid — Red Velvet | last aired 2026-10-26 18:23 | normal pick now | request now
