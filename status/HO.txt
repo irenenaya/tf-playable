@@ -1,11 +1,11 @@
-Track status, artists filed under HO (built Thu Oct 29, 6:05 AM PDT (13:05 UTC)). Times in UTC.
+Track status, artists filed under HO (built Thu Oct 29, 7:05 AM PDT (14:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Holly Herndon — Chorus | last aired 2026-10-26 00:04 | normal pick now | request now
 OK   Home — We're Finally Landing | last aired 2026-10-24 08:57 | normal pick now | request now
-WAIT Hooverphonic — 2 Wicky | last aired 2026-10-28 17:47 | normal pick from 2026-10-30 05:47 | request from 2026-10-29 13:47
+WAIT Hooverphonic — 2 Wicky | last aired 2026-10-28 17:47 | normal pick from 2026-10-30 05:47 | request now
 OK   Horace Silver — Opus De Funk (Remastered 1998/Rudy Van Gelder Edition) | last aired 2026-10-27 16:54 | normal pick now | request now
-WAIT Horace Silver Quintet — Peace | last aired 2026-10-28 17:41 | normal pick from 2026-10-30 05:41 | request from 2026-10-29 13:41
+WAIT Horace Silver Quintet — Peace | last aired 2026-10-28 17:41 | normal pick from 2026-10-30 05:41 | request now
 OK   Hotel Ugly — Mice City | last aired 2026-10-26 10:35 | normal pick now | request now
 OK   Howard Shore — Caras Galadhon / "Lament for Gandalf" (feat. Elizabeth Fraser) | last aired 2026-10-19 19:08 | normal pick now | request now
 OK   Howlin' Wolf — Smokestack Lightnin' | last aired 2026-10-26 17:17 | normal pick now | request now
