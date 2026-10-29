@@ -1,4 +1,4 @@
-Track status, song titles filed under TH (built Thu Oct 29, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, song titles filed under TH (built Thu Oct 29, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT (They Long To Be) Close To You — The Carpenters | last aired 2026-10-29 01:41 | normal pick from 2026-10-30 13:41 | request from 2026-10-29 21:41
@@ -28,4 +28,4 @@ OK   Through The Fire And Flames — Dragonforce | last aired 2026-10-22 11:49 |
 OK   Thrown Away — VAST | last aired 2026-10-24 19:56 | normal pick now | request now
 OK   Thunder Road — Bruce Springsteen | last aired 2026-10-18 00:26 | normal pick now | request now
 OK   Thunderstruck — 2CELLOS | last aired 2026-10-20 12:59 | normal pick now | request now
-OK   Thunderstruck — AC/DC | last aired 2026-10-13 16:30 | normal pick now | request now
+WAIT Thunderstruck — AC/DC | last aired 2026-10-29 15:31 | normal pick from 2026-10-31 03:31 | request from 2026-10-30 11:31
