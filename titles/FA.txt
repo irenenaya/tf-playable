@@ -1,11 +1,11 @@
-Track status, song titles filed under FA (built Thu Oct 29, 5:05 AM PDT (12:05 UTC)). Times in UTC.
+Track status, song titles filed under FA (built Thu Oct 29, 6:05 AM PDT (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Face to Face — Daft Punk | last aired 2026-10-22 20:54 | normal pick now | request now
 OK   Facing East — Thievery Corporation | last aired 2026-10-27 07:49 | normal pick now | request now
 WAIT Fade Into You — Mazzy Star | last aired 2026-10-28 07:52 | normal pick from 2026-10-29 19:52 | request now
 OK   Fade To Grey — Visage | last aired 2026-10-25 13:36 | normal pick now | request now
-WAIT Fado Vadio (Má Fama) — Ana Sofia Varela | last aired 2026-10-28 08:10 | normal pick from 2026-10-30 08:10 | request from 2026-10-30 08:10
+WAIT Fado Vadio (Má Fama) — Ana Sofia Varela | last aired 2026-10-28 08:10 | normal pick from 2026-10-29 20:10 | request now
 OK   Fail Upward For A Change — Tom Konkle | last aired 2026-10-17 13:56 | normal pick now | request now
 OK   Fairytale — Alexander Rybak | last aired 2026-10-26 12:21 | normal pick now | request now
 OK   Fait Accompli — Curve | last aired 2026-10-24 07:22 | normal pick now | request now
@@ -18,7 +18,7 @@ OK   Familiar — Nils Frahm | last aired 2026-10-21 05:13 | normal pick now | r
 OK   Family Portrait — P!nk | last aired 2026-10-14 13:43 | normal pick now | request now
 OK   Famous Blue Raincoat — Leonard Cohen | last aired 2026-10-21 14:49 | normal pick now | request now
 OK   Fancy — Reba McEntire | last aired 2026-10-27 23:21 | normal pick now | request now
-WAIT Fantas — Caterina Barbieri | last aired 2026-10-29 08:40 | normal pick from 2026-10-30 20:40 | request from 2026-10-30 04:40
+WAIT Fantas — Caterina Barbieri | last aired 2026-10-29 08:41 | normal pick from 2026-10-30 20:41 | request from 2026-10-30 04:41
 WAIT Fantasiestücke, Op. 73 - Schumann: Fantasiestücke, Op. 73: No. 1, Zart und mit Ausdruck — Sol Gabetta | last aired 2026-10-28 19:27 | normal pick from 2026-10-30 07:27 | request from 2026-10-29 15:27
 OK   Fast Car  (2015 Remaster) — Tracy Chapman | last aired 2026-10-26 12:24 | normal pick now | request now
 OK   Fast Car (LP Version) — Tracy Chapman | last aired 2026-10-27 08:46 | normal pick now | request now

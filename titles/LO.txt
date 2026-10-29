@@ -1,4 +1,4 @@
-Track status, song titles filed under LO (built Thu Oct 29, 5:05 AM PDT (12:05 UTC)). Times in UTC.
+Track status, song titles filed under LO (built Thu Oct 29, 6:05 AM PDT (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   L-O-V-E — Nat King Cole | last aired 2026-10-27 15:54 | normal pick now | request now
@@ -16,7 +16,7 @@ WAIT Lost in Music (1995 Remaster) (LP Version) — Sister Sledge | last aired 2
 WAIT Lost In The Humming Air (2005 Digital Remaster) — Harold Budd | last aired 2026-10-29 02:01 | normal pick from 2026-10-30 14:01 | request from 2026-10-29 22:01
 OK   Lost on You — LP | last aired 2026-10-26 02:35 | normal pick now | request now
 OK   Louie Bag  (Live at Electric Lady) — YEBBA | last aired 2026-10-27 06:19 | normal pick now | request now
-OK   Love and Happiness — Al Green | last aired 2026-10-26 13:22 | normal pick now | request now
+WAIT Love and Happiness — Al Green | last aired 2026-10-29 13:01 | normal pick from 2026-10-31 01:01 | request from 2026-10-30 09:01
 OK   Love I — The Green | last aired 2026-10-09 01:40 | normal pick now | request now
 OK   Love Is Blue (Album Version) — Paul Mauriat | last aired 2026-10-24 09:23 | normal pick now | request now
 OK   Love Kills — Freddie Mercury | last aired 2026-10-24 13:49 | normal pick now | request now
@@ -27,7 +27,7 @@ WAIT LOVE TRIP — Takako Mamiya | last aired 2026-10-27 20:37 | normal pick fro
 WAIT Lovely Day — Bill Withers | last aired 2026-10-28 13:07 | normal pick from 2026-10-30 13:07 | request from 2026-10-30 13:07
 OK   Lovers Rock — TV Girl | last aired 2026-10-24 07:54 | normal pick now | request now
 OK   Lovesong  (2010 Remaster) — The Cure | last aired 2026-10-23 03:10 | normal pick now | request now
-OK   Lovin' Every Minute of It — Loverboy | last aired 2026-10-24 12:57 | normal pick now | request now
+WAIT Lovin' Every Minute of It — Loverboy | last aired 2026-10-29 12:49 | normal pick from 2026-10-31 00:49 | request from 2026-10-30 08:49
 WAIT Lovin' You — Minnie Riperton | last aired 2026-10-29 02:47 | normal pick from 2026-10-30 14:47 | request from 2026-10-29 22:47
 OK   Loving Machine — TV Girl | last aired 2026-10-16 13:16 | normal pick now | request now
 OK   Low Frequency Thunderstorm Shield — Cognitron | last aired 2026-10-21 06:17 | normal pick now | request now

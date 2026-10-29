@@ -1,4 +1,4 @@
-Track status, song titles filed under PE (built Thu Oct 29, 5:05 AM PDT (12:05 UTC)). Times in UTC.
+Track status, song titles filed under PE (built Thu Oct 29, 6:05 AM PDT (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   pe$o$ — Evan Fong | last aired 2026-10-18 03:52 | normal pick now | request now
@@ -10,7 +10,7 @@ OK   People Everywhere ii — Khruangbin | last aired 2026-10-22 18:00 | normal 
 OK   People Get Ready (Single Version) — The Impressions | last aired 2026-10-22 15:10 | normal pick now | request now
 OK   People Have the Power — Patti Smith | last aired 2026-10-22 18:19 | normal pick now | request now
 OK   People Suck [Explicit] — Confetti | last aired 2026-09-06 09:09 | normal pick now | request now
-OK   Perfect Day — Lou Reed | last aired 2026-10-23 15:20 | normal pick now | request now
+WAIT Perfect Day — Lou Reed | last aired 2026-10-29 12:31 | normal pick from 2026-10-31 00:31 | request from 2026-10-30 08:31
 OK   Perfect — Ed Sheeran | last aired 2026-10-18 22:00 | normal pick now | request now
 OK   Perfekte Welle — Juli | last aired 2026-10-26 22:49 | normal pick now | request now
 OK   Perform This Way (Parody of "Born This Way" by Lady Gaga) — Weird Al Yankovic | last aired 2026-10-13 10:00 | normal pick now | request now

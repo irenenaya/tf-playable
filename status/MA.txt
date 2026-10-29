@@ -1,4 +1,4 @@
-Track status, artists filed under MA (built Thu Oct 29, 5:05 AM PDT (12:05 UTC)). Times in UTC.
+Track status, artists filed under MA (built Thu Oct 29, 6:05 AM PDT (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   M/A/R/R/S — Pump Up The Volume (UK 12" Remix) | last aired 2026-10-27 19:21 | normal pick now | request now
@@ -14,7 +14,7 @@ WAIT Mana — Rayando el Sol | last aired 2026-10-27 15:44 | normal pick from 20
 OK   Manal — MORAK | last aired 2026-10-27 19:34 | normal pick now | request now
 WAIT Manau — Je Jazz Les Couleurs (Album Version) | last aired 2026-10-27 15:57 | normal pick from 2026-10-29 15:57 | request from 2026-10-29 15:57
 OK   Marc Rebillet — Late To Work | last aired 2026-10-27 18:59 | normal pick now | request now
-WAIT Marconi Union — Weightless | last aired 2026-10-29 09:02 | normal pick from 2026-10-30 21:02 | request from 2026-10-30 05:02
+WAIT Marconi Union — Weightless | last aired 2026-10-29 09:03 | normal pick from 2026-10-30 21:03 | request from 2026-10-30 05:03
 OK   Margaret Berger — I Feed You My Love (Extended Version) | last aired 2026-10-27 19:00 | normal pick now | request now
 OK   Maria McKee — Absolutely Barking Stars | last aired 2026-10-27 18:50 | normal pick now | request now
 OK   Maria McKee — Life Is Sweet | last aired 2026-10-27 18:46 | normal pick now | request now
@@ -38,7 +38,7 @@ WAIT Marty Friedman — Senbonzakura | last aired 2026-10-29 00:08 | normal pick
 OK   Marvin Gaye — Distant Lover | last aired 2026-10-19 23:45 | normal pick now | request now
 OK   Marvin Gaye — I Heard It Through The Grapevine (SACD Stereo) | last aired 2026-10-26 12:56 | normal pick now | request now
 OK   Marvin Gaye — Inner City Blues (Make Me Wanna Holler) | last aired 2026-10-15 10:53 | normal pick now | request now
-OK   Marvin Gaye — Let's Get It On | last aired 2026-10-10 00:27 | normal pick now | request now
+WAIT Marvin Gaye — Let's Get It On | last aired 2026-10-29 12:44 | normal pick from 2026-10-31 00:44 | request from 2026-10-30 08:44
 OK   Marvin Gaye — Mercy Mercy Me (The Ecology) | last aired 2026-10-26 09:44 | normal pick now | request now
 OK   Marvin Gaye — Save The Children | last aired 2026-10-25 00:21 | normal pick now | request now
 OK   Marvin Gaye — Sexual Healing (Album Version) | last aired 2026-10-21 20:31 | normal pick now | request now

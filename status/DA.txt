@@ -1,7 +1,7 @@
-Track status, artists filed under DA (built Thu Oct 29, 5:05 AM PDT (12:05 UTC)). Times in UTC.
+Track status, artists filed under DA (built Thu Oct 29, 6:05 AM PDT (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT D'Angelo — Untitled (How Does It Feel) | last aired 2026-10-28 16:14 | normal pick from 2026-10-30 04:14 | request from 2026-10-29 12:14
+WAIT D'Angelo — Untitled (How Does It Feel) | last aired 2026-10-28 16:14 | normal pick from 2026-10-30 04:14 | request now
 OK   Daft Punk — Around the World | last aired 2026-10-21 17:19 | normal pick now | request now
 OK   Daft Punk — Face to Face | last aired 2026-10-22 20:54 | normal pick now | request now
 OK   Daft Punk feat. Julian Casablancas — Instant Crush (feat. Julian Casablancas) | last aired 2026-10-24 11:05 | normal pick now | request now
@@ -13,7 +13,7 @@ OK   Daft Punk — Voyager | last aired 2026-10-27 23:14 | normal pick now | req
 OK   Dafuniks — The Dance | last aired 2026-10-24 08:15 | normal pick now | request now
 OK   Daikaiju — Magic Wanda | last aired 2026-10-26 03:11 | normal pick now | request now
 OK   Dalida — Paroles paroles (Album Version) | last aired 2026-10-24 22:33 | normal pick now | request now
-WAIT Damien Rice — The Blower's Daughter | last aired 2026-10-27 12:21 | normal pick from 2026-10-29 12:21 | request from 2026-10-29 12:21
+OK   Damien Rice — The Blower's Daughter | last aired 2026-10-27 12:21 | normal pick now | request now
 OK   Daniel Barenboim — Nocturne n° 2 in E flat, op. 9 n° 2 - Nocturne No. 2 in E-Flat Major, Op. 9 No. 2 | last aired 2026-10-25 18:18 | normal pick now | request now
 OK   Daniel Pemberton — Amaze Amaze Amaze (Life on Erid) (from "Project Hail Mary") | last aired 2026-10-25 22:33 | normal pick now | request now
 OK   Dara — Bangaranga | last aired 2026-10-24 21:47 | normal pick now | request now
@@ -39,4 +39,4 @@ OK   David Bowie — Wild Is the Wind  (2016 Remaster) | last aired 2026-10-26 1
 OK   David Byrne — Everybody's Coming to My House (Live) | last aired 2026-10-26 23:31 | normal pick now | request now
 OK   David Soul — Silver Lady | last aired 2026-10-13 15:58 | normal pick now | request now
 OK   David Sylvian — Darkest Dreaming | last aired 2026-10-26 20:24 | normal pick now | request now
-WAIT The Dave Brubeck Quartet — Take Five | last aired 2026-10-28 16:08 | normal pick from 2026-10-30 04:08 | request from 2026-10-29 12:08
+WAIT The Dave Brubeck Quartet — Take Five | last aired 2026-10-28 16:08 | normal pick from 2026-10-30 04:08 | request now

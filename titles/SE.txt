@@ -1,8 +1,8 @@
-Track status, song titles filed under SE (built Thu Oct 29, 5:05 AM PDT (12:05 UTC)). Times in UTC.
+Track status, song titles filed under SE (built Thu Oct 29, 6:05 AM PDT (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Secrets — The Weeknd | last aired 2026-10-02 04:10 | normal pick now | request now
-OK   SEI TU — Levante | last aired 2026-10-25 04:04 | normal pick now | request now
+WAIT SEI TU — Levante | last aired 2026-10-29 12:07 | normal pick from 2026-10-31 00:07 | request from 2026-10-30 08:07
 WAIT Seize The Day — Wax Tailor | last aired 2026-10-28 03:26 | normal pick from 2026-10-29 15:26 | request now
 OK   Senbonzakura (Hatsune Miku) — Jonathan Parecki | last aired 2026-09-02 17:36 | normal pick now | request now
 WAIT Senbonzakura — Marty Friedman | last aired 2026-10-29 00:08 | normal pick from 2026-10-30 12:08 | request from 2026-10-29 20:08

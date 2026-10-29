@@ -1,13 +1,13 @@
-Track status, song titles filed under LI (built Thu Oct 29, 5:05 AM PDT (12:05 UTC)). Times in UTC.
+Track status, song titles filed under LI (built Thu Oct 29, 6:05 AM PDT (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Li Beirut (after Joaquín Rodrigo) — Karim Sulayman | last aired 2026-10-17 06:37 | normal pick now | request now
 OK   Libertango (Arr. Yamamoto for Piano 4-Hands) — Beatrice Rana | last aired 2026-10-26 10:49 | normal pick now | request now
 OK   Libertango — Al Di Meola | last aired 2026-10-26 09:27 | normal pick now | request now
-WAIT Libertango — Rodrigo y Gabriela | last aired 2026-10-29 10:00 | normal pick from 2026-10-31 10:00 | request from 2026-10-31 10:00
+WAIT Libertango — Rodrigo y Gabriela | last aired 2026-10-29 10:01 | normal pick from 2026-10-31 10:01 | request from 2026-10-31 10:01
 WAIT Libertango — Yo-Yo Ma | last aired 2026-10-28 10:31 | normal pick from 2026-10-30 10:31 | request from 2026-10-30 10:31
 OK   Lid — Christian Löffler | last aired 2026-10-27 01:54 | normal pick now | request now
-OK   Life Is Strange — Lord Huron | last aired 2026-10-23 20:59 | normal pick now | request now
+WAIT Life Is Strange — Lord Huron | last aired 2026-10-29 12:11 | normal pick from 2026-10-31 12:11 | request from 2026-10-31 12:11
 OK   Life Is Sweet — Maria McKee | last aired 2026-10-27 18:46 | normal pick now | request now
 WAIT Life Itself — Glass Animals | last aired 2026-10-28 17:28 | normal pick from 2026-10-30 05:28 | request from 2026-10-29 13:28
 OK   Life Letters (Slowed+Reverb) — Never Get Used To People | last aired 2026-10-26 07:23 | normal pick now | request now
