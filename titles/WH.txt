@@ -1,4 +1,4 @@
-Track status, song titles filed under WH (built Thu Oct 29, 10:05 AM PDT (17:05 UTC)). Times in UTC.
+Track status, song titles filed under WH (built Thu Oct 29, 11:05 AM PDT (18:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Whistleblowers — Laibach | last aired 2026-10-26 00:33 | normal pick now | request now
@@ -34,4 +34,4 @@ OK   Who's That What's That — Niko B | last aired 2026-10-28 00:48 | normal pi
 OK   Wholy Holy — Aretha Franklin | last aired 2026-10-25 17:04 | normal pick now | request now
 OK   Wholy Holy — Marvin Gaye | last aired 2026-10-22 17:02 | normal pick now | request now
 OK   Why Me? — Big Bad Voodoo Daddy | last aired 2026-10-27 16:23 | normal pick now | request now
-WAIT Why Worry (Album Version) — Chet Atkins | last aired 2026-10-28 05:15 | normal pick from 2026-10-29 17:15 | request now
+OK   Why Worry (Album Version) — Chet Atkins | last aired 2026-10-28 05:15 | normal pick now | request now

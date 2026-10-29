@@ -1,10 +1,10 @@
-Track status, artists filed under FL (built Thu Oct 29, 10:05 AM PDT (17:05 UTC)). Times in UTC.
+Track status, artists filed under FL (built Thu Oct 29, 11:05 AM PDT (18:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Fleet Foxes — Helplessness Blues | last aired 2026-10-28 20:20 | normal pick from 2026-10-30 20:20 | request from 2026-10-30 20:20
 WAIT Fleet Foxes — Mykonos | last aired 2026-10-27 21:10 | normal pick from 2026-10-29 21:10 | request from 2026-10-29 21:10
 OK   Fleet Foxes — White Winter Hymnal | last aired 2026-10-16 12:06 | normal pick now | request now
-OK   Fleetwood Mac — Albatross | last aired 2026-10-27 21:14 | normal pick now | request now
+WAIT Fleetwood Mac — Albatross | last aired 2026-10-29 17:04 | normal pick from 2026-10-31 05:04 | request from 2026-10-30 13:04
 OK   Fleetwood Mac — Dreams  (2001 Remaster) | last aired 2026-10-21 04:36 | normal pick now | request now
 OK   Fleetwood Mac — Dreams  (2004 Remaster) | last aired 2026-10-17 23:07 | normal pick now | request now
 OK   Fleetwood Mac — Go Your Own Way  (2004 Remaster) | last aired 2026-10-26 02:16 | normal pick now | request now

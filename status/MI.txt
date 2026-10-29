@@ -1,4 +1,4 @@
-Track status, artists filed under MI (built Thu Oct 29, 10:05 AM PDT (17:05 UTC)). Times in UTC.
+Track status, artists filed under MI (built Thu Oct 29, 11:05 AM PDT (18:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Mica Levi — Love | last aired 2026-10-28 02:44 | normal pick now | request now
@@ -11,7 +11,7 @@ OK   Michael Jackson — Jam | last aired 2026-10-23 19:44 | normal pick now | r
 OK   Michael Jackson — Morphine (Album Version) | last aired 2026-10-13 15:32 | normal pick now | request now
 WAIT Michael Jackson — Rock with You (Single Version) | last aired 2026-10-29 14:04 | normal pick from 2026-10-31 02:04 | request from 2026-10-30 10:04
 WAIT Michael Jackson — Stranger in Moscow | last aired 2026-10-29 12:39 | normal pick from 2026-10-31 00:39 | request from 2026-10-30 08:39
-OK   Michael Jackson — Thriller | last aired 2026-10-19 15:45 | normal pick now | request now
+WAIT Michael Jackson — Thriller | last aired 2026-10-29 17:23 | normal pick from 2026-10-31 05:23 | request from 2026-10-30 13:23
 OK   Michael Jackson — Who Is It | last aired 2026-10-06 12:08 | normal pick now | request now
 OK   Michael Jackson — You Are Not Alone | last aired 2026-10-26 10:10 | normal pick now | request now
 WAIT Michael McDonald — I Keep Forgettin' (Every Time You're Near) | last aired 2026-10-29 02:54 | normal pick from 2026-10-31 02:54 | request from 2026-10-31 02:54

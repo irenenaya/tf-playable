@@ -1,4 +1,4 @@
-Track status, song titles filed under HA (built Thu Oct 29, 10:05 AM PDT (17:05 UTC)). Times in UTC.
+Track status, song titles filed under HA (built Thu Oct 29, 11:05 AM PDT (18:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Halah — Mazzy Star | last aired 2026-10-24 00:07 | normal pick now | request now
@@ -20,7 +20,7 @@ OK   Harmony in Blue I — Tim Hecker | last aired 2026-10-22 01:05 | normal pic
 OK   Haru No Iutoori — indigo la End | last aired 2026-10-27 09:12 | normal pick now | request now
 WAIT Harvest Moon (Album Version) — Neil Young | last aired 2026-10-28 21:45 | normal pick from 2026-10-30 21:45 | request from 2026-10-30 21:45
 OK   Hate Yourself — TV Girl | last aired 2026-10-27 10:00 | normal pick now | request now
-OK   Haunted When the Minutes Drag — Love and Rockets | last aired 2026-10-23 11:33 | normal pick now | request now
+WAIT Haunted When the Minutes Drag — Love and Rockets | last aired 2026-10-29 17:15 | normal pick from 2026-10-31 05:15 | request from 2026-10-30 13:15
 WAIT Haus am See — Peter Fox | last aired 2026-10-29 05:31 | normal pick from 2026-10-31 05:31 | request from 2026-10-31 05:31
 OK   Have a Cigar — Pink Floyd | last aired 2026-10-26 01:08 | normal pick now | request now
 OK   Have Yourself A Merry Little Christmas (Remastered 1999) — Frank Sinatra | last aired 2026-08-13 12:59 | normal pick now | request now

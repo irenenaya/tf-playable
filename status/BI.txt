@@ -1,7 +1,7 @@
-Track status, artists filed under BI (built Thu Oct 29, 10:05 AM PDT (17:05 UTC)). Times in UTC.
+Track status, artists filed under BI (built Thu Oct 29, 11:05 AM PDT (18:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Bicep — Apricots | last aired 2026-10-26 20:51 | normal pick now | request now
+WAIT Bicep — Apricots | last aired 2026-10-29 17:58 | normal pick from 2026-10-31 05:58 | request from 2026-10-30 13:58
 OK   Big Bad Voodoo Daddy — Why Me? | last aired 2026-10-27 16:23 | normal pick now | request now
 OK   Big Data — Put Me to Work | last aired 2026-10-24 23:01 | normal pick now | request now
 WAIT Big Thief — Mary | last aired 2026-10-29 06:38 | normal pick from 2026-10-31 06:38 | request from 2026-10-31 06:38
