@@ -1,4 +1,4 @@
-Track status, song titles filed under 0-9 (built Wed Oct 28, 5:05 PM PDT (00:05 UTC Thu)). Times in UTC.
+Track status, song titles filed under 0-9 (built Wed Oct 28, 6:05 PM PDT (01:05 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   00:00 — Siddhartha | last aired 2026-10-18 14:39 | normal pick now | request now
@@ -19,5 +19,5 @@ OK   5.17 — Thom Yorke | last aired 2026-10-26 18:34 | normal pick now | reque
 OK   505 — Arctic Monkeys | last aired 2026-10-26 14:32 | normal pick now | request now
 OK   52 CHICKEN NUGGET (McRave) — Beats by Luca | last aired 2026-10-18 11:09 | normal pick now | request now
 OK   6 Underground — Sneaker Pimps | last aired 2026-10-24 17:52 | normal pick now | request now
-WAIT 7 Seconds (Album Version) — Youssou N'Dour featuring Neneh Cherry | last aired 2026-10-28 23:14 | normal pick from 2026-10-30 23:14 | request from 2026-10-30 23:14
+WAIT 7 Seconds (Album Version) — Youssou N'Dour featuring Neneh Cherry | last aired 2026-10-28 23:15 | normal pick from 2026-10-30 23:15 | request from 2026-10-30 23:15
 OK   9 to 5 — Dolly Parton | last aired 2026-10-25 23:28 | normal pick now | request now
