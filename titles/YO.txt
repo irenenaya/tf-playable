@@ -1,10 +1,10 @@
-Track status, song titles filed under YO (built Thu Oct 29, 12:05 AM PDT (07:05 UTC)). Times in UTC.
+Track status, song titles filed under YO (built Thu Oct 29, 1:05 AM PDT (08:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT You and I — Papooz | last aired 2026-10-27 20:25 | normal pick from 2026-10-29 08:25 | request now
-OK   You Are — Lionel Richie | last aired 2026-10-27 06:48 | normal pick now | request now
+WAIT You Are — Lionel Richie | last aired 2026-10-29 07:47 | normal pick from 2026-10-31 07:47 | request from 2026-10-31 07:47
 OK   You Are Not Alone — Michael Jackson | last aired 2026-10-26 10:10 | normal pick now | request now
-OK   You Are So Beautiful — Charles Lloyd | last aired 2026-10-27 09:52 | normal pick now | request now
+WAIT You Are So Beautiful — Charles Lloyd | last aired 2026-10-29 07:43 | normal pick from 2026-10-30 19:43 | request from 2026-10-30 03:43
 WAIT You Are So Beautiful — Charles Lloyd & The Marvels | last aired 2026-10-28 16:02 | normal pick from 2026-10-30 04:02 | request from 2026-10-29 12:02
 OK   You Belong to Me  (2016 Remaster) — The Doobie Brothers | last aired 2026-10-23 13:31 | normal pick now | request now
 OK   You Can Call Me Al — Paul Simon | last aired 2026-10-26 19:53 | normal pick now | request now
@@ -17,9 +17,9 @@ OK   You Haven't Done Nothin' — Stevie Wonder | last aired 2026-10-26 12:43 | 
 OK   You Know Me Better Than I Know Myself — Cult With No Name | last aired 2026-10-27 02:58 | normal pick now | request now
 OK   You Know, You Know (Album Version) — John McLaughlin | last aired 2026-10-20 05:00 | normal pick now | request now
 OK   You Suffer — Napalm Death | last aired 2026-08-10 11:48 | normal pick now | request now
-WAIT You — The Jetzons | last aired 2026-10-28 12:04 | normal pick from 2026-10-30 00:04 | request from 2026-10-29 08:04
+WAIT You — The Jetzons | last aired 2026-10-28 12:04 | normal pick from 2026-10-30 00:04 | request now
 WAIT You're The One That I Want — Angus & Julia Stone | last aired 2026-10-29 02:51 | normal pick from 2026-10-31 02:51 | request from 2026-10-31 02:51
-WAIT Young And Beautiful — Lana Del Rey | last aired 2026-10-27 19:10 | normal pick from 2026-10-29 07:10 | request now
+OK   Young And Beautiful — Lana Del Rey | last aired 2026-10-27 19:10 | normal pick now | request now
 OK   Your Flag Decal Won't Get You into Heaven Anymore — John Prine | last aired 2026-10-23 22:35 | normal pick now | request now
 OK   Your Hand in Mine — Explosions In The Sky | last aired 2026-10-23 02:39 | normal pick now | request now
 OK   Your Latest Trick — Dire Straits | last aired 2026-10-20 16:43 | normal pick now | request now

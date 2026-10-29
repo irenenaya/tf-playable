@@ -1,8 +1,8 @@
-Track status, song titles filed under BR (built Thu Oct 29, 12:05 AM PDT (07:05 UTC)). Times in UTC.
+Track status, song titles filed under BR (built Thu Oct 29, 1:05 AM PDT (08:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Brandenburg Concerto No. 3 in G Major, BWV 1048: I. Allegro — Herbert Waltl | last aired 2026-10-25 05:19 | normal pick now | request now
-OK   Bread and Roses — Judy Collins | last aired 2026-10-27 03:40 | normal pick now | request now
+WAIT Bread and Roses — Judy Collins | last aired 2026-10-29 07:40 | normal pick from 2026-10-30 19:40 | request from 2026-10-30 03:40
 OK   Break The Night With Colour — Richard Ashcroft | last aired 2026-10-13 08:26 | normal pick now | request now
 OK   Breaking Glass  (2017 Remaster) — David Bowie | last aired 2026-10-18 12:22 | normal pick now | request now
 OK   Breaking the Law — Judas Priest | last aired 2026-10-17 04:45 | normal pick now | request now
