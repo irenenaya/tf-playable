@@ -1,7 +1,7 @@
-Track status, artists filed under TE (built Wed Oct 28, 4:05 PM PDT (23:05 UTC)). Times in UTC.
+Track status, artists filed under TE (built Wed Oct 28, 5:05 PM PDT (00:05 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Tears For Fears — Everybody Wants To Rule The World | last aired 2026-10-26 22:25 | normal pick now | request now
+WAIT Tears For Fears — Everybody Wants To Rule The World | last aired 2026-10-28 23:59 | normal pick from 2026-10-30 23:59 | request from 2026-10-30 23:59
 WAIT Tears For Fears — Mad World | last aired 2026-10-28 00:16 | normal pick from 2026-10-30 00:16 | request from 2026-10-30 00:16
 OK   Teddy Swims — The Door | last aired 2026-10-25 03:25 | normal pick now | request now
 OK   Tenacious D — ...Baby One More Time (from Kung Fu Panda 4) | last aired 2026-10-18 11:11 | normal pick now | request now
@@ -10,4 +10,4 @@ WAIT Teresa Teng — 月亮代表我的心 | last aired 2026-10-28 00:12 | norma
 WAIT THE TEARDROP EXPLODES — Reward | last aired 2026-10-28 00:20 | normal pick from 2026-10-29 12:20 | request now
 OK   The Temprees — At Last | last aired 2026-10-20 19:14 | normal pick now | request now
 OK   The Temptations — At Last (Album Version) | last aired 2026-10-17 12:23 | normal pick now | request now
-OK   The Temptations — Papa Was A Rollin' Stone (Full Version) | last aired 2026-10-25 17:43 | normal pick now | request now
+WAIT The Temptations — Papa Was A Rollin' Stone (Full Version) | last aired 2026-10-28 23:47 | normal pick from 2026-10-30 11:47 | request from 2026-10-29 19:47

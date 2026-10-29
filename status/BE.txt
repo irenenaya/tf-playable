@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Wed Oct 28, 4:05 PM PDT (23:05 UTC)). Times in UTC.
+Track status, artists filed under BE (built Wed Oct 28, 5:05 PM PDT (00:05 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Beach House — Bluebird | last aired 2026-10-28 09:19 | normal pick from 2026-10-29 21:19 | request from 2026-10-29 05:19
@@ -8,7 +8,7 @@ OK   Beatrice Rana — Keyboard Concerto No. 1 in D Minor, BWV 1052: I. Allegro 
 OK   Beatrice Rana — Libertango (Arr. Yamamoto for Piano 4-Hands) | last aired 2026-10-26 10:49 | normal pick now | request now
 OK   Beats by Luca — 52 CHICKEN NUGGET (McRave) | last aired 2026-10-18 11:09 | normal pick now | request now
 WAIT Bebel Gilberto — Samba Da Benção | last aired 2026-10-27 03:05 | normal pick from 2026-10-29 03:05 | request from 2026-10-29 03:05
-WAIT Beck — Devils Haircut | last aired 2026-10-27 11:52 | normal pick from 2026-10-28 23:52 | request now
+OK   Beck — Devils Haircut | last aired 2026-10-27 11:52 | normal pick now | request now
 WAIT Beck — Loser | last aired 2026-10-28 11:23 | normal pick from 2026-10-30 11:23 | request from 2026-10-30 11:23
 OK   Beck — The New Pollution | last aired 2026-10-26 19:03 | normal pick now | request now
 OK   Becky Levi and the Nightjars — Wake Me Up | last aired 2026-10-22 06:23 | normal pick now | request now
