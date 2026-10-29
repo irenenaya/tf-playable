@@ -1,4 +1,4 @@
-Track status, artists filed under TA (built Thu Oct 29, 3:05 PM PDT (22:05 UTC)). Times in UTC.
+Track status, artists filed under TA (built Thu Oct 29, 4:05 PM PDT (23:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Tabu — Dobra Vila | last aired 2026-10-22 16:58 | normal pick now | request now
@@ -22,4 +22,4 @@ OK   Tate McRae — greedy | last aired 2026-10-18 03:24 | normal pick now | req
 OK   Tate McRae — Miss possessive | last aired 2026-08-13 13:28 | normal pick now | request now
 OK   Tate McRae — TIT FOR TAT | last aired 2026-10-25 19:53 | normal pick now | request now
 OK   Taylor Swift — Cruel Summer | last aired 2026-10-07 00:48 | normal pick now | request now
-WAIT The Tallest Man On Earth — The Gardener | last aired 2026-10-29 02:11 | normal pick from 2026-10-30 14:11 | request from 2026-10-29 22:11
+WAIT The Tallest Man On Earth — The Gardener | last aired 2026-10-29 02:11 | normal pick from 2026-10-30 14:11 | request now

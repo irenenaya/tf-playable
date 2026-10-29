@@ -1,4 +1,4 @@
-Track status, song titles filed under MA (built Thu Oct 29, 3:05 PM PDT (22:05 UTC)). Times in UTC.
+Track status, song titles filed under MA (built Thu Oct 29, 4:05 PM PDT (23:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Mad World — Gary Jules | last aired 2026-10-27 05:09 | normal pick now | request now
@@ -22,7 +22,7 @@ OK   Marunouchi sadistic (Cover) — Mizuki Tomoda | last aired 2026-10-17 14:46
 WAIT Mary — Big Thief | last aired 2026-10-29 06:38 | normal pick from 2026-10-31 06:38 | request from 2026-10-31 06:38
 WAIT Mas, Que Nada! — Jorge Ben Jor | last aired 2026-10-29 16:02 | normal pick from 2026-10-31 16:02 | request from 2026-10-31 16:02
 OK   Mass Production — Iggy Pop | last aired 2026-10-15 19:52 | normal pick now | request now
-OK   Master Blaster (Jammin') — Stevie Wonder | last aired 2026-10-19 19:32 | normal pick now | request now
+WAIT Master Blaster (Jammin') — Stevie Wonder | last aired 2026-10-29 22:30 | normal pick from 2026-10-31 10:30 | request from 2026-10-30 18:30
 OK   Master of Puppets  (Live at Irvine Meadows Amphitheatre, Irvine, CA, 8/4/1996) — Metallica | last aired 2026-10-23 13:38 | normal pick now | request now
 OK   Matte Kudasai — King Crimson | last aired 2026-10-24 20:41 | normal pick now | request now
 OK   Maureen — Martin Ditcham | last aired 2026-08-18 22:36 | normal pick now | request now
@@ -30,7 +30,7 @@ OK   May Ninth — Khruangbin | last aired 2026-10-23 15:02 | normal pick now | 
 OK   Maybe I’m Amazed (2011 Remaster) — Paul McCartney | last aired 2026-10-21 18:53 | normal pick now | request now
 OK   Maybe — The Ink Spots | last aired 2026-10-26 13:16 | normal pick now | request now
 OK   Maybe The Night — Ben&Ben | last aired 2026-10-08 16:41 | normal pick now | request now
-WAIT Maybe They Will Sing for Us Tomorrow — Hammock | last aired 2026-10-29 02:06 | normal pick from 2026-10-30 14:06 | request from 2026-10-29 22:06
+WAIT Maybe They Will Sing for Us Tomorrow — Hammock | last aired 2026-10-29 02:06 | normal pick from 2026-10-30 14:06 | request now
 OK   Má Vlast, JB 1:112-Vltava Smetana, Bedřich 伏塔瓦河 史麥塔納 — 江晴 | last aired 2026-09-21 02:37 | normal pick now | request now
 OK   Männer (Remastered 2016) — Herbert Grönemeyer | last aired 2026-10-21 04:44 | normal pick now | request now
 OK   The Makings of You (2019 Remaster) (Remastered) — Curtis Mayfield | last aired 2026-10-26 12:39 | normal pick now | request now
