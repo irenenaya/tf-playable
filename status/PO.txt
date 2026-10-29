@@ -1,17 +1,17 @@
-Track status, artists filed under PO (built Thu Oct 29, 2:05 PM PDT (21:05 UTC)). Times in UTC.
+Track status, artists filed under PO (built Thu Oct 29, 3:05 PM PDT (22:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Polar Sun — Caribou | last aired 2026-10-29 11:59 | normal pick from 2026-10-30 23:59 | request from 2026-10-30 07:59
-OK   Pop Evil — Breathe Again | last aired 2026-10-26 11:58 | normal pick now | request now
-OK   Pornophonique — Sad Robot | last aired 2026-10-26 22:12 | normal pick now | request now
+WAIT Pop Evil — Breathe Again | last aired 2026-10-29 21:44 | normal pick from 2026-10-31 09:44 | request from 2026-10-30 17:44
+WAIT Pornophonique — Sad Robot | last aired 2026-10-29 21:25 | normal pick from 2026-10-31 09:25 | request from 2026-10-30 17:25
 WAIT Portishead — Glory Box (Album Version) | last aired 2026-10-28 00:26 | normal pick from 2026-10-30 00:26 | request from 2026-10-30 00:26
-WAIT Portishead — It Could Be Sweet | last aired 2026-10-29 17:48 | normal pick from 2026-10-31 05:48 | request from 2026-10-30 13:48
+WAIT Portishead — It Could Be Sweet | last aired 2026-10-29 17:49 | normal pick from 2026-10-31 05:49 | request from 2026-10-30 13:49
 WAIT Portishead — Roads | last aired 2026-10-29 11:54 | normal pick from 2026-10-30 23:54 | request from 2026-10-30 07:54
 WAIT Portishead — Sour Times | last aired 2026-10-29 12:57 | normal pick from 2026-10-31 00:57 | request from 2026-10-30 08:57
-OK   Portishead — Wandering Star | last aired 2026-10-27 00:42 | normal pick now | request now
+WAIT Portishead — Wandering Star | last aired 2026-10-29 21:39 | normal pick from 2026-10-31 09:39 | request from 2026-10-30 17:39
 OK   Post Malone — Chemical | last aired 2026-10-25 20:42 | normal pick now | request now
-OK   Powerwolf — Demons Are a Girl's Best Friend | last aired 2026-10-25 20:21 | normal pick now | request now
-WAIT The Police — Message In A Bottle (Remastered 2003) | last aired 2026-10-29 17:43 | normal pick from 2026-10-31 05:43 | request from 2026-10-30 13:43
+WAIT Powerwolf — Demons Are a Girl's Best Friend | last aired 2026-10-29 21:35 | normal pick from 2026-10-31 09:35 | request from 2026-10-30 17:35
+WAIT The Police — Message In A Bottle (Remastered 2003) | last aired 2026-10-29 17:44 | normal pick from 2026-10-31 05:44 | request from 2026-10-30 13:44
 OK   The Police — Roxanne (Remastered 2003) | last aired 2026-10-25 23:18 | normal pick now | request now
-OK   The Police — Walking On The Moon (Remastered 2003) | last aired 2026-10-19 00:33 | normal pick now | request now
+WAIT The Police — Walking On The Moon (Remastered 2003) | last aired 2026-10-29 21:30 | normal pick from 2026-10-31 09:30 | request from 2026-10-30 17:30
 OK   The Postal Service — Such Great Heights (Remastered) | last aired 2026-10-23 00:43 | normal pick now | request now

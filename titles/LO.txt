@@ -1,4 +1,4 @@
-Track status, song titles filed under LO (built Thu Oct 29, 2:05 PM PDT (21:05 UTC)). Times in UTC.
+Track status, song titles filed under LO (built Thu Oct 29, 3:05 PM PDT (22:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   L-O-V-E — Nat King Cole | last aired 2026-10-27 15:54 | normal pick now | request now
@@ -12,8 +12,8 @@ OK   Longing — Nusrat Fateh Ali Khan | last aired 2026-10-27 05:56 | normal pi
 WAIT Loser — Beck | last aired 2026-10-28 11:23 | normal pick from 2026-10-30 11:23 | request from 2026-10-30 11:23
 OK   Losing Faith — Tom Konkle | last aired 2026-09-12 01:59 | normal pick now | request now
 OK   Lost Coastlines — Okkervil River | last aired 2026-10-24 09:39 | normal pick now | request now
-WAIT Lost in Music (1995 Remaster) (LP Version) — Sister Sledge | last aired 2026-10-27 21:47 | normal pick from 2026-10-29 21:47 | request from 2026-10-29 21:47
-WAIT Lost In The Humming Air (2005 Digital Remaster) — Harold Budd | last aired 2026-10-29 02:01 | normal pick from 2026-10-30 14:01 | request from 2026-10-29 22:01
+OK   Lost in Music (1995 Remaster) (LP Version) — Sister Sledge | last aired 2026-10-27 21:47 | normal pick now | request now
+WAIT Lost In The Humming Air (2005 Digital Remaster) — Harold Budd | last aired 2026-10-29 02:01 | normal pick from 2026-10-30 14:01 | request now
 OK   Lost on You — LP | last aired 2026-10-26 02:35 | normal pick now | request now
 OK   Louie Bag  (Live at Electric Lady) — YEBBA | last aired 2026-10-27 06:19 | normal pick now | request now
 WAIT Love and Happiness — Al Green | last aired 2026-10-29 13:01 | normal pick from 2026-10-31 01:01 | request from 2026-10-30 09:01
@@ -35,5 +35,5 @@ OK   Lowdown (2023 Remaster) — Boz Scaggs | last aired 2026-10-25 04:23 | norm
 OK   The Lonesome Death of Hattie Carroll — Bob Dylan | last aired 2026-10-23 03:23 | normal pick now | request now
 OK   The Long Road — Mark Knopfler | last aired 2026-10-28 06:04 | normal pick now | request now
 WAIT The Look — Roxette | last aired 2026-10-28 14:45 | normal pick from 2026-10-30 02:45 | request now
-WAIT The Lord Will Make a Way — Al Green | last aired 2026-10-29 17:07 | normal pick from 2026-10-31 05:07 | request from 2026-10-30 13:07
+WAIT The Lord Will Make a Way — Al Green | last aired 2026-10-29 17:08 | normal pick from 2026-10-31 05:08 | request from 2026-10-30 13:08
 OK   The Love Song — Marilyn Manson | last aired 2026-10-25 20:53 | normal pick now | request now
