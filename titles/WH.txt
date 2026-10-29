@@ -1,8 +1,8 @@
-Track status, song titles filed under WH (built Thu Oct 29, 3:05 AM PDT (10:05 UTC)). Times in UTC.
+Track status, song titles filed under WH (built Thu Oct 29, 4:05 AM PDT (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Whistleblowers — Laibach | last aired 2026-10-26 00:33 | normal pick now | request now
-OK   Whales Tails — Cocteau Twins | last aired 2026-10-27 09:48 | normal pick now | request now
+WAIT Whales Tails — Cocteau Twins | last aired 2026-10-29 10:55 | normal pick from 2026-10-31 10:55 | request from 2026-10-31 10:55
 OK   What a Fool Believes — The Doobie Brothers | last aired 2026-10-25 14:48 | normal pick now | request now
 OK   What About Us — P!nk | last aired 2026-10-20 23:05 | normal pick now | request now
 OK   What Cha' Gonna Do for Me — Chaka Khan | last aired 2026-10-26 23:06 | normal pick now | request now

@@ -1,9 +1,9 @@
-Track status, song titles filed under CA (built Thu Oct 29, 3:05 AM PDT (10:05 UTC)). Times in UTC.
+Track status, song titles filed under CA (built Thu Oct 29, 4:05 AM PDT (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   California Dreamin' (Single Version) — The Mamas & The Papas | last aired 2026-10-22 14:06 | normal pick now | request now
 WAIT Californication — Red Hot Chili Peppers | last aired 2026-10-27 23:26 | normal pick from 2026-10-29 11:26 | request now
-WAIT Call Me — Blondie | last aired 2026-10-27 22:25 | normal pick from 2026-10-29 10:25 | request now
+OK   Call Me — Blondie | last aired 2026-10-27 22:25 | normal pick now | request now
 OK   Call Out My Name — The Weeknd | last aired 2026-10-26 15:43 | normal pick now | request now
 OK   Calling You (Live) — Jeff Buckley | last aired 2026-10-25 22:57 | normal pick now | request now
 OK   Camouflage (Acoustic Mix) — Tom Konkle | last aired 2026-10-18 01:50 | normal pick now | request now
@@ -14,7 +14,7 @@ WAIT Candide: Overture — Leonard Bernstein | last aired 2026-10-28 18:51 | nor
 OK   Capsule — Brian Eno | last aired 2026-10-24 02:15 | normal pick now | request now
 OK   Captain Morgan`s Revenge — Alestorm | last aired 2026-10-18 02:31 | normal pick now | request now
 OK   Caras Galadhon / "Lament for Gandalf" (feat. Elizabeth Fraser) — Howard Shore | last aired 2026-10-19 19:08 | normal pick now | request now
-OK   Caribbean Blue (2009 Remaster) (Remastered 2009) — Enya | last aired 2026-10-27 06:34 | normal pick now | request now
+WAIT Caribbean Blue (2009 Remaster) (Remastered 2009) — Enya | last aired 2026-10-29 10:51 | normal pick from 2026-10-30 22:51 | request from 2026-10-30 06:51
 OK   Caribou — Polar Sun | last aired 2026-10-26 19:41 | normal pick now | request now
 OK   Cariño — The Marías | last aired 2026-10-20 14:55 | normal pick now | request now
 OK   Carnival of the Animals, R. 125: XIII. The Swan — Yo-Yo Ma | last aired 2026-10-25 21:56 | normal pick now | request now

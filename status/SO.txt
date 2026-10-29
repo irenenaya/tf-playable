@@ -1,4 +1,4 @@
-Track status, artists filed under SO (built Thu Oct 29, 3:05 AM PDT (10:05 UTC)). Times in UTC.
+Track status, artists filed under SO (built Thu Oct 29, 4:05 AM PDT (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Soda Stereo — De Música Ligera (Remasterizado 2007) | last aired 2026-10-23 07:21 | normal pick now | request now
@@ -14,6 +14,6 @@ WAIT Sophie Hunger — Le vent nous portera | last aired 2026-10-28 23:20 | norm
 OK   Sophie Hunger — Shape | last aired 2026-10-26 21:19 | normal pick now | request now
 WAIT Soul Coughing — Screenwriter's Blues | last aired 2026-10-29 09:28 | normal pick from 2026-10-30 21:28 | request from 2026-10-30 05:28
 OK   Soundgarden — Black Hole Sun | last aired 2026-10-27 14:13 | normal pick now | request now
-OK   Soundgarden — Fell On Black Days (Album Version) | last aired 2026-10-21 22:32 | normal pick now | request now
+WAIT Soundgarden — Fell On Black Days (Album Version) | last aired 2026-10-29 10:58 | normal pick from 2026-10-30 22:58 | request from 2026-10-30 06:58
 OK   Soundgarden — Holy Water (Album Version) | last aired 2026-10-27 01:19 | normal pick now | request now
 WAIT The Soul Stirrers — Touch The Hem Of His Garment | last aired 2026-10-29 05:00 | normal pick from 2026-10-30 17:00 | request from 2026-10-30 01:00
