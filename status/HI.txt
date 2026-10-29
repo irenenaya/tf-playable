@@ -1,7 +1,7 @@
-Track status, artists filed under HI (built Thu Oct 29, 1:05 AM PDT (08:05 UTC)). Times in UTC.
+Track status, artists filed under HI (built Thu Oct 29, 2:05 AM PDT (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Hiatus Kaiyote — By Fire | last aired 2026-10-26 01:44 | normal pick now | request now
-OK   Hikaru Utada — First Love | last aired 2026-10-26 16:07 | normal pick now | request now
+WAIT Hikaru Utada — First Love | last aired 2026-10-29 08:21 | normal pick from 2026-10-31 08:21 | request from 2026-10-31 08:21
 WAIT Hindi Zahra — Beautiful Tango (Remastered Version) | last aired 2026-10-28 03:22 | normal pick from 2026-10-30 03:22 | request from 2026-10-30 03:22
-WAIT Hiroshi Yoshimura — Feel | last aired 2026-10-29 07:35 | normal pick from 2026-10-30 19:35 | request from 2026-10-30 03:35
+WAIT Hiroshi Yoshimura — Feel | last aired 2026-10-29 07:36 | normal pick from 2026-10-31 07:36 | request from 2026-10-31 07:36

@@ -1,4 +1,4 @@
-Track status, song titles filed under PA (built Thu Oct 29, 1:05 AM PDT (08:05 UTC)). Times in UTC.
+Track status, song titles filed under PA (built Thu Oct 29, 2:05 AM PDT (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Pac-Man (feat. ScHoolboy Q) — Gorillaz | last aired 2026-10-22 00:14 | normal pick now | request now
@@ -17,9 +17,9 @@ OK   Paroles paroles (Album Version) — Dalida | last aired 2026-10-24 22:33 | 
 OK   Party Hard (Album Version) — Andrew W.K. | last aired 2026-10-26 02:48 | normal pick now | request now
 OK   Party In The U.S.A. — Miley Cyrus | last aired 2026-10-24 21:54 | normal pick now | request now
 WAIT Pasión (Album Version) — Rodrigo Leão | last aired 2026-10-28 05:36 | normal pick from 2026-10-30 05:36 | request from 2026-10-30 05:36
-WAIT Passion Play (Live in Paris) — William Fitzsimmons | last aired 2026-10-27 20:51 | normal pick from 2026-10-29 08:51 | request now
+OK   Passion Play (Live in Paris) — William Fitzsimmons | last aired 2026-10-27 20:51 | normal pick now | request now
 OK   Passion, Grace & Fire (Album Version) — Al Di Meola | last aired 2026-10-24 03:34 | normal pick now | request now
-WAIT Pata Pata — Miriam Makeba | last aired 2026-10-27 08:12 | normal pick from 2026-10-29 08:12 | request from 2026-10-29 08:12
+OK   Pata Pata — Miriam Makeba | last aired 2026-10-27 08:12 | normal pick now | request now
 OK   Patient — Playroom | last aired 2026-10-26 15:32 | normal pick now | request now
 OK   Pattern Recognition (feat. ODDEEO) — Neuro-sama | last aired 2026-09-25 15:01 | normal pick now | request now
 OK   Pärt: Für Alina — Alexander Malter | last aired 2026-10-25 18:33 | normal pick now | request now

@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Thu Oct 29, 1:05 AM PDT (08:05 UTC)). Times in UTC.
+Track status, artists filed under BE (built Thu Oct 29, 2:05 AM PDT (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Beach House — Bluebird | last aired 2026-10-28 09:19 | normal pick from 2026-10-29 21:19 | request now
@@ -22,7 +22,7 @@ WAIT Ben Harper — Yard Sale | last aired 2026-10-29 03:50 | normal pick from 2
 WAIT Ben Howard — Only Love | last aired 2026-10-28 11:55 | normal pick from 2026-10-29 23:55 | request now
 WAIT Ben&Ben — Leaves | last aired 2026-10-29 04:49 | normal pick from 2026-10-30 16:49 | request from 2026-10-30 00:49
 OK   Ben&Ben — Maybe The Night | last aired 2026-10-08 16:41 | normal pick now | request now
-WAIT Benjamin Francis Leftwich — Ticket To Ride | last aired 2026-10-29 04:54 | normal pick from 2026-10-31 04:54 | request from 2026-10-31 04:54
+WAIT Benjamin Francis Leftwich — Ticket To Ride | last aired 2026-10-29 04:55 | normal pick from 2026-10-31 04:55 | request from 2026-10-31 04:55
 OK   Benny Goodman — Sing Sing Sing (With A Swing) (live) | last aired 2026-10-26 17:04 | normal pick now | request now
 OK   Benny Sings — Rolled Up | last aired 2026-10-24 16:16 | normal pick now | request now
 WAIT Benny Sings — Sailing | last aired 2026-10-29 00:19 | normal pick from 2026-10-31 00:19 | request from 2026-10-31 00:19
@@ -43,7 +43,7 @@ OK   The Beatles — Girl (Remastered) | last aired 2026-10-22 15:02 | normal pi
 OK   The Beatles — Golden Slumbers (Remastered) | last aired 2026-10-25 23:34 | normal pick now | request now
 OK   The Beatles — Here Comes The Sun (2019 Mix) | last aired 2026-10-14 00:19 | normal pick now | request now
 OK   The Beatles — Lucy In The Sky With Diamonds (Remastered 2009) | last aired 2026-10-25 20:35 | normal pick now | request now
-OK   The Beatles — Octopus's Garden (Remastered) | last aired 2026-10-22 03:51 | normal pick now | request now
+WAIT The Beatles — Octopus's Garden (Remastered) | last aired 2026-10-29 08:56 | normal pick from 2026-10-30 20:56 | request from 2026-10-30 04:56
 OK   The Beatles — Rain (Remastered) | last aired 2026-10-23 11:57 | normal pick now | request now
 OK   The Beatles — Revolution 9 (Remastered 2009) | last aired 2026-09-14 19:37 | normal pick now | request now
 OK   The Beatles — Strawberry Fields Forever | last aired 2026-10-25 14:15 | normal pick now | request now

@@ -1,4 +1,4 @@
-Track status, artists filed under SU (built Thu Oct 29, 1:05 AM PDT (08:05 UTC)). Times in UTC.
+Track status, artists filed under SU (built Thu Oct 29, 2:05 AM PDT (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Suburban Kids With Biblical Names — Rent A Wreck | last aired 2026-10-25 22:47 | normal pick now | request now
@@ -6,7 +6,7 @@ OK   Suede — Animal Nitrate | last aired 2026-10-20 09:01 | normal pick now | 
 WAIT Sufjan Stevens — Casimir Pulaski Day | last aired 2026-10-27 23:32 | normal pick from 2026-10-29 11:32 | request now
 OK   Sufjan Stevens — Fourth of July | last aired 2026-10-17 21:31 | normal pick now | request now
 OK   Sufjan Stevens — Mystery of Love | last aired 2026-10-26 22:02 | normal pick now | request now
-WAIT Sufjan Stevens — Should Have Known Better | last aired 2026-10-29 05:49 | normal pick from 2026-10-30 17:49 | request from 2026-10-30 01:49
+WAIT Sufjan Stevens — Should Have Known Better | last aired 2026-10-29 05:50 | normal pick from 2026-10-31 05:50 | request from 2026-10-31 05:50
 OK   Sui Generis — Rasguña Las Piedras (Album Version) | last aired 2026-10-20 18:59 | normal pick now | request now
 OK   Sukhwinder Singh — Chaiyya Chaiyya | last aired 2026-10-22 10:14 | normal pick now | request now
 OK   Sum 41 — In Too Deep (Album Version) | last aired 2026-10-23 16:31 | normal pick now | request now
@@ -18,11 +18,11 @@ OK   Sun's Signature — Underwater | last aired 2026-10-27 07:56 | normal pick 
 OK   Supercell — Melt (feat. Hatsune Miku) | last aired 2026-10-15 04:11 | normal pick now | request now
 OK   Supercell — The World Is Mine (feat. Hatsune Miku) | last aired 2026-10-15 22:23 | normal pick now | request now
 OK   Supernova — Chewbaca | last aired 2026-10-06 14:30 | normal pick now | request now
-WAIT Supertramp — Even In The Quietest Moments | last aired 2026-10-29 05:42 | normal pick from 2026-10-30 17:42 | request from 2026-10-30 01:42
+WAIT Supertramp — Even In The Quietest Moments | last aired 2026-10-29 05:43 | normal pick from 2026-10-30 17:43 | request from 2026-10-30 01:43
 OK   Survivor — Eye of the Tiger | last aired 2026-10-26 14:40 | normal pick now | request now
-WAIT Susumu Yokota — Saku | last aired 2026-10-29 05:54 | normal pick from 2026-10-30 17:54 | request from 2026-10-30 01:54
+WAIT Susumu Yokota — Saku | last aired 2026-10-29 05:55 | normal pick from 2026-10-31 05:55 | request from 2026-10-31 05:55
 OK   Suzanne Ciani — Improvisation On Four Sequences Pt.1 | last aired 2026-10-24 02:53 | normal pick now | request now
-WAIT Suzanne Ciani — Oceanium | last aired 2026-10-29 05:34 | normal pick from 2026-10-30 17:34 | request from 2026-10-30 01:34
+WAIT Suzanne Ciani — Oceanium | last aired 2026-10-29 05:35 | normal pick from 2026-10-30 17:35 | request from 2026-10-30 01:35
 OK   The Sundays — Folk Song | last aired 2026-10-23 22:52 | normal pick now | request now
 WAIT The Sundays — Wild Horses | last aired 2026-10-28 11:02 | normal pick from 2026-10-29 23:02 | request now
 OK   The Supremes — Automatically Sunshine | last aired 2026-10-25 17:30 | normal pick now | request now

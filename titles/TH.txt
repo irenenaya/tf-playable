@@ -1,4 +1,4 @@
-Track status, song titles filed under TH (built Thu Oct 29, 1:05 AM PDT (08:05 UTC)). Times in UTC.
+Track status, song titles filed under TH (built Thu Oct 29, 2:05 AM PDT (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT (They Long To Be) Close To You — The Carpenters | last aired 2026-10-29 01:41 | normal pick from 2026-10-30 13:41 | request from 2026-10-29 21:41
@@ -9,7 +9,7 @@ OK   That's All for Everyone — Fleetwood Mac | last aired 2026-10-26 19:26 | n
 OK   The Thieves of Imai — Filippo Beck Peccoz | last aired 2026-10-18 01:47 | normal pick now | request now
 OK   The Thrill Is Gone — B.B. King | last aired 2026-10-24 13:27 | normal pick now | request now
 OK   Theme from "A Summer Place" — Percy Faith & His Orchestra | last aired 2026-10-11 11:09 | normal pick now | request now
-WAIT Theme From Harry's Game — Clannad | last aired 2026-10-29 06:55 | normal pick from 2026-10-31 06:55 | request from 2026-10-31 06:55
+WAIT Theme From Harry's Game — Clannad | last aired 2026-10-29 06:56 | normal pick from 2026-10-31 06:56 | request from 2026-10-31 06:56
 OK   Theme From Superman  (Concert Version) — John Williams | last aired 2026-10-26 10:06 | normal pick now | request now
 OK   There She Goes — The La's | last aired 2026-10-20 01:55 | normal pick now | request now
 OK   They Took My Love Away — Djivan Gasparyan | last aired 2026-10-09 03:21 | normal pick now | request now
@@ -17,7 +17,7 @@ WAIT Thick Skull — Paramore | last aired 2026-10-28 20:10 | normal pick from 2
 OK   This Boy (Remastered) — The Beatles | last aired 2026-10-25 22:25 | normal pick now | request now
 OK   This Foolish Heart Could Love You — Melody Gardot | last aired 2026-10-27 14:54 | normal pick now | request now
 OK   This Is It — Kenny Loggins | last aired 2026-10-26 15:47 | normal pick now | request now
-OK   This Is The Life — Amy Macdonald | last aired 2026-10-27 03:02 | normal pick now | request now
+WAIT This Is The Life — Amy Macdonald | last aired 2026-10-29 08:25 | normal pick from 2026-10-31 08:25 | request from 2026-10-31 08:25
 OK   This Is Your Life (Originally Performed by Banderas) — Cover Vocals BPM 122 Acapellas | last aired 2026-09-21 02:20 | normal pick now | request now
 OK   This Means War — Petra | last aired 2026-10-24 13:22 | normal pick now | request now
 WAIT This Must Be the Place (Naive Melody)  (2005 Remastered LP Version) — Talking Heads | last aired 2026-10-28 19:18 | normal pick from 2026-10-30 19:18 | request from 2026-10-30 19:18
