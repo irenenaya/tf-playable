@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Wed Oct 28, 8:05 PM PDT (03:05 UTC Thu)). Times in UTC.
+Track status, artists filed under BE (built Wed Oct 28, 9:05 PM PDT (04:05 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Beach House — Bluebird | last aired 2026-10-28 09:19 | normal pick from 2026-10-29 21:19 | request from 2026-10-29 05:19
@@ -7,7 +7,7 @@ WAIT Beastie Boys — Sabotage | last aired 2026-10-28 21:54 | normal pick from 
 OK   Beatrice Rana — Keyboard Concerto No. 1 in D Minor, BWV 1052: I. Allegro | last aired 2026-10-21 04:56 | normal pick now | request now
 OK   Beatrice Rana — Libertango (Arr. Yamamoto for Piano 4-Hands) | last aired 2026-10-26 10:49 | normal pick now | request now
 OK   Beats by Luca — 52 CHICKEN NUGGET (McRave) | last aired 2026-10-18 11:09 | normal pick now | request now
-OK   Bebel Gilberto — Samba Da Benção | last aired 2026-10-27 03:05 | normal pick now | request now
+WAIT Bebel Gilberto — Samba Da Benção | last aired 2026-10-29 03:45 | normal pick from 2026-10-31 03:45 | request from 2026-10-31 03:45
 OK   Beck — Devils Haircut | last aired 2026-10-27 11:52 | normal pick now | request now
 WAIT Beck — Loser | last aired 2026-10-28 11:23 | normal pick from 2026-10-30 11:23 | request from 2026-10-30 11:23
 OK   Beck — The New Pollution | last aired 2026-10-26 19:03 | normal pick now | request now
@@ -18,7 +18,7 @@ OK   Belcea Quartet — Quatuor à cordes n° 4, Sz. 91 - String Quartet No. 4 i
 WAIT Belle and Sebastian — The Boy with the Arab Strap | last aired 2026-10-28 11:50 | normal pick from 2026-10-30 11:50 | request from 2026-10-30 11:50
 WAIT Ben Allison — D.A.V.E. | last aired 2026-10-28 22:54 | normal pick from 2026-10-30 10:54 | request from 2026-10-29 18:54
 WAIT Ben E. King — Stand By Me | last aired 2026-10-28 19:49 | normal pick from 2026-10-30 19:49 | request from 2026-10-30 19:49
-OK   Ben Harper — Yard Sale | last aired 2026-10-27 01:24 | normal pick now | request now
+WAIT Ben Harper — Yard Sale | last aired 2026-10-29 03:49 | normal pick from 2026-10-31 03:49 | request from 2026-10-31 03:49
 WAIT Ben Howard — Only Love | last aired 2026-10-28 11:55 | normal pick from 2026-10-29 23:55 | request from 2026-10-29 07:55
 OK   Ben&Ben — Leaves | last aired 2026-10-23 07:32 | normal pick now | request now
 OK   Ben&Ben — Maybe The Night | last aired 2026-10-08 16:41 | normal pick now | request now
@@ -35,7 +35,7 @@ OK   BETWEEN FRIENDS — affection | last aired 2026-10-24 19:22 | normal pick n
 WAIT Beyoncé — Crazy In Love | last aired 2026-10-27 17:17 | normal pick from 2026-10-29 05:17 | request now
 WAIT Beyoncé — TEXAS HOLD 'EM | last aired 2026-10-28 22:05 | normal pick from 2026-10-30 10:05 | request from 2026-10-29 18:05
 OK   Béla Fleck — My Home's Across The Blue Ridge Mountains | last aired 2026-10-21 01:51 | normal pick now | request now
-OK   The Beach Boys — God Only Knows (Stereo) | last aired 2026-10-22 04:24 | normal pick now | request now
+WAIT The Beach Boys — God Only Knows (Stereo) | last aired 2026-10-29 03:42 | normal pick from 2026-10-30 15:42 | request from 2026-10-29 23:42
 OK   The Beach Boys — Good Vibrations (Stereo/Remastered 2012) | last aired 2026-10-23 07:28 | normal pick now | request now
 OK   The Beatles — A Day In The Life (2017 Mix) | last aired 2026-10-09 17:05 | normal pick now | request now
 OK   The Beatles — Get Back (2021 Mix) | last aired 2026-10-21 00:41 | normal pick now | request now
