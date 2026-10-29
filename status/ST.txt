@@ -1,22 +1,22 @@
-Track status, artists filed under ST (built Thu Oct 29, 12:05 PM PDT (19:05 UTC)). Times in UTC.
+Track status, artists filed under ST (built Thu Oct 29, 1:05 PM PDT (20:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT St Germain — Rose rouge | last aired 2026-10-29 13:34 | normal pick from 2026-10-31 01:34 | request from 2026-10-30 09:34
 WAIT Stan Bush — The Touch | last aired 2026-10-29 19:00 | normal pick from 2026-10-31 07:00 | request from 2026-10-30 15:00
 WAIT Stan Getz — Corcovado (Quiet Nights Of Quiet Stars) | last aired 2026-10-29 18:16 | normal pick from 2026-10-31 18:16 | request from 2026-10-31 18:16
 WAIT Stardust — Music Sounds Better With You | last aired 2026-10-29 18:09 | normal pick from 2026-10-31 06:09 | request from 2026-10-30 14:09
-WAIT Stars of the Lid — Requiem for Dying Mothers, Pt. 1 | last aired 2026-10-28 07:09 | normal pick from 2026-10-29 19:09 | request now
+OK   Stars of the Lid — Requiem for Dying Mothers, Pt. 1 | last aired 2026-10-28 07:09 | normal pick now | request now
 WAIT Stars of the Lid — Requiem for Dying Mothers, Pt. 2 | last aired 2026-10-28 07:32 | normal pick from 2026-10-30 07:32 | request from 2026-10-30 07:32
 WAIT Stealers Wheel — Stuck In The Middle With You | last aired 2026-10-29 18:49 | normal pick from 2026-10-31 06:49 | request from 2026-10-30 14:49
 OK   Steely Dan — Almost Gothic (Album Version) | last aired 2026-10-16 20:51 | normal pick now | request now
 WAIT Steely Dan — Babylon Sisters | last aired 2026-10-29 13:29 | normal pick from 2026-10-31 01:29 | request from 2026-10-30 09:29
-OK   Steely Dan — Home At Last | last aired 2026-10-25 09:39 | normal pick now | request now
+WAIT Steely Dan — Home At Last | last aired 2026-10-29 19:52 | normal pick from 2026-10-31 07:52 | request from 2026-10-30 15:52
 OK   Steely Dan — Jack of Speed (Album Version) | last aired 2026-10-12 20:39 | normal pick now | request now
 OK   Steely Dan — Kid Charlemagne | last aired 2026-10-26 14:21 | normal pick now | request now
 OK   Steely Dan — Peg | last aired 2026-10-22 09:52 | normal pick now | request now
 OK   Steely Dan — Time Out Of Mind | last aired 2026-10-18 07:04 | normal pick now | request now
 OK   Steve Miller Band — The Joker | last aired 2026-10-26 09:22 | normal pick now | request now
-WAIT Steve Roach — Living the Dream | last aired 2026-10-28 07:15 | normal pick from 2026-10-29 19:15 | request now
+OK   Steve Roach — Living the Dream | last aired 2026-10-28 07:15 | normal pick now | request now
 WAIT Stevie Ray Vaughan & Double Trouble — Pride and Joy | last aired 2026-10-29 15:53 | normal pick from 2026-10-31 15:53 | request from 2026-10-31 15:53
 WAIT Stevie Ray Vaughan & Double Trouble — Riviera Paradise | last aired 2026-10-29 04:31 | normal pick from 2026-10-30 16:31 | request from 2026-10-30 00:31
 WAIT Stevie Wonder — As | last aired 2026-10-29 05:24 | normal pick from 2026-10-30 17:24 | request from 2026-10-30 01:24
