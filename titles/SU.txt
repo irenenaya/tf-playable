@@ -1,4 +1,4 @@
-Track status, song titles filed under SU (built Thu Oct 29, 7:05 AM PDT (14:05 UTC)). Times in UTC.
+Track status, song titles filed under SU (built Thu Oct 29, 8:05 AM PDT (15:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Subterraneans  (2017 Remaster) — David Bowie | last aired 2026-10-25 07:09 | normal pick now | request now
@@ -7,8 +7,8 @@ OK   Such Great Heights (Remastered) — The Postal Service | last aired 2026-10
 OK   Such Great Heights — Iron & Wine | last aired 2026-10-25 11:50 | normal pick now | request now
 OK   Sugar Water (Album Version) — Cibo Matto | last aired 2026-10-26 21:15 | normal pick now | request now
 WAIT Suite bergamasque, CD 82, L. 75: III. Clair de lune — Simon Trpčeski | last aired 2026-10-29 06:59 | normal pick from 2026-10-31 06:59 | request from 2026-10-31 06:59
-OK   Sultans of Swing — Dire Straits | last aired 2026-10-26 02:10 | normal pick now | request now
-OK   Sultans Of Swing — Dire Straits | last aired 2026-06-11 20:23 | normal pick now | request now
+WAIT Sultans of Swing — Dire Straits | last aired 2026-10-29 14:31 | normal pick from 2026-10-31 02:31 | request from 2026-10-30 10:31
+WAIT Sultans Of Swing — Dire Straits | last aired 2026-10-29 14:31 | normal pick from 2026-10-31 02:31 | request from 2026-10-30 10:31
 OK   Summer (from 'Kikujiro') — Joe Hisaishi | last aired 2026-10-11 06:03 | normal pick now | request now
 OK   Summer 91 (Looking Back) (Acoustic) — Noizu | last aired 2026-09-30 21:39 | normal pick now | request now
 OK   Summer 91 (Looking Back) — Noizu | last aired 2026-10-14 15:43 | normal pick now | request now
@@ -24,5 +24,5 @@ OK   Superstar  (The Jason Nevins' Live Peep Show Mix) — Tom Novy | last aired
 OK   Superstition (Album Version) — Stevie Wonder | last aired 2026-10-22 21:40 | normal pick now | request now
 OK   Surprise! You're Dead! — Faith No More | last aired 2026-10-17 05:00 | normal pick now | request now
 OK   Surrounded by Illusion — Eluvium | last aired 2026-10-27 04:54 | normal pick now | request now
-WAIT Suspended In Gaffa  (2018 Remaster) — Kate Bush | last aired 2026-10-28 18:30 | normal pick from 2026-10-30 06:30 | request from 2026-10-29 14:30
+WAIT Suspended In Gaffa  (2018 Remaster) — Kate Bush | last aired 2026-10-28 18:30 | normal pick from 2026-10-30 06:30 | request now
 OK   Suzanne — Leonard Cohen | last aired 2026-10-21 10:12 | normal pick now | request now

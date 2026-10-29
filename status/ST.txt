@@ -1,9 +1,9 @@
-Track status, artists filed under ST (built Thu Oct 29, 7:05 AM PDT (14:05 UTC)). Times in UTC.
+Track status, artists filed under ST (built Thu Oct 29, 8:05 AM PDT (15:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT St Germain — Rose rouge | last aired 2026-10-29 13:34 | normal pick from 2026-10-31 01:34 | request from 2026-10-30 09:34
 OK   Stan Bush — The Touch | last aired 2026-10-23 16:43 | normal pick now | request now
-WAIT Stan Getz — Corcovado (Quiet Nights Of Quiet Stars) | last aired 2026-10-27 14:49 | normal pick from 2026-10-29 14:49 | request from 2026-10-29 14:49
+OK   Stan Getz — Corcovado (Quiet Nights Of Quiet Stars) | last aired 2026-10-27 14:49 | normal pick now | request now
 OK   Stardust — Music Sounds Better With You | last aired 2026-10-25 13:29 | normal pick now | request now
 WAIT Stars of the Lid — Requiem for Dying Mothers, Pt. 1 | last aired 2026-10-28 07:09 | normal pick from 2026-10-29 19:09 | request now
 WAIT Stars of the Lid — Requiem for Dying Mothers, Pt. 2 | last aired 2026-10-28 07:32 | normal pick from 2026-10-30 07:32 | request from 2026-10-30 07:32
@@ -33,7 +33,7 @@ OK   Stevie Wonder — Summer Soft | last aired 2026-10-04 13:50 | normal pick n
 OK   Stevie Wonder — Superstition (Album Version) | last aired 2026-10-22 21:40 | normal pick now | request now
 OK   Stevie Wonder — You Haven't Done Nothin' | last aired 2026-10-26 12:43 | normal pick now | request now
 WAIT Still Woozy — Get Down | last aired 2026-10-29 09:34 | normal pick from 2026-10-30 21:34 | request from 2026-10-30 05:34
-OK   Sting — Desert Rose (Album Version) | last aired 2026-10-26 09:09 | normal pick now | request now
+WAIT Sting — Desert Rose (Album Version) | last aired 2026-10-29 14:16 | normal pick from 2026-10-31 02:16 | request from 2026-10-30 10:16
 OK   Sting — Fields Of Gold (My Songs Version) | last aired 2026-10-24 16:43 | normal pick now | request now
 WAIT Sting — Fragile | last aired 2026-10-29 13:41 | normal pick from 2026-10-31 01:41 | request from 2026-10-30 09:41
 OK   Sting — If You Love Somebody Set Them Free (Single Edit) | last aired 2026-10-21 18:49 | normal pick now | request now

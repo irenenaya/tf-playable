@@ -1,9 +1,9 @@
-Track status, song titles filed under LO (built Thu Oct 29, 7:05 AM PDT (14:05 UTC)). Times in UTC.
+Track status, song titles filed under LO (built Thu Oct 29, 8:05 AM PDT (15:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   L-O-V-E — Nat King Cole | last aired 2026-10-27 15:54 | normal pick now | request now
 OK   Lo Vas A Olvidar — Billie Eilish | last aired 2026-10-27 17:37 | normal pick now | request now
-WAIT Locos — Leon Larregui | last aired 2026-10-28 19:01 | normal pick from 2026-10-30 07:01 | request from 2026-10-29 15:01
+WAIT Locos — Leon Larregui | last aired 2026-10-28 19:01 | normal pick from 2026-10-30 07:01 | request now
 OK   Logic — Euology | last aired 2026-10-09 09:21 | normal pick now | request now
 OK   London Calling — The Clash | last aired 2026-10-22 23:29 | normal pick now | request now
 OK   Lonely in the Future — The Strokes | last aired 2026-10-22 03:04 | normal pick now | request now
@@ -21,7 +21,7 @@ OK   Love I — The Green | last aired 2026-10-09 01:40 | normal pick now | requ
 OK   Love Is Blue (Album Version) — Paul Mauriat | last aired 2026-10-24 09:23 | normal pick now | request now
 OK   Love Kills — Freddie Mercury | last aired 2026-10-24 13:49 | normal pick now | request now
 OK   Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley — Studio Group | last aired 2026-08-31 18:46 | normal pick now | request now
-WAIT Love — Mica Levi | last aired 2026-10-28 02:44 | normal pick from 2026-10-29 14:44 | request now
+OK   Love — Mica Levi | last aired 2026-10-28 02:44 | normal pick now | request now
 WAIT Love On A Real Train — Tangerine Dream | last aired 2026-10-28 06:54 | normal pick from 2026-10-29 18:54 | request now
 WAIT LOVE TRIP — Takako Mamiya | last aired 2026-10-27 20:37 | normal pick from 2026-10-29 20:37 | request from 2026-10-29 20:37
 WAIT Lovely Day — Bill Withers | last aired 2026-10-28 13:07 | normal pick from 2026-10-30 13:07 | request from 2026-10-30 13:07
