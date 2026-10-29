@@ -1,8 +1,8 @@
-Track status, song titles filed under SW (built Thu Oct 29, 9:05 AM PDT (16:05 UTC)). Times in UTC.
+Track status, song titles filed under SW (built Thu Oct 29, 10:05 AM PDT (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Swan Lake Suite, Op. 20a - Tchaikovsky: Swan Lake Suite, Op. 20a: I. Scene "Swan Theme". Moderato — Mstislav Rostropovich | last aired 2026-10-25 21:59 | normal pick now | request now
-WAIT Sweet Caroline — Neil Diamond | last aired 2026-10-28 20:25 | normal pick from 2026-10-30 08:25 | request from 2026-10-29 16:25
+WAIT Sweet Caroline — Neil Diamond | last aired 2026-10-28 20:25 | normal pick from 2026-10-30 08:25 | request now
 OK   Sweet Child O' Mine — Guns N' Roses | last aired 2026-10-23 11:20 | normal pick now | request now
 OK   Sweet Dreams (Are Made of This) [2018 Remastered] — Eurythmics, Annie Lennox, Dave Stewart | last aired 2026-10-23 20:55 | normal pick now | request now
 OK   Sweet Jane   (Full Length Versio — The Velvet Underground | last aired 2026-09-05 10:40 | normal pick now | request now
@@ -12,6 +12,6 @@ WAIT Sweet Love — Anita Baker | last aired 2026-10-28 05:51 | normal pick from
 OK   Sweet Sounds Of Heaven — The Rolling Stones | last aired 2026-10-17 09:34 | normal pick now | request now
 OK   Sweet Surrender (Album Version) — Sarah McLachlan | last aired 2026-10-26 11:50 | normal pick now | request now
 OK   Sweet Transvestite — Tim Curry | last aired 2026-10-25 12:34 | normal pick now | request now
-WAIT Switched-on Wendy — Luca Di Sabatino | last aired 2026-10-28 04:57 | normal pick from 2026-10-29 16:57 | request now
+OK   Switched-on Wendy — Luca Di Sabatino | last aired 2026-10-28 04:57 | normal pick now | request now
 OK   The Sweetest Taboo  (Remastered Version) — Sade | last aired 2026-10-21 21:17 | normal pick now | request now
 OK   The Swing Phenomenon (Radio Edit) [feat. Nicolle Rochelle] — Bart&Baker | last aired 2026-10-27 16:27 | normal pick now | request now

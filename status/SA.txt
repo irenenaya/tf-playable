@@ -1,4 +1,4 @@
-Track status, artists filed under SA (built Thu Oct 29, 9:05 AM PDT (16:05 UTC)). Times in UTC.
+Track status, artists filed under SA (built Thu Oct 29, 10:05 AM PDT (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Sabaton — The Last Stand | last aired 2026-10-28 01:43 | normal pick now | request now
@@ -16,7 +16,7 @@ OK   Sadie Jean — WYD Now? | last aired 2026-10-15 15:56 | normal pick now | r
 WAIT Saindra — Mil Besos | last aired 2026-10-28 14:42 | normal pick from 2026-10-30 02:42 | request now
 OK   Saint Etienne — Only Love Can Break Your Heart | last aired 2026-10-26 21:51 | normal pick now | request now
 WAIT Salvador Sobral — Amar pelos Dois | last aired 2026-10-28 08:46 | normal pick from 2026-10-29 20:46 | request now
-WAIT Sam Cooke — A Change Is Gonna Come | last aired 2026-10-27 18:15 | normal pick from 2026-10-29 18:15 | request from 2026-10-29 18:15
+OK   Sam Cooke — A Change Is Gonna Come | last aired 2026-10-27 18:15 | normal pick now | request now
 WAIT Sampha — (No One Knows Me) Like the Piano | last aired 2026-10-28 10:53 | normal pick from 2026-10-30 10:53 | request from 2026-10-30 10:53
 WAIT Santana — Black Magic Woman | last aired 2026-10-28 02:54 | normal pick from 2026-10-30 02:54 | request from 2026-10-30 02:54
 WAIT Santana — Maria Maria | last aired 2026-10-29 15:42 | normal pick from 2026-10-31 03:42 | request from 2026-10-30 11:42

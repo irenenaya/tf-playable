@@ -1,4 +1,4 @@
-Track status, song titles filed under HE (built Thu Oct 29, 9:05 AM PDT (16:05 UTC)). Times in UTC.
+Track status, song titles filed under HE (built Thu Oct 29, 10:05 AM PDT (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   "Heroes" (2017 Remaster) — David Bowie | last aired 2026-10-20 23:13 | normal pick now | request now
@@ -25,3 +25,4 @@ WAIT Here Comes The Flood (Exposure Fourth Edition: 2021 Stereo Mix) — Robert 
 OK   Here Comes The Sun (2019 Mix) — The Beatles | last aired 2026-10-14 00:19 | normal pick now | request now
 OK   Heresy (Nine Inch Noize Version) — Nine Inch Nails | last aired 2026-10-26 00:20 | normal pick now | request now
 OK   Heroin — Lana Del Rey | last aired 2026-10-17 21:55 | normal pick now | request now
+WAIT Hey Joe (Live At Winterland, San Francisco, CA) — Jimi Hendrix | last aired 2026-10-29 15:16 | normal pick from 2026-10-31 03:16 | request from 2026-10-30 11:16
