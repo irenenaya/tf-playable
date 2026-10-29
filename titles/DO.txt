@@ -1,4 +1,4 @@
-Track status, song titles filed under DO (built Wed Oct 28, 9:05 PM PDT (04:05 UTC Thu)). Times in UTC.
+Track status, song titles filed under DO (built Wed Oct 28, 10:05 PM PDT (05:05 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   (Don't Fear) The Reaper — Blue Öyster Cult | last aired 2026-10-26 02:52 | normal pick now | request now
@@ -10,7 +10,7 @@ OK   Doctor Who Opening Titles (“In Colour” Mix, Daleks Version) — Delia D
 OK   Dollar Days — David Bowie | last aired 2026-09-30 17:09 | normal pick now | request now
 OK   Dolls — 9MUSES | last aired 2026-10-25 20:45 | normal pick now | request now
 WAIT Don't Change — INXS | last aired 2026-10-28 23:39 | normal pick from 2026-10-30 23:39 | request from 2026-10-30 23:39
-WAIT Don't Delete The Kisses — Wolf Alice | last aired 2026-10-27 04:33 | normal pick from 2026-10-29 04:33 | request from 2026-10-29 04:33
+OK   Don't Delete The Kisses — Wolf Alice | last aired 2026-10-27 04:33 | normal pick now | request now
 OK   Don't Dream It's Over — Crowded House | last aired 2026-10-21 21:24 | normal pick now | request now
 OK   Don't Give Up  (2012 Remaster) — Peter Gabriel | last aired 2026-10-25 08:56 | normal pick now | request now
 WAIT Don't Look Any Further (Single Version) — Dennis Edwards | last aired 2026-10-27 23:10 | normal pick from 2026-10-29 11:10 | request now
@@ -19,13 +19,13 @@ OK   Don't Start Now — Dua Lipa | last aired 2026-10-23 09:49 | normal pick no
 WAIT Don't Stop Believin' (Album Version) — Journey | last aired 2026-10-27 18:01 | normal pick from 2026-10-29 06:01 | request now
 OK   Don't Stop Me Now (Remastered 2011) — Queen | last aired 2026-10-23 09:16 | normal pick now | request now
 OK   Don't Worry Be Happy — Bobby McFerrin | last aired 2026-10-27 12:34 | normal pick now | request now
-WAIT Don't You (Forget About Me) — Simple Minds | last aired 2026-10-29 00:22 | normal pick from 2026-10-31 00:22 | request from 2026-10-31 00:22
+WAIT Don't You (Forget About Me) — Simple Minds | last aired 2026-10-29 00:23 | normal pick from 2026-10-31 00:23 | request from 2026-10-31 00:23
 OK   Don't You Ever Stop — Mr. President | last aired 2026-10-21 03:18 | normal pick now | request now
 OK   Don't You Want Me — Human League | last aired 2026-10-23 20:39 | normal pick now | request now
 OK   Double Concerto — Al Di Meola | last aired 2026-10-24 07:27 | normal pick now | request now
 WAIT Doused — DIIV | last aired 2026-10-28 11:07 | normal pick from 2026-10-30 11:07 | request from 2026-10-30 11:07
 OK   Down in the Valley — The Head And The Heart | last aired 2026-10-23 05:26 | normal pick now | request now
-OK   Down To The River To Pray (Live) — Alison Krauss | last aired 2026-10-21 15:53 | normal pick now | request now
+WAIT Down To The River To Pray (Live) — Alison Krauss | last aired 2026-10-29 04:14 | normal pick from 2026-10-30 16:14 | request from 2026-10-30 00:14
 OK   Down Under — Men At Work | last aired 2026-10-26 04:53 | normal pick now | request now
 WAIT Downstream (Remastered, 2024) — Shira Kammen | last aired 2026-10-28 03:29 | normal pick from 2026-10-29 15:29 | request now
 WAIT The Door — Teddy Swims | last aired 2026-10-29 00:27 | normal pick from 2026-10-30 12:27 | request from 2026-10-29 20:27

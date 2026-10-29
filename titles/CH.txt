@@ -1,9 +1,9 @@
-Track status, song titles filed under CH (built Wed Oct 28, 9:05 PM PDT (04:05 UTC Thu)). Times in UTC.
+Track status, song titles filed under CH (built Wed Oct 28, 10:05 PM PDT (05:05 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Cha Cha Cha — Käärijä | last aired 2026-10-25 20:24 | normal pick now | request now
 OK   Chaiyya Chaiyya — Sukhwinder Singh | last aired 2026-10-22 10:14 | normal pick now | request now
-WAIT Chamber Of Reflection — Mac DeMarco | last aired 2026-10-27 04:42 | normal pick from 2026-10-29 04:42 | request from 2026-10-29 04:42
+OK   Chamber Of Reflection — Mac DeMarco | last aired 2026-10-27 04:42 | normal pick now | request now
 WAIT Chameleon — Herbie Hancock | last aired 2026-10-28 16:21 | normal pick from 2026-10-30 04:21 | request from 2026-10-29 12:21
 OK   Chan Chan — Buena Vista Social Club | last aired 2026-10-26 23:14 | normal pick now | request now
 OK   Chances — Joel Pott | last aired 2026-10-26 11:28 | normal pick now | request now
@@ -22,5 +22,5 @@ OK   Child in Time (Special Version) — Rock appetizers | last aired 2026-09-22
 OK   Children of No Horizon — Tom Konkle | last aired 2026-09-17 19:18 | normal pick now | request now
 OK   Children Of The Revolution — T. Rex | last aired 2026-10-20 19:20 | normal pick now | request now
 WAIT Chinatown — Wild Nothing | last aired 2026-10-27 11:49 | normal pick from 2026-10-29 11:49 | request from 2026-10-29 11:49
-WAIT Choo Choo Ch'Boogie — Louis Jordan & His Tympany Five | last aired 2026-10-27 16:48 | normal pick from 2026-10-29 04:48 | request now
+OK   Choo Choo Ch'Boogie — Louis Jordan & His Tympany Five | last aired 2026-10-27 16:48 | normal pick now | request now
 OK   Chorus — Holly Herndon | last aired 2026-10-26 00:04 | normal pick now | request now
