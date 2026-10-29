@@ -1,8 +1,8 @@
-Track status, song titles filed under ON (built Wed Oct 28, 10:05 PM PDT (05:05 UTC Thu)). Times in UTC.
+Track status, song titles filed under ON (built Wed Oct 28, 11:05 PM PDT (06:05 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   On & On — Erykah Badu | last aired 2026-10-22 17:52 | normal pick now | request now
-WAIT On My Own — Patti LaBelle | last aired 2026-10-27 17:29 | normal pick from 2026-10-29 05:29 | request now
+OK   On My Own — Patti LaBelle | last aired 2026-10-27 17:29 | normal pick now | request now
 OK   On the Nature of Daylight — Max Richter | last aired 2026-10-11 07:01 | normal pick now | request now
 WAIT On The Road Again — Canned Heat | last aired 2026-10-28 22:45 | normal pick from 2026-10-30 10:45 | request from 2026-10-29 18:45
 WAIT On the Road Again — Willie Nelson | last aired 2026-10-27 20:44 | normal pick from 2026-10-29 08:44 | request now
@@ -19,6 +19,6 @@ OK   One Thousand Fires — Fates Warning | last aired 2026-10-21 02:37 | normal
 OK   Only Happy When It Rains — Garbage | last aired 2026-10-27 04:24 | normal pick now | request now
 WAIT Only Love — Ben Howard | last aired 2026-10-28 11:55 | normal pick from 2026-10-29 23:55 | request from 2026-10-29 07:55
 OK   Only Love Can Break Your Heart — Saint Etienne | last aired 2026-10-26 21:51 | normal pick now | request now
-WAIT Only You (Remastered 2008) — Yazoo | last aired 2026-10-27 05:12 | normal pick from 2026-10-29 05:12 | request from 2026-10-29 05:12
+OK   Only You (Remastered 2008) — Yazoo | last aired 2026-10-27 05:12 | normal pick now | request now
 OK   Only You (There Will Never Be Another) — Side-A | last aired 2026-10-26 03:22 | normal pick now | request now
 OK   The One That Got Away — The Civil Wars | last aired 2026-10-23 21:54 | normal pick now | request now

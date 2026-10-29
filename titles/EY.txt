@@ -1,5 +1,5 @@
-Track status, song titles filed under EY (built Wed Oct 28, 10:05 PM PDT (05:05 UTC Thu)). Times in UTC.
+Track status, song titles filed under EY (built Wed Oct 28, 11:05 PM PDT (06:05 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Eye of the Tiger — Survivor | last aired 2026-10-26 14:40 | normal pick now | request now
-OK   Eyes of the World — Grateful Dead | last aired 2026-10-27 01:14 | normal pick now | request now
+WAIT Eyes of the World — Grateful Dead | last aired 2026-10-29 05:02 | normal pick from 2026-10-31 05:02 | request from 2026-10-31 05:02

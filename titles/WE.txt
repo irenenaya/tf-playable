@@ -1,4 +1,4 @@
-Track status, song titles filed under WE (built Wed Oct 28, 10:05 PM PDT (05:05 UTC Thu)). Times in UTC.
+Track status, song titles filed under WE (built Wed Oct 28, 11:05 PM PDT (06:05 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Weight (Remastered 2000) — The Band | last aired 2026-10-23 15:05 | normal pick now | request now
@@ -13,4 +13,4 @@ OK   Weak In Your Light — Nation of Language | last aired 2026-10-25 05:44 | n
 OK   Weak — SWV | last aired 2026-10-24 14:31 | normal pick now | request now
 WAIT Weightless — Marconi Union | last aired 2026-10-27 18:38 | normal pick from 2026-10-29 06:38 | request now
 WAIT Weird Fishes / Arpeggi — Radiohead | last aired 2026-10-27 11:24 | normal pick from 2026-10-29 11:24 | request from 2026-10-29 11:24
-WAIT West End Girls  (2001 Remaster) — Pet Shop Boys | last aired 2026-10-27 17:21 | normal pick from 2026-10-29 05:21 | request now
+OK   West End Girls  (2001 Remaster) — Pet Shop Boys | last aired 2026-10-27 17:21 | normal pick now | request now
