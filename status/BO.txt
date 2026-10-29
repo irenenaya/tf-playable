@@ -1,4 +1,4 @@
-Track status, artists filed under BO (built Wed Oct 28, 7:05 PM PDT (02:05 UTC Thu)). Times in UTC.
+Track status, artists filed under BO (built Wed Oct 28, 8:05 PM PDT (03:05 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Boards of Canada — Blood In The Labyrinth | last aired 2026-10-21 21:42 | normal pick now | request now
@@ -15,7 +15,7 @@ OK   Bobby Hutcherson — Stardust | last aired 2026-10-26 03:52 | normal pick n
 OK   Bobby McFerrin — Common Threads | last aired 2026-10-25 03:28 | normal pick now | request now
 OK   Bobby McFerrin — Don't Worry Be Happy | last aired 2026-10-27 12:34 | normal pick now | request now
 OK   Bobby Vinton — Blue Velvet | last aired 2026-10-24 09:26 | normal pick now | request now
-OK   Bon Iver — Holocene | last aired 2026-10-26 17:47 | normal pick now | request now
+WAIT Bon Iver — Holocene | last aired 2026-10-29 02:41 | normal pick from 2026-10-31 02:41 | request from 2026-10-31 02:41
 WAIT Bon Iver — Skinny Love | last aired 2026-10-28 03:56 | normal pick from 2026-10-30 03:56 | request from 2026-10-30 03:56
 OK   Bon Jovi — Livin' On A Prayer | last aired 2026-10-26 15:27 | normal pick now | request now
 WAIT Bon Jovi — You Give Love A Bad Name | last aired 2026-10-28 18:07 | normal pick from 2026-10-30 06:07 | request from 2026-10-29 14:07
@@ -23,7 +23,7 @@ OK   Boney M. — Gotta Go Home | last aired 2026-10-23 08:43 | normal pick now 
 WAIT Boney M. — Sunny | last aired 2026-10-28 09:50 | normal pick from 2026-10-29 21:50 | request from 2026-10-29 05:50
 OK   Bonnie Tyler — Holding Out for a Hero (From "Footloose" Soundtrack) | last aired 2026-10-20 20:26 | normal pick now | request now
 OK   Bonnie Tyler — Total Eclipse of the Heart | last aired 2026-10-23 13:49 | normal pick now | request now
-OK   Bonobo — Cirrus | last aired 2026-10-23 12:31 | normal pick now | request now
+WAIT Bonobo — Cirrus | last aired 2026-10-29 02:35 | normal pick from 2026-10-30 14:35 | request from 2026-10-29 22:35
 OK   Bonobo — Kiara | last aired 2026-10-22 00:27 | normal pick now | request now
 OK   Bonobo — Kong | last aired 2026-10-23 23:20 | normal pick now | request now
 OK   Bonobo — Terrapin | last aired 2026-10-27 00:04 | normal pick now | request now

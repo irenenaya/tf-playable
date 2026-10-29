@@ -1,4 +1,4 @@
-Track status, artists filed under JU (built Wed Oct 28, 7:05 PM PDT (02:05 UTC Thu)). Times in UTC.
+Track status, artists filed under JU (built Wed Oct 28, 8:05 PM PDT (03:05 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Judas Priest — Breaking the Law | last aired 2026-10-17 04:45 | normal pick now | request now
@@ -9,7 +9,7 @@ WAIT Julie London — Cry Me A River | last aired 2026-10-28 04:08 | normal pick
 WAIT Julien Baker — Hardline | last aired 2026-10-27 13:13 | normal pick from 2026-10-29 13:13 | request from 2026-10-29 13:13
 WAIT Julio Iglesias — Quiero | last aired 2026-10-28 08:19 | normal pick from 2026-10-30 08:19 | request from 2026-10-30 08:19
 WAIT Jungle — Busy Earnin' | last aired 2026-10-28 09:58 | normal pick from 2026-10-30 09:58 | request from 2026-10-30 09:58
-WAIT Jungle — Keep Moving | last aired 2026-10-27 02:35 | normal pick from 2026-10-29 02:35 | request from 2026-10-29 02:35
+OK   Jungle — Keep Moving | last aired 2026-10-27 02:35 | normal pick now | request now
 OK   Junior H — Ella | last aired 2026-10-25 14:19 | normal pick now | request now
 WAIT Junkie XL — Brothers In Arms | last aired 2026-10-28 10:19 | normal pick from 2026-10-29 22:19 | request from 2026-10-29 06:19
 WAIT Justice — D.A.N.C.E. | last aired 2026-10-28 10:01 | normal pick from 2026-10-30 10:01 | request from 2026-10-30 10:01
