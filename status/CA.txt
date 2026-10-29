@@ -1,10 +1,10 @@
-Track status, artists filed under CA (built Wed Oct 28, 6:05 PM PDT (01:05 UTC Thu)). Times in UTC.
+Track status, artists filed under CA (built Wed Oct 28, 7:05 PM PDT (02:05 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Caetano Veloso — O Leãozinho (Ao Vivo) | last aired 2026-10-28 10:34 | normal pick from 2026-10-30 10:34 | request from 2026-10-30 10:34
 WAIT Caetano Veloso — Tropicália (Remastered 2006) | last aired 2026-10-27 14:31 | normal pick from 2026-10-29 14:31 | request from 2026-10-29 14:31
 OK   Café Tacvba — Eres (Album Version) | last aired 2026-10-26 15:58 | normal pick now | request now
-OK   Cage The Elephant — What I'm Becoming | last aired 2026-10-26 11:54 | normal pick now | request now
+WAIT Cage The Elephant — What I'm Becoming | last aired 2026-10-29 01:29 | normal pick from 2026-10-30 13:29 | request from 2026-10-29 21:29
 WAIT Caifanes — Afuera | last aired 2026-10-28 10:26 | normal pick from 2026-10-29 22:26 | request from 2026-10-29 06:26
 WAIT Caifanes — La Negra Tomasa (Bilongo - Version Tropical) | last aired 2026-10-28 03:48 | normal pick from 2026-10-29 15:48 | request now
 OK   Camille — Ta douleur | last aired 2026-10-17 07:19 | normal pick now | request now
@@ -16,10 +16,10 @@ WAIT Carlos Gardel — Por una Cabeza | last aired 2026-10-28 03:42 | normal pic
 WAIT Carole King — It's Too Late | last aired 2026-10-27 17:41 | normal pick from 2026-10-29 17:41 | request from 2026-10-29 17:41
 WAIT Carole King — So Far Away | last aired 2026-10-27 06:44 | normal pick from 2026-10-29 06:44 | request from 2026-10-29 06:44
 OK   Caroline Polachek — Bunny Is A Rider | last aired 2026-10-26 18:59 | normal pick now | request now
-OK   Carter Vail — Ants In My Room | last aired 2026-10-20 14:28 | normal pick now | request now
+WAIT Carter Vail — Ants In My Room | last aired 2026-10-29 01:44 | normal pick from 2026-10-30 13:44 | request from 2026-10-29 21:44
 WAIT Cartola — As Rosas Não Falam | last aired 2026-10-28 10:23 | normal pick from 2026-10-29 22:23 | request from 2026-10-29 06:23
 OK   Cascada — Everytime We Touch | last aired 2026-10-24 22:45 | normal pick now | request now
-OK   Cat Power — The Greatest | last aired 2026-10-26 05:16 | normal pick now | request now
-OK   Cate Le Bon — Are You with Me Now? | last aired 2026-10-25 05:32 | normal pick now | request now
+WAIT Cat Power — The Greatest | last aired 2026-10-29 01:37 | normal pick from 2026-10-30 13:37 | request from 2026-10-29 21:37
+WAIT Cate Le Bon — Are You with Me Now? | last aired 2026-10-29 01:33 | normal pick from 2026-10-30 13:33 | request from 2026-10-29 21:33
 OK   Caterina Barbieri — Fantas | last aired 2026-10-26 07:07 | normal pick now | request now
-OK   The Carpenters — (They Long To Be) Close To You | last aired 2026-10-22 18:54 | normal pick now | request now
+WAIT The Carpenters — (They Long To Be) Close To You | last aired 2026-10-29 01:40 | normal pick from 2026-10-30 13:40 | request from 2026-10-29 21:40
