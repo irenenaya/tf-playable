@@ -1,4 +1,4 @@
-Track status, song titles filed under RI (built Fri Oct 30, 5:05 AM PDT (12:05 UTC)). Times in UTC.
+Track status, song titles filed under RI (built Fri Oct 30, 6:05 AM PDT (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Richter: Shadow Journal — Tilda Swinton | last aired 2026-10-25 07:26 | normal pick now | request now
@@ -6,7 +6,7 @@ OK   Ride Like the Wind (Album Version) — Christopher Cross | last aired 2026-
 WAIT Ride On (Fight On) — Little Axe | last aired 2026-10-29 21:15 | normal pick from 2026-10-31 09:15 | request from 2026-10-30 17:15
 OK   Ride On Time — DEEN | last aired 2026-10-16 03:27 | normal pick now | request now
 OK   Riders on the Storm — The Doors | last aired 2026-10-21 13:52 | normal pick now | request now
-WAIT Riding For The Feeling — Bill Callahan | last aired 2026-10-28 12:51 | normal pick from 2026-10-30 12:51 | request from 2026-10-30 12:51
+OK   Riding For The Feeling — Bill Callahan | last aired 2026-10-28 12:51 | normal pick now | request now
 OK   Right Down the Line — Gerry Rafferty | last aired 2026-10-27 13:52 | normal pick now | request now
 OK   Right In Front Of Me — Tiny Habits | last aired 2026-10-25 22:30 | normal pick now | request now
 WAIT Ring of Fire — Johnny Cash | last aired 2026-10-28 18:11 | normal pick from 2026-10-30 18:11 | request from 2026-10-30 18:11
