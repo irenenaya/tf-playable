@@ -1,4 +1,4 @@
-Track status, song titles filed under FA (built Fri Oct 30, 1:05 PM PDT (20:05 UTC)). Times in UTC.
+Track status, song titles filed under FA (built Fri Oct 30, 2:05 PM PDT (21:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Face to Face — Daft Punk | last aired 2026-10-22 20:54 | normal pick now | request now
@@ -10,7 +10,7 @@ OK   Fail Upward For A Change — Tom Konkle | last aired 2026-10-17 13:56 | nor
 WAIT Fairytale — Alexander Rybak | last aired 2026-10-30 10:18 | normal pick from 2026-10-31 22:18 | request from 2026-10-31 06:18
 OK   Fait Accompli — Curve | last aired 2026-10-24 07:22 | normal pick now | request now
 OK   Fake Tales Of San Francisco — Arctic Monkeys | last aired 2026-10-22 11:02 | normal pick now | request now
-OK   Fallen (Album Mix) — Sarah McLachlan | last aired 2026-10-24 01:49 | normal pick now | request now
+WAIT Fallen (Album Mix) — Sarah McLachlan | last aired 2026-10-30 20:03 | normal pick from 2026-11-01 08:03 | request from 2026-10-31 16:03
 OK   Fallen Star — Djivan Gasparyan | last aired 2026-10-28 14:30 | normal pick now | request now
 OK   Fallin' (Album Version) — Alicia Keys | last aired 2026-10-25 00:09 | normal pick now | request now
 WAIT Falling Slowly (Album Version) — Glen Hansard and Marketa Irglova | last aired 2026-10-30 04:55 | normal pick from 2026-11-01 04:55 | request from 2026-11-01 04:55
@@ -18,7 +18,7 @@ WAIT Familiar — Nils Frahm | last aired 2026-10-30 03:42 | normal pick from 20
 OK   Family Portrait — P!nk | last aired 2026-10-14 13:43 | normal pick now | request now
 WAIT Famous Blue Raincoat — Leonard Cohen | last aired 2026-10-29 21:10 | normal pick from 2026-10-31 09:10 | request now
 OK   Fancy — Reba McEntire | last aired 2026-10-27 23:21 | normal pick now | request now
-WAIT Fantas — Caterina Barbieri | last aired 2026-10-29 08:41 | normal pick from 2026-10-30 20:41 | request now
+OK   Fantas — Caterina Barbieri | last aired 2026-10-29 08:41 | normal pick now | request now
 OK   Fantasiestücke, Op. 73 - Schumann: Fantasiestücke, Op. 73: No. 1, Zart und mit Ausdruck — Sol Gabetta | last aired 2026-10-28 19:27 | normal pick now | request now
 OK   Fast Car  (2015 Remaster) — Tracy Chapman | last aired 2026-10-26 12:24 | normal pick now | request now
 OK   Fast Car (LP Version) — Tracy Chapman | last aired 2026-10-27 08:46 | normal pick now | request now

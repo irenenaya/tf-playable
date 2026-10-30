@@ -1,4 +1,4 @@
-Track status, song titles filed under PO (built Fri Oct 30, 1:05 PM PDT (20:05 UTC)). Times in UTC.
+Track status, song titles filed under PO (built Fri Oct 30, 2:05 PM PDT (21:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Poison & Wine — The Civil Wars | last aired 2026-10-22 06:44 | normal pick now | request now
@@ -8,5 +8,5 @@ OK   Polyhedrons — Sea Power | last aired 2026-10-26 07:48 | normal pick now |
 OK   Ponyo's Sisters Lend a Hand - A Song for Mothers and the Sea (from 'Ponyo on the Cliff by the Sea') — Joe Hisaishi | last aired 2026-10-21 05:08 | normal pick now | request now
 WAIT Por una Cabeza — Carlos Gardel | last aired 2026-10-30 10:39 | normal pick from 2026-11-01 10:39 | request from 2026-11-01 10:39
 OK   Postales — Federico Aubele | last aired 2026-10-28 04:45 | normal pick now | request now
-WAIT Powercore — Nekrogoblikon | last aired 2026-10-30 00:28 | normal pick from 2026-10-31 12:28 | request from 2026-10-30 20:28
+WAIT Powercore — Nekrogoblikon | last aired 2026-10-30 00:28 | normal pick from 2026-10-31 12:28 | request now
 OK   The Power Of Love — Huey Lewis And The News | last aired 2026-10-28 12:11 | normal pick now | request now
