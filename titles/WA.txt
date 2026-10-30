@@ -1,4 +1,4 @@
-Track status, song titles filed under WA (built Thu Oct 29, 11:05 PM PDT (06:05 UTC Fri)). Times in UTC.
+Track status, song titles filed under WA (built Fri Oct 30, 12:05 AM PDT (07:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Way You Look Tonight — Tony Bennett & Faith Hill | last aired 2026-10-26 13:12 | normal pick now | request now
@@ -8,7 +8,7 @@ OK   Waiting Room — Fugazi | last aired 2026-10-21 18:41 | normal pick now | r
 OK   Wake Me Up — Becky Levi and the Nightjars | last aired 2026-10-22 06:23 | normal pick now | request now
 OK   Walkin' On The Sun — Smash Mouth | last aired 2026-10-25 20:07 | normal pick now | request now
 WAIT Walking On The Moon (Remastered 2003) — The Police | last aired 2026-10-29 21:31 | normal pick from 2026-10-31 09:31 | request from 2026-10-30 17:31
-WAIT Waltz No.19 in A minor, Op.posth. - Chopin: Waltz No. 19 in A minor, Op. posth. — Peter Jablonski | last aired 2026-10-28 06:15 | normal pick from 2026-10-30 06:15 | request from 2026-10-30 06:15
+OK   Waltz No.19 in A minor, Op.posth. - Chopin: Waltz No. 19 in A minor, Op. posth. — Peter Jablonski | last aired 2026-10-28 06:15 | normal pick now | request now
 WAIT Waltzing Back — No Vacation | last aired 2026-10-29 07:14 | normal pick from 2026-10-31 07:14 | request from 2026-10-31 07:14
 WAIT Wandering Star — Portishead | last aired 2026-10-29 21:39 | normal pick from 2026-10-31 09:39 | request from 2026-10-30 17:39
 OK   War — Edwin Starr | last aired 2026-10-24 21:18 | normal pick now | request now
@@ -17,7 +17,7 @@ OK   Was soll das (Remastered 2016) — Herbert Grönemeyer | last aired 2026-10
 OK   Wasteland, Baby! — Hozier | last aired 2026-10-22 03:16 | normal pick now | request now
 OK   watashi igai watashi ja naino — gesunokiwamiotome | last aired 2026-10-26 03:39 | normal pick now | request now
 OK   Watching The Detectives (Single Version) — Elvis Costello | last aired 2026-10-20 12:26 | normal pick now | request now
-OK   Watching The Wheels (Remastered 2010) — John Lennon | last aired 2026-10-24 09:49 | normal pick now | request now
+WAIT Watching The Wheels (Remastered 2010) — John Lennon | last aired 2026-10-30 06:39 | normal pick from 2026-10-31 18:39 | request from 2026-10-31 02:39
 OK   Water From An Ancient Well — Abdullah Ibrahim | last aired 2026-10-25 10:18 | normal pick now | request now
 WAIT Water No Get Enemy — Fela Kuti | last aired 2026-10-28 08:22 | normal pick from 2026-10-30 08:22 | request from 2026-10-30 08:22
 WAIT Water — Tyla | last aired 2026-10-29 10:08 | normal pick from 2026-10-31 10:08 | request from 2026-10-31 10:08
