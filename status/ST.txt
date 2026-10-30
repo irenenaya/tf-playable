@@ -1,4 +1,4 @@
-Track status, artists filed under ST (built Fri Oct 30, 9:05 AM PDT (16:05 UTC)). Times in UTC.
+Track status, artists filed under ST (built Fri Oct 30, 10:05 AM PDT (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT St Germain — Rose rouge | last aired 2026-10-29 13:34 | normal pick from 2026-10-31 01:34 | request now
@@ -18,7 +18,7 @@ WAIT Steely Dan — Time Out Of Mind | last aired 2026-10-30 06:12 | normal pick
 OK   Steve Miller Band — The Joker | last aired 2026-10-26 09:22 | normal pick now | request now
 WAIT Steve Roach — Living the Dream | last aired 2026-10-30 01:03 | normal pick from 2026-10-31 13:03 | request from 2026-10-30 21:03
 WAIT Stevie Ray Vaughan & Double Trouble — Pride and Joy | last aired 2026-10-29 15:53 | normal pick from 2026-10-31 15:53 | request from 2026-10-31 15:53
-WAIT Stevie Ray Vaughan & Double Trouble — Riviera Paradise | last aired 2026-10-29 04:31 | normal pick from 2026-10-30 16:31 | request now
+OK   Stevie Ray Vaughan & Double Trouble — Riviera Paradise | last aired 2026-10-29 04:31 | normal pick now | request now
 WAIT Stevie Wonder — As | last aired 2026-10-29 05:24 | normal pick from 2026-10-30 17:24 | request now
 OK   Stevie Wonder — Go Home | last aired 2026-10-25 09:30 | normal pick now | request now
 WAIT Stevie Wonder — Golden Lady | last aired 2026-10-29 13:19 | normal pick from 2026-10-31 01:19 | request now
@@ -46,4 +46,4 @@ WAIT The Staple Singers — I'll Take You There | last aired 2026-10-29 13:24 | 
 WAIT The Strokes — Last Nite | last aired 2026-10-29 22:53 | normal pick from 2026-10-31 10:53 | request from 2026-10-30 18:53
 OK   The Strokes — Lonely in the Future | last aired 2026-10-22 03:04 | normal pick now | request now
 WAIT The Strokes — Ode To The Mets | last aired 2026-10-30 10:58 | normal pick from 2026-10-31 22:58 | request from 2026-10-31 06:58
-WAIT The Style Council — Iwasadoledadstoyboy | last aired 2026-10-29 04:45 | normal pick from 2026-10-30 16:45 | request now
+OK   The Style Council — Iwasadoledadstoyboy | last aired 2026-10-29 04:45 | normal pick now | request now

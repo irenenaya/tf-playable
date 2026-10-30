@@ -1,4 +1,4 @@
-Track status, song titles filed under SO (built Fri Oct 30, 9:05 AM PDT (16:05 UTC)). Times in UTC.
+Track status, song titles filed under SO (built Fri Oct 30, 10:05 AM PDT (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT So Alive — Love and Rockets | last aired 2026-10-29 12:34 | normal pick from 2026-10-31 00:34 | request now
@@ -25,7 +25,7 @@ OK   Song To The Siren — This Mortal Coil | last aired 2026-10-27 11:13 | norm
 OK   Songbird — Kenny G | last aired 2026-10-11 11:23 | normal pick now | request now
 OK   Soon It Will Be Cold Enough to Build Fires — Emancipator | last aired 2026-10-28 02:36 | normal pick now | request now
 OK   Souk Eye — Gorillaz | last aired 2026-10-20 17:39 | normal pick now | request now
-OK   Soukora — Ali Farka Touré | last aired 2026-10-28 13:22 | normal pick now | request now
+WAIT Soukora — Ali Farka Touré | last aired 2026-10-30 16:10 | normal pick from 2026-11-01 16:10 | request from 2026-11-01 16:10
 OK   Sound and Vision  (2017 Remaster) — David Bowie | last aired 2026-10-23 15:48 | normal pick now | request now
 OK   Soundtrack to Me and You — Swan Dive | last aired 2026-10-26 18:30 | normal pick now | request now
 WAIT Sour Flower — Lianne La Havas | last aired 2026-10-29 18:21 | normal pick from 2026-10-31 06:21 | request now

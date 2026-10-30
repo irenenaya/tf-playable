@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Fri Oct 30, 9:05 AM PDT (16:05 UTC)). Times in UTC.
+Track status, artists filed under BE (built Fri Oct 30, 10:05 AM PDT (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Beach House — Bluebird | last aired 2026-10-28 09:19 | normal pick now | request now
@@ -20,7 +20,7 @@ OK   Ben Allison — D.A.V.E. | last aired 2026-10-28 22:54 | normal pick now | 
 WAIT Ben E. King — Stand By Me | last aired 2026-10-28 19:49 | normal pick from 2026-10-30 19:49 | request from 2026-10-30 19:49
 WAIT Ben Harper — Yard Sale | last aired 2026-10-29 03:50 | normal pick from 2026-10-31 03:50 | request from 2026-10-31 03:50
 OK   Ben Howard — Only Love | last aired 2026-10-28 11:55 | normal pick now | request now
-WAIT Ben&Ben — Leaves | last aired 2026-10-29 04:49 | normal pick from 2026-10-30 16:49 | request now
+OK   Ben&Ben — Leaves | last aired 2026-10-29 04:49 | normal pick now | request now
 OK   Ben&Ben — Maybe The Night | last aired 2026-10-08 16:41 | normal pick now | request now
 WAIT Benjamin Francis Leftwich — Ticket To Ride | last aired 2026-10-29 04:55 | normal pick from 2026-10-31 04:55 | request from 2026-10-31 04:55
 WAIT Benny Goodman — Sing Sing Sing (With A Swing) (live) | last aired 2026-10-30 15:30 | normal pick from 2026-11-01 03:30 | request from 2026-10-31 11:30
@@ -49,4 +49,4 @@ OK   The Beatles — Revolution 9 (Remastered 2009) | last aired 2026-09-14 19:3
 OK   The Beatles — Strawberry Fields Forever | last aired 2026-10-25 14:15 | normal pick now | request now
 OK   The Beatles — This Boy (Remastered) | last aired 2026-10-25 22:25 | normal pick now | request now
 OK   The Beatles — With A Little Help From My Friends (2017 Mix) | last aired 2026-10-23 09:41 | normal pick now | request now
-WAIT The Beatles — Yesterday (Remastered) | last aired 2026-10-29 04:58 | normal pick from 2026-10-30 16:58 | request now
+OK   The Beatles — Yesterday (Remastered) | last aired 2026-10-29 04:58 | normal pick now | request now

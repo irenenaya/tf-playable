@@ -1,4 +1,4 @@
-Track status, artists filed under CO (built Fri Oct 30, 9:05 AM PDT (16:05 UTC)). Times in UTC.
+Track status, artists filed under CO (built Fri Oct 30, 10:05 AM PDT (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Cocteau Twins — Cherry-coloured Funk | last aired 2026-10-28 11:20 | normal pick now | request now
@@ -13,5 +13,5 @@ WAIT Colin Currie — Music for 18 Musicians - Pulses | last aired 2026-10-29 21
 OK   Conchita Wurst — Rise Like a Phoenix | last aired 2026-10-28 12:15 | normal pick now | request now
 OK   Confetti — People Suck [Explicit] | last aired 2026-09-06 09:09 | normal pick now | request now
 WAIT Cornelius — New Music Machine (Buffalo Daughter Remix) | last aired 2026-10-29 19:44 | normal pick from 2026-10-31 07:44 | request now
-WAIT Cornelius — Star Fruit Surf Rider (Damon Albarn Remix) | last aired 2026-10-29 20:19 | normal pick from 2026-10-31 08:19 | request from 2026-10-30 16:19
+WAIT Cornelius — Star Fruit Surf Rider (Damon Albarn Remix) | last aired 2026-10-29 20:19 | normal pick from 2026-10-31 08:19 | request now
 OK   Cover Vocals BPM 122 Acapellas — This Is Your Life (Originally Performed by Banderas) | last aired 2026-09-21 02:20 | normal pick now | request now

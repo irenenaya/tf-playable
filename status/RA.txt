@@ -1,8 +1,8 @@
-Track status, artists filed under RA (built Fri Oct 30, 9:05 AM PDT (16:05 UTC)). Times in UTC.
+Track status, artists filed under RA (built Fri Oct 30, 10:05 AM PDT (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Radiohead — Paranoid Android | last aired 2026-10-28 19:58 | normal pick now | request now
-OK   Radiohead — Weird Fishes / Arpeggi | last aired 2026-10-27 11:24 | normal pick now | request now
+WAIT Radiohead — Weird Fishes / Arpeggi | last aired 2026-10-30 16:31 | normal pick from 2026-11-01 16:31 | request from 2026-11-01 16:31
 OK   Rammstein — Deutschland | last aired 2026-10-29 01:05 | normal pick now | request now
 OK   Ramones — Blitzkrieg Bop | last aired 2026-10-22 15:00 | normal pick now | request now
 OK   Randy Crawford — One Day I'll Fly Away | last aired 2026-10-28 13:44 | normal pick now | request now
@@ -11,7 +11,7 @@ WAIT Raquel Tavares — Como É Grande o Meu Amor por Você | last aired 2026-10
 OK   Ray Anthony — The Hokey Pokey | last aired 2026-10-27 19:52 | normal pick now | request now
 OK   Ray Parker Junior — Ghostbusters (Album Version) | last aired 2026-10-28 21:50 | normal pick now | request now
 OK   Rayland Baxter — Objects In The Mirror | last aired 2026-10-27 19:47 | normal pick now | request now
-OK   The Rah Band — Clouds Across the Moon | last aired 2026-10-26 04:35 | normal pick now | request now
+WAIT The Rah Band — Clouds Across the Moon | last aired 2026-10-30 16:37 | normal pick from 2026-11-01 04:37 | request from 2026-10-31 12:37
 OK   The Rah Band — Messages from the Stars (Remaster) | last aired 2026-10-28 22:38 | normal pick now | request now
 OK   The Ray Charles Singers — Sweet Little Mountain Bird | last aired 2026-09-18 12:34 | normal pick now | request now
 OK   The Ray Conniff Singers — Somewhere, My Love (Lara's Theme from "Doctor Zhivago") (Album Version) | last aired 2026-10-25 21:37 | normal pick now | request now
