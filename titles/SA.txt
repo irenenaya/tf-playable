@@ -1,4 +1,4 @@
-Track status, song titles filed under SA (built Thu Oct 29, 6:05 PM PDT (01:05 UTC Fri)). Times in UTC.
+Track status, song titles filed under SA (built Thu Oct 29, 7:05 PM PDT (02:05 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Sabotage — Beastie Boys | last aired 2026-10-28 21:54 | normal pick from 2026-10-30 21:54 | request from 2026-10-30 21:54
@@ -7,7 +7,7 @@ WAIT Sad Robot — Pornophonique | last aired 2026-10-29 21:25 | normal pick fro
 WAIT Sailing — Benny Sings | last aired 2026-10-29 00:19 | normal pick from 2026-10-31 00:19 | request from 2026-10-31 00:19
 OK   Sailing — Christopher Cross | last aired 2026-10-27 09:16 | normal pick now | request now
 OK   Sailor Song — Gigi Perez | last aired 2026-10-24 09:36 | normal pick now | request now
-WAIT Saku — Susumu Yokota | last aired 2026-10-29 05:55 | normal pick from 2026-10-30 17:55 | request from 2026-10-30 01:55
+WAIT Saku — Susumu Yokota | last aired 2026-10-29 05:55 | normal pick from 2026-10-30 17:55 | request now
 WAIT Salomila  (Live) — Ledward Kaapana | last aired 2026-10-29 09:57 | normal pick from 2026-10-30 21:57 | request from 2026-10-30 05:57
 OK   Saltwater — Geowulf | last aired 2026-10-26 20:39 | normal pick now | request now
 OK   Salvatore — Lana Del Rey | last aired 2026-10-21 21:37 | normal pick now | request now
@@ -15,7 +15,7 @@ WAIT saman — Ólafur Arnalds | last aired 2026-10-28 02:34 | normal pick from 
 WAIT Samba Da Benção — Bebel Gilberto | last aired 2026-10-29 03:45 | normal pick from 2026-10-31 03:45 | request from 2026-10-31 03:45
 WAIT Samba Pa Ti — Santana | last aired 2026-10-28 08:32 | normal pick from 2026-10-30 08:32 | request from 2026-10-30 08:32
 OK   Same — Smith & Mighty | last aired 2026-10-24 17:26 | normal pick now | request now
-OK   Sandstorm — Darude | last aired 2026-10-24 22:57 | normal pick now | request now
+WAIT Sandstorm — Darude | last aired 2026-10-30 01:59 | normal pick from 2026-10-31 13:59 | request from 2026-10-30 21:59
 WAIT Santa María (del Buen Ayre) — Gotan Project | last aired 2026-10-28 14:18 | normal pick from 2026-10-30 14:18 | request from 2026-10-30 14:18
 WAIT Sanvean - I Am Your Shadow — Lisa Gerrard | last aired 2026-10-29 16:43 | normal pick from 2026-10-31 16:43 | request from 2026-10-31 16:43
 WAIT Sara — Fleetwood Mac | last aired 2026-10-28 15:13 | normal pick from 2026-10-30 03:13 | request now
