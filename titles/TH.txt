@@ -1,8 +1,8 @@
-Track status, song titles filed under TH (built Fri Oct 30, 10:05 AM PDT (17:05 UTC)). Times in UTC.
+Track status, song titles filed under TH (built Fri Oct 30, 11:05 AM PDT (18:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   (They Long To Be) Close To You — The Carpenters | last aired 2026-10-29 01:41 | normal pick now | request now
-OK   Thank you — Alabama 3 | last aired 2026-10-26 22:53 | normal pick now | request now
+WAIT Thank you — Alabama 3 | last aired 2026-10-30 17:41 | normal pick from 2026-11-01 05:41 | request from 2026-10-31 13:41
 OK   thanks, my day is ruined — Alex Andre | last aired 2026-10-25 13:48 | normal pick now | request now
 OK   That Acid — Marie Vaunt | last aired 2026-10-28 22:16 | normal pick now | request now
 WAIT That's All for Everyone — Fleetwood Mac | last aired 2026-10-30 09:39 | normal pick from 2026-10-31 21:39 | request from 2026-10-31 05:39
