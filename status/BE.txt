@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Fri Oct 30, 3:05 AM PDT (10:05 UTC)). Times in UTC.
+Track status, artists filed under BE (built Fri Oct 30, 4:05 AM PDT (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Beach House — Bluebird | last aired 2026-10-28 09:19 | normal pick now | request now
@@ -16,7 +16,7 @@ OK   Bee Gees — Night Fever (From "Saturday Night Fever" Soundtrack) | last ai
 OK   Beenie Man — Feel It Boy | last aired 2026-10-24 21:50 | normal pick now | request now
 WAIT Belcea Quartet — Quatuor à cordes n° 4, Sz. 91 - String Quartet No. 4 in C Major, Sz. 91: IV. Allegretto pizzicato | last aired 2026-10-30 04:29 | normal pick from 2026-10-31 16:29 | request from 2026-10-31 00:29
 WAIT Belle and Sebastian — The Boy with the Arab Strap | last aired 2026-10-28 11:50 | normal pick from 2026-10-30 11:50 | request from 2026-10-30 11:50
-WAIT Ben Allison — D.A.V.E. | last aired 2026-10-28 22:54 | normal pick from 2026-10-30 10:54 | request now
+OK   Ben Allison — D.A.V.E. | last aired 2026-10-28 22:54 | normal pick now | request now
 WAIT Ben E. King — Stand By Me | last aired 2026-10-28 19:49 | normal pick from 2026-10-30 19:49 | request from 2026-10-30 19:49
 WAIT Ben Harper — Yard Sale | last aired 2026-10-29 03:50 | normal pick from 2026-10-31 03:50 | request from 2026-10-31 03:50
 OK   Ben Howard — Only Love | last aired 2026-10-28 11:55 | normal pick now | request now

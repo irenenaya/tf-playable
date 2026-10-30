@@ -1,4 +1,4 @@
-Track status, song titles filed under DE (built Fri Oct 30, 3:05 AM PDT (10:05 UTC)). Times in UTC.
+Track status, song titles filed under DE (built Fri Oct 30, 4:05 AM PDT (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   De Música Ligera (Remasterizado 2007) — Soda Stereo | last aired 2026-10-23 07:21 | normal pick now | request now
@@ -12,7 +12,7 @@ OK   Demoliendo Hoteles (Live) — Charly García | last aired 2026-10-24 11:11 
 WAIT Demons Are a Girl's Best Friend — Powerwolf | last aired 2026-10-29 21:36 | normal pick from 2026-10-31 09:36 | request from 2026-10-30 17:36
 WAIT Denkmal — Wir Sind Helden | last aired 2026-10-28 19:38 | normal pick from 2026-10-30 19:38 | request from 2026-10-30 19:38
 WAIT Departures (from 'Departures') — Joe Hisaishi | last aired 2026-10-30 07:02 | normal pick from 2026-10-31 19:02 | request from 2026-10-31 03:02
-WAIT Desert Rose (Album Version) — Sting | last aired 2026-10-29 14:17 | normal pick from 2026-10-31 02:17 | request from 2026-10-30 10:17
+WAIT Desert Rose (Album Version) — Sting | last aired 2026-10-29 14:17 | normal pick from 2026-10-31 02:17 | request now
 OK   Desolate July — Sons Of Apollo | last aired 2026-09-25 16:24 | normal pick now | request now
 OK   Despacito — Luis Fonsi | last aired 2026-10-22 13:36 | normal pick now | request now
 WAIT Desperado (Live On MTV, 1994) — Eagles | last aired 2026-10-29 07:17 | normal pick from 2026-10-30 19:17 | request now

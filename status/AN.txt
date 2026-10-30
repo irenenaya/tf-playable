@@ -1,4 +1,4 @@
-Track status, artists filed under AN (built Fri Oct 30, 3:05 AM PDT (10:05 UTC)). Times in UTC.
+Track status, artists filed under AN (built Fri Oct 30, 4:05 AM PDT (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Ana Sofia Varela — Fado Vadio (Má Fama) | last aired 2026-10-28 08:10 | normal pick now | request now
@@ -6,7 +6,7 @@ OK   Andrew W.K. — Party Hard (Album Version) | last aired 2026-10-26 02:48 | 
 OK   Andrés Calamaro — Flaca | last aired 2026-10-27 03:36 | normal pick now | request now
 WAIT Angus & Julia Stone — You're The One That I Want | last aired 2026-10-29 02:51 | normal pick from 2026-10-31 02:51 | request from 2026-10-31 02:51
 OK   Angèle Dubeau — The Mission – Buona Fortuna Jack (Live) | last aired 2026-10-28 05:56 | normal pick now | request now
-OK   Angélique Kidjo — Agolo | last aired 2026-10-22 08:33 | normal pick now | request now
+WAIT Angélique Kidjo — Agolo | last aired 2026-10-30 10:52 | normal pick from 2026-10-31 22:52 | request from 2026-10-31 06:52
 OK   Angélique Kidjo — Malaika | last aired 2026-10-28 15:02 | normal pick now | request now
 OK   Anita Baker — Angel (LP Version) | last aired 2026-10-23 01:52 | normal pick now | request now
 WAIT Anita Baker — Caught Up in the Rapture (LP Version) | last aired 2026-10-28 16:43 | normal pick from 2026-10-30 16:43 | request from 2026-10-30 16:43

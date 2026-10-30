@@ -1,4 +1,4 @@
-Track status, artists filed under ST (built Fri Oct 30, 3:05 AM PDT (10:05 UTC)). Times in UTC.
+Track status, artists filed under ST (built Fri Oct 30, 4:05 AM PDT (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT St Germain — Rose rouge | last aired 2026-10-29 13:34 | normal pick from 2026-10-31 01:34 | request now
@@ -33,7 +33,7 @@ OK   Stevie Wonder — Summer Soft | last aired 2026-10-04 13:50 | normal pick n
 OK   Stevie Wonder — Superstition (Album Version) | last aired 2026-10-22 21:40 | normal pick now | request now
 OK   Stevie Wonder — You Haven't Done Nothin' | last aired 2026-10-26 12:43 | normal pick now | request now
 WAIT Still Woozy — Get Down | last aired 2026-10-29 09:34 | normal pick from 2026-10-30 21:34 | request now
-WAIT Sting — Desert Rose (Album Version) | last aired 2026-10-29 14:17 | normal pick from 2026-10-31 02:17 | request from 2026-10-30 10:17
+WAIT Sting — Desert Rose (Album Version) | last aired 2026-10-29 14:17 | normal pick from 2026-10-31 02:17 | request now
 OK   Sting — Fields Of Gold (My Songs Version) | last aired 2026-10-24 16:43 | normal pick now | request now
 WAIT Sting — Fragile | last aired 2026-10-29 13:42 | normal pick from 2026-10-31 01:42 | request now
 WAIT Sting — If You Love Somebody Set Them Free (Single Edit) | last aired 2026-10-29 17:11 | normal pick from 2026-10-31 05:11 | request from 2026-10-30 13:11
@@ -45,5 +45,5 @@ OK   Styx — Mr. Roboto | last aired 2026-10-26 12:12 | normal pick now | reque
 WAIT The Staple Singers — I'll Take You There | last aired 2026-10-29 13:24 | normal pick from 2026-10-31 13:24 | request from 2026-10-31 13:24
 WAIT The Strokes — Last Nite | last aired 2026-10-29 22:53 | normal pick from 2026-10-31 10:53 | request from 2026-10-30 18:53
 OK   The Strokes — Lonely in the Future | last aired 2026-10-22 03:04 | normal pick now | request now
-OK   The Strokes — Ode To The Mets | last aired 2026-10-22 22:39 | normal pick now | request now
+WAIT The Strokes — Ode To The Mets | last aired 2026-10-30 10:57 | normal pick from 2026-10-31 22:57 | request from 2026-10-31 06:57
 WAIT The Style Council — Iwasadoledadstoyboy | last aired 2026-10-29 04:45 | normal pick from 2026-10-30 16:45 | request now
