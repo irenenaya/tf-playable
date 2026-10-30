@@ -1,8 +1,8 @@
-Track status, song titles filed under WA (built Thu Oct 29, 4:05 PM PDT (23:05 UTC)). Times in UTC.
+Track status, song titles filed under WA (built Thu Oct 29, 5:05 PM PDT (00:05 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Way You Look Tonight — Tony Bennett & Faith Hill | last aired 2026-10-26 13:12 | normal pick now | request now
-OK   Wagner: Tristan und Isolde - Wagner: Tristan und Isolde: Prelude - Orchestra (Act One) — Richard Wagner | last aired 2026-10-18 00:55 | normal pick now | request now
+WAIT Wagner: Tristan und Isolde - Wagner: Tristan und Isolde: Prelude - Orchestra (Act One) — Richard Wagner | last aired 2026-10-29 23:18 | normal pick from 2026-10-31 11:18 | request from 2026-10-30 19:18
 OK   Wait — M83 | last aired 2026-10-23 23:24 | normal pick now | request now
 OK   Waiting Room — Fugazi | last aired 2026-10-21 18:41 | normal pick now | request now
 OK   Wake Me Up — Becky Levi and the Nightjars | last aired 2026-10-22 06:23 | normal pick now | request now

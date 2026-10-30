@@ -1,11 +1,11 @@
-Track status, song titles filed under SO (built Thu Oct 29, 4:05 PM PDT (23:05 UTC)). Times in UTC.
+Track status, song titles filed under SO (built Thu Oct 29, 5:05 PM PDT (00:05 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT So Alive — Love and Rockets | last aired 2026-10-29 12:34 | normal pick from 2026-10-31 00:34 | request from 2026-10-30 08:34
 WAIT So Far Away — Carole King | last aired 2026-10-29 08:28 | normal pick from 2026-10-31 08:28 | request from 2026-10-31 08:28
 OK   So Long, Marianne — Leonard Cohen | last aired 2026-10-22 05:24 | normal pick now | request now
-WAIT So Real — Jeff Buckley | last aired 2026-10-28 11:10 | normal pick from 2026-10-29 23:10 | request now
-OK   So What — Miles Davis | last aired 2026-10-23 12:46 | normal pick now | request now
+OK   So Real — Jeff Buckley | last aired 2026-10-28 11:10 | normal pick now | request now
+WAIT So What — Miles Davis | last aired 2026-10-29 23:45 | normal pick from 2026-10-31 11:45 | request from 2026-10-30 19:45
 OK   So What — P!nk | last aired 2026-10-20 15:13 | normal pick now | request now
 OK   Sodade — Cesária Evora | last aired 2026-10-27 08:07 | normal pick now | request now
 WAIT Solidarity Forever — Pete Seeger | last aired 2026-10-28 18:27 | normal pick from 2026-10-30 06:27 | request now

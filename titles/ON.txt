@@ -1,4 +1,4 @@
-Track status, song titles filed under ON (built Thu Oct 29, 4:05 PM PDT (23:05 UTC)). Times in UTC.
+Track status, song titles filed under ON (built Thu Oct 29, 5:05 PM PDT (00:05 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   On & On — Erykah Badu | last aired 2026-10-22 17:52 | normal pick now | request now
@@ -17,7 +17,7 @@ OK   One of These Mornings — Moby | last aired 2026-10-13 13:55 | normal pick 
 OK   One Summer's Day (from 'Spirited Away') — Joe Hisaishi | last aired 2026-10-10 06:04 | normal pick now | request now
 OK   One Thousand Fires — Fates Warning | last aired 2026-10-21 02:37 | normal pick now | request now
 OK   Only Happy When It Rains — Garbage | last aired 2026-10-27 04:24 | normal pick now | request now
-WAIT Only Love — Ben Howard | last aired 2026-10-28 11:55 | normal pick from 2026-10-29 23:55 | request now
+OK   Only Love — Ben Howard | last aired 2026-10-28 11:55 | normal pick now | request now
 OK   Only Love Can Break Your Heart — Saint Etienne | last aired 2026-10-26 21:51 | normal pick now | request now
 OK   Only You (Remastered 2008) — Yazoo | last aired 2026-10-27 05:12 | normal pick now | request now
 OK   Only You (There Will Never Be Another) — Side-A | last aired 2026-10-26 03:22 | normal pick now | request now

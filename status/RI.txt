@@ -1,13 +1,13 @@
-Track status, artists filed under RI (built Thu Oct 29, 4:05 PM PDT (23:05 UTC)). Times in UTC.
+Track status, artists filed under RI (built Thu Oct 29, 5:05 PM PDT (00:05 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Ricchi E Poveri — Sarà perché ti amo | last aired 2026-10-21 18:35 | normal pick now | request now
 OK   Richard Ashcroft — Break The Night With Colour | last aired 2026-10-13 08:26 | normal pick now | request now
 OK   Richard O Brien — The Time Warp | last aired 2026-10-10 20:11 | normal pick now | request now
-OK   Richard Wagner — Wagner: Tristan und Isolde - Wagner: Tristan und Isolde: Prelude - Orchestra (Act One) | last aired 2026-10-18 00:55 | normal pick now | request now
+WAIT Richard Wagner — Wagner: Tristan und Isolde - Wagner: Tristan und Isolde: Prelude - Orchestra (Act One) | last aired 2026-10-29 23:18 | normal pick from 2026-10-31 11:18 | request from 2026-10-30 19:18
 OK   Rick Astley — Never Gonna Give You Up | last aired 2026-10-23 19:22 | normal pick now | request now
-OK   Rick Springfield — Jessie's Girl | last aired 2026-10-15 20:25 | normal pick now | request now
+WAIT Rick Springfield — Jessie's Girl | last aired 2026-10-29 23:28 | normal pick from 2026-10-31 11:28 | request from 2026-10-30 19:28
 WAIT Ride — Vapour Trail | last aired 2026-10-28 11:15 | normal pick from 2026-10-30 11:15 | request from 2026-10-30 11:15
 OK   Rihanna — Umbrella (Album Version) | last aired 2026-10-23 19:30 | normal pick now | request now
 OK   Rio Reiser — Für immer und dich (Album Version) | last aired 2026-10-26 11:06 | normal pick now | request now
-OK   Rival Consoles — Untravel | last aired 2026-10-27 02:44 | normal pick now | request now
+WAIT Rival Consoles — Untravel | last aired 2026-10-29 23:07 | normal pick from 2026-10-31 11:07 | request from 2026-10-30 19:07

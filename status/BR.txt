@@ -1,4 +1,4 @@
-Track status, artists filed under BR (built Thu Oct 29, 4:05 PM PDT (23:05 UTC)). Times in UTC.
+Track status, artists filed under BR (built Thu Oct 29, 5:05 PM PDT (00:05 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Brainstory — Mnemophobia | last aired 2026-10-24 03:53 | normal pick now | request now
@@ -8,8 +8,8 @@ OK   Breakestra — Back At The Boathouse | last aired 2026-10-26 02:28 | normal
 OK   Brenda Lee — Rockin' Around The Christmas Tree | last aired 2026-08-13 13:36 | normal pick now | request now
 OK   Brian Eno — An Ending (Ascent) (Remastered 2019) | last aired 2026-10-25 02:48 | normal pick now | request now
 OK   Brian Eno — Capsule | last aired 2026-10-24 02:15 | normal pick now | request now
-OK   Brian Eno — Deep Blue Day (Remastered 2019) | last aired 2026-10-21 05:36 | normal pick now | request now
-OK   Brian Eno — Fullness Of Wind (Variation On 'The Canon In D Major' By Johann Pachelbel) (Remastered 2004) | last aired 2026-10-23 02:16 | normal pick now | request now
+WAIT Brian Eno — Deep Blue Day (Remastered 2019) | last aired 2026-10-29 23:31 | normal pick from 2026-10-31 11:31 | request from 2026-10-30 19:31
+WAIT Brian Eno — Fullness Of Wind (Variation On 'The Canon In D Major' By Johann Pachelbel) (Remastered 2004) | last aired 2026-10-29 23:35 | normal pick from 2026-10-31 11:35 | request from 2026-10-30 19:35
 OK   Brian Eno — Spinning Away | last aired 2026-10-25 23:57 | normal pick now | request now
 WAIT Brian Eno — The Big Ship (2004 Remaster) | last aired 2026-10-29 07:11 | normal pick from 2026-10-30 19:11 | request from 2026-10-30 03:11
 OK   Brijean — Counting Sheep | last aired 2026-10-27 13:31 | normal pick now | request now
