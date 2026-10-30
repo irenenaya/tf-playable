@@ -1,19 +1,19 @@
-Track status, artists filed under SO (built Fri Oct 30, 12:05 AM PDT (07:05 UTC)). Times in UTC.
+Track status, artists filed under SO (built Fri Oct 30, 1:05 AM PDT (08:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Soda Stereo — De Música Ligera (Remasterizado 2007) | last aired 2026-10-23 07:21 | normal pick now | request now
 OK   Soda Stereo — En La Ciudad De La Furia (MTV Unplugged) | last aired 2026-10-26 01:33 | normal pick now | request now
 OK   Soda Stereo — Luna Roja (Remasterizado 2007) | last aired 2026-10-24 10:12 | normal pick now | request now
 OK   Soft Cell — Tainted Love | last aired 2026-10-27 14:10 | normal pick now | request now
-WAIT Sol Gabetta — Fantasiestücke, Op. 73 - Schumann: Fantasiestücke, Op. 73: No. 1, Zart und mit Ausdruck | last aired 2026-10-28 19:27 | normal pick from 2026-10-30 07:27 | request now
-WAIT Solange — Cranes in the Sky | last aired 2026-10-28 19:23 | normal pick from 2026-10-30 07:23 | request now
+OK   Sol Gabetta — Fantasiestücke, Op. 73 - Schumann: Fantasiestücke, Op. 73: No. 1, Zart und mit Ausdruck | last aired 2026-10-28 19:27 | normal pick now | request now
+OK   Solange — Cranes in the Sky | last aired 2026-10-28 19:23 | normal pick now | request now
 OK   Solarstone — Evensong | last aired 2026-10-09 04:49 | normal pick now | request now
 OK   Solisti e Orchestre del Cinema Italiano — L'uomo dell'armonica | last aired 2026-10-17 10:17 | normal pick now | request now
 OK   Sons Of Apollo — Desolate July | last aired 2026-09-25 16:24 | normal pick now | request now
 WAIT Sophie Hunger — Le vent nous portera | last aired 2026-10-28 23:20 | normal pick from 2026-10-30 11:20 | request now
 OK   Sophie Hunger — Shape | last aired 2026-10-26 21:19 | normal pick now | request now
 WAIT Soul Coughing — Screenwriter's Blues | last aired 2026-10-29 09:28 | normal pick from 2026-10-30 21:28 | request now
-WAIT Soundgarden — Black Hole Sun | last aired 2026-10-29 11:44 | normal pick from 2026-10-30 23:44 | request from 2026-10-30 07:44
+WAIT Soundgarden — Black Hole Sun | last aired 2026-10-29 11:44 | normal pick from 2026-10-30 23:44 | request now
 WAIT Soundgarden — Fell On Black Days (Album Version) | last aired 2026-10-29 10:59 | normal pick from 2026-10-30 22:59 | request now
 OK   Soundgarden — Holy Water (Album Version) | last aired 2026-10-27 01:19 | normal pick now | request now
 WAIT The Soul Stirrers — Touch The Hem Of His Garment | last aired 2026-10-29 05:00 | normal pick from 2026-10-30 17:00 | request now
