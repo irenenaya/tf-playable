@@ -1,4 +1,4 @@
-Track status, song titles filed under BE (built Fri Oct 30, 1:05 AM PDT (08:05 UTC)). Times in UTC.
+Track status, song titles filed under BE (built Fri Oct 30, 2:05 AM PDT (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Be (Introduction Of Jonathan) — Neil Diamond | last aired 2026-10-27 21:31 | normal pick now | request now
@@ -9,13 +9,13 @@ OK   Beautiful People (feat. Khalid) — Ed Sheeran | last aired 2026-10-25 19:4
 WAIT Beautiful Tango (Remastered Version) — Hindi Zahra | last aired 2026-10-30 06:23 | normal pick from 2026-11-01 06:23 | request from 2026-11-01 06:23
 OK   Beautiful Things — Benson Boone | last aired 2026-10-25 15:50 | normal pick now | request now
 OK   Behind the Mask  (2018 Bob Ludwig Remastering) — Yellow Magic Orchestra | last aired 2026-10-22 10:06 | normal pick now | request now
-OK   Beija Eu — Marisa Monte | last aired 2026-10-28 06:41 | normal pick now | request now
+WAIT Beija Eu — Marisa Monte | last aired 2026-10-30 08:07 | normal pick from 2026-11-01 08:07 | request from 2026-11-01 08:07
 OK   Being Is Bewildering — Moloko | last aired 2026-10-24 17:36 | normal pick now | request now
 OK   Belinda Says — Alvvays | last aired 2026-10-27 22:06 | normal pick now | request now
 OK   Berghain — ROSALÍA | last aired 2026-10-22 21:52 | normal pick now | request now
 OK   Berimbau/Consolacao (Album Version) — Sergio Mendes | last aired 2026-10-28 05:43 | normal pick now | request now
 WAIT Better Together — Jack Johnson | last aired 2026-10-30 04:39 | normal pick from 2026-10-31 16:39 | request from 2026-10-31 00:39
-WAIT Betting on Trains (Remastered 2025) — Hem | last aired 2026-10-28 20:59 | normal pick from 2026-10-30 08:59 | request now
+OK   Betting on Trains (Remastered 2025) — Hem | last aired 2026-10-28 20:59 | normal pick now | request now
 OK   Between the Sheets — The Isley Brothers | last aired 2026-10-28 17:52 | normal pick now | request now
 OK   Bewitched, Bothered And Bewildered  (Ella Fitzgerald and Her Famous Orchestra Bewitched, Bothered And Bewildered) — Ella Fitzgerald | last aired 2026-10-27 16:13 | normal pick now | request now
 OK   Bewitched, Bothered And Bewildered — Ella Fitzgerald | last aired 2026-10-27 03:44 | normal pick now | request now

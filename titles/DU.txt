@@ -1,5 +1,5 @@
-Track status, song titles filed under DU (built Fri Oct 30, 1:05 AM PDT (08:05 UTC)). Times in UTC.
+Track status, song titles filed under DU (built Fri Oct 30, 2:05 AM PDT (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Duel of the Fates (From "Star Wars") — Not Tomorrow Night | last aired 2026-09-21 02:10 | normal pick now | request now
-WAIT Duel of the Fates — London Symphony Orchestra | last aired 2026-10-29 12:23 | normal pick from 2026-10-31 00:23 | request from 2026-10-30 08:23
+WAIT Duel of the Fates — London Symphony Orchestra | last aired 2026-10-29 12:23 | normal pick from 2026-10-31 00:23 | request now
