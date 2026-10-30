@@ -1,8 +1,8 @@
-Track status, artists filed under SW (built Fri Oct 30, 2:05 PM PDT (21:05 UTC)). Times in UTC.
+Track status, artists filed under SW (built Fri Oct 30, 3:05 PM PDT (22:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Swan Dive — Circle | last aired 2026-10-27 09:08 | normal pick now | request now
 OK   Swan Dive — Soundtrack to Me and You | last aired 2026-10-26 18:30 | normal pick now | request now
 OK   Swan Dive — Tender Love | last aired 2026-10-24 00:54 | normal pick now | request now
-OK   Swan Dive — Until | last aired 2026-10-19 07:19 | normal pick now | request now
+WAIT Swan Dive — Until | last aired 2026-10-30 21:51 | normal pick from 2026-11-01 09:51 | request from 2026-10-31 17:51
 OK   SWV — Weak | last aired 2026-10-24 14:31 | normal pick now | request now

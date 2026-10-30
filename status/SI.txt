@@ -1,4 +1,4 @@
-Track status, artists filed under SI (built Fri Oct 30, 2:05 PM PDT (21:05 UTC)). Times in UTC.
+Track status, artists filed under SI (built Fri Oct 30, 3:05 PM PDT (22:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Siddhartha — 00:00 | last aired 2026-10-18 14:39 | normal pick now | request now
@@ -16,7 +16,7 @@ WAIT Simon Trpčeski — Suite bergamasque, CD 82, L. 75: III. Clair de lune | l
 OK   Simple Minds — Alive And Kicking (Remastered 2002) | last aired 2026-10-27 21:52 | normal pick now | request now
 WAIT Simple Minds — Don't You (Forget About Me) | last aired 2026-10-29 00:23 | normal pick from 2026-10-31 00:23 | request from 2026-10-31 00:23
 OK   Simple Minds — Someone Somewhere (In Summertime) | last aired 2026-10-11 16:53 | normal pick now | request now
-OK   Sinéad O'Connor — Nothing Compares 2 U (2009 Remaster) | last aired 2026-10-21 21:32 | normal pick now | request now
+WAIT Sinéad O'Connor — Nothing Compares 2 U (2009 Remaster) | last aired 2026-10-30 21:35 | normal pick from 2026-11-01 09:35 | request from 2026-10-31 17:35
 OK   Siouxsie & The Banshees — Cities In Dust (Single Version) | last aired 2026-10-27 04:38 | normal pick now | request now
 OK   Siouxsie & The Banshees — Spellbound | last aired 2026-10-26 10:02 | normal pick now | request now
 OK   Sir David Willcocks — 5 Tudor Portraits: No. 5, Scherzo. Jolly Rutterkin | last aired 2026-10-17 13:40 | normal pick now | request now

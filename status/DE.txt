@@ -1,4 +1,4 @@
-Track status, artists filed under DE (built Fri Oct 30, 2:05 PM PDT (21:05 UTC)). Times in UTC.
+Track status, artists filed under DE (built Fri Oct 30, 3:05 PM PDT (22:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   De La Soul — Me Myself and I | last aired 2026-10-27 23:06 | normal pick now | request now
@@ -17,4 +17,4 @@ OK   Depeche Mode — Enjoy the Silence | last aired 2026-10-26 08:48 | normal p
 WAIT Depeche Mode — Just Can't Get Enough | last aired 2026-10-28 23:35 | normal pick from 2026-10-30 23:35 | request from 2026-10-30 23:35
 OK   Depeche Mode — Policy of Truth | last aired 2026-10-26 15:03 | normal pick now | request now
 OK   Depeche Mode — Precious | last aired 2026-10-24 20:17 | normal pick now | request now
-WAIT Derek & The Dominos — Layla | last aired 2026-10-29 09:21 | normal pick from 2026-10-30 21:21 | request now
+OK   Derek & The Dominos — Layla | last aired 2026-10-29 09:21 | normal pick now | request now
