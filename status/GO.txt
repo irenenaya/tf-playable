@@ -1,4 +1,4 @@
-Track status, artists filed under GO (built Thu Oct 29, 8:05 PM PDT (03:05 UTC Fri)). Times in UTC.
+Track status, artists filed under GO (built Thu Oct 29, 9:05 PM PDT (04:05 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Go_A — SHUM | last aired 2026-10-29 01:02 | normal pick from 2026-10-30 13:02 | request now
@@ -11,7 +11,7 @@ OK   Gordon Lightfoot — Wherefore and Why (LP Version) | last aired 2026-10-20
 OK   Gorillaz — Damascus (feat. Omar Souleyman and Yasiin Bey) | last aired 2026-10-22 20:09 | normal pick now | request now
 OK   Gorillaz — Empire Ants (feat. Little Dragon) | last aired 2026-10-27 12:39 | normal pick now | request now
 OK   Gorillaz — Hong Kong | last aired 2026-10-22 03:44 | normal pick now | request now
-OK   Gorillaz — Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar) | last aired 2026-10-21 18:38 | normal pick now | request now
+WAIT Gorillaz — Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar) | last aired 2026-10-30 03:34 | normal pick from 2026-10-31 15:34 | request from 2026-10-30 23:34
 OK   Gorillaz — Pac-Man (feat. ScHoolboy Q) | last aired 2026-10-22 00:14 | normal pick now | request now
 OK   Gorillaz — Rock the House | last aired 2026-10-23 11:41 | normal pick now | request now
 OK   Gorillaz — Souk Eye | last aired 2026-10-20 17:39 | normal pick now | request now

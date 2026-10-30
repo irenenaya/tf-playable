@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Thu Oct 29, 8:05 PM PDT (03:05 UTC Fri)). Times in UTC.
+Track status, artists filed under BE (built Thu Oct 29, 9:05 PM PDT (04:05 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Beach House — Bluebird | last aired 2026-10-28 09:19 | normal pick now | request now
@@ -34,10 +34,10 @@ OK   Betty Carter — Moonlight in Vermont | last aired 2026-10-25 14:00 | norma
 OK   BETWEEN FRIENDS — affection | last aired 2026-10-24 19:22 | normal pick now | request now
 OK   Beyoncé — Crazy In Love | last aired 2026-10-27 17:17 | normal pick now | request now
 WAIT Beyoncé — TEXAS HOLD 'EM | last aired 2026-10-28 22:05 | normal pick from 2026-10-30 10:05 | request now
-OK   Béla Fleck — My Home's Across The Blue Ridge Mountains | last aired 2026-10-21 01:51 | normal pick now | request now
+WAIT Béla Fleck — My Home's Across The Blue Ridge Mountains | last aired 2026-10-30 03:57 | normal pick from 2026-10-31 15:57 | request from 2026-10-30 23:57
 WAIT The Beach Boys — God Only Knows (Stereo) | last aired 2026-10-29 03:42 | normal pick from 2026-10-30 15:42 | request now
 OK   The Beach Boys — Good Vibrations (Stereo/Remastered 2012) | last aired 2026-10-23 07:28 | normal pick now | request now
-OK   The Beatles — A Day In The Life (2017 Mix) | last aired 2026-10-09 17:05 | normal pick now | request now
+WAIT The Beatles — A Day In The Life (2017 Mix) | last aired 2026-10-30 03:51 | normal pick from 2026-10-31 15:51 | request from 2026-10-30 23:51
 OK   The Beatles — Get Back (2021 Mix) | last aired 2026-10-21 00:41 | normal pick now | request now
 OK   The Beatles — Girl (Remastered) | last aired 2026-10-22 15:02 | normal pick now | request now
 OK   The Beatles — Golden Slumbers (Remastered) | last aired 2026-10-25 23:34 | normal pick now | request now
