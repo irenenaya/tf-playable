@@ -1,20 +1,20 @@
-Track status, artists filed under CH (built Thu Oct 29, 10:05 PM PDT (05:05 UTC Fri)). Times in UTC.
+Track status, artists filed under CH (built Thu Oct 29, 11:05 PM PDT (06:05 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Chaka Khan — What Cha' Gonna Do for Me | last aired 2026-10-26 23:06 | normal pick now | request now
 OK   Chappell Roan — Good Luck, Babe! | last aired 2026-10-24 21:33 | normal pick now | request now
 OK   Chappell Roan — HOT TO GO! | last aired 2026-10-12 17:42 | normal pick now | request now
 OK   Chappell Roan — Pink Pony Club | last aired 2026-10-18 10:54 | normal pick now | request now
-OK   Charles Lloyd & The Marvels — You Are So Beautiful | last aired 2026-10-28 16:02 | normal pick now | request now
+WAIT Charles Lloyd & The Marvels — You Are So Beautiful | last aired 2026-10-30 05:21 | normal pick from 2026-10-31 17:21 | request from 2026-10-31 01:21
 WAIT Charles Lloyd — You Are So Beautiful | last aired 2026-10-29 07:44 | normal pick from 2026-10-30 19:44 | request now
-OK   Charles Mingus — Goodbye Pork Pie Hat (Album Version) | last aired 2026-10-23 17:36 | normal pick now | request now
+WAIT Charles Mingus — Goodbye Pork Pie Hat (Album Version) | last aired 2026-10-30 05:15 | normal pick from 2026-10-31 17:15 | request from 2026-10-31 01:15
 OK   Charles Mingus — Medley: Mode D - Trio And Group Dancers / Mode E - Single Solos And Group Dance / Mode F - Group And Solo Dance (Album Version) | last aired 2026-10-26 06:18 | normal pick now | request now
 OK   Charles Mingus — Track A - Solo Dancer (Stop! Look! And Listen, Sinner Jim Whitney!) (Album Version) | last aired 2026-10-25 06:28 | normal pick now | request now
 OK   Charles Wright & The Watts 103rd Street Rhythm Band — Express Yourself (Album Version) | last aired 2026-10-26 13:57 | normal pick now | request now
 OK   Charli XCX — 360 | last aired 2026-10-23 19:42 | normal pick now | request now
 OK   Charly García — Demoliendo Hoteles (Live) | last aired 2026-10-24 11:11 | normal pick now | request now
 OK   Chavela Vargas — La llorona | last aired 2026-10-22 13:50 | normal pick now | request now
-OK   Chet Atkins — Why Worry (Album Version) | last aired 2026-10-28 05:15 | normal pick now | request now
+WAIT Chet Atkins — Why Worry (Album Version) | last aired 2026-10-30 05:31 | normal pick from 2026-10-31 17:31 | request from 2026-10-31 01:31
 WAIT Chet Baker — Almost Blue | last aired 2026-10-28 15:58 | normal pick from 2026-10-30 15:58 | request from 2026-10-30 15:58
 OK   Chet Baker — My Funny Valentine | last aired 2026-10-22 06:38 | normal pick now | request now
 OK   Chet Baker — You Don't Know What Love Is | last aired 2026-10-27 16:07 | normal pick now | request now
@@ -36,7 +36,7 @@ OK   Christopher Cross — I Really Don't Know Anymore  (2019 Remaster) | last a
 OK   Christopher Cross — Ride Like the Wind (Album Version) | last aired 2026-10-25 03:40 | normal pick now | request now
 OK   Christopher Cross — Sailing | last aired 2026-10-27 09:16 | normal pick now | request now
 OK   Chuck Berry — Johnny B. Goode | last aired 2026-10-24 13:19 | normal pick now | request now
-OK   Chuck Mangione — Feels So Good | last aired 2026-10-24 05:34 | normal pick now | request now
+WAIT Chuck Mangione — Feels So Good | last aired 2026-10-30 05:38 | normal pick from 2026-10-31 17:38 | request from 2026-10-31 01:38
 OK   CHVRCHES — Clearest Blue | last aired 2026-10-25 00:49 | normal pick now | request now
 OK   The Chills — Pink Frost | last aired 2026-10-24 23:56 | normal pick now | request now
 OK   The Chordettes — Mr. Sandman | last aired 2026-10-18 04:36 | normal pick now | request now

@@ -1,8 +1,8 @@
-Track status, song titles filed under PE (built Thu Oct 29, 10:05 PM PDT (05:05 UTC Fri)). Times in UTC.
+Track status, song titles filed under PE (built Thu Oct 29, 11:05 PM PDT (06:05 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   pe$o$ — Evan Fong | last aired 2026-10-18 03:52 | normal pick now | request now
-WAIT Peace — Horace Silver Quintet | last aired 2026-10-28 17:41 | normal pick from 2026-10-30 05:41 | request now
+OK   Peace — Horace Silver Quintet | last aired 2026-10-28 17:41 | normal pick now | request now
 WAIT Peace Piece (Album Version) — Bill Evans | last aired 2026-10-29 13:46 | normal pick from 2026-10-31 01:46 | request from 2026-10-30 09:46
 OK   Peg — Steely Dan | last aired 2026-10-22 09:52 | normal pick now | request now
 OK   Penelope's Song The Odyssey — Celtic Siren Noreen | last aired 2026-10-19 17:28 | normal pick now | request now
@@ -14,5 +14,5 @@ WAIT Perfect Day — Lou Reed | last aired 2026-10-29 12:31 | normal pick from 2
 OK   Perfect — Ed Sheeran | last aired 2026-10-18 22:00 | normal pick now | request now
 OK   Perfekte Welle — Juli | last aired 2026-10-26 22:49 | normal pick now | request now
 OK   Perform This Way (Parody of "Born This Way" by Lady Gaga) — Weird Al Yankovic | last aired 2026-10-13 10:00 | normal pick now | request now
-WAIT Perhaps You'll Wonder Why (The Paris Sessions) — Melody Gardot | last aired 2026-10-30 02:38 | normal pick from 2026-10-31 14:38 | request from 2026-10-30 22:38
+WAIT Perhaps You'll Wonder Why (The Paris Sessions) — Melody Gardot | last aired 2026-10-30 02:39 | normal pick from 2026-10-31 14:39 | request from 2026-10-30 22:39
 WAIT Petit pays — Cesária Evora | last aired 2026-10-28 10:37 | normal pick from 2026-10-30 10:37 | request from 2026-10-30 10:37

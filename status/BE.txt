@@ -1,10 +1,10 @@
-Track status, artists filed under BE (built Thu Oct 29, 10:05 PM PDT (05:05 UTC Fri)). Times in UTC.
+Track status, artists filed under BE (built Thu Oct 29, 11:05 PM PDT (06:05 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Beach House — Bluebird | last aired 2026-10-28 09:19 | normal pick now | request now
 OK   Beach House — Space Song | last aired 2026-10-27 11:08 | normal pick now | request now
 WAIT Beastie Boys — Sabotage | last aired 2026-10-28 21:54 | normal pick from 2026-10-30 21:54 | request from 2026-10-30 21:54
-WAIT Beatrice Rana — Keyboard Concerto No. 1 in D Minor, BWV 1052: I. Allegro | last aired 2026-10-30 04:17 | normal pick from 2026-10-31 16:17 | request from 2026-10-31 00:17
+WAIT Beatrice Rana — Keyboard Concerto No. 1 in D Minor, BWV 1052: I. Allegro | last aired 2026-10-30 04:18 | normal pick from 2026-10-31 16:18 | request from 2026-10-31 00:18
 OK   Beatrice Rana — Libertango (Arr. Yamamoto for Piano 4-Hands) | last aired 2026-10-26 10:49 | normal pick now | request now
 OK   Beats by Luca — 52 CHICKEN NUGGET (McRave) | last aired 2026-10-18 11:09 | normal pick now | request now
 WAIT Bebel Gilberto — Samba Da Benção | last aired 2026-10-29 03:45 | normal pick from 2026-10-31 03:45 | request from 2026-10-31 03:45
@@ -14,7 +14,7 @@ OK   Beck — The New Pollution | last aired 2026-10-26 19:03 | normal pick now 
 OK   Becky Levi and the Nightjars — Wake Me Up | last aired 2026-10-22 06:23 | normal pick now | request now
 OK   Bee Gees — Night Fever (From "Saturday Night Fever" Soundtrack) | last aired 2026-10-06 16:28 | normal pick now | request now
 OK   Beenie Man — Feel It Boy | last aired 2026-10-24 21:50 | normal pick now | request now
-WAIT Belcea Quartet — Quatuor à cordes n° 4, Sz. 91 - String Quartet No. 4 in C Major, Sz. 91: IV. Allegretto pizzicato | last aired 2026-10-30 04:28 | normal pick from 2026-10-31 16:28 | request from 2026-10-31 00:28
+WAIT Belcea Quartet — Quatuor à cordes n° 4, Sz. 91 - String Quartet No. 4 in C Major, Sz. 91: IV. Allegretto pizzicato | last aired 2026-10-30 04:29 | normal pick from 2026-10-31 16:29 | request from 2026-10-31 00:29
 WAIT Belle and Sebastian — The Boy with the Arab Strap | last aired 2026-10-28 11:50 | normal pick from 2026-10-30 11:50 | request from 2026-10-30 11:50
 WAIT Ben Allison — D.A.V.E. | last aired 2026-10-28 22:54 | normal pick from 2026-10-30 10:54 | request now
 WAIT Ben E. King — Stand By Me | last aired 2026-10-28 19:49 | normal pick from 2026-10-30 19:49 | request from 2026-10-30 19:49
@@ -37,7 +37,7 @@ WAIT Beyoncé — TEXAS HOLD 'EM | last aired 2026-10-28 22:05 | normal pick fro
 WAIT Béla Fleck — My Home's Across The Blue Ridge Mountains | last aired 2026-10-30 03:57 | normal pick from 2026-10-31 15:57 | request from 2026-10-30 23:57
 WAIT The Beach Boys — God Only Knows (Stereo) | last aired 2026-10-29 03:42 | normal pick from 2026-10-30 15:42 | request now
 OK   The Beach Boys — Good Vibrations (Stereo/Remastered 2012) | last aired 2026-10-23 07:28 | normal pick now | request now
-WAIT The Beatles — A Day In The Life (2017 Mix) | last aired 2026-10-30 03:51 | normal pick from 2026-10-31 15:51 | request from 2026-10-30 23:51
+WAIT The Beatles — A Day In The Life (2017 Mix) | last aired 2026-10-30 03:52 | normal pick from 2026-10-31 15:52 | request from 2026-10-30 23:52
 OK   The Beatles — Get Back (2021 Mix) | last aired 2026-10-21 00:41 | normal pick now | request now
 OK   The Beatles — Girl (Remastered) | last aired 2026-10-22 15:02 | normal pick now | request now
 OK   The Beatles — Golden Slumbers (Remastered) | last aired 2026-10-25 23:34 | normal pick now | request now

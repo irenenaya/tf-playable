@@ -1,4 +1,4 @@
-Track status, artists filed under ST (built Thu Oct 29, 10:05 PM PDT (05:05 UTC Fri)). Times in UTC.
+Track status, artists filed under ST (built Thu Oct 29, 11:05 PM PDT (06:05 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT St Germain — Rose rouge | last aired 2026-10-29 13:34 | normal pick from 2026-10-31 01:34 | request from 2026-10-30 09:34
@@ -32,7 +32,7 @@ OK   Stevie Wonder — Sir Duke | last aired 2026-10-27 13:21 | normal pick now 
 OK   Stevie Wonder — Summer Soft | last aired 2026-10-04 13:50 | normal pick now | request now
 OK   Stevie Wonder — Superstition (Album Version) | last aired 2026-10-22 21:40 | normal pick now | request now
 OK   Stevie Wonder — You Haven't Done Nothin' | last aired 2026-10-26 12:43 | normal pick now | request now
-WAIT Still Woozy — Get Down | last aired 2026-10-29 09:34 | normal pick from 2026-10-30 21:34 | request from 2026-10-30 05:34
+WAIT Still Woozy — Get Down | last aired 2026-10-29 09:34 | normal pick from 2026-10-30 21:34 | request now
 WAIT Sting — Desert Rose (Album Version) | last aired 2026-10-29 14:17 | normal pick from 2026-10-31 02:17 | request from 2026-10-30 10:17
 OK   Sting — Fields Of Gold (My Songs Version) | last aired 2026-10-24 16:43 | normal pick now | request now
 WAIT Sting — Fragile | last aired 2026-10-29 13:42 | normal pick from 2026-10-31 01:42 | request from 2026-10-30 09:42
