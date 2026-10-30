@@ -1,9 +1,9 @@
-Track status, song titles filed under AU (built Fri Oct 30, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, song titles filed under AU (built Fri Oct 30, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT August 10 — Khruangbin | last aired 2026-10-30 13:23 | normal pick from 2026-11-01 01:23 | request from 2026-10-31 09:23
 OK   Austin (Boots Stop Workin') — Dasha | last aired 2026-10-25 15:29 | normal pick now | request now
-OK   Austin — Blake Shelton | last aired 2026-10-18 20:29 | normal pick now | request now
+WAIT Austin — Blake Shelton | last aired 2026-10-30 15:09 | normal pick from 2026-11-01 03:09 | request from 2026-10-31 11:09
 OK   Autobahn  (2024 Single Edit) — Kraftwerk | last aired 2026-10-23 09:55 | normal pick now | request now
 OK   Automatically Sunshine — The Supremes | last aired 2026-10-25 17:30 | normal pick now | request now
 WAIT Autumn Leaves — Nat King Cole | last aired 2026-10-30 09:00 | normal pick from 2026-10-31 21:00 | request from 2026-10-31 05:00

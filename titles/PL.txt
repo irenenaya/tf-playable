@@ -1,10 +1,10 @@
-Track status, song titles filed under PL (built Fri Oct 30, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, song titles filed under PL (built Fri Oct 30, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Plainsong (Remastered) — The Cure | last aired 2026-10-25 00:00 | normal pick now | request now
 OK   Plantasia — Mort Garson | last aired 2026-10-28 00:31 | normal pick now | request now
 OK   Plastic Love — Lofi Fruits Music | last aired 2026-10-24 17:51 | normal pick now | request now
-OK   Plastic Love — Mariya Takeuchi | last aired 2026-10-28 10:41 | normal pick now | request now
+WAIT Plastic Love — Mariya Takeuchi | last aired 2026-10-30 15:50 | normal pick from 2026-11-01 15:50 | request from 2026-11-01 15:50
 OK   please don't call (333) — Khalid | last aired 2026-10-26 02:01 | normal pick now | request now
 OK   Please Don't Leave Me — P!nk | last aired 2026-10-09 03:01 | normal pick now | request now
 WAIT Please Please Please — Sabrina Carpenter | last aired 2026-10-30 14:40 | normal pick from 2026-11-01 02:40 | request from 2026-10-31 10:40

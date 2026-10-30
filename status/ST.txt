@@ -1,4 +1,4 @@
-Track status, artists filed under ST (built Fri Oct 30, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, artists filed under ST (built Fri Oct 30, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT St Germain — Rose rouge | last aired 2026-10-29 13:34 | normal pick from 2026-10-31 01:34 | request now
@@ -10,7 +10,7 @@ OK   Stars of the Lid — Requiem for Dying Mothers, Pt. 2 | last aired 2026-10-
 WAIT Stealers Wheel — Stuck In The Middle With You | last aired 2026-10-29 18:50 | normal pick from 2026-10-31 06:50 | request now
 WAIT Steely Dan — Almost Gothic (Album Version) | last aired 2026-10-30 13:48 | normal pick from 2026-11-01 01:48 | request from 2026-10-31 09:48
 WAIT Steely Dan — Babylon Sisters | last aired 2026-10-29 13:29 | normal pick from 2026-10-31 01:29 | request now
-WAIT Steely Dan — Home At Last | last aired 2026-10-29 19:53 | normal pick from 2026-10-31 07:53 | request from 2026-10-30 15:53
+WAIT Steely Dan — Home At Last | last aired 2026-10-29 19:53 | normal pick from 2026-10-31 07:53 | request now
 WAIT Steely Dan — Jack of Speed (Album Version) | last aired 2026-10-29 22:41 | normal pick from 2026-10-31 10:41 | request from 2026-10-30 18:41
 OK   Steely Dan — Kid Charlemagne | last aired 2026-10-26 14:21 | normal pick now | request now
 OK   Steely Dan — Peg | last aired 2026-10-22 09:52 | normal pick now | request now

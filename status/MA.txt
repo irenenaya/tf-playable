@@ -1,4 +1,4 @@
-Track status, artists filed under MA (built Fri Oct 30, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, artists filed under MA (built Fri Oct 30, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   M/A/R/R/S — Pump Up The Volume (UK 12" Remix) | last aired 2026-10-27 19:21 | normal pick now | request now
@@ -16,21 +16,21 @@ WAIT Manau — Je Jazz Les Couleurs (Album Version) | last aired 2026-10-29 20:0
 OK   Marc Rebillet — Late To Work | last aired 2026-10-09 16:38 | normal pick now | request now
 WAIT Marconi Union — Weightless | last aired 2026-10-29 09:03 | normal pick from 2026-10-30 21:03 | request now
 WAIT Margaret Berger — I Feed You My Love (Extended Version) | last aired 2026-10-29 18:58 | normal pick from 2026-10-31 06:58 | request now
-WAIT Maria McKee — Absolutely Barking Stars | last aired 2026-10-29 19:32 | normal pick from 2026-10-31 07:32 | request from 2026-10-30 15:32
+WAIT Maria McKee — Absolutely Barking Stars | last aired 2026-10-29 19:32 | normal pick from 2026-10-31 07:32 | request now
 WAIT Maria McKee — Life Is Sweet | last aired 2026-10-29 20:15 | normal pick from 2026-10-31 08:15 | request from 2026-10-30 16:15
 OK   Mariah Carey — All I Want for Christmas Is You | last aired 2026-04-20 09:48 | normal pick now | request now
 OK   Mariah Carey — O Holy Night | last aired 2026-04-30 06:20 | normal pick now | request now
 OK   Marie Vaunt — That Acid | last aired 2026-10-28 22:16 | normal pick now | request now
-OK   Marija Šerifović — Molitva | last aired 2026-10-28 08:16 | normal pick now | request now
+WAIT Marija Šerifović — Molitva | last aired 2026-10-30 15:55 | normal pick from 2026-11-01 03:55 | request from 2026-10-31 11:55
 OK   Marilyn Manson — The Love Song | last aired 2026-10-25 20:53 | normal pick now | request now
 WAIT Marisa Monte — Beija Eu | last aired 2026-10-30 08:08 | normal pick from 2026-11-01 08:08 | request from 2026-11-01 08:08
-OK   Mariya Takeuchi — Plastic Love | last aired 2026-10-28 10:41 | normal pick now | request now
+WAIT Mariya Takeuchi — Plastic Love | last aired 2026-10-30 15:50 | normal pick from 2026-11-01 15:50 | request from 2026-11-01 15:50
 WAIT Mariza — Ó gente da minha terra | last aired 2026-10-29 16:05 | normal pick from 2026-10-31 16:05 | request from 2026-10-31 16:05
 OK   Mark Hollis — A Life (1895 - 1915) | last aired 2026-10-28 12:31 | normal pick now | request now
 WAIT Mark Hollis — The Colour Of Spring | last aired 2026-10-30 07:27 | normal pick from 2026-10-31 19:27 | request from 2026-10-31 03:27
 OK   Mark Knopfler — The Long Road | last aired 2026-10-28 06:04 | normal pick now | request now
 OK   marshall4 — i get gender envy from shadow the hedgehog | last aired 2026-10-18 03:54 | normal pick now | request now
-OK   Martha And The Muffins — Echo Beach | last aired 2026-10-28 19:55 | normal pick now | request now
+WAIT Martha And The Muffins — Echo Beach | last aired 2026-10-30 15:58 | normal pick from 2026-11-01 03:58 | request from 2026-10-31 11:58
 OK   Martin Ditcham — Maureen | last aired 2026-08-18 22:36 | normal pick now | request now
 OK   Martin Garrix — Carry You | last aired 2026-10-28 22:09 | normal pick now | request now
 OK   Martina McBride — Independence Day | last aired 2026-10-28 23:11 | normal pick now | request now
@@ -63,7 +63,7 @@ OK   Maxwell — This Woman's Work (Uncut) | last aired 2026-10-26 13:53 | norma
 WAIT Maxwell — Whenever Wherever Whatever (Remastered 2021) (Album Version) | last aired 2026-10-30 05:56 | normal pick from 2026-10-31 17:56 | request from 2026-10-31 01:56
 WAIT Mazzy Star — Fade Into You | last aired 2026-10-30 09:34 | normal pick from 2026-11-01 09:34 | request from 2026-11-01 09:34
 WAIT Mazzy Star — Halah | last aired 2026-10-30 03:02 | normal pick from 2026-11-01 03:02 | request from 2026-11-01 03:02
-OK   Måneskin — Torna a casa | last aired 2026-10-28 08:42 | normal pick now | request now
+WAIT Måneskin — Torna a casa | last aired 2026-10-30 15:46 | normal pick from 2026-11-01 15:46 | request from 2026-11-01 15:46
 WAIT Måneskin — ZITTI E BUONI | last aired 2026-10-29 16:09 | normal pick from 2026-10-31 04:09 | request now
 OK   The Magnetic Fields — Absolutely Cuckoo | last aired 2026-10-21 16:36 | normal pick now | request now
 OK   The Magnetic Fields — All My Little Words | last aired 2026-10-18 13:10 | normal pick now | request now

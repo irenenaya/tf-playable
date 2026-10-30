@@ -1,8 +1,8 @@
-Track status, song titles filed under LI (built Fri Oct 30, 8:05 AM PDT (15:05 UTC)). Times in UTC.
+Track status, song titles filed under LI (built Fri Oct 30, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Li Beirut (after Joaquín Rodrigo) — Karim Sulayman | last aired 2026-10-29 16:47 | normal pick from 2026-10-31 04:47 | request now
-OK   Libertango (Arr. Yamamoto for Piano 4-Hands) — Beatrice Rana | last aired 2026-10-26 10:49 | normal pick now | request now
+WAIT Libertango (Arr. Yamamoto for Piano 4-Hands) — Beatrice Rana | last aired 2026-10-30 15:26 | normal pick from 2026-11-01 15:26 | request from 2026-11-01 15:26
 WAIT Libertango — Al Di Meola | last aired 2026-10-29 14:38 | normal pick from 2026-10-31 02:38 | request now
 WAIT Libertango — Rodrigo y Gabriela | last aired 2026-10-29 10:01 | normal pick from 2026-10-31 10:01 | request from 2026-10-31 10:01
 OK   Libertango — Yo-Yo Ma | last aired 2026-10-28 10:31 | normal pick now | request now
