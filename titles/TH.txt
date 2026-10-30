@@ -1,7 +1,7 @@
-Track status, song titles filed under TH (built Fri Oct 30, 6:05 AM PDT (13:05 UTC)). Times in UTC.
+Track status, song titles filed under TH (built Fri Oct 30, 7:05 AM PDT (14:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT (They Long To Be) Close To You — The Carpenters | last aired 2026-10-29 01:41 | normal pick from 2026-10-30 13:41 | request now
+OK   (They Long To Be) Close To You — The Carpenters | last aired 2026-10-29 01:41 | normal pick now | request now
 OK   Thank you — Alabama 3 | last aired 2026-10-26 22:53 | normal pick now | request now
 OK   thanks, my day is ruined — Alex Andre | last aired 2026-10-25 13:48 | normal pick now | request now
 OK   That Acid — Marie Vaunt | last aired 2026-10-28 22:16 | normal pick now | request now
@@ -11,7 +11,7 @@ OK   The Thrill Is Gone — B.B. King | last aired 2026-10-24 13:27 | normal pic
 OK   Theme from "A Summer Place" — Percy Faith & His Orchestra | last aired 2026-10-11 11:09 | normal pick now | request now
 WAIT Theme From Harry's Game — Clannad | last aired 2026-10-29 06:56 | normal pick from 2026-10-31 06:56 | request from 2026-10-31 06:56
 OK   Theme From Superman  (Concert Version) — John Williams | last aired 2026-10-26 10:06 | normal pick now | request now
-OK   There She Goes — The La's | last aired 2026-10-20 01:55 | normal pick now | request now
+WAIT There She Goes — The La's | last aired 2026-10-30 13:55 | normal pick from 2026-11-01 01:55 | request from 2026-10-31 09:55
 OK   They Took My Love Away — Djivan Gasparyan | last aired 2026-10-09 03:21 | normal pick now | request now
 WAIT Thick Skull — Paramore | last aired 2026-10-28 20:10 | normal pick from 2026-10-30 20:10 | request from 2026-10-30 20:10
 OK   This Boy (Remastered) — The Beatles | last aired 2026-10-25 22:25 | normal pick now | request now
@@ -22,8 +22,8 @@ OK   This Is Your Life (Originally Performed by Banderas) — Cover Vocals BPM 1
 WAIT This Means War — Petra | last aired 2026-10-30 02:29 | normal pick from 2026-10-31 14:29 | request from 2026-10-30 22:29
 WAIT This Must Be the Place (Naive Melody)  (2005 Remastered LP Version) — Talking Heads | last aired 2026-10-28 19:18 | normal pick from 2026-10-30 19:18 | request from 2026-10-30 19:18
 OK   This Woman's Work (Uncut) — Maxwell | last aired 2026-10-26 13:53 | normal pick now | request now
-WAIT Threnody — Goldmund | last aired 2026-10-29 01:48 | normal pick from 2026-10-30 13:48 | request now
-WAIT Thriller — Michael Jackson | last aired 2026-10-29 17:24 | normal pick from 2026-10-31 05:24 | request from 2026-10-30 13:24
+OK   Threnody — Goldmund | last aired 2026-10-29 01:48 | normal pick now | request now
+WAIT Thriller — Michael Jackson | last aired 2026-10-29 17:24 | normal pick from 2026-10-31 05:24 | request now
 OK   Through The Fire And Flames — Dragonforce | last aired 2026-10-22 11:49 | normal pick now | request now
 OK   Thrown Away — VAST | last aired 2026-10-24 19:56 | normal pick now | request now
 OK   Thunder Road — Bruce Springsteen | last aired 2026-10-18 00:26 | normal pick now | request now

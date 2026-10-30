@@ -1,10 +1,10 @@
-Track status, artists filed under PA (built Fri Oct 30, 6:05 AM PDT (13:05 UTC)). Times in UTC.
+Track status, artists filed under PA (built Fri Oct 30, 7:05 AM PDT (14:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Paco de Lucía — Entre Dos Aguas | last aired 2026-10-27 20:10 | normal pick now | request now
 OK   Paco de Lucía — Mediterranean sundance - Di Meola: Mediterranean sundance | last aired 2026-10-28 22:50 | normal pick now | request now
 OK   Pages — If I Saw You Again (Album Version) | last aired 2026-10-27 14:45 | normal pick now | request now
-WAIT Pale Saints — Kinky Love | last aired 2026-10-29 01:25 | normal pick from 2026-10-30 13:25 | request now
+OK   Pale Saints — Kinky Love | last aired 2026-10-29 01:25 | normal pick now | request now
 WAIT Paolo Conte — Via Con Me | last aired 2026-10-28 18:55 | normal pick from 2026-10-30 18:55 | request from 2026-10-30 18:55
 OK   Papa Roach — Last Resort | last aired 2026-10-28 22:30 | normal pick now | request now
 OK   Papooz — You and I | last aired 2026-10-27 20:25 | normal pick now | request now
