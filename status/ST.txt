@@ -1,4 +1,4 @@
-Track status, artists filed under ST (built Thu Oct 29, 5:05 PM PDT (00:05 UTC Fri)). Times in UTC.
+Track status, artists filed under ST (built Thu Oct 29, 6:05 PM PDT (01:05 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT St Germain — Rose rouge | last aired 2026-10-29 13:34 | normal pick from 2026-10-31 01:34 | request from 2026-10-30 09:34
@@ -18,7 +18,7 @@ OK   Steely Dan — Time Out Of Mind | last aired 2026-10-18 07:04 | normal pick
 OK   Steve Miller Band — The Joker | last aired 2026-10-26 09:22 | normal pick now | request now
 OK   Steve Roach — Living the Dream | last aired 2026-10-28 07:15 | normal pick now | request now
 WAIT Stevie Ray Vaughan & Double Trouble — Pride and Joy | last aired 2026-10-29 15:53 | normal pick from 2026-10-31 15:53 | request from 2026-10-31 15:53
-WAIT Stevie Ray Vaughan & Double Trouble — Riviera Paradise | last aired 2026-10-29 04:31 | normal pick from 2026-10-30 16:31 | request from 2026-10-30 00:31
+WAIT Stevie Ray Vaughan & Double Trouble — Riviera Paradise | last aired 2026-10-29 04:31 | normal pick from 2026-10-30 16:31 | request now
 WAIT Stevie Wonder — As | last aired 2026-10-29 05:24 | normal pick from 2026-10-30 17:24 | request from 2026-10-30 01:24
 OK   Stevie Wonder — Go Home | last aired 2026-10-25 09:30 | normal pick now | request now
 WAIT Stevie Wonder — Golden Lady | last aired 2026-10-29 13:19 | normal pick from 2026-10-31 01:19 | request from 2026-10-30 09:19
@@ -46,4 +46,4 @@ WAIT The Staple Singers — I'll Take You There | last aired 2026-10-29 13:24 | 
 WAIT The Strokes — Last Nite | last aired 2026-10-29 22:52 | normal pick from 2026-10-31 10:52 | request from 2026-10-30 18:52
 OK   The Strokes — Lonely in the Future | last aired 2026-10-22 03:04 | normal pick now | request now
 OK   The Strokes — Ode To The Mets | last aired 2026-10-22 22:39 | normal pick now | request now
-WAIT The Style Council — Iwasadoledadstoyboy | last aired 2026-10-29 04:45 | normal pick from 2026-10-30 16:45 | request from 2026-10-30 00:45
+WAIT The Style Council — Iwasadoledadstoyboy | last aired 2026-10-29 04:45 | normal pick from 2026-10-30 16:45 | request now

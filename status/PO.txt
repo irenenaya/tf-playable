@@ -1,10 +1,10 @@
-Track status, artists filed under PO (built Thu Oct 29, 5:05 PM PDT (00:05 UTC Fri)). Times in UTC.
+Track status, artists filed under PO (built Thu Oct 29, 6:05 PM PDT (01:05 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Polar Sun — Caribou | last aired 2026-10-29 11:59 | normal pick from 2026-10-30 23:59 | request from 2026-10-30 07:59
 WAIT Pop Evil — Breathe Again | last aired 2026-10-29 21:44 | normal pick from 2026-10-31 09:44 | request from 2026-10-30 17:44
 WAIT Pornophonique — Sad Robot | last aired 2026-10-29 21:25 | normal pick from 2026-10-31 09:25 | request from 2026-10-30 17:25
-WAIT Portishead — Glory Box (Album Version) | last aired 2026-10-28 00:26 | normal pick from 2026-10-30 00:26 | request from 2026-10-30 00:26
+OK   Portishead — Glory Box (Album Version) | last aired 2026-10-28 00:26 | normal pick now | request now
 WAIT Portishead — It Could Be Sweet | last aired 2026-10-29 17:49 | normal pick from 2026-10-31 05:49 | request from 2026-10-30 13:49
 WAIT Portishead — Roads | last aired 2026-10-29 11:54 | normal pick from 2026-10-30 23:54 | request from 2026-10-30 07:54
 WAIT Portishead — Sour Times | last aired 2026-10-29 12:57 | normal pick from 2026-10-31 00:57 | request from 2026-10-30 08:57

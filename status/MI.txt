@@ -1,4 +1,4 @@
-Track status, artists filed under MI (built Thu Oct 29, 5:05 PM PDT (00:05 UTC Fri)). Times in UTC.
+Track status, artists filed under MI (built Thu Oct 29, 6:05 PM PDT (01:05 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Mica Levi — Love | last aired 2026-10-28 02:44 | normal pick now | request now
@@ -16,7 +16,7 @@ WAIT Michael Jackson — Who Is It | last aired 2026-10-29 22:14 | normal pick f
 OK   Michael Jackson — You Are Not Alone | last aired 2026-10-26 10:10 | normal pick now | request now
 WAIT Michael McDonald — I Keep Forgettin' (Every Time You're Near) | last aired 2026-10-29 02:54 | normal pick from 2026-10-31 02:54 | request from 2026-10-31 02:54
 OK   MIKA — Grace Kelly | last aired 2026-10-27 14:39 | normal pick now | request now
-WAIT Mike Marshall — Big Country (Instrumental) | last aired 2026-10-29 04:23 | normal pick from 2026-10-30 16:23 | request from 2026-10-30 00:23
+WAIT Mike Marshall — Big Country (Instrumental) | last aired 2026-10-29 04:23 | normal pick from 2026-10-30 16:23 | request now
 OK   Mike Oldfield — Moonlight Shadow | last aired 2026-10-21 01:34 | normal pick now | request now
 OK   Mikis Theodorakis — Zorba the Greek:  Zorba's Dance | last aired 2026-10-27 08:28 | normal pick now | request now
 WAIT Miles Davis — Blue in Green | last aired 2026-10-29 22:08 | normal pick from 2026-10-31 10:08 | request from 2026-10-30 18:08
@@ -33,5 +33,5 @@ WAIT Miracles of Modern Science — Dear Pressure | last aired 2026-10-29 23:54 
 WAIT Mireille Mathieu — Together We're Strong | last aired 2026-10-29 04:27 | normal pick from 2026-10-31 04:27 | request from 2026-10-31 04:27
 WAIT Miriam Makeba — Pata Pata | last aired 2026-10-29 10:21 | normal pick from 2026-10-31 10:21 | request from 2026-10-31 10:21
 OK   Missio — I See You | last aired 2026-10-18 20:41 | normal pick now | request now
-WAIT Mitski — My Love Mine All Mine | last aired 2026-10-28 12:23 | normal pick from 2026-10-30 00:23 | request now
+OK   Mitski — My Love Mine All Mine | last aired 2026-10-28 12:23 | normal pick now | request now
 OK   Mizuki Tomoda — Marunouchi sadistic (Cover) | last aired 2026-10-17 14:46 | normal pick now | request now
