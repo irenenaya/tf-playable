@@ -1,4 +1,4 @@
-Track status, song titles filed under AF (built Fri Oct 30, 7:05 AM PDT (14:05 UTC)). Times in UTC.
+Track status, song titles filed under AF (built Fri Oct 30, 8:05 AM PDT (15:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT A Forest — The Cure | last aired 2026-10-30 03:14 | normal pick from 2026-10-31 15:14 | request from 2026-10-30 23:14
@@ -9,4 +9,4 @@ OK   Africa — Toto | last aired 2026-10-28 13:52 | normal pick now | request n
 WAIT After Dark — Mr.Kitty | last aired 2026-10-30 03:06 | normal pick from 2026-10-31 15:06 | request from 2026-10-30 23:06
 OK   After Hours — The Weeknd | last aired 2026-10-14 13:24 | normal pick now | request now
 OK   After The Flood — Talk Talk | last aired 2026-10-28 07:58 | normal pick now | request now
-WAIT Afuera — Caifanes | last aired 2026-10-30 10:34 | normal pick from 2026-10-31 22:34 | request from 2026-10-31 06:34
+WAIT Afuera — Caifanes | last aired 2026-10-30 10:35 | normal pick from 2026-11-01 10:35 | request from 2026-11-01 10:35

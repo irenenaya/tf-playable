@@ -1,7 +1,7 @@
-Track status, artists filed under SU (built Fri Oct 30, 7:05 AM PDT (14:05 UTC)). Times in UTC.
+Track status, artists filed under SU (built Fri Oct 30, 8:05 AM PDT (15:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Suburban Kids With Biblical Names — Rent A Wreck | last aired 2026-10-30 11:10 | normal pick from 2026-10-31 23:10 | request from 2026-10-31 07:10
+WAIT Suburban Kids With Biblical Names — Rent A Wreck | last aired 2026-10-30 11:11 | normal pick from 2026-10-31 23:11 | request from 2026-10-31 07:11
 WAIT Suede — Animal Nitrate | last aired 2026-10-30 03:28 | normal pick from 2026-10-31 15:28 | request from 2026-10-30 23:28
 OK   Sufjan Stevens — Casimir Pulaski Day | last aired 2026-10-27 23:32 | normal pick now | request now
 WAIT Sufjan Stevens — Fourth of July | last aired 2026-10-30 11:17 | normal pick from 2026-10-31 23:17 | request from 2026-10-31 07:17
@@ -23,6 +23,6 @@ OK   Survivor — Eye of the Tiger | last aired 2026-10-26 14:40 | normal pick n
 WAIT Susumu Yokota — Saku | last aired 2026-10-29 05:55 | normal pick from 2026-10-30 17:55 | request now
 OK   Suzanne Ciani — Improvisation On Four Sequences Pt.1 | last aired 2026-10-24 02:53 | normal pick now | request now
 WAIT Suzanne Ciani — Oceanium | last aired 2026-10-29 05:35 | normal pick from 2026-10-30 17:35 | request now
-WAIT The Sundays — Folk Song | last aired 2026-10-30 11:13 | normal pick from 2026-10-31 23:13 | request from 2026-10-31 07:13
-WAIT The Sundays — Wild Horses | last aired 2026-10-30 11:21 | normal pick from 2026-10-31 23:21 | request from 2026-10-31 07:21
+WAIT The Sundays — Folk Song | last aired 2026-10-30 11:14 | normal pick from 2026-10-31 23:14 | request from 2026-10-31 07:14
+WAIT The Sundays — Wild Horses | last aired 2026-10-30 11:22 | normal pick from 2026-11-01 11:22 | request from 2026-11-01 11:22
 OK   The Supremes — Automatically Sunshine | last aired 2026-10-25 17:30 | normal pick now | request now

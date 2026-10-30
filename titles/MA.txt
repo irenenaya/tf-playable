@@ -1,4 +1,4 @@
-Track status, song titles filed under MA (built Fri Oct 30, 7:05 AM PDT (14:05 UTC)). Times in UTC.
+Track status, song titles filed under MA (built Fri Oct 30, 8:05 AM PDT (15:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Mad World — Gary Jules | last aired 2026-10-27 05:09 | normal pick now | request now
@@ -30,8 +30,8 @@ WAIT May Ninth — Khruangbin | last aired 2026-10-30 09:30 | normal pick from 2
 OK   Maybe I’m Amazed (2011 Remaster) — Paul McCartney | last aired 2026-10-21 18:53 | normal pick now | request now
 OK   Maybe — The Ink Spots | last aired 2026-10-26 13:16 | normal pick now | request now
 OK   Maybe The Night — Ben&Ben | last aired 2026-10-08 16:41 | normal pick now | request now
-WAIT Maybe They Will Sing for Us Tomorrow — Hammock | last aired 2026-10-29 02:06 | normal pick from 2026-10-30 14:06 | request now
+OK   Maybe They Will Sing for Us Tomorrow — Hammock | last aired 2026-10-29 02:06 | normal pick now | request now
 OK   Má Vlast, JB 1:112-Vltava Smetana, Bedřich 伏塔瓦河 史麥塔納 — 江晴 | last aired 2026-09-21 02:37 | normal pick now | request now
-WAIT Männer (Remastered 2016) — Herbert Grönemeyer | last aired 2026-10-30 11:59 | normal pick from 2026-10-31 23:59 | request from 2026-10-31 07:59
+WAIT Männer (Remastered 2016) — Herbert Grönemeyer | last aired 2026-10-30 12:00 | normal pick from 2026-11-01 00:00 | request from 2026-10-31 08:00
 OK   The Makings of You (2019 Remaster) (Remastered) — Curtis Mayfield | last aired 2026-10-26 12:39 | normal pick now | request now
-OK   The March of the Black Queen (2026 Mix) — Queen | last aired 2026-10-18 04:48 | normal pick now | request now
+WAIT The March of the Black Queen (2026 Mix) — Queen | last aired 2026-10-30 14:58 | normal pick from 2026-11-01 02:58 | request from 2026-10-31 10:58

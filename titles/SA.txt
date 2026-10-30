@@ -1,4 +1,4 @@
-Track status, song titles filed under SA (built Fri Oct 30, 7:05 AM PDT (14:05 UTC)). Times in UTC.
+Track status, song titles filed under SA (built Fri Oct 30, 8:05 AM PDT (15:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Sabotage — Beastie Boys | last aired 2026-10-28 21:54 | normal pick from 2026-10-30 21:54 | request from 2026-10-30 21:54
@@ -16,7 +16,7 @@ WAIT Samba Da Benção — Bebel Gilberto | last aired 2026-10-29 03:45 | normal
 OK   Samba Pa Ti — Santana | last aired 2026-10-28 08:32 | normal pick now | request now
 OK   Same — Smith & Mighty | last aired 2026-10-24 17:26 | normal pick now | request now
 WAIT Sandstorm — Darude | last aired 2026-10-30 02:00 | normal pick from 2026-10-31 14:00 | request from 2026-10-30 22:00
-WAIT Santa María (del Buen Ayre) — Gotan Project | last aired 2026-10-28 14:18 | normal pick from 2026-10-30 14:18 | request from 2026-10-30 14:18
+OK   Santa María (del Buen Ayre) — Gotan Project | last aired 2026-10-28 14:18 | normal pick now | request now
 WAIT Sanvean - I Am Your Shadow — Lisa Gerrard | last aired 2026-10-29 16:43 | normal pick from 2026-10-31 16:43 | request from 2026-10-31 16:43
 OK   Sara — Fleetwood Mac | last aired 2026-10-28 15:13 | normal pick now | request now
 OK   Sarà perché ti amo — Ricchi E Poveri | last aired 2026-10-21 18:35 | normal pick now | request now
@@ -24,7 +24,7 @@ WAIT Sastanàqqàm — Tinariwen | last aired 2026-10-29 16:51 | normal pick fro
 WAIT Saturn — Sleeping At Last | last aired 2026-10-29 20:56 | normal pick from 2026-10-31 08:56 | request from 2026-10-30 16:56
 WAIT Saudade — Love and Rockets | last aired 2026-10-29 14:08 | normal pick from 2026-10-31 02:08 | request now
 OK   Save The Children — Marvin Gaye | last aired 2026-10-25 00:21 | normal pick now | request now
-WAIT Saving All My Love for You — Whitney Houston | last aired 2026-10-30 12:25 | normal pick from 2026-11-01 00:25 | request from 2026-10-31 08:25
+WAIT Saving All My Love for You — Whitney Houston | last aired 2026-10-30 12:26 | normal pick from 2026-11-01 00:26 | request from 2026-10-31 08:26
 OK   Say My Name (feat. Zyra) — ODESZA | last aired 2026-10-27 00:28 | normal pick now | request now
 OK   Says — Nils Frahm | last aired 2026-10-25 02:53 | normal pick now | request now
 OK   The Saturday Disco — Tom Robinson | last aired 2026-10-24 21:03 | normal pick now | request now

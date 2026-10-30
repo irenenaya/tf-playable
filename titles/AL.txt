@@ -1,4 +1,4 @@
-Track status, song titles filed under AL (built Fri Oct 30, 7:05 AM PDT (14:05 UTC)). Times in UTC.
+Track status, song titles filed under AL (built Fri Oct 30, 8:05 AM PDT (15:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   A Life (1895 - 1915) — Mark Hollis | last aired 2026-10-28 12:31 | normal pick now | request now
@@ -11,7 +11,7 @@ OK   Alive And Kicking (Remastered 2002) — Simple Minds | last aired 2026-10-2
 OK   All Along The Watchtower (Live - Rattle & Hum Version) — U2 | last aired 2026-10-21 15:02 | normal pick now | request now
 OK   All I Wanna Do — Sheryl Crow | last aired 2026-10-26 20:02 | normal pick now | request now
 OK   All I Want for Christmas Is You — Mariah Carey | last aired 2026-04-20 09:48 | normal pick now | request now
-WAIT All Melody — Nils Frahm | last aired 2026-10-30 11:34 | normal pick from 2026-10-31 23:34 | request from 2026-10-31 07:34
+WAIT All Melody — Nils Frahm | last aired 2026-10-30 11:35 | normal pick from 2026-10-31 23:35 | request from 2026-10-31 07:35
 OK   All My Little Words — The Magnetic Fields | last aired 2026-10-18 13:10 | normal pick now | request now
 OK   All Star (Album Version) — Smash Mouth | last aired 2026-10-24 18:00 | normal pick now | request now
 OK   All Summer — YASSiN & Sean Terrio | last aired 2026-10-15 21:52 | normal pick now | request now
@@ -22,7 +22,7 @@ OK   All We Are — Matt Nathanson | last aired 2026-10-25 04:38 | normal pick n
 OK   Alles neu (Album Version) — Peter Fox | last aired 2026-10-20 19:34 | normal pick now | request now
 WAIT Almost Blue — Chet Baker | last aired 2026-10-28 15:58 | normal pick from 2026-10-30 15:58 | request from 2026-10-30 15:58
 OK   Almost Blue — Elvis Costello | last aired 2026-10-25 20:27 | normal pick now | request now
-WAIT Almost Gothic (Album Version) — Steely Dan | last aired 2026-10-30 13:47 | normal pick from 2026-11-01 01:47 | request from 2026-10-31 09:47
+WAIT Almost Gothic (Album Version) — Steely Dan | last aired 2026-10-30 13:48 | normal pick from 2026-11-01 01:48 | request from 2026-10-31 09:48
 OK   Alright — Kendrick Lamar | last aired 2026-10-24 03:20 | normal pick now | request now
 WAIT Always something — Jazz Liberatorz | last aired 2026-10-30 04:47 | normal pick from 2026-10-31 16:47 | request from 2026-10-31 00:47
 OK   Always with Me — Tomohisa Okudo | last aired 2026-10-28 10:05 | normal pick now | request now

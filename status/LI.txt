@@ -1,9 +1,9 @@
-Track status, artists filed under LI (built Fri Oct 30, 7:05 AM PDT (14:05 UTC)). Times in UTC.
+Track status, artists filed under LI (built Fri Oct 30, 8:05 AM PDT (15:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   L'Impératrice — Sonate Pacifique | last aired 2026-10-25 06:22 | normal pick now | request now
 OK   Liam Comerford — Front Line (action) | last aired 2026-09-05 17:34 | normal pick now | request now
-WAIT Lianne La Havas — Sour Flower | last aired 2026-10-29 18:21 | normal pick from 2026-10-31 06:21 | request from 2026-10-30 14:21
+WAIT Lianne La Havas — Sour Flower | last aired 2026-10-29 18:21 | normal pick from 2026-10-31 06:21 | request now
 WAIT Lianne La Havas — Unstoppable | last aired 2026-10-28 23:06 | normal pick from 2026-10-30 23:06 | request from 2026-10-30 23:06
 OK   Lil Jon — Get Low [Explicit] | last aired 2026-10-21 16:43 | normal pick now | request now
 WAIT Limp Bizkit — Rollin' (Air Raid Vehicle) | last aired 2026-10-29 19:59 | normal pick from 2026-10-31 07:59 | request from 2026-10-30 15:59
@@ -12,7 +12,7 @@ WAIT Linkin Park — In the End | last aired 2026-10-29 16:55 | normal pick from
 WAIT Linkin Park — Numb | last aired 2026-10-29 12:27 | normal pick from 2026-10-31 00:27 | request now
 WAIT Lionel Richie — You Are | last aired 2026-10-29 07:48 | normal pick from 2026-10-31 07:48 | request from 2026-10-31 07:48
 WAIT Lisa Gerrard — Sanvean - I Am Your Shadow | last aired 2026-10-29 16:43 | normal pick from 2026-10-31 16:43 | request from 2026-10-31 16:43
-WAIT Lisa Gerrard — Until We Meet Again | last aired 2026-10-29 18:28 | normal pick from 2026-10-31 06:28 | request from 2026-10-30 14:28
+WAIT Lisa Gerrard — Until We Meet Again | last aired 2026-10-29 18:28 | normal pick from 2026-10-31 06:28 | request now
 WAIT Lita Ford & Ozzy Osborne — Close My Eyes Forever | last aired 2026-10-29 21:20 | normal pick from 2026-10-31 09:20 | request from 2026-10-30 17:20
 WAIT Little Axe — Ride On (Fight On) | last aired 2026-10-29 21:15 | normal pick from 2026-10-31 09:15 | request from 2026-10-30 17:15
 WAIT Little People — Start Shootin' | last aired 2026-10-29 21:58 | normal pick from 2026-10-31 09:58 | request from 2026-10-30 17:58
