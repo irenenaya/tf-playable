@@ -1,4 +1,4 @@
-Track status, artists filed under BI (built Fri Oct 30, 11:05 AM PDT (18:05 UTC)). Times in UTC.
+Track status, artists filed under BI (built Fri Oct 30, 12:05 PM PDT (19:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Bicep — Apricots | last aired 2026-10-29 17:59 | normal pick from 2026-10-31 17:59 | request from 2026-10-31 17:59
@@ -14,10 +14,10 @@ OK   Bill Withers — Lovely Day | last aired 2026-10-28 13:07 | normal pick now
 OK   Billie Eilish — BIRDS OF A FEATHER | last aired 2026-10-10 05:45 | normal pick now | request now
 WAIT Billie Eilish — Lo Vas A Olvidar | last aired 2026-10-30 13:11 | normal pick from 2026-11-01 01:11 | request from 2026-10-31 09:11
 WAIT Billie Eilish — What Was I Made For? [From The Motion Picture "Barbie"] | last aired 2026-10-30 05:07 | normal pick from 2026-10-31 17:07 | request from 2026-10-31 01:07
-WAIT Billie Eilish — when the party's over | last aired 2026-10-29 06:34 | normal pick from 2026-10-30 18:34 | request now
+OK   Billie Eilish — when the party's over | last aired 2026-10-29 06:34 | normal pick now | request now
 OK   Billy Crystal — If I Didn't Have You (From "Monsters, Inc."/Soundtrack Version) | last aired 2026-10-26 05:08 | normal pick now | request now
 WAIT Billy Joel — Get It Right the First Time (Album Version) | last aired 2026-10-30 05:11 | normal pick from 2026-10-31 17:11 | request from 2026-10-31 01:11
-WAIT Billy Joel — Honesty (Album Version) | last aired 2026-10-29 06:43 | normal pick from 2026-10-30 18:43 | request now
+OK   Billy Joel — Honesty (Album Version) | last aired 2026-10-29 06:43 | normal pick now | request now
 OK   Billy Joel — Scenes from an Italian Restaurant (Album Version) | last aired 2026-10-24 15:07 | normal pick now | request now
 OK   Billy Joel — The River of Dreams (Album Version) | last aired 2026-10-19 16:36 | normal pick now | request now
 WAIT Billy Joel — Vienna (Album Version) | last aired 2026-10-30 05:03 | normal pick from 2026-10-31 17:03 | request from 2026-10-31 01:03

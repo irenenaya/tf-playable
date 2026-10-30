@@ -1,11 +1,11 @@
-Track status, artists filed under SU (built Fri Oct 30, 11:05 AM PDT (18:05 UTC)). Times in UTC.
+Track status, artists filed under SU (built Fri Oct 30, 12:05 PM PDT (19:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Suburban Kids With Biblical Names — Rent A Wreck | last aired 2026-10-30 11:11 | normal pick from 2026-10-31 23:11 | request from 2026-10-31 07:11
 WAIT Suede — Animal Nitrate | last aired 2026-10-30 03:28 | normal pick from 2026-10-31 15:28 | request from 2026-10-30 23:28
-OK   Sufjan Stevens — Casimir Pulaski Day | last aired 2026-10-27 23:32 | normal pick now | request now
+WAIT Sufjan Stevens — Casimir Pulaski Day | last aired 2026-10-30 18:33 | normal pick from 2026-11-01 18:33 | request from 2026-11-01 18:33
 WAIT Sufjan Stevens — Fourth of July | last aired 2026-10-30 11:17 | normal pick from 2026-10-31 23:17 | request from 2026-10-31 07:17
-WAIT Sufjan Stevens — Mystery of Love | last aired 2026-10-30 17:45 | normal pick from 2026-11-01 05:45 | request from 2026-10-31 13:45
+WAIT Sufjan Stevens — Mystery of Love | last aired 2026-10-30 17:46 | normal pick from 2026-11-01 05:46 | request from 2026-10-31 13:46
 WAIT Sufjan Stevens — Should Have Known Better | last aired 2026-10-29 05:50 | normal pick from 2026-10-31 05:50 | request from 2026-10-31 05:50
 OK   Sui Generis — Rasguña Las Piedras (Album Version) | last aired 2026-10-20 18:59 | normal pick now | request now
 OK   Sukhwinder Singh — Chaiyya Chaiyya | last aired 2026-10-22 10:14 | normal pick now | request now
@@ -13,7 +13,7 @@ WAIT Sum 41 — In Too Deep (Album Version) | last aired 2026-10-30 03:31 | norm
 OK   Summon The Wolf — Ghost Story | last aired 2026-10-27 04:46 | normal pick now | request now
 OK   Sun Ra Arkestra — It's After The End Of The World | last aired 2026-10-26 23:10 | normal pick now | request now
 OK   Sun Ra — Images | last aired 2026-10-27 23:38 | normal pick now | request now
-WAIT Sun's Signature — Golden Air | last aired 2026-10-30 17:49 | normal pick from 2026-11-01 05:49 | request from 2026-10-31 13:49
+WAIT Sun's Signature — Golden Air | last aired 2026-10-30 17:50 | normal pick from 2026-11-01 05:50 | request from 2026-10-31 13:50
 OK   Sun's Signature — Underwater | last aired 2026-10-27 07:56 | normal pick now | request now
 OK   Supercell — Melt (feat. Hatsune Miku) | last aired 2026-10-15 04:11 | normal pick now | request now
 OK   Supercell — The World Is Mine (feat. Hatsune Miku) | last aired 2026-10-15 22:23 | normal pick now | request now

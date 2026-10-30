@@ -1,4 +1,4 @@
-Track status, artists filed under KI (built Fri Oct 30, 11:05 AM PDT (18:05 UTC)). Times in UTC.
+Track status, artists filed under KI (built Fri Oct 30, 12:05 PM PDT (19:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Kid Cudi — Enter Galactic (Love Connection Part I) (Album Version (Explicit)) | last aired 2026-10-22 20:49 | normal pick now | request now
@@ -7,7 +7,7 @@ OK   Kim Carnes — More Love | last aired 2026-10-27 05:39 | normal pick now | 
 OK   King Crimson — 21st Century Schizoid Man (Including 'Mirrors') | last aired 2026-10-28 03:14 | normal pick now | request now
 OK   King Crimson — In the Court of the Crimson King (Abridged) | last aired 2026-10-07 22:28 | normal pick now | request now
 WAIT King Crimson — Matte Kudasai | last aired 2026-10-30 00:24 | normal pick from 2026-10-31 12:24 | request from 2026-10-30 20:24
-WAIT King Crimson — The Sheltering Sky | last aired 2026-10-29 06:21 | normal pick from 2026-10-30 18:21 | request now
+OK   King Crimson — The Sheltering Sky | last aired 2026-10-29 06:21 | normal pick now | request now
 WAIT King Gizzard & The Lizard Wizard — Crumbling Castle | last aired 2026-10-30 00:13 | normal pick from 2026-10-31 12:13 | request from 2026-10-30 20:13
 OK   Kings Of Convenience — Rocky Trail | last aired 2026-10-27 05:52 | normal pick now | request now
 WAIT Kiss — Rock And Roll All Nite | last aired 2026-10-30 00:32 | normal pick from 2026-10-31 12:32 | request from 2026-10-30 20:32
