@@ -1,14 +1,14 @@
-Track status, artists filed under NE (built Thu Oct 29, 9:05 PM PDT (04:05 UTC Fri)). Times in UTC.
+Track status, artists filed under NE (built Thu Oct 29, 10:05 PM PDT (05:05 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Neil Diamond — Be (Introduction Of Jonathan) | last aired 2026-10-27 21:31 | normal pick now | request now
 WAIT Neil Diamond — Sweet Caroline | last aired 2026-10-28 20:25 | normal pick from 2026-10-30 08:25 | request now
 WAIT Neil Young — Harvest Moon (Album Version) | last aired 2026-10-28 21:45 | normal pick from 2026-10-30 21:45 | request from 2026-10-30 21:45
-OK   Neil Young — Heart of Gold | last aired 2026-10-27 21:18 | normal pick now | request now
+WAIT Neil Young — Heart of Gold | last aired 2026-10-30 04:31 | normal pick from 2026-10-31 16:31 | request from 2026-10-31 00:31
 OK   Nek — Fatti avanti amore (feat. Jovanotti)  (5030 version) | last aired 2026-10-25 03:04 | normal pick now | request now
 OK   Nekrogoblikon — No One Survives | last aired 2026-10-20 23:00 | normal pick now | request now
 WAIT Nekrogoblikon — Powercore | last aired 2026-10-30 00:28 | normal pick from 2026-10-31 12:28 | request from 2026-10-30 20:28
-OK   Nelson Freire — Bachianas brasileiras No. 4, W. 264: I. Preludio (Introduçao). Lento | last aired 2026-10-24 02:29 | normal pick now | request now
+WAIT Nelson Freire — Bachianas brasileiras No. 4, W. 264: I. Preludio (Introduçao). Lento | last aired 2026-10-30 04:24 | normal pick from 2026-10-31 16:24 | request from 2026-10-31 00:24
 OK   Neuro-sama — Colorful Array | last aired 2026-10-18 01:42 | normal pick now | request now
 OK   Neuro-sama — LIFE | last aired 2026-08-30 14:26 | normal pick now | request now
 OK   Neuro-sama — NEVER | last aired 2026-08-30 14:42 | normal pick now | request now

@@ -1,10 +1,10 @@
-Track status, artists filed under BE (built Thu Oct 29, 9:05 PM PDT (04:05 UTC Fri)). Times in UTC.
+Track status, artists filed under BE (built Thu Oct 29, 10:05 PM PDT (05:05 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Beach House — Bluebird | last aired 2026-10-28 09:19 | normal pick now | request now
 OK   Beach House — Space Song | last aired 2026-10-27 11:08 | normal pick now | request now
 WAIT Beastie Boys — Sabotage | last aired 2026-10-28 21:54 | normal pick from 2026-10-30 21:54 | request from 2026-10-30 21:54
-OK   Beatrice Rana — Keyboard Concerto No. 1 in D Minor, BWV 1052: I. Allegro | last aired 2026-10-21 04:56 | normal pick now | request now
+WAIT Beatrice Rana — Keyboard Concerto No. 1 in D Minor, BWV 1052: I. Allegro | last aired 2026-10-30 04:17 | normal pick from 2026-10-31 16:17 | request from 2026-10-31 00:17
 OK   Beatrice Rana — Libertango (Arr. Yamamoto for Piano 4-Hands) | last aired 2026-10-26 10:49 | normal pick now | request now
 OK   Beats by Luca — 52 CHICKEN NUGGET (McRave) | last aired 2026-10-18 11:09 | normal pick now | request now
 WAIT Bebel Gilberto — Samba Da Benção | last aired 2026-10-29 03:45 | normal pick from 2026-10-31 03:45 | request from 2026-10-31 03:45
@@ -14,7 +14,7 @@ OK   Beck — The New Pollution | last aired 2026-10-26 19:03 | normal pick now 
 OK   Becky Levi and the Nightjars — Wake Me Up | last aired 2026-10-22 06:23 | normal pick now | request now
 OK   Bee Gees — Night Fever (From "Saturday Night Fever" Soundtrack) | last aired 2026-10-06 16:28 | normal pick now | request now
 OK   Beenie Man — Feel It Boy | last aired 2026-10-24 21:50 | normal pick now | request now
-OK   Belcea Quartet — Quatuor à cordes n° 4, Sz. 91 - String Quartet No. 4 in C Major, Sz. 91: IV. Allegretto pizzicato | last aired 2026-10-16 14:38 | normal pick now | request now
+WAIT Belcea Quartet — Quatuor à cordes n° 4, Sz. 91 - String Quartet No. 4 in C Major, Sz. 91: IV. Allegretto pizzicato | last aired 2026-10-30 04:28 | normal pick from 2026-10-31 16:28 | request from 2026-10-31 00:28
 WAIT Belle and Sebastian — The Boy with the Arab Strap | last aired 2026-10-28 11:50 | normal pick from 2026-10-30 11:50 | request from 2026-10-30 11:50
 WAIT Ben Allison — D.A.V.E. | last aired 2026-10-28 22:54 | normal pick from 2026-10-30 10:54 | request now
 WAIT Ben E. King — Stand By Me | last aired 2026-10-28 19:49 | normal pick from 2026-10-30 19:49 | request from 2026-10-30 19:49
@@ -43,7 +43,7 @@ OK   The Beatles — Girl (Remastered) | last aired 2026-10-22 15:02 | normal pi
 OK   The Beatles — Golden Slumbers (Remastered) | last aired 2026-10-25 23:34 | normal pick now | request now
 OK   The Beatles — Here Comes The Sun (2019 Mix) | last aired 2026-10-14 00:19 | normal pick now | request now
 OK   The Beatles — Lucy In The Sky With Diamonds (Remastered 2009) | last aired 2026-10-25 20:35 | normal pick now | request now
-WAIT The Beatles — Octopus's Garden (Remastered) | last aired 2026-10-29 08:57 | normal pick from 2026-10-30 20:57 | request from 2026-10-30 04:57
+WAIT The Beatles — Octopus's Garden (Remastered) | last aired 2026-10-29 08:57 | normal pick from 2026-10-30 20:57 | request now
 OK   The Beatles — Rain (Remastered) | last aired 2026-10-23 11:57 | normal pick now | request now
 OK   The Beatles — Revolution 9 (Remastered 2009) | last aired 2026-09-14 19:37 | normal pick now | request now
 OK   The Beatles — Strawberry Fields Forever | last aired 2026-10-25 14:15 | normal pick now | request now
