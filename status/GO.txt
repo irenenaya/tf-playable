@@ -1,10 +1,10 @@
-Track status, artists filed under GO (built Fri Oct 30, 3:05 PM PDT (22:05 UTC)). Times in UTC.
+Track status, artists filed under GO (built Fri Oct 30, 4:05 PM PDT (23:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Go_A — SHUM | last aired 2026-10-29 01:02 | normal pick now | request now
 OK   GoGo Penguin — Hopopono | last aired 2026-10-29 00:51 | normal pick now | request now
 OK   GoGo Penguin — Raven | last aired 2026-10-27 12:05 | normal pick now | request now
-OK   Golden Earring — Radar Love | last aired 2026-10-29 00:56 | normal pick now | request now
+WAIT Golden Earring — Radar Love | last aired 2026-10-30 22:05 | normal pick from 2026-11-01 10:05 | request from 2026-10-31 18:05
 OK   Goldmund — Threnody | last aired 2026-10-29 01:48 | normal pick now | request now
 WAIT Gonzales — Gogol | last aired 2026-10-30 14:48 | normal pick from 2026-11-01 02:48 | request from 2026-10-31 10:48
 OK   Gordon Lightfoot — Wherefore and Why (LP Version) | last aired 2026-10-20 14:33 | normal pick now | request now
