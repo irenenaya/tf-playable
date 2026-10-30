@@ -1,4 +1,4 @@
-Track status, song titles filed under RO (built Fri Oct 30, 2:05 AM PDT (09:05 UTC)). Times in UTC.
+Track status, song titles filed under RO (built Fri Oct 30, 3:05 AM PDT (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   'Round Midnight (Remastered 2013) — Thelonious Monk | last aired 2026-10-01 19:01 | normal pick now | request now
@@ -10,7 +10,7 @@ WAIT Rock On — Michael Damian | last aired 2026-10-29 12:53 | normal pick from
 OK   Rock Steady (Album Version) — Aretha Franklin | last aired 2026-10-22 22:04 | normal pick now | request now
 OK   Rock The Boat — Aaliyah | last aired 2026-10-18 20:50 | normal pick now | request now
 OK   Rock the House — Gorillaz | last aired 2026-10-23 11:41 | normal pick now | request now
-WAIT Rock with You (Single Version) — Michael Jackson | last aired 2026-10-29 14:04 | normal pick from 2026-10-31 02:04 | request from 2026-10-30 10:04
+WAIT Rock with You (Single Version) — Michael Jackson | last aired 2026-10-29 14:04 | normal pick from 2026-10-31 02:04 | request now
 WAIT Rocket Man (I Think It's Going To Be A Long, Long Time) — Elton John | last aired 2026-10-28 16:59 | normal pick from 2026-10-30 16:59 | request from 2026-10-30 16:59
 OK   Rockin' Around The Christmas Tree — Brenda Lee | last aired 2026-08-13 13:36 | normal pick now | request now
 OK   Rocky Trail — Kings Of Convenience | last aired 2026-10-27 05:52 | normal pick now | request now
@@ -19,6 +19,6 @@ WAIT Rollin' (Air Raid Vehicle) — Limp Bizkit | last aired 2026-10-29 19:59 | 
 OK   Rooster (2022 Remaster) — Jerry Cantrell | last aired 2026-10-05 22:21 | normal pick now | request now
 OK   Roots Bloody Roots  (2017 Remaster) — Sepultura | last aired 2026-10-27 03:50 | normal pick now | request now
 OK   Rosanna (Album Version) — Toto | last aired 2026-10-22 09:56 | normal pick now | request now
-WAIT Rose rouge — St Germain | last aired 2026-10-29 13:34 | normal pick from 2026-10-31 01:34 | request from 2026-10-30 09:34
+WAIT Rose rouge — St Germain | last aired 2026-10-29 13:34 | normal pick from 2026-10-31 01:34 | request now
 OK   Roxanne (Remastered 2003) — The Police | last aired 2026-10-25 23:18 | normal pick now | request now
 OK   Roygbiv — Boards of Canada | last aired 2026-10-23 23:13 | normal pick now | request now

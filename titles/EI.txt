@@ -1,4 +1,4 @@
-Track status, song titles filed under EI (built Fri Oct 30, 2:05 AM PDT (09:05 UTC)). Times in UTC.
+Track status, song titles filed under EI (built Fri Oct 30, 3:05 AM PDT (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Einaudi: Canzone Africana IV — Ludovico Einaudi | last aired 2026-10-22 16:51 | normal pick now | request now
+WAIT Einaudi: Canzone Africana IV — Ludovico Einaudi | last aired 2026-10-30 09:10 | normal pick from 2026-10-31 21:10 | request from 2026-10-31 05:10

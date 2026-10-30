@@ -1,4 +1,4 @@
-Track status, artists filed under MI (built Fri Oct 30, 2:05 AM PDT (09:05 UTC)). Times in UTC.
+Track status, artists filed under MI (built Fri Oct 30, 3:05 AM PDT (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Mica Levi — Love | last aired 2026-10-28 02:44 | normal pick now | request now
@@ -9,7 +9,7 @@ OK   Michael Hedges — Aerial Boundaries | last aired 2026-10-28 02:39 | normal
 OK   Michael Hutchence — Slide Away | last aired 2026-10-28 10:49 | normal pick now | request now
 OK   Michael Jackson — Jam | last aired 2026-10-23 19:44 | normal pick now | request now
 WAIT Michael Jackson — Morphine (Album Version) | last aired 2026-10-29 22:56 | normal pick from 2026-10-31 10:56 | request from 2026-10-30 18:56
-WAIT Michael Jackson — Rock with You (Single Version) | last aired 2026-10-29 14:04 | normal pick from 2026-10-31 02:04 | request from 2026-10-30 10:04
+WAIT Michael Jackson — Rock with You (Single Version) | last aired 2026-10-29 14:04 | normal pick from 2026-10-31 02:04 | request now
 WAIT Michael Jackson — Stranger in Moscow | last aired 2026-10-29 12:39 | normal pick from 2026-10-31 00:39 | request now
 WAIT Michael Jackson — Thriller | last aired 2026-10-29 17:24 | normal pick from 2026-10-31 05:24 | request from 2026-10-30 13:24
 WAIT Michael Jackson — Who Is It | last aired 2026-10-29 22:14 | normal pick from 2026-10-31 10:14 | request from 2026-10-30 18:14
@@ -18,7 +18,7 @@ WAIT Michael McDonald — I Keep Forgettin' (Every Time You're Near) | last aire
 OK   MIKA — Grace Kelly | last aired 2026-10-27 14:39 | normal pick now | request now
 WAIT Mike Marshall — Big Country (Instrumental) | last aired 2026-10-29 04:23 | normal pick from 2026-10-30 16:23 | request now
 OK   Mike Oldfield — Moonlight Shadow | last aired 2026-10-21 01:34 | normal pick now | request now
-OK   Mikis Theodorakis — Zorba the Greek:  Zorba's Dance | last aired 2026-10-27 08:28 | normal pick now | request now
+WAIT Mikis Theodorakis — Zorba the Greek:  Zorba's Dance | last aired 2026-10-30 09:59 | normal pick from 2026-11-01 09:59 | request from 2026-11-01 09:59
 WAIT Miles Davis — Blue in Green | last aired 2026-10-29 22:09 | normal pick from 2026-10-31 10:09 | request from 2026-10-30 18:09
 WAIT Miles Davis — Flamenco Sketches | last aired 2026-10-29 22:21 | normal pick from 2026-10-31 10:21 | request from 2026-10-30 18:21
 WAIT Miles Davis — So What | last aired 2026-10-29 23:46 | normal pick from 2026-10-31 11:46 | request from 2026-10-30 19:46

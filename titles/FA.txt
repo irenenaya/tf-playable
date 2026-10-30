@@ -1,9 +1,9 @@
-Track status, song titles filed under FA (built Fri Oct 30, 2:05 AM PDT (09:05 UTC)). Times in UTC.
+Track status, song titles filed under FA (built Fri Oct 30, 3:05 AM PDT (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Face to Face — Daft Punk | last aired 2026-10-22 20:54 | normal pick now | request now
 OK   Facing East — Thievery Corporation | last aired 2026-10-27 07:49 | normal pick now | request now
-OK   Fade Into You — Mazzy Star | last aired 2026-10-28 07:52 | normal pick now | request now
+WAIT Fade Into You — Mazzy Star | last aired 2026-10-30 09:34 | normal pick from 2026-11-01 09:34 | request from 2026-11-01 09:34
 OK   Fade To Grey — Visage | last aired 2026-10-25 13:36 | normal pick now | request now
 OK   Fado Vadio (Má Fama) — Ana Sofia Varela | last aired 2026-10-28 08:10 | normal pick now | request now
 OK   Fail Upward For A Change — Tom Konkle | last aired 2026-10-17 13:56 | normal pick now | request now
@@ -22,6 +22,6 @@ WAIT Fantas — Caterina Barbieri | last aired 2026-10-29 08:41 | normal pick fr
 OK   Fantasiestücke, Op. 73 - Schumann: Fantasiestücke, Op. 73: No. 1, Zart und mit Ausdruck — Sol Gabetta | last aired 2026-10-28 19:27 | normal pick now | request now
 OK   Fast Car  (2015 Remaster) — Tracy Chapman | last aired 2026-10-26 12:24 | normal pick now | request now
 OK   Fast Car (LP Version) — Tracy Chapman | last aired 2026-10-27 08:46 | normal pick now | request now
-WAIT Faster — Matt Nathanson | last aired 2026-10-30 07:34 | normal pick from 2026-10-31 19:34 | request from 2026-10-31 03:34
+WAIT Faster — Matt Nathanson | last aired 2026-10-30 07:35 | normal pick from 2026-10-31 19:35 | request from 2026-10-31 03:35
 OK   Fatti avanti amore (feat. Jovanotti)  (5030 version) — Nek | last aired 2026-10-25 03:04 | normal pick now | request now
 OK   The Fairy Feller's Master-Stroke (2026 Mix) — Queen | last aired 2026-10-20 19:17 | normal pick now | request now

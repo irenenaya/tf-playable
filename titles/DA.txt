@@ -1,7 +1,7 @@
-Track status, song titles filed under DA (built Fri Oct 30, 2:05 AM PDT (09:05 UTC)). Times in UTC.
+Track status, song titles filed under DA (built Fri Oct 30, 3:05 AM PDT (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT D.A.N.C.E. — Justice | last aired 2026-10-28 10:01 | normal pick from 2026-10-30 10:01 | request from 2026-10-30 10:01
+OK   D.A.N.C.E. — Justice | last aired 2026-10-28 10:01 | normal pick now | request now
 WAIT D.A.V.E. — Ben Allison | last aired 2026-10-28 22:54 | normal pick from 2026-10-30 10:54 | request now
 OK   Damascus (feat. Omar Souleyman and Yasiin Bey) — Gorillaz | last aired 2026-10-22 20:09 | normal pick now | request now
 OK   Damn Right, I've Got the Blues — Buddy Guy | last aired 2026-10-24 09:15 | normal pick now | request now
@@ -14,7 +14,7 @@ OK   Dancing With Myself — The Vampire Lestat | last aired 2026-10-18 03:44 | 
 OK   Danger Zone (From "Top Gun" Original Soundtrack) — Kenny Loggins | last aired 2026-10-23 13:19 | normal pick now | request now
 OK   Dansevise — Grethe & Jørgen Ingmann | last aired 2026-10-27 22:51 | normal pick now | request now
 OK   Darkest Dreaming — David Sylvian | last aired 2026-10-26 20:24 | normal pick now | request now
-WAIT Das Model — Kraftwerk | last aired 2026-10-30 07:59 | normal pick from 2026-10-31 19:59 | request from 2026-10-31 03:59
+WAIT Das Model — Kraftwerk | last aired 2026-10-30 08:00 | normal pick from 2026-10-31 20:00 | request from 2026-10-31 04:00
 OK   Day Dreaming (Album Version) — Aretha Franklin | last aired 2026-10-26 13:08 | normal pick now | request now
 OK   Daydream In Blue — I Monster | last aired 2026-10-26 06:36 | normal pick now | request now
 OK   daydreams — Hard Life | last aired 2026-10-27 12:44 | normal pick now | request now
