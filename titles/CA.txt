@@ -1,9 +1,9 @@
-Track status, song titles filed under CA (built Fri Oct 30, 4:05 AM PDT (11:05 UTC)). Times in UTC.
+Track status, song titles filed under CA (built Fri Oct 30, 5:05 AM PDT (12:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   California Dreamin' (Single Version) — The Mamas & The Papas | last aired 2026-10-22 14:06 | normal pick now | request now
 OK   Californication — Red Hot Chili Peppers | last aired 2026-10-27 23:26 | normal pick now | request now
-OK   Call Me — Blondie | last aired 2026-10-27 22:25 | normal pick now | request now
+WAIT Call Me — Blondie | last aired 2026-10-30 11:44 | normal pick from 2026-10-31 23:44 | request from 2026-10-31 07:44
 OK   Call Out My Name — The Weeknd | last aired 2026-10-26 15:43 | normal pick now | request now
 OK   Calling You (Live) — Jeff Buckley | last aired 2026-10-25 22:57 | normal pick now | request now
 OK   Camouflage (Acoustic Mix) — Tom Konkle | last aired 2026-10-18 01:50 | normal pick now | request now

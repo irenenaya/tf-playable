@@ -1,4 +1,4 @@
-Track status, song titles filed under HE (built Fri Oct 30, 4:05 AM PDT (11:05 UTC)). Times in UTC.
+Track status, song titles filed under HE (built Fri Oct 30, 5:05 AM PDT (12:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   "Heroes" (2017 Remaster) — David Bowie | last aired 2026-10-20 23:13 | normal pick now | request now
@@ -19,10 +19,10 @@ OK   Help Me Lose My Mind — Disclosure | last aired 2026-10-28 12:39 | normal 
 OK   Help You Ann — Lyres | last aired 2026-10-20 18:20 | normal pick now | request now
 WAIT Helpless — Crosby, Stills, Nash & Young | last aired 2026-10-30 07:52 | normal pick from 2026-11-01 07:52 | request from 2026-11-01 07:52
 WAIT Helplessness Blues — Fleet Foxes | last aired 2026-10-28 20:20 | normal pick from 2026-10-30 20:20 | request from 2026-10-30 20:20
-OK   Henry Lee (Remastered 2011) — Nick Cave & The Bad Seeds | last aired 2026-10-27 08:51 | normal pick now | request now
+WAIT Henry Lee (Remastered 2011) — Nick Cave & The Bad Seeds | last aired 2026-10-30 11:26 | normal pick from 2026-10-31 23:26 | request from 2026-10-31 07:26
 OK   Her Yerde Sen (Akustik) — Zeynep Bastık | last aired 2026-10-28 06:44 | normal pick now | request now
 OK   Here Comes The Flood (Exposure Fourth Edition: 2021 Stereo Mix) — Robert Fripp | last aired 2026-10-28 21:20 | normal pick now | request now
 OK   Here Comes The Sun (2019 Mix) — The Beatles | last aired 2026-10-14 00:19 | normal pick now | request now
 OK   Heresy (Nine Inch Noize Version) — Nine Inch Nails | last aired 2026-10-26 00:20 | normal pick now | request now
 OK   Heroin — Lana Del Rey | last aired 2026-10-17 21:55 | normal pick now | request now
-WAIT Hey Joe (Live At Winterland, San Francisco, CA) — Jimi Hendrix | last aired 2026-10-29 15:16 | normal pick from 2026-10-31 03:16 | request from 2026-10-30 11:16
+WAIT Hey Joe (Live At Winterland, San Francisco, CA) — Jimi Hendrix | last aired 2026-10-29 15:16 | normal pick from 2026-10-31 03:16 | request now

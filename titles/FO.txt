@@ -1,12 +1,12 @@
-Track status, song titles filed under FO (built Fri Oct 30, 4:05 AM PDT (11:05 UTC)). Times in UTC.
+Track status, song titles filed under FO (built Fri Oct 30, 5:05 AM PDT (12:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Foggy Mountain Breakdown — Lester Flatt, Earl Scruggs | last aired 2026-10-22 15:08 | normal pick now | request now
-OK   Folk Song — The Sundays | last aired 2026-10-23 22:52 | normal pick now | request now
+WAIT Folk Song — The Sundays | last aired 2026-10-30 11:13 | normal pick from 2026-10-31 23:13 | request from 2026-10-31 07:13
 OK   Folsom Prison Blues — Johnny Cash | last aired 2026-10-24 14:46 | normal pick now | request now
 OK   Footloose (Album Version) — Kenny Loggins | last aired 2026-10-18 12:50 | normal pick now | request now
 OK   Footloose (From "Footloose" Soundtrack) — Kenny Loggins | last aired 2026-10-24 20:09 | normal pick now | request now
 OK   For: You — Kali Uchis | last aired 2026-10-28 21:41 | normal pick now | request now
 OK   Forest Party — Rumahoy | last aired 2026-10-13 03:28 | normal pick now | request now
 OK   Forever and Ever, Amen — Randy Travis | last aired 2026-10-28 21:25 | normal pick now | request now
-OK   Fourth of July — Sufjan Stevens | last aired 2026-10-17 21:31 | normal pick now | request now
+WAIT Fourth of July — Sufjan Stevens | last aired 2026-10-30 11:17 | normal pick from 2026-10-31 23:17 | request from 2026-10-31 07:17

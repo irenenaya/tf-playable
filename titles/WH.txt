@@ -1,4 +1,4 @@
-Track status, song titles filed under WH (built Fri Oct 30, 4:05 AM PDT (11:05 UTC)). Times in UTC.
+Track status, song titles filed under WH (built Fri Oct 30, 5:05 AM PDT (12:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Whistleblowers — Laibach | last aired 2026-10-26 00:33 | normal pick now | request now
@@ -15,7 +15,7 @@ WAIT What's Going On — Marvin Gaye | last aired 2026-10-30 07:31 | normal pick
 OK   When Did Love Become A Test — Tom Konkle | last aired 2026-10-16 13:58 | normal pick now | request now
 OK   When I Met You — Apo Hiking Society | last aired 2026-10-24 16:00 | normal pick now | request now
 OK   When I'm Gone — Albert Hammond | last aired 2026-10-27 12:52 | normal pick now | request now
-OK   When Love Comes To Town (Album Version) — U2 | last aired 2026-10-19 01:40 | normal pick now | request now
+WAIT When Love Comes To Town (Album Version) — U2 | last aired 2026-10-30 11:06 | normal pick from 2026-10-31 23:06 | request from 2026-10-31 07:06
 WAIT when the party's over — Billie Eilish | last aired 2026-10-29 06:34 | normal pick from 2026-10-30 18:34 | request now
 OK   When the Sun Goes Down — The Jetzons | last aired 2026-10-02 05:22 | normal pick now | request now
 OK   When You Go (That's When You'll Know) — The Altons | last aired 2026-10-24 11:49 | normal pick now | request now
