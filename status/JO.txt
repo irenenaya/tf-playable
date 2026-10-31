@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Sat Oct 31, 9:05 AM PDT (16:05 UTC)). Times in UTC.
+Track status, artists filed under JO (built Sat Oct 31, 10:05 AM PDT (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-10-30 22:18 | normal pick from 2026-11-01 22:18 | request from 2026-11-01 22:18
@@ -23,18 +23,18 @@ OK   John Carpenter — Halloween Theme | last aired 2026-10-30 02:07 | normal p
 WAIT John Coltrane — Lush Life | last aired 2026-10-30 06:51 | normal pick from 2026-10-31 18:51 | request now
 OK   John Coltrane — My Favorite Things | last aired 2026-10-23 17:00 | normal pick now | request now
 WAIT John Denver — Take Me Home, Country Roads | last aired 2026-10-30 20:39 | normal pick from 2026-11-01 20:39 | request from 2026-11-01 20:39
-WAIT John Lee Hooker — Boom Boom | last aired 2026-10-30 16:48 | normal pick from 2026-11-01 16:48 | request from 2026-11-01 16:48
+WAIT John Lee Hooker — Boom Boom | last aired 2026-10-30 16:48 | normal pick from 2026-11-01 04:48 | request now
 WAIT John Lee Hooker — I Cover the Waterfront | last aired 2026-10-30 06:44 | normal pick from 2026-10-31 18:44 | request now
 OK   John Lennon — Give Peace A Chance (Remastered 2010) | last aired 2026-10-30 02:14 | normal pick now | request now
 WAIT John Lennon — Imagine (Remastered 2010) | last aired 2026-10-31 00:38 | normal pick from 2026-11-01 12:38 | request from 2026-10-31 20:38
 OK   John Lennon — Instant Karma! (We All Shine On) (Ultimate Mix) | last aired 2026-10-25 23:31 | normal pick now | request now
 WAIT John Lennon — Watching The Wheels (Remastered 2010) | last aired 2026-10-30 06:40 | normal pick from 2026-10-31 18:40 | request now
-WAIT John Mayer — New Light | last aired 2026-10-31 15:06 | normal pick from 2026-11-02 03:06 | request from 2026-11-01 11:06
+WAIT John Mayer — New Light | last aired 2026-10-31 15:07 | normal pick from 2026-11-02 03:07 | request from 2026-11-01 11:07
 OK   John McLaughlin — You Know, You Know (Album Version) | last aired 2026-10-20 05:00 | normal pick now | request now
-WAIT John Prine — Your Flag Decal Won't Get You into Heaven Anymore | last aired 2026-10-30 20:42 | normal pick from 2026-11-01 08:42 | request from 2026-10-31 16:42
+WAIT John Prine — Your Flag Decal Won't Get You into Heaven Anymore | last aired 2026-10-30 20:42 | normal pick from 2026-11-01 08:42 | request now
 OK   John T. Williams — Anything Goes | last aired 2026-10-16 05:14 | normal pick now | request now
 OK   John Williams — Theme From Superman  (Concert Version) | last aired 2026-10-26 10:06 | normal pick now | request now
-WAIT Johnny Cash — Folsom Prison Blues | last aired 2026-10-30 20:36 | normal pick from 2026-11-01 08:36 | request from 2026-10-31 16:36
+WAIT Johnny Cash — Folsom Prison Blues | last aired 2026-10-30 20:36 | normal pick from 2026-11-01 08:36 | request now
 WAIT Johnny Cash — Hurt (Album Version) | last aired 2026-10-30 06:36 | normal pick from 2026-11-01 06:36 | request from 2026-11-01 06:36
 WAIT Johnny Cash — Redemption Day (Album Version) | last aired 2026-10-30 12:11 | normal pick from 2026-11-01 00:11 | request now
 WAIT Johnny Cash — Ring of Fire | last aired 2026-10-31 02:46 | normal pick from 2026-11-02 02:46 | request from 2026-11-02 02:46
@@ -47,8 +47,8 @@ OK   Jonathan Parecki — Senbonzakura (Hatsune Miku) | last aired 2026-09-02 17
 OK   Joni Mitchell — A Case of You | last aired 2026-10-30 02:44 | normal pick now | request now
 OK   Joni Mitchell — At Last (LP Version) | last aired 2026-10-20 11:54 | normal pick now | request now
 OK   Joni Mitchell — River | last aired 2026-10-30 02:10 | normal pick now | request now
-WAIT Jorge Ben Jor — Mas, Que Nada! | last aired 2026-10-31 15:47 | normal pick from 2026-11-02 15:47 | request from 2026-11-02 15:47
-WAIT Josh Rouse — 1972 | last aired 2026-10-31 14:57 | normal pick from 2026-11-02 02:57 | request from 2026-11-01 10:57
+WAIT Jorge Ben Jor — Mas, Que Nada! | last aired 2026-10-31 15:48 | normal pick from 2026-11-02 15:48 | request from 2026-11-02 15:48
+WAIT Josh Rouse — 1972 | last aired 2026-10-31 14:59 | normal pick from 2026-11-02 02:59 | request from 2026-11-01 10:59
 OK   Josh Rouse — Street Lights | last aired 2026-10-27 17:56 | normal pick now | request now
 WAIT José González — Heartbeats | last aired 2026-10-31 10:19 | normal pick from 2026-11-02 10:19 | request from 2026-11-02 10:19
 OK   Journey — Don't Stop Believin' (Album Version) | last aired 2026-10-27 18:01 | normal pick now | request now

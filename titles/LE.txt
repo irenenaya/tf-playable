@@ -1,4 +1,4 @@
-Track status, song titles filed under LE (built Sat Oct 31, 9:05 AM PDT (16:05 UTC)). Times in UTC.
+Track status, song titles filed under LE (built Sat Oct 31, 10:05 AM PDT (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Le Chant des oiseaux — La Fenice | last aired 2026-10-02 15:12 | normal pick now | request now
@@ -10,7 +10,7 @@ OK   Lean On Me — Club Nouveau | last aired 2026-10-25 09:53 | normal pick now
 OK   leavemealone — Fred again.. | last aired 2026-10-27 00:38 | normal pick now | request now
 OK   Leaves — Ben&Ben | last aired 2026-10-29 04:49 | normal pick now | request now
 OK   Lebanese Blonde — Thievery Corporation | last aired 2026-10-27 12:47 | normal pick now | request now
-WAIT Left of the Dial (Ed Stasium Mix) — The Replacements | last aired 2026-10-31 12:13 | normal pick from 2026-11-02 00:13 | request from 2026-11-01 08:13
+WAIT Left of the Dial (Ed Stasium Mix) — The Replacements | last aired 2026-10-31 12:16 | normal pick from 2026-11-02 00:16 | request from 2026-11-01 08:16
 OK   Lemon — Kenshi Yonezu | last aired 2026-10-26 22:45 | normal pick now | request now
 OK   Les Nuits — Nightmares On Wax | last aired 2026-10-27 02:12 | normal pick now | request now
 WAIT LesAlpx — Floating Points | last aired 2026-10-30 16:53 | normal pick from 2026-11-01 04:53 | request now
@@ -18,7 +18,7 @@ OK   Less Than — Nine Inch Nails | last aired 2026-10-30 03:48 | normal pick n
 OK   Let You Go — RY X | last aired 2026-10-27 11:17 | normal pick now | request now
 WAIT Let's Dance  (2018 Remaster) — David Bowie | last aired 2026-10-30 19:23 | normal pick from 2026-11-01 07:23 | request now
 OK   Let's Get It On — Marvin Gaye | last aired 2026-10-29 12:45 | normal pick now | request now
-WAIT Let's Groove (Album Version) — Earth, Wind & Fire | last aired 2026-10-31 11:57 | normal pick from 2026-11-01 23:57 | request from 2026-11-01 07:57
+WAIT Let's Groove (Album Version) — Earth, Wind & Fire | last aired 2026-10-31 11:58 | normal pick from 2026-11-02 11:58 | request from 2026-11-02 11:58
 OK   Let's Stay Together — Al Green | last aired 2026-10-29 14:13 | normal pick now | request now
 OK   The Ledge — Fleetwood Mac | last aired 2026-10-23 22:55 | normal pick now | request now
 OK   The Less I Know The Better — Tame Impala | last aired 2026-10-21 21:28 | normal pick now | request now

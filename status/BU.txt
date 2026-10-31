@@ -1,4 +1,4 @@
-Track status, artists filed under BU (built Sat Oct 31, 9:05 AM PDT (16:05 UTC)). Times in UTC.
+Track status, artists filed under BU (built Sat Oct 31, 10:05 AM PDT (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Buckcherry — Crazy Bitch | last aired 2026-09-15 19:59 | normal pick now | request now
@@ -9,7 +9,7 @@ OK   Burial — Archangel | last aired 2026-10-22 07:19 | normal pick now | requ
 WAIT Burial — Etched Headplate | last aired 2026-10-31 06:30 | normal pick from 2026-11-01 18:30 | request from 2026-11-01 02:30
 OK   Burial — Ghost Hardware | last aired 2026-10-22 01:51 | normal pick now | request now
 OK   Burial — Near Dark | last aired 2026-10-27 02:08 | normal pick now | request now
-WAIT Burna Boy — Last Last | last aired 2026-10-29 16:16 | normal pick from 2026-10-31 16:16 | request from 2026-10-31 16:16
+OK   Burna Boy — Last Last | last aired 2026-10-29 16:16 | normal pick now | request now
 OK   Bush — Everything Zen (Remastered) | last aired 2026-10-09 02:29 | normal pick now | request now
 OK   Busta Rhymes — Gimme Some More | last aired 2026-10-20 22:21 | normal pick now | request now
 OK   The Bulgarian Voices Angelite — Utopia | last aired 2026-10-25 14:04 | normal pick now | request now
