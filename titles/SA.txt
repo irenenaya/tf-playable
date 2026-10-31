@@ -1,4 +1,4 @@
-Track status, song titles filed under SA (built Sat Oct 31, 1:05 AM PDT (08:05 UTC)). Times in UTC.
+Track status, song titles filed under SA (built Sat Oct 31, 2:05 AM PDT (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Sabotage — Beastie Boys | last aired 2026-10-28 21:54 | normal pick now | request now
@@ -13,7 +13,7 @@ OK   Saltwater — Geowulf | last aired 2026-10-26 20:39 | normal pick now | req
 WAIT Salvatore — Lana Del Rey | last aired 2026-10-30 21:34 | normal pick from 2026-11-01 09:34 | request from 2026-10-31 17:34
 OK   saman — Ólafur Arnalds | last aired 2026-10-28 02:34 | normal pick now | request now
 OK   Samba Da Benção — Bebel Gilberto | last aired 2026-10-29 03:45 | normal pick now | request now
-OK   Samba Pa Ti — Santana | last aired 2026-10-28 08:32 | normal pick now | request now
+WAIT Samba Pa Ti — Santana | last aired 2026-10-31 08:57 | normal pick from 2026-11-02 08:57 | request from 2026-11-02 08:57
 OK   Same — Smith & Mighty | last aired 2026-10-24 17:26 | normal pick now | request now
 WAIT Sandstorm — Darude | last aired 2026-10-30 02:00 | normal pick from 2026-10-31 14:00 | request now
 OK   Santa María (del Buen Ayre) — Gotan Project | last aired 2026-10-28 14:18 | normal pick now | request now
@@ -21,10 +21,10 @@ WAIT Sanvean - I Am Your Shadow — Lisa Gerrard | last aired 2026-10-29 16:43 |
 WAIT Sara — Fleetwood Mac | last aired 2026-10-31 03:48 | normal pick from 2026-11-02 03:48 | request from 2026-11-02 03:48
 OK   Sarà perché ti amo — Ricchi E Poveri | last aired 2026-10-21 18:35 | normal pick now | request now
 WAIT Sastanàqqàm — Tinariwen | last aired 2026-10-29 16:51 | normal pick from 2026-10-31 16:51 | request from 2026-10-31 16:51
-WAIT Saturn — Sleeping At Last | last aired 2026-10-29 20:56 | normal pick from 2026-10-31 08:56 | request now
+OK   Saturn — Sleeping At Last | last aired 2026-10-29 20:56 | normal pick now | request now
 OK   Saudade — Love and Rockets | last aired 2026-10-29 14:08 | normal pick now | request now
 OK   Save The Children — Marvin Gaye | last aired 2026-10-25 00:21 | normal pick now | request now
-WAIT Saving All My Love for You — Whitney Houston | last aired 2026-10-30 12:26 | normal pick from 2026-11-01 00:26 | request from 2026-10-31 08:26
+WAIT Saving All My Love for You — Whitney Houston | last aired 2026-10-30 12:26 | normal pick from 2026-11-01 00:26 | request now
 OK   Say My Name (feat. Zyra) — ODESZA | last aired 2026-10-27 00:28 | normal pick now | request now
 WAIT Says — Nils Frahm | last aired 2026-10-31 03:33 | normal pick from 2026-11-02 03:33 | request from 2026-11-02 03:33
 OK   The Saturday Disco — Tom Robinson | last aired 2026-10-24 21:03 | normal pick now | request now

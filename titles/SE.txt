@@ -1,4 +1,4 @@
-Track status, song titles filed under SE (built Sat Oct 31, 1:05 AM PDT (08:05 UTC)). Times in UTC.
+Track status, song titles filed under SE (built Sat Oct 31, 2:05 AM PDT (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Secrets — The Weeknd | last aired 2026-10-02 04:10 | normal pick now | request now
@@ -10,5 +10,5 @@ OK   Senza Una Donna (Remastered 2007) — Zucchero | last aired 2026-10-26 08:1
 OK   September — Earth, Wind & Fire | last aired 2026-10-27 22:54 | normal pick now | request now
 OK   Set Me Free — Armin van Buuren | last aired 2026-10-24 22:42 | normal pick now | request now
 OK   Seven Nation Army — The White Stripes | last aired 2026-10-28 01:16 | normal pick now | request now
-WAIT Sexual Healing (Album Version) — Marvin Gaye | last aired 2026-10-30 13:02 | normal pick from 2026-11-01 01:02 | request from 2026-10-31 09:02
+WAIT Sexual Healing (Album Version) — Marvin Gaye | last aired 2026-10-30 13:02 | normal pick from 2026-11-01 01:02 | request now
 WAIT Sé Lest — Sigur Rós | last aired 2026-10-30 23:23 | normal pick from 2026-11-01 11:23 | request from 2026-10-31 19:23

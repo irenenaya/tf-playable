@@ -1,4 +1,4 @@
-Track status, artists filed under MA (built Sat Oct 31, 1:05 AM PDT (08:05 UTC)). Times in UTC.
+Track status, artists filed under MA (built Sat Oct 31, 2:05 AM PDT (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   M/A/R/R/S — Pump Up The Volume (UK 12" Remix) | last aired 2026-10-27 19:21 | normal pick now | request now
@@ -7,7 +7,7 @@ WAIT Mac DeMarco — My Kind of Woman | last aired 2026-10-30 20:58 | normal pic
 OK   Mac DeMarco — No Other Heart | last aired 2026-10-28 11:59 | normal pick now | request now
 OK   Madness — Our House | last aired 2026-10-28 18:40 | normal pick now | request now
 OK   Madonna — Holiday | last aired 2026-10-26 09:32 | normal pick now | request now
-OK   Mahalia Jackson — How I Got Over (Live) | last aired 2026-10-29 06:14 | normal pick now | request now
+WAIT Mahalia Jackson — How I Got Over (Live) | last aired 2026-10-31 08:33 | normal pick from 2026-11-01 20:33 | request from 2026-11-01 04:33
 OK   Mahavishnu Orchestra — I Wonder (Album Version) | last aired 2026-10-29 17:41 | normal pick now | request now
 OK   Mahmoud Ahmed — Ere Mela Mela / Meche Neu | last aired 2026-10-29 08:00 | normal pick now | request now
 WAIT Mana — Rayando el Sol | last aired 2026-10-30 08:11 | normal pick from 2026-11-01 08:11 | request from 2026-11-01 08:11
@@ -17,7 +17,7 @@ OK   Marc Rebillet — Late To Work | last aired 2026-10-09 16:38 | normal pick 
 WAIT Marconi Union — Weightless | last aired 2026-10-31 06:36 | normal pick from 2026-11-01 18:36 | request from 2026-11-01 02:36
 OK   Margaret Berger — I Feed You My Love (Extended Version) | last aired 2026-10-29 18:58 | normal pick now | request now
 OK   Maria McKee — Absolutely Barking Stars | last aired 2026-10-29 19:32 | normal pick now | request now
-WAIT Maria McKee — Life Is Sweet | last aired 2026-10-29 20:15 | normal pick from 2026-10-31 08:15 | request now
+OK   Maria McKee — Life Is Sweet | last aired 2026-10-29 20:15 | normal pick now | request now
 OK   Mariah Carey — All I Want for Christmas Is You | last aired 2026-04-20 09:48 | normal pick now | request now
 OK   Mariah Carey — O Holy Night | last aired 2026-04-30 06:20 | normal pick now | request now
 OK   Marie Vaunt — That Acid | last aired 2026-10-28 22:16 | normal pick now | request now
@@ -39,9 +39,9 @@ WAIT Marvin Gaye — Distant Lover | last aired 2026-10-31 06:51 | normal pick f
 OK   Marvin Gaye — I Heard It Through The Grapevine (SACD Stereo) | last aired 2026-10-26 12:56 | normal pick now | request now
 WAIT Marvin Gaye — Inner City Blues (Make Me Wanna Holler) | last aired 2026-10-30 07:38 | normal pick from 2026-10-31 19:38 | request now
 OK   Marvin Gaye — Let's Get It On | last aired 2026-10-29 12:45 | normal pick now | request now
-OK   Marvin Gaye — Mercy Mercy Me (The Ecology) | last aired 2026-10-26 09:44 | normal pick now | request now
+WAIT Marvin Gaye — Mercy Mercy Me (The Ecology) | last aired 2026-10-31 08:44 | normal pick from 2026-11-01 20:44 | request from 2026-11-01 04:44
 OK   Marvin Gaye — Save The Children | last aired 2026-10-25 00:21 | normal pick now | request now
-WAIT Marvin Gaye — Sexual Healing (Album Version) | last aired 2026-10-30 13:02 | normal pick from 2026-11-01 01:02 | request from 2026-10-31 09:02
+WAIT Marvin Gaye — Sexual Healing (Album Version) | last aired 2026-10-30 13:02 | normal pick from 2026-11-01 01:02 | request now
 WAIT Marvin Gaye — What's Going On | last aired 2026-10-30 07:31 | normal pick from 2026-10-31 19:31 | request now
 WAIT Marvin Gaye — Wholy Holy | last aired 2026-10-30 09:03 | normal pick from 2026-10-31 21:03 | request now
 WAIT Mary Halvorson — About Ghosts | last aired 2026-10-31 06:45 | normal pick from 2026-11-01 18:45 | request from 2026-11-01 02:45
@@ -50,7 +50,7 @@ WAIT Massive Attack — Angel | last aired 2026-10-30 23:33 | normal pick from 2
 WAIT Massive Attack — Protection | last aired 2026-10-31 04:58 | normal pick from 2026-11-01 16:58 | request from 2026-11-01 00:58
 OK   Massive Attack — Teardrop | last aired 2026-10-29 16:59 | normal pick now | request now
 WAIT Massive Attack — Unfinished Sympathy (2012 Mix/Master) | last aired 2026-10-31 01:43 | normal pick from 2026-11-01 13:43 | request from 2026-10-31 21:43
-OK   Matt Nathanson — All We Are | last aired 2026-10-25 04:38 | normal pick now | request now
+WAIT Matt Nathanson — All We Are | last aired 2026-10-31 08:40 | normal pick from 2026-11-01 20:40 | request from 2026-11-01 04:40
 OK   Matt Nathanson — Come On Get Higher | last aired 2026-10-26 14:17 | normal pick now | request now
 WAIT Matt Nathanson — Faster | last aired 2026-10-30 07:35 | normal pick from 2026-10-31 19:35 | request now
 OK   Mavis Staples — We're Gonna Make It | last aired 2026-10-29 02:58 | normal pick now | request now
