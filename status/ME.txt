@@ -1,9 +1,9 @@
-Track status, artists filed under ME (built Sat Oct 31, 5:05 AM PDT (12:05 UTC)). Times in UTC.
+Track status, artists filed under ME (built Sat Oct 31, 6:05 AM PDT (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Meat Beat Manifesto — Prime Audio Soup | last aired 2026-10-18 11:27 | normal pick now | request now
-WAIT Meat Loaf — Dead Ringer For Love (Album Version) | last aired 2026-10-30 00:49 | normal pick from 2026-10-31 12:49 | request now
-WAIT Megadeth — Tipping Point | last aired 2026-10-30 00:44 | normal pick from 2026-10-31 12:44 | request now
+OK   Meat Loaf — Dead Ringer For Love (Album Version) | last aired 2026-10-30 00:49 | normal pick now | request now
+OK   Megadeth — Tipping Point | last aired 2026-10-30 00:44 | normal pick now | request now
 OK   Megan Moroney — Tennessee Orange | last aired 2026-10-26 10:45 | normal pick now | request now
 WAIT Melody Gardot — If I Tell You I Love You | last aired 2026-10-31 02:08 | normal pick from 2026-11-01 14:08 | request from 2026-10-31 22:08
 WAIT Melody Gardot — If You Love Me | last aired 2026-10-30 12:44 | normal pick from 2026-11-01 00:44 | request now
@@ -13,11 +13,11 @@ WAIT Melody Gardot — Over The Rainbow (Live) | last aired 2026-10-31 11:24 | n
 WAIT Melody Gardot — Perhaps You'll Wonder Why (The Paris Sessions) | last aired 2026-10-30 02:39 | normal pick from 2026-10-31 14:39 | request now
 OK   Melody Gardot — This Foolish Heart Could Love You | last aired 2026-10-27 14:54 | normal pick now | request now
 WAIT Melody Gardot — Worrisome Heart (Album Version) | last aired 2026-10-31 06:01 | normal pick from 2026-11-01 18:01 | request from 2026-11-01 02:01
-WAIT Men At Work — Down Under | last aired 2026-10-30 00:35 | normal pick from 2026-10-31 12:35 | request now
+OK   Men At Work — Down Under | last aired 2026-10-30 00:35 | normal pick now | request now
 WAIT Men At Work — Overkill | last aired 2026-10-30 08:04 | normal pick from 2026-11-01 08:04 | request from 2026-11-01 08:04
 OK   Men I Trust — Show Me How | last aired 2026-10-29 08:59 | normal pick now | request now
 OK   Mercedes Sosa — Gracias a la Vida (En Vivo NY) | last aired 2026-10-29 08:08 | normal pick now | request now
 WAIT Mercury Rev — Little Rhymes | last aired 2026-10-31 04:26 | normal pick from 2026-11-02 04:26 | request from 2026-11-02 04:26
-WAIT Metallica — Enter Sandman | last aired 2026-10-30 00:39 | normal pick from 2026-10-31 12:39 | request now
+OK   Metallica — Enter Sandman | last aired 2026-10-30 00:39 | normal pick now | request now
 OK   Metallica — Master of Puppets  (Live at Irvine Meadows Amphitheatre, Irvine, CA, 8/4/1996) | last aired 2026-10-23 13:38 | normal pick now | request now
 OK   Metallica — Spit Out The Bone | last aired 2026-10-23 11:26 | normal pick now | request now

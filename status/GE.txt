@@ -1,10 +1,10 @@
-Track status, artists filed under GE (built Sat Oct 31, 5:05 AM PDT (12:05 UTC)). Times in UTC.
+Track status, artists filed under GE (built Sat Oct 31, 6:05 AM PDT (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Geese — Cowboy Nudes | last aired 2026-10-20 19:31 | normal pick now | request now
 OK   Gene Kelly — Singin' in the Rain | last aired 2026-10-24 12:44 | normal pick now | request now
 OK   Gene Watson — At Last | last aired 2026-10-17 10:29 | normal pick now | request now
-OK   Genesis — I Know What I Like (In Your Wardrobe) (2007 Stereo Mix) | last aired 2026-10-15 23:59 | normal pick now | request now
+WAIT Genesis — I Know What I Like (In Your Wardrobe) (2007 Stereo Mix) | last aired 2026-10-31 12:29 | normal pick from 2026-11-02 00:29 | request from 2026-11-01 08:29
 OK   Genesis — Many Too Many (2007 Remaster) | last aired 2026-10-21 20:39 | normal pick now | request now
 WAIT Geoffrey Oryema — Solitude | last aired 2026-10-31 08:16 | normal pick from 2026-11-01 20:16 | request from 2026-11-01 04:16
 OK   George Benson — Affirmation (Album Version) | last aired 2026-10-24 19:41 | normal pick now | request now

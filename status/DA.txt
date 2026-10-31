@@ -1,4 +1,4 @@
-Track status, artists filed under DA (built Sat Oct 31, 5:05 AM PDT (12:05 UTC)). Times in UTC.
+Track status, artists filed under DA (built Sat Oct 31, 6:05 AM PDT (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   D'Angelo — Untitled (How Does It Feel) | last aired 2026-10-28 16:14 | normal pick now | request now
@@ -26,7 +26,7 @@ OK   David Bowie — Breaking Glass  (2017 Remaster) | last aired 2026-10-18 12:
 OK   David Bowie — Dancing in the Street (2002 Remaster) | last aired 2026-10-21 20:00 | normal pick now | request now
 OK   David Bowie — Dollar Days | last aired 2026-09-30 17:09 | normal pick now | request now
 WAIT David Bowie — Let's Dance  (2018 Remaster) | last aired 2026-10-30 19:23 | normal pick from 2026-11-01 07:23 | request from 2026-10-31 15:23
-OK   David Bowie — Moonage Daydream (2012 Remaster) | last aired 2026-10-21 03:38 | normal pick now | request now
+WAIT David Bowie — Moonage Daydream (2012 Remaster) | last aired 2026-10-31 12:50 | normal pick from 2026-11-02 00:50 | request from 2026-11-01 08:50
 WAIT David Bowie — Rebel Rebel | last aired 2026-10-30 14:37 | normal pick from 2026-11-01 02:37 | request now
 WAIT David Bowie — Slip Away | last aired 2026-10-30 01:49 | normal pick from 2026-10-31 13:49 | request now
 OK   David Bowie — Slow Burn | last aired 2026-10-22 12:15 | normal pick now | request now
@@ -38,5 +38,5 @@ OK   David Bowie — Warszawa  (2017 Remaster) | last aired 2026-10-22 02:08 | n
 WAIT David Bowie — Wild Is the Wind  (2016 Remaster) | last aired 2026-10-31 11:40 | normal pick from 2026-11-01 23:40 | request from 2026-11-01 07:40
 OK   David Byrne — Everybody's Coming to My House (Live) | last aired 2026-10-26 23:31 | normal pick now | request now
 WAIT David Soul — Silver Lady | last aired 2026-10-30 02:35 | normal pick from 2026-10-31 14:35 | request now
-OK   David Sylvian — Darkest Dreaming | last aired 2026-10-26 20:24 | normal pick now | request now
+WAIT David Sylvian — Darkest Dreaming | last aired 2026-10-31 12:55 | normal pick from 2026-11-02 00:55 | request from 2026-11-01 08:55
 OK   The Dave Brubeck Quartet — Take Five | last aired 2026-10-28 16:08 | normal pick now | request now

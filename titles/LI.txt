@@ -1,4 +1,4 @@
-Track status, song titles filed under LI (built Sat Oct 31, 5:05 AM PDT (12:05 UTC)). Times in UTC.
+Track status, song titles filed under LI (built Sat Oct 31, 6:05 AM PDT (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Li Beirut (after Joaquín Rodrigo) — Karim Sulayman | last aired 2026-10-29 16:47 | normal pick now | request now
@@ -7,7 +7,7 @@ OK   Libertango — Al Di Meola | last aired 2026-10-29 14:38 | normal pick now 
 OK   Libertango — Rodrigo y Gabriela | last aired 2026-10-29 10:01 | normal pick now | request now
 OK   Libertango — Yo-Yo Ma | last aired 2026-10-28 10:31 | normal pick now | request now
 OK   Lid — Christian Löffler | last aired 2026-10-27 01:54 | normal pick now | request now
-WAIT Life Is Strange — Lord Huron | last aired 2026-10-29 12:11 | normal pick from 2026-10-31 12:11 | request from 2026-10-31 12:11
+OK   Life Is Strange — Lord Huron | last aired 2026-10-29 12:11 | normal pick now | request now
 OK   Life Is Sweet — Maria McKee | last aired 2026-10-29 20:15 | normal pick now | request now
 WAIT Life Itself — Glass Animals | last aired 2026-10-31 02:28 | normal pick from 2026-11-02 02:28 | request from 2026-11-02 02:28
 OK   Life Letters (Slowed+Reverb) — Never Get Used To People | last aired 2026-10-26 07:23 | normal pick now | request now
@@ -26,4 +26,4 @@ OK   Live For You — Thee Sacred Souls | last aired 2026-10-27 12:56 | normal p
 OK   Live Forever — Oasis | last aired 2026-10-26 03:27 | normal pick now | request now
 OK   Livin' On A Prayer — Bon Jovi | last aired 2026-10-26 15:27 | normal pick now | request now
 OK   Living For The City (Album Version) — Stevie Wonder | last aired 2026-10-24 12:36 | normal pick now | request now
-WAIT Living the Dream — Steve Roach | last aired 2026-10-30 01:03 | normal pick from 2026-10-31 13:03 | request now
+OK   Living the Dream — Steve Roach | last aired 2026-10-30 01:03 | normal pick now | request now
