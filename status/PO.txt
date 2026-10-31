@@ -1,17 +1,17 @@
-Track status, artists filed under PO (built Sat Oct 31, 2:05 AM PDT (09:05 UTC)). Times in UTC.
+Track status, artists filed under PO (built Sat Oct 31, 3:05 AM PDT (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Polar Sun — Caribou | last aired 2026-10-29 11:59 | normal pick now | request now
-WAIT Pop Evil — Breathe Again | last aired 2026-10-29 21:44 | normal pick from 2026-10-31 09:44 | request now
-WAIT Pornophonique — Sad Robot | last aired 2026-10-29 21:25 | normal pick from 2026-10-31 09:25 | request now
+OK   Pop Evil — Breathe Again | last aired 2026-10-29 21:44 | normal pick now | request now
+OK   Pornophonique — Sad Robot | last aired 2026-10-29 21:25 | normal pick now | request now
 WAIT Portishead — Glory Box (Album Version) | last aired 2026-10-30 23:04 | normal pick from 2026-11-01 23:04 | request from 2026-11-01 23:04
 OK   Portishead — It Could Be Sweet | last aired 2026-10-29 17:49 | normal pick now | request now
 OK   Portishead — Roads | last aired 2026-10-29 11:54 | normal pick now | request now
 OK   Portishead — Sour Times | last aired 2026-10-29 12:57 | normal pick now | request now
-WAIT Portishead — Wandering Star | last aired 2026-10-29 21:39 | normal pick from 2026-10-31 09:39 | request now
+OK   Portishead — Wandering Star | last aired 2026-10-29 21:39 | normal pick now | request now
 OK   Post Malone — Chemical | last aired 2026-10-25 20:42 | normal pick now | request now
-WAIT Powerwolf — Demons Are a Girl's Best Friend | last aired 2026-10-29 21:36 | normal pick from 2026-10-31 09:36 | request now
+OK   Powerwolf — Demons Are a Girl's Best Friend | last aired 2026-10-29 21:36 | normal pick now | request now
 OK   The Police — Message In A Bottle (Remastered 2003) | last aired 2026-10-29 17:44 | normal pick now | request now
 OK   The Police — Roxanne (Remastered 2003) | last aired 2026-10-25 23:18 | normal pick now | request now
-WAIT The Police — Walking On The Moon (Remastered 2003) | last aired 2026-10-29 21:31 | normal pick from 2026-10-31 09:31 | request now
+OK   The Police — Walking On The Moon (Remastered 2003) | last aired 2026-10-29 21:31 | normal pick now | request now
 WAIT The Postal Service — Such Great Heights (Remastered) | last aired 2026-10-31 02:52 | normal pick from 2026-11-01 14:52 | request from 2026-10-31 22:52

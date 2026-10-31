@@ -1,4 +1,4 @@
-Track status, song titles filed under WA (built Sat Oct 31, 2:05 AM PDT (09:05 UTC)). Times in UTC.
+Track status, song titles filed under WA (built Sat Oct 31, 3:05 AM PDT (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Way You Look Tonight — Tony Bennett & Faith Hill | last aired 2026-10-26 13:12 | normal pick now | request now
@@ -7,10 +7,10 @@ OK   Wait — M83 | last aired 2026-10-23 23:24 | normal pick now | request now
 OK   Waiting Room — Fugazi | last aired 2026-10-21 18:41 | normal pick now | request now
 OK   Wake Me Up — Becky Levi and the Nightjars | last aired 2026-10-22 06:23 | normal pick now | request now
 OK   Walkin' On The Sun — Smash Mouth | last aired 2026-10-25 20:07 | normal pick now | request now
-WAIT Walking On The Moon (Remastered 2003) — The Police | last aired 2026-10-29 21:31 | normal pick from 2026-10-31 09:31 | request now
+OK   Walking On The Moon (Remastered 2003) — The Police | last aired 2026-10-29 21:31 | normal pick now | request now
 OK   Waltz No.19 in A minor, Op.posth. - Chopin: Waltz No. 19 in A minor, Op. posth. — Peter Jablonski | last aired 2026-10-28 06:15 | normal pick now | request now
 OK   Waltzing Back — No Vacation | last aired 2026-10-29 07:14 | normal pick now | request now
-WAIT Wandering Star — Portishead | last aired 2026-10-29 21:39 | normal pick from 2026-10-31 09:39 | request now
+OK   Wandering Star — Portishead | last aired 2026-10-29 21:39 | normal pick now | request now
 OK   War — Edwin Starr | last aired 2026-10-24 21:18 | normal pick now | request now
 OK   Warszawa  (2017 Remaster) — David Bowie | last aired 2026-10-22 02:08 | normal pick now | request now
 OK   Was soll das (Remastered 2016) — Herbert Grönemeyer | last aired 2026-10-23 12:16 | normal pick now | request now
@@ -23,4 +23,4 @@ OK   Water No Get Enemy — Fela Kuti | last aired 2026-10-28 08:22 | normal pic
 OK   Water — Tyla | last aired 2026-10-29 10:08 | normal pick now | request now
 WAIT Waterloo (English Version) — ABBA | last aired 2026-10-30 14:56 | normal pick from 2026-11-01 02:56 | request from 2026-10-31 10:56
 OK   Watermelon Sugar — Harry Styles | last aired 2026-10-19 09:27 | normal pick now | request now
-OK   Wave — Antonio Carlos Jobim | last aired 2026-10-28 16:40 | normal pick now | request now
+WAIT Wave — Antonio Carlos Jobim | last aired 2026-10-31 09:46 | normal pick from 2026-11-01 21:46 | request from 2026-11-01 05:46

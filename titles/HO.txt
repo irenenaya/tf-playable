@@ -1,4 +1,4 @@
-Track status, song titles filed under HO (built Sat Oct 31, 2:05 AM PDT (09:05 UTC)). Times in UTC.
+Track status, song titles filed under HO (built Sat Oct 31, 3:05 AM PDT (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Holding — Grouper | last aired 2026-10-28 15:38 | normal pick now | request now
@@ -11,11 +11,11 @@ OK   Home At Last — Steely Dan | last aired 2026-10-29 19:53 | normal pick now
 WAIT Honesty (Album Version) — Billy Joel | last aired 2026-10-31 00:55 | normal pick from 2026-11-01 12:55 | request from 2026-10-31 20:55
 OK   Honey Bones — Dope Lemon | last aired 2026-10-27 13:25 | normal pick now | request now
 OK   Hong Kong — Gorillaz | last aired 2026-10-22 03:44 | normal pick now | request now
-OK   Hope Road (A-Z Route) — Anne Clark | last aired 2026-10-28 19:42 | normal pick now | request now
+WAIT Hope Road (A-Z Route) — Anne Clark | last aired 2026-10-31 09:35 | normal pick from 2026-11-01 21:35 | request from 2026-11-01 05:35
 OK   Hopopono — GoGo Penguin | last aired 2026-10-29 00:51 | normal pick now | request now
 WAIT Hoppípolla — Sigur Rós | last aired 2026-10-31 04:08 | normal pick from 2026-11-02 04:08 | request from 2026-11-02 04:08
 OK   HOT TO GO! — Chappell Roan | last aired 2026-10-12 17:42 | normal pick now | request now
-WAIT Hotel California  (2013 Remaster) — Eagles | last aired 2026-10-30 14:02 | normal pick from 2026-11-01 02:02 | request from 2026-10-31 10:02
+WAIT Hotel California  (2013 Remaster) — Eagles | last aired 2026-10-30 14:02 | normal pick from 2026-11-01 02:02 | request now
 OK   Houdini — Dua Lipa | last aired 2026-10-26 02:57 | normal pick now | request now
 OK   House of the Rising Sun — Erik Grönwall | last aired 2026-10-24 20:50 | normal pick now | request now
 OK   House Where Nobody Lives — Tom Waits | last aired 2026-10-28 19:34 | normal pick now | request now
