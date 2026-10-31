@@ -1,4 +1,4 @@
-Track status, song titles filed under GE (built Sat Oct 31, 4:05 AM PDT (11:05 UTC)). Times in UTC.
+Track status, song titles filed under GE (built Sat Oct 31, 5:05 AM PDT (12:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Gee — Girls' Generation | last aired 2026-10-30 16:17 | normal pick from 2026-11-01 04:17 | request from 2026-10-31 12:17
@@ -11,5 +11,5 @@ WAIT Get It Right the First Time (Album Version) — Billy Joel | last aired 202
 OK   Get Low [Explicit] — Lil Jon | last aired 2026-10-21 16:43 | normal pick now | request now
 OK   Get Out Of My House  (2018 Remaster) — Kate Bush | last aired 2026-10-26 11:41 | normal pick now | request now
 OK   Get the Party Started — P!nk | last aired 2026-10-18 09:39 | normal pick now | request now
-WAIT Get Up, Stand Up — Bob Marley & The Wailers | last aired 2026-10-29 12:04 | normal pick from 2026-10-31 12:04 | request from 2026-10-31 12:04
+OK   Get Up, Stand Up — Bob Marley & The Wailers | last aired 2026-10-29 12:04 | normal pick now | request now
 OK   The Getaway — Chris De Burgh | last aired 2026-10-26 20:16 | normal pick now | request now

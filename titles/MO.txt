@@ -1,7 +1,7 @@
-Track status, song titles filed under MO (built Sat Oct 31, 4:05 AM PDT (11:05 UTC)). Times in UTC.
+Track status, song titles filed under MO (built Sat Oct 31, 5:05 AM PDT (12:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Molitva — Marija Šerifović | last aired 2026-10-30 15:56 | normal pick from 2026-11-01 03:56 | request from 2026-10-31 11:56
+WAIT Molitva — Marija Šerifović | last aired 2026-10-30 15:56 | normal pick from 2026-11-01 03:56 | request now
 OK   momentary lovers — Khalid | last aired 2026-10-25 04:42 | normal pick now | request now
 OK   Money for Nothing — Dire Straits | last aired 2026-10-29 19:15 | normal pick now | request now
 OK   Money — Pink Floyd | last aired 2026-10-05 20:11 | normal pick now | request now
@@ -14,7 +14,7 @@ OK   Moon River — Petra Haden | last aired 2026-10-29 05:18 | normal pick now 
 OK   Moon Song — Phoebe Bridgers | last aired 2026-10-28 12:43 | normal pick now | request now
 OK   Moonage Daydream (2012 Remaster) — David Bowie | last aired 2026-10-21 03:38 | normal pick now | request now
 OK   Moonbeam Levels  (2019 Remaster) — Prince | last aired 2026-10-29 20:02 | normal pick now | request now
-WAIT Moonlight in Vermont — Betty Carter | last aired 2026-10-30 15:41 | normal pick from 2026-11-01 03:41 | request from 2026-10-31 11:41
+WAIT Moonlight in Vermont — Betty Carter | last aired 2026-10-30 15:41 | normal pick from 2026-11-01 03:41 | request now
 OK   Moonlight Shadow — Mike Oldfield | last aired 2026-10-21 01:34 | normal pick now | request now
 OK   Mope (Album Version) — Bloodhound Gang | last aired 2026-10-20 13:28 | normal pick now | request now
 OK   MORAK — Manal | last aired 2026-10-29 17:56 | normal pick now | request now
