@@ -1,4 +1,4 @@
-Track status, song titles filed under YO (built Fri Oct 30, 7:05 PM PDT (02:05 UTC Sat)). Times in UTC.
+Track status, song titles filed under YO (built Fri Oct 30, 8:05 PM PDT (03:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   You and I — Papooz | last aired 2026-10-27 20:25 | normal pick now | request now
@@ -18,11 +18,11 @@ OK   You Know Me Better Than I Know Myself — Cult With No Name | last aired 20
 OK   You Know, You Know (Album Version) — John McLaughlin | last aired 2026-10-20 05:00 | normal pick now | request now
 OK   You Suffer — Napalm Death | last aired 2026-08-10 11:48 | normal pick now | request now
 OK   You — The Jetzons | last aired 2026-10-28 12:04 | normal pick now | request now
-WAIT You're The One That I Want — Angus & Julia Stone | last aired 2026-10-29 02:51 | normal pick from 2026-10-31 02:51 | request from 2026-10-31 02:51
+OK   You're The One That I Want — Angus & Julia Stone | last aired 2026-10-29 02:51 | normal pick now | request now
 OK   Young And Beautiful — Lana Del Rey | last aired 2026-10-27 19:10 | normal pick now | request now
 WAIT Your Flag Decal Won't Get You into Heaven Anymore — John Prine | last aired 2026-10-30 20:42 | normal pick from 2026-11-01 08:42 | request from 2026-10-31 16:42
 WAIT Your Hand in Mine — Explosions In The Sky | last aired 2026-10-30 23:58 | normal pick from 2026-11-01 11:58 | request from 2026-10-31 19:58
-WAIT Your Latest Trick — Dire Straits | last aired 2026-10-29 15:03 | normal pick from 2026-10-31 03:03 | request now
+OK   Your Latest Trick — Dire Straits | last aired 2026-10-29 15:03 | normal pick now | request now
 OK   Your Love Is King — Serge Clivio | last aired 2026-10-21 15:15 | normal pick now | request now
 OK   Your Mrs — JAY1 | last aired 2026-10-04 23:17 | normal pick now | request now
 OK   Your Neighborhood Spaceman — Peeping Tom | last aired 2026-10-29 03:54 | normal pick now | request now

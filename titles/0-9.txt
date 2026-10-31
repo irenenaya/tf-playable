@@ -1,7 +1,7 @@
-Track status, song titles filed under 0-9 (built Fri Oct 30, 7:05 PM PDT (02:05 UTC Sat)). Times in UTC.
+Track status, song titles filed under 0-9 (built Fri Oct 30, 8:05 PM PDT (03:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   00:00 — Siddhartha | last aired 2026-10-18 14:39 | normal pick now | request now
+WAIT 00:00 — Siddhartha | last aired 2026-10-31 02:31 | normal pick from 2026-11-01 14:31 | request from 2026-10-31 22:31
 OK   1972 — Josh Rouse | last aired 2026-10-26 22:17 | normal pick now | request now
 OK   1979 — The Smashing Pumpkins | last aired 2026-10-28 11:38 | normal pick now | request now
 OK   1985 — Bowling For Soup | last aired 2026-10-25 19:59 | normal pick now | request now

@@ -1,4 +1,4 @@
-Track status, song titles filed under EM (built Fri Oct 30, 7:05 PM PDT (02:05 UTC Sat)). Times in UTC.
+Track status, song titles filed under EM (built Fri Oct 30, 8:05 PM PDT (03:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Emerald Sword (Re-Recorded) — Rhapsody Of Fire | last aired 2026-10-26 01:00 | normal pick now | request now
@@ -6,5 +6,5 @@ WAIT Emerald — Thin Lizzy | last aired 2026-10-30 07:56 | normal pick from 202
 OK   Emily — Julian Lage | last aired 2026-10-28 04:11 | normal pick now | request now
 OK   Empire Ants (feat. Little Dragon) — Gorillaz | last aired 2026-10-27 12:39 | normal pick now | request now
 OK   Empty Orchestra — Shearwater | last aired 2026-10-29 07:21 | normal pick now | request now
-WAIT The Empty Dream Machine (feat. Black Thought, Johnny Marr and Anoushka Shankar) — Gorillaz | last aired 2026-10-29 14:22 | normal pick from 2026-10-31 02:22 | request now
+OK   The Empty Dream Machine (feat. Black Thought, Johnny Marr and Anoushka Shankar) — Gorillaz | last aired 2026-10-29 14:22 | normal pick now | request now
 OK   the empty space is stuck in my head — Deathbrain | last aired 2026-10-25 13:22 | normal pick now | request now

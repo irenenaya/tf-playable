@@ -1,4 +1,4 @@
-Track status, artists filed under DI (built Fri Oct 30, 7:05 PM PDT (02:05 UTC Sat)). Times in UTC.
+Track status, artists filed under DI (built Fri Oct 30, 8:05 PM PDT (03:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Diana Krall — How Deep Is The Ocean | last aired 2026-10-29 13:13 | normal pick now | request now
@@ -8,8 +8,8 @@ WAIT Die Fantastischen Vier — MfG - Mit freundlichen Grüßen  (2022) | last a
 OK   DIIV — Doused | last aired 2026-10-28 11:07 | normal pick now | request now
 OK   Dire Straits — Brothers in Arms | last aired 2026-10-29 09:41 | normal pick now | request now
 WAIT Dire Straits — Money for Nothing | last aired 2026-10-29 19:15 | normal pick from 2026-10-31 07:15 | request now
-WAIT Dire Straits — Sultans of Swing | last aired 2026-10-29 14:32 | normal pick from 2026-10-31 02:32 | request now
-WAIT Dire Straits — Sultans Of Swing | last aired 2026-10-29 14:31 | normal pick from 2026-10-31 02:31 | request now
-WAIT Dire Straits — Your Latest Trick | last aired 2026-10-29 15:03 | normal pick from 2026-10-31 03:03 | request now
+OK   Dire Straits — Sultans of Swing | last aired 2026-10-29 14:32 | normal pick now | request now
+OK   Dire Straits — Sultans Of Swing | last aired 2026-10-29 14:31 | normal pick now | request now
+OK   Dire Straits — Your Latest Trick | last aired 2026-10-29 15:03 | normal pick now | request now
 OK   Disclosure — Help Me Lose My Mind | last aired 2026-10-28 12:39 | normal pick now | request now
 WAIT Disturbed — Won't Back Down | last aired 2026-10-29 19:36 | normal pick from 2026-10-31 07:36 | request now

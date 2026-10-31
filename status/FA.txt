@@ -1,4 +1,4 @@
-Track status, artists filed under FA (built Fri Oct 30, 7:05 PM PDT (02:05 UTC Sat)). Times in UTC.
+Track status, artists filed under FA (built Fri Oct 30, 8:05 PM PDT (03:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Fabrizio De Andrè — Bocca di rosa | last aired 2026-10-28 08:13 | normal pick now | request now
@@ -10,5 +10,5 @@ OK   Fanfare Ciocarlia — Asfalt Tango | last aired 2026-10-25 23:22 | normal p
 OK   Fat Bard — Crashlands! | last aired 2026-10-21 00:56 | normal pick now | request now
 OK   Fat Bard — The Tendraam | last aired 2026-10-21 04:41 | normal pick now | request now
 OK   Fates Warning — One Thousand Fires | last aired 2026-10-21 02:37 | normal pick now | request now
-OK   Father John Misty — Just Dumb Enough to Try | last aired 2026-10-22 09:40 | normal pick now | request now
+WAIT Father John Misty — Just Dumb Enough to Try | last aired 2026-10-31 03:00 | normal pick from 2026-11-01 15:00 | request from 2026-10-31 23:00
 OK   THE FATBACK BAND — At Last | last aired 2026-10-21 00:45 | normal pick now | request now

@@ -1,15 +1,15 @@
-Track status, song titles filed under LI (built Fri Oct 30, 7:05 PM PDT (02:05 UTC Sat)). Times in UTC.
+Track status, song titles filed under LI (built Fri Oct 30, 8:05 PM PDT (03:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Li Beirut (after Joaquín Rodrigo) — Karim Sulayman | last aired 2026-10-29 16:47 | normal pick from 2026-10-31 04:47 | request now
 WAIT Libertango (Arr. Yamamoto for Piano 4-Hands) — Beatrice Rana | last aired 2026-10-30 15:26 | normal pick from 2026-11-01 15:26 | request from 2026-11-01 15:26
-WAIT Libertango — Al Di Meola | last aired 2026-10-29 14:38 | normal pick from 2026-10-31 02:38 | request now
+OK   Libertango — Al Di Meola | last aired 2026-10-29 14:38 | normal pick now | request now
 WAIT Libertango — Rodrigo y Gabriela | last aired 2026-10-29 10:01 | normal pick from 2026-10-31 10:01 | request from 2026-10-31 10:01
 OK   Libertango — Yo-Yo Ma | last aired 2026-10-28 10:31 | normal pick now | request now
 OK   Lid — Christian Löffler | last aired 2026-10-27 01:54 | normal pick now | request now
 WAIT Life Is Strange — Lord Huron | last aired 2026-10-29 12:11 | normal pick from 2026-10-31 12:11 | request from 2026-10-31 12:11
 WAIT Life Is Sweet — Maria McKee | last aired 2026-10-29 20:15 | normal pick from 2026-10-31 08:15 | request now
-OK   Life Itself — Glass Animals | last aired 2026-10-28 17:28 | normal pick now | request now
+WAIT Life Itself — Glass Animals | last aired 2026-10-31 02:26 | normal pick from 2026-11-01 14:26 | request from 2026-10-31 22:26
 OK   Life Letters (Slowed+Reverb) — Never Get Used To People | last aired 2026-10-26 07:23 | normal pick now | request now
 OK   LIFE — Neuro-sama | last aired 2026-08-30 14:26 | normal pick now | request now
 OK   Life Without The Living — Tom Konkle | last aired 2026-10-17 06:06 | normal pick now | request now
