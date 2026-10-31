@@ -1,4 +1,4 @@
-Track status, artists filed under CA (built Fri Oct 30, 10:05 PM PDT (05:05 UTC Sat)). Times in UTC.
+Track status, artists filed under CA (built Fri Oct 30, 11:05 PM PDT (06:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Caetano Veloso — O Leãozinho (Ao Vivo) | last aired 2026-10-28 10:34 | normal pick now | request now
@@ -8,7 +8,7 @@ OK   Cage The Elephant — What I'm Becoming | last aired 2026-10-29 01:29 | nor
 WAIT Caifanes — Afuera | last aired 2026-10-30 10:35 | normal pick from 2026-11-01 10:35 | request from 2026-11-01 10:35
 WAIT Caifanes — La Negra Tomasa (Bilongo - Version Tropical) | last aired 2026-10-30 10:45 | normal pick from 2026-10-31 22:45 | request from 2026-10-31 06:45
 WAIT Camille — Ta douleur | last aired 2026-10-30 11:56 | normal pick from 2026-10-31 23:56 | request from 2026-10-31 07:56
-OK   Camille Thomas — Deux mélodies hébraïques, M. A22 - Ravel: Deux mélodies hébraïques, M. A22: I. Kaddisch (Transcr. by Richard Tognetti for Cello and Orchestra ) | last aired 2026-10-28 04:52 | normal pick now | request now
+WAIT Camille Thomas — Deux mélodies hébraïques, M. A22 - Ravel: Deux mélodies hébraïques, M. A22: I. Kaddisch (Transcr. by Richard Tognetti for Cello and Orchestra ) | last aired 2026-10-31 05:54 | normal pick from 2026-11-01 17:54 | request from 2026-11-01 01:54
 OK   Canned Heat — On The Road Again | last aired 2026-10-28 22:45 | normal pick now | request now
 OK   Carbon Based Lifeforms — Photosynthesis | last aired 2026-10-29 03:29 | normal pick now | request now
 OK   Cardiacs — Big Ship | last aired 2026-10-28 12:57 | normal pick now | request now
@@ -20,6 +20,6 @@ OK   Carter Vail — Ants In My Room | last aired 2026-10-29 01:45 | normal pick
 WAIT Cartola — As Rosas Não Falam | last aired 2026-10-30 10:28 | normal pick from 2026-10-31 22:28 | request from 2026-10-31 06:28
 WAIT Cascada — Everytime We Touch | last aired 2026-10-30 16:25 | normal pick from 2026-11-01 04:25 | request from 2026-10-31 12:25
 WAIT Cat Power — The Greatest | last aired 2026-10-30 18:17 | normal pick from 2026-11-01 06:17 | request from 2026-10-31 14:17
-OK   Cate Le Bon — Are You with Me Now? | last aired 2026-10-29 01:33 | normal pick now | request now
+WAIT Cate Le Bon — Are You with Me Now? | last aired 2026-10-31 05:25 | normal pick from 2026-11-02 05:25 | request from 2026-11-02 05:25
 OK   Caterina Barbieri — Fantas | last aired 2026-10-29 08:41 | normal pick now | request now
 WAIT The Carpenters — (They Long To Be) Close To You | last aired 2026-10-30 18:25 | normal pick from 2026-11-01 06:25 | request from 2026-10-31 14:25

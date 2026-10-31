@@ -1,11 +1,11 @@
-Track status, song titles filed under TH (built Fri Oct 30, 10:05 PM PDT (05:05 UTC Sat)). Times in UTC.
+Track status, song titles filed under TH (built Fri Oct 30, 11:05 PM PDT (06:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT (They Long To Be) Close To You — The Carpenters | last aired 2026-10-30 18:25 | normal pick from 2026-11-01 06:25 | request from 2026-10-31 14:25
 WAIT Thank you — Alabama 3 | last aired 2026-10-30 17:44 | normal pick from 2026-11-01 05:44 | request from 2026-10-31 13:44
 OK   thanks, my day is ruined — Alex Andre | last aired 2026-10-25 13:48 | normal pick now | request now
 OK   That Acid — Marie Vaunt | last aired 2026-10-28 22:16 | normal pick now | request now
-WAIT That's All for Everyone — Fleetwood Mac | last aired 2026-10-30 09:39 | normal pick from 2026-10-31 21:39 | request from 2026-10-31 05:39
+WAIT That's All for Everyone — Fleetwood Mac | last aired 2026-10-30 09:39 | normal pick from 2026-10-31 21:39 | request now
 OK   The Thieves of Imai — Filippo Beck Peccoz | last aired 2026-10-18 01:47 | normal pick now | request now
 OK   The Thrill Is Gone — B.B. King | last aired 2026-10-24 13:27 | normal pick now | request now
 OK   Theme from "A Summer Place" — Percy Faith & His Orchestra | last aired 2026-10-11 11:09 | normal pick now | request now
@@ -23,7 +23,7 @@ WAIT This Means War — Petra | last aired 2026-10-30 02:29 | normal pick from 2
 OK   This Must Be the Place (Naive Melody)  (2005 Remastered LP Version) — Talking Heads | last aired 2026-10-28 19:18 | normal pick now | request now
 WAIT This Woman's Work (Uncut) — Maxwell | last aired 2026-10-30 18:43 | normal pick from 2026-11-01 18:43 | request from 2026-11-01 18:43
 OK   Threnody — Goldmund | last aired 2026-10-29 01:48 | normal pick now | request now
-WAIT Thriller — Michael Jackson | last aired 2026-10-29 17:24 | normal pick from 2026-10-31 05:24 | request now
+OK   Thriller — Michael Jackson | last aired 2026-10-29 17:24 | normal pick now | request now
 OK   Through The Fire And Flames — Dragonforce | last aired 2026-10-22 11:49 | normal pick now | request now
 OK   Thrown Away — VAST | last aired 2026-10-24 19:56 | normal pick now | request now
 WAIT Thunder Road — Bruce Springsteen | last aired 2026-10-30 22:50 | normal pick from 2026-11-01 10:50 | request from 2026-10-31 18:50
