@@ -1,4 +1,4 @@
-Track status, song titles filed under MA (built Sat Oct 31, 3:05 AM PDT (10:05 UTC)). Times in UTC.
+Track status, song titles filed under MA (built Sat Oct 31, 4:05 AM PDT (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Mad World — Gary Jules | last aired 2026-10-27 05:09 | normal pick now | request now
@@ -22,7 +22,7 @@ OK   Marunouchi sadistic (Cover) — Mizuki Tomoda | last aired 2026-10-17 14:46
 OK   Mary — Big Thief | last aired 2026-10-29 06:38 | normal pick now | request now
 WAIT Mas, Que Nada! — Jorge Ben Jor | last aired 2026-10-29 16:02 | normal pick from 2026-10-31 16:02 | request from 2026-10-31 16:02
 OK   Mass Production — Iggy Pop | last aired 2026-10-15 19:52 | normal pick now | request now
-WAIT Master Blaster (Jammin') — Stevie Wonder | last aired 2026-10-29 22:30 | normal pick from 2026-10-31 10:30 | request now
+OK   Master Blaster (Jammin') — Stevie Wonder | last aired 2026-10-29 22:30 | normal pick now | request now
 OK   Master of Puppets  (Live at Irvine Meadows Amphitheatre, Irvine, CA, 8/4/1996) — Metallica | last aired 2026-10-23 13:38 | normal pick now | request now
 WAIT Matte Kudasai — King Crimson | last aired 2026-10-30 00:24 | normal pick from 2026-10-31 12:24 | request now
 OK   Maureen — Martin Ditcham | last aired 2026-08-18 22:36 | normal pick now | request now
@@ -34,4 +34,4 @@ OK   Maybe They Will Sing for Us Tomorrow — Hammock | last aired 2026-10-29 02
 OK   Má Vlast, JB 1:112-Vltava Smetana, Bedřich 伏塔瓦河 史麥塔納 — 江晴 | last aired 2026-09-21 02:37 | normal pick now | request now
 WAIT Männer (Remastered 2016) — Herbert Grönemeyer | last aired 2026-10-30 12:00 | normal pick from 2026-11-01 00:00 | request now
 OK   The Makings of You (2019 Remaster) (Remastered) — Curtis Mayfield | last aired 2026-10-26 12:39 | normal pick now | request now
-WAIT The March of the Black Queen (2026 Mix) — Queen | last aired 2026-10-30 14:59 | normal pick from 2026-11-01 02:59 | request from 2026-10-31 10:59
+WAIT The March of the Black Queen (2026 Mix) — Queen | last aired 2026-10-30 14:59 | normal pick from 2026-11-01 02:59 | request now

@@ -1,4 +1,4 @@
-Track status, artists filed under SI (built Sat Oct 31, 3:05 AM PDT (10:05 UTC)). Times in UTC.
+Track status, artists filed under SI (built Sat Oct 31, 4:05 AM PDT (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Siddhartha — 00:00 | last aired 2026-10-31 02:32 | normal pick from 2026-11-01 14:32 | request from 2026-10-31 22:32
@@ -20,5 +20,5 @@ WAIT Sinéad O'Connor — Nothing Compares 2 U (2009 Remaster) | last aired 2026
 OK   Siouxsie & The Banshees — Cities In Dust (Single Version) | last aired 2026-10-27 04:38 | normal pick now | request now
 WAIT Siouxsie & The Banshees — Spellbound | last aired 2026-10-30 23:00 | normal pick from 2026-11-01 11:00 | request from 2026-10-31 19:00
 OK   Sir David Willcocks — 5 Tudor Portraits: No. 5, Scherzo. Jolly Rutterkin | last aired 2026-10-17 13:40 | normal pick now | request now
-WAIT Sister Rosetta Tharpe — Up Above My Head There's Music In The Air | last aired 2026-10-30 14:24 | normal pick from 2026-11-01 02:24 | request from 2026-10-31 10:24
+WAIT Sister Rosetta Tharpe — Up Above My Head There's Music In The Air | last aired 2026-10-30 14:24 | normal pick from 2026-11-01 02:24 | request now
 OK   Sister Sledge — Lost in Music (1995 Remaster) (LP Version) | last aired 2026-10-27 21:47 | normal pick now | request now

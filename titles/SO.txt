@@ -1,4 +1,4 @@
-Track status, song titles filed under SO (built Sat Oct 31, 3:05 AM PDT (10:05 UTC)). Times in UTC.
+Track status, song titles filed under SO (built Sat Oct 31, 4:05 AM PDT (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   So Alive — Love and Rockets | last aired 2026-10-29 12:34 | normal pick now | request now
@@ -11,7 +11,7 @@ WAIT Sodade — Cesária Evora | last aired 2026-10-30 08:34 | normal pick from 
 OK   Solidarity Forever — Pete Seeger | last aired 2026-10-28 18:27 | normal pick now | request now
 WAIT Solitude — Geoffrey Oryema | last aired 2026-10-31 08:14 | normal pick from 2026-11-01 20:14 | request from 2026-11-01 04:14
 OK   Some Place We Called Home — Piotr Musial | last aired 2026-10-28 05:32 | normal pick now | request now
-WAIT Somebody Else — The 1975 | last aired 2026-10-30 14:10 | normal pick from 2026-11-01 02:10 | request from 2026-10-31 10:10
+WAIT Somebody Else — The 1975 | last aired 2026-10-30 14:10 | normal pick from 2026-11-01 02:10 | request now
 OK   Somebody to Love (Album Version) — George Michael | last aired 2026-10-24 03:12 | normal pick now | request now
 OK   Somebody To Love — Queen | last aired 2026-10-27 23:56 | normal pick now | request now
 OK   Someone Somewhere (In Summertime) — Simple Minds | last aired 2026-10-11 16:53 | normal pick now | request now

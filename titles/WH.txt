@@ -1,8 +1,8 @@
-Track status, song titles filed under WH (built Sat Oct 31, 3:05 AM PDT (10:05 UTC)). Times in UTC.
+Track status, song titles filed under WH (built Sat Oct 31, 4:05 AM PDT (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Whistleblowers — Laibach | last aired 2026-10-26 00:33 | normal pick now | request now
-WAIT Whales Tails — Cocteau Twins | last aired 2026-10-29 10:55 | normal pick from 2026-10-31 10:55 | request from 2026-10-31 10:55
+OK   Whales Tails — Cocteau Twins | last aired 2026-10-29 10:55 | normal pick now | request now
 OK   What a Fool Believes — The Doobie Brothers | last aired 2026-10-25 14:48 | normal pick now | request now
 OK   What About Us — P!nk | last aired 2026-10-20 23:05 | normal pick now | request now
 OK   What Cha' Gonna Do for Me — Chaka Khan | last aired 2026-10-26 23:06 | normal pick now | request now
@@ -28,7 +28,7 @@ WAIT Whirling-In-Rags, 8 AM — Sea Power | last aired 2026-10-31 07:37 | normal
 OK   White Christmas — Bing Crosby | last aired 2026-09-05 21:37 | normal pick now | request now
 WAIT White Gloves — Khruangbin | last aired 2026-10-30 08:47 | normal pick from 2026-11-01 08:47 | request from 2026-11-01 08:47
 OK   White Winter Hymnal — Fleet Foxes | last aired 2026-10-16 12:06 | normal pick now | request now
-WAIT Who Is It — Michael Jackson | last aired 2026-10-29 22:14 | normal pick from 2026-10-31 10:14 | request now
+OK   Who Is It — Michael Jackson | last aired 2026-10-29 22:14 | normal pick now | request now
 OK   Who Knew (Main Version) — P!nk | last aired 2026-09-12 18:53 | normal pick now | request now
 OK   Who's That What's That — Niko B | last aired 2026-10-28 00:48 | normal pick now | request now
 OK   Wholy Holy — Aretha Franklin | last aired 2026-10-25 17:04 | normal pick now | request now

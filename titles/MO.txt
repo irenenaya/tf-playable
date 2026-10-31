@@ -1,4 +1,4 @@
-Track status, song titles filed under MO (built Sat Oct 31, 3:05 AM PDT (10:05 UTC)). Times in UTC.
+Track status, song titles filed under MO (built Sat Oct 31, 4:05 AM PDT (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Molitva — Marija Šerifović | last aired 2026-10-30 15:56 | normal pick from 2026-11-01 03:56 | request from 2026-10-31 11:56
@@ -21,6 +21,6 @@ OK   MORAK — Manal | last aired 2026-10-29 17:56 | normal pick now | request n
 WAIT More Love — Kim Carnes | last aired 2026-10-30 19:38 | normal pick from 2026-11-01 19:38 | request from 2026-11-01 19:38
 OK   More Than A Friend — TilaR | last aired 2026-10-26 18:39 | normal pick now | request now
 OK   More Than Words — Extreme | last aired 2026-10-16 03:51 | normal pick now | request now
-WAIT Morphine (Album Version) — Michael Jackson | last aired 2026-10-29 22:56 | normal pick from 2026-10-31 10:56 | request now
+OK   Morphine (Album Version) — Michael Jackson | last aired 2026-10-29 22:56 | normal pick now | request now
 OK   The Moldau Má Vlast: II. Vltava Moldau — Czech Philharmonic | last aired 2026-10-24 10:52 | normal pick now | request now
 OK   The Moon Cave (8-Bit Gorillaz, Asha Puthli, Bobby Womack, Dave Jolicoeur, Jalen Ngonda & Black Thought Emulation) — 8-Bit Arcade | last aired 2026-10-03 04:35 | normal pick now | request now
