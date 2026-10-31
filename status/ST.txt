@@ -1,4 +1,4 @@
-Track status, artists filed under ST (built Fri Oct 30, 5:05 PM PDT (00:05 UTC Sat)). Times in UTC.
+Track status, artists filed under ST (built Fri Oct 30, 6:05 PM PDT (01:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT St Germain — Rose rouge | last aired 2026-10-29 13:34 | normal pick from 2026-10-31 01:34 | request now
@@ -25,7 +25,7 @@ WAIT Stevie Wonder — Golden Lady | last aired 2026-10-29 13:19 | normal pick f
 OK   Stevie Wonder — Happy Birthday | last aired 2026-09-29 18:47 | normal pick now | request now
 WAIT Stevie Wonder — Higher Ground (Album Version) | last aired 2026-10-30 17:13 | normal pick from 2026-11-01 05:13 | request from 2026-10-31 13:13
 WAIT Stevie Wonder — I Wish | last aired 2026-10-30 16:59 | normal pick from 2026-11-01 04:59 | request from 2026-10-31 12:59
-OK   Stevie Wonder — Isn't She Lovely | last aired 2026-10-21 14:00 | normal pick now | request now
+WAIT Stevie Wonder — Isn't She Lovely | last aired 2026-10-31 00:26 | normal pick from 2026-11-01 12:26 | request from 2026-10-31 20:26
 OK   Stevie Wonder — Living For The City (Album Version) | last aired 2026-10-24 12:36 | normal pick now | request now
 WAIT Stevie Wonder — Master Blaster (Jammin') | last aired 2026-10-29 22:30 | normal pick from 2026-10-31 10:30 | request now
 OK   Stevie Wonder — Sir Duke | last aired 2026-10-27 13:21 | normal pick now | request now
@@ -34,7 +34,7 @@ WAIT Stevie Wonder — Superstition (Album Version) | last aired 2026-10-30 17:0
 OK   Stevie Wonder — You Haven't Done Nothin' | last aired 2026-10-26 12:43 | normal pick now | request now
 OK   Still Woozy — Get Down | last aired 2026-10-29 09:34 | normal pick now | request now
 WAIT Sting — Desert Rose (Album Version) | last aired 2026-10-29 14:17 | normal pick from 2026-10-31 02:17 | request now
-OK   Sting — Fields Of Gold (My Songs Version) | last aired 2026-10-24 16:43 | normal pick now | request now
+WAIT Sting — Fields Of Gold (My Songs Version) | last aired 2026-10-31 00:59 | normal pick from 2026-11-01 12:59 | request from 2026-10-31 20:59
 WAIT Sting — Fragile | last aired 2026-10-29 13:42 | normal pick from 2026-10-31 01:42 | request now
 WAIT Sting — If You Love Somebody Set Them Free (Single Edit) | last aired 2026-10-29 17:11 | normal pick from 2026-10-31 05:11 | request now
 WAIT Sting — Shape Of My Heart (My Songs Version) | last aired 2026-10-29 22:36 | normal pick from 2026-10-31 10:36 | request now
