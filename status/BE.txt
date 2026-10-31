@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Sat Oct 31, 7:05 AM PDT (14:05 UTC)). Times in UTC.
+Track status, artists filed under BE (built Sat Oct 31, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Beach House — Bluebird | last aired 2026-10-28 09:19 | normal pick now | request now
@@ -32,16 +32,16 @@ OK   Bernard Purdie — Cool Down | last aired 2026-10-24 21:29 | normal pick no
 WAIT Bert Kaempfert — A Swingin' Safari | last aired 2026-10-30 15:24 | normal pick from 2026-11-01 03:24 | request now
 WAIT Betty Carter — Moonlight in Vermont | last aired 2026-10-30 15:41 | normal pick from 2026-11-01 03:41 | request now
 OK   BETWEEN FRIENDS — affection | last aired 2026-10-24 19:22 | normal pick now | request now
-WAIT Beyoncé — Crazy In Love | last aired 2026-10-30 19:02 | normal pick from 2026-11-01 07:02 | request from 2026-10-31 15:02
+WAIT Beyoncé — Crazy In Love | last aired 2026-10-30 19:02 | normal pick from 2026-11-01 07:02 | request now
 OK   Beyoncé — TEXAS HOLD 'EM | last aired 2026-10-28 22:05 | normal pick now | request now
-WAIT Béla Fleck — My Home's Across The Blue Ridge Mountains | last aired 2026-10-30 03:57 | normal pick from 2026-10-31 15:57 | request now
+OK   Béla Fleck — My Home's Across The Blue Ridge Mountains | last aired 2026-10-30 03:57 | normal pick now | request now
 OK   The Beach Boys — God Only Knows (Stereo) | last aired 2026-10-29 03:42 | normal pick now | request now
 WAIT The Beach Boys — Good Vibrations (Stereo/Remastered 2012) | last aired 2026-10-31 02:11 | normal pick from 2026-11-01 14:11 | request from 2026-10-31 22:11
-WAIT The Beatles — A Day In The Life (2017 Mix) | last aired 2026-10-30 03:52 | normal pick from 2026-10-31 15:52 | request now
-WAIT The Beatles — Get Back (2021 Mix) | last aired 2026-10-30 19:43 | normal pick from 2026-11-01 07:43 | request from 2026-10-31 15:43
+OK   The Beatles — A Day In The Life (2017 Mix) | last aired 2026-10-30 03:52 | normal pick now | request now
+WAIT The Beatles — Get Back (2021 Mix) | last aired 2026-10-30 19:43 | normal pick from 2026-11-01 07:43 | request now
 OK   The Beatles — Girl (Remastered) | last aired 2026-10-22 15:02 | normal pick now | request now
 OK   The Beatles — Golden Slumbers (Remastered) | last aired 2026-10-25 23:34 | normal pick now | request now
-WAIT The Beatles — Here Comes The Sun (2019 Mix) | last aired 2026-10-30 19:01 | normal pick from 2026-11-01 07:01 | request from 2026-10-31 15:01
+WAIT The Beatles — Here Comes The Sun (2019 Mix) | last aired 2026-10-30 19:01 | normal pick from 2026-11-01 07:01 | request now
 OK   The Beatles — Lucy In The Sky With Diamonds (Remastered 2009) | last aired 2026-10-25 20:35 | normal pick now | request now
 OK   The Beatles — Octopus's Garden (Remastered) | last aired 2026-10-29 08:57 | normal pick now | request now
 WAIT The Beatles — Rain (Remastered) | last aired 2026-10-31 11:10 | normal pick from 2026-11-01 23:10 | request from 2026-11-01 07:10

@@ -1,8 +1,8 @@
-Track status, song titles filed under SO (built Sat Oct 31, 7:05 AM PDT (14:05 UTC)). Times in UTC.
+Track status, song titles filed under SO (built Sat Oct 31, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   So Alive — Love and Rockets | last aired 2026-10-29 12:34 | normal pick now | request now
-OK   So Far Away — Carole King | last aired 2026-10-29 08:28 | normal pick now | request now
+WAIT So Far Away — Carole King | last aired 2026-10-31 15:34 | normal pick from 2026-11-02 15:34 | request from 2026-11-02 15:34
 WAIT So Long, Marianne — Leonard Cohen | last aired 2026-10-31 08:28 | normal pick from 2026-11-01 20:28 | request from 2026-11-01 04:28
 OK   So Real — Jeff Buckley | last aired 2026-10-28 11:10 | normal pick now | request now
 OK   So What — Miles Davis | last aired 2026-10-29 23:46 | normal pick now | request now
@@ -29,6 +29,6 @@ WAIT Soukora — Ali Farka Touré | last aired 2026-10-30 16:11 | normal pick fr
 OK   Sound and Vision  (2017 Remaster) — David Bowie | last aired 2026-10-23 15:48 | normal pick now | request now
 OK   Soundtrack to Me and You — Swan Dive | last aired 2026-10-26 18:30 | normal pick now | request now
 OK   Sour Flower — Lianne La Havas | last aired 2026-10-29 18:21 | normal pick now | request now
-OK   Sour Times — Portishead | last aired 2026-10-29 12:57 | normal pick now | request now
+WAIT Sour Times — Portishead | last aired 2026-10-31 14:45 | normal pick from 2026-11-02 02:45 | request from 2026-11-01 10:45
 OK   Sous le ciel de Paris — Zaz | last aired 2026-10-28 13:49 | normal pick now | request now
 WAIT The Sound of Silence  (Acoustic Version) — Simon & Garfunkel | last aired 2026-10-31 00:34 | normal pick from 2026-11-01 12:34 | request from 2026-10-31 20:34

@@ -1,4 +1,4 @@
-Track status, artists filed under BO (built Sat Oct 31, 7:05 AM PDT (14:05 UTC)). Times in UTC.
+Track status, artists filed under BO (built Sat Oct 31, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Boards of Canada — Blood In The Labyrinth | last aired 2026-10-21 21:42 | normal pick now | request now
@@ -16,7 +16,7 @@ OK   Bobby McFerrin — Common Threads | last aired 2026-10-25 03:28 | normal pi
 OK   Bobby McFerrin — Don't Worry Be Happy | last aired 2026-10-27 12:34 | normal pick now | request now
 OK   Bobby Vinton — Blue Velvet | last aired 2026-10-24 09:26 | normal pick now | request now
 WAIT Bon Iver — Holocene | last aired 2026-10-31 04:35 | normal pick from 2026-11-02 04:35 | request from 2026-11-02 04:35
-OK   Bon Iver — Skinny Love | last aired 2026-10-28 03:56 | normal pick now | request now
+WAIT Bon Iver — Skinny Love | last aired 2026-10-31 15:10 | normal pick from 2026-11-02 15:10 | request from 2026-11-02 15:10
 OK   Bon Jovi — Livin' On A Prayer | last aired 2026-10-26 15:27 | normal pick now | request now
 OK   Bon Jovi — You Give Love A Bad Name | last aired 2026-10-28 18:07 | normal pick now | request now
 WAIT Boney M. — Gotta Go Home | last aired 2026-10-31 03:18 | normal pick from 2026-11-01 15:18 | request from 2026-10-31 23:18
@@ -26,7 +26,7 @@ OK   Bonnie Tyler — Total Eclipse of the Heart | last aired 2026-10-23 13:49 |
 OK   Bonobo — Cirrus | last aired 2026-10-29 02:35 | normal pick now | request now
 OK   Bonobo — Kiara | last aired 2026-10-22 00:27 | normal pick now | request now
 WAIT Bonobo — Kong | last aired 2026-10-31 07:55 | normal pick from 2026-11-02 07:55 | request from 2026-11-02 07:55
-OK   Bonobo — Terrapin | last aired 2026-10-27 00:04 | normal pick now | request now
+WAIT Bonobo — Terrapin | last aired 2026-10-31 14:22 | normal pick from 2026-11-02 02:22 | request from 2026-11-01 10:22
 OK   Booker T. & The M.G.'s — Green Onions | last aired 2026-10-25 14:35 | normal pick now | request now
 WAIT Booker T. & The M.G.'s — Time Is Tight  (Live) | last aired 2026-10-31 12:07 | normal pick from 2026-11-02 00:07 | request from 2026-11-01 08:07
 OK   Booker T. Jones — Everything Is Everything | last aired 2026-10-26 12:51 | normal pick now | request now

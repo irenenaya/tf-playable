@@ -1,7 +1,7 @@
-Track status, song titles filed under MR (built Sat Oct 31, 7:05 AM PDT (14:05 UTC)). Times in UTC.
+Track status, song titles filed under MR (built Sat Oct 31, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Mr. Blue Sky — Electric Light Orchestra | last aired 2026-10-31 11:18 | normal pick from 2026-11-02 11:18 | request from 2026-11-02 11:18
-WAIT Mr. Brightside — The Killers | last aired 2026-10-30 19:31 | normal pick from 2026-11-01 07:31 | request from 2026-10-31 15:31
+WAIT Mr. Brightside — The Killers | last aired 2026-10-30 19:31 | normal pick from 2026-11-01 07:31 | request now
 OK   Mr. Roboto — Styx | last aired 2026-10-26 12:12 | normal pick now | request now
 OK   Mr. Sandman — The Chordettes | last aired 2026-10-18 04:36 | normal pick now | request now

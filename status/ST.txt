@@ -1,4 +1,4 @@
-Track status, artists filed under ST (built Sat Oct 31, 7:05 AM PDT (14:05 UTC)). Times in UTC.
+Track status, artists filed under ST (built Sat Oct 31, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   St Germain — Rose rouge | last aired 2026-10-29 13:34 | normal pick now | request now
@@ -17,7 +17,7 @@ WAIT Steely Dan — Peg | last aired 2026-10-31 01:48 | normal pick from 2026-11
 WAIT Steely Dan — Time Out Of Mind | last aired 2026-10-30 06:12 | normal pick from 2026-10-31 18:12 | request now
 WAIT Steve Miller Band — The Joker | last aired 2026-10-31 01:17 | normal pick from 2026-11-01 13:17 | request from 2026-10-31 21:17
 OK   Steve Roach — Living the Dream | last aired 2026-10-30 01:03 | normal pick now | request now
-WAIT Stevie Ray Vaughan & Double Trouble — Pride and Joy | last aired 2026-10-29 15:53 | normal pick from 2026-10-31 15:53 | request from 2026-10-31 15:53
+OK   Stevie Ray Vaughan & Double Trouble — Pride and Joy | last aired 2026-10-29 15:53 | normal pick now | request now
 OK   Stevie Ray Vaughan & Double Trouble — Riviera Paradise | last aired 2026-10-29 04:31 | normal pick now | request now
 OK   Stevie Wonder — As | last aired 2026-10-29 05:24 | normal pick now | request now
 OK   Stevie Wonder — Go Home | last aired 2026-10-25 09:30 | normal pick now | request now
@@ -35,7 +35,7 @@ OK   Stevie Wonder — You Haven't Done Nothin' | last aired 2026-10-26 12:43 | 
 OK   Still Woozy — Get Down | last aired 2026-10-29 09:34 | normal pick now | request now
 OK   Sting — Desert Rose (Album Version) | last aired 2026-10-29 14:17 | normal pick now | request now
 WAIT Sting — Fields Of Gold (My Songs Version) | last aired 2026-10-31 00:59 | normal pick from 2026-11-01 12:59 | request from 2026-10-31 20:59
-OK   Sting — Fragile | last aired 2026-10-29 13:42 | normal pick now | request now
+WAIT Sting — Fragile | last aired 2026-10-31 15:14 | normal pick from 2026-11-02 03:14 | request from 2026-11-01 11:14
 OK   Sting — If You Love Somebody Set Them Free (Single Edit) | last aired 2026-10-29 17:11 | normal pick now | request now
 OK   Sting — Shape Of My Heart (My Songs Version) | last aired 2026-10-29 22:36 | normal pick now | request now
 OK   Stratovarius — Black Diamond | last aired 2026-10-29 22:47 | normal pick now | request now

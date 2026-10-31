@@ -1,7 +1,7 @@
-Track status, song titles filed under SK (built Sat Oct 31, 7:05 AM PDT (14:05 UTC)). Times in UTC.
+Track status, song titles filed under SK (built Sat Oct 31, 9:05 AM PDT (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Sk8er Boi — Avril Lavigne | last aired 2026-10-26 21:59 | normal pick now | request now
-OK   Skinny Love — Bon Iver | last aired 2026-10-28 03:56 | normal pick now | request now
+WAIT Skinny Love — Bon Iver | last aired 2026-10-31 15:10 | normal pick from 2026-11-02 15:10 | request from 2026-11-02 15:10
 OK   Skriker mitt namn — Victor Leksell | last aired 2026-10-25 00:57 | normal pick now | request now
 WAIT Sky Blue — Peter Gabriel | last aired 2026-10-31 11:29 | normal pick from 2026-11-01 23:29 | request from 2026-11-01 07:29
