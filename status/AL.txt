@@ -1,4 +1,4 @@
-Track status, artists filed under AL (built Sat Oct 31, 6:05 AM PDT (13:05 UTC)). Times in UTC.
+Track status, artists filed under AL (built Sat Oct 31, 7:05 AM PDT (14:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Al Di Meola — Double Concerto | last aired 2026-10-30 16:03 | normal pick from 2026-11-01 04:03 | request now
@@ -9,9 +9,9 @@ WAIT Al Green — Let's Stay Together | last aired 2026-10-29 14:13 | normal pic
 WAIT Al Green — Love and Happiness | last aired 2026-10-31 05:45 | normal pick from 2026-11-01 17:45 | request from 2026-11-01 01:45
 WAIT Al Green — Simply Beautiful | last aired 2026-10-30 16:28 | normal pick from 2026-11-01 16:28 | request from 2026-11-01 16:28
 OK   Al Green — The Lord Will Make a Way | last aired 2026-10-29 17:08 | normal pick now | request now
-WAIT Al Stewart — Year of the Cat | last aired 2026-10-30 17:35 | normal pick from 2026-11-01 05:35 | request from 2026-10-31 13:35
+WAIT Al Stewart — Year of the Cat | last aired 2026-10-30 17:35 | normal pick from 2026-11-01 05:35 | request now
 WAIT Alabama 3 — Sad Eyed Lady Of The Low Life | last aired 2026-10-31 01:53 | normal pick from 2026-11-01 13:53 | request from 2026-10-31 21:53
-WAIT Alabama 3 — Thank you | last aired 2026-10-30 17:44 | normal pick from 2026-11-01 05:44 | request from 2026-10-31 13:44
+WAIT Alabama 3 — Thank you | last aired 2026-10-30 17:44 | normal pick from 2026-11-01 05:44 | request now
 OK   Alabama 3 — Woke Up This Morning | last aired 2026-09-25 07:44 | normal pick now | request now
 WAIT Albert Hammond — When I'm Gone | last aired 2026-10-31 05:50 | normal pick from 2026-11-01 17:50 | request from 2026-11-01 01:50
 WAIT Albert King — Born Under A Bad Sign | last aired 2026-10-30 16:44 | normal pick from 2026-11-01 04:44 | request now
@@ -22,7 +22,7 @@ OK   Alex Andre — thanks, my day is ruined | last aired 2026-10-25 13:48 | nor
 OK   Alexander Malter — Pärt: Für Alina | last aired 2026-10-25 18:33 | normal pick now | request now
 WAIT Alexander Rybak — Fairytale | last aired 2026-10-30 10:18 | normal pick from 2026-10-31 22:18 | request now
 OK   Alexandre Tharaud — Gnossienne No.1 - Gnossienne: No. 1 | last aired 2026-10-29 04:16 | normal pick now | request now
-WAIT Alexi Murdoch — Orange Sky | last aired 2026-10-30 17:56 | normal pick from 2026-11-01 05:56 | request from 2026-10-31 13:56
+WAIT Alexi Murdoch — Orange Sky | last aired 2026-10-30 17:56 | normal pick from 2026-11-01 05:56 | request now
 WAIT Alfa Mist — Organic Rust | last aired 2026-10-31 04:41 | normal pick from 2026-11-01 16:41 | request from 2026-11-01 00:41
 WAIT Ali Farka Touré — Soukora | last aired 2026-10-30 16:11 | normal pick from 2026-11-01 16:11 | request from 2026-11-01 16:11
 WAIT Alice Coltrane — Journey In Satchidananda | last aired 2026-10-30 10:21 | normal pick from 2026-10-31 22:21 | request now

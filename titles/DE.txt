@@ -1,4 +1,4 @@
-Track status, song titles filed under DE (built Sat Oct 31, 6:05 AM PDT (13:05 UTC)). Times in UTC.
+Track status, song titles filed under DE (built Sat Oct 31, 7:05 AM PDT (14:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   De Música Ligera (Remasterizado 2007) — Soda Stereo | last aired 2026-10-23 07:21 | normal pick now | request now
@@ -6,7 +6,7 @@ OK   Dead Ringer For Love (Album Version) — Meat Loaf | last aired 2026-10-30 
 OK   Dear Pressure — Miracles of Modern Science | last aired 2026-10-29 23:55 | normal pick now | request now
 OK   Deep Blue Day (Remastered 2019) — Brian Eno | last aired 2026-10-29 23:32 | normal pick now | request now
 OK   Deep Sea Pastures (from 'Ponyo on the Cliff by the Sea') — Joe Hisaishi | last aired 2026-10-24 19:02 | normal pick now | request now
-OK   Deeper Well — Kacey Musgraves | last aired 2026-10-28 20:42 | normal pick now | request now
+WAIT Deeper Well — Kacey Musgraves | last aired 2026-10-31 13:27 | normal pick from 2026-11-02 01:27 | request from 2026-11-01 09:27
 OK   Dein Lied — Laith Al-Deen | last aired 2026-10-27 05:24 | normal pick now | request now
 WAIT Demoliendo Hoteles (Live) — Charly García | last aired 2026-10-31 03:13 | normal pick from 2026-11-01 15:13 | request from 2026-10-31 23:13
 OK   Demons Are a Girl's Best Friend — Powerwolf | last aired 2026-10-29 21:36 | normal pick now | request now
@@ -21,4 +21,4 @@ OK   Detectorists (Original Soundtrack from the TV Series) — Johnny Flynn | la
 OK   Deutschland — Rammstein | last aired 2026-10-29 01:05 | normal pick now | request now
 WAIT Deux mélodies hébraïques, M. A22 - Ravel: Deux mélodies hébraïques, M. A22: I. Kaddisch (Transcr. by Richard Tognetti for Cello and Orchestra ) — Camille Thomas | last aired 2026-10-31 05:56 | normal pick from 2026-11-01 17:56 | request from 2026-11-01 01:56
 OK   Devil In A New Dress (Album Version (Explicit)) — Kanye West | last aired 2026-10-21 03:26 | normal pick now | request now
-OK   Devils Haircut — Beck | last aired 2026-10-27 11:52 | normal pick now | request now
+WAIT Devils Haircut — Beck | last aired 2026-10-31 13:17 | normal pick from 2026-11-02 01:17 | request from 2026-11-01 09:17
