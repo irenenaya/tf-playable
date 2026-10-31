@@ -1,4 +1,4 @@
-Track status, song titles filed under WA (built Sat Oct 31, 12:05 AM PDT (07:05 UTC)). Times in UTC.
+Track status, song titles filed under WA (built Sat Oct 31, 1:05 AM PDT (08:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Way You Look Tonight — Tony Bennett & Faith Hill | last aired 2026-10-26 13:12 | normal pick now | request now
@@ -9,7 +9,7 @@ OK   Wake Me Up — Becky Levi and the Nightjars | last aired 2026-10-22 06:23 |
 OK   Walkin' On The Sun — Smash Mouth | last aired 2026-10-25 20:07 | normal pick now | request now
 WAIT Walking On The Moon (Remastered 2003) — The Police | last aired 2026-10-29 21:31 | normal pick from 2026-10-31 09:31 | request now
 OK   Waltz No.19 in A minor, Op.posth. - Chopin: Waltz No. 19 in A minor, Op. posth. — Peter Jablonski | last aired 2026-10-28 06:15 | normal pick now | request now
-WAIT Waltzing Back — No Vacation | last aired 2026-10-29 07:14 | normal pick from 2026-10-31 07:14 | request from 2026-10-31 07:14
+OK   Waltzing Back — No Vacation | last aired 2026-10-29 07:14 | normal pick now | request now
 WAIT Wandering Star — Portishead | last aired 2026-10-29 21:39 | normal pick from 2026-10-31 09:39 | request now
 OK   War — Edwin Starr | last aired 2026-10-24 21:18 | normal pick now | request now
 OK   Warszawa  (2017 Remaster) — David Bowie | last aired 2026-10-22 02:08 | normal pick now | request now

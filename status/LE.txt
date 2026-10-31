@@ -1,4 +1,4 @@
-Track status, artists filed under LE (built Sat Oct 31, 12:05 AM PDT (07:05 UTC)). Times in UTC.
+Track status, artists filed under LE (built Sat Oct 31, 1:05 AM PDT (08:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   LeAnn Rimes — Blue | last aired 2026-10-28 18:58 | normal pick now | request now
@@ -20,7 +20,7 @@ WAIT Leonard Cohen — Dance Me to the End of Love | last aired 2026-10-29 21:48
 WAIT Leonard Cohen — Famous Blue Raincoat | last aired 2026-10-29 21:10 | normal pick from 2026-10-31 09:10 | request now
 OK   Leonard Cohen — Hallelujah | last aired 2026-10-13 00:14 | normal pick now | request now
 OK   Leonard Cohen — So Long, Marianne | last aired 2026-10-22 05:24 | normal pick now | request now
-WAIT Leonard Cohen — Suzanne | last aired 2026-10-31 03:28 | normal pick from 2026-11-01 15:28 | request from 2026-10-31 23:28
+WAIT Leonard Cohen — Suzanne | last aired 2026-10-31 03:29 | normal pick from 2026-11-01 15:29 | request from 2026-10-31 23:29
 WAIT Leonard Cohen — Treaty | last aired 2026-10-30 14:30 | normal pick from 2026-11-01 02:30 | request from 2026-10-31 10:30
 OK   Lester Flatt, Earl Scruggs — Foggy Mountain Breakdown | last aired 2026-10-22 15:08 | normal pick now | request now
 OK   Levante — SEI TU | last aired 2026-10-29 12:07 | normal pick now | request now
