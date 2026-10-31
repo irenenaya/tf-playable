@@ -1,13 +1,13 @@
-Track status, artists filed under ST (built Fri Oct 30, 11:05 PM PDT (06:05 UTC Sat)). Times in UTC.
+Track status, artists filed under ST (built Sat Oct 31, 12:05 AM PDT (07:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   St Germain — Rose rouge | last aired 2026-10-29 13:34 | normal pick now | request now
-WAIT Stan Bush — The Touch | last aired 2026-10-29 19:01 | normal pick from 2026-10-31 07:01 | request now
+OK   Stan Bush — The Touch | last aired 2026-10-29 19:01 | normal pick now | request now
 WAIT Stan Getz — Corcovado (Quiet Nights Of Quiet Stars) | last aired 2026-10-29 18:16 | normal pick from 2026-10-31 18:16 | request from 2026-10-31 18:16
-WAIT Stardust — Music Sounds Better With You | last aired 2026-10-29 18:10 | normal pick from 2026-10-31 06:10 | request now
+OK   Stardust — Music Sounds Better With You | last aired 2026-10-29 18:10 | normal pick now | request now
 WAIT Stars of the Lid — Requiem for Dying Mothers, Pt. 1 | last aired 2026-10-30 01:20 | normal pick from 2026-11-01 01:20 | request from 2026-11-01 01:20
-OK   Stars of the Lid — Requiem for Dying Mothers, Pt. 2 | last aired 2026-10-28 07:32 | normal pick now | request now
-WAIT Stealers Wheel — Stuck In The Middle With You | last aired 2026-10-29 18:50 | normal pick from 2026-10-31 06:50 | request now
+WAIT Stars of the Lid — Requiem for Dying Mothers, Pt. 2 | last aired 2026-10-31 06:21 | normal pick from 2026-11-02 06:21 | request from 2026-11-02 06:21
+OK   Stealers Wheel — Stuck In The Middle With You | last aired 2026-10-29 18:50 | normal pick now | request now
 WAIT Steely Dan — Almost Gothic (Album Version) | last aired 2026-10-30 13:48 | normal pick from 2026-11-01 01:48 | request from 2026-10-31 09:48
 OK   Steely Dan — Babylon Sisters | last aired 2026-10-29 13:29 | normal pick now | request now
 WAIT Steely Dan — Home At Last | last aired 2026-10-29 19:53 | normal pick from 2026-10-31 07:53 | request now
@@ -45,5 +45,5 @@ OK   Styx — Mr. Roboto | last aired 2026-10-26 12:12 | normal pick now | reque
 OK   The Staple Singers — I'll Take You There | last aired 2026-10-29 13:24 | normal pick now | request now
 WAIT The Strokes — Last Nite | last aired 2026-10-29 22:53 | normal pick from 2026-10-31 10:53 | request now
 OK   The Strokes — Lonely in the Future | last aired 2026-10-22 03:04 | normal pick now | request now
-WAIT The Strokes — Ode To The Mets | last aired 2026-10-30 10:58 | normal pick from 2026-10-31 22:58 | request from 2026-10-31 06:58
+WAIT The Strokes — Ode To The Mets | last aired 2026-10-30 10:58 | normal pick from 2026-10-31 22:58 | request now
 OK   The Style Council — Iwasadoledadstoyboy | last aired 2026-10-29 04:45 | normal pick now | request now

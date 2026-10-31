@@ -1,4 +1,4 @@
-Track status, song titles filed under MU (built Fri Oct 30, 11:05 PM PDT (06:05 UTC Sat)). Times in UTC.
+Track status, song titles filed under MU (built Sat Oct 31, 12:05 AM PDT (07:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Muchacha Ojos De Papel (Live) — Luis Alberto Spinetta | last aired 2026-10-28 22:24 | normal pick now | request now
@@ -6,4 +6,4 @@ OK   Muddy Water Blues — Paul Rodgers | last aired 2026-10-25 03:36 | normal p
 OK   Murphy's Law (Album Version) — Róisín Murphy | last aired 2026-10-24 18:03 | normal pick now | request now
 WAIT Muscles — Diana Ross | last aired 2026-10-29 19:39 | normal pick from 2026-10-31 07:39 | request now
 WAIT Music for 18 Musicians - Pulses — Colin Currie | last aired 2026-10-29 21:53 | normal pick from 2026-10-31 09:53 | request now
-WAIT Music Sounds Better With You — Stardust | last aired 2026-10-29 18:10 | normal pick from 2026-10-31 06:10 | request now
+OK   Music Sounds Better With You — Stardust | last aired 2026-10-29 18:10 | normal pick now | request now

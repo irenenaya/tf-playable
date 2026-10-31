@@ -1,7 +1,7 @@
-Track status, artists filed under BR (built Fri Oct 30, 11:05 PM PDT (06:05 UTC Sat)). Times in UTC.
+Track status, artists filed under BR (built Sat Oct 31, 12:05 AM PDT (07:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Brainstory — Mnemophobia | last aired 2026-10-24 03:53 | normal pick now | request now
+WAIT Brainstory — Mnemophobia | last aired 2026-10-31 06:18 | normal pick from 2026-11-01 18:18 | request from 2026-11-01 02:18
 OK   Brandi Carlile — The Joke | last aired 2026-10-26 22:40 | normal pick now | request now
 OK   Breakbot — Baby I'm Yours | last aired 2026-10-27 03:21 | normal pick now | request now
 OK   Breakestra — Back At The Boathouse | last aired 2026-10-26 02:28 | normal pick now | request now
@@ -11,10 +11,10 @@ WAIT Brian Eno — Capsule | last aired 2026-10-30 01:27 | normal pick from 2026
 WAIT Brian Eno — Deep Blue Day (Remastered 2019) | last aired 2026-10-29 23:32 | normal pick from 2026-10-31 11:32 | request now
 WAIT Brian Eno — Fullness Of Wind (Variation On 'The Canon In D Major' By Johann Pachelbel) (Remastered 2004) | last aired 2026-10-29 23:36 | normal pick from 2026-10-31 11:36 | request now
 WAIT Brian Eno — Spinning Away | last aired 2026-10-30 01:38 | normal pick from 2026-10-31 13:38 | request now
-OK   Brian Eno — The Big Ship (2004 Remaster) | last aired 2026-10-29 07:11 | normal pick now | request now
-OK   Brijean — Counting Sheep | last aired 2026-10-27 13:31 | normal pick now | request now
+WAIT Brian Eno — The Big Ship (2004 Remaster) | last aired 2026-10-31 06:11 | normal pick from 2026-11-01 18:11 | request from 2026-11-01 02:11
+WAIT Brijean — Counting Sheep | last aired 2026-10-31 06:14 | normal pick from 2026-11-01 18:14 | request from 2026-11-01 02:14
 OK   Bring Me The Horizon — Blessed with a Curse | last aired 2026-10-18 10:42 | normal pick now | request now
-WAIT Bruce Kaphan — Clouds | last aired 2026-10-30 01:30 | normal pick from 2026-10-31 13:30 | request now
+WAIT Bruce Kaphan — Clouds | last aired 2026-10-31 06:04 | normal pick from 2026-11-01 18:04 | request from 2026-11-01 02:04
 OK   Bruce Springsteen — Born in the U.S.A. | last aired 2026-10-21 02:58 | normal pick now | request now
 WAIT Bruce Springsteen — Born to Run | last aired 2026-10-30 22:03 | normal pick from 2026-11-01 10:03 | request from 2026-10-31 18:03
 OK   Bruce Springsteen — No Surrender | last aired 2026-10-24 13:36 | normal pick now | request now
