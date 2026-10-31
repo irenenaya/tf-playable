@@ -1,4 +1,4 @@
-Track status, song titles filed under ST (built Sat Oct 31, 12:05 PM PDT (19:05 UTC)). Times in UTC.
+Track status, song titles filed under ST (built Sat Oct 31, 1:05 PM PDT (20:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   S.T.A.Y. — Hans Zimmer | last aired 2026-10-28 02:27 | normal pick now | request now
@@ -29,7 +29,7 @@ OK   Straight Outta Vagina (feat. Desi Mo & Leikeli47) — Pussy Riot | last air
 OK   Straight Up (Single Version) — Paula Abdul | last aired 2026-10-24 16:25 | normal pick now | request now
 OK   Strange — Patsy Cline | last aired 2026-10-28 22:28 | normal pick now | request now
 OK   Stranger in Moscow — Michael Jackson | last aired 2026-10-29 12:39 | normal pick now | request now
-OK   Stranger On The Shore — Acker Bilk | last aired 2026-10-24 05:47 | normal pick now | request now
+WAIT Stranger On The Shore — Acker Bilk | last aired 2026-10-31 19:28 | normal pick from 2026-11-02 07:28 | request from 2026-11-01 15:28
 OK   Stratosfear (Digital Remastered) — Tangerine Dream | last aired 2026-10-28 06:58 | normal pick now | request now
 OK   Strawberry Fields Forever — The Beatles | last aired 2026-10-25 14:15 | normal pick now | request now
 OK   Strawberry Letter 23 (Album Version) — The Brothers Johnson | last aired 2026-10-24 12:20 | normal pick now | request now

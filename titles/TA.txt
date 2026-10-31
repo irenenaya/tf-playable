@@ -1,4 +1,4 @@
-Track status, song titles filed under TA (built Sat Oct 31, 12:05 PM PDT (19:05 UTC)). Times in UTC.
+Track status, song titles filed under TA (built Sat Oct 31, 1:05 PM PDT (20:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Ta douleur — Camille | last aired 2026-10-30 11:56 | normal pick from 2026-10-31 23:56 | request now
@@ -11,7 +11,7 @@ WAIT Take Me Home, Country Roads — John Denver | last aired 2026-10-30 20:39 |
 OK   Take Me To Church — Hozier | last aired 2026-10-18 20:21 | normal pick now | request now
 OK   Take My Breath Away — Berlin | last aired 2026-10-26 21:23 | normal pick now | request now
 OK   Take My Heart — Djivan Gasparyan | last aired 2026-10-27 10:38 | normal pick now | request now
-OK   Take on Me (2015 Remaster) — A-Ha | last aired 2026-10-21 14:14 | normal pick now | request now
+WAIT Take on Me (2015 Remaster) — A-Ha | last aired 2026-10-31 19:12 | normal pick from 2026-11-02 07:12 | request from 2026-11-01 15:12
 OK   Take On Me (MTV Unplugged) — A-Ha | last aired 2026-10-25 23:08 | normal pick now | request now
 OK   Taken — Eluvium | last aired 2026-10-21 11:43 | normal pick now | request now
 OK   Takin' Care Of Business — Bachman-Turner Overdrive | last aired 2026-10-24 16:29 | normal pick now | request now
