@@ -1,4 +1,4 @@
-Track status, song titles filed under CA (built Fri Oct 30, 4:05 PM PDT (23:05 UTC)). Times in UTC.
+Track status, song titles filed under CA (built Fri Oct 30, 5:05 PM PDT (00:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   California Dreamin' (Single Version) — The Mamas & The Papas | last aired 2026-10-22 14:06 | normal pick now | request now
@@ -15,7 +15,7 @@ WAIT Capsule — Brian Eno | last aired 2026-10-30 01:27 | normal pick from 2026
 OK   Captain Morgan`s Revenge — Alestorm | last aired 2026-10-18 02:31 | normal pick now | request now
 OK   Caras Galadhon / "Lament for Gandalf" (feat. Elizabeth Fraser) — Howard Shore | last aired 2026-10-19 19:08 | normal pick now | request now
 WAIT Caribbean Blue (2009 Remaster) (Remastered 2009) — Enya | last aired 2026-10-29 10:51 | normal pick from 2026-10-31 10:51 | request from 2026-10-31 10:51
-WAIT Caribou — Polar Sun | last aired 2026-10-29 11:59 | normal pick from 2026-10-30 23:59 | request now
+OK   Caribou — Polar Sun | last aired 2026-10-29 11:59 | normal pick now | request now
 WAIT Cariño — The Marías | last aired 2026-10-30 20:45 | normal pick from 2026-11-01 08:45 | request from 2026-10-31 16:45
 OK   Carnival of the Animals, R. 125: XIII. The Swan — Yo-Yo Ma | last aired 2026-10-25 21:56 | normal pick now | request now
 OK   Carry You — Martin Garrix | last aired 2026-10-28 22:09 | normal pick now | request now

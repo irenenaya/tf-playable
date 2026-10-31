@@ -1,8 +1,8 @@
-Track status, artists filed under NE (built Fri Oct 30, 4:05 PM PDT (23:05 UTC)). Times in UTC.
+Track status, artists filed under NE (built Fri Oct 30, 5:05 PM PDT (00:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Neil Diamond — Be (Introduction Of Jonathan) | last aired 2026-10-27 21:31 | normal pick now | request now
-WAIT Neil Diamond — Sweet Caroline | last aired 2026-10-30 20:32 | normal pick from 2026-11-01 08:32 | request from 2026-10-31 16:32
+WAIT Neil Diamond — Sweet Caroline | last aired 2026-10-30 20:33 | normal pick from 2026-11-01 08:33 | request from 2026-10-31 16:33
 OK   Neil Young — Harvest Moon (Album Version) | last aired 2026-10-28 21:45 | normal pick now | request now
 WAIT Neil Young — Heart of Gold | last aired 2026-10-30 04:32 | normal pick from 2026-10-31 16:32 | request from 2026-10-31 00:32
 OK   Nek — Fatti avanti amore (feat. Jovanotti)  (5030 version) | last aired 2026-10-25 03:04 | normal pick now | request now
@@ -16,4 +16,4 @@ OK   Neuro-sama — Pattern Recognition (feat. ODDEEO) | last aired 2026-09-25 1
 OK   Never Get Used To People — Life Letters (Slowed+Reverb) | last aired 2026-10-26 07:23 | normal pick now | request now
 WAIT New Found Glory — My Friends Over You | last aired 2026-10-29 23:58 | normal pick from 2026-10-31 11:58 | request now
 OK   New Order — Blue Monday  (2016 Remaster) | last aired 2026-10-05 16:46 | normal pick now | request now
-WAIT New Order — True Faith | last aired 2026-10-30 19:53 | normal pick from 2026-11-01 07:53 | request from 2026-10-31 15:53
+WAIT New Order — True Faith | last aired 2026-10-30 19:53 | normal pick from 2026-11-01 19:53 | request from 2026-11-01 19:53

@@ -1,9 +1,9 @@
-Track status, song titles filed under BL (built Fri Oct 30, 4:05 PM PDT (23:05 UTC)). Times in UTC.
+Track status, song titles filed under BL (built Fri Oct 30, 5:05 PM PDT (00:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Black Diamond — Stratovarius | last aired 2026-10-29 22:47 | normal pick from 2026-10-31 10:47 | request now
 OK   Black Fingernails, Red Wine — Eskimo Joe | last aired 2026-10-26 11:33 | normal pick now | request now
-WAIT Black Hole Sun — Soundgarden | last aired 2026-10-29 11:44 | normal pick from 2026-10-30 23:44 | request now
+OK   Black Hole Sun — Soundgarden | last aired 2026-10-29 11:44 | normal pick now | request now
 OK   Black Magic Woman — Percy Faith & His Orchestra | last aired 2026-10-29 04:04 | normal pick now | request now
 OK   Black Magic Woman — Santana | last aired 2026-10-28 02:54 | normal pick now | request now
 OK   Black Refraction — Tim Hecker | last aired 2026-10-23 02:04 | normal pick now | request now
@@ -19,7 +19,7 @@ OK   Blood In The Labyrinth — Boards of Canada | last aired 2026-10-21 21:42 |
 OK   Bloodbuzz Ohio (Live in Rome) — The National | last aired 2026-10-23 15:30 | normal pick now | request now
 OK   Bloom — Airiel | last aired 2026-09-15 08:41 | normal pick now | request now
 OK   Blue (Flume Remix) — Eiffel 65 | last aired 2026-10-22 21:13 | normal pick now | request now
-WAIT Blue Hotel  (Remastered Album Version) — Chris Isaak | last aired 2026-10-30 20:21 | normal pick from 2026-11-01 08:21 | request from 2026-10-31 16:21
+WAIT Blue Hotel  (Remastered Album Version) — Chris Isaak | last aired 2026-10-30 20:22 | normal pick from 2026-11-01 08:22 | request from 2026-10-31 16:22
 WAIT Blue in Green — Miles Davis | last aired 2026-10-29 22:09 | normal pick from 2026-10-31 10:09 | request now
 OK   Blue — LeAnn Rimes | last aired 2026-10-28 18:58 | normal pick now | request now
 WAIT Blue Lips — Her's | last aired 2026-10-29 06:47 | normal pick from 2026-10-31 06:47 | request from 2026-10-31 06:47
