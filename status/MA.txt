@@ -1,4 +1,4 @@
-Track status, artists filed under MA (built Fri Oct 30, 6:05 PM PDT (01:05 UTC Sat)). Times in UTC.
+Track status, artists filed under MA (built Fri Oct 30, 7:05 PM PDT (02:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   M/A/R/R/S — Pump Up The Volume (UK 12" Remix) | last aired 2026-10-27 19:21 | normal pick now | request now
@@ -35,7 +35,7 @@ OK   Martin Ditcham — Maureen | last aired 2026-08-18 22:36 | normal pick now 
 OK   Martin Garrix — Carry You | last aired 2026-10-28 22:09 | normal pick now | request now
 OK   Martina McBride — Independence Day | last aired 2026-10-28 23:11 | normal pick now | request now
 OK   Marty Friedman — Senbonzakura | last aired 2026-10-29 00:08 | normal pick now | request now
-WAIT Marvin Gaye — Distant Lover | last aired 2026-10-29 14:00 | normal pick from 2026-10-31 02:00 | request now
+OK   Marvin Gaye — Distant Lover | last aired 2026-10-29 14:00 | normal pick now | request now
 OK   Marvin Gaye — I Heard It Through The Grapevine (SACD Stereo) | last aired 2026-10-26 12:56 | normal pick now | request now
 WAIT Marvin Gaye — Inner City Blues (Make Me Wanna Holler) | last aired 2026-10-30 07:38 | normal pick from 2026-10-31 19:38 | request from 2026-10-31 03:38
 OK   Marvin Gaye — Let's Get It On | last aired 2026-10-29 12:45 | normal pick now | request now
@@ -49,7 +49,7 @@ OK   Masego — Tadow | last aired 2026-10-28 12:26 | normal pick now | request 
 WAIT Massive Attack — Angel | last aired 2026-10-30 23:32 | normal pick from 2026-11-01 23:32 | request from 2026-11-01 23:32
 OK   Massive Attack — Protection | last aired 2026-10-23 04:01 | normal pick now | request now
 WAIT Massive Attack — Teardrop | last aired 2026-10-29 16:59 | normal pick from 2026-10-31 04:59 | request now
-WAIT Massive Attack — Unfinished Sympathy (2012 Mix/Master) | last aired 2026-10-30 11:51 | normal pick from 2026-10-31 23:51 | request from 2026-10-31 07:51
+WAIT Massive Attack — Unfinished Sympathy (2012 Mix/Master) | last aired 2026-10-31 01:42 | normal pick from 2026-11-01 13:42 | request from 2026-10-31 21:42
 OK   Matt Nathanson — All We Are | last aired 2026-10-25 04:38 | normal pick now | request now
 OK   Matt Nathanson — Come On Get Higher | last aired 2026-10-26 14:17 | normal pick now | request now
 WAIT Matt Nathanson — Faster | last aired 2026-10-30 07:35 | normal pick from 2026-10-31 19:35 | request from 2026-10-31 03:35
@@ -60,7 +60,7 @@ OK   Max Specter — Just Asking (Day Theme I) | last aired 2026-10-18 02:38 | n
 OK   Maxwell — Ascension (No One's Gonna Love You, So Don't Ever Wonder)[The Tribute][Cut] | last aired 2026-09-05 10:34 | normal pick now | request now
 WAIT Maxwell — Pretty Wings (uncut) | last aired 2026-10-30 23:48 | normal pick from 2026-11-01 11:48 | request from 2026-10-31 19:48
 WAIT Maxwell — This Woman's Work (Uncut) | last aired 2026-10-30 18:43 | normal pick from 2026-11-01 18:43 | request from 2026-11-01 18:43
-WAIT Maxwell — Whenever Wherever Whatever (Remastered 2021) (Album Version) | last aired 2026-10-30 05:56 | normal pick from 2026-10-31 17:56 | request from 2026-10-31 01:56
+WAIT Maxwell — Whenever Wherever Whatever (Remastered 2021) (Album Version) | last aired 2026-10-30 05:56 | normal pick from 2026-10-31 17:56 | request now
 WAIT Mazzy Star — Fade Into You | last aired 2026-10-30 09:34 | normal pick from 2026-11-01 09:34 | request from 2026-11-01 09:34
 WAIT Mazzy Star — Halah | last aired 2026-10-30 03:02 | normal pick from 2026-11-01 03:02 | request from 2026-11-01 03:02
 WAIT Måneskin — Torna a casa | last aired 2026-10-30 15:47 | normal pick from 2026-11-01 15:47 | request from 2026-11-01 15:47
