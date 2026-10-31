@@ -1,9 +1,9 @@
-Track status, artists filed under BR (built Sat Oct 31, 1:05 PM PDT (20:05 UTC)). Times in UTC.
+Track status, artists filed under BR (built Sat Oct 31, 2:05 PM PDT (21:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Brainstory — Mnemophobia | last aired 2026-10-31 06:20 | normal pick from 2026-11-01 18:20 | request from 2026-11-01 02:20
-OK   Brandi Carlile — The Joke | last aired 2026-10-26 22:40 | normal pick now | request now
-OK   Breakbot — Baby I'm Yours | last aired 2026-10-27 03:21 | normal pick now | request now
+WAIT Brandi Carlile — The Joke | last aired 2026-10-31 20:11 | normal pick from 2026-11-02 20:11 | request from 2026-11-02 20:11
+WAIT Breakbot — Baby I'm Yours | last aired 2026-10-31 20:16 | normal pick from 2026-11-02 08:16 | request from 2026-11-01 16:16
 OK   Breakestra — Back At The Boathouse | last aired 2026-10-26 02:28 | normal pick now | request now
 OK   Brenda Lee — Rockin' Around The Christmas Tree | last aired 2026-08-13 13:36 | normal pick now | request now
 OK   Brian Eno — An Ending (Ascent) (Remastered 2019) | last aired 2026-10-30 00:59 | normal pick now | request now
@@ -15,7 +15,7 @@ WAIT Brian Eno — The Big Ship (2004 Remaster) | last aired 2026-10-31 06:12 | 
 WAIT Brijean — Counting Sheep | last aired 2026-10-31 06:16 | normal pick from 2026-11-01 18:16 | request from 2026-11-01 02:16
 OK   Bring Me The Horizon — Blessed with a Curse | last aired 2026-10-18 10:42 | normal pick now | request now
 WAIT Bruce Kaphan — Clouds | last aired 2026-10-31 06:05 | normal pick from 2026-11-01 18:05 | request from 2026-11-01 02:05
-WAIT Bruce Springsteen — Born in the U.S.A. | last aired 2026-10-31 19:23 | normal pick from 2026-11-02 07:23 | request from 2026-11-01 15:23
+WAIT Bruce Springsteen — Born in the U.S.A. | last aired 2026-10-31 19:24 | normal pick from 2026-11-02 07:24 | request from 2026-11-01 15:24
 WAIT Bruce Springsteen — Born to Run | last aired 2026-10-30 22:03 | normal pick from 2026-11-01 10:03 | request now
 OK   Bruce Springsteen — No Surrender | last aired 2026-10-24 13:36 | normal pick now | request now
 OK   Bruce Springsteen — Streets of Philadelphia  (Single Edit) | last aired 2026-10-22 18:40 | normal pick now | request now

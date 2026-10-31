@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Sat Oct 31, 1:05 PM PDT (20:05 UTC)). Times in UTC.
+Track status, artists filed under JO (built Sat Oct 31, 2:05 PM PDT (21:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-10-30 22:18 | normal pick from 2026-11-01 22:18 | request from 2026-11-01 22:18
@@ -26,7 +26,7 @@ WAIT John Denver — Take Me Home, Country Roads | last aired 2026-10-30 20:39 |
 WAIT John Lee Hooker — Boom Boom | last aired 2026-10-30 16:48 | normal pick from 2026-11-01 04:48 | request now
 OK   John Lee Hooker — I Cover the Waterfront | last aired 2026-10-30 06:44 | normal pick now | request now
 OK   John Lennon — Give Peace A Chance (Remastered 2010) | last aired 2026-10-30 02:14 | normal pick now | request now
-WAIT John Lennon — Imagine (Remastered 2010) | last aired 2026-10-31 00:38 | normal pick from 2026-11-01 12:38 | request from 2026-10-31 20:38
+WAIT John Lennon — Imagine (Remastered 2010) | last aired 2026-10-31 00:38 | normal pick from 2026-11-01 12:38 | request now
 OK   John Lennon — Instant Karma! (We All Shine On) (Ultimate Mix) | last aired 2026-10-25 23:31 | normal pick now | request now
 OK   John Lennon — Watching The Wheels (Remastered 2010) | last aired 2026-10-30 06:40 | normal pick now | request now
 WAIT John Mayer — New Light | last aired 2026-10-31 15:07 | normal pick from 2026-11-02 03:07 | request from 2026-11-01 11:07
@@ -44,7 +44,7 @@ OK   Joker Out — Novi Val | last aired 2026-10-26 21:11 | normal pick now | re
 OK   Jon Hopkins — Open Eye Signal (Remaster 2023) | last aired 2026-10-29 02:27 | normal pick now | request now
 OK   Jon Hopkins — Small Memory | last aired 2026-10-23 22:58 | normal pick now | request now
 OK   Jonathan Parecki — Senbonzakura (Hatsune Miku) | last aired 2026-09-02 17:36 | normal pick now | request now
-WAIT Joni Mitchell — A Case of You | last aired 2026-10-31 18:02 | normal pick from 2026-11-02 06:02 | request from 2026-11-01 14:02
+WAIT Joni Mitchell — A Case of You | last aired 2026-10-31 18:05 | normal pick from 2026-11-02 18:05 | request from 2026-11-02 18:05
 OK   Joni Mitchell — At Last (LP Version) | last aired 2026-10-20 11:54 | normal pick now | request now
 OK   Joni Mitchell — River | last aired 2026-10-30 02:10 | normal pick now | request now
 WAIT Jorge Ben Jor — Mas, Que Nada! | last aired 2026-10-31 15:48 | normal pick from 2026-11-02 15:48 | request from 2026-11-02 15:48

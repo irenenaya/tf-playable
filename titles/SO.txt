@@ -1,4 +1,4 @@
-Track status, song titles filed under SO (built Sat Oct 31, 1:05 PM PDT (20:05 UTC)). Times in UTC.
+Track status, song titles filed under SO (built Sat Oct 31, 2:05 PM PDT (21:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   So Alive — Love and Rockets | last aired 2026-10-29 12:34 | normal pick now | request now
@@ -31,4 +31,4 @@ OK   Soundtrack to Me and You — Swan Dive | last aired 2026-10-26 18:30 | norm
 OK   Sour Flower — Lianne La Havas | last aired 2026-10-29 18:21 | normal pick now | request now
 WAIT Sour Times — Portishead | last aired 2026-10-31 14:46 | normal pick from 2026-11-02 02:46 | request from 2026-11-01 10:46
 OK   Sous le ciel de Paris — Zaz | last aired 2026-10-28 13:49 | normal pick now | request now
-WAIT The Sound of Silence  (Acoustic Version) — Simon & Garfunkel | last aired 2026-10-31 00:34 | normal pick from 2026-11-01 12:34 | request from 2026-10-31 20:34
+WAIT The Sound of Silence  (Acoustic Version) — Simon & Garfunkel | last aired 2026-10-31 00:34 | normal pick from 2026-11-01 12:34 | request now

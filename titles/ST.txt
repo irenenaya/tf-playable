@@ -1,4 +1,4 @@
-Track status, song titles filed under ST (built Sat Oct 31, 1:05 PM PDT (20:05 UTC)). Times in UTC.
+Track status, song titles filed under ST (built Sat Oct 31, 2:05 PM PDT (21:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   S.T.A.Y. — Hans Zimmer | last aired 2026-10-28 02:27 | normal pick now | request now
@@ -13,7 +13,7 @@ OK   Stardust — Bobby Hutcherson | last aired 2026-10-26 03:52 | normal pick n
 WAIT Starman  (2012 Remaster) — David Bowie | last aired 2026-10-30 12:29 | normal pick from 2026-11-01 00:29 | request now
 OK   Starry Night — Peggy Gou | last aired 2026-10-07 15:13 | normal pick now | request now
 OK   Start Shootin' — Little People | last aired 2026-10-29 21:58 | normal pick now | request now
-WAIT Starálfur — Sigur Rós | last aired 2026-10-30 08:15 | normal pick from 2026-10-31 20:15 | request now
+OK   Starálfur — Sigur Rós | last aired 2026-10-30 08:15 | normal pick now | request now
 OK   Static on the Radio — Jim White | last aired 2026-10-25 22:41 | normal pick now | request now
 OK   Stay — Shakespears Sister | last aired 2026-10-26 07:35 | normal pick now | request now
 OK   Steal Away — Robbie Dupree | last aired 2026-10-28 19:07 | normal pick now | request now
@@ -29,7 +29,7 @@ OK   Straight Outta Vagina (feat. Desi Mo & Leikeli47) — Pussy Riot | last air
 OK   Straight Up (Single Version) — Paula Abdul | last aired 2026-10-24 16:25 | normal pick now | request now
 OK   Strange — Patsy Cline | last aired 2026-10-28 22:28 | normal pick now | request now
 OK   Stranger in Moscow — Michael Jackson | last aired 2026-10-29 12:39 | normal pick now | request now
-WAIT Stranger On The Shore — Acker Bilk | last aired 2026-10-31 19:28 | normal pick from 2026-11-02 07:28 | request from 2026-11-01 15:28
+WAIT Stranger On The Shore — Acker Bilk | last aired 2026-10-31 19:29 | normal pick from 2026-11-02 07:29 | request from 2026-11-01 15:29
 OK   Stratosfear (Digital Remastered) — Tangerine Dream | last aired 2026-10-28 06:58 | normal pick now | request now
 OK   Strawberry Fields Forever — The Beatles | last aired 2026-10-25 14:15 | normal pick now | request now
 OK   Strawberry Letter 23 (Album Version) — The Brothers Johnson | last aired 2026-10-24 12:20 | normal pick now | request now
@@ -39,5 +39,5 @@ OK   Streets of Philadelphia  (Single Edit) — Bruce Springsteen | last aired 2
 OK   Stressed Out — twenty one pilots | last aired 2026-10-26 12:18 | normal pick now | request now
 OK   Strings of Light — Yussef Kamaal | last aired 2026-10-23 17:23 | normal pick now | request now
 OK   Stripsearch — Faith No More | last aired 2026-10-20 19:48 | normal pick now | request now
-WAIT Stuck In The Middle With You — Stealers Wheel | last aired 2026-10-31 17:04 | normal pick from 2026-11-02 05:04 | request from 2026-11-01 13:04
+WAIT Stuck In The Middle With You — Stealers Wheel | last aired 2026-10-31 17:05 | normal pick from 2026-11-02 05:05 | request from 2026-11-01 13:05
 OK   Stupid Cupid — Red Velvet | last aired 2026-10-26 18:23 | normal pick now | request now

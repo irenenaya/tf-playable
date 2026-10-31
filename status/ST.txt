@@ -1,4 +1,4 @@
-Track status, artists filed under ST (built Sat Oct 31, 1:05 PM PDT (20:05 UTC)). Times in UTC.
+Track status, artists filed under ST (built Sat Oct 31, 2:05 PM PDT (21:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   St Germain — Rose rouge | last aired 2026-10-29 13:34 | normal pick now | request now
@@ -7,7 +7,7 @@ OK   Stan Getz — Corcovado (Quiet Nights Of Quiet Stars) | last aired 2026-10-
 OK   Stardust — Music Sounds Better With You | last aired 2026-10-29 18:10 | normal pick now | request now
 WAIT Stars of the Lid — Requiem for Dying Mothers, Pt. 1 | last aired 2026-10-31 07:04 | normal pick from 2026-11-02 07:04 | request from 2026-11-02 07:04
 WAIT Stars of the Lid — Requiem for Dying Mothers, Pt. 2 | last aired 2026-10-31 06:22 | normal pick from 2026-11-02 06:22 | request from 2026-11-02 06:22
-WAIT Stealers Wheel — Stuck In The Middle With You | last aired 2026-10-31 17:04 | normal pick from 2026-11-02 05:04 | request from 2026-11-01 13:04
+WAIT Stealers Wheel — Stuck In The Middle With You | last aired 2026-10-31 17:05 | normal pick from 2026-11-02 05:05 | request from 2026-11-01 13:05
 WAIT Steely Dan — Almost Gothic (Album Version) | last aired 2026-10-30 13:48 | normal pick from 2026-11-01 01:48 | request now
 OK   Steely Dan — Babylon Sisters | last aired 2026-10-29 13:29 | normal pick now | request now
 OK   Steely Dan — Home At Last | last aired 2026-10-29 19:53 | normal pick now | request now
@@ -25,7 +25,7 @@ OK   Stevie Wonder — Golden Lady | last aired 2026-10-29 13:19 | normal pick n
 OK   Stevie Wonder — Happy Birthday | last aired 2026-09-29 18:47 | normal pick now | request now
 WAIT Stevie Wonder — Higher Ground (Album Version) | last aired 2026-10-30 17:13 | normal pick from 2026-11-01 05:13 | request now
 WAIT Stevie Wonder — I Wish | last aired 2026-10-30 16:59 | normal pick from 2026-11-01 04:59 | request now
-WAIT Stevie Wonder — Isn't She Lovely | last aired 2026-10-31 00:27 | normal pick from 2026-11-01 12:27 | request from 2026-10-31 20:27
+WAIT Stevie Wonder — Isn't She Lovely | last aired 2026-10-31 00:27 | normal pick from 2026-11-01 12:27 | request now
 OK   Stevie Wonder — Living For The City (Album Version) | last aired 2026-10-24 12:36 | normal pick now | request now
 OK   Stevie Wonder — Master Blaster (Jammin') | last aired 2026-10-29 22:30 | normal pick now | request now
 OK   Stevie Wonder — Sir Duke | last aired 2026-10-27 13:21 | normal pick now | request now
@@ -34,7 +34,7 @@ WAIT Stevie Wonder — Superstition (Album Version) | last aired 2026-10-30 17:0
 OK   Stevie Wonder — You Haven't Done Nothin' | last aired 2026-10-26 12:43 | normal pick now | request now
 OK   Still Woozy — Get Down | last aired 2026-10-29 09:34 | normal pick now | request now
 OK   Sting — Desert Rose (Album Version) | last aired 2026-10-29 14:17 | normal pick now | request now
-WAIT Sting — Fields Of Gold (My Songs Version) | last aired 2026-10-31 00:59 | normal pick from 2026-11-01 12:59 | request from 2026-10-31 20:59
+WAIT Sting — Fields Of Gold (My Songs Version) | last aired 2026-10-31 00:59 | normal pick from 2026-11-01 12:59 | request now
 WAIT Sting — Fragile | last aired 2026-10-31 15:15 | normal pick from 2026-11-02 03:15 | request from 2026-11-01 11:15
 OK   Sting — If You Love Somebody Set Them Free (Single Edit) | last aired 2026-10-29 17:11 | normal pick now | request now
 OK   Sting — Shape Of My Heart (My Songs Version) | last aired 2026-10-29 22:36 | normal pick now | request now
@@ -42,7 +42,7 @@ OK   Stratovarius — Black Diamond | last aired 2026-10-29 22:47 | normal pick 
 OK   Studio Group — As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired 2026-08-08 23:18 | normal pick now | request now
 OK   Studio Group — Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired 2026-08-31 18:46 | normal pick now | request now
 OK   Styx — Mr. Roboto | last aired 2026-10-26 12:12 | normal pick now | request now
-WAIT The Staple Singers — I'll Take You There | last aired 2026-10-31 16:59 | normal pick from 2026-11-02 04:59 | request from 2026-11-01 12:59
+WAIT The Staple Singers — I'll Take You There | last aired 2026-10-31 17:00 | normal pick from 2026-11-02 17:00 | request from 2026-11-02 17:00
 OK   The Strokes — Last Nite | last aired 2026-10-29 22:53 | normal pick now | request now
 OK   The Strokes — Lonely in the Future | last aired 2026-10-22 03:04 | normal pick now | request now
 WAIT The Strokes — Ode To The Mets | last aired 2026-10-30 10:58 | normal pick from 2026-10-31 22:58 | request now
