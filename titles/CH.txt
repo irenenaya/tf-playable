@@ -1,8 +1,8 @@
-Track status, song titles filed under CH (built Fri Oct 30, 8:05 PM PDT (03:05 UTC Sat)). Times in UTC.
+Track status, song titles filed under CH (built Fri Oct 30, 10:05 PM PDT (05:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Cha Cha Cha — Käärijä | last aired 2026-10-29 16:13 | normal pick from 2026-10-31 16:13 | request from 2026-10-31 16:13
-OK   Chaiyya Chaiyya — Sukhwinder Singh | last aired 2026-10-22 10:14 | normal pick now | request now
+WAIT Chaiyya Chaiyya — Sukhwinder Singh | last aired 2026-10-31 03:21 | normal pick from 2026-11-01 15:21 | request from 2026-10-31 23:21
 WAIT Chamber Of Reflection — Mac DeMarco | last aired 2026-10-29 18:54 | normal pick from 2026-10-31 18:54 | request from 2026-10-31 18:54
 OK   Chameleon — Herbie Hancock | last aired 2026-10-28 16:21 | normal pick now | request now
 WAIT Chan Chan — Buena Vista Social Club | last aired 2026-10-29 10:47 | normal pick from 2026-10-31 10:47 | request from 2026-10-31 10:47
@@ -16,7 +16,7 @@ WAIT Cherish the Day  (Remastered Version) — Sade | last aired 2026-10-30 06:0
 OK   Cherry Twist — The Crystal Method | last aired 2026-10-24 12:09 | normal pick now | request now
 OK   Cherry Waves — Deftones | last aired 2026-10-28 22:00 | normal pick now | request now
 OK   Cherry Wine  (Live) — Hozier | last aired 2026-10-21 19:38 | normal pick now | request now
-WAIT Cherry-coloured Funk — Cocteau Twins | last aired 2026-10-30 23:38 | normal pick from 2026-11-01 11:38 | request from 2026-10-31 19:38
+WAIT Cherry-coloured Funk — Cocteau Twins | last aired 2026-10-30 23:39 | normal pick from 2026-11-01 23:39 | request from 2026-11-01 23:39
 OK   Chewbaca — Supernova | last aired 2026-10-06 14:30 | normal pick now | request now
 OK   Child in Time (Special Version) — Rock appetizers | last aired 2026-09-22 21:18 | normal pick now | request now
 OK   Children of No Horizon — Tom Konkle | last aired 2026-09-17 19:18 | normal pick now | request now

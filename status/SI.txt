@@ -1,17 +1,17 @@
-Track status, artists filed under SI (built Fri Oct 30, 8:05 PM PDT (03:05 UTC Sat)). Times in UTC.
+Track status, artists filed under SI (built Fri Oct 30, 10:05 PM PDT (05:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Siddhartha — 00:00 | last aired 2026-10-31 02:31 | normal pick from 2026-11-01 14:31 | request from 2026-10-31 22:31
+WAIT Siddhartha — 00:00 | last aired 2026-10-31 02:32 | normal pick from 2026-11-01 14:32 | request from 2026-10-31 22:32
 OK   Side-A — Only You (There Will Never Be Another) | last aired 2026-10-26 03:22 | normal pick now | request now
-OK   Sigur Rós — Hoppípolla | last aired 2026-10-26 01:54 | normal pick now | request now
-WAIT Sigur Rós — Starálfur | last aired 2026-10-30 08:15 | normal pick from 2026-10-31 20:15 | request from 2026-10-31 04:15
+WAIT Sigur Rós — Hoppípolla | last aired 2026-10-31 04:07 | normal pick from 2026-11-02 04:07 | request from 2026-11-02 04:07
+WAIT Sigur Rós — Starálfur | last aired 2026-10-30 08:15 | normal pick from 2026-10-31 20:15 | request now
 WAIT Sigur Rós — Sé Lest | last aired 2026-10-30 23:23 | normal pick from 2026-11-01 11:23 | request from 2026-10-31 19:23
 OK   Sigur Rós — Untitled #3  (Samskeyti) | last aired 2026-10-25 07:35 | normal pick now | request now
 OK   Silverchair — Ana's Song (Open Fire) | last aired 2026-10-28 21:28 | normal pick now | request now
 OK   Silverchair — Anthem for the Year 2000 (Album Version) | last aired 2026-10-27 13:57 | normal pick now | request now
 WAIT Simon & Garfunkel — Scarborough Fair (Live at Central Park, New York, NY - September 19, 1981) | last aired 2026-10-31 01:21 | normal pick from 2026-11-01 13:21 | request from 2026-10-31 21:21
 WAIT Simon & Garfunkel — The Boxer | last aired 2026-10-30 22:41 | normal pick from 2026-11-01 22:41 | request from 2026-11-01 22:41
-WAIT Simon & Garfunkel — The Sound of Silence  (Acoustic Version) | last aired 2026-10-31 00:33 | normal pick from 2026-11-01 12:33 | request from 2026-10-31 20:33
+WAIT Simon & Garfunkel — The Sound of Silence  (Acoustic Version) | last aired 2026-10-31 00:34 | normal pick from 2026-11-01 12:34 | request from 2026-10-31 20:34
 WAIT Simon Trpčeski — Suite bergamasque, CD 82, L. 75: III. Clair de lune | last aired 2026-10-29 06:59 | normal pick from 2026-10-31 06:59 | request from 2026-10-31 06:59
 OK   Simple Minds — Alive And Kicking (Remastered 2002) | last aired 2026-10-27 21:52 | normal pick now | request now
 OK   Simple Minds — Don't You (Forget About Me) | last aired 2026-10-29 00:23 | normal pick now | request now

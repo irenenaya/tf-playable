@@ -1,9 +1,9 @@
-Track status, song titles filed under DA (built Fri Oct 30, 8:05 PM PDT (03:05 UTC Sat)). Times in UTC.
+Track status, song titles filed under DA (built Fri Oct 30, 10:05 PM PDT (05:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   D.A.N.C.E. — Justice | last aired 2026-10-28 10:01 | normal pick now | request now
 OK   D.A.V.E. — Ben Allison | last aired 2026-10-28 22:54 | normal pick now | request now
-WAIT Damascus (feat. Omar Souleyman and Yasiin Bey) — Gorillaz | last aired 2026-10-31 02:35 | normal pick from 2026-11-01 14:35 | request from 2026-10-31 22:35
+WAIT Damascus (feat. Omar Souleyman and Yasiin Bey) — Gorillaz | last aired 2026-10-31 02:38 | normal pick from 2026-11-01 14:38 | request from 2026-10-31 22:38
 OK   Damn Right, I've Got the Blues — Buddy Guy | last aired 2026-10-24 09:15 | normal pick now | request now
 WAIT Dance Me to the End of Love — Leonard Cohen | last aired 2026-10-29 21:48 | normal pick from 2026-10-31 09:48 | request now
 OK   Dance The Pain Away — Haute & Freddy | last aired 2026-10-26 19:46 | normal pick now | request now
@@ -14,7 +14,7 @@ OK   Dancing With Myself — The Vampire Lestat | last aired 2026-10-18 03:44 | 
 OK   Danger Zone (From "Top Gun" Original Soundtrack) — Kenny Loggins | last aired 2026-10-23 13:19 | normal pick now | request now
 OK   Dansevise — Grethe & Jørgen Ingmann | last aired 2026-10-27 22:51 | normal pick now | request now
 OK   Darkest Dreaming — David Sylvian | last aired 2026-10-26 20:24 | normal pick now | request now
-WAIT Das Model — Kraftwerk | last aired 2026-10-30 08:00 | normal pick from 2026-10-31 20:00 | request from 2026-10-31 04:00
+WAIT Das Model — Kraftwerk | last aired 2026-10-30 08:00 | normal pick from 2026-10-31 20:00 | request now
 OK   Day Dreaming (Album Version) — Aretha Franklin | last aired 2026-10-26 13:08 | normal pick now | request now
 OK   Daydream In Blue — I Monster | last aired 2026-10-26 06:36 | normal pick now | request now
 OK   daydreams — Hard Life | last aired 2026-10-27 12:44 | normal pick now | request now

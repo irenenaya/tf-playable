@@ -1,18 +1,18 @@
-Track status, artists filed under FL (built Fri Oct 30, 8:05 PM PDT (03:05 UTC Sat)). Times in UTC.
+Track status, artists filed under FL (built Fri Oct 30, 10:05 PM PDT (05:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Fleet Foxes — Helplessness Blues | last aired 2026-10-31 02:21 | normal pick from 2026-11-02 02:21 | request from 2026-11-02 02:21
+WAIT Fleet Foxes — Helplessness Blues | last aired 2026-10-31 02:22 | normal pick from 2026-11-02 02:22 | request from 2026-11-02 02:22
 WAIT Fleet Foxes — Mykonos | last aired 2026-10-30 18:21 | normal pick from 2026-11-01 18:21 | request from 2026-11-01 18:21
 OK   Fleet Foxes — White Winter Hymnal | last aired 2026-10-16 12:06 | normal pick now | request now
-WAIT Fleetwood Mac — Albatross | last aired 2026-10-29 17:04 | normal pick from 2026-10-31 05:04 | request now
+OK   Fleetwood Mac — Albatross | last aired 2026-10-29 17:04 | normal pick now | request now
 OK   Fleetwood Mac — Dreams  (2001 Remaster) | last aired 2026-10-21 04:36 | normal pick now | request now
 WAIT Fleetwood Mac — Dreams  (2004 Remaster) | last aired 2026-10-30 03:23 | normal pick from 2026-10-31 15:23 | request now
 WAIT Fleetwood Mac — Go Your Own Way  (2004 Remaster) | last aired 2026-10-30 22:25 | normal pick from 2026-11-01 10:25 | request from 2026-10-31 18:25
 WAIT Fleetwood Mac — I Know I'm Not Wrong | last aired 2026-10-30 04:06 | normal pick from 2026-10-31 16:06 | request now
-OK   Fleetwood Mac — Sara | last aired 2026-10-28 15:13 | normal pick now | request now
+WAIT Fleetwood Mac — Sara | last aired 2026-10-31 03:47 | normal pick from 2026-11-01 15:47 | request from 2026-10-31 23:47
 WAIT Fleetwood Mac — That's All for Everyone | last aired 2026-10-30 09:39 | normal pick from 2026-10-31 21:39 | request from 2026-10-31 05:39
 OK   Fleetwood Mac — The Ledge | last aired 2026-10-23 22:55 | normal pick now | request now
 WAIT Fleetwood Mac — Tusk | last aired 2026-10-30 16:55 | normal pick from 2026-11-01 04:55 | request from 2026-10-31 12:55
-OK   Floating Points — Birth4000 | last aired 2026-10-28 15:19 | normal pick now | request now
-OK   Floating Points — Last Bloom | last aired 2026-10-29 00:45 | normal pick now | request now
+WAIT Floating Points — Birth4000 | last aired 2026-10-31 04:12 | normal pick from 2026-11-01 16:12 | request from 2026-11-01 00:12
+WAIT Floating Points — Last Bloom | last aired 2026-10-31 03:41 | normal pick from 2026-11-01 15:41 | request from 2026-10-31 23:41
 WAIT Floating Points — LesAlpx | last aired 2026-10-30 16:53 | normal pick from 2026-11-01 04:53 | request from 2026-10-31 12:53

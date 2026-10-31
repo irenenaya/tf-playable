@@ -1,12 +1,12 @@
-Track status, artists filed under DA (built Fri Oct 30, 8:05 PM PDT (03:05 UTC Sat)). Times in UTC.
+Track status, artists filed under DA (built Fri Oct 30, 10:05 PM PDT (05:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   D'Angelo — Untitled (How Does It Feel) | last aired 2026-10-28 16:14 | normal pick now | request now
-OK   Daft Punk — Around the World | last aired 2026-10-21 17:19 | normal pick now | request now
+WAIT Daft Punk — Around the World | last aired 2026-10-31 03:09 | normal pick from 2026-11-01 15:09 | request from 2026-10-31 23:09
 OK   Daft Punk — Face to Face | last aired 2026-10-22 20:54 | normal pick now | request now
 WAIT Daft Punk feat. Julian Casablancas — Instant Crush (feat. Julian Casablancas) | last aired 2026-10-30 02:57 | normal pick from 2026-10-31 14:57 | request now
 OK   Daft Punk — Harder, Better, Faster, Stronger | last aired 2026-10-22 00:31 | normal pick now | request now
-WAIT Daft Punk — One More Time | last aired 2026-10-29 16:19 | normal pick from 2026-10-31 04:19 | request now
+OK   Daft Punk — One More Time | last aired 2026-10-29 16:19 | normal pick now | request now
 OK   Daft Punk — Something About Us | last aired 2026-10-25 08:32 | normal pick now | request now
 OK   Daft Punk — Touch It / Technologic | last aired 2026-10-25 23:02 | normal pick now | request now
 OK   Daft Punk — Voyager | last aired 2026-10-27 23:14 | normal pick now | request now
@@ -21,7 +21,7 @@ WAIT Darude — Sandstorm | last aired 2026-10-30 02:00 | normal pick from 2026-
 OK   Daryl Hall & John Oates — I Can't Go For That (No Can Do) (Remastered 2003) | last aired 2026-10-28 16:47 | normal pick now | request now
 OK   Dasha — Austin (Boots Stop Workin') | last aired 2026-10-25 15:29 | normal pick now | request now
 OK   Database — Vice II | last aired 2026-10-09 11:05 | normal pick now | request now
-WAIT David Bowie — "Heroes" (2017 Remaster) | last aired 2026-10-30 23:41 | normal pick from 2026-11-01 11:41 | request from 2026-10-31 19:41
+WAIT David Bowie — "Heroes" (2017 Remaster) | last aired 2026-10-30 23:45 | normal pick from 2026-11-01 11:45 | request from 2026-10-31 19:45
 OK   David Bowie — Breaking Glass  (2017 Remaster) | last aired 2026-10-18 12:22 | normal pick now | request now
 OK   David Bowie — Dancing in the Street (2002 Remaster) | last aired 2026-10-21 20:00 | normal pick now | request now
 OK   David Bowie — Dollar Days | last aired 2026-09-30 17:09 | normal pick now | request now

@@ -1,4 +1,4 @@
-Track status, artists filed under CH (built Fri Oct 30, 8:05 PM PDT (03:05 UTC Sat)). Times in UTC.
+Track status, artists filed under CH (built Fri Oct 30, 10:05 PM PDT (05:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Chaka Khan — What Cha' Gonna Do for Me | last aired 2026-10-26 23:06 | normal pick now | request now
@@ -12,7 +12,7 @@ OK   Charles Mingus — Medley: Mode D - Trio And Group Dancers / Mode E - Singl
 OK   Charles Mingus — Track A - Solo Dancer (Stop! Look! And Listen, Sinner Jim Whitney!) (Album Version) | last aired 2026-10-25 06:28 | normal pick now | request now
 OK   Charles Wright & The Watts 103rd Street Rhythm Band — Express Yourself (Album Version) | last aired 2026-10-26 13:57 | normal pick now | request now
 OK   Charli XCX — 360 | last aired 2026-10-23 19:42 | normal pick now | request now
-OK   Charly García — Demoliendo Hoteles (Live) | last aired 2026-10-24 11:11 | normal pick now | request now
+WAIT Charly García — Demoliendo Hoteles (Live) | last aired 2026-10-31 03:12 | normal pick from 2026-11-01 15:12 | request from 2026-10-31 23:12
 WAIT Chavela Vargas — La llorona | last aired 2026-10-30 13:28 | normal pick from 2026-11-01 01:28 | request from 2026-10-31 09:28
 WAIT Chet Atkins — Why Worry (Album Version) | last aired 2026-10-30 05:31 | normal pick from 2026-10-31 17:31 | request now
 OK   Chet Baker — Almost Blue | last aired 2026-10-28 15:58 | normal pick now | request now
@@ -34,7 +34,7 @@ OK   Christian Löffler — Lid | last aired 2026-10-27 01:54 | normal pick now 
 WAIT Christina Aguilera — Genie In a Bottle | last aired 2026-10-30 14:20 | normal pick from 2026-11-01 02:20 | request from 2026-10-31 10:20
 WAIT Christopher Cross — I Really Don't Know Anymore  (2019 Remaster) | last aired 2026-10-31 01:35 | normal pick from 2026-11-01 13:35 | request from 2026-10-31 21:35
 OK   Christopher Cross — Ride Like the Wind (Album Version) | last aired 2026-10-25 03:40 | normal pick now | request now
-WAIT Christopher Cross — Sailing | last aired 2026-10-31 01:11 | normal pick from 2026-11-01 13:11 | request from 2026-10-31 21:11
+WAIT Christopher Cross — Sailing | last aired 2026-10-31 01:13 | normal pick from 2026-11-01 13:13 | request from 2026-10-31 21:13
 OK   Chuck Berry — Johnny B. Goode | last aired 2026-10-24 13:19 | normal pick now | request now
 WAIT Chuck Mangione — Feels So Good | last aired 2026-10-30 05:38 | normal pick from 2026-10-31 17:38 | request now
 OK   CHVRCHES — Clearest Blue | last aired 2026-10-25 00:49 | normal pick now | request now

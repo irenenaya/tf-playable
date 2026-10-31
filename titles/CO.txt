@@ -1,4 +1,4 @@
-Track status, song titles filed under CO (built Fri Oct 30, 8:05 PM PDT (03:05 UTC Sat)). Times in UTC.
+Track status, song titles filed under CO (built Fri Oct 30, 10:05 PM PDT (05:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Coat of Many Colors — Dolly Parton | last aired 2026-10-22 22:07 | normal pick now | request now
@@ -6,7 +6,7 @@ OK   Coffee Homeground — Kate Bush | last aired 2026-10-27 21:43 | normal pick
 OK   Colorful Array — Neuro-sama | last aired 2026-10-18 01:42 | normal pick now | request now
 OK   Come On Get Higher — Matt Nathanson | last aired 2026-10-26 14:17 | normal pick now | request now
 OK   Come Tomorrow (Duet With Barry Gibb (Album Version)) — Various Interprets | last aired 2026-10-26 03:00 | normal pick now | request now
-WAIT Comfortably Numb — Pink Floyd | last aired 2026-10-29 15:09 | normal pick from 2026-10-31 03:09 | request now
+OK   Comfortably Numb — Pink Floyd | last aired 2026-10-29 15:09 | normal pick now | request now
 OK   Coming Back to Life — Pink Floyd | last aired 2026-10-25 09:20 | normal pick now | request now
 OK   Coming Down from Love — Bobby Caldwell | last aired 2026-10-26 13:35 | normal pick now | request now
 OK   Coming Home — Leon Bridges | last aired 2026-10-28 13:40 | normal pick now | request now
@@ -28,4 +28,4 @@ OK   Cotton Fields — Creedence Clearwater Revival | last aired 2026-10-24 13:3
 OK   Counting Sheep — Brijean | last aired 2026-10-27 13:31 | normal pick now | request now
 OK   Cowboy Nudes — Geese | last aired 2026-10-20 19:31 | normal pick now | request now
 OK   Coyote Dance — Robbie Robertson | last aired 2026-10-28 19:13 | normal pick now | request now
-WAIT The Colour Of Spring — Mark Hollis | last aired 2026-10-30 07:27 | normal pick from 2026-10-31 19:27 | request from 2026-10-31 03:27
+WAIT The Colour Of Spring — Mark Hollis | last aired 2026-10-30 07:27 | normal pick from 2026-10-31 19:27 | request now
