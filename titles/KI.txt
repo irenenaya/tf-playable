@@ -1,4 +1,4 @@
-Track status, song titles filed under KI (built Sat Oct 31, 10:05 AM PDT (17:05 UTC)). Times in UTC.
+Track status, song titles filed under KI (built Sat Oct 31, 11:05 AM PDT (18:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Kiara — Bonobo | last aired 2026-10-31 16:18 | normal pick from 2026-11-02 04:18 | request from 2026-11-01 12:18
@@ -11,5 +11,5 @@ OK   Killing Me Softly With His Song — Roberta Flack | last aired 2026-10-28 2
 OK   Kimi Wo Nosete (Castle in the Sky) — AUN J-Classic Orchestra | last aired 2026-10-15 17:04 | normal pick now | request now
 OK   Kinky Love — Pale Saints | last aired 2026-10-29 01:25 | normal pick now | request now
 WAIT Kiss (LP Version) — Prince | last aired 2026-10-29 19:28 | normal pick from 2026-10-31 19:28 | request from 2026-10-31 19:28
-WAIT Kiss of Life (Remastered Version) — Sade | last aired 2026-10-30 05:48 | normal pick from 2026-10-31 17:48 | request now
+OK   Kiss of Life (Remastered Version) — Sade | last aired 2026-10-30 05:48 | normal pick now | request now
 OK   The Killing Moon — Echo And The Bunnymen | last aired 2026-10-26 04:42 | normal pick now | request now

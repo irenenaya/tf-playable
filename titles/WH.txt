@@ -1,15 +1,15 @@
-Track status, song titles filed under WH (built Sat Oct 31, 10:05 AM PDT (17:05 UTC)). Times in UTC.
+Track status, song titles filed under WH (built Sat Oct 31, 11:05 AM PDT (18:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Whistleblowers — Laibach | last aired 2026-10-26 00:33 | normal pick now | request now
 OK   Whales Tails — Cocteau Twins | last aired 2026-10-29 10:55 | normal pick now | request now
 OK   What a Fool Believes — The Doobie Brothers | last aired 2026-10-25 14:48 | normal pick now | request now
 OK   What About Us — P!nk | last aired 2026-10-20 23:05 | normal pick now | request now
-OK   What Cha' Gonna Do for Me — Chaka Khan | last aired 2026-10-26 23:06 | normal pick now | request now
+WAIT What Cha' Gonna Do for Me — Chaka Khan | last aired 2026-10-31 17:50 | normal pick from 2026-11-02 05:50 | request from 2026-11-01 13:50
 WAIT What I'm Becoming — Cage The Elephant | last aired 2026-10-31 15:45 | normal pick from 2026-11-02 15:45 | request from 2026-11-02 15:45
 WAIT What Is Love (7" Mix) (Remastered 2025) (7" Mix / Remastered 2025) — Haddaway | last aired 2026-10-31 12:34 | normal pick from 2026-11-02 00:34 | request from 2026-11-01 08:34
 OK   What Is Love (Lynx & Pico Remix) — Haddaway | last aired 2026-10-26 15:51 | normal pick now | request now
-WAIT What Was I Made For? [From The Motion Picture "Barbie"] — Billie Eilish | last aired 2026-10-30 05:07 | normal pick from 2026-10-31 17:07 | request now
+OK   What Was I Made For? [From The Motion Picture "Barbie"] — Billie Eilish | last aired 2026-10-30 05:07 | normal pick now | request now
 OK   What You Won't Do for Love — Bobby Caldwell | last aired 2026-10-28 04:00 | normal pick now | request now
 WAIT What's Going On — Marvin Gaye | last aired 2026-10-30 07:31 | normal pick from 2026-10-31 19:31 | request now
 OK   When Did Love Become A Test — Tom Konkle | last aired 2026-10-16 13:58 | normal pick now | request now
@@ -18,8 +18,8 @@ WAIT When I'm Gone — Albert Hammond | last aired 2026-10-31 05:50 | normal pic
 WAIT When Love Comes To Town (Album Version) — U2 | last aired 2026-10-30 11:07 | normal pick from 2026-10-31 23:07 | request now
 OK   when the party's over — Billie Eilish | last aired 2026-10-29 06:34 | normal pick now | request now
 OK   When the Sun Goes Down — The Jetzons | last aired 2026-10-02 05:22 | normal pick now | request now
-OK   When You Go (That's When You'll Know) — The Altons | last aired 2026-10-24 11:49 | normal pick now | request now
-WAIT Whenever Wherever Whatever (Remastered 2021) (Album Version) — Maxwell | last aired 2026-10-30 05:56 | normal pick from 2026-10-31 17:56 | request now
+WAIT When You Go (That's When You'll Know) — The Altons | last aired 2026-10-31 17:16 | normal pick from 2026-11-02 05:16 | request from 2026-11-01 13:16
+OK   Whenever Wherever Whatever (Remastered 2021) (Album Version) — Maxwell | last aired 2026-10-30 05:56 | normal pick now | request now
 OK   Where The Streets Have No Name (Remastered 2007) — U2 | last aired 2026-10-23 08:10 | normal pick now | request now
 OK   Where Were You (Live) — Jeff Beck | last aired 2026-10-28 09:00 | normal pick now | request now
 OK   Wherefore and Why (LP Version) — Gordon Lightfoot | last aired 2026-10-20 14:33 | normal pick now | request now
@@ -34,4 +34,4 @@ OK   Who's That What's That — Niko B | last aired 2026-10-28 00:48 | normal pi
 OK   Wholy Holy — Aretha Franklin | last aired 2026-10-25 17:04 | normal pick now | request now
 WAIT Wholy Holy — Marvin Gaye | last aired 2026-10-30 09:03 | normal pick from 2026-10-31 21:03 | request now
 OK   Why Me? — Big Bad Voodoo Daddy | last aired 2026-10-29 18:06 | normal pick now | request now
-WAIT Why Worry (Album Version) — Chet Atkins | last aired 2026-10-30 05:31 | normal pick from 2026-10-31 17:31 | request now
+OK   Why Worry (Album Version) — Chet Atkins | last aired 2026-10-30 05:31 | normal pick now | request now

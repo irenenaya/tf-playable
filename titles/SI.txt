@@ -1,4 +1,4 @@
-Track status, song titles filed under SI (built Sat Oct 31, 10:05 AM PDT (17:05 UTC)). Times in UTC.
+Track status, song titles filed under SI (built Sat Oct 31, 11:05 AM PDT (18:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   (Sittin' On) the Dock of the Bay — Otis Redding | last aired 2026-10-28 06:51 | normal pick now | request now
@@ -6,7 +6,7 @@ OK   Sifat Manusia — Nusantara Beat | last aired 2026-10-29 10:33 | normal pic
 OK   Silent Lucidity (Remastered 2003) — Queensrÿche | last aired 2026-10-28 00:05 | normal pick now | request now
 OK   Silver Lady — David Soul | last aired 2026-10-30 02:35 | normal pick now | request now
 OK   Simmer  (Acoustic) — Hayley Williams | last aired 2026-10-29 09:11 | normal pick now | request now
-OK   Simone (2023 Remaster) — Boz Scaggs | last aired 2026-10-23 12:26 | normal pick now | request now
+WAIT Simone (2023 Remaster) — Boz Scaggs | last aired 2026-10-31 17:07 | normal pick from 2026-11-02 05:07 | request from 2026-11-01 13:07
 WAIT Simply Beautiful — Al Green | last aired 2026-10-30 16:28 | normal pick from 2026-11-01 16:28 | request from 2026-11-01 16:28
 WAIT Sing Sing Sing (With A Swing) (live) — Benny Goodman | last aired 2026-10-30 15:31 | normal pick from 2026-11-01 03:31 | request now
 OK   Singin' in the Rain — Gene Kelly | last aired 2026-10-24 12:44 | normal pick now | request now

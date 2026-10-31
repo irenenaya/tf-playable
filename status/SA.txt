@@ -1,4 +1,4 @@
-Track status, artists filed under SA (built Sat Oct 31, 10:05 AM PDT (17:05 UTC)). Times in UTC.
+Track status, artists filed under SA (built Sat Oct 31, 11:05 AM PDT (18:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Sabaton — The Last Stand | last aired 2026-10-28 01:43 | normal pick now | request now
@@ -8,10 +8,10 @@ OK   Sabrina Carpenter — Taste | last aired 2026-10-19 09:48 | normal pick now
 WAIT Sade — By Your Side  (Remastered Version) | last aired 2026-10-30 13:07 | normal pick from 2026-11-01 01:07 | request now
 WAIT Sade — Cherish the Day  (Remastered Version) | last aired 2026-10-30 06:06 | normal pick from 2026-10-31 18:06 | request now
 WAIT Sade — Is It a Crime (Remastered Version) | last aired 2026-10-30 12:38 | normal pick from 2026-11-01 00:38 | request now
-WAIT Sade — Kiss of Life (Remastered Version) | last aired 2026-10-30 05:48 | normal pick from 2026-10-31 17:48 | request now
+OK   Sade — Kiss of Life (Remastered Version) | last aired 2026-10-30 05:48 | normal pick now | request now
 WAIT Sade — No Ordinary Love  (Remastered Version) | last aired 2026-10-31 05:38 | normal pick from 2026-11-01 17:38 | request from 2026-11-01 01:38
 WAIT Sade — Smooth Operator (2011 Remastered) (Remastered Version) | last aired 2026-10-30 19:59 | normal pick from 2026-11-01 07:59 | request now
-WAIT Sade — The Sweetest Taboo  (Remastered Version) | last aired 2026-10-30 05:27 | normal pick from 2026-10-31 17:27 | request now
+OK   Sade — The Sweetest Taboo  (Remastered Version) | last aired 2026-10-30 05:27 | normal pick now | request now
 OK   Sadie Jean — WYD Now? | last aired 2026-10-15 15:56 | normal pick now | request now
 WAIT Saindra — Mil Besos | last aired 2026-10-31 09:15 | normal pick from 2026-11-01 21:15 | request from 2026-11-01 05:15
 WAIT Saint Etienne — Only Love Can Break Your Heart | last aired 2026-10-30 20:08 | normal pick from 2026-11-01 20:08 | request from 2026-11-01 20:08
