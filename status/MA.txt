@@ -1,4 +1,4 @@
-Track status, artists filed under MA (built Sat Oct 31, 5:05 PM PDT (00:05 UTC Sun)). Times in UTC.
+Track status, artists filed under MA (built Sat Oct 31, 6:05 PM PDT (01:05 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   M/A/R/R/S — Pump Up The Volume (UK 12" Remix) | last aired 2026-10-27 19:21 | normal pick now | request now
@@ -41,13 +41,13 @@ OK   Marvin Gaye — Inner City Blues (Make Me Wanna Holler) | last aired 2026-1
 OK   Marvin Gaye — Let's Get It On | last aired 2026-10-29 12:45 | normal pick now | request now
 WAIT Marvin Gaye — Mercy Mercy Me (The Ecology) | last aired 2026-10-31 08:45 | normal pick from 2026-11-01 20:45 | request from 2026-11-01 04:45
 WAIT Marvin Gaye — Save The Children | last aired 2026-10-31 17:20 | normal pick from 2026-11-02 05:20 | request from 2026-11-01 13:20
-WAIT Marvin Gaye — Sexual Healing (Album Version) | last aired 2026-10-30 13:02 | normal pick from 2026-11-01 01:02 | request now
+OK   Marvin Gaye — Sexual Healing (Album Version) | last aired 2026-10-30 13:02 | normal pick now | request now
 OK   Marvin Gaye — What's Going On | last aired 2026-10-30 07:31 | normal pick now | request now
 OK   Marvin Gaye — Wholy Holy | last aired 2026-10-30 09:03 | normal pick now | request now
 WAIT Mary Halvorson — About Ghosts | last aired 2026-10-31 06:45 | normal pick from 2026-11-01 18:45 | request from 2026-11-01 02:45
-WAIT Masego — Tadow | last aired 2026-10-31 17:37 | normal pick from 2026-11-02 17:37 | request from 2026-11-02 17:37
+WAIT Masego — Tadow | last aired 2026-10-31 17:37 | normal pick from 2026-11-02 05:37 | request from 2026-11-01 13:37
 WAIT Massive Attack — Angel | last aired 2026-10-30 23:33 | normal pick from 2026-11-01 23:33 | request from 2026-11-01 23:33
-WAIT Massive Attack — Protection | last aired 2026-10-31 04:58 | normal pick from 2026-11-01 16:58 | request from 2026-11-01 00:58
+WAIT Massive Attack — Protection | last aired 2026-10-31 04:58 | normal pick from 2026-11-01 16:58 | request now
 WAIT Massive Attack — Teardrop | last aired 2026-10-31 13:54 | normal pick from 2026-11-02 13:54 | request from 2026-11-02 13:54
 WAIT Massive Attack — Unfinished Sympathy (2012 Mix/Master) | last aired 2026-10-31 01:43 | normal pick from 2026-11-01 13:43 | request now
 WAIT Matt Nathanson — All We Are | last aired 2026-10-31 08:41 | normal pick from 2026-11-01 20:41 | request from 2026-11-01 04:41
@@ -70,5 +70,5 @@ WAIT The Magnetic Fields — All My Little Words | last aired 2026-10-30 18:39 |
 OK   The Magnetic Fields — Born on a Train | last aired 2026-10-27 11:34 | normal pick now | request now
 OK   The Magnetic Fields — Papa Was a Rodeo | last aired 2026-10-25 00:31 | normal pick now | request now
 OK   The Magnetic Fields — The Book of Love | last aired 2026-10-29 06:12 | normal pick now | request now
-OK   The Mamas & The Papas — California Dreamin' (Single Version) | last aired 2026-10-22 14:06 | normal pick now | request now
+WAIT The Mamas & The Papas — California Dreamin' (Single Version) | last aired 2026-11-01 00:54 | normal pick from 2026-11-02 12:54 | request from 2026-11-01 20:54
 WAIT The Marías — Cariño | last aired 2026-10-30 20:45 | normal pick from 2026-11-01 08:45 | request now

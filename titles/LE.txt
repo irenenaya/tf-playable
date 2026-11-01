@@ -1,4 +1,4 @@
-Track status, song titles filed under LE (built Sat Oct 31, 5:05 PM PDT (00:05 UTC Sun)). Times in UTC.
+Track status, song titles filed under LE (built Sat Oct 31, 6:05 PM PDT (01:05 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Le Chant des oiseaux — La Fenice | last aired 2026-10-02 15:12 | normal pick now | request now
@@ -8,7 +8,7 @@ OK   Le Pianiste de Varsovie — Gilbert Bécaud | last aired 2026-10-30 10:04 |
 OK   Le vent nous portera — Sophie Hunger | last aired 2026-10-28 23:20 | normal pick now | request now
 OK   Lean On Me — Club Nouveau | last aired 2026-10-25 09:53 | normal pick now | request now
 OK   leavemealone — Fred again.. | last aired 2026-10-27 00:38 | normal pick now | request now
-OK   Leaves — Ben&Ben | last aired 2026-10-29 04:49 | normal pick now | request now
+WAIT Leaves — Ben&Ben | last aired 2026-11-01 00:14 | normal pick from 2026-11-02 12:14 | request from 2026-11-01 20:14
 OK   Lebanese Blonde — Thievery Corporation | last aired 2026-10-27 12:47 | normal pick now | request now
 WAIT Left of the Dial (Ed Stasium Mix) — The Replacements | last aired 2026-10-31 12:16 | normal pick from 2026-11-02 00:16 | request from 2026-11-01 08:16
 OK   Lemon — Kenshi Yonezu | last aired 2026-10-26 22:45 | normal pick now | request now
@@ -21,4 +21,4 @@ OK   Let's Get It On — Marvin Gaye | last aired 2026-10-29 12:45 | normal pick
 WAIT Let's Groove (Album Version) — Earth, Wind & Fire | last aired 2026-10-31 11:58 | normal pick from 2026-11-02 11:58 | request from 2026-11-02 11:58
 WAIT Let's Stay Together — Al Green | last aired 2026-10-31 17:13 | normal pick from 2026-11-02 17:13 | request from 2026-11-02 17:13
 OK   The Ledge — Fleetwood Mac | last aired 2026-10-23 22:55 | normal pick now | request now
-WAIT The Less I Know The Better — Tame Impala | last aired 2026-10-31 22:06 | normal pick from 2026-11-02 10:06 | request from 2026-11-01 18:06
+WAIT The Less I Know The Better — Tame Impala | last aired 2026-10-31 22:07 | normal pick from 2026-11-02 10:07 | request from 2026-11-01 18:07
