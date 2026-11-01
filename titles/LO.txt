@@ -1,4 +1,4 @@
-Track status, song titles filed under LO (built Sun Nov 1, 9:05 AM PST (17:05 UTC)). Times in UTC.
+Track status, song titles filed under LO (built Sun Nov 1, 11:05 AM PST (19:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   L-O-V-E — Nat King Cole | last aired 2026-10-27 15:54 | normal pick now | request now
@@ -13,10 +13,10 @@ OK   Loser — Beck | last aired 2026-10-28 11:23 | normal pick now | request no
 OK   Losing Faith — Tom Konkle | last aired 2026-09-12 01:59 | normal pick now | request now
 OK   Lost Coastlines — Okkervil River | last aired 2026-10-24 09:39 | normal pick now | request now
 OK   Lost in Music (1995 Remaster) (LP Version) — Sister Sledge | last aired 2026-10-27 21:47 | normal pick now | request now
-WAIT Lost In The Humming Air (2005 Digital Remaster) — Harold Budd | last aired 2026-10-31 21:30 | normal pick from 2026-11-02 09:30 | request from 2026-11-01 17:30
+WAIT Lost In The Humming Air (2005 Digital Remaster) — Harold Budd | last aired 2026-10-31 21:30 | normal pick from 2026-11-02 09:30 | request now
 OK   Lost on You — LP | last aired 2026-10-26 02:35 | normal pick now | request now
 OK   Louie Bag  (Live at Electric Lady) — YEBBA | last aired 2026-10-27 06:19 | normal pick now | request now
-WAIT Love and Happiness — Al Green | last aired 2026-10-31 05:45 | normal pick from 2026-11-01 17:45 | request now
+OK   Love and Happiness — Al Green | last aired 2026-10-31 05:45 | normal pick now | request now
 OK   Love I — The Green | last aired 2026-10-30 15:06 | normal pick now | request now
 OK   Love Is Blue (Album Version) — Paul Mauriat | last aired 2026-10-24 09:23 | normal pick now | request now
 OK   Love Kills — Freddie Mercury | last aired 2026-10-24 13:49 | normal pick now | request now
@@ -31,9 +31,9 @@ OK   Lovin' Every Minute of It — Loverboy | last aired 2026-10-29 12:50 | norm
 OK   Lovin' You — Minnie Riperton | last aired 2026-10-29 02:47 | normal pick now | request now
 OK   Loving Machine — TV Girl | last aired 2026-10-16 13:16 | normal pick now | request now
 OK   Low Frequency Thunderstorm Shield — Cognitron | last aired 2026-10-21 06:17 | normal pick now | request now
-WAIT Lowdown (2023 Remaster) — Boz Scaggs | last aired 2026-11-01 15:47 | normal pick from 2026-11-03 03:47 | request from 2026-11-02 11:47
+WAIT Lowdown (2023 Remaster) — Boz Scaggs | last aired 2026-11-01 15:48 | normal pick from 2026-11-03 03:48 | request from 2026-11-02 11:48
 WAIT The Lonesome Death of Hattie Carroll — Bob Dylan | last aired 2026-10-31 18:17 | normal pick from 2026-11-02 06:17 | request now
 OK   The Long Road — Mark Knopfler | last aired 2026-10-30 21:44 | normal pick now | request now
 WAIT The Look — Roxette | last aired 2026-10-31 16:23 | normal pick from 2026-11-02 04:23 | request now
-WAIT The Lord Will Make a Way — Al Green | last aired 2026-11-01 16:09 | normal pick from 2026-11-03 04:09 | request from 2026-11-02 12:09
+WAIT The Lord Will Make a Way — Al Green | last aired 2026-11-01 16:10 | normal pick from 2026-11-03 04:10 | request from 2026-11-02 12:10
 OK   The Love Song — Marilyn Manson | last aired 2026-10-25 20:53 | normal pick now | request now
