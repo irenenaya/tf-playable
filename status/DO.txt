@@ -1,12 +1,12 @@
-Track status, artists filed under DO (built Sun Nov 1, 1:55 PM PST (21:55 UTC)). Times in UTC.
+Track status, artists filed under DO (built Sun Nov 1, 2:05 PM PST (22:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Dolly Parton — 9 to 5 | last aired 2026-10-25 23:28 | normal pick now | request now
-WAIT Dolly Parton — Coat of Many Colors | last aired 2026-10-31 09:58 | normal pick from 2026-11-01 21:58 | request now
+OK   Dolly Parton — Coat of Many Colors | last aired 2026-10-31 09:58 | normal pick now | request now
 WAIT Dolly Parton — I Dreamed About Elvis | last aired 2026-10-31 19:54 | normal pick from 2026-11-02 07:54 | request now
 OK   Dolly Parton — I Will Always Love You | last aired 2026-10-30 13:52 | normal pick now | request now
 OK   Dolly Parton — Jolene | last aired 2026-10-30 21:59 | normal pick now | request now
-WAIT Don McLean — Vincent | last aired 2026-11-01 20:35 | normal pick from 2026-11-03 20:35 | request from 2026-11-03 20:35
+WAIT Don McLean — Vincent | last aired 2026-11-01 20:36 | normal pick from 2026-11-03 20:36 | request from 2026-11-03 20:36
 OK   Donald Fagen — The Nightfly | last aired 2026-10-13 07:57 | normal pick now | request now
 WAIT Donna De Lory — Praying For Love | last aired 2026-10-31 20:07 | normal pick from 2026-11-02 08:07 | request now
 WAIT Donna Summer — I Feel Love | last aired 2026-10-31 19:58 | normal pick from 2026-11-02 07:58 | request now
@@ -17,7 +17,7 @@ OK   Dorian Electra — Bizarre Love Triangle | last aired 2026-10-14 13:02 | no
 OK   Dorian Electra — Feel Good Inc. | last aired 2026-10-13 13:58 | normal pick now | request now
 OK   Dorian Electra — Hella Good | last aired 2026-10-25 13:14 | normal pick now | request now
 WAIT Dot Allison — Bleached By The Sun | last aired 2026-10-31 16:54 | normal pick from 2026-11-02 04:54 | request now
-WAIT The Doobie Brothers — What a Fool Believes | last aired 2026-11-01 05:25 | normal pick from 2026-11-03 05:25 | request from 2026-11-03 05:25
+WAIT The Doobie Brothers — What a Fool Believes | last aired 2026-11-01 05:25 | normal pick from 2026-11-02 17:25 | request from 2026-11-02 01:25
 WAIT The Doobie Brothers — You Belong to Me  (2016 Remaster) | last aired 2026-10-31 17:44 | normal pick from 2026-11-02 05:44 | request now
 WAIT The Doors — Riders on the Storm | last aired 2026-10-31 11:05 | normal pick from 2026-11-01 23:05 | request now
 OK   The Doors — Spanish Caravan | last aired 2026-10-24 03:40 | normal pick now | request now
