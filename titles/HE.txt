@@ -1,7 +1,7 @@
-Track status, song titles filed under HE (built Sun Nov 1, 3:05 AM PST (11:05 UTC)). Times in UTC.
+Track status, song titles filed under HE (built Sun Nov 1, 4:05 AM PST (12:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT "Heroes" (2017 Remaster) — David Bowie | last aired 2026-10-30 23:45 | normal pick from 2026-11-01 11:45 | request now
+OK   "Heroes" (2017 Remaster) — David Bowie | last aired 2026-10-30 23:45 | normal pick now | request now
 OK   Heart of Gold — Neil Young | last aired 2026-10-30 04:32 | normal pick now | request now
 OK   heart on my sleeve — Ghostwriter | last aired 2026-10-18 03:48 | normal pick now | request now
 OK   Heart To Heart — Child Seat | last aired 2026-10-30 14:50 | normal pick now | request now
