@@ -1,13 +1,13 @@
-Track status, song titles filed under LO (built Sat Oct 31, 6:05 PM PDT (01:05 UTC Sun)). Times in UTC.
+Track status, song titles filed under LO (built Sat Oct 31, 7:05 PM PDT (02:05 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   L-O-V-E — Nat King Cole | last aired 2026-10-27 15:54 | normal pick now | request now
-WAIT Lo Vas A Olvidar — Billie Eilish | last aired 2026-10-30 13:11 | normal pick from 2026-11-01 01:11 | request now
+OK   Lo Vas A Olvidar — Billie Eilish | last aired 2026-10-30 13:11 | normal pick now | request now
 OK   Locos — Leon Larregui | last aired 2026-10-28 19:01 | normal pick now | request now
 OK   Logic — Euology | last aired 2026-10-30 12:08 | normal pick now | request now
 WAIT London Calling — The Clash | last aired 2026-10-31 10:52 | normal pick from 2026-11-01 22:52 | request from 2026-11-01 06:52
 OK   Lonely in the Future — The Strokes | last aired 2026-10-22 03:04 | normal pick now | request now
-OK   Long Time Running — The Tragically Hip | last aired 2026-10-26 14:01 | normal pick now | request now
+WAIT Long Time Running — The Tragically Hip | last aired 2026-11-01 01:14 | normal pick from 2026-11-02 13:14 | request from 2026-11-01 21:14
 OK   Longing — Nusrat Fateh Ali Khan | last aired 2026-10-27 05:56 | normal pick now | request now
 OK   Loser — Beck | last aired 2026-10-28 11:23 | normal pick now | request now
 OK   Losing Faith — Tom Konkle | last aired 2026-09-12 01:59 | normal pick now | request now
@@ -16,7 +16,7 @@ OK   Lost in Music (1995 Remaster) (LP Version) — Sister Sledge | last aired 2
 WAIT Lost In The Humming Air (2005 Digital Remaster) — Harold Budd | last aired 2026-10-31 21:30 | normal pick from 2026-11-02 09:30 | request from 2026-11-01 17:30
 OK   Lost on You — LP | last aired 2026-10-26 02:35 | normal pick now | request now
 OK   Louie Bag  (Live at Electric Lady) — YEBBA | last aired 2026-10-27 06:19 | normal pick now | request now
-WAIT Love and Happiness — Al Green | last aired 2026-10-31 05:45 | normal pick from 2026-11-01 17:45 | request from 2026-11-01 01:45
+WAIT Love and Happiness — Al Green | last aired 2026-10-31 05:45 | normal pick from 2026-11-01 17:45 | request now
 WAIT Love I — The Green | last aired 2026-10-30 15:06 | normal pick from 2026-11-01 03:06 | request now
 OK   Love Is Blue (Album Version) — Paul Mauriat | last aired 2026-10-24 09:23 | normal pick now | request now
 OK   Love Kills — Freddie Mercury | last aired 2026-10-24 13:49 | normal pick now | request now
