@@ -1,4 +1,4 @@
-Track status, song titles filed under CO (built Sun Nov 1, 2:15 PM PST (22:15 UTC)). Times in UTC.
+Track status, song titles filed under CO (built Sun Nov 1, 2:25 PM PST (22:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Coat of Many Colors — Dolly Parton | last aired 2026-10-31 09:58 | normal pick now | request now
@@ -7,7 +7,7 @@ OK   Colorful Array — Neuro-sama | last aired 2026-10-18 01:42 | normal pick n
 OK   Come On Get Higher — Matt Nathanson | last aired 2026-10-26 14:17 | normal pick now | request now
 OK   Come Tomorrow (Duet With Barry Gibb (Album Version)) — Various Interprets | last aired 2026-10-26 03:00 | normal pick now | request now
 OK   Comfortably Numb — Pink Floyd | last aired 2026-10-29 15:09 | normal pick now | request now
-OK   Coming Back to Life — Pink Floyd | last aired 2026-10-25 09:20 | normal pick now | request now
+WAIT Coming Back to Life — Pink Floyd | last aired 2026-11-01 22:07 | normal pick from 2026-11-03 10:07 | request from 2026-11-02 18:07
 WAIT Coming Down from Love — Bobby Caldwell | last aired 2026-11-01 11:09 | normal pick from 2026-11-02 23:09 | request from 2026-11-02 07:09
 WAIT Coming Home — Leon Bridges | last aired 2026-11-01 00:51 | normal pick from 2026-11-03 00:51 | request from 2026-11-03 00:51
 OK   Common People (Full Length Version; Album Version) — Pulp | last aired 2026-10-19 13:20 | normal pick now | request now
