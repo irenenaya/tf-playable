@@ -1,11 +1,11 @@
-Track status, artists filed under JO (built Sun Nov 1, 12:05 PM PST (20:05 UTC)). Times in UTC.
+Track status, artists filed under JO (built Sun Nov 1, 1:05 PM PST (21:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-10-30 22:18 | normal pick from 2026-11-01 22:18 | request from 2026-11-01 22:18
 OK   Jockstrap — Concrete Over Water | last aired 2026-10-27 19:28 | normal pick now | request now
 WAIT Joe Cocker — With A Little Help From My Friends | last aired 2026-10-31 03:54 | normal pick from 2026-11-02 03:54 | request from 2026-11-02 03:54
 WAIT Joe Hisaishi — A Town with an Ocean View (from 'Kiki's Delivery Service') | last aired 2026-11-01 18:19 | normal pick from 2026-11-03 06:19 | request from 2026-11-02 14:19
-OK   Joe Hisaishi — a Wish to the Moon | last aired 2026-10-30 07:16 | normal pick now | request now
+WAIT Joe Hisaishi — a Wish to the Moon | last aired 2026-11-01 20:46 | normal pick from 2026-11-03 08:46 | request from 2026-11-02 16:46
 WAIT Joe Hisaishi — Asian Dream Song | last aired 2026-11-01 18:23 | normal pick from 2026-11-03 06:23 | request from 2026-11-02 14:23
 OK   Joe Hisaishi — Deep Sea Pastures (from 'Ponyo on the Cliff by the Sea') | last aired 2026-10-24 19:02 | normal pick now | request now
 OK   Joe Hisaishi — Departures (from 'Departures') | last aired 2026-10-30 07:02 | normal pick now | request now
@@ -22,7 +22,7 @@ OK   Johann Johannsson — Flight From The City - Jóhannsson: Flight from the C
 OK   John Carpenter — Halloween Theme | last aired 2026-10-30 02:07 | normal pick now | request now
 OK   John Coltrane — Lush Life | last aired 2026-10-30 06:51 | normal pick now | request now
 OK   John Coltrane — My Favorite Things | last aired 2026-10-23 17:00 | normal pick now | request now
-WAIT John Denver — Take Me Home, Country Roads | last aired 2026-10-30 20:39 | normal pick from 2026-11-01 20:39 | request from 2026-11-01 20:39
+OK   John Denver — Take Me Home, Country Roads | last aired 2026-10-30 20:39 | normal pick now | request now
 OK   John Lee Hooker — Boom Boom | last aired 2026-10-30 16:48 | normal pick now | request now
 WAIT John Lee Hooker — I Cover the Waterfront | last aired 2026-11-01 00:00 | normal pick from 2026-11-02 12:00 | request now
 OK   John Lennon — Give Peace A Chance (Remastered 2010) | last aired 2026-10-30 02:14 | normal pick now | request now
@@ -39,7 +39,7 @@ OK   Johnny Cash — Hurt (Album Version) | last aired 2026-10-30 06:36 | normal
 OK   Johnny Cash — Redemption Day (Album Version) | last aired 2026-10-30 12:11 | normal pick now | request now
 WAIT Johnny Cash — Ring of Fire | last aired 2026-10-31 02:46 | normal pick from 2026-11-02 02:46 | request from 2026-11-02 02:46
 OK   Johnny Flynn — Detectorists (Original Soundtrack from the TV Series) | last aired 2026-10-23 05:38 | normal pick now | request now
-WAIT Johnny Mathis — Wonderful! Wonderful! | last aired 2026-11-01 00:08 | normal pick from 2026-11-02 12:08 | request from 2026-11-01 20:08
+WAIT Johnny Mathis — Wonderful! Wonderful! | last aired 2026-11-01 00:08 | normal pick from 2026-11-02 12:08 | request now
 OK   Joker Out — Novi Val | last aired 2026-10-26 21:11 | normal pick now | request now
 OK   Jon Hopkins — Open Eye Signal (Remaster 2023) | last aired 2026-10-29 02:27 | normal pick now | request now
 OK   Jon Hopkins — Small Memory | last aired 2026-10-23 22:58 | normal pick now | request now

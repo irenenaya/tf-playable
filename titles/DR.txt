@@ -1,13 +1,13 @@
-Track status, song titles filed under DR (built Sun Nov 1, 12:05 PM PST (20:05 UTC)). Times in UTC.
+Track status, song titles filed under DR (built Sun Nov 1, 1:05 PM PST (21:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   DRAW THE LINE — From Fall to Spring | last aired 2026-10-23 18:52 | normal pick now | request now
-WAIT Dream 3 (in the midst of my life) — Max Richter | last aired 2026-10-30 21:01 | normal pick from 2026-11-01 21:01 | request from 2026-11-01 21:01
+OK   Dream 3 (in the midst of my life) — Max Richter | last aired 2026-10-30 21:01 | normal pick now | request now
 OK   Dream On — Aerosmith | last aired 2026-10-27 04:20 | normal pick now | request now
 WAIT Dreamin' (Album Version) — George Benson | last aired 2026-11-01 13:08 | normal pick from 2026-11-03 01:08 | request from 2026-11-02 09:08
 OK   Dreams  (2001 Remaster) — Fleetwood Mac | last aired 2026-10-21 04:36 | normal pick now | request now
 WAIT Dreams  (2004 Remaster) — Fleetwood Mac | last aired 2026-11-01 12:54 | normal pick from 2026-11-03 00:54 | request from 2026-11-02 08:54
-OK   Dreams — The Cranberries | last aired 2026-10-25 00:56 | normal pick now | request now
+WAIT Dreams — The Cranberries | last aired 2026-11-01 20:50 | normal pick from 2026-11-03 08:50 | request from 2026-11-02 16:50
 OK   Drink — Alestorm | last aired 2026-10-26 00:56 | normal pick now | request now
 OK   Drops of Jupiter (Tell Me) — Train | last aired 2026-10-27 15:28 | normal pick now | request now
 OK   The Drugs Don't Work (Remastered 2016) — The Verve | last aired 2026-10-26 07:18 | normal pick now | request now

@@ -1,4 +1,4 @@
-Track status, song titles filed under TA (built Sun Nov 1, 12:05 PM PST (20:05 UTC)). Times in UTC.
+Track status, song titles filed under TA (built Sun Nov 1, 1:05 PM PST (21:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Ta douleur — Camille | last aired 2026-11-01 11:20 | normal pick from 2026-11-02 23:20 | request from 2026-11-02 07:20
@@ -7,14 +7,14 @@ OK   Tainted Love — Soft Cell | last aired 2026-10-27 14:10 | normal pick now 
 OK   Take Five — The Dave Brubeck Quartet | last aired 2026-10-28 16:08 | normal pick now | request now
 WAIT Take It Easy — Eagles | last aired 2026-10-31 18:36 | normal pick from 2026-11-02 06:36 | request now
 OK   Take Me Back (Extended Mix) — Obie Fernandez | last aired 2026-10-18 02:50 | normal pick now | request now
-WAIT Take Me Home, Country Roads — John Denver | last aired 2026-10-30 20:39 | normal pick from 2026-11-01 20:39 | request from 2026-11-01 20:39
+OK   Take Me Home, Country Roads — John Denver | last aired 2026-10-30 20:39 | normal pick now | request now
 WAIT Take Me To Church — Hozier | last aired 2026-11-01 10:38 | normal pick from 2026-11-02 22:38 | request from 2026-11-02 06:38
 OK   Take My Breath Away — Berlin | last aired 2026-10-26 21:23 | normal pick now | request now
 OK   Take My Heart — Djivan Gasparyan | last aired 2026-10-27 10:38 | normal pick now | request now
 WAIT Take on Me (2015 Remaster) — A-Ha | last aired 2026-10-31 19:14 | normal pick from 2026-11-02 07:14 | request now
 OK   Take On Me (MTV Unplugged) — A-Ha | last aired 2026-10-25 23:08 | normal pick now | request now
 OK   Taken — Eluvium | last aired 2026-10-21 11:43 | normal pick now | request now
-WAIT Takin' Care Of Business — Bachman-Turner Overdrive | last aired 2026-11-01 01:03 | normal pick from 2026-11-02 13:03 | request from 2026-11-01 21:03
+WAIT Takin' Care Of Business — Bachman-Turner Overdrive | last aired 2026-11-01 01:03 | normal pick from 2026-11-02 13:03 | request now
 OK   Talk — Coldplay | last aired 2026-10-28 20:05 | normal pick now | request now
 WAIT Tape Recorder — Hammock | last aired 2026-10-31 21:23 | normal pick from 2026-11-02 09:23 | request now
 OK   Tashamanaletch — Alèmayèhu Eshèté | last aired 2026-10-31 08:00 | normal pick now | request now

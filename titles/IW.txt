@@ -1,7 +1,7 @@
-Track status, song titles filed under IW (built Sun Nov 1, 12:05 PM PST (20:05 UTC)). Times in UTC.
+Track status, song titles filed under IW (built Sun Nov 1, 1:05 PM PST (21:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   I Wanna Dance with Somebody (Who Loves Me) — Whitney Houston | last aired 2026-10-23 18:33 | normal pick now | request now
+WAIT I Wanna Dance with Somebody (Who Loves Me) — Whitney Houston | last aired 2026-11-01 20:55 | normal pick from 2026-11-03 08:55 | request from 2026-11-02 16:55
 OK   I Wanna Get Better — Bleachers | last aired 2026-10-27 14:06 | normal pick now | request now
 OK   I Want It That Way — Backstreet Boys | last aired 2026-10-23 19:18 | normal pick now | request now
 OK   I Will Always Love You — Dolly Parton | last aired 2026-10-30 13:52 | normal pick now | request now

@@ -1,4 +1,4 @@
-Track status, artists filed under MA (built Sun Nov 1, 12:05 PM PST (20:05 UTC)). Times in UTC.
+Track status, artists filed under MA (built Sun Nov 1, 1:05 PM PST (21:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   M/A/R/R/S — Pump Up The Volume (UK 12" Remix) | last aired 2026-10-27 19:21 | normal pick now | request now
@@ -7,7 +7,7 @@ OK   Mac DeMarco — My Kind of Woman | last aired 2026-10-30 20:58 | normal pic
 OK   Mac DeMarco — No Other Heart | last aired 2026-10-28 11:59 | normal pick now | request now
 OK   Madness — Our House | last aired 2026-10-28 18:40 | normal pick now | request now
 OK   Madonna — Holiday | last aired 2026-10-26 09:32 | normal pick now | request now
-WAIT Mahalia Jackson — How I Got Over (Live) | last aired 2026-10-31 08:34 | normal pick from 2026-11-01 20:34 | request now
+OK   Mahalia Jackson — How I Got Over (Live) | last aired 2026-10-31 08:34 | normal pick now | request now
 OK   Mahavishnu Orchestra — I Wonder (Album Version) | last aired 2026-10-29 17:41 | normal pick now | request now
 WAIT Mahmoud Ahmed — Ere Mela Mela / Meche Neu | last aired 2026-11-01 08:28 | normal pick from 2026-11-03 08:28 | request from 2026-11-03 08:28
 WAIT Mana — Rayando el Sol | last aired 2026-11-01 10:06 | normal pick from 2026-11-03 10:06 | request from 2026-11-03 10:06
@@ -39,7 +39,7 @@ OK   Marvin Gaye — Distant Lover | last aired 2026-10-31 06:51 | normal pick n
 WAIT Marvin Gaye — I Heard It Through The Grapevine (SACD Stereo) | last aired 2026-10-31 19:02 | normal pick from 2026-11-02 07:02 | request now
 OK   Marvin Gaye — Inner City Blues (Make Me Wanna Holler) | last aired 2026-10-30 07:38 | normal pick now | request now
 OK   Marvin Gaye — Let's Get It On | last aired 2026-10-29 12:45 | normal pick now | request now
-WAIT Marvin Gaye — Mercy Mercy Me (The Ecology) | last aired 2026-10-31 08:45 | normal pick from 2026-11-01 20:45 | request now
+OK   Marvin Gaye — Mercy Mercy Me (The Ecology) | last aired 2026-10-31 08:45 | normal pick now | request now
 WAIT Marvin Gaye — Save The Children | last aired 2026-10-31 17:20 | normal pick from 2026-11-02 05:20 | request now
 OK   Marvin Gaye — Sexual Healing (Album Version) | last aired 2026-10-30 13:02 | normal pick now | request now
 OK   Marvin Gaye — What's Going On | last aired 2026-10-30 07:31 | normal pick now | request now
@@ -50,11 +50,11 @@ WAIT Massive Attack — Angel | last aired 2026-10-30 23:33 | normal pick from 2
 OK   Massive Attack — Protection | last aired 2026-10-31 04:58 | normal pick now | request now
 WAIT Massive Attack — Teardrop | last aired 2026-10-31 13:54 | normal pick from 2026-11-02 01:54 | request now
 OK   Massive Attack — Unfinished Sympathy (2012 Mix/Master) | last aired 2026-10-31 01:43 | normal pick now | request now
-WAIT Matt Nathanson — All We Are | last aired 2026-10-31 08:41 | normal pick from 2026-11-01 20:41 | request now
+OK   Matt Nathanson — All We Are | last aired 2026-10-31 08:41 | normal pick now | request now
 OK   Matt Nathanson — Come On Get Higher | last aired 2026-10-26 14:17 | normal pick now | request now
 OK   Matt Nathanson — Faster | last aired 2026-10-30 07:35 | normal pick now | request now
 WAIT Mavis Staples — We're Gonna Make It | last aired 2026-10-31 17:28 | normal pick from 2026-11-02 17:28 | request from 2026-11-02 17:28
-WAIT Max Richter — Dream 3 (in the midst of my life) | last aired 2026-10-30 21:01 | normal pick from 2026-11-01 21:01 | request from 2026-11-01 21:01
+OK   Max Richter — Dream 3 (in the midst of my life) | last aired 2026-10-30 21:01 | normal pick now | request now
 WAIT Max Richter — On the Nature of Daylight | last aired 2026-11-01 02:03 | normal pick from 2026-11-02 14:03 | request from 2026-11-01 22:03
 OK   Max Specter — Just Asking (Day Theme I) | last aired 2026-10-31 06:58 | normal pick now | request now
 OK   Maxwell — Ascension (No One's Gonna Love You, So Don't Ever Wonder)[The Tribute][Cut] | last aired 2026-09-05 10:34 | normal pick now | request now
@@ -70,5 +70,5 @@ OK   The Magnetic Fields — All My Little Words | last aired 2026-10-30 18:39 |
 OK   The Magnetic Fields — Born on a Train | last aired 2026-10-27 11:34 | normal pick now | request now
 OK   The Magnetic Fields — Papa Was a Rodeo | last aired 2026-10-25 00:31 | normal pick now | request now
 OK   The Magnetic Fields — The Book of Love | last aired 2026-10-29 06:12 | normal pick now | request now
-WAIT The Mamas & The Papas — California Dreamin' (Single Version) | last aired 2026-11-01 00:55 | normal pick from 2026-11-02 12:55 | request from 2026-11-01 20:55
+WAIT The Mamas & The Papas — California Dreamin' (Single Version) | last aired 2026-11-01 00:55 | normal pick from 2026-11-02 12:55 | request now
 OK   The Marías — Cariño | last aired 2026-10-30 20:45 | normal pick now | request now
