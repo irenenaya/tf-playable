@@ -1,4 +1,4 @@
-Track status, song titles filed under WH (built Sun Nov 1, 5:05 AM PST (13:05 UTC)). Times in UTC.
+Track status, song titles filed under WH (built Sun Nov 1, 6:05 AM PST (14:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Whistleblowers — Laibach | last aired 2026-10-26 00:33 | normal pick now | request now
@@ -18,7 +18,7 @@ WAIT When I'm Gone — Albert Hammond | last aired 2026-10-31 05:50 | normal pic
 OK   When Love Comes To Town (Album Version) — U2 | last aired 2026-10-30 11:07 | normal pick now | request now
 WAIT when the party's over — Billie Eilish | last aired 2026-11-01 05:50 | normal pick from 2026-11-02 17:50 | request from 2026-11-02 01:50
 OK   When the Sun Goes Down — The Jetzons | last aired 2026-10-02 05:22 | normal pick now | request now
-WAIT When You Go (That's When You'll Know) — The Altons | last aired 2026-10-31 17:19 | normal pick from 2026-11-02 05:19 | request from 2026-11-01 13:19
+WAIT When You Go (That's When You'll Know) — The Altons | last aired 2026-10-31 17:19 | normal pick from 2026-11-02 05:19 | request now
 OK   Whenever Wherever Whatever (Remastered 2021) (Album Version) — Maxwell | last aired 2026-10-30 05:56 | normal pick now | request now
 OK   Where The Streets Have No Name (Remastered 2007) — U2 | last aired 2026-10-23 08:10 | normal pick now | request now
 OK   Where Were You (Live) — Jeff Beck | last aired 2026-10-28 09:00 | normal pick now | request now
@@ -30,6 +30,7 @@ OK   White Gloves — Khruangbin | last aired 2026-10-30 08:47 | normal pick now
 OK   White Winter Hymnal — Fleet Foxes | last aired 2026-10-16 12:06 | normal pick now | request now
 OK   Who Is It — Michael Jackson | last aired 2026-10-29 22:14 | normal pick now | request now
 OK   Who Knew (Main Version) — P!nk | last aired 2026-09-12 18:53 | normal pick now | request now
+WAIT Who Knows Where The Time Goes? — Fairport Convention | last aired 2026-11-01 11:34 | normal pick from 2026-11-02 23:34 | request from 2026-11-02 07:34
 OK   Who's That What's That — Niko B | last aired 2026-10-28 00:48 | normal pick now | request now
 OK   Wholy Holy — Aretha Franklin | last aired 2026-10-25 17:04 | normal pick now | request now
 OK   Wholy Holy — Marvin Gaye | last aired 2026-10-30 09:03 | normal pick now | request now
