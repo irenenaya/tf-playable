@@ -1,4 +1,4 @@
-Track status, song titles filed under EN (built Sat Oct 31, 11:05 PM PDT (06:05 UTC Sun)). Times in UTC.
+Track status, song titles filed under EN (built Sun Nov 1, 12:05 AM PDT (07:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   En La Ciudad De La Furia (MTV Unplugged) — Soda Stereo | last aired 2026-10-26 01:33 | normal pick now | request now
@@ -6,7 +6,7 @@ OK   End of Beginning — Djo | last aired 2026-10-26 04:07 | normal pick now | 
 WAIT End Of The Road (Album Version) — Boyz II Men | last aired 2026-10-31 12:39 | normal pick from 2026-11-02 00:39 | request from 2026-11-01 08:39
 OK   Endgame — R.E.M. | last aired 2026-10-27 01:10 | normal pick now | request now
 OK   Endless Summer — Fennesz | last aired 2026-10-26 06:01 | normal pick now | request now
-OK   energy flow — Ryuichi Sakamoto | last aired 2026-10-30 10:09 | normal pick now | request now
+WAIT energy flow — Ryuichi Sakamoto | last aired 2026-11-01 06:32 | normal pick from 2026-11-02 18:32 | request from 2026-11-02 02:32
 WAIT Enjoy the Silence — Depeche Mode | last aired 2026-11-01 01:19 | normal pick from 2026-11-03 01:19 | request from 2026-11-03 01:19
 OK   Enola Gay (Remastered 2003) — Orchestral Manoeuvres in the dark (OMD) | last aired 2026-10-28 16:53 | normal pick now | request now
 OK   Enter Galactic (Love Connection Part I) (Album Version (Explicit)) — Kid Cudi | last aired 2026-10-22 20:49 | normal pick now | request now
