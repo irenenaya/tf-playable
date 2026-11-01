@@ -1,4 +1,4 @@
-Track status, artists filed under DA (built Sun Nov 1, 12:05 AM PDT (07:05 UTC)). Times in UTC.
+Track status, artists filed under DA (built Sun Nov 1, 1:05 AM PDT (08:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   D'Angelo — Untitled (How Does It Feel) | last aired 2026-10-28 16:14 | normal pick now | request now
@@ -25,7 +25,7 @@ WAIT David Bowie — "Heroes" (2017 Remaster) | last aired 2026-10-30 23:45 | no
 OK   David Bowie — Breaking Glass  (2017 Remaster) | last aired 2026-10-18 12:22 | normal pick now | request now
 OK   David Bowie — Dancing in the Street (2002 Remaster) | last aired 2026-10-21 20:00 | normal pick now | request now
 WAIT David Bowie — Dollar Days | last aired 2026-10-31 18:55 | normal pick from 2026-11-02 06:55 | request from 2026-11-01 14:55
-WAIT David Bowie — Let's Dance  (2018 Remaster) | last aired 2026-10-30 19:23 | normal pick from 2026-11-01 07:23 | request now
+OK   David Bowie — Let's Dance  (2018 Remaster) | last aired 2026-10-30 19:23 | normal pick now | request now
 WAIT David Bowie — Moonage Daydream (2012 Remaster) | last aired 2026-10-31 12:51 | normal pick from 2026-11-02 00:51 | request from 2026-11-01 08:51
 OK   David Bowie — Rebel Rebel | last aired 2026-10-30 14:37 | normal pick now | request now
 OK   David Bowie — Slip Away | last aired 2026-10-30 01:49 | normal pick now | request now
@@ -35,7 +35,7 @@ OK   David Bowie — Space Oddity | last aired 2026-10-25 23:13 | normal pick no
 OK   David Bowie — Starman  (2012 Remaster) | last aired 2026-10-30 12:29 | normal pick now | request now
 WAIT David Bowie — Subterraneans  (2017 Remaster) | last aired 2026-10-31 07:17 | normal pick from 2026-11-01 19:17 | request now
 OK   David Bowie — Warszawa  (2017 Remaster) | last aired 2026-10-22 02:08 | normal pick now | request now
-WAIT David Bowie — Wild Is the Wind  (2016 Remaster) | last aired 2026-10-31 11:40 | normal pick from 2026-11-01 23:40 | request from 2026-11-01 07:40
+WAIT David Bowie — Wild Is the Wind  (2016 Remaster) | last aired 2026-10-31 11:40 | normal pick from 2026-11-01 23:40 | request now
 OK   David Byrne — Everybody's Coming to My House (Live) | last aired 2026-10-26 23:31 | normal pick now | request now
 OK   David Soul — Silver Lady | last aired 2026-10-30 02:35 | normal pick now | request now
 WAIT David Sylvian — Darkest Dreaming | last aired 2026-10-31 12:56 | normal pick from 2026-11-02 00:56 | request from 2026-11-01 08:56
