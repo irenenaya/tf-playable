@@ -1,4 +1,4 @@
-Track status, artists filed under RA (built Sun Nov 1, 1:05 AM PST (09:05 UTC)). Times in UTC.
+Track status, artists filed under RA (built Sun Nov 1, 2:05 AM PST (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Radiohead — Paranoid Android | last aired 2026-11-01 00:27 | normal pick from 2026-11-03 00:27 | request from 2026-11-03 00:27
@@ -9,9 +9,9 @@ WAIT Randy Crawford — One Day I'll Fly Away | last aired 2026-10-31 10:39 | no
 WAIT Randy Travis — Forever and Ever, Amen | last aired 2026-11-01 01:36 | normal pick from 2026-11-02 13:36 | request from 2026-11-01 21:36
 OK   Raquel Tavares — Como É Grande o Meu Amor por Você | last aired 2026-10-30 08:43 | normal pick now | request now
 OK   Ray Anthony — The Hokey Pokey | last aired 2026-10-27 19:52 | normal pick now | request now
-WAIT Ray Parker Junior — Ghostbusters (Album Version) | last aired 2026-10-31 13:22 | normal pick from 2026-11-02 13:22 | request from 2026-11-02 13:22
+WAIT Ray Parker Junior — Ghostbusters (Album Version) | last aired 2026-10-31 13:22 | normal pick from 2026-11-02 01:22 | request now
 WAIT Rayland Baxter — Objects In The Mirror | last aired 2026-11-01 01:41 | normal pick from 2026-11-02 13:41 | request from 2026-11-01 21:41
-OK   The Rah Band — Clouds Across the Moon | last aired 2026-10-30 16:38 | normal pick now | request now
-WAIT The Rah Band — Messages from the Stars (Remaster) | last aired 2026-11-01 07:43 | normal pick from 2026-11-02 19:43 | request from 2026-11-02 03:43
+WAIT The Rah Band — Clouds Across the Moon | last aired 2026-11-01 09:24 | normal pick from 2026-11-02 21:24 | request from 2026-11-02 05:24
+WAIT The Rah Band — Messages from the Stars (Remaster) | last aired 2026-11-01 07:44 | normal pick from 2026-11-02 19:44 | request from 2026-11-02 03:44
 OK   The Ray Charles Singers — Sweet Little Mountain Bird | last aired 2026-09-18 12:34 | normal pick now | request now
 OK   The Ray Conniff Singers — Somewhere, My Love (Lara's Theme from "Doctor Zhivago") (Album Version) | last aired 2026-10-25 21:37 | normal pick now | request now

@@ -1,11 +1,11 @@
-Track status, song titles filed under LE (built Sun Nov 1, 1:05 AM PST (09:05 UTC)). Times in UTC.
+Track status, song titles filed under LE (built Sun Nov 1, 2:05 AM PST (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Le Chant des oiseaux — La Fenice | last aired 2026-10-02 15:12 | normal pick now | request now
 WAIT Le Coeur — Thievery Corporation | last aired 2026-11-01 02:38 | normal pick from 2026-11-02 14:38 | request from 2026-11-01 22:38
 OK   Le onde — Chris Snelling | last aired 2026-10-25 06:01 | normal pick now | request now
 OK   Le Pianiste de Varsovie — Gilbert Bécaud | last aired 2026-10-30 10:04 | normal pick now | request now
-WAIT Le vent nous portera — Sophie Hunger | last aired 2026-11-01 07:20 | normal pick from 2026-11-02 19:20 | request from 2026-11-02 03:20
+WAIT Le vent nous portera — Sophie Hunger | last aired 2026-11-01 07:21 | normal pick from 2026-11-02 19:21 | request from 2026-11-02 03:21
 OK   Lean On Me — Club Nouveau | last aired 2026-10-25 09:53 | normal pick now | request now
 OK   leavemealone — Fred again.. | last aired 2026-10-27 00:38 | normal pick now | request now
 WAIT Leaves — Ben&Ben | last aired 2026-11-01 00:14 | normal pick from 2026-11-02 12:14 | request from 2026-11-01 20:14
@@ -15,7 +15,7 @@ OK   Lemon — Kenshi Yonezu | last aired 2026-10-26 22:45 | normal pick now | r
 OK   Les Nuits — Nightmares On Wax | last aired 2026-10-27 02:12 | normal pick now | request now
 OK   LesAlpx — Floating Points | last aired 2026-10-30 16:53 | normal pick now | request now
 OK   Less Than — Nine Inch Nails | last aired 2026-10-30 03:48 | normal pick now | request now
-WAIT Let You Go — RY X | last aired 2026-11-01 06:52 | normal pick from 2026-11-02 18:52 | request from 2026-11-02 02:52
+WAIT Let You Go — RY X | last aired 2026-11-01 06:54 | normal pick from 2026-11-02 18:54 | request from 2026-11-02 02:54
 OK   Let's Dance  (2018 Remaster) — David Bowie | last aired 2026-10-30 19:23 | normal pick now | request now
 OK   Let's Get It On — Marvin Gaye | last aired 2026-10-29 12:45 | normal pick now | request now
 WAIT Let's Groove (Album Version) — Earth, Wind & Fire | last aired 2026-10-31 11:58 | normal pick from 2026-11-02 11:58 | request from 2026-11-02 11:58
