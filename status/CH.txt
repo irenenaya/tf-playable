@@ -1,4 +1,4 @@
-Track status, artists filed under CH (built Sat Oct 31, 7:05 PM PDT (02:05 UTC Sun)). Times in UTC.
+Track status, artists filed under CH (built Sat Oct 31, 8:05 PM PDT (03:05 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Chaka Khan — What Cha' Gonna Do for Me | last aired 2026-10-31 17:51 | normal pick from 2026-11-02 17:51 | request from 2026-11-02 17:51
@@ -21,7 +21,7 @@ WAIT Chet Baker — You Don't Know What Love Is | last aired 2026-11-01 00:33 | 
 WAIT Chic — Good Times  (2018 Remaster) | last aired 2026-10-31 17:55 | normal pick from 2026-11-02 17:55 | request from 2026-11-02 17:55
 OK   Chicago — Hard to Say I'M Sorry / Get Away | last aired 2026-10-24 20:27 | normal pick now | request now
 OK   Chico Buarque — Construção | last aired 2026-10-25 16:36 | normal pick now | request now
-WAIT Child Seat — Heart To Heart | last aired 2026-10-30 14:50 | normal pick from 2026-11-01 02:50 | request now
+OK   Child Seat — Heart To Heart | last aired 2026-10-30 14:50 | normal pick now | request now
 OK   Child Seat — Hyperphantasia | last aired 2026-10-26 19:10 | normal pick now | request now
 OK   Chris Christodoulou — The Rain Formerly Known as Purple | last aired 2026-10-26 05:48 | normal pick now | request now
 OK   Chris De Burgh — The Getaway | last aired 2026-10-26 20:16 | normal pick now | request now
@@ -31,7 +31,7 @@ WAIT Chris Isaak — Wicked Game  (Remastered Album Version) | last aired 2026-1
 OK   Chris Snelling — Le onde | last aired 2026-10-25 06:01 | normal pick now | request now
 WAIT Chris Whitley — Big Sky Country (Album Version) | last aired 2026-10-31 02:02 | normal pick from 2026-11-01 14:02 | request now
 OK   Christian Löffler — Lid | last aired 2026-10-27 01:54 | normal pick now | request now
-WAIT Christina Aguilera — Genie In a Bottle | last aired 2026-10-30 14:20 | normal pick from 2026-11-01 02:20 | request now
+OK   Christina Aguilera — Genie In a Bottle | last aired 2026-10-30 14:20 | normal pick now | request now
 WAIT Christopher Cross — I Really Don't Know Anymore  (2019 Remaster) | last aired 2026-10-31 01:35 | normal pick from 2026-11-01 13:35 | request now
 WAIT Christopher Cross — Ride Like the Wind (Album Version) | last aired 2026-10-31 11:00 | normal pick from 2026-11-01 23:00 | request from 2026-11-01 07:00
 WAIT Christopher Cross — Sailing | last aired 2026-10-31 01:13 | normal pick from 2026-11-01 13:13 | request now
