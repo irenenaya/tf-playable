@@ -1,4 +1,4 @@
-Track status, song titles filed under WH (built Sun Nov 1, 1:05 AM PDT (08:05 UTC)). Times in UTC.
+Track status, song titles filed under WH (built Sun Nov 1, 1:05 AM PST (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Whistleblowers — Laibach | last aired 2026-10-26 00:33 | normal pick now | request now
@@ -7,7 +7,7 @@ WAIT What a Fool Believes — The Doobie Brothers | last aired 2026-11-01 05:23 
 OK   What About Us — P!nk | last aired 2026-10-20 23:05 | normal pick now | request now
 WAIT What Cha' Gonna Do for Me — Chaka Khan | last aired 2026-10-31 17:51 | normal pick from 2026-11-02 17:51 | request from 2026-11-02 17:51
 WAIT What I'm Becoming — Cage The Elephant | last aired 2026-10-31 15:45 | normal pick from 2026-11-02 15:45 | request from 2026-11-02 15:45
-WAIT What Is Love (7" Mix) (Remastered 2025) (7" Mix / Remastered 2025) — Haddaway | last aired 2026-10-31 12:34 | normal pick from 2026-11-02 00:34 | request from 2026-11-01 08:34
+WAIT What Is Love (7" Mix) (Remastered 2025) (7" Mix / Remastered 2025) — Haddaway | last aired 2026-10-31 12:34 | normal pick from 2026-11-02 00:34 | request now
 OK   What Is Love (Lynx & Pico Remix) — Haddaway | last aired 2026-10-26 15:51 | normal pick now | request now
 OK   What Was I Made For? [From The Motion Picture "Barbie"] — Billie Eilish | last aired 2026-10-30 05:07 | normal pick now | request now
 OK   What You Won't Do for Love — Bobby Caldwell | last aired 2026-10-28 04:00 | normal pick now | request now
@@ -26,7 +26,7 @@ WAIT Wherefore and Why (LP Version) — Gordon Lightfoot | last aired 2026-10-31
 OK   Which Side are You On? — Pete Seeger | last aired 2026-10-22 15:40 | normal pick now | request now
 WAIT Whirling-In-Rags, 8 AM — Sea Power | last aired 2026-10-31 07:38 | normal pick from 2026-11-01 19:38 | request now
 OK   White Christmas — Bing Crosby | last aired 2026-09-05 21:37 | normal pick now | request now
-WAIT White Gloves — Khruangbin | last aired 2026-10-30 08:47 | normal pick from 2026-11-01 08:47 | request from 2026-11-01 08:47
+OK   White Gloves — Khruangbin | last aired 2026-10-30 08:47 | normal pick now | request now
 OK   White Winter Hymnal — Fleet Foxes | last aired 2026-10-16 12:06 | normal pick now | request now
 OK   Who Is It — Michael Jackson | last aired 2026-10-29 22:14 | normal pick now | request now
 OK   Who Knew (Main Version) — P!nk | last aired 2026-09-12 18:53 | normal pick now | request now

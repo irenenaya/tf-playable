@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Sun Nov 1, 1:05 AM PDT (08:05 UTC)). Times in UTC.
+Track status, artists filed under JO (built Sun Nov 1, 1:05 AM PST (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-10-30 22:18 | normal pick from 2026-11-01 22:18 | request from 2026-11-01 22:18
@@ -31,10 +31,10 @@ OK   John Lennon — Instant Karma! (We All Shine On) (Ultimate Mix) | last aire
 OK   John Lennon — Watching The Wheels (Remastered 2010) | last aired 2026-10-30 06:40 | normal pick now | request now
 WAIT John Mayer — New Light | last aired 2026-10-31 15:07 | normal pick from 2026-11-02 03:07 | request from 2026-11-01 11:07
 OK   John McLaughlin — You Know, You Know (Album Version) | last aired 2026-10-20 05:00 | normal pick now | request now
-WAIT John Prine — Your Flag Decal Won't Get You into Heaven Anymore | last aired 2026-10-30 20:42 | normal pick from 2026-11-01 08:42 | request now
+OK   John Prine — Your Flag Decal Won't Get You into Heaven Anymore | last aired 2026-10-30 20:42 | normal pick now | request now
 OK   John T. Williams — Anything Goes | last aired 2026-10-16 05:14 | normal pick now | request now
 OK   John Williams — Theme From Superman  (Concert Version) | last aired 2026-10-26 10:06 | normal pick now | request now
-WAIT Johnny Cash — Folsom Prison Blues | last aired 2026-10-30 20:36 | normal pick from 2026-11-01 08:36 | request now
+OK   Johnny Cash — Folsom Prison Blues | last aired 2026-10-30 20:36 | normal pick now | request now
 OK   Johnny Cash — Hurt (Album Version) | last aired 2026-10-30 06:36 | normal pick now | request now
 OK   Johnny Cash — Redemption Day (Album Version) | last aired 2026-10-30 12:11 | normal pick now | request now
 WAIT Johnny Cash — Ring of Fire | last aired 2026-10-31 02:46 | normal pick from 2026-11-02 02:46 | request from 2026-11-02 02:46
