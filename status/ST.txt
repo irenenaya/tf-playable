@@ -1,7 +1,7 @@
-Track status, artists filed under ST (built Sun Nov 1, 8:05 AM PST (16:05 UTC)). Times in UTC.
+Track status, artists filed under ST (built Sun Nov 1, 9:05 AM PST (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   St Germain — Rose rouge | last aired 2026-10-29 13:34 | normal pick now | request now
+WAIT St Germain — Rose rouge | last aired 2026-11-01 16:22 | normal pick from 2026-11-03 04:22 | request from 2026-11-02 12:22
 OK   Stan Bush — The Touch | last aired 2026-10-29 19:01 | normal pick now | request now
 WAIT Stan Getz — Corcovado (Quiet Nights Of Quiet Stars) | last aired 2026-11-01 14:08 | normal pick from 2026-11-03 14:08 | request from 2026-11-03 14:08
 OK   Stardust — Music Sounds Better With You | last aired 2026-10-29 18:10 | normal pick now | request now
@@ -19,7 +19,7 @@ OK   Steve Miller Band — The Joker | last aired 2026-10-31 01:17 | normal pick
 OK   Steve Roach — Living the Dream | last aired 2026-10-30 01:03 | normal pick now | request now
 OK   Stevie Ray Vaughan & Double Trouble — Pride and Joy | last aired 2026-10-29 15:53 | normal pick now | request now
 WAIT Stevie Ray Vaughan & Double Trouble — Riviera Paradise | last aired 2026-10-31 23:55 | normal pick from 2026-11-02 11:55 | request from 2026-11-01 19:55
-OK   Stevie Wonder — As | last aired 2026-10-29 05:24 | normal pick now | request now
+WAIT Stevie Wonder — As | last aired 2026-11-01 16:29 | normal pick from 2026-11-03 04:29 | request from 2026-11-02 12:29
 OK   Stevie Wonder — Go Home | last aired 2026-10-25 09:30 | normal pick now | request now
 WAIT Stevie Wonder — Golden Lady | last aired 2026-11-01 14:18 | normal pick from 2026-11-03 02:18 | request from 2026-11-02 10:18
 OK   Stevie Wonder — Happy Birthday | last aired 2026-09-29 18:47 | normal pick now | request now
@@ -32,7 +32,7 @@ WAIT Stevie Wonder — Sir Duke | last aired 2026-10-31 23:46 | normal pick from
 OK   Stevie Wonder — Summer Soft | last aired 2026-10-30 14:44 | normal pick now | request now
 OK   Stevie Wonder — Superstition (Album Version) | last aired 2026-10-30 17:03 | normal pick now | request now
 OK   Stevie Wonder — You Haven't Done Nothin' | last aired 2026-10-26 12:43 | normal pick now | request now
-OK   Still Woozy — Get Down | last aired 2026-10-29 09:34 | normal pick now | request now
+WAIT Still Woozy — Get Down | last aired 2026-11-01 16:43 | normal pick from 2026-11-03 04:43 | request from 2026-11-02 12:43
 OK   Sting — Desert Rose (Album Version) | last aired 2026-10-29 14:17 | normal pick now | request now
 WAIT Sting — Fields Of Gold (My Songs Version) | last aired 2026-11-01 14:23 | normal pick from 2026-11-03 02:23 | request from 2026-11-02 10:23
 WAIT Sting — Fragile | last aired 2026-10-31 15:15 | normal pick from 2026-11-02 03:15 | request now
@@ -46,4 +46,4 @@ WAIT The Staple Singers — I'll Take You There | last aired 2026-10-31 17:00 | 
 OK   The Strokes — Last Nite | last aired 2026-10-29 22:53 | normal pick now | request now
 OK   The Strokes — Lonely in the Future | last aired 2026-10-22 03:04 | normal pick now | request now
 OK   The Strokes — Ode To The Mets | last aired 2026-10-30 10:58 | normal pick now | request now
-OK   The Style Council — Iwasadoledadstoyboy | last aired 2026-10-29 04:45 | normal pick now | request now
+WAIT The Style Council — Iwasadoledadstoyboy | last aired 2026-11-01 16:46 | normal pick from 2026-11-03 04:46 | request from 2026-11-02 12:46

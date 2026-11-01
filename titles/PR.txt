@@ -1,7 +1,7 @@
-Track status, song titles filed under PR (built Sun Nov 1, 8:05 AM PST (16:05 UTC)). Times in UTC.
+Track status, song titles filed under PR (built Sun Nov 1, 9:05 AM PST (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Praying For Love — Donna De Lory | last aired 2026-10-31 20:07 | normal pick from 2026-11-02 08:07 | request from 2026-11-01 16:07
+WAIT Praying For Love — Donna De Lory | last aired 2026-10-31 20:07 | normal pick from 2026-11-02 08:07 | request now
 WAIT Precious — Depeche Mode | last aired 2026-10-31 22:56 | normal pick from 2026-11-02 10:56 | request from 2026-11-01 18:56
 OK   Precious Lord (Take My Hand) (Part One) — Aretha Franklin | last aired 2026-10-18 22:20 | normal pick now | request now
 WAIT Pretty Wings (uncut) — Maxwell | last aired 2026-10-30 23:48 | normal pick from 2026-11-01 23:48 | request from 2026-11-01 23:48
@@ -11,5 +11,5 @@ OK   Prime Audio Soup — Meat Beat Manifesto | last aired 2026-10-18 11:27 | no
 OK   princess mononoke theme — KOHTO | last aired 2026-10-16 03:35 | normal pick now | request now
 OK   Prisencolinensinainciusol — Adriano Celentano | last aired 2026-10-26 02:31 | normal pick now | request now
 OK   Promise — Voyager | last aired 2026-10-25 03:01 | normal pick now | request now
-WAIT Protection — Massive Attack | last aired 2026-10-31 04:58 | normal pick from 2026-11-01 16:58 | request now
+OK   Protection — Massive Attack | last aired 2026-10-31 04:58 | normal pick now | request now
 OK   The Promise  (2010 Remaster) — Arcadia | last aired 2026-10-24 18:10 | normal pick now | request now

@@ -1,4 +1,4 @@
-Track status, song titles filed under MO (built Sun Nov 1, 8:05 AM PST (16:05 UTC)). Times in UTC.
+Track status, song titles filed under MO (built Sun Nov 1, 9:05 AM PST (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Molitva — Marija Šerifović | last aired 2026-11-01 08:54 | normal pick from 2026-11-02 20:54 | request from 2026-11-02 04:54
@@ -9,7 +9,7 @@ OK   Monkberry Moon Delight (2012 Remaster) — Paul McCartney | last aired 2026
 OK   Mood for a Day  (2008 Remaster) — Yes | last aired 2026-10-28 00:23 | normal pick now | request now
 OK   Mood Indigo (G-Swing Featuring Ludovic Allen Remix) — Nina Simone | last aired 2026-10-27 16:45 | normal pick now | request now
 OK   Moon River (Remastered) — Henry Mancini | last aired 2026-10-27 21:57 | normal pick now | request now
-WAIT Moon River — Melody Gardot | last aired 2026-10-31 04:31 | normal pick from 2026-11-01 16:31 | request now
+OK   Moon River — Melody Gardot | last aired 2026-10-31 04:31 | normal pick now | request now
 OK   Moon River — Petra Haden | last aired 2026-10-29 05:18 | normal pick now | request now
 OK   Moon Song — Phoebe Bridgers | last aired 2026-10-28 12:43 | normal pick now | request now
 WAIT Moonage Daydream (2012 Remaster) — David Bowie | last aired 2026-10-31 12:51 | normal pick from 2026-11-02 00:51 | request now
