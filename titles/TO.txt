@@ -1,4 +1,4 @@
-Track status, song titles filed under TO (built Sun Nov 1, 7:05 AM PST (15:05 UTC)). Times in UTC.
+Track status, song titles filed under TO (built Sun Nov 1, 8:05 AM PST (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Touch — Stan Bush | last aired 2026-10-29 19:01 | normal pick now | request now
@@ -8,7 +8,7 @@ OK   Together We're Strong — Mireille Mathieu | last aired 2026-10-29 04:27 | 
 OK   Tom Sawyer — Rush | last aired 2026-10-29 14:47 | normal pick now | request now
 WAIT Torn — Ednaswap | last aired 2026-11-01 05:11 | normal pick from 2026-11-02 17:11 | request from 2026-11-02 01:11
 WAIT Torn — Natalie Imbruglia | last aired 2026-11-01 04:51 | normal pick from 2026-11-03 04:51 | request from 2026-11-03 04:51
-WAIT Torna a casa — Måneskin | last aired 2026-10-30 15:47 | normal pick from 2026-11-01 15:47 | request from 2026-11-01 15:47
-WAIT Total Eclipse of the Heart — Bonnie Tyler | last aired 2026-10-31 19:17 | normal pick from 2026-11-02 07:17 | request from 2026-11-01 15:17
+OK   Torna a casa — Måneskin | last aired 2026-10-30 15:47 | normal pick now | request now
+WAIT Total Eclipse of the Heart — Bonnie Tyler | last aired 2026-10-31 19:17 | normal pick from 2026-11-02 07:17 | request now
 OK   Touch It / Technologic — Daft Punk | last aired 2026-10-25 23:02 | normal pick now | request now
 OK   Touch The Hem Of His Garment — The Soul Stirrers | last aired 2026-10-29 05:00 | normal pick now | request now

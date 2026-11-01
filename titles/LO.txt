@@ -1,4 +1,4 @@
-Track status, song titles filed under LO (built Sun Nov 1, 7:05 AM PST (15:05 UTC)). Times in UTC.
+Track status, song titles filed under LO (built Sun Nov 1, 8:05 AM PST (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   L-O-V-E — Nat King Cole | last aired 2026-10-27 15:54 | normal pick now | request now
@@ -25,13 +25,13 @@ OK   Love — Mica Levi | last aired 2026-10-28 02:44 | normal pick now | reques
 OK   Love On A Real Train — Tangerine Dream | last aired 2026-10-28 06:54 | normal pick now | request now
 WAIT LOVE TRIP — Takako Mamiya | last aired 2026-11-01 10:20 | normal pick from 2026-11-03 10:20 | request from 2026-11-03 10:20
 WAIT Lovely Day — Bill Withers | last aired 2026-10-31 00:51 | normal pick from 2026-11-02 00:51 | request from 2026-11-02 00:51
-WAIT Lovers Rock — TV Girl | last aired 2026-10-31 19:36 | normal pick from 2026-11-02 07:36 | request from 2026-11-01 15:36
+WAIT Lovers Rock — TV Girl | last aired 2026-10-31 19:36 | normal pick from 2026-11-02 07:36 | request now
 OK   Lovesong  (2010 Remaster) — The Cure | last aired 2026-10-31 01:40 | normal pick now | request now
 OK   Lovin' Every Minute of It — Loverboy | last aired 2026-10-29 12:50 | normal pick now | request now
 OK   Lovin' You — Minnie Riperton | last aired 2026-10-29 02:47 | normal pick now | request now
 OK   Loving Machine — TV Girl | last aired 2026-10-16 13:16 | normal pick now | request now
 OK   Low Frequency Thunderstorm Shield — Cognitron | last aired 2026-10-21 06:17 | normal pick now | request now
-OK   Lowdown (2023 Remaster) — Boz Scaggs | last aired 2026-10-25 04:23 | normal pick now | request now
+WAIT Lowdown (2023 Remaster) — Boz Scaggs | last aired 2026-11-01 15:47 | normal pick from 2026-11-03 03:47 | request from 2026-11-02 11:47
 WAIT The Lonesome Death of Hattie Carroll — Bob Dylan | last aired 2026-10-31 18:17 | normal pick from 2026-11-02 06:17 | request now
 OK   The Long Road — Mark Knopfler | last aired 2026-10-30 21:44 | normal pick now | request now
 WAIT The Look — Roxette | last aired 2026-10-31 16:23 | normal pick from 2026-11-02 04:23 | request now
