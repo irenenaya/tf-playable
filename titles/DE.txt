@@ -1,4 +1,4 @@
-Track status, song titles filed under DE (built Sun Nov 1, 4:05 AM PST (12:05 UTC)). Times in UTC.
+Track status, song titles filed under DE (built Sun Nov 1, 5:05 AM PST (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT De Música Ligera (Remasterizado 2007) — Soda Stereo | last aired 2026-11-01 07:56 | normal pick from 2026-11-02 19:56 | request from 2026-11-02 03:56
@@ -7,7 +7,7 @@ OK   Dear Pressure — Miracles of Modern Science | last aired 2026-10-29 23:55 
 WAIT Deep Blue Day (Remastered 2019) — Brian Eno | last aired 2026-11-01 02:20 | normal pick from 2026-11-02 14:20 | request from 2026-11-01 22:20
 OK   Deep Sea Pastures (from 'Ponyo on the Cliff by the Sea') — Joe Hisaishi | last aired 2026-10-24 19:02 | normal pick now | request now
 WAIT Deeper Well — Kacey Musgraves | last aired 2026-10-31 13:29 | normal pick from 2026-11-02 01:29 | request now
-OK   Dein Lied — Laith Al-Deen | last aired 2026-10-27 05:24 | normal pick now | request now
+WAIT Dein Lied — Laith Al-Deen | last aired 2026-11-01 12:44 | normal pick from 2026-11-03 00:44 | request from 2026-11-02 08:44
 WAIT Demoliendo Hoteles (Live) — Charly García | last aired 2026-10-31 03:13 | normal pick from 2026-11-01 15:13 | request now
 OK   Demons Are a Girl's Best Friend — Powerwolf | last aired 2026-10-29 21:36 | normal pick now | request now
 OK   Denkmal — Wir Sind Helden | last aired 2026-10-28 19:38 | normal pick now | request now

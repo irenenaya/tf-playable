@@ -1,4 +1,4 @@
-Track status, song titles filed under LI (built Sun Nov 1, 4:05 AM PST (12:05 UTC)). Times in UTC.
+Track status, song titles filed under LI (built Sun Nov 1, 5:05 AM PST (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Li Beirut (after Joaquín Rodrigo) — Karim Sulayman | last aired 2026-10-29 16:47 | normal pick now | request now
@@ -6,7 +6,7 @@ WAIT Libertango (Arr. Yamamoto for Piano 4-Hands) — Beatrice Rana | last aired
 WAIT Libertango — Al Di Meola | last aired 2026-10-31 16:28 | normal pick from 2026-11-02 16:28 | request from 2026-11-02 16:28
 OK   Libertango — Rodrigo y Gabriela | last aired 2026-10-29 10:01 | normal pick now | request now
 OK   Libertango — Yo-Yo Ma | last aired 2026-10-28 10:31 | normal pick now | request now
-OK   Lid — Christian Löffler | last aired 2026-10-27 01:54 | normal pick now | request now
+WAIT Lid — Christian Löffler | last aired 2026-11-01 12:35 | normal pick from 2026-11-03 00:35 | request from 2026-11-02 08:35
 OK   Life Is Strange — Lord Huron | last aired 2026-10-29 12:11 | normal pick now | request now
 OK   Life Is Sweet — Maria McKee | last aired 2026-10-29 20:15 | normal pick now | request now
 WAIT Life Itself — Glass Animals | last aired 2026-10-31 02:28 | normal pick from 2026-11-01 14:28 | request now
@@ -16,7 +16,7 @@ OK   Life Without The Living — Tom Konkle | last aired 2026-10-17 06:06 | norm
 OK   Life's What You Make It  (1997 Remaster) — Talk Talk | last aired 2026-10-27 20:33 | normal pick now | request now
 OK   Light Bulb In My Head — Tom Konkle | last aired 2026-10-21 03:02 | normal pick now | request now
 OK   Lights (Album Version) — Journey | last aired 2026-10-28 18:04 | normal pick now | request now
-WAIT Like the Weather — 10,000 Maniacs | last aired 2026-10-31 00:10 | normal pick from 2026-11-01 12:10 | request now
+OK   Like the Weather — 10,000 Maniacs | last aired 2026-10-31 00:10 | normal pick now | request now
 OK   Lingus (Alternate Take) — Snarky Puppy | last aired 2026-10-23 17:14 | normal pick now | request now
 OK   Lisztomania — Phoenix | last aired 2026-10-26 01:50 | normal pick now | request now
 WAIT LITE SPOTS — Kaytranada | last aired 2026-10-31 23:30 | normal pick from 2026-11-02 11:30 | request from 2026-11-01 19:30

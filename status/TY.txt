@@ -1,9 +1,9 @@
-Track status, artists filed under TY (built Sun Nov 1, 4:05 AM PST (12:05 UTC)). Times in UTC.
+Track status, artists filed under TY (built Sun Nov 1, 5:05 AM PST (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Tycho — A Walk | last aired 2026-11-01 07:01 | normal pick from 2026-11-03 07:01 | request from 2026-11-03 07:01
 WAIT Tycho — Awake | last aired 2026-11-01 07:30 | normal pick from 2026-11-02 19:30 | request from 2026-11-02 03:30
 WAIT Tycho — Dive | last aired 2026-11-01 09:39 | normal pick from 2026-11-02 21:39 | request from 2026-11-02 05:39
-OK   Tyla — Water | last aired 2026-10-29 10:08 | normal pick now | request now
+WAIT Tyla — Water | last aired 2026-11-01 12:25 | normal pick from 2026-11-03 00:25 | request from 2026-11-02 08:25
 OK   Tyler Childers — Feathered Indians | last aired 2026-10-25 00:50 | normal pick now | request now
 OK   Tyler, The Creator — Ring Ring Ring | last aired 2026-10-22 20:13 | normal pick now | request now
