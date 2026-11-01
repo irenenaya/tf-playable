@@ -1,4 +1,4 @@
-Track status, song titles filed under ST (built Sat Oct 31, 10:05 PM PDT (05:05 UTC Sun)). Times in UTC.
+Track status, song titles filed under ST (built Sat Oct 31, 11:05 PM PDT (06:05 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT S.T.A.Y. — Hans Zimmer | last aired 2026-10-31 21:39 | normal pick from 2026-11-02 09:39 | request from 2026-11-01 17:39
@@ -16,7 +16,7 @@ OK   Start Shootin' — Little People | last aired 2026-10-29 21:58 | normal pic
 OK   Starálfur — Sigur Rós | last aired 2026-10-30 08:15 | normal pick now | request now
 OK   Static on the Radio — Jim White | last aired 2026-10-25 22:41 | normal pick now | request now
 OK   Stay — Shakespears Sister | last aired 2026-10-26 07:35 | normal pick now | request now
-WAIT Steal Away — Robbie Dupree | last aired 2026-11-01 01:54 | normal pick from 2026-11-02 13:54 | request from 2026-11-01 21:54
+WAIT Steal Away — Robbie Dupree | last aired 2026-11-01 01:55 | normal pick from 2026-11-02 13:55 | request from 2026-11-01 21:55
 OK   Steep Hills of Vicodin Tears — A Winged Victory For The Sullen | last aired 2026-10-24 01:59 | normal pick now | request now
 OK   Steppe — René Aubry | last aired 2026-10-30 13:58 | normal pick now | request now
 OK   Stick Season — Noah Kahan | last aired 2026-10-15 03:23 | normal pick now | request now
@@ -35,7 +35,7 @@ OK   Strawberry Fields Forever — The Beatles | last aired 2026-10-25 14:15 | n
 OK   Strawberry Letter 23 (Album Version) — The Brothers Johnson | last aired 2026-10-24 12:20 | normal pick now | request now
 OK   Street Fighting Man — The Rolling Stones | last aired 2026-10-24 13:40 | normal pick now | request now
 OK   Street Lights — Josh Rouse | last aired 2026-10-27 17:56 | normal pick now | request now
-OK   Streets of Philadelphia  (Single Edit) — Bruce Springsteen | last aired 2026-10-22 18:40 | normal pick now | request now
+WAIT Streets of Philadelphia  (Single Edit) — Bruce Springsteen | last aired 2026-11-01 05:36 | normal pick from 2026-11-02 17:36 | request from 2026-11-02 01:36
 OK   Stressed Out — twenty one pilots | last aired 2026-10-26 12:18 | normal pick now | request now
 OK   Strings of Light — Yussef Kamaal | last aired 2026-10-23 17:23 | normal pick now | request now
 OK   Stripsearch — Faith No More | last aired 2026-10-20 19:48 | normal pick now | request now

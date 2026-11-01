@@ -1,8 +1,8 @@
-Track status, artists filed under DO (built Sat Oct 31, 10:05 PM PDT (05:05 UTC Sun)). Times in UTC.
+Track status, artists filed under DO (built Sat Oct 31, 11:05 PM PDT (06:05 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Dolly Parton — 9 to 5 | last aired 2026-10-25 23:28 | normal pick now | request now
-WAIT Dolly Parton — Coat of Many Colors | last aired 2026-10-31 09:58 | normal pick from 2026-11-01 21:58 | request from 2026-11-01 05:58
+WAIT Dolly Parton — Coat of Many Colors | last aired 2026-10-31 09:58 | normal pick from 2026-11-01 21:58 | request now
 WAIT Dolly Parton — I Dreamed About Elvis | last aired 2026-10-31 19:54 | normal pick from 2026-11-02 07:54 | request from 2026-11-01 15:54
 OK   Dolly Parton — I Will Always Love You | last aired 2026-10-30 13:52 | normal pick now | request now
 WAIT Dolly Parton — Jolene | last aired 2026-10-30 21:59 | normal pick from 2026-11-01 09:59 | request now
@@ -10,14 +10,14 @@ WAIT Don McLean — Vincent | last aired 2026-10-31 19:51 | normal pick from 202
 OK   Donald Fagen — The Nightfly | last aired 2026-10-13 07:57 | normal pick now | request now
 WAIT Donna De Lory — Praying For Love | last aired 2026-10-31 20:07 | normal pick from 2026-11-02 08:07 | request from 2026-11-01 16:07
 WAIT Donna Summer — I Feel Love | last aired 2026-10-31 19:58 | normal pick from 2026-11-02 07:58 | request from 2026-11-01 15:58
-OK   Donny Hathaway — A Song for You | last aired 2026-10-30 08:50 | normal pick now | request now
+WAIT Donny Hathaway — A Song for You | last aired 2026-11-01 05:27 | normal pick from 2026-11-02 17:27 | request from 2026-11-02 01:27
 WAIT Donny Hathaway — Jealous Guy  (Live) | last aired 2026-10-31 17:41 | normal pick from 2026-11-02 05:41 | request from 2026-11-01 13:41
 WAIT Dope Lemon — Honey Bones | last aired 2026-10-31 20:02 | normal pick from 2026-11-02 20:02 | request from 2026-11-02 20:02
 OK   Dorian Electra — Bizarre Love Triangle | last aired 2026-10-14 13:02 | normal pick now | request now
 OK   Dorian Electra — Feel Good Inc. | last aired 2026-10-13 13:58 | normal pick now | request now
 OK   Dorian Electra — Hella Good | last aired 2026-10-25 13:14 | normal pick now | request now
 WAIT Dot Allison — Bleached By The Sun | last aired 2026-10-31 16:54 | normal pick from 2026-11-02 04:54 | request from 2026-11-01 12:54
-OK   The Doobie Brothers — What a Fool Believes | last aired 2026-10-25 14:48 | normal pick now | request now
+WAIT The Doobie Brothers — What a Fool Believes | last aired 2026-11-01 05:23 | normal pick from 2026-11-02 17:23 | request from 2026-11-02 01:23
 WAIT The Doobie Brothers — You Belong to Me  (2016 Remaster) | last aired 2026-10-31 17:44 | normal pick from 2026-11-02 05:44 | request from 2026-11-01 13:44
 WAIT The Doors — Riders on the Storm | last aired 2026-10-31 11:05 | normal pick from 2026-11-01 23:05 | request from 2026-11-01 07:05
 OK   The Doors — Spanish Caravan | last aired 2026-10-24 03:40 | normal pick now | request now

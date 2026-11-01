@@ -1,4 +1,4 @@
-Track status, artists filed under RA (built Sat Oct 31, 10:05 PM PDT (05:05 UTC Sun)). Times in UTC.
+Track status, artists filed under RA (built Sat Oct 31, 11:05 PM PDT (06:05 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Radiohead — Paranoid Android | last aired 2026-11-01 00:27 | normal pick from 2026-11-03 00:27 | request from 2026-11-03 00:27
@@ -6,11 +6,11 @@ WAIT Radiohead — Weird Fishes / Arpeggi | last aired 2026-10-30 16:32 | normal
 OK   Rammstein — Deutschland | last aired 2026-10-29 01:05 | normal pick now | request now
 WAIT Ramones — Blitzkrieg Bop | last aired 2026-10-31 23:44 | normal pick from 2026-11-02 11:44 | request from 2026-11-01 19:44
 WAIT Randy Crawford — One Day I'll Fly Away | last aired 2026-10-31 10:39 | normal pick from 2026-11-02 10:39 | request from 2026-11-02 10:39
-WAIT Randy Travis — Forever and Ever, Amen | last aired 2026-11-01 01:34 | normal pick from 2026-11-02 13:34 | request from 2026-11-01 21:34
+WAIT Randy Travis — Forever and Ever, Amen | last aired 2026-11-01 01:36 | normal pick from 2026-11-02 13:36 | request from 2026-11-01 21:36
 WAIT Raquel Tavares — Como É Grande o Meu Amor por Você | last aired 2026-10-30 08:43 | normal pick from 2026-11-01 08:43 | request from 2026-11-01 08:43
 OK   Ray Anthony — The Hokey Pokey | last aired 2026-10-27 19:52 | normal pick now | request now
 WAIT Ray Parker Junior — Ghostbusters (Album Version) | last aired 2026-10-31 13:22 | normal pick from 2026-11-02 13:22 | request from 2026-11-02 13:22
-WAIT Rayland Baxter — Objects In The Mirror | last aired 2026-11-01 01:38 | normal pick from 2026-11-02 13:38 | request from 2026-11-01 21:38
+WAIT Rayland Baxter — Objects In The Mirror | last aired 2026-11-01 01:41 | normal pick from 2026-11-02 13:41 | request from 2026-11-01 21:41
 OK   The Rah Band — Clouds Across the Moon | last aired 2026-10-30 16:38 | normal pick now | request now
 OK   The Rah Band — Messages from the Stars (Remaster) | last aired 2026-10-28 22:38 | normal pick now | request now
 OK   The Ray Charles Singers — Sweet Little Mountain Bird | last aired 2026-09-18 12:34 | normal pick now | request now
