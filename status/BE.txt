@@ -1,8 +1,8 @@
-Track status, artists filed under BE (built Sun Nov 1, 1:05 PM PST (21:05 UTC)). Times in UTC.
+Track status, artists filed under BE (built Sun Nov 1, 1:55 PM PST (21:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Beach House — Bluebird | last aired 2026-10-28 09:19 | normal pick now | request now
-WAIT Beach House — Space Song | last aired 2026-10-30 21:12 | normal pick from 2026-11-01 21:12 | request from 2026-11-01 21:12
+OK   Beach House — Space Song | last aired 2026-10-30 21:12 | normal pick now | request now
 OK   Beastie Boys — Sabotage | last aired 2026-10-28 21:54 | normal pick now | request now
 WAIT Beatrice Rana — Keyboard Concerto No. 1 in D Minor, BWV 1052: I. Allegro | last aired 2026-11-01 11:42 | normal pick from 2026-11-02 23:42 | request from 2026-11-02 07:42
 WAIT Beatrice Rana — Libertango (Arr. Yamamoto for Piano 4-Hands) | last aired 2026-11-01 18:32 | normal pick from 2026-11-03 18:32 | request from 2026-11-03 18:32
@@ -15,7 +15,7 @@ OK   Becky Levi and the Nightjars — Wake Me Up | last aired 2026-10-22 06:23 |
 OK   Bee Gees — Night Fever (From "Saturday Night Fever" Soundtrack) | last aired 2026-10-06 16:28 | normal pick now | request now
 OK   Beenie Man — Feel It Boy | last aired 2026-10-30 15:44 | normal pick now | request now
 OK   Belcea Quartet — Quatuor à cordes n° 4, Sz. 91 - String Quartet No. 4 in C Major, Sz. 91: IV. Allegretto pizzicato | last aired 2026-10-30 04:29 | normal pick now | request now
-WAIT Belle and Sebastian — The Boy with the Arab Strap | last aired 2026-10-30 21:17 | normal pick from 2026-11-01 21:17 | request from 2026-11-01 21:17
+OK   Belle and Sebastian — The Boy with the Arab Strap | last aired 2026-10-30 21:17 | normal pick now | request now
 OK   Ben Allison — D.A.V.E. | last aired 2026-10-28 22:54 | normal pick now | request now
 WAIT Ben E. King — Stand By Me | last aired 2026-10-31 09:29 | normal pick from 2026-11-02 09:29 | request from 2026-11-02 09:29
 WAIT Ben Harper — Yard Sale | last aired 2026-11-01 20:26 | normal pick from 2026-11-03 20:26 | request from 2026-11-03 20:26

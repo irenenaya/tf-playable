@@ -1,4 +1,4 @@
-Track status, artists filed under BR (built Sun Nov 1, 1:05 PM PST (21:05 UTC)). Times in UTC.
+Track status, artists filed under BR (built Sun Nov 1, 1:55 PM PST (21:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Brainstory — Mnemophobia | last aired 2026-10-31 06:20 | normal pick now | request now
@@ -19,7 +19,7 @@ WAIT Bruce Springsteen — Born in the U.S.A. | last aired 2026-10-31 19:24 | no
 OK   Bruce Springsteen — Born to Run | last aired 2026-10-30 22:03 | normal pick now | request now
 WAIT Bruce Springsteen — No Surrender | last aired 2026-11-01 00:58 | normal pick from 2026-11-02 12:58 | request now
 WAIT Bruce Springsteen — Streets of Philadelphia  (Single Edit) | last aired 2026-11-01 05:37 | normal pick from 2026-11-02 17:37 | request from 2026-11-02 01:37
-WAIT Bruce Springsteen — The River | last aired 2026-10-31 09:51 | normal pick from 2026-11-01 21:51 | request now
+OK   Bruce Springsteen — The River | last aired 2026-10-31 09:51 | normal pick now | request now
 OK   Bruce Springsteen — Thunder Road | last aired 2026-10-30 22:50 | normal pick now | request now
 OK   Bruno Battisti D'Amario — Omaggio a giuliani | last aired 2026-10-28 03:40 | normal pick now | request now
 OK   Bruno Mars — Gorilla | last aired 2026-10-23 18:55 | normal pick now | request now
