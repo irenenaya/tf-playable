@@ -1,7 +1,7 @@
-Track status, artists filed under BO (built Sat Oct 31, 4:05 PM PDT (23:05 UTC)). Times in UTC.
+Track status, artists filed under BO (built Sat Oct 31, 5:05 PM PDT (00:05 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Boards of Canada — Blood In The Labyrinth | last aired 2026-10-21 21:42 | normal pick now | request now
+WAIT Boards of Canada — Blood In The Labyrinth | last aired 2026-10-31 23:38 | normal pick from 2026-11-02 11:38 | request from 2026-11-01 19:38
 WAIT Boards of Canada — Dayvan Cowboy | last aired 2026-10-31 07:22 | normal pick from 2026-11-01 19:22 | request from 2026-11-01 03:22
 OK   Boards of Canada — Olson | last aired 2026-10-28 07:57 | normal pick now | request now
 OK   Boards of Canada — Roygbiv | last aired 2026-10-23 23:13 | normal pick now | request now
@@ -19,7 +19,7 @@ WAIT Bon Iver — Holocene | last aired 2026-10-31 04:35 | normal pick from 2026
 WAIT Bon Iver — Skinny Love | last aired 2026-10-31 15:11 | normal pick from 2026-11-02 15:11 | request from 2026-11-02 15:11
 OK   Bon Jovi — Livin' On A Prayer | last aired 2026-10-26 15:27 | normal pick now | request now
 OK   Bon Jovi — You Give Love A Bad Name | last aired 2026-10-28 18:07 | normal pick now | request now
-WAIT Boney M. — Gotta Go Home | last aired 2026-10-31 03:18 | normal pick from 2026-11-01 15:18 | request from 2026-10-31 23:18
+WAIT Boney M. — Gotta Go Home | last aired 2026-10-31 03:18 | normal pick from 2026-11-01 15:18 | request now
 OK   Boney M. — Sunny | last aired 2026-10-28 09:50 | normal pick now | request now
 OK   Bonnie Tyler — Holding Out for a Hero (From "Footloose" Soundtrack) | last aired 2026-10-20 20:26 | normal pick now | request now
 WAIT Bonnie Tyler — Total Eclipse of the Heart | last aired 2026-10-31 19:17 | normal pick from 2026-11-02 07:17 | request from 2026-11-01 15:17
