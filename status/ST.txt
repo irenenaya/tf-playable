@@ -1,4 +1,4 @@
-Track status, artists filed under ST (built Sat Oct 31, 9:05 PM PDT (04:05 UTC Sun)). Times in UTC.
+Track status, artists filed under ST (built Sat Oct 31, 10:05 PM PDT (05:05 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   St Germain — Rose rouge | last aired 2026-10-29 13:34 | normal pick now | request now
@@ -24,13 +24,13 @@ OK   Stevie Wonder — Go Home | last aired 2026-10-25 09:30 | normal pick now |
 OK   Stevie Wonder — Golden Lady | last aired 2026-10-29 13:19 | normal pick now | request now
 OK   Stevie Wonder — Happy Birthday | last aired 2026-09-29 18:47 | normal pick now | request now
 WAIT Stevie Wonder — Higher Ground (Album Version) | last aired 2026-10-30 17:13 | normal pick from 2026-11-01 05:13 | request now
-WAIT Stevie Wonder — I Wish | last aired 2026-10-30 16:59 | normal pick from 2026-11-01 04:59 | request now
+OK   Stevie Wonder — I Wish | last aired 2026-10-30 16:59 | normal pick now | request now
 WAIT Stevie Wonder — Isn't She Lovely | last aired 2026-10-31 00:27 | normal pick from 2026-11-01 12:27 | request now
 OK   Stevie Wonder — Living For The City (Album Version) | last aired 2026-10-24 12:36 | normal pick now | request now
 OK   Stevie Wonder — Master Blaster (Jammin') | last aired 2026-10-29 22:30 | normal pick now | request now
 WAIT Stevie Wonder — Sir Duke | last aired 2026-10-31 23:46 | normal pick from 2026-11-02 11:46 | request from 2026-11-01 19:46
 OK   Stevie Wonder — Summer Soft | last aired 2026-10-30 14:44 | normal pick now | request now
-WAIT Stevie Wonder — Superstition (Album Version) | last aired 2026-10-30 17:03 | normal pick from 2026-11-01 05:03 | request now
+OK   Stevie Wonder — Superstition (Album Version) | last aired 2026-10-30 17:03 | normal pick now | request now
 OK   Stevie Wonder — You Haven't Done Nothin' | last aired 2026-10-26 12:43 | normal pick now | request now
 OK   Still Woozy — Get Down | last aired 2026-10-29 09:34 | normal pick now | request now
 OK   Sting — Desert Rose (Album Version) | last aired 2026-10-29 14:17 | normal pick now | request now
