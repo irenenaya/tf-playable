@@ -1,7 +1,7 @@
-Track status, artists filed under AL (built Sat Oct 31, 8:05 PM PDT (03:05 UTC Sun)). Times in UTC.
+Track status, artists filed under AL (built Sat Oct 31, 9:05 PM PDT (04:05 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Al Di Meola — Double Concerto | last aired 2026-10-30 16:03 | normal pick from 2026-11-01 04:03 | request now
+OK   Al Di Meola — Double Concerto | last aired 2026-10-30 16:03 | normal pick now | request now
 WAIT Al Di Meola — Libertango | last aired 2026-10-31 16:28 | normal pick from 2026-11-02 16:28 | request from 2026-11-02 16:28
 OK   Al Di Meola — Passion, Grace & Fire (Album Version) | last aired 2026-10-29 15:47 | normal pick now | request now
 WAIT Al Di Meola — Red Moon | last aired 2026-10-31 04:49 | normal pick from 2026-11-01 16:49 | request now
@@ -21,7 +21,7 @@ WAIT Alestorm — Keelhauled | last aired 2026-10-31 22:30 | normal pick from 20
 OK   Alex Andre — thanks, my day is ruined | last aired 2026-10-25 13:48 | normal pick now | request now
 OK   Alexander Malter — Pärt: Für Alina | last aired 2026-10-25 18:33 | normal pick now | request now
 OK   Alexander Rybak — Fairytale | last aired 2026-10-30 10:18 | normal pick now | request now
-OK   Alexandre Tharaud — Gnossienne No.1 - Gnossienne: No. 1 | last aired 2026-10-29 04:16 | normal pick now | request now
+WAIT Alexandre Tharaud — Gnossienne No.1 - Gnossienne: No. 1 | last aired 2026-11-01 03:40 | normal pick from 2026-11-03 03:40 | request from 2026-11-03 03:40
 WAIT Alexi Murdoch — Orange Sky | last aired 2026-10-30 17:56 | normal pick from 2026-11-01 05:56 | request now
 WAIT Alfa Mist — Organic Rust | last aired 2026-10-31 04:41 | normal pick from 2026-11-01 16:41 | request now
 WAIT Ali Farka Touré — Soukora | last aired 2026-10-30 16:11 | normal pick from 2026-11-01 16:11 | request from 2026-11-01 16:11
@@ -32,5 +32,5 @@ OK   Alison Krauss — Down To The River To Pray (Live) | last aired 2026-10-29 
 OK   Almendra — Plegaria para un Niño Dormido | last aired 2026-10-30 10:14 | normal pick now | request now
 OK   Alvin Lucier — I Am Sitting in a Room | last aired 2026-10-21 05:59 | normal pick now | request now
 WAIT Alvvays — Belinda Says | last aired 2026-10-30 11:04 | normal pick from 2026-11-01 11:04 | request from 2026-11-01 11:04
-WAIT Alèmayèhu Eshèté — Tashamanaletch | last aired 2026-10-31 08:00 | normal pick from 2026-11-01 20:00 | request from 2026-11-01 04:00
+WAIT Alèmayèhu Eshèté — Tashamanaletch | last aired 2026-10-31 08:00 | normal pick from 2026-11-01 20:00 | request now
 WAIT The Altons — When You Go (That's When You'll Know) | last aired 2026-10-31 17:19 | normal pick from 2026-11-02 05:19 | request from 2026-11-01 13:19
