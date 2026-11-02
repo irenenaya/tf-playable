@@ -1,4 +1,4 @@
-Track status, artists filed under LA (built Mon Nov 2, 11:55 AM PST (19:55 UTC)). Times in UTC.
+Track status, artists filed under LA (built Mon Nov 2, 12:05 PM PST (20:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   La Fenice — Le Chant des oiseaux | last aired 2026-10-02 15:12 | normal pick now | request now
@@ -10,7 +10,7 @@ OK   Lamb — Bonfire | last aired 2026-10-31 14:41 | normal pick now | request 
 WAIT Lamb — Gorecki | last aired 2026-11-02 13:55 | normal pick from 2026-11-04 01:55 | request from 2026-11-03 09:55
 OK   Lana Del Rey — Diet Mountain Dew | last aired 2026-10-26 18:16 | normal pick now | request now
 WAIT Lana Del Rey — Heroin | last aired 2026-11-02 00:56 | normal pick from 2026-11-03 12:56 | request from 2026-11-02 20:56
-WAIT Lana Del Rey — Salvatore | last aired 2026-11-02 17:20 | normal pick from 2026-11-04 05:20 | request from 2026-11-03 13:20
+WAIT Lana Del Rey — Salvatore | last aired 2026-11-02 17:21 | normal pick from 2026-11-04 05:21 | request from 2026-11-03 13:21
 WAIT Lana Del Rey — Venice Bitch | last aired 2026-11-02 14:43 | normal pick from 2026-11-04 02:43 | request from 2026-11-03 10:43
 WAIT Lana Del Rey — Young And Beautiful | last aired 2026-11-01 12:41 | normal pick from 2026-11-03 00:41 | request now
 WAIT Lang Lang — Joe Hisaishi: Spring | last aired 2026-11-01 13:18 | normal pick from 2026-11-03 01:18 | request now
