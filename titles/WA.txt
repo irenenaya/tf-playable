@@ -1,4 +1,4 @@
-Track status, song titles filed under WA (built Mon Nov 2, 9:25 AM PST (17:25 UTC)). Times in UTC.
+Track status, song titles filed under WA (built Mon Nov 2, 9:35 AM PST (17:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Way You Look Tonight — Tony Bennett & Faith Hill | last aired 2026-10-26 13:12 | normal pick now | request now
@@ -11,7 +11,7 @@ OK   Walking On The Moon (Remastered 2003) — The Police | last aired 2026-10-2
 WAIT Waltz No.19 in A minor, Op.posth. - Chopin: Waltz No. 19 in A minor, Op. posth. — Peter Jablonski | last aired 2026-11-02 09:15 | normal pick from 2026-11-04 09:15 | request from 2026-11-04 09:15
 OK   Waltzing Back — No Vacation | last aired 2026-10-29 07:14 | normal pick now | request now
 WAIT Wandering Star — Portishead | last aired 2026-11-01 07:30 | normal pick from 2026-11-03 07:30 | request from 2026-11-03 07:30
-OK   War — Edwin Starr | last aired 2026-10-24 21:18 | normal pick now | request now
+WAIT War — Edwin Starr | last aired 2026-11-02 17:25 | normal pick from 2026-11-04 05:25 | request from 2026-11-03 13:25
 WAIT Warszawa  (2017 Remaster) — David Bowie | last aired 2026-11-02 01:49 | normal pick from 2026-11-03 13:49 | request from 2026-11-02 21:49
 OK   Was soll das (Remastered 2016) — Herbert Grönemeyer | last aired 2026-10-23 12:16 | normal pick now | request now
 OK   Wasteland, Baby! — Hozier | last aired 2026-10-30 09:17 | normal pick now | request now
