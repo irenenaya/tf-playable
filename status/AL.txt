@@ -1,4 +1,4 @@
-Track status, artists filed under AL (built Mon Nov 2, 4:35 AM PST (12:35 UTC)). Times in UTC.
+Track status, artists filed under AL (built Mon Nov 2, 4:45 AM PST (12:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Al Di Meola — Double Concerto | last aired 2026-10-30 16:03 | normal pick now | request now
@@ -11,10 +11,10 @@ WAIT Al Green — Simply Beautiful | last aired 2026-11-02 02:23 | normal pick f
 WAIT Al Green — The Lord Will Make a Way | last aired 2026-11-01 16:10 | normal pick from 2026-11-03 04:10 | request now
 WAIT Al Stewart — Year of the Cat | last aired 2026-11-01 13:58 | normal pick from 2026-11-03 01:58 | request now
 OK   Alabama 3 — Sad Eyed Lady Of The Low Life | last aired 2026-10-31 01:53 | normal pick now | request now
-WAIT Alabama 3 — Thank you | last aired 2026-11-01 16:37 | normal pick from 2026-11-03 04:37 | request from 2026-11-02 12:37
+WAIT Alabama 3 — Thank you | last aired 2026-11-01 16:37 | normal pick from 2026-11-03 04:37 | request now
 OK   Alabama 3 — Woke Up This Morning | last aired 2026-09-25 07:44 | normal pick now | request now
 WAIT Albert Hammond — When I'm Gone | last aired 2026-11-02 04:21 | normal pick from 2026-11-03 16:21 | request from 2026-11-03 00:21
-WAIT Albert King — Born Under A Bad Sign | last aired 2026-11-01 16:42 | normal pick from 2026-11-03 04:42 | request from 2026-11-02 12:42
+WAIT Albert King — Born Under A Bad Sign | last aired 2026-11-01 16:42 | normal pick from 2026-11-03 04:42 | request now
 WAIT Alestorm — Captain Morgan`s Revenge | last aired 2026-11-01 10:14 | normal pick from 2026-11-02 22:14 | request now
 WAIT Alestorm — Drink | last aired 2026-11-02 02:29 | normal pick from 2026-11-03 14:29 | request from 2026-11-02 22:29
 OK   Alestorm — Keelhauled | last aired 2026-10-31 22:30 | normal pick now | request now
@@ -26,7 +26,7 @@ WAIT Alexi Murdoch — Orange Sky | last aired 2026-11-01 16:04 | normal pick fr
 WAIT Alfa Mist — Organic Rust | last aired 2026-11-02 04:58 | normal pick from 2026-11-03 16:58 | request from 2026-11-03 00:58
 WAIT Ali Farka Touré — Soukora | last aired 2026-11-01 17:20 | normal pick from 2026-11-03 17:20 | request from 2026-11-03 17:20
 WAIT Alice Coltrane — Journey In Satchidananda | last aired 2026-11-02 05:02 | normal pick from 2026-11-03 17:02 | request from 2026-11-03 01:02
-WAIT Alice In Chains — Man in the Box | last aired 2026-11-01 00:42 | normal pick from 2026-11-02 12:42 | request now
+OK   Alice In Chains — Man in the Box | last aired 2026-11-01 00:42 | normal pick now | request now
 WAIT Alicia Keys — Fallin' (Album Version) | last aired 2026-11-02 08:39 | normal pick from 2026-11-03 20:39 | request from 2026-11-03 04:39
 WAIT Alison Krauss — Down To The River To Pray (Live) | last aired 2026-11-02 10:24 | normal pick from 2026-11-03 22:24 | request from 2026-11-03 06:24
 WAIT Almendra — Plegaria para un Niño Dormido | last aired 2026-11-02 02:25 | normal pick from 2026-11-03 14:25 | request from 2026-11-02 22:25
