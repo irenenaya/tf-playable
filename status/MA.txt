@@ -1,4 +1,4 @@
-Track status, artists filed under MA (built Sun Nov 1, 9:25 PM PST (05:25 UTC Mon)). Times in UTC.
+Track status, artists filed under MA (built Sun Nov 1, 9:35 PM PST (05:35 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   M/A/R/R/S — Pump Up The Volume (UK 12" Remix) | last aired 2026-10-27 19:21 | normal pick now | request now
@@ -14,7 +14,7 @@ WAIT Mana — Rayando el Sol | last aired 2026-11-01 10:06 | normal pick from 20
 WAIT Manal — MORAK | last aired 2026-11-01 08:42 | normal pick from 2026-11-02 20:42 | request now
 WAIT Manau — Je Jazz Les Couleurs (Album Version) | last aired 2026-11-01 10:09 | normal pick from 2026-11-03 10:09 | request from 2026-11-03 10:09
 OK   Marc Rebillet — Late To Work | last aired 2026-10-09 16:38 | normal pick now | request now
-OK   Marconi Union — Weightless | last aired 2026-10-31 06:36 | normal pick now | request now
+WAIT Marconi Union — Weightless | last aired 2026-11-02 05:29 | normal pick from 2026-11-03 17:29 | request from 2026-11-03 01:29
 WAIT Margaret Berger — I Feed You My Love (Extended Version) | last aired 2026-11-01 09:02 | normal pick from 2026-11-03 09:02 | request from 2026-11-03 09:02
 OK   Maria McKee — Absolutely Barking Stars | last aired 2026-10-29 19:32 | normal pick now | request now
 OK   Maria McKee — Life Is Sweet | last aired 2026-10-29 20:15 | normal pick now | request now
@@ -53,7 +53,7 @@ OK   Massive Attack — Unfinished Sympathy (2012 Mix/Master) | last aired 2026-
 OK   Matt Nathanson — All We Are | last aired 2026-10-31 08:41 | normal pick now | request now
 OK   Matt Nathanson — Come On Get Higher | last aired 2026-10-26 14:17 | normal pick now | request now
 OK   Matt Nathanson — Faster | last aired 2026-10-30 07:35 | normal pick now | request now
-WAIT Mavis Staples — We're Gonna Make It | last aired 2026-10-31 17:28 | normal pick from 2026-11-02 05:28 | request now
+OK   Mavis Staples — We're Gonna Make It | last aired 2026-10-31 17:28 | normal pick now | request now
 OK   Max Richter — Dream 3 (in the midst of my life) | last aired 2026-10-30 21:01 | normal pick now | request now
 WAIT Max Richter — On the Nature of Daylight | last aired 2026-11-01 02:03 | normal pick from 2026-11-02 14:03 | request now
 OK   Max Specter — Just Asking (Day Theme I) | last aired 2026-10-31 06:58 | normal pick now | request now
