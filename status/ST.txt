@@ -1,4 +1,4 @@
-Track status, artists filed under ST (built Mon Nov 2, 4:45 AM PST (12:45 UTC)). Times in UTC.
+Track status, artists filed under ST (built Mon Nov 2, 4:55 AM PST (12:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT St Germain — Rose rouge | last aired 2026-11-01 16:26 | normal pick from 2026-11-03 04:26 | request now
@@ -11,7 +11,7 @@ OK   Stealers Wheel — Stuck In The Middle With You | last aired 2026-10-31 17:
 OK   Steely Dan — Almost Gothic (Album Version) | last aired 2026-10-30 13:48 | normal pick now | request now
 WAIT Steely Dan — Babylon Sisters | last aired 2026-11-01 14:14 | normal pick from 2026-11-03 02:14 | request now
 WAIT Steely Dan — Home At Last | last aired 2026-11-02 01:26 | normal pick from 2026-11-03 13:26 | request from 2026-11-02 21:26
-OK   Steely Dan — Jack of Speed (Album Version) | last aired 2026-10-29 22:41 | normal pick now | request now
+WAIT Steely Dan — Jack of Speed (Album Version) | last aired 2026-11-02 12:50 | normal pick from 2026-11-04 00:50 | request from 2026-11-03 08:50
 WAIT Steely Dan — Kid Charlemagne | last aired 2026-11-02 01:35 | normal pick from 2026-11-03 13:35 | request from 2026-11-02 21:35
 OK   Steely Dan — Peg | last aired 2026-10-31 01:48 | normal pick now | request now
 OK   Steely Dan — Time Out Of Mind | last aired 2026-10-30 06:12 | normal pick now | request now
@@ -36,7 +36,7 @@ WAIT Still Woozy — Get Down | last aired 2026-11-01 16:45 | normal pick from 2
 WAIT Sting — Desert Rose (Album Version) | last aired 2026-11-01 21:16 | normal pick from 2026-11-03 09:16 | request from 2026-11-02 17:16
 WAIT Sting — Fields Of Gold (My Songs Version) | last aired 2026-11-01 14:24 | normal pick from 2026-11-03 02:24 | request now
 OK   Sting — Fragile | last aired 2026-10-31 15:15 | normal pick now | request now
-OK   Sting — If You Love Somebody Set Them Free (Single Edit) | last aired 2026-10-29 17:11 | normal pick now | request now
+WAIT Sting — If You Love Somebody Set Them Free (Single Edit) | last aired 2026-11-02 12:46 | normal pick from 2026-11-04 00:46 | request from 2026-11-03 08:46
 WAIT Sting — Shape Of My Heart (My Songs Version) | last aired 2026-11-02 03:37 | normal pick from 2026-11-03 15:37 | request from 2026-11-02 23:37
 WAIT Stratovarius — Black Diamond | last aired 2026-11-02 03:41 | normal pick from 2026-11-03 15:41 | request from 2026-11-02 23:41
 OK   Studio Group — As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired 2026-08-08 23:18 | normal pick now | request now
@@ -46,4 +46,4 @@ OK   The Staple Singers — I'll Take You There | last aired 2026-10-31 17:00 | 
 OK   The Strokes — Last Nite | last aired 2026-10-29 22:53 | normal pick now | request now
 WAIT The Strokes — Lonely in the Future | last aired 2026-11-01 21:32 | normal pick from 2026-11-03 21:32 | request from 2026-11-03 21:32
 OK   The Strokes — Ode To The Mets | last aired 2026-10-30 10:58 | normal pick now | request now
-WAIT The Style Council — Iwasadoledadstoyboy | last aired 2026-11-01 16:47 | normal pick from 2026-11-03 04:47 | request from 2026-11-02 12:47
+WAIT The Style Council — Iwasadoledadstoyboy | last aired 2026-11-01 16:47 | normal pick from 2026-11-03 04:47 | request now
