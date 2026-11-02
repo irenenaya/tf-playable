@@ -1,9 +1,9 @@
-Track status, artists filed under BI (built Mon Nov 2, 7:25 AM PST (15:25 UTC)). Times in UTC.
+Track status, artists filed under BI (built Mon Nov 2, 7:35 AM PST (15:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Bicep — Apricots | last aired 2026-11-01 02:16 | normal pick now | request now
 WAIT Big Bad Voodoo Daddy — Why Me? | last aired 2026-11-02 14:24 | normal pick from 2026-11-04 02:24 | request from 2026-11-03 10:24
-WAIT Big Data — Put Me to Work | last aired 2026-11-01 03:34 | normal pick from 2026-11-02 15:34 | request now
+OK   Big Data — Put Me to Work | last aired 2026-11-01 03:34 | normal pick now | request now
 WAIT Big Thief — Mary | last aired 2026-11-01 05:45 | normal pick from 2026-11-03 05:45 | request from 2026-11-03 05:45
 WAIT Bikini Kill — Rebel Girl | last aired 2026-11-02 03:08 | normal pick from 2026-11-03 15:08 | request from 2026-11-02 23:08
 WAIT Bill Callahan — Riding For The Feeling | last aired 2026-11-02 12:18 | normal pick from 2026-11-04 12:18 | request from 2026-11-04 12:18
