@@ -1,4 +1,4 @@
-Track status, song titles filed under YO (built Mon Nov 2, 2:05 PM PST (22:05 UTC)). Times in UTC.
+Track status, song titles filed under YO (built Mon Nov 2, 2:15 PM PST (22:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT You and I — Papooz | last aired 2026-11-01 22:33 | normal pick from 2026-11-03 10:33 | request now
@@ -11,7 +11,7 @@ WAIT You Can Call Me Al — Paul Simon | last aired 2026-11-01 20:18 | normal pi
 OK   You Can Have It All — Yo La Tengo | last aired 2026-10-28 10:57 | normal pick now | request now
 WAIT You Can't Always Get What You Want — The Rolling Stones | last aired 2026-11-01 19:01 | normal pick from 2026-11-03 07:01 | request now
 OK   You Don't Know What Love Is — Chet Baker | last aired 2026-11-01 00:33 | normal pick now | request now
-OK   You Give Love A Bad Name — Bon Jovi | last aired 2026-10-28 18:07 | normal pick now | request now
+WAIT You Give Love A Bad Name — Bon Jovi | last aired 2026-11-02 22:01 | normal pick from 2026-11-04 10:01 | request from 2026-11-03 18:01
 OK   You Got This — Skindred | last aired 2026-09-15 08:59 | normal pick now | request now
 WAIT You Haven't Done Nothin' — Stevie Wonder | last aired 2026-11-02 19:52 | normal pick from 2026-11-04 07:52 | request from 2026-11-03 15:52
 OK   You Know Me Better Than I Know Myself — Cult With No Name | last aired 2026-10-27 02:58 | normal pick now | request now
