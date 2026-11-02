@@ -1,4 +1,4 @@
-Track status, song titles filed under WE (built Sun Nov 1, 7:55 PM PST (03:55 UTC Mon)). Times in UTC.
+Track status, song titles filed under WE (built Sun Nov 1, 8:05 PM PST (04:05 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Weight (Remastered 2000) — The Band | last aired 2026-10-31 10:11 | normal pick now | request now
@@ -12,5 +12,5 @@ WAIT We're Gonna Make It — Mavis Staples | last aired 2026-10-31 17:28 | norma
 OK   Weak In Your Light — Nation of Language | last aired 2026-10-25 05:44 | normal pick now | request now
 OK   Weak — SWV | last aired 2026-10-24 14:31 | normal pick now | request now
 OK   Weightless — Marconi Union | last aired 2026-10-31 06:36 | normal pick now | request now
-OK   Weird Fishes / Arpeggi — Radiohead | last aired 2026-10-30 16:32 | normal pick now | request now
+WAIT Weird Fishes / Arpeggi — Radiohead | last aired 2026-11-02 03:56 | normal pick from 2026-11-04 03:56 | request from 2026-11-04 03:56
 WAIT West End Girls  (2001 Remaster) — Pet Shop Boys | last aired 2026-11-02 02:05 | normal pick from 2026-11-04 02:05 | request from 2026-11-04 02:05
