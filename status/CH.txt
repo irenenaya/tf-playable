@@ -1,7 +1,7 @@
-Track status, artists filed under CH (built Mon Nov 2, 9:45 AM PST (17:45 UTC)). Times in UTC.
+Track status, artists filed under CH (built Mon Nov 2, 9:55 AM PST (17:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Chaka Khan — What Cha' Gonna Do for Me | last aired 2026-10-31 17:51 | normal pick from 2026-11-02 17:51 | request from 2026-11-02 17:51
+OK   Chaka Khan — What Cha' Gonna Do for Me | last aired 2026-10-31 17:51 | normal pick now | request now
 OK   Chappell Roan — Good Luck, Babe! | last aired 2026-10-24 21:33 | normal pick now | request now
 OK   Chappell Roan — HOT TO GO! | last aired 2026-10-12 17:42 | normal pick now | request now
 WAIT Chappell Roan — Pink Pony Club | last aired 2026-11-02 00:24 | normal pick from 2026-11-03 12:24 | request from 2026-11-02 20:24
@@ -18,7 +18,7 @@ OK   Chet Atkins — Why Worry (Album Version) | last aired 2026-10-30 05:31 | n
 WAIT Chet Baker — Almost Blue | last aired 2026-11-01 05:34 | normal pick from 2026-11-03 05:34 | request from 2026-11-03 05:34
 WAIT Chet Baker — My Funny Valentine | last aired 2026-11-02 10:10 | normal pick from 2026-11-03 22:10 | request from 2026-11-03 06:10
 OK   Chet Baker — You Don't Know What Love Is | last aired 2026-11-01 00:33 | normal pick now | request now
-WAIT Chic — Good Times  (2018 Remaster) | last aired 2026-10-31 17:55 | normal pick from 2026-11-02 17:55 | request from 2026-11-02 17:55
+OK   Chic — Good Times  (2018 Remaster) | last aired 2026-10-31 17:55 | normal pick now | request now
 WAIT Chicago — Hard to Say I'M Sorry / Get Away | last aired 2026-11-02 04:29 | normal pick from 2026-11-03 16:29 | request from 2026-11-03 00:29
 OK   Chico Buarque — Construção | last aired 2026-10-25 16:36 | normal pick now | request now
 OK   Child Seat — Heart To Heart | last aired 2026-10-30 14:50 | normal pick now | request now
