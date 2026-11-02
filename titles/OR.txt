@@ -1,4 +1,4 @@
-Track status, song titles filed under OR (built Sun Nov 1, 8:55 PM PST (04:55 UTC Mon)). Times in UTC.
+Track status, song titles filed under OR (built Sun Nov 1, 9:05 PM PST (05:05 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar) — Gorillaz | last aired 2026-10-30 03:35 | normal pick now | request now
@@ -7,4 +7,4 @@ WAIT Orange Sky — Alexi Murdoch | last aired 2026-11-01 16:04 | normal pick fr
 OK   Orchestral Suite No. 3 in D Major, BMV 1068 "Air On The G String" - Air on the G String — Khatia Buniatishvili | last aired 2026-10-31 10:02 | normal pick now | request now
 OK   ORDER:SCORE — Pent Up Pup | last aired 2026-10-18 03:50 | normal pick now | request now
 OK   Ordinary World — Duran Duran | last aired 2026-10-28 15:07 | normal pick now | request now
-OK   Organic Rust — Alfa Mist | last aired 2026-10-31 04:41 | normal pick now | request now
+WAIT Organic Rust — Alfa Mist | last aired 2026-11-02 04:56 | normal pick from 2026-11-03 16:56 | request from 2026-11-03 00:56
