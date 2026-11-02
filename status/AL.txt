@@ -1,4 +1,4 @@
-Track status, artists filed under AL (built Mon Nov 2, 12:35 AM PST (08:35 UTC)). Times in UTC.
+Track status, artists filed under AL (built Mon Nov 2, 12:45 AM PST (08:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Al Di Meola — Double Concerto | last aired 2026-10-30 16:03 | normal pick now | request now
@@ -27,10 +27,10 @@ WAIT Alfa Mist — Organic Rust | last aired 2026-11-02 04:58 | normal pick from
 WAIT Ali Farka Touré — Soukora | last aired 2026-11-01 17:20 | normal pick from 2026-11-03 17:20 | request from 2026-11-03 17:20
 WAIT Alice Coltrane — Journey In Satchidananda | last aired 2026-11-02 05:02 | normal pick from 2026-11-03 17:02 | request from 2026-11-03 01:02
 WAIT Alice In Chains — Man in the Box | last aired 2026-11-01 00:42 | normal pick from 2026-11-02 12:42 | request now
-OK   Alicia Keys — Fallin' (Album Version) | last aired 2026-10-31 04:46 | normal pick now | request now
+WAIT Alicia Keys — Fallin' (Album Version) | last aired 2026-11-02 08:38 | normal pick from 2026-11-03 20:38 | request from 2026-11-03 04:38
 OK   Alison Krauss — Down To The River To Pray (Live) | last aired 2026-10-29 04:14 | normal pick now | request now
 WAIT Almendra — Plegaria para un Niño Dormido | last aired 2026-11-02 02:25 | normal pick from 2026-11-03 14:25 | request from 2026-11-02 22:25
 OK   Alvin Lucier — I Am Sitting in a Room | last aired 2026-10-21 05:59 | normal pick now | request now
 WAIT Alvvays — Belinda Says | last aired 2026-11-02 08:28 | normal pick from 2026-11-04 08:28 | request from 2026-11-04 08:28
 WAIT Alèmayèhu Eshèté — Tashamanaletch | last aired 2026-11-02 08:30 | normal pick from 2026-11-03 20:30 | request from 2026-11-03 04:30
-OK   The Altons — When You Go (That's When You'll Know) | last aired 2026-10-31 17:19 | normal pick now | request now
+WAIT The Altons — When You Go (That's When You'll Know) | last aired 2026-11-02 08:35 | normal pick from 2026-11-03 20:35 | request from 2026-11-03 04:35
