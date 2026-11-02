@@ -1,4 +1,4 @@
-Track status, artists filed under BO (built Sun Nov 1, 8:25 PM PST (04:25 UTC Mon)). Times in UTC.
+Track status, artists filed under BO (built Sun Nov 1, 8:35 PM PST (04:35 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Boards of Canada — Blood In The Labyrinth | last aired 2026-10-31 23:40 | normal pick from 2026-11-02 11:40 | request now
@@ -15,7 +15,7 @@ WAIT Bobby Hutcherson — Stardust | last aired 2026-11-01 07:07 | normal pick f
 WAIT Bobby McFerrin — Common Threads | last aired 2026-11-01 11:56 | normal pick from 2026-11-02 23:56 | request from 2026-11-02 07:56
 WAIT Bobby McFerrin — Don't Worry Be Happy | last aired 2026-11-01 16:56 | normal pick from 2026-11-03 04:56 | request from 2026-11-02 12:56
 WAIT Bobby Vinton — Blue Velvet | last aired 2026-11-01 16:01 | normal pick from 2026-11-03 04:01 | request from 2026-11-02 12:01
-WAIT Bon Iver — Holocene | last aired 2026-10-31 04:35 | normal pick from 2026-11-02 04:35 | request from 2026-11-02 04:35
+OK   Bon Iver — Holocene | last aired 2026-10-31 04:35 | normal pick now | request now
 WAIT Bon Iver — Skinny Love | last aired 2026-10-31 15:11 | normal pick from 2026-11-02 15:11 | request from 2026-11-02 15:11
 WAIT Bon Jovi — Livin' On A Prayer | last aired 2026-11-01 23:11 | normal pick from 2026-11-03 11:11 | request from 2026-11-02 19:11
 OK   Bon Jovi — You Give Love A Bad Name | last aired 2026-10-28 18:07 | normal pick now | request now
