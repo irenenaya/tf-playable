@@ -1,4 +1,4 @@
-Track status, song titles filed under PE (built Sun Nov 1, 4:45 PM PST (00:45 UTC Mon)). Times in UTC.
+Track status, song titles filed under PE (built Sun Nov 1, 4:55 PM PST (00:55 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   pe$o$ — Evan Fong | last aired 2026-10-18 03:52 | normal pick now | request now
@@ -15,4 +15,4 @@ WAIT Perfect — Ed Sheeran | last aired 2026-10-31 15:19 | normal pick from 202
 OK   Perfekte Welle — Juli | last aired 2026-10-26 22:49 | normal pick now | request now
 OK   Perform This Way (Parody of "Born This Way" by Lady Gaga) — Weird Al Yankovic | last aired 2026-10-13 10:00 | normal pick now | request now
 OK   Perhaps You'll Wonder Why (The Paris Sessions) — Melody Gardot | last aired 2026-10-30 02:39 | normal pick now | request now
-WAIT Petit pays — Cesária Evora | last aired 2026-10-31 00:47 | normal pick from 2026-11-02 00:47 | request from 2026-11-02 00:47
+OK   Petit pays — Cesária Evora | last aired 2026-10-31 00:47 | normal pick now | request now
