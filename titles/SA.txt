@@ -1,4 +1,4 @@
-Track status, song titles filed under SA (built Mon Nov 2, 2:55 AM PST (10:55 UTC)). Times in UTC.
+Track status, song titles filed under SA (built Mon Nov 2, 3:05 AM PST (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Sabotage — Beastie Boys | last aired 2026-10-28 21:54 | normal pick now | request now
@@ -8,11 +8,11 @@ OK   Sailing — Benny Sings | last aired 2026-10-29 00:19 | normal pick now | r
 OK   Sailing — Christopher Cross | last aired 2026-10-31 01:13 | normal pick now | request now
 WAIT Sailor Song — Gigi Perez | last aired 2026-10-31 18:40 | normal pick from 2026-11-02 18:40 | request from 2026-11-02 18:40
 OK   Saku — Susumu Yokota | last aired 2026-10-31 01:57 | normal pick now | request now
-WAIT Salomila  (Live) — Ledward Kaapana | last aired 2026-11-02 10:13 | normal pick from 2026-11-03 22:13 | request from 2026-11-03 06:13
+WAIT Salomila  (Live) — Ledward Kaapana | last aired 2026-11-02 10:15 | normal pick from 2026-11-03 22:15 | request from 2026-11-03 06:15
 OK   Saltwater — Geowulf | last aired 2026-10-26 20:39 | normal pick now | request now
 OK   Salvatore — Lana Del Rey | last aired 2026-10-30 21:34 | normal pick now | request now
 OK   saman — Ólafur Arnalds | last aired 2026-10-28 02:34 | normal pick now | request now
-WAIT Samba Da Benção — Bebel Gilberto | last aired 2026-11-02 09:46 | normal pick from 2026-11-04 09:46 | request from 2026-11-04 09:46
+WAIT Samba Da Benção — Bebel Gilberto | last aired 2026-11-02 09:47 | normal pick from 2026-11-04 09:47 | request from 2026-11-04 09:47
 OK   Samba Pa Ti — Santana | last aired 2026-10-31 08:58 | normal pick now | request now
 OK   Same — Smith & Mighty | last aired 2026-10-24 17:26 | normal pick now | request now
 WAIT Sandstorm — Darude | last aired 2026-11-02 03:24 | normal pick from 2026-11-03 15:24 | request from 2026-11-02 23:24
@@ -26,5 +26,5 @@ OK   Saudade — Love and Rockets | last aired 2026-10-29 14:08 | normal pick no
 OK   Save The Children — Marvin Gaye | last aired 2026-10-31 17:20 | normal pick now | request now
 OK   Saving All My Love for You — Whitney Houston | last aired 2026-10-30 12:26 | normal pick now | request now
 OK   Say My Name (feat. Zyra) — ODESZA | last aired 2026-10-27 00:28 | normal pick now | request now
-WAIT Says — Nils Frahm | last aired 2026-11-02 08:19 | normal pick from 2026-11-04 08:19 | request from 2026-11-04 08:19
+WAIT Says — Nils Frahm | last aired 2026-11-02 08:20 | normal pick from 2026-11-04 08:20 | request from 2026-11-04 08:20
 OK   The Saturday Disco — Tom Robinson | last aired 2026-10-24 21:03 | normal pick now | request now

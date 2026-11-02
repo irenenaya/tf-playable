@@ -1,8 +1,8 @@
-Track status, song titles filed under SO (built Mon Nov 2, 2:55 AM PST (10:55 UTC)). Times in UTC.
+Track status, song titles filed under SO (built Mon Nov 2, 3:05 AM PST (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   So Alive — Love and Rockets | last aired 2026-10-29 12:34 | normal pick now | request now
-WAIT So Far Away — Carole King | last aired 2026-11-02 08:46 | normal pick from 2026-11-04 08:46 | request from 2026-11-04 08:46
+WAIT So Far Away — Carole King | last aired 2026-11-02 08:47 | normal pick from 2026-11-04 08:47 | request from 2026-11-04 08:47
 OK   So Long, Marianne — Leonard Cohen | last aired 2026-10-31 08:28 | normal pick now | request now
 OK   So Real — Jeff Buckley | last aired 2026-10-28 11:10 | normal pick now | request now
 OK   So What — Miles Davis | last aired 2026-10-29 23:46 | normal pick now | request now
@@ -17,7 +17,7 @@ OK   Somebody To Love — Queen | last aired 2026-10-27 23:56 | normal pick now 
 OK   Someone Somewhere (In Summertime) — Simple Minds | last aired 2026-10-11 16:53 | normal pick now | request now
 WAIT Something About Us — Daft Punk | last aired 2026-11-01 11:24 | normal pick from 2026-11-02 23:24 | request now
 WAIT Sometimes It Snows in April (LP Version) — Prince | last aired 2026-11-01 01:45 | normal pick from 2026-11-02 13:45 | request now
-WAIT Somewhere, My Love (Lara's Theme from "Doctor Zhivago") (Album Version) — The Ray Conniff Singers | last aired 2026-11-02 10:21 | normal pick from 2026-11-03 22:21 | request from 2026-11-03 06:21
+WAIT Somewhere, My Love (Lara's Theme from "Doctor Zhivago") (Album Version) — The Ray Conniff Singers | last aired 2026-11-02 10:22 | normal pick from 2026-11-03 22:22 | request from 2026-11-03 06:22
 WAIT Sonate Pacifique — L'Impératrice | last aired 2026-11-01 18:55 | normal pick from 2026-11-03 06:55 | request from 2026-11-02 14:55
 OK   Song 2 — Blur | last aired 2026-10-27 22:29 | normal pick now | request now
 OK   Song for Zula — Phosphorescent | last aired 2026-10-28 06:32 | normal pick now | request now
@@ -31,4 +31,4 @@ WAIT Soundtrack to Me and You — Swan Dive | last aired 2026-11-01 12:14 | norm
 OK   Sour Flower — Lianne La Havas | last aired 2026-10-29 18:21 | normal pick now | request now
 OK   Sour Times — Portishead | last aired 2026-10-31 14:46 | normal pick now | request now
 OK   Sous le ciel de Paris — Zaz | last aired 2026-10-28 13:49 | normal pick now | request now
-OK   The Sound of Silence  (Acoustic Version) — Simon & Garfunkel | last aired 2026-10-31 00:34 | normal pick now | request now
+WAIT The Sound of Silence  (Acoustic Version) — Simon & Garfunkel | last aired 2026-11-02 10:57 | normal pick from 2026-11-03 22:57 | request from 2026-11-03 06:57
