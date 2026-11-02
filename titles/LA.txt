@@ -1,9 +1,9 @@
-Track status, song titles filed under LA (built Sun Nov 1, 10:55 PM PST (06:55 UTC Mon)). Times in UTC.
+Track status, song titles filed under LA (built Sun Nov 1, 11:05 PM PST (07:05 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   L'Amour Looks Something Like You (2018 Remaster) — Kate Bush | last aired 2026-10-24 05:27 | normal pick now | request now
 OK   La bonne étoile (Live 2020) — -M- | last aired 2026-10-25 19:04 | normal pick now | request now
-WAIT La chanson des vieux amants — Melody Gardot | last aired 2026-11-02 05:56 | normal pick from 2026-11-03 17:56 | request from 2026-11-03 01:56
+WAIT La chanson des vieux amants — Melody Gardot | last aired 2026-11-02 05:57 | normal pick from 2026-11-03 17:57 | request from 2026-11-03 01:57
 OK   La femme d'argent — Air | last aired 2026-10-29 07:03 | normal pick now | request now
 OK   La Fontaine De Sang — The Vampire Lestat | last aired 2026-10-26 01:58 | normal pick now | request now
 OK   La llorona — Chavela Vargas | last aired 2026-10-30 13:28 | normal pick now | request now
@@ -30,4 +30,4 @@ OK   Lateralus — TOOL | last aired 2026-10-28 01:50 | normal pick now | reques
 OK   Layla — Derek & The Dominos | last aired 2026-10-29 09:21 | normal pick now | request now
 OK   Lazing On a Sunday Afternoon — The Czech Philharmonic and Theatre | last aired 2026-09-22 07:06 | normal pick now | request now
 OK   The Last Day Of Summer — The Cure | last aired 2026-10-15 00:00 | normal pick now | request now
-WAIT The Last Stand — Sabaton | last aired 2026-11-02 03:18 | normal pick from 2026-11-03 15:18 | request from 2026-11-02 23:18
+WAIT The Last Stand — Sabaton | last aired 2026-11-02 03:19 | normal pick from 2026-11-03 15:19 | request from 2026-11-02 23:19
