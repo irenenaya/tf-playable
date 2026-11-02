@@ -1,4 +1,4 @@
-Track status, artists filed under SA (built Sun Nov 1, 7:05 PM PST (03:05 UTC Mon)). Times in UTC.
+Track status, artists filed under SA (built Sun Nov 1, 7:15 PM PST (03:15 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Sabaton — The Last Stand | last aired 2026-10-28 01:43 | normal pick now | request now
@@ -19,7 +19,7 @@ WAIT Salvador Sobral — Amar pelos Dois | last aired 2026-10-31 05:35 | normal 
 OK   Sam Cooke — A Change Is Gonna Come | last aired 2026-10-31 02:48 | normal pick now | request now
 WAIT Sampha — (No One Knows Me) Like the Piano | last aired 2026-10-31 05:31 | normal pick from 2026-11-02 05:31 | request from 2026-11-02 05:31
 WAIT Santana — Black Magic Woman | last aired 2026-11-01 13:50 | normal pick from 2026-11-03 13:50 | request from 2026-11-03 13:50
-OK   Santana — Maria Maria | last aired 2026-10-29 15:42 | normal pick now | request now
+WAIT Santana — Maria Maria | last aired 2026-11-02 03:10 | normal pick from 2026-11-03 15:10 | request from 2026-11-02 23:10
 WAIT Santana — Oye Como Va | last aired 2026-11-01 00:22 | normal pick from 2026-11-03 00:22 | request from 2026-11-03 00:22
 WAIT Santana — Samba Pa Ti | last aired 2026-10-31 08:58 | normal pick from 2026-11-02 08:58 | request from 2026-11-02 08:58
 OK   Sarah McLachlan — Building a Mystery | last aired 2026-10-31 09:08 | normal pick now | request now
