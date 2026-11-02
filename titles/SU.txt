@@ -1,4 +1,4 @@
-Track status, song titles filed under SU (built Sun Nov 1, 10:45 PM PST (06:45 UTC Mon)). Times in UTC.
+Track status, song titles filed under SU (built Sun Nov 1, 10:55 PM PST (06:55 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Subterraneans  (2017 Remaster) — David Bowie | last aired 2026-10-31 07:17 | normal pick now | request now
@@ -23,6 +23,6 @@ OK   Sunset Lover — Petit Biscuit | last aired 2026-10-30 02:25 | normal pick 
 OK   Superstar  (The Jason Nevins' Live Peep Show Mix) — Tom Novy | last aired 2026-10-21 03:32 | normal pick now | request now
 OK   Superstition (Album Version) — Stevie Wonder | last aired 2026-10-30 17:03 | normal pick now | request now
 OK   Surprise! You're Dead! — Faith No More | last aired 2026-10-17 05:00 | normal pick now | request now
-OK   Surrounded by Illusion — Eluvium | last aired 2026-10-27 04:54 | normal pick now | request now
+WAIT Surrounded by Illusion — Eluvium | last aired 2026-11-02 06:49 | normal pick from 2026-11-03 18:49 | request from 2026-11-03 02:49
 OK   Suspended In Gaffa  (2018 Remaster) — Kate Bush | last aired 2026-10-28 18:30 | normal pick now | request now
 OK   Suzanne — Leonard Cohen | last aired 2026-10-31 03:29 | normal pick now | request now
