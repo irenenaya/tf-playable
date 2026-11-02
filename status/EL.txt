@@ -1,4 +1,4 @@
-Track status, artists filed under EL (built Sun Nov 1, 11:35 PM PST (07:35 UTC Mon)). Times in UTC.
+Track status, artists filed under EL (built Sun Nov 1, 11:45 PM PST (07:45 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Electric Light Orchestra — Evil Woman | last aired 2026-10-28 17:07 | normal pick now | request now
@@ -11,7 +11,7 @@ OK   Ella Fitzgerald — Summertime | last aired 2026-10-26 07:02 | normal pick 
 WAIT Elliott Smith — Angeles | last aired 2026-11-01 04:01 | normal pick from 2026-11-03 04:01 | request from 2026-11-03 04:01
 OK   Elliott Smith — Independence Day | last aired 2026-10-31 15:29 | normal pick now | request now
 WAIT Elton John — Rocket Man (I Think It's Going To Be A Long, Long Time) | last aired 2026-11-01 03:50 | normal pick from 2026-11-03 03:50 | request from 2026-11-03 03:50
-OK   Eluvium — Indoor Swimming At The Space Station | last aired 2026-10-29 06:01 | normal pick now | request now
+WAIT Eluvium — Indoor Swimming At The Space Station | last aired 2026-11-02 07:39 | normal pick from 2026-11-03 19:39 | request from 2026-11-03 03:39
 WAIT Eluvium — Surrounded by Illusion | last aired 2026-11-02 06:49 | normal pick from 2026-11-03 18:49 | request from 2026-11-03 02:49
 OK   Eluvium — Taken | last aired 2026-10-21 11:43 | normal pick now | request now
 WAIT Elvis Costello — Almost Blue | last aired 2026-11-02 06:28 | normal pick from 2026-11-03 18:28 | request from 2026-11-03 02:28
