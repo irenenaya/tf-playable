@@ -1,4 +1,4 @@
-Track status, artists filed under ST (built Sun Nov 1, 5:25 PM PST (01:25 UTC Mon)). Times in UTC.
+Track status, artists filed under ST (built Sun Nov 1, 5:35 PM PST (01:35 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT St Germain — Rose rouge | last aired 2026-11-01 16:26 | normal pick from 2026-11-03 04:26 | request from 2026-11-02 12:26
@@ -10,12 +10,12 @@ WAIT Stars of the Lid — Requiem for Dying Mothers, Pt. 2 | last aired 2026-10-
 WAIT Stealers Wheel — Stuck In The Middle With You | last aired 2026-10-31 17:05 | normal pick from 2026-11-02 05:05 | request now
 OK   Steely Dan — Almost Gothic (Album Version) | last aired 2026-10-30 13:48 | normal pick now | request now
 WAIT Steely Dan — Babylon Sisters | last aired 2026-11-01 14:14 | normal pick from 2026-11-03 02:14 | request from 2026-11-02 10:14
-OK   Steely Dan — Home At Last | last aired 2026-10-29 19:53 | normal pick now | request now
+WAIT Steely Dan — Home At Last | last aired 2026-11-02 01:24 | normal pick from 2026-11-03 13:24 | request from 2026-11-02 21:24
 OK   Steely Dan — Jack of Speed (Album Version) | last aired 2026-10-29 22:41 | normal pick now | request now
 OK   Steely Dan — Kid Charlemagne | last aired 2026-10-30 17:08 | normal pick now | request now
 OK   Steely Dan — Peg | last aired 2026-10-31 01:48 | normal pick now | request now
 OK   Steely Dan — Time Out Of Mind | last aired 2026-10-30 06:12 | normal pick now | request now
-OK   Steve Miller Band — The Joker | last aired 2026-10-31 01:17 | normal pick now | request now
+WAIT Steve Miller Band — The Joker | last aired 2026-11-02 01:29 | normal pick from 2026-11-03 13:29 | request from 2026-11-02 21:29
 OK   Steve Roach — Living the Dream | last aired 2026-10-30 01:03 | normal pick now | request now
 WAIT Stevie Ray Vaughan & Double Trouble — Pride and Joy | last aired 2026-11-01 21:28 | normal pick from 2026-11-03 21:28 | request from 2026-11-03 21:28
 WAIT Stevie Ray Vaughan & Double Trouble — Riviera Paradise | last aired 2026-10-31 23:55 | normal pick from 2026-11-02 11:55 | request now
