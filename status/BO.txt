@@ -1,4 +1,4 @@
-Track status, artists filed under BO (built Sun Nov 1, 8:15 PM PST (04:15 UTC Mon)). Times in UTC.
+Track status, artists filed under BO (built Sun Nov 1, 8:25 PM PST (04:25 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Boards of Canada — Blood In The Labyrinth | last aired 2026-10-31 23:40 | normal pick from 2026-11-02 11:40 | request now
@@ -24,7 +24,7 @@ WAIT Boney M. — Sunny | last aired 2026-11-01 16:52 | normal pick from 2026-11
 WAIT Bonnie Tyler — Holding Out for a Hero (From "Footloose" Soundtrack) | last aired 2026-11-01 23:06 | normal pick from 2026-11-03 23:06 | request from 2026-11-03 23:06
 WAIT Bonnie Tyler — Total Eclipse of the Heart | last aired 2026-10-31 19:17 | normal pick from 2026-11-02 07:17 | request now
 WAIT Bonobo — Cirrus | last aired 2026-11-02 03:50 | normal pick from 2026-11-03 15:50 | request from 2026-11-02 23:50
-WAIT Bonobo — Kiara | last aired 2026-10-31 16:19 | normal pick from 2026-11-02 04:19 | request now
+OK   Bonobo — Kiara | last aired 2026-10-31 16:19 | normal pick now | request now
 WAIT Bonobo — Kong | last aired 2026-10-31 07:55 | normal pick from 2026-11-02 07:55 | request from 2026-11-02 07:55
 OK   Bonobo — Terrapin | last aired 2026-10-31 14:24 | normal pick now | request now
 WAIT Booker T. & The M.G.'s — Green Onions | last aired 2026-11-01 23:15 | normal pick from 2026-11-03 11:15 | request from 2026-11-02 19:15
