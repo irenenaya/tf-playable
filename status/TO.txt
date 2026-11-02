@@ -1,4 +1,4 @@
-Track status, artists filed under TO (built Mon Nov 2, 2:45 PM PST (22:45 UTC)). Times in UTC.
+Track status, artists filed under TO (built Mon Nov 2, 2:55 PM PST (22:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   toe — Goodbye (Live) | last aired 2026-10-28 01:34 | normal pick now | request now
@@ -26,7 +26,7 @@ OK   Tom Waits — House Where Nobody Lives | last aired 2026-10-28 19:34 | norm
 OK   Tomaso Albinoni — Adagio in G Minor | last aired 2026-10-28 10:10 | normal pick now | request now
 OK   Tomohisa Okudo — Always with Me | last aired 2026-10-28 10:05 | normal pick now | request now
 OK   Toni Braxton — Un-Break My Heart | last aired 2026-10-27 18:18 | normal pick now | request now
-WAIT Tonto's Expanding Head Band — Cybernaut | last aired 2026-11-01 10:51 | normal pick from 2026-11-02 22:51 | request now
+OK   Tonto's Expanding Head Band — Cybernaut | last aired 2026-11-01 10:51 | normal pick now | request now
 OK   Tony Bennett & Faith Hill — The Way You Look Tonight | last aired 2026-10-26 13:12 | normal pick now | request now
 OK   TOOL — Lateralus | last aired 2026-10-28 01:50 | normal pick now | request now
 OK   Tori Amos — A Sorta Fairytale (2023 Remaster) | last aired 2026-10-27 05:29 | normal pick now | request now
@@ -34,5 +34,5 @@ OK   Tori Amos — Rattlesnakes | last aired 2026-10-31 23:06 | normal pick now 
 OK   Tori Amos — Winter | last aired 2026-10-26 03:47 | normal pick now | request now
 OK   Toto — Africa | last aired 2026-10-28 13:52 | normal pick now | request now
 OK   Toto — Georgy Porgy (album version) | last aired 2026-10-26 19:14 | normal pick now | request now
-WAIT Toto — Rosanna (Album Version) | last aired 2026-10-31 22:51 | normal pick from 2026-11-02 22:51 | request from 2026-11-02 22:51
+OK   Toto — Rosanna (Album Version) | last aired 2026-10-31 22:51 | normal pick now | request now
 OK   Tove Lo — No One Dies From Love | last aired 2026-10-26 18:20 | normal pick now | request now
