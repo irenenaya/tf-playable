@@ -1,8 +1,8 @@
-Track status, artists filed under EL (built Mon Nov 2, 1:55 PM PST (21:55 UTC)). Times in UTC.
+Track status, artists filed under EL (built Mon Nov 2, 2:05 PM PST (22:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Electric Light Orchestra — Evil Woman | last aired 2026-10-28 17:07 | normal pick now | request now
-OK   Electric Light Orchestra — Mr. Blue Sky | last aired 2026-10-31 11:18 | normal pick now | request now
+WAIT Electric Light Orchestra — Mr. Blue Sky | last aired 2026-11-02 21:55 | normal pick from 2026-11-04 09:55 | request from 2026-11-03 17:55
 OK   Electric Light Orchestra — Yours Truly, 2095 | last aired 2026-10-25 20:11 | normal pick now | request now
 OK   Elis Regina — Águas De Marco | last aired 2026-10-31 15:32 | normal pick now | request now
 OK   Ella Fitzgerald — Bewitched, Bothered And Bewildered | last aired 2026-10-31 13:25 | normal pick now | request now
