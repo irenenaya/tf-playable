@@ -1,4 +1,4 @@
-Track status, song titles filed under WH (built Mon Nov 2, 6:25 AM PST (14:25 UTC)). Times in UTC.
+Track status, song titles filed under WH (built Mon Nov 2, 6:35 AM PST (14:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Whistleblowers — Laibach | last aired 2026-10-26 00:33 | normal pick now | request now
@@ -23,7 +23,7 @@ OK   Whenever Wherever Whatever (Remastered 2021) (Album Version) — Maxwell | 
 WAIT Where The Streets Have No Name (Remastered 2007) — U2 | last aired 2026-11-01 21:57 | normal pick from 2026-11-03 09:57 | request from 2026-11-02 17:57
 OK   Where Were You (Live) — Jeff Beck | last aired 2026-10-28 09:00 | normal pick now | request now
 OK   Wherefore and Why (LP Version) — Gordon Lightfoot | last aired 2026-10-31 18:08 | normal pick now | request now
-OK   Which Side are You On? — Pete Seeger | last aired 2026-10-22 15:40 | normal pick now | request now
+WAIT Which Side are You On? — Pete Seeger | last aired 2026-11-02 14:22 | normal pick from 2026-11-04 14:22 | request from 2026-11-04 14:22
 OK   Whirling-In-Rags, 8 AM — Sea Power | last aired 2026-10-31 07:38 | normal pick now | request now
 OK   White Christmas — Bing Crosby | last aired 2026-09-05 21:37 | normal pick now | request now
 OK   White Gloves — Khruangbin | last aired 2026-10-30 08:47 | normal pick now | request now
@@ -34,5 +34,5 @@ WAIT Who Knows Where The Time Goes? — Fairport Convention | last aired 2026-11
 OK   Who's That What's That — Niko B | last aired 2026-10-28 00:48 | normal pick now | request now
 OK   Wholy Holy — Aretha Franklin | last aired 2026-10-25 17:04 | normal pick now | request now
 OK   Wholy Holy — Marvin Gaye | last aired 2026-10-30 09:03 | normal pick now | request now
-OK   Why Me? — Big Bad Voodoo Daddy | last aired 2026-10-29 18:06 | normal pick now | request now
+WAIT Why Me? — Big Bad Voodoo Daddy | last aired 2026-11-02 14:24 | normal pick from 2026-11-04 02:24 | request from 2026-11-03 10:24
 OK   Why Worry (Album Version) — Chet Atkins | last aired 2026-10-30 05:31 | normal pick now | request now
