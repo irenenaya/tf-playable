@@ -1,8 +1,8 @@
-Track status, song titles filed under BU (built Sun Nov 1, 6:15 PM PST (02:15 UTC Mon)). Times in UTC.
+Track status, song titles filed under BU (built Sun Nov 1, 6:25 PM PST (02:25 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Building a Mystery — Sarah McLachlan | last aired 2026-10-31 09:08 | normal pick now | request now
-OK   Bunny Is A Rider — Caroline Polachek | last aired 2026-10-30 18:14 | normal pick now | request now
+WAIT Bunny Is A Rider — Caroline Polachek | last aired 2026-11-02 02:13 | normal pick from 2026-11-03 14:13 | request from 2026-11-02 22:13
 OK   Burn (Live) — The Cure | last aired 2026-10-26 06:48 | normal pick now | request now
 OK   Burn It Down — AWOLNATION | last aired 2026-10-26 15:40 | normal pick now | request now
 OK   Busy Child — The Crystal Method | last aired 2026-10-20 02:04 | normal pick now | request now
