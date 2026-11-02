@@ -1,4 +1,4 @@
-Track status, artists filed under PE (built Mon Nov 2, 3:25 PM PST (23:25 UTC)). Times in UTC.
+Track status, artists filed under PE (built Mon Nov 2, 3:35 PM PST (23:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Pearl Jam — Yellow Ledbetter | last aired 2026-11-01 22:56 | normal pick from 2026-11-03 22:56 | request from 2026-11-03 22:56
@@ -6,7 +6,7 @@ OK   Pebe Sebert — City's Burning | last aired 2026-11-01 03:29 | normal pick 
 WAIT Pedro Infante — Amorcito corazón | last aired 2026-11-02 13:36 | normal pick from 2026-11-04 13:36 | request from 2026-11-04 13:36
 WAIT Peeping Tom — Your Neighborhood Spaceman | last aired 2026-11-02 13:39 | normal pick from 2026-11-04 01:39 | request from 2026-11-03 09:39
 WAIT Peggy Gou — Starry Night | last aired 2026-11-02 13:30 | normal pick from 2026-11-04 01:30 | request from 2026-11-03 09:30
-OK   Pellek — Bohemian Rhapsody | last aired 2026-10-26 04:48 | normal pick now | request now
+WAIT Pellek — Bohemian Rhapsody | last aired 2026-11-02 23:25 | normal pick from 2026-11-04 11:25 | request from 2026-11-03 19:25
 WAIT Penguin Cafe Orchestra — Perpetuum Mobile | last aired 2026-11-01 22:40 | normal pick from 2026-11-03 10:40 | request now
 OK   Pent Up Pup — ORDER:SCORE | last aired 2026-10-18 03:50 | normal pick now | request now
 WAIT Percy Faith & His Orchestra — Black Magic Woman | last aired 2026-11-02 11:47 | normal pick from 2026-11-03 23:47 | request from 2026-11-03 07:47
@@ -22,7 +22,7 @@ WAIT Peter Fox — Haus am See | last aired 2026-11-01 00:19 | normal pick from 
 WAIT Peter Gabriel — Don't Give Up  (2012 Remaster) | last aired 2026-11-02 23:08 | normal pick from 2026-11-04 11:08 | request from 2026-11-03 19:08
 OK   Peter Gabriel — Sky Blue | last aired 2026-10-31 11:29 | normal pick now | request now
 WAIT Peter Gabriel — Sledgehammer | last aired 2026-11-02 15:42 | normal pick from 2026-11-04 03:42 | request from 2026-11-03 11:42
-WAIT Peter Gabriel — The Feeling Begins (Remastered 2002) | last aired 2026-11-02 03:28 | normal pick from 2026-11-03 15:28 | request from 2026-11-02 23:28
+WAIT Peter Gabriel — The Feeling Begins (Remastered 2002) | last aired 2026-11-02 03:28 | normal pick from 2026-11-03 15:28 | request now
 WAIT Peter Jablonski — Waltz No.19 in A minor, Op.posth. - Chopin: Waltz No. 19 in A minor, Op. posth. | last aired 2026-11-02 09:15 | normal pick from 2026-11-04 09:15 | request from 2026-11-04 09:15
 WAIT Petit Biscuit — Sunset Lover | last aired 2026-11-02 18:48 | normal pick from 2026-11-04 06:48 | request from 2026-11-03 14:48
 WAIT Petra Haden — Moon River | last aired 2026-11-02 18:46 | normal pick from 2026-11-04 06:46 | request from 2026-11-03 14:46
