@@ -1,4 +1,4 @@
-Track status, song titles filed under GO (built Mon Nov 2, 9:55 AM PST (17:55 UTC)). Times in UTC.
+Track status, song titles filed under GO (built Mon Nov 2, 10:05 AM PST (18:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Go Home — Stevie Wonder | last aired 2026-11-02 12:41 | normal pick from 2026-11-04 00:41 | request from 2026-11-03 08:41
@@ -26,5 +26,5 @@ OK   Goodnight Tonight (Single Version) — Wings | last aired 2026-10-27 21:05 
 WAIT Gorecki — Lamb | last aired 2026-11-02 13:55 | normal pick from 2026-11-04 01:55 | request from 2026-11-03 09:55
 OK   Gorilla — Bruno Mars | last aired 2026-10-23 18:55 | normal pick now | request now
 WAIT Gosh — Jamie xx | last aired 2026-11-02 12:36 | normal pick from 2026-11-04 12:36 | request from 2026-11-04 12:36
-OK   Gotta Go Home — Boney M. | last aired 2026-10-31 03:18 | normal pick now | request now
+WAIT Gotta Go Home — Boney M. | last aired 2026-11-02 17:52 | normal pick from 2026-11-04 05:52 | request from 2026-11-03 13:52
 OK   Gotta Have You — The Weepies | last aired 2026-10-30 21:41 | normal pick now | request now
