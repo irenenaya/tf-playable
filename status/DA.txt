@@ -1,4 +1,4 @@
-Track status, artists filed under DA (built Sun Nov 1, 8:05 PM PST (04:05 UTC Mon)). Times in UTC.
+Track status, artists filed under DA (built Sun Nov 1, 8:15 PM PST (04:15 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT D'Angelo — Untitled (How Does It Feel) | last aired 2026-11-01 12:00 | normal pick from 2026-11-03 00:00 | request from 2026-11-02 08:00
@@ -6,7 +6,7 @@ OK   Daft Punk — Around the World | last aired 2026-10-31 03:09 | normal pick 
 WAIT Daft Punk — Face to Face | last aired 2026-11-01 03:04 | normal pick from 2026-11-02 15:04 | request now
 OK   Daft Punk feat. Julian Casablancas — Instant Crush (feat. Julian Casablancas) | last aired 2026-10-30 02:57 | normal pick now | request now
 WAIT Daft Punk — Harder, Better, Faster, Stronger | last aired 2026-10-31 23:13 | normal pick from 2026-11-02 11:13 | request now
-WAIT Daft Punk — One More Time | last aired 2026-10-31 16:14 | normal pick from 2026-11-02 04:14 | request now
+OK   Daft Punk — One More Time | last aired 2026-10-31 16:14 | normal pick now | request now
 WAIT Daft Punk — Something About Us | last aired 2026-11-01 11:24 | normal pick from 2026-11-02 23:24 | request from 2026-11-02 07:24
 OK   Daft Punk — Touch It / Technologic | last aired 2026-10-25 23:02 | normal pick now | request now
 WAIT Daft Punk — Voyager | last aired 2026-11-02 03:14 | normal pick from 2026-11-03 15:14 | request from 2026-11-02 23:14
