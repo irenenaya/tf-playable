@@ -1,10 +1,10 @@
-Track status, song titles filed under ST (built Tue Nov 3, 6:05 AM PST (14:05 UTC)). Times in UTC.
+Track status, song titles filed under ST (built Tue Nov 3, 6:15 AM PST (14:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   S.T.A.Y. — Hans Zimmer | last aired 2026-10-31 21:39 | normal pick now | request now
 OK   St. James Infirmary — Jim James | last aired 2026-10-24 12:25 | normal pick now | request now
 OK   Stacy's Mom — Fountains Of Wayne | last aired 2026-10-29 01:19 | normal pick now | request now
-OK   Stairway to Heaven  (Remaster) — Led Zeppelin | last aired 2026-10-29 03:21 | normal pick now | request now
+WAIT Stairway to Heaven  (Remaster) — Led Zeppelin | last aired 2026-11-03 14:03 | normal pick from 2026-11-05 02:03 | request from 2026-11-04 10:03
 OK   Stand By Me — Ben E. King | last aired 2026-10-31 09:29 | normal pick now | request now
 OK   Stand By Your Man (Album Version) — Tammy Wynette | last aired 2026-10-27 20:41 | normal pick now | request now
 OK   Star Fruit Surf Rider (Damon Albarn Remix) — Cornelius | last aired 2026-10-29 20:19 | normal pick now | request now
