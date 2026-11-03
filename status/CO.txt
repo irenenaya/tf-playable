@@ -1,13 +1,13 @@
-Track status, artists filed under CO (built Tue Nov 3, 2:35 AM PST (10:35 UTC)). Times in UTC.
+Track status, artists filed under CO (built Tue Nov 3, 2:45 AM PST (10:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Cocteau Twins — Cherry-coloured Funk | last aired 2026-11-02 05:26 | normal pick from 2026-11-04 05:26 | request from 2026-11-04 05:26
 WAIT Cocteau Twins — Ivo | last aired 2026-11-03 09:27 | normal pick from 2026-11-05 09:27 | request from 2026-11-05 09:27
 WAIT Cocteau Twins — Whales Tails | last aired 2026-11-03 08:29 | normal pick from 2026-11-05 08:29 | request from 2026-11-05 08:29
 WAIT Cognitron — Low Frequency Thunderstorm Shield | last aired 2026-11-03 09:31 | normal pick from 2026-11-04 21:31 | request from 2026-11-04 05:31
-OK   Colbie Caillat — Try | last aired 2026-10-29 19:49 | normal pick now | request now
+WAIT Colbie Caillat — Try | last aired 2026-11-03 10:39 | normal pick from 2026-11-04 22:39 | request from 2026-11-04 06:39
 OK   Coldplay — Talk | last aired 2026-10-28 20:05 | normal pick now | request now
-OK   Coldplay — Yellow | last aired 2026-10-29 19:05 | normal pick now | request now
+WAIT Coldplay — Yellow | last aired 2026-11-03 10:34 | normal pick from 2026-11-04 22:34 | request from 2026-11-04 06:34
 WAIT Coleman Hawkins & His Orchestra — Body and Soul | last aired 2026-11-02 06:32 | normal pick from 2026-11-03 18:32 | request now
 WAIT Colin Currie — Music for 18 Musicians - Pulses | last aired 2026-11-03 09:21 | normal pick from 2026-11-04 21:21 | request from 2026-11-04 05:21
 WAIT Conchita Wurst — Rise Like a Phoenix | last aired 2026-11-02 18:32 | normal pick from 2026-11-04 06:32 | request from 2026-11-03 14:32
