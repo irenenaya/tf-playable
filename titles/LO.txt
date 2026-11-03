@@ -1,15 +1,15 @@
-Track status, song titles filed under LO (built Tue Nov 3, 2:55 AM PST (10:55 UTC)). Times in UTC.
+Track status, song titles filed under LO (built Tue Nov 3, 3:05 AM PST (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT L-O-V-E — Nat King Cole | last aired 2026-11-02 20:10 | normal pick from 2026-11-04 08:10 | request from 2026-11-03 16:10
-WAIT Lo Vas A Olvidar — Billie Eilish | last aired 2026-11-02 15:04 | normal pick from 2026-11-04 03:04 | request from 2026-11-03 11:04
+WAIT Lo Vas A Olvidar — Billie Eilish | last aired 2026-11-02 15:04 | normal pick from 2026-11-04 03:04 | request now
 OK   Locos — Leon Larregui | last aired 2026-10-28 19:01 | normal pick now | request now
 OK   Logic — Euology | last aired 2026-10-30 12:08 | normal pick now | request now
 OK   London Calling — The Clash | last aired 2026-10-31 10:52 | normal pick now | request now
 OK   Lonely in the Future — The Strokes | last aired 2026-11-01 21:32 | normal pick now | request now
 OK   Long Time Running — The Tragically Hip | last aired 2026-11-01 01:15 | normal pick now | request now
 OK   Longing — Nusrat Fateh Ali Khan | last aired 2026-10-27 05:56 | normal pick now | request now
-OK   Loser — Beck | last aired 2026-10-28 11:23 | normal pick now | request now
+WAIT Loser — Beck | last aired 2026-11-03 10:59 | normal pick from 2026-11-04 22:59 | request from 2026-11-04 06:59
 OK   Losing Faith — Tom Konkle | last aired 2026-09-12 01:59 | normal pick now | request now
 OK   Lost Coastlines — Okkervil River | last aired 2026-10-24 09:39 | normal pick now | request now
 OK   Lost in Music (1995 Remaster) (LP Version) — Sister Sledge | last aired 2026-10-27 21:47 | normal pick now | request now

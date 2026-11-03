@@ -1,4 +1,4 @@
-Track status, artists filed under ST (built Tue Nov 3, 2:55 AM PST (10:55 UTC)). Times in UTC.
+Track status, artists filed under ST (built Tue Nov 3, 3:05 AM PST (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   St Germain — Rose rouge | last aired 2026-11-01 16:26 | normal pick now | request now
@@ -41,7 +41,7 @@ WAIT Sting — Shape Of My Heart (My Songs Version) | last aired 2026-11-02 03:3
 WAIT Stratovarius — Black Diamond | last aired 2026-11-02 03:41 | normal pick from 2026-11-03 15:41 | request now
 OK   Studio Group — As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired 2026-08-08 23:18 | normal pick now | request now
 OK   Studio Group — Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired 2026-08-31 18:46 | normal pick now | request now
-WAIT Styx — Mr. Roboto | last aired 2026-11-02 14:57 | normal pick from 2026-11-04 02:57 | request from 2026-11-03 10:57
+WAIT Styx — Mr. Roboto | last aired 2026-11-02 14:57 | normal pick from 2026-11-04 02:57 | request now
 OK   The Staple Singers — I'll Take You There | last aired 2026-10-31 17:00 | normal pick now | request now
 WAIT The Strokes — Last Nite | last aired 2026-11-02 12:57 | normal pick from 2026-11-04 00:57 | request now
 OK   The Strokes — Lonely in the Future | last aired 2026-11-01 21:32 | normal pick now | request now
