@@ -1,7 +1,7 @@
-Track status, artists filed under RO (built Tue Nov 3, 3:45 PM PST (23:45 UTC)). Times in UTC.
+Track status, artists filed under RO (built Tue Nov 3, 3:55 PM PST (23:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Robbie Dupree — Steal Away | last aired 2026-11-01 01:55 | normal pick now | request now
+WAIT Robbie Dupree — Steal Away | last aired 2026-11-03 23:45 | normal pick from 2026-11-05 11:45 | request from 2026-11-04 19:45
 WAIT Robbie Robertson — Coyote Dance | last aired 2026-11-02 07:00 | normal pick from 2026-11-04 07:00 | request from 2026-11-04 07:00
 OK   Robert Fripp — Here Comes The Flood (Exposure Fourth Edition: 2021 Stereo Mix) | last aired 2026-11-02 06:39 | normal pick now | request now
 OK   Robert Johnson — Cross Road Blues | last aired 2026-10-28 19:11 | normal pick now | request now
@@ -10,7 +10,7 @@ WAIT Roberta Flack — The First Time Ever I Saw Your Face (2020 Remaster) | las
 OK   Robin Packalen — Kesärenkaat | last aired 2026-10-28 22:13 | normal pick now | request now
 OK   Rock appetizers — Child in Time (Special Version) | last aired 2026-09-22 21:18 | normal pick now | request now
 WAIT Rodrigo Leão — Pasión (Album Version) | last aired 2026-11-02 06:56 | normal pick from 2026-11-04 06:56 | request from 2026-11-04 06:56
-OK   Rodrigo y Gabriela — Libertango | last aired 2026-11-01 17:12 | normal pick now | request now
+WAIT Rodrigo y Gabriela — Libertango | last aired 2026-11-03 23:42 | normal pick from 2026-11-05 23:42 | request from 2026-11-05 23:42
 WAIT Roland Dyens — Fuoco (Libra Sonatine) | last aired 2026-11-03 15:25 | normal pick from 2026-11-05 15:25 | request from 2026-11-05 15:25
 OK   ROSALÍA — Berghain | last aired 2026-11-02 01:18 | normal pick now | request now
 WAIT ROSALÍA — MALAMENTE (Cap.1: Augurio) | last aired 2026-11-03 21:12 | normal pick from 2026-11-05 21:12 | request from 2026-11-05 21:12
@@ -22,7 +22,7 @@ OK   Roy Orbison — Oh, Pretty Woman | last aired 2026-11-01 01:52 | normal pic
 OK   Royal Blood — Boilermaker | last aired 2026-11-01 01:11 | normal pick now | request now
 OK   Rozen — Voice of NO Return | last aired 2026-09-05 17:43 | normal pick now | request now
 OK   Róisín Murphy — Murphy's Law (Album Version) | last aired 2026-10-31 20:45 | normal pick now | request now
-OK   Röyksopp — Eple | last aired 2026-10-28 09:28 | normal pick now | request now
+WAIT Röyksopp — Eple | last aired 2026-11-03 23:38 | normal pick from 2026-11-05 23:38 | request from 2026-11-05 23:38
 WAIT The Rolling Stones — Paint It, Black | last aired 2026-11-03 13:16 | normal pick from 2026-11-05 01:16 | request from 2026-11-04 09:16
 WAIT The Rolling Stones — Street Fighting Man | last aired 2026-11-03 18:39 | normal pick from 2026-11-05 06:39 | request from 2026-11-04 14:39
 OK   The Rolling Stones — Sweet Sounds Of Heaven | last aired 2026-10-17 09:34 | normal pick now | request now

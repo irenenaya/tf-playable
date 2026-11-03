@@ -1,10 +1,10 @@
-Track status, song titles filed under LI (built Tue Nov 3, 3:45 PM PST (23:45 UTC)). Times in UTC.
+Track status, song titles filed under LI (built Tue Nov 3, 3:55 PM PST (23:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Li Beirut (after Joaquín Rodrigo) — Karim Sulayman | last aired 2026-10-29 16:47 | normal pick now | request now
 OK   Libertango (Arr. Yamamoto for Piano 4-Hands) — Beatrice Rana | last aired 2026-11-01 18:34 | normal pick now | request now
 OK   Libertango — Al Di Meola | last aired 2026-10-31 16:28 | normal pick now | request now
-OK   Libertango — Rodrigo y Gabriela | last aired 2026-11-01 17:12 | normal pick now | request now
+WAIT Libertango — Rodrigo y Gabriela | last aired 2026-11-03 23:42 | normal pick from 2026-11-05 23:42 | request from 2026-11-05 23:42
 OK   Libertango — Yo-Yo Ma | last aired 2026-10-28 10:31 | normal pick now | request now
 OK   Lid — Christian Löffler | last aired 2026-11-01 12:36 | normal pick now | request now
 OK   Life Is Strange — Lord Huron | last aired 2026-10-29 12:11 | normal pick now | request now
@@ -24,6 +24,6 @@ OK   Little Dark Age — MGMT | last aired 2026-10-23 22:15 | normal pick now | 
 OK   Little Rhymes — Mercury Rev | last aired 2026-10-31 04:26 | normal pick now | request now
 WAIT Live For You — Thee Sacred Souls | last aired 2026-11-02 14:10 | normal pick from 2026-11-04 02:10 | request now
 OK   Live Forever — Oasis | last aired 2026-10-26 03:27 | normal pick now | request now
-OK   Livin' On A Prayer — Bon Jovi | last aired 2026-11-01 23:11 | normal pick now | request now
+WAIT Livin' On A Prayer — Bon Jovi | last aired 2026-11-03 23:49 | normal pick from 2026-11-05 11:49 | request from 2026-11-04 19:49
 OK   Living For The City (Album Version) — Stevie Wonder | last aired 2026-11-01 21:22 | normal pick now | request now
 WAIT Living the Dream — Steve Roach | last aired 2026-11-02 20:51 | normal pick from 2026-11-04 08:51 | request now
