@@ -1,4 +1,4 @@
-Track status, song titles filed under AT (built Tue Nov 3, 2:25 PM PST (22:25 UTC)). Times in UTC.
+Track status, song titles filed under AT (built Tue Nov 3, 2:35 PM PST (22:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   A Taste of Honey — Herb Alpert's Tijuana Brass | last aired 2026-10-28 16:37 | normal pick now | request now
@@ -6,7 +6,7 @@ OK   A Town with an Ocean View (from 'Kiki's Delivery Service') — Joe Hisaishi
 OK   At Last (Acoustic) — Eva Cassidy | last aired 2026-10-22 19:43 | normal pick now | request now
 OK   At Last (Album Version) — Cyndi Lauper | last aired 2026-08-27 14:57 | normal pick now | request now
 OK   At Last (Album Version) — The Temptations | last aired 2026-10-17 12:23 | normal pick now | request now
-OK   At Last (LP Version) — Joni Mitchell | last aired 2026-10-20 11:54 | normal pick now | request now
+WAIT At Last (LP Version) — Joni Mitchell | last aired 2026-11-03 22:18 | normal pick from 2026-11-05 10:18 | request from 2026-11-04 18:18
 WAIT At Last — Baby Face Willette | last aired 2026-11-03 13:01 | normal pick from 2026-11-05 01:01 | request from 2026-11-04 09:01
 OK   At Last — Etta James | last aired 2026-10-22 19:01 | normal pick now | request now
 OK   At Last — Gene Watson | last aired 2026-10-17 10:29 | normal pick now | request now
