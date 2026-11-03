@@ -1,5 +1,5 @@
-Track status, song titles filed under AV (built Tue Nov 3, 5:35 AM PST (13:35 UTC)). Times in UTC.
+Track status, song titles filed under AV (built Tue Nov 3, 5:45 AM PST (13:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Avalanche — Leonard Cohen | last aired 2026-11-01 13:36 | normal pick from 2026-11-03 13:36 | request from 2026-11-03 13:36
+OK   Avalanche — Leonard Cohen | last aired 2026-11-01 13:36 | normal pick now | request now
 OK   Avril 14th — Aphex Twin | last aired 2026-10-22 02:58 | normal pick now | request now
