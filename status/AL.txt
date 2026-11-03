@@ -1,4 +1,4 @@
-Track status, artists filed under AL (built Tue Nov 3, 9:15 AM PST (17:15 UTC)). Times in UTC.
+Track status, artists filed under AL (built Tue Nov 3, 9:25 AM PST (17:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Al Di Meola — Double Concerto | last aired 2026-11-02 16:39 | normal pick from 2026-11-04 04:39 | request now
@@ -24,7 +24,7 @@ OK   Alexander Rybak — Fairytale | last aired 2026-11-01 16:20 | normal pick n
 WAIT Alexandre Tharaud — Gnossienne No.1 - Gnossienne: No. 1 | last aired 2026-11-03 16:17 | normal pick from 2026-11-05 16:17 | request from 2026-11-05 16:17
 OK   Alexi Murdoch — Orange Sky | last aired 2026-11-01 16:04 | normal pick now | request now
 OK   Alfa Mist — Organic Rust | last aired 2026-11-02 04:58 | normal pick now | request now
-WAIT Ali Farka Touré — Soukora | last aired 2026-11-01 17:20 | normal pick from 2026-11-03 17:20 | request from 2026-11-03 17:20
+OK   Ali Farka Touré — Soukora | last aired 2026-11-01 17:20 | normal pick now | request now
 OK   Alice Coltrane — Journey In Satchidananda | last aired 2026-11-02 05:02 | normal pick now | request now
 WAIT Alice In Chains — Man in the Box | last aired 2026-11-03 14:28 | normal pick from 2026-11-05 02:28 | request from 2026-11-04 10:28
 WAIT Alicia Keys — Fallin' (Album Version) | last aired 2026-11-02 08:39 | normal pick from 2026-11-03 20:39 | request now
