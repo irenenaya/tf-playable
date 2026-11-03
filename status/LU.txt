@@ -1,4 +1,4 @@
-Track status, artists filed under LU (built Tue Nov 3, 7:05 AM PST (15:05 UTC)). Times in UTC.
+Track status, artists filed under LU (built Tue Nov 3, 7:15 AM PST (15:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Lubomyr Melnyk — The Six Day Moment | last aired 2026-11-02 19:18 | normal pick from 2026-11-04 07:18 | request from 2026-11-03 15:18
@@ -10,4 +10,4 @@ WAIT Ludovico Einaudi — Primavera | last aired 2026-11-03 08:57 | normal pick 
 WAIT Luis Alberto Spinetta — Muchacha Ojos De Papel (Live) | last aired 2026-11-03 09:07 | normal pick from 2026-11-04 21:07 | request from 2026-11-04 05:07
 OK   Luis Fonsi — Despacito | last aired 2026-10-22 13:36 | normal pick now | request now
 WAIT Luis Miguel — La Mentira | last aired 2026-11-02 19:14 | normal pick from 2026-11-04 19:14 | request from 2026-11-04 19:14
-WAIT Luther Vandross — A House Is Not A Home | last aired 2026-11-02 19:07 | normal pick from 2026-11-04 07:07 | request from 2026-11-03 15:07
+WAIT Luther Vandross — A House Is Not A Home | last aired 2026-11-02 19:07 | normal pick from 2026-11-04 07:07 | request now
