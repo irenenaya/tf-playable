@@ -1,4 +1,4 @@
-Track status, song titles filed under AS (built Tue Nov 3, 4:35 AM PST (12:35 UTC)). Times in UTC.
+Track status, song titles filed under AS (built Tue Nov 3, 4:45 AM PST (12:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   A Song for You — Donny Hathaway | last aired 2026-11-01 05:28 | normal pick now | request now
@@ -8,7 +8,7 @@ OK   A Swingin' Safari — Bert Kaempfert | last aired 2026-10-30 15:24 | normal
 OK   As (Album Version) — George Michael Duet with Mary J. Blige | last aired 2026-10-19 00:44 | normal pick now | request now
 OK   As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige — Studio Group | last aired 2026-08-08 23:18 | normal pick now | request now
 OK   As It Was — Harry Styles | last aired 2026-10-23 19:04 | normal pick now | request now
-OK   As Rosas Não Falam — Cartola | last aired 2026-11-01 03:22 | normal pick now | request now
+WAIT As Rosas Não Falam — Cartola | last aired 2026-11-03 12:40 | normal pick from 2026-11-05 00:40 | request from 2026-11-04 08:40
 OK   As — Stevie Wonder | last aired 2026-11-01 16:30 | normal pick now | request now
 OK   Ascension (No One's Gonna Love You, So Don't Ever Wonder)[The Tribute][Cut] — Maxwell | last aired 2026-09-05 10:34 | normal pick now | request now
 OK   Asfalt Tango — Fanfare Ciocarlia | last aired 2026-10-25 23:22 | normal pick now | request now
