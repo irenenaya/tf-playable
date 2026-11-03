@@ -1,9 +1,9 @@
-Track status, artists filed under RO (built Tue Nov 3, 10:35 AM PST (18:35 UTC)). Times in UTC.
+Track status, artists filed under RO (built Tue Nov 3, 10:45 AM PST (18:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Robbie Dupree — Steal Away | last aired 2026-11-01 01:55 | normal pick now | request now
 WAIT Robbie Robertson — Coyote Dance | last aired 2026-11-02 07:00 | normal pick from 2026-11-04 07:00 | request from 2026-11-04 07:00
-WAIT Robert Fripp — Here Comes The Flood (Exposure Fourth Edition: 2021 Stereo Mix) | last aired 2026-11-02 06:39 | normal pick from 2026-11-03 18:39 | request now
+OK   Robert Fripp — Here Comes The Flood (Exposure Fourth Edition: 2021 Stereo Mix) | last aired 2026-11-02 06:39 | normal pick now | request now
 OK   Robert Johnson — Cross Road Blues | last aired 2026-10-28 19:11 | normal pick now | request now
 WAIT Roberta Flack — Killing Me Softly With His Song | last aired 2026-11-02 06:45 | normal pick from 2026-11-04 06:45 | request from 2026-11-04 06:45
 WAIT Roberta Flack — The First Time Ever I Saw Your Face (2020 Remaster) | last aired 2026-11-02 06:35 | normal pick from 2026-11-04 06:35 | request from 2026-11-04 06:35
@@ -24,6 +24,6 @@ OK   Rozen — Voice of NO Return | last aired 2026-09-05 17:43 | normal pick no
 OK   Róisín Murphy — Murphy's Law (Album Version) | last aired 2026-10-31 20:45 | normal pick now | request now
 OK   Röyksopp — Eple | last aired 2026-10-28 09:28 | normal pick now | request now
 WAIT The Rolling Stones — Paint It, Black | last aired 2026-11-03 13:16 | normal pick from 2026-11-05 01:16 | request from 2026-11-04 09:16
-OK   The Rolling Stones — Street Fighting Man | last aired 2026-10-24 13:40 | normal pick now | request now
+WAIT The Rolling Stones — Street Fighting Man | last aired 2026-11-03 18:37 | normal pick from 2026-11-05 06:37 | request from 2026-11-04 14:37
 OK   The Rolling Stones — Sweet Sounds Of Heaven | last aired 2026-10-17 09:34 | normal pick now | request now
 OK   The Rolling Stones — You Can't Always Get What You Want | last aired 2026-11-01 19:01 | normal pick now | request now
