@@ -1,11 +1,11 @@
-Track status, artists filed under NI (built Tue Nov 3, 9:55 AM PST (17:55 UTC)). Times in UTC.
+Track status, artists filed under NI (built Tue Nov 3, 10:05 AM PST (18:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Nick Cave & The Bad Seeds — (I'll Love You) Till The End Of The World | last aired 2026-11-02 15:25 | normal pick from 2026-11-04 15:25 | request from 2026-11-04 15:25
 OK   Nick Cave & The Bad Seeds — Henry Lee (Remastered 2011) | last aired 2026-11-02 03:47 | normal pick now | request now
 WAIT Nick Drake — Northern Sky | last aired 2026-11-03 11:18 | normal pick from 2026-11-05 11:18 | request from 2026-11-05 11:18
-WAIT Nick Drake — Pink Moon | last aired 2026-11-02 09:38 | normal pick from 2026-11-04 09:38 | request from 2026-11-04 09:38
-WAIT Nickelback — How You Remind Me (- LP Mix) | last aired 2026-11-03 16:01 | normal pick from 2026-11-05 04:01 | request from 2026-11-04 12:01
+WAIT Nick Drake — Pink Moon | last aired 2026-11-02 09:38 | normal pick from 2026-11-03 21:38 | request now
+WAIT Nickelback — How You Remind Me (- LP Mix) | last aired 2026-11-03 16:02 | normal pick from 2026-11-05 04:02 | request from 2026-11-04 12:02
 WAIT Nightmares On Wax — Les Nuits | last aired 2026-11-02 15:19 | normal pick from 2026-11-04 03:19 | request now
 OK   Nightwish — Wishmaster | last aired 2026-10-26 16:51 | normal pick now | request now
 WAIT Niko B — Who's That What's That | last aired 2026-11-02 15:29 | normal pick from 2026-11-04 03:29 | request now
@@ -21,4 +21,4 @@ WAIT Nine Inch Nails — Hurt | last aired 2026-11-02 23:20 | normal pick from 2
 OK   Nine Inch Nails — Less Than | last aired 2026-10-30 03:48 | normal pick now | request now
 OK   Nine Inch Nails — The Hand That Feeds | last aired 2026-10-30 11:31 | normal pick now | request now
 WAIT Nirvana — Heart-Shaped Box (Album Version) | last aired 2026-11-03 03:59 | normal pick from 2026-11-04 15:59 | request from 2026-11-03 23:59
-WAIT Nirvana — Smells Like Teen Spirit | last aired 2026-11-03 14:56 | normal pick from 2026-11-05 02:56 | request from 2026-11-04 10:56
+WAIT Nirvana — Smells Like Teen Spirit | last aired 2026-11-03 14:58 | normal pick from 2026-11-05 02:58 | request from 2026-11-04 10:58

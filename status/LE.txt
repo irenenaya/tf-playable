@@ -1,15 +1,15 @@
-Track status, artists filed under LE (built Tue Nov 3, 9:55 AM PST (17:55 UTC)). Times in UTC.
+Track status, artists filed under LE (built Tue Nov 3, 10:05 AM PST (18:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   LeAnn Rimes — Blue | last aired 2026-11-01 09:09 | normal pick now | request now
 OK   Lebanon Hanover — Babes of the 80s (She Past Away) | last aired 2026-10-21 04:30 | normal pick now | request now
 WAIT Led Zeppelin — Going to California  (Remaster) | last aired 2026-11-03 00:38 | normal pick from 2026-11-05 00:38 | request from 2026-11-05 00:38
 OK   Led Zeppelin — Over the Hills and Far Away  (Remaster) | last aired 2026-11-01 13:41 | normal pick now | request now
-WAIT Led Zeppelin — Stairway to Heaven  (Remaster) | last aired 2026-11-03 14:03 | normal pick from 2026-11-05 02:03 | request from 2026-11-04 10:03
+WAIT Led Zeppelin — Stairway to Heaven  (Remaster) | last aired 2026-11-03 14:05 | normal pick from 2026-11-05 02:05 | request from 2026-11-04 10:05
 WAIT Ledward Kaapana — Salomila  (Live) | last aired 2026-11-02 10:15 | normal pick from 2026-11-03 22:15 | request now
 OK   Lemon Jelly — Ramblin' Man | last aired 2026-11-01 13:30 | normal pick now | request now
 OK   Leon Bridges — Coming Home | last aired 2026-11-01 00:51 | normal pick now | request now
-WAIT Leon Larregui — Brillas | last aired 2026-11-03 15:20 | normal pick from 2026-11-05 03:20 | request from 2026-11-04 11:20
+WAIT Leon Larregui — Brillas | last aired 2026-11-03 15:21 | normal pick from 2026-11-05 03:21 | request from 2026-11-04 11:21
 OK   Leon Larregui — Locos | last aired 2026-10-28 19:01 | normal pick now | request now
 OK   Leonard Bernstein — Candide: Overture | last aired 2026-11-01 13:46 | normal pick now | request now
 OK   Leonard Bernstein — The Rite of Spring (1913 Version) - Le Sacre du Printemps (The Rite of Spring): Les augures printaniers (Danses des adolescentes) [The Augurs of Spring (Dance of the Young Girls)] (1913 Version) | last aired 2026-10-13 14:05 | normal pick now | request now
@@ -18,7 +18,7 @@ OK   Leonard Cohen — Avalanche | last aired 2026-11-01 13:36 | normal pick now
 OK   Leonard Cohen — Bird on the Wire | last aired 2026-11-02 04:54 | normal pick now | request now
 OK   Leonard Cohen — Dance Me to the End of Love | last aired 2026-10-31 20:35 | normal pick now | request now
 OK   Leonard Cohen — Famous Blue Raincoat | last aired 2026-10-31 11:47 | normal pick now | request now
-WAIT Leonard Cohen — Hallelujah | last aired 2026-11-02 06:04 | normal pick from 2026-11-03 18:04 | request now
+OK   Leonard Cohen — Hallelujah | last aired 2026-11-02 06:04 | normal pick now | request now
 WAIT Leonard Cohen — So Long, Marianne | last aired 2026-11-03 11:37 | normal pick from 2026-11-04 23:37 | request from 2026-11-04 07:37
 WAIT Leonard Cohen — Suzanne | last aired 2026-11-03 11:33 | normal pick from 2026-11-04 23:33 | request from 2026-11-04 07:33
 WAIT Leonard Cohen — Treaty | last aired 2026-11-02 11:40 | normal pick from 2026-11-03 23:40 | request now
