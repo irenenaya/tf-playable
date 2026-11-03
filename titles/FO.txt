@@ -1,4 +1,4 @@
-Track status, song titles filed under FO (built Mon Nov 2, 10:25 PM PST (06:25 UTC Tue)). Times in UTC.
+Track status, song titles filed under FO (built Mon Nov 2, 10:45 PM PST (06:45 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Foggy Mountain Breakdown — Lester Flatt, Earl Scruggs | last aired 2026-10-31 10:08 | normal pick now | request now
@@ -9,4 +9,4 @@ OK   Footloose (From "Footloose" Soundtrack) — Kenny Loggins | last aired 2026
 OK   For: You — Kali Uchis | last aired 2026-10-28 21:41 | normal pick now | request now
 OK   Forest Party — Rumahoy | last aired 2026-10-13 03:28 | normal pick now | request now
 WAIT Forever and Ever, Amen — Randy Travis | last aired 2026-11-02 16:55 | normal pick from 2026-11-04 04:55 | request from 2026-11-03 12:55
-OK   Fourth of July — Sufjan Stevens | last aired 2026-10-30 11:17 | normal pick now | request now
+WAIT Fourth of July — Sufjan Stevens | last aired 2026-11-03 06:36 | normal pick from 2026-11-04 18:36 | request from 2026-11-04 02:36
