@@ -1,4 +1,4 @@
-Track status, artists filed under ME (built Tue Nov 3, 12:25 AM PST (08:25 UTC)). Times in UTC.
+Track status, artists filed under ME (built Tue Nov 3, 12:35 AM PST (08:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Meat Beat Manifesto — Prime Audio Soup | last aired 2026-10-18 11:27 | normal pick now | request now
@@ -12,7 +12,7 @@ WAIT Melody Gardot — Moon River | last aired 2026-11-02 12:10 | normal pick fr
 WAIT Melody Gardot — Over The Rainbow (Live) | last aired 2026-11-03 01:59 | normal pick from 2026-11-04 13:59 | request from 2026-11-03 21:59
 WAIT Melody Gardot — Perhaps You'll Wonder Why (The Paris Sessions) | last aired 2026-11-02 03:31 | normal pick from 2026-11-03 15:31 | request now
 OK   Melody Gardot — This Foolish Heart Could Love You | last aired 2026-11-01 03:14 | normal pick now | request now
-WAIT Melody Gardot — Worrisome Heart (Album Version) | last aired 2026-11-02 12:28 | normal pick from 2026-11-04 00:28 | request from 2026-11-03 08:28
+WAIT Melody Gardot — Worrisome Heart (Album Version) | last aired 2026-11-02 12:28 | normal pick from 2026-11-04 00:28 | request now
 OK   Men At Work — Down Under | last aired 2026-11-01 10:59 | normal pick now | request now
 OK   Men At Work — Overkill | last aired 2026-10-30 08:04 | normal pick now | request now
 OK   Men I Trust — Show Me How | last aired 2026-11-01 04:05 | normal pick now | request now
