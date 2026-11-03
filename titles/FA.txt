@@ -1,20 +1,20 @@
-Track status, song titles filed under FA (built Mon Nov 2, 4:55 PM PST (00:55 UTC Tue)). Times in UTC.
+Track status, song titles filed under FA (built Mon Nov 2, 5:05 PM PST (01:05 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Face to Face — Daft Punk | last aired 2026-11-01 03:04 | normal pick now | request now
 WAIT Facing East — Thievery Corporation | last aired 2026-11-02 14:53 | normal pick from 2026-11-04 02:53 | request from 2026-11-03 10:53
 OK   Fade Into You — Mazzy Star | last aired 2026-10-30 09:34 | normal pick now | request now
 OK   Fade To Grey — Visage | last aired 2026-10-25 13:36 | normal pick now | request now
-OK   Fado Vadio (Má Fama) — Ana Sofia Varela | last aired 2026-10-31 06:54 | normal pick now | request now
+WAIT Fado Vadio (Má Fama) — Ana Sofia Varela | last aired 2026-11-03 00:53 | normal pick from 2026-11-04 12:53 | request from 2026-11-03 20:53
 OK   Fail Upward For A Change — Tom Konkle | last aired 2026-10-17 13:56 | normal pick now | request now
 WAIT Fairytale — Alexander Rybak | last aired 2026-11-01 16:20 | normal pick from 2026-11-03 04:20 | request now
 OK   Fait Accompli — Curve | last aired 2026-10-24 07:22 | normal pick now | request now
 OK   Fake Tales Of San Francisco — Arctic Monkeys | last aired 2026-10-22 11:02 | normal pick now | request now
-WAIT Fallen (Album Mix) — Sarah McLachlan | last aired 2026-11-02 22:42 | normal pick from 2026-11-04 10:42 | request from 2026-11-03 18:42
+WAIT Fallen (Album Mix) — Sarah McLachlan | last aired 2026-11-02 22:45 | normal pick from 2026-11-04 10:45 | request from 2026-11-03 18:45
 OK   Fallen Star — Djivan Gasparyan | last aired 2026-10-28 14:30 | normal pick now | request now
 WAIT Fallin' (Album Version) — Alicia Keys | last aired 2026-11-02 08:39 | normal pick from 2026-11-03 20:39 | request from 2026-11-03 04:39
 OK   Falling Slowly (Album Version) — Glen Hansard and Marketa Irglova | last aired 2026-10-30 04:55 | normal pick now | request now
-WAIT Familiar — Nils Frahm | last aired 2026-11-02 21:07 | normal pick from 2026-11-04 09:07 | request from 2026-11-03 17:07
+WAIT Familiar — Nils Frahm | last aired 2026-11-02 21:08 | normal pick from 2026-11-04 21:08 | request from 2026-11-04 21:08
 OK   Family Portrait — P!nk | last aired 2026-10-14 13:43 | normal pick now | request now
 OK   Famous Blue Raincoat — Leonard Cohen | last aired 2026-10-31 11:47 | normal pick now | request now
 OK   Fancy — Reba McEntire | last aired 2026-10-27 23:21 | normal pick now | request now
