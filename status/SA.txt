@@ -1,4 +1,4 @@
-Track status, artists filed under SA (built Tue Nov 3, 11:35 AM PST (19:35 UTC)). Times in UTC.
+Track status, artists filed under SA (built Tue Nov 3, 11:45 AM PST (19:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Sabaton — The Last Stand | last aired 2026-11-02 03:19 | normal pick now | request now
@@ -22,7 +22,7 @@ OK   Santana — Black Magic Woman | last aired 2026-11-01 13:50 | normal pick n
 OK   Santana — Maria Maria | last aired 2026-11-02 03:11 | normal pick now | request now
 WAIT Santana — Oye Como Va | last aired 2026-11-03 18:44 | normal pick from 2026-11-05 18:44 | request from 2026-11-05 18:44
 WAIT Santana — Samba Pa Ti | last aired 2026-11-03 15:07 | normal pick from 2026-11-05 15:07 | request from 2026-11-05 15:07
-OK   Sarah McLachlan — Building a Mystery | last aired 2026-10-31 09:08 | normal pick now | request now
+WAIT Sarah McLachlan — Building a Mystery | last aired 2026-11-03 19:31 | normal pick from 2026-11-05 07:31 | request from 2026-11-04 15:31
 WAIT Sarah McLachlan — Fallen (Album Mix) | last aired 2026-11-02 22:45 | normal pick from 2026-11-04 10:45 | request now
 WAIT Sarah McLachlan — Sweet Surrender (Album Version) | last aired 2026-11-03 03:07 | normal pick from 2026-11-04 15:07 | request from 2026-11-03 23:07
-OK   Savath &  Savalas — Te Quiero Pero Por Otro Lado. | last aired 2026-10-31 09:04 | normal pick now | request now
+WAIT Savath &  Savalas — Te Quiero Pero Por Otro Lado. | last aired 2026-11-03 19:27 | normal pick from 2026-11-05 19:27 | request from 2026-11-05 19:27
