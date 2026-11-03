@@ -1,4 +1,4 @@
-Track status, artists filed under BR (built Tue Nov 3, 6:45 AM PST (14:45 UTC)). Times in UTC.
+Track status, artists filed under BR (built Tue Nov 3, 6:55 AM PST (14:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Brainstory — Mnemophobia | last aired 2026-10-31 06:20 | normal pick now | request now
@@ -11,7 +11,7 @@ WAIT Brian Eno — Capsule | last aired 2026-11-03 02:14 | normal pick from 2026
 OK   Brian Eno — Deep Blue Day (Remastered 2019) | last aired 2026-11-01 02:20 | normal pick now | request now
 OK   Brian Eno — Fullness Of Wind (Variation On 'The Canon In D Major' By Johann Pachelbel) (Remastered 2004) | last aired 2026-11-01 02:28 | normal pick now | request now
 WAIT Brian Eno — Spinning Away | last aired 2026-11-02 07:55 | normal pick from 2026-11-03 19:55 | request now
-WAIT Brian Eno — The Big Ship (2004 Remaster) | last aired 2026-11-02 02:55 | normal pick from 2026-11-03 14:55 | request now
+OK   Brian Eno — The Big Ship (2004 Remaster) | last aired 2026-11-02 02:55 | normal pick now | request now
 WAIT Brijean — Counting Sheep | last aired 2026-11-03 04:57 | normal pick from 2026-11-05 04:57 | request from 2026-11-05 04:57
 OK   Bring Me The Horizon — Blessed with a Curse | last aired 2026-11-02 00:11 | normal pick now | request now
 WAIT Bruce Kaphan — Clouds | last aired 2026-11-02 08:01 | normal pick from 2026-11-03 20:01 | request now
@@ -20,7 +20,7 @@ OK   Bruce Springsteen — Born to Run | last aired 2026-11-02 02:45 | normal pi
 OK   Bruce Springsteen — No Surrender | last aired 2026-11-01 00:58 | normal pick now | request now
 OK   Bruce Springsteen — Streets of Philadelphia  (Single Edit) | last aired 2026-11-01 05:37 | normal pick now | request now
 OK   Bruce Springsteen — The River | last aired 2026-10-31 09:51 | normal pick now | request now
-WAIT Bruce Springsteen — Thunder Road | last aired 2026-11-02 02:50 | normal pick from 2026-11-03 14:50 | request now
+OK   Bruce Springsteen — Thunder Road | last aired 2026-11-02 02:50 | normal pick now | request now
 WAIT Bruno Battisti D'Amario — Omaggio a giuliani | last aired 2026-11-03 05:48 | normal pick from 2026-11-04 17:48 | request from 2026-11-04 01:48
 OK   Bruno Mars — Gorilla | last aired 2026-10-23 18:55 | normal pick now | request now
 OK   Bruno Mars — I Just Might | last aired 2026-10-23 09:33 | normal pick now | request now
