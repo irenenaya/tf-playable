@@ -1,4 +1,4 @@
-Track status, song titles filed under DI (built Mon Nov 2, 8:35 PM PST (04:35 UTC Tue)). Times in UTC.
+Track status, song titles filed under DI (built Mon Nov 2, 8:45 PM PST (04:45 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Die With A Smile  (Bruno Mars & Lady Gaga Cover - BBC Radio 1 Live Lounge) — Perrie | last aired 2026-10-21 15:11 | normal pick now | request now
@@ -8,4 +8,4 @@ OK   Disco Man — Remi Wolf | last aired 2026-10-29 00:12 | normal pick now | r
 OK   Disco Yes — Tom Misch | last aired 2026-10-27 00:51 | normal pick now | request now
 WAIT Distant Lover — Marvin Gaye | last aired 2026-11-02 16:15 | normal pick from 2026-11-04 04:15 | request from 2026-11-03 12:15
 OK   Ditch — Gus Dapperton | last aired 2026-10-27 14:42 | normal pick now | request now
-OK   Dive — Tycho | last aired 2026-11-01 09:40 | normal pick now | request now
+WAIT Dive — Tycho | last aired 2026-11-03 04:36 | normal pick from 2026-11-04 16:36 | request from 2026-11-04 00:36
