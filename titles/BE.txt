@@ -1,4 +1,4 @@
-Track status, song titles filed under BE (built Tue Nov 3, 5:55 AM PST (13:55 UTC)). Times in UTC.
+Track status, song titles filed under BE (built Tue Nov 3, 6:05 AM PST (14:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Be (Introduction Of Jonathan) — Neil Diamond | last aired 2026-10-31 02:15 | normal pick now | request now
@@ -21,4 +21,4 @@ WAIT Bewitched, Bothered And Bewildered  (Ella Fitzgerald and Her Famous Orchest
 OK   Bewitched, Bothered And Bewildered — Ella Fitzgerald | last aired 2026-10-31 13:25 | normal pick now | request now
 OK   Beyond the Sea — Bobby Darin | last aired 2026-11-01 15:58 | normal pick now | request now
 WAIT The Beat Goes On — Prince Fatty | last aired 2026-11-02 06:20 | normal pick from 2026-11-03 18:20 | request now
-WAIT The Best — Tina Turner | last aired 2026-11-03 12:14 | normal pick from 2026-11-05 00:14 | request from 2026-11-04 08:14
+WAIT The Best — Tina Turner | last aired 2026-11-03 12:17 | normal pick from 2026-11-05 00:17 | request from 2026-11-04 08:17

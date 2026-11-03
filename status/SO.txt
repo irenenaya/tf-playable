@@ -1,10 +1,10 @@
-Track status, artists filed under SO (built Tue Nov 3, 5:55 AM PST (13:55 UTC)). Times in UTC.
+Track status, artists filed under SO (built Tue Nov 3, 6:05 AM PST (14:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Soda Stereo — De Música Ligera (Remasterizado 2007) | last aired 2026-11-01 07:56 | normal pick now | request now
 WAIT Soda Stereo — En La Ciudad De La Furia (MTV Unplugged) | last aired 2026-11-03 07:21 | normal pick from 2026-11-04 19:21 | request from 2026-11-04 03:21
 OK   Soda Stereo — Luna Roja (Remasterizado 2007) | last aired 2026-10-31 18:45 | normal pick now | request now
-WAIT Soft Cell — Tainted Love | last aired 2026-11-03 12:20 | normal pick from 2026-11-05 00:20 | request from 2026-11-04 08:20
+WAIT Soft Cell — Tainted Love | last aired 2026-11-03 12:22 | normal pick from 2026-11-05 00:22 | request from 2026-11-04 08:22
 OK   Sol Gabetta — Fantasiestücke, Op. 73 - Schumann: Fantasiestücke, Op. 73: No. 1, Zart und mit Ausdruck | last aired 2026-11-01 07:18 | normal pick now | request now
 WAIT Solange — Cranes in the Sky | last aired 2026-11-03 06:00 | normal pick from 2026-11-04 18:00 | request from 2026-11-04 02:00
 WAIT Solarstone — Evensong | last aired 2026-11-03 05:51 | normal pick from 2026-11-04 17:51 | request from 2026-11-04 01:51
@@ -13,7 +13,7 @@ OK   Sons Of Apollo — Desolate July | last aired 2026-09-25 16:24 | normal pic
 WAIT Sophie Hunger — Le vent nous portera | last aired 2026-11-03 06:04 | normal pick from 2026-11-04 18:04 | request from 2026-11-04 02:04
 OK   Sophie Hunger — Shape | last aired 2026-10-31 13:36 | normal pick now | request now
 OK   Soul Coughing — Screenwriter's Blues | last aired 2026-10-29 09:28 | normal pick now | request now
-OK   Soundgarden — Black Hole Sun | last aired 2026-10-29 11:44 | normal pick now | request now
+WAIT Soundgarden — Black Hole Sun | last aired 2026-11-03 13:52 | normal pick from 2026-11-05 01:52 | request from 2026-11-04 09:52
 OK   Soundgarden — Fell On Black Days (Album Version) | last aired 2026-10-29 10:59 | normal pick now | request now
 OK   Soundgarden — Holy Water (Album Version) | last aired 2026-10-27 01:19 | normal pick now | request now
 OK   The Soul Stirrers — Touch The Hem Of His Garment | last aired 2026-10-29 05:00 | normal pick now | request now

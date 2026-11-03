@@ -1,4 +1,4 @@
-Track status, artists filed under LE (built Tue Nov 3, 5:55 AM PST (13:55 UTC)). Times in UTC.
+Track status, artists filed under LE (built Tue Nov 3, 6:05 AM PST (14:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   LeAnn Rimes — Blue | last aired 2026-11-01 09:09 | normal pick now | request now
@@ -19,9 +19,9 @@ WAIT Leonard Cohen — Bird on the Wire | last aired 2026-11-02 04:54 | normal p
 OK   Leonard Cohen — Dance Me to the End of Love | last aired 2026-10-31 20:35 | normal pick now | request now
 OK   Leonard Cohen — Famous Blue Raincoat | last aired 2026-10-31 11:47 | normal pick now | request now
 WAIT Leonard Cohen — Hallelujah | last aired 2026-11-02 06:04 | normal pick from 2026-11-03 18:04 | request now
-WAIT Leonard Cohen — So Long, Marianne | last aired 2026-11-03 11:36 | normal pick from 2026-11-04 23:36 | request from 2026-11-04 07:36
-WAIT Leonard Cohen — Suzanne | last aired 2026-11-03 11:32 | normal pick from 2026-11-04 23:32 | request from 2026-11-04 07:32
+WAIT Leonard Cohen — So Long, Marianne | last aired 2026-11-03 11:37 | normal pick from 2026-11-04 23:37 | request from 2026-11-04 07:37
+WAIT Leonard Cohen — Suzanne | last aired 2026-11-03 11:33 | normal pick from 2026-11-04 23:33 | request from 2026-11-04 07:33
 WAIT Leonard Cohen — Treaty | last aired 2026-11-02 11:40 | normal pick from 2026-11-03 23:40 | request now
 OK   Lester Flatt, Earl Scruggs — Foggy Mountain Breakdown | last aired 2026-10-31 10:08 | normal pick now | request now
-WAIT Levante — SEI TU | last aired 2026-11-03 11:42 | normal pick from 2026-11-04 23:42 | request from 2026-11-04 07:42
+WAIT Levante — SEI TU | last aired 2026-11-03 11:43 | normal pick from 2026-11-04 23:43 | request from 2026-11-04 07:43
 OK   The Leeward Fits — Over the Rainbow (Israel Kamakawiwoʻole Cover) | last aired 2026-10-18 00:22 | normal pick now | request now

@@ -1,4 +1,4 @@
-Track status, song titles filed under DA (built Tue Nov 3, 5:55 AM PST (13:55 UTC)). Times in UTC.
+Track status, song titles filed under DA (built Tue Nov 3, 6:05 AM PST (14:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   D.A.N.C.E. — Justice | last aired 2026-10-28 10:01 | normal pick now | request now
@@ -8,7 +8,7 @@ WAIT Damn Right, I've Got the Blues — Buddy Guy | last aired 2026-11-03 03:46 
 OK   Dance Me to the End of Love — Leonard Cohen | last aired 2026-10-31 20:35 | normal pick now | request now
 OK   Dance The Pain Away — Haute & Freddy | last aired 2026-10-26 19:46 | normal pick now | request now
 OK   Dancing Barefoot — Patti Smith Group | last aired 2026-10-22 18:30 | normal pick now | request now
-WAIT Dancing in the Street (2002 Remaster) — David Bowie | last aired 2026-11-03 12:23 | normal pick from 2026-11-05 00:23 | request from 2026-11-04 08:23
+WAIT Dancing in the Street (2002 Remaster) — David Bowie | last aired 2026-11-03 12:24 | normal pick from 2026-11-05 00:24 | request from 2026-11-04 08:24
 OK   Dancing Queen — ABBA | last aired 2026-10-26 14:36 | normal pick now | request now
 OK   Dancing With Myself — The Vampire Lestat | last aired 2026-10-18 03:44 | normal pick now | request now
 OK   Danger Zone (From "Top Gun" Original Soundtrack) — Kenny Loggins | last aired 2026-10-23 13:19 | normal pick now | request now
@@ -18,5 +18,5 @@ OK   Das Model — Kraftwerk | last aired 2026-11-01 08:05 | normal pick now | r
 OK   Day Dreaming (Album Version) — Aretha Franklin | last aired 2026-10-26 13:08 | normal pick now | request now
 OK   Daydream In Blue — I Monster | last aired 2026-10-26 06:36 | normal pick now | request now
 WAIT daydreams — Hard Life | last aired 2026-11-03 02:31 | normal pick from 2026-11-04 14:31 | request from 2026-11-03 22:31
-WAIT Dayvan Cowboy — Boards of Canada | last aired 2026-11-02 17:57 | normal pick from 2026-11-04 05:57 | request from 2026-11-03 13:57
+WAIT Dayvan Cowboy — Boards of Canada | last aired 2026-11-02 17:57 | normal pick from 2026-11-04 05:57 | request now
 OK   The Dance — Dafuniks | last aired 2026-10-24 08:15 | normal pick now | request now
