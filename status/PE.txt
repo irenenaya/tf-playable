@@ -1,4 +1,4 @@
-Track status, artists filed under PE (built Tue Nov 3, 2:05 PM PST (22:05 UTC)). Times in UTC.
+Track status, artists filed under PE (built Tue Nov 3, 2:15 PM PST (22:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Pearl Jam — Yellow Ledbetter | last aired 2026-11-01 22:56 | normal pick from 2026-11-03 22:56 | request from 2026-11-03 22:56
@@ -10,7 +10,7 @@ WAIT Pellek — Bohemian Rhapsody | last aired 2026-11-02 23:27 | normal pick fr
 WAIT Penguin Cafe Orchestra — Perpetuum Mobile | last aired 2026-11-03 14:52 | normal pick from 2026-11-05 02:52 | request from 2026-11-04 10:52
 OK   Pent Up Pup — ORDER:SCORE | last aired 2026-10-18 03:50 | normal pick now | request now
 WAIT Percy Faith & His Orchestra — Black Magic Woman | last aired 2026-11-02 11:47 | normal pick from 2026-11-03 23:47 | request now
-WAIT Percy Faith & His Orchestra — Theme from "A Summer Place" | last aired 2026-11-02 10:11 | normal pick from 2026-11-03 22:11 | request now
+OK   Percy Faith & His Orchestra — Theme from "A Summer Place" | last aired 2026-11-02 10:11 | normal pick now | request now
 WAIT Perpetuum Jazzile — Africa | last aired 2026-11-03 16:15 | normal pick from 2026-11-05 16:15 | request from 2026-11-05 16:15
 OK   Perrie — Die With A Smile  (Bruno Mars & Lady Gaga Cover - BBC Radio 1 Live Lounge) | last aired 2026-10-21 15:11 | normal pick now | request now
 OK   Pet Shop Boys — West End Girls  (2001 Remaster) | last aired 2026-11-02 02:05 | normal pick now | request now
