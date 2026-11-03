@@ -1,8 +1,8 @@
-Track status, artists filed under FL (built Tue Nov 3, 1:55 AM PST (09:55 UTC)). Times in UTC.
+Track status, artists filed under FL (built Tue Nov 3, 2:05 AM PST (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Fleet Foxes — Helplessness Blues | last aired 2026-10-31 02:22 | normal pick now | request now
-OK   Fleet Foxes — Mykonos | last aired 2026-10-30 18:21 | normal pick now | request now
+WAIT Fleet Foxes — Mykonos | last aired 2026-11-03 09:53 | normal pick from 2026-11-05 09:53 | request from 2026-11-05 09:53
 OK   Fleet Foxes — White Winter Hymnal | last aired 2026-10-16 12:06 | normal pick now | request now
 WAIT Fleetwood Mac — Albatross | last aired 2026-11-03 09:45 | normal pick from 2026-11-04 21:45 | request from 2026-11-04 05:45
 WAIT Fleetwood Mac — Dreams  (2001 Remaster) | last aired 2026-11-03 09:48 | normal pick from 2026-11-04 21:48 | request from 2026-11-04 05:48
@@ -11,7 +11,7 @@ OK   Fleetwood Mac — Go Your Own Way  (2004 Remaster) | last aired 2026-11-01 
 OK   Fleetwood Mac — I Know I'm Not Wrong | last aired 2026-10-30 04:06 | normal pick now | request now
 OK   Fleetwood Mac — Sara | last aired 2026-10-31 03:48 | normal pick now | request now
 OK   Fleetwood Mac — That's All for Everyone | last aired 2026-10-30 09:39 | normal pick now | request now
-OK   Fleetwood Mac — The Ledge | last aired 2026-10-23 22:55 | normal pick now | request now
+WAIT Fleetwood Mac — The Ledge | last aired 2026-11-03 09:57 | normal pick from 2026-11-04 21:57 | request from 2026-11-04 05:57
 OK   Fleetwood Mac — Tusk | last aired 2026-10-30 16:55 | normal pick now | request now
 OK   Floating Points — Birth4000 | last aired 2026-10-31 04:13 | normal pick now | request now
 OK   Floating Points — Last Bloom | last aired 2026-10-31 03:42 | normal pick now | request now

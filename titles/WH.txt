@@ -1,8 +1,8 @@
-Track status, song titles filed under WH (built Tue Nov 3, 1:55 AM PST (09:55 UTC)). Times in UTC.
+Track status, song titles filed under WH (built Tue Nov 3, 2:05 AM PST (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Whistleblowers — Laibach | last aired 2026-10-26 00:33 | normal pick now | request now
-WAIT Whales Tails — Cocteau Twins | last aired 2026-11-03 08:28 | normal pick from 2026-11-05 08:28 | request from 2026-11-05 08:28
+WAIT Whales Tails — Cocteau Twins | last aired 2026-11-03 08:29 | normal pick from 2026-11-05 08:29 | request from 2026-11-05 08:29
 OK   What a Fool Believes — The Doobie Brothers | last aired 2026-11-01 05:25 | normal pick now | request now
 OK   What About Us — P!nk | last aired 2026-10-20 23:05 | normal pick now | request now
 WAIT What Cha' Gonna Do for Me — Chaka Khan | last aired 2026-11-03 03:30 | normal pick from 2026-11-05 03:30 | request from 2026-11-05 03:30
@@ -20,7 +20,7 @@ WAIT when the party's over — Billie Eilish | last aired 2026-11-02 23:33 | nor
 OK   When the Sun Goes Down — The Jetzons | last aired 2026-10-02 05:22 | normal pick now | request now
 WAIT When You Go (That's When You'll Know) — The Altons | last aired 2026-11-02 08:35 | normal pick from 2026-11-03 20:35 | request now
 OK   Whenever Wherever Whatever (Remastered 2021) (Album Version) — Maxwell | last aired 2026-10-30 05:56 | normal pick now | request now
-WAIT Where The Streets Have No Name (Remastered 2007) — U2 | last aired 2026-11-01 21:57 | normal pick from 2026-11-03 09:57 | request now
+OK   Where The Streets Have No Name (Remastered 2007) — U2 | last aired 2026-11-01 21:57 | normal pick now | request now
 OK   Where Were You (Live) — Jeff Beck | last aired 2026-10-28 09:00 | normal pick now | request now
 OK   Wherefore and Why (LP Version) — Gordon Lightfoot | last aired 2026-10-31 18:08 | normal pick now | request now
 WAIT Which Side are You On? — Pete Seeger | last aired 2026-11-02 14:23 | normal pick from 2026-11-04 14:23 | request from 2026-11-04 14:23
