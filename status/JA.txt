@@ -1,4 +1,4 @@
-Track status, artists filed under JA (built Mon Nov 2, 8:55 PM PST (04:55 UTC Tue)). Times in UTC.
+Track status, artists filed under JA (built Mon Nov 2, 9:05 PM PST (05:05 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Jack Johnson — Better Together | last aired 2026-11-01 04:37 | normal pick now | request now
@@ -17,5 +17,5 @@ OK   Janis Joplin — Me and Bobby McGee | last aired 2026-11-01 15:08 | normal 
 OK   Jars Of Clay — Flood | last aired 2026-11-01 04:40 | normal pick now | request now
 OK   JAWNY — true | last aired 2026-10-13 19:10 | normal pick now | request now
 OK   JAY1 — Your Mrs | last aired 2026-10-04 23:17 | normal pick now | request now
-WAIT Jazz Liberatorz — Always something | last aired 2026-11-01 15:12 | normal pick from 2026-11-03 15:12 | request from 2026-11-03 15:12
+OK   Jazz Liberatorz — Always something | last aired 2026-11-01 15:12 | normal pick now | request now
 WAIT Jazzy — No Bad Vibes | last aired 2026-11-02 19:01 | normal pick from 2026-11-04 07:01 | request from 2026-11-03 15:01
