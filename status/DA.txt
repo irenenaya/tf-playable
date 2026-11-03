@@ -1,4 +1,4 @@
-Track status, artists filed under DA (built Tue Nov 3, 7:35 AM PST (15:35 UTC)). Times in UTC.
+Track status, artists filed under DA (built Tue Nov 3, 7:45 AM PST (15:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT D'Angelo — Untitled (How Does It Feel) | last aired 2026-11-03 02:17 | normal pick from 2026-11-04 14:17 | request from 2026-11-03 22:17
@@ -12,7 +12,7 @@ WAIT Daft Punk — Touch It / Technologic | last aired 2026-11-03 13:57 | normal
 OK   Daft Punk — Voyager | last aired 2026-11-02 03:16 | normal pick now | request now
 OK   Dafuniks — The Dance | last aired 2026-10-24 08:15 | normal pick now | request now
 OK   Daikaiju — Magic Wanda | last aired 2026-10-26 03:11 | normal pick now | request now
-OK   Dalida — Paroles paroles (Album Version) | last aired 2026-11-01 11:52 | normal pick now | request now
+WAIT Dalida — Paroles paroles (Album Version) | last aired 2026-11-03 15:31 | normal pick from 2026-11-05 03:31 | request from 2026-11-04 11:31
 OK   Damien Rice — The Blower's Daughter | last aired 2026-11-01 11:28 | normal pick now | request now
 OK   Daniel Barenboim — Nocturne n° 2 in E flat, op. 9 n° 2 - Nocturne No. 2 in E-Flat Major, Op. 9 No. 2 | last aired 2026-11-01 06:18 | normal pick now | request now
 OK   Daniel Pemberton — Amaze Amaze Amaze (Life on Erid) (from "Project Hail Mary") | last aired 2026-11-01 11:49 | normal pick now | request now
