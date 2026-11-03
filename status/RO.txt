@@ -1,4 +1,4 @@
-Track status, artists filed under RO (built Tue Nov 3, 5:15 AM PST (13:15 UTC)). Times in UTC.
+Track status, artists filed under RO (built Tue Nov 3, 5:25 AM PST (13:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Robbie Dupree — Steal Away | last aired 2026-11-01 01:55 | normal pick now | request now
@@ -12,7 +12,7 @@ OK   Rock appetizers — Child in Time (Special Version) | last aired 2026-09-22
 WAIT Rodrigo Leão — Pasión (Album Version) | last aired 2026-11-02 06:56 | normal pick from 2026-11-04 06:56 | request from 2026-11-04 06:56
 WAIT Rodrigo y Gabriela — Libertango | last aired 2026-11-01 17:12 | normal pick from 2026-11-03 17:12 | request from 2026-11-03 17:12
 OK   Roland Dyens — Fuoco (Libra Sonatine) | last aired 2026-10-28 05:40 | normal pick now | request now
-WAIT ROSALÍA — Berghain | last aired 2026-11-02 01:18 | normal pick from 2026-11-03 13:18 | request now
+OK   ROSALÍA — Berghain | last aired 2026-11-02 01:18 | normal pick now | request now
 OK   ROSALÍA — MALAMENTE (Cap.1: Augurio) | last aired 2026-10-26 16:55 | normal pick now | request now
 OK   Roseanna Vitro — If I Didn't Have You (If I Didn't Have You) | last aired 2026-10-29 03:36 | normal pick now | request now
 OK   Roxette — The Look | last aired 2026-10-31 16:23 | normal pick now | request now
@@ -23,7 +23,7 @@ OK   Royal Blood — Boilermaker | last aired 2026-11-01 01:11 | normal pick now
 OK   Rozen — Voice of NO Return | last aired 2026-09-05 17:43 | normal pick now | request now
 OK   Róisín Murphy — Murphy's Law (Album Version) | last aired 2026-10-31 20:45 | normal pick now | request now
 OK   Röyksopp — Eple | last aired 2026-10-28 09:28 | normal pick now | request now
-OK   The Rolling Stones — Paint It, Black | last aired 2026-10-24 17:56 | normal pick now | request now
+WAIT The Rolling Stones — Paint It, Black | last aired 2026-11-03 13:15 | normal pick from 2026-11-05 01:15 | request from 2026-11-04 09:15
 OK   The Rolling Stones — Street Fighting Man | last aired 2026-10-24 13:40 | normal pick now | request now
 OK   The Rolling Stones — Sweet Sounds Of Heaven | last aired 2026-10-17 09:34 | normal pick now | request now
 OK   The Rolling Stones — You Can't Always Get What You Want | last aired 2026-11-01 19:01 | normal pick now | request now
