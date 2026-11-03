@@ -1,4 +1,4 @@
-Track status, artists filed under ST (built Tue Nov 3, 12:45 AM PST (08:45 UTC)). Times in UTC.
+Track status, artists filed under ST (built Tue Nov 3, 12:55 AM PST (08:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   St Germain — Rose rouge | last aired 2026-11-01 16:26 | normal pick now | request now
@@ -11,7 +11,7 @@ OK   Stealers Wheel — Stuck In The Middle With You | last aired 2026-10-31 17:
 WAIT Steely Dan — Almost Gothic (Album Version) | last aired 2026-11-02 23:36 | normal pick from 2026-11-04 11:36 | request from 2026-11-03 19:36
 OK   Steely Dan — Babylon Sisters | last aired 2026-11-01 14:14 | normal pick now | request now
 WAIT Steely Dan — Home At Last | last aired 2026-11-02 01:26 | normal pick from 2026-11-03 13:26 | request now
-WAIT Steely Dan — Jack of Speed (Album Version) | last aired 2026-11-02 12:51 | normal pick from 2026-11-04 00:51 | request from 2026-11-03 08:51
+WAIT Steely Dan — Jack of Speed (Album Version) | last aired 2026-11-02 12:51 | normal pick from 2026-11-04 00:51 | request now
 WAIT Steely Dan — Kid Charlemagne | last aired 2026-11-02 01:35 | normal pick from 2026-11-03 13:35 | request now
 WAIT Steely Dan — Peg | last aired 2026-11-03 02:05 | normal pick from 2026-11-04 14:05 | request from 2026-11-03 22:05
 WAIT Steely Dan — Time Out Of Mind | last aired 2026-11-02 18:15 | normal pick from 2026-11-04 06:15 | request from 2026-11-03 14:15
@@ -36,7 +36,7 @@ OK   Still Woozy — Get Down | last aired 2026-11-01 16:45 | normal pick now | 
 WAIT Sting — Desert Rose (Album Version) | last aired 2026-11-01 21:16 | normal pick from 2026-11-03 09:16 | request now
 OK   Sting — Fields Of Gold (My Songs Version) | last aired 2026-11-01 14:24 | normal pick now | request now
 OK   Sting — Fragile | last aired 2026-10-31 15:15 | normal pick now | request now
-WAIT Sting — If You Love Somebody Set Them Free (Single Edit) | last aired 2026-11-02 12:47 | normal pick from 2026-11-04 00:47 | request from 2026-11-03 08:47
+WAIT Sting — If You Love Somebody Set Them Free (Single Edit) | last aired 2026-11-02 12:47 | normal pick from 2026-11-04 00:47 | request now
 WAIT Sting — Shape Of My Heart (My Songs Version) | last aired 2026-11-02 03:37 | normal pick from 2026-11-03 15:37 | request now
 WAIT Stratovarius — Black Diamond | last aired 2026-11-02 03:41 | normal pick from 2026-11-03 15:41 | request now
 OK   Studio Group — As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired 2026-08-08 23:18 | normal pick now | request now
