@@ -1,4 +1,4 @@
-Track status, artists filed under LE (built Mon Nov 2, 5:45 PM PST (01:45 UTC Tue)). Times in UTC.
+Track status, artists filed under LE (built Mon Nov 2, 5:55 PM PST (01:55 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   LeAnn Rimes — Blue | last aired 2026-11-01 09:09 | normal pick now | request now
@@ -11,7 +11,7 @@ OK   Lemon Jelly — Ramblin' Man | last aired 2026-11-01 13:30 | normal pick no
 OK   Leon Bridges — Coming Home | last aired 2026-11-01 00:51 | normal pick now | request now
 OK   Leon Larregui — Brillas | last aired 2026-11-01 13:25 | normal pick now | request now
 OK   Leon Larregui — Locos | last aired 2026-10-28 19:01 | normal pick now | request now
-WAIT Leonard Bernstein — Candide: Overture | last aired 2026-11-01 13:46 | normal pick from 2026-11-03 01:46 | request now
+OK   Leonard Bernstein — Candide: Overture | last aired 2026-11-01 13:46 | normal pick now | request now
 OK   Leonard Bernstein — The Rite of Spring (1913 Version) - Le Sacre du Printemps (The Rite of Spring): Les augures printaniers (Danses des adolescentes) [The Augurs of Spring (Dance of the Young Girls)] (1913 Version) | last aired 2026-10-13 14:05 | normal pick now | request now
 OK   Leonard Cohen — Anthem | last aired 2026-10-31 18:23 | normal pick now | request now
 WAIT Leonard Cohen — Avalanche | last aired 2026-11-01 13:36 | normal pick from 2026-11-03 13:36 | request from 2026-11-03 13:36
