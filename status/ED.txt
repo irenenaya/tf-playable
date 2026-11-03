@@ -1,4 +1,4 @@
-Track status, artists filed under ED (built Mon Nov 2, 8:45 PM PST (04:45 UTC Tue)). Times in UTC.
+Track status, artists filed under ED (built Mon Nov 2, 8:55 PM PST (04:55 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Ed Maverick — lagunas | last aired 2026-11-02 22:24 | normal pick from 2026-11-04 10:24 | request from 2026-11-03 18:24
@@ -6,7 +6,7 @@ OK   Ed Sheeran — Azizam | last aired 2026-10-23 21:58 | normal pick now | req
 OK   Ed Sheeran — Beautiful People (feat. Khalid) | last aired 2026-10-25 19:49 | normal pick now | request now
 OK   Ed Sheeran — Perfect | last aired 2026-10-31 15:19 | normal pick now | request now
 WAIT Edie Brickell & New Bohemians — Circle (Album Version) | last aired 2026-11-02 17:35 | normal pick from 2026-11-04 05:35 | request from 2026-11-03 13:35
-WAIT Edith Piaf — La Vie en rose | last aired 2026-11-01 04:48 | normal pick from 2026-11-03 04:48 | request from 2026-11-03 04:48
+OK   Edith Piaf — La Vie en rose | last aired 2026-11-01 04:48 | normal pick now | request now
 OK   Ednaswap — Torn | last aired 2026-11-01 05:11 | normal pick now | request now
 OK   Edwin Rosen — Vertigo | last aired 2026-11-01 05:21 | normal pick now | request now
 WAIT Edwin Starr — War | last aired 2026-11-02 17:26 | normal pick from 2026-11-04 05:26 | request from 2026-11-03 13:26
