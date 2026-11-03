@@ -1,4 +1,4 @@
-Track status, artists filed under DA (built Tue Nov 3, 2:55 PM PST (22:55 UTC)). Times in UTC.
+Track status, artists filed under DA (built Tue Nov 3, 3:05 PM PST (23:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT D'Angelo — Untitled (How Does It Feel) | last aired 2026-11-03 02:17 | normal pick from 2026-11-04 14:17 | request now
@@ -13,7 +13,7 @@ OK   Daft Punk — Voyager | last aired 2026-11-02 03:16 | normal pick now | req
 OK   Dafuniks — The Dance | last aired 2026-10-24 08:15 | normal pick now | request now
 OK   Daikaiju — Magic Wanda | last aired 2026-10-26 03:11 | normal pick now | request now
 WAIT Dalida — Paroles paroles (Album Version) | last aired 2026-11-03 15:32 | normal pick from 2026-11-05 15:32 | request from 2026-11-05 15:32
-WAIT Damien Rice — The Blower's Daughter | last aired 2026-11-03 19:38 | normal pick from 2026-11-05 19:38 | request from 2026-11-05 19:38
+WAIT Damien Rice — The Blower's Daughter | last aired 2026-11-03 19:39 | normal pick from 2026-11-05 19:39 | request from 2026-11-05 19:39
 OK   Daniel Barenboim — Nocturne n° 2 in E flat, op. 9 n° 2 - Nocturne No. 2 in E-Flat Major, Op. 9 No. 2 | last aired 2026-11-01 06:18 | normal pick now | request now
 OK   Daniel Pemberton — Amaze Amaze Amaze (Life on Erid) (from "Project Hail Mary") | last aired 2026-11-01 11:49 | normal pick now | request now
 WAIT Dara — Bangaranga | last aired 2026-11-02 14:36 | normal pick from 2026-11-04 02:36 | request now
@@ -39,4 +39,4 @@ OK   David Bowie — Wild Is the Wind  (2016 Remaster) | last aired 2026-10-31 1
 OK   David Byrne — Everybody's Coming to My House (Live) | last aired 2026-10-26 23:31 | normal pick now | request now
 OK   David Soul — Silver Lady | last aired 2026-10-30 02:35 | normal pick now | request now
 OK   David Sylvian — Darkest Dreaming | last aired 2026-10-31 12:56 | normal pick now | request now
-WAIT The Dave Brubeck Quartet — Take Five | last aired 2026-11-03 20:20 | normal pick from 2026-11-05 08:20 | request from 2026-11-04 16:20
+WAIT The Dave Brubeck Quartet — Take Five | last aired 2026-11-03 20:21 | normal pick from 2026-11-05 08:21 | request from 2026-11-04 16:21

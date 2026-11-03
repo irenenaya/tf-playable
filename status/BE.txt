@@ -1,7 +1,7 @@
-Track status, artists filed under BE (built Tue Nov 3, 2:55 PM PST (22:55 UTC)). Times in UTC.
+Track status, artists filed under BE (built Tue Nov 3, 3:05 PM PST (23:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Beach House — Bluebird | last aired 2026-11-03 19:23 | normal pick from 2026-11-05 07:23 | request from 2026-11-04 15:23
+WAIT Beach House — Bluebird | last aired 2026-11-03 19:24 | normal pick from 2026-11-05 07:24 | request from 2026-11-04 15:24
 WAIT Beach House — Space Song | last aired 2026-11-02 04:40 | normal pick from 2026-11-04 04:40 | request from 2026-11-04 04:40
 OK   Beastie Boys — Sabotage | last aired 2026-10-28 21:54 | normal pick now | request now
 OK   Beatrice Rana — Keyboard Concerto No. 1 in D Minor, BWV 1052: I. Allegro | last aired 2026-11-01 11:42 | normal pick now | request now
@@ -9,7 +9,7 @@ OK   Beatrice Rana — Libertango (Arr. Yamamoto for Piano 4-Hands) | last aired
 OK   Beats by Luca — 52 CHICKEN NUGGET (McRave) | last aired 2026-10-18 11:09 | normal pick now | request now
 WAIT Bebel Gilberto — Samba Da Benção | last aired 2026-11-02 09:47 | normal pick from 2026-11-04 09:47 | request from 2026-11-04 09:47
 WAIT Beck — Devils Haircut | last aired 2026-11-03 10:58 | normal pick from 2026-11-04 22:58 | request from 2026-11-04 06:58
-WAIT Beck — Loser | last aired 2026-11-03 11:00 | normal pick from 2026-11-05 11:00 | request from 2026-11-05 11:00
+WAIT Beck — Loser | last aired 2026-11-03 11:00 | normal pick from 2026-11-04 23:00 | request from 2026-11-04 07:00
 WAIT Beck — The New Pollution | last aired 2026-11-03 16:32 | normal pick from 2026-11-05 16:32 | request from 2026-11-05 16:32
 OK   Becky Levi and the Nightjars — Wake Me Up | last aired 2026-10-22 06:23 | normal pick now | request now
 WAIT Bee Gees — Night Fever (From "Saturday Night Fever" Soundtrack) | last aired 2026-11-03 14:34 | normal pick from 2026-11-05 02:34 | request from 2026-11-04 10:34
@@ -47,7 +47,7 @@ OK   The Beatles — Lucy In The Sky With Diamonds (Remastered 2009) | last aire
 WAIT The Beatles — Octopus's Garden (Remastered) | last aired 2026-11-02 12:01 | normal pick from 2026-11-04 00:01 | request now
 OK   The Beatles — Rain (Remastered) | last aired 2026-10-23 11:57 | normal pick now | request now
 OK   The Beatles — Revolution 9 (Remastered 2009) | last aired 2026-09-14 19:37 | normal pick now | request now
-WAIT The Beatles — Strawberry Fields Forever | last aired 2026-11-03 19:03 | normal pick from 2026-11-05 07:03 | request from 2026-11-04 15:03
+WAIT The Beatles — Strawberry Fields Forever | last aired 2026-11-03 19:04 | normal pick from 2026-11-05 07:04 | request from 2026-11-04 15:04
 OK   The Beatles — This Boy (Remastered) | last aired 2026-10-25 22:25 | normal pick now | request now
 OK   The Beatles — With A Little Help From My Friends (2017 Mix) | last aired 2026-10-23 09:41 | normal pick now | request now
 OK   The Beatles — Yesterday (Remastered) | last aired 2026-10-29 04:58 | normal pick now | request now
