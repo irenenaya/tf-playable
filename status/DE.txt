@@ -1,4 +1,4 @@
-Track status, artists filed under DE (built Tue Nov 3, 9:35 AM PST (17:35 UTC)). Times in UTC.
+Track status, artists filed under DE (built Tue Nov 3, 9:45 AM PST (17:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   De La Soul — Me Myself and I | last aired 2026-10-27 23:06 | normal pick now | request now
@@ -7,7 +7,7 @@ OK   Dead Can Dance — The Host of Seraphim (Remastered) | last aired 2026-11-0
 OK   Dean Martin — Everybody Loves Somebody | last aired 2026-10-27 16:01 | normal pick now | request now
 OK   Deathbrain — the empty space is stuck in my head | last aired 2026-10-25 13:22 | normal pick now | request now
 OK   DEEN — Ride On Time | last aired 2026-10-16 03:27 | normal pick now | request now
-OK   Def Leppard — Photograph | last aired 2026-10-27 04:29 | normal pick now | request now
+WAIT Def Leppard — Photograph | last aired 2026-11-03 17:27 | normal pick from 2026-11-05 05:27 | request from 2026-11-04 13:27
 OK   Deftones — Change (In the House of Flies) | last aired 2026-10-31 19:45 | normal pick now | request now
 OK   Deftones — Cherry Waves | last aired 2026-10-28 22:00 | normal pick now | request now
 OK   Deichkind — Keine Party (Single Edit) | last aired 2026-10-23 12:12 | normal pick now | request now
