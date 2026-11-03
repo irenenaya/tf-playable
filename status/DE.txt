@@ -1,4 +1,4 @@
-Track status, artists filed under DE (built Tue Nov 3, 9:25 AM PST (17:25 UTC)). Times in UTC.
+Track status, artists filed under DE (built Tue Nov 3, 9:35 AM PST (17:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   De La Soul — Me Myself and I | last aired 2026-10-27 23:06 | normal pick now | request now
@@ -15,6 +15,6 @@ OK   Delia Derbyshire — Doctor Who Opening Titles (“In Colour” Mix, Daleks
 OK   Dennis Edwards — Don't Look Any Further (Single Version) | last aired 2026-10-27 23:10 | normal pick now | request now
 OK   Depeche Mode — Enjoy the Silence | last aired 2026-11-01 01:19 | normal pick now | request now
 OK   Depeche Mode — Just Can't Get Enough | last aired 2026-10-31 13:33 | normal pick now | request now
-OK   Depeche Mode — Policy of Truth | last aired 2026-10-26 15:03 | normal pick now | request now
+WAIT Depeche Mode — Policy of Truth | last aired 2026-11-03 17:22 | normal pick from 2026-11-05 05:22 | request from 2026-11-04 13:22
 OK   Depeche Mode — Precious | last aired 2026-10-31 22:56 | normal pick now | request now
 OK   Derek & The Dominos — Layla | last aired 2026-10-29 09:21 | normal pick now | request now
