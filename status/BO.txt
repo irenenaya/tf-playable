@@ -1,4 +1,4 @@
-Track status, artists filed under BO (built Tue Nov 3, 12:05 PM PST (20:05 UTC)). Times in UTC.
+Track status, artists filed under BO (built Tue Nov 3, 12:15 PM PST (20:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Boards of Canada — Blood In The Labyrinth | last aired 2026-11-02 21:51 | normal pick from 2026-11-04 09:51 | request now
@@ -9,12 +9,12 @@ OK   Bob Dylan — Girl from the North Country | last aired 2026-11-01 21:48 | n
 WAIT Bob Dylan — The Lonesome Death of Hattie Carroll | last aired 2026-11-02 23:03 | normal pick from 2026-11-04 11:03 | request now
 WAIT Bob Marley & The Wailers — Get Up, Stand Up | last aired 2026-11-01 21:45 | normal pick from 2026-11-03 21:45 | request from 2026-11-03 21:45
 WAIT Bobby Caldwell — Coming Down from Love | last aired 2026-11-03 03:27 | normal pick from 2026-11-04 15:27 | request from 2026-11-03 23:27
-OK   Bobby Caldwell — What You Won't Do for Love | last aired 2026-11-01 21:38 | normal pick now | request now
+WAIT Bobby Caldwell — What You Won't Do for Love | last aired 2026-11-03 20:08 | normal pick from 2026-11-05 08:08 | request from 2026-11-04 16:08
 WAIT Bobby Darin — Beyond the Sea | last aired 2026-11-03 18:48 | normal pick from 2026-11-05 06:48 | request from 2026-11-04 14:48
 WAIT Bobby Hutcherson — Stardust | last aired 2026-11-02 21:45 | normal pick from 2026-11-04 09:45 | request now
 OK   Bobby McFerrin — Common Threads | last aired 2026-11-01 11:56 | normal pick now | request now
 OK   Bobby McFerrin — Don't Worry Be Happy | last aired 2026-11-01 16:56 | normal pick now | request now
-OK   Bobby Vinton — Blue Velvet | last aired 2026-11-01 16:01 | normal pick now | request now
+WAIT Bobby Vinton — Blue Velvet | last aired 2026-11-03 20:05 | normal pick from 2026-11-05 08:05 | request from 2026-11-04 16:05
 WAIT Bon Iver — Holocene | last aired 2026-11-02 17:47 | normal pick from 2026-11-04 17:47 | request from 2026-11-04 17:47
 WAIT Bon Iver — Skinny Love | last aired 2026-11-03 13:36 | normal pick from 2026-11-05 13:36 | request from 2026-11-05 13:36
 OK   Bon Jovi — Livin' On A Prayer | last aired 2026-11-01 23:11 | normal pick now | request now
@@ -26,7 +26,7 @@ WAIT Bonnie Tyler — Total Eclipse of the Heart | last aired 2026-11-02 22:06 |
 WAIT Bonobo — Cirrus | last aired 2026-11-03 04:20 | normal pick from 2026-11-05 04:20 | request from 2026-11-05 04:20
 WAIT Bonobo — Kiara | last aired 2026-11-03 02:39 | normal pick from 2026-11-04 14:39 | request from 2026-11-03 22:39
 WAIT Bonobo — Kong | last aired 2026-11-03 02:50 | normal pick from 2026-11-05 02:50 | request from 2026-11-05 02:50
-WAIT Bonobo — Terrapin | last aired 2026-11-03 00:10 | normal pick from 2026-11-04 12:10 | request from 2026-11-03 20:10
+WAIT Bonobo — Terrapin | last aired 2026-11-03 00:10 | normal pick from 2026-11-04 12:10 | request now
 OK   Booker T. & The M.G.'s — Green Onions | last aired 2026-11-01 23:15 | normal pick now | request now
 WAIT Booker T. & The M.G.'s — Time Is Tight  (Live) | last aired 2026-11-03 03:35 | normal pick from 2026-11-04 15:35 | request from 2026-11-03 23:35
 OK   Booker T. Jones — Everything Is Everything | last aired 2026-11-01 15:53 | normal pick now | request now
