@@ -1,10 +1,10 @@
-Track status, artists filed under AL (built Tue Nov 3, 8:15 AM PST (16:15 UTC)). Times in UTC.
+Track status, artists filed under AL (built Tue Nov 3, 8:25 AM PST (16:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Al Di Meola — Double Concerto | last aired 2026-11-02 16:39 | normal pick from 2026-11-04 04:39 | request now
 OK   Al Di Meola — Libertango | last aired 2026-10-31 16:28 | normal pick now | request now
 OK   Al Di Meola — Passion, Grace & Fire (Album Version) | last aired 2026-11-01 16:15 | normal pick now | request now
-WAIT Al Di Meola — Red Moon | last aired 2026-11-02 04:17 | normal pick from 2026-11-03 16:17 | request now
+OK   Al Di Meola — Red Moon | last aired 2026-11-02 04:17 | normal pick now | request now
 WAIT Al Green — Let's Stay Together | last aired 2026-11-03 00:05 | normal pick from 2026-11-05 00:05 | request from 2026-11-05 00:05
 OK   Al Green — Love and Happiness | last aired 2026-11-02 04:11 | normal pick now | request now
 WAIT Al Green — Simply Beautiful | last aired 2026-11-02 02:23 | normal pick from 2026-11-04 02:23 | request from 2026-11-04 02:23
@@ -13,7 +13,7 @@ WAIT Al Stewart — Year of the Cat | last aired 2026-11-03 06:08 | normal pick 
 OK   Alabama 3 — Sad Eyed Lady Of The Low Life | last aired 2026-10-31 01:53 | normal pick now | request now
 OK   Alabama 3 — Thank you | last aired 2026-11-01 16:37 | normal pick now | request now
 WAIT Alabama 3 — Woke Up This Morning | last aired 2026-11-02 15:49 | normal pick from 2026-11-04 03:49 | request now
-WAIT Albert Hammond — When I'm Gone | last aired 2026-11-02 04:21 | normal pick from 2026-11-03 16:21 | request now
+OK   Albert Hammond — When I'm Gone | last aired 2026-11-02 04:21 | normal pick now | request now
 OK   Albert King — Born Under A Bad Sign | last aired 2026-11-01 16:42 | normal pick now | request now
 OK   Alestorm — Captain Morgan`s Revenge | last aired 2026-11-01 10:14 | normal pick now | request now
 OK   Alestorm — Drink | last aired 2026-11-02 02:29 | normal pick now | request now
@@ -21,7 +21,7 @@ WAIT Alestorm — Keelhauled | last aired 2026-11-03 11:56 | normal pick from 20
 OK   Alex Andre — thanks, my day is ruined | last aired 2026-10-25 13:48 | normal pick now | request now
 OK   Alexander Malter — Pärt: Für Alina | last aired 2026-10-25 18:33 | normal pick now | request now
 OK   Alexander Rybak — Fairytale | last aired 2026-11-01 16:20 | normal pick now | request now
-OK   Alexandre Tharaud — Gnossienne No.1 - Gnossienne: No. 1 | last aired 2026-11-01 03:41 | normal pick now | request now
+WAIT Alexandre Tharaud — Gnossienne No.1 - Gnossienne: No. 1 | last aired 2026-11-03 16:17 | normal pick from 2026-11-05 16:17 | request from 2026-11-05 16:17
 OK   Alexi Murdoch — Orange Sky | last aired 2026-11-01 16:04 | normal pick now | request now
 WAIT Alfa Mist — Organic Rust | last aired 2026-11-02 04:58 | normal pick from 2026-11-03 16:58 | request now
 WAIT Ali Farka Touré — Soukora | last aired 2026-11-01 17:20 | normal pick from 2026-11-03 17:20 | request from 2026-11-03 17:20
