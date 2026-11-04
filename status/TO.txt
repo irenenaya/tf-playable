@@ -1,4 +1,4 @@
-Track status, artists filed under TO (built Wed Nov 4, 1:45 PM PST (21:45 UTC)). Times in UTC.
+Track status, artists filed under TO (built Wed Nov 4, 1:55 PM PST (21:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT toe — Goodbye (Live) | last aired 2026-11-04 19:45 | normal pick from 2026-11-06 07:45 | request from 2026-11-05 15:45
@@ -6,7 +6,7 @@ OK   Tom Jones — Cwm Rhondda | last aired 2026-10-18 13:57 | normal pick now |
 WAIT Tom Konkle — Camouflage (Acoustic Mix) | last aired 2026-11-04 21:10 | normal pick from 2026-11-06 09:10 | request from 2026-11-05 17:10
 OK   Tom Konkle — Camouflage (Album Mix) | last aired 2026-10-17 01:22 | normal pick now | request now
 WAIT Tom Konkle — Children of No Horizon | last aired 2026-11-04 21:21 | normal pick from 2026-11-06 09:21 | request from 2026-11-05 17:21
-OK   Tom Konkle — Fail Upward For A Change | last aired 2026-10-17 13:56 | normal pick now | request now
+WAIT Tom Konkle — Fail Upward For A Change | last aired 2026-11-04 21:42 | normal pick from 2026-11-06 09:42 | request from 2026-11-05 17:42
 OK   Tom Konkle — Life Without The Living | last aired 2026-10-17 06:06 | normal pick now | request now
 OK   Tom Konkle — Light Bulb In My Head | last aired 2026-10-21 03:02 | normal pick now | request now
 OK   Tom Konkle — Losing Faith | last aired 2026-09-12 01:59 | normal pick now | request now
@@ -28,7 +28,7 @@ OK   Tomohisa Okudo — Always with Me | last aired 2026-10-28 10:05 | normal pi
 OK   Toni Braxton — Un-Break My Heart | last aired 2026-10-27 18:18 | normal pick now | request now
 OK   Tonto's Expanding Head Band — Cybernaut | last aired 2026-11-01 10:51 | normal pick now | request now
 OK   Tony Bennett & Faith Hill — The Way You Look Tonight | last aired 2026-10-26 13:12 | normal pick now | request now
-OK   TOOL — Lateralus | last aired 2026-10-28 01:50 | normal pick now | request now
+WAIT TOOL — Lateralus | last aired 2026-11-04 21:50 | normal pick from 2026-11-06 09:50 | request from 2026-11-05 17:50
 OK   Tori Amos — A Sorta Fairytale (2023 Remaster) | last aired 2026-10-27 05:29 | normal pick now | request now
 OK   Tori Amos — Rattlesnakes | last aired 2026-10-31 23:06 | normal pick now | request now
 OK   Tori Amos — Winter | last aired 2026-10-26 03:47 | normal pick now | request now
