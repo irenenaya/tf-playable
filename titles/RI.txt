@@ -1,4 +1,4 @@
-Track status, song titles filed under RI (built Wed Nov 4, 7:55 AM PST (15:55 UTC)). Times in UTC.
+Track status, song titles filed under RI (built Wed Nov 4, 8:05 AM PST (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Richter: Shadow Journal — Tilda Swinton | last aired 2026-11-03 07:56 | normal pick from 2026-11-04 19:56 | request now
@@ -7,11 +7,11 @@ OK   Ride On (Fight On) — Little Axe | last aired 2026-10-29 21:15 | normal pi
 OK   Ride On Time — DEEN | last aired 2026-10-16 03:27 | normal pick now | request now
 OK   Riders on the Storm — The Doors | last aired 2026-10-31 11:05 | normal pick now | request now
 OK   Riding For The Feeling — Bill Callahan | last aired 2026-11-02 12:19 | normal pick now | request now
-OK   Right Down the Line — Gerry Rafferty | last aired 2026-10-27 13:52 | normal pick now | request now
+WAIT Right Down the Line — Gerry Rafferty | last aired 2026-11-04 15:51 | normal pick from 2026-11-06 03:51 | request from 2026-11-05 11:51
 OK   Right In Front Of Me — Tiny Habits | last aired 2026-10-25 22:30 | normal pick now | request now
-WAIT Ring of Fire — Johnny Cash | last aired 2026-11-04 13:06 | normal pick from 2026-11-06 01:06 | request from 2026-11-05 09:06
+WAIT Ring of Fire — Johnny Cash | last aired 2026-11-04 13:07 | normal pick from 2026-11-06 13:07 | request from 2026-11-06 13:07
 OK   Ring Ring Ring — Tyler, The Creator | last aired 2026-10-22 20:13 | normal pick now | request now
-WAIT Rise Like a Phoenix — Conchita Wurst | last aired 2026-11-04 14:13 | normal pick from 2026-11-06 02:13 | request from 2026-11-05 10:13
+WAIT Rise Like a Phoenix — Conchita Wurst | last aired 2026-11-04 14:14 | normal pick from 2026-11-06 02:14 | request from 2026-11-05 10:14
 WAIT River — Joni Mitchell | last aired 2026-11-03 21:56 | normal pick from 2026-11-05 09:56 | request from 2026-11-04 17:56
 OK   Riviera Paradise — Stevie Ray Vaughan & Double Trouble | last aired 2026-10-31 23:55 | normal pick now | request now
 OK   The Rite of Spring (1913 Version) - Le Sacre du Printemps (The Rite of Spring): Les augures printaniers (Danses des adolescentes) [The Augurs of Spring (Dance of the Young Girls)] (1913 Version) — Leonard Bernstein | last aired 2026-10-13 14:05 | normal pick now | request now
