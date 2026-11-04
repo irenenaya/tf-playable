@@ -1,8 +1,8 @@
-Track status, artists filed under KR (built Tue Nov 3, 6:45 PM PST (02:45 UTC Wed)). Times in UTC.
+Track status, artists filed under KR (built Tue Nov 3, 6:55 PM PST (02:55 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Kraftwerk — Autobahn  (2024 Single Edit) | last aired 2026-11-01 22:19 | normal pick now | request now
-OK   Kraftwerk — Computer Love  (2009 Remaster) | last aired 2026-11-02 10:26 | normal pick now | request now
+WAIT Kraftwerk — Computer Love  (2009 Remaster) | last aired 2026-11-04 02:51 | normal pick from 2026-11-05 14:51 | request from 2026-11-04 22:51
 OK   Kraftwerk — Das Model | last aired 2026-11-01 08:05 | normal pick now | request now
 WAIT Kraftwerk — Trans-Europe Express  (2009 Remaster) | last aired 2026-11-03 17:56 | normal pick from 2026-11-05 05:56 | request from 2026-11-04 13:56
 WAIT Kris Kristofferson — Me and Bobby McGee | last aired 2026-11-03 18:21 | normal pick from 2026-11-05 06:21 | request from 2026-11-04 14:21
