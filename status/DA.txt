@@ -1,15 +1,15 @@
-Track status, artists filed under DA (built Wed Nov 4, 2:15 PM PST (22:15 UTC)). Times in UTC.
+Track status, artists filed under DA (built Wed Nov 4, 2:25 PM PST (22:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   D'Angelo — Untitled (How Does It Feel) | last aired 2026-11-03 02:17 | normal pick now | request now
-OK   Daft Punk — Around the World | last aired 2026-11-02 13:08 | normal pick now | request now
+WAIT Daft Punk — Around the World | last aired 2026-11-04 22:19 | normal pick from 2026-11-06 10:19 | request from 2026-11-05 18:19
 WAIT Daft Punk — Face to Face | last aired 2026-11-04 14:55 | normal pick from 2026-11-06 02:55 | request from 2026-11-05 10:55
 OK   Daft Punk feat. Julian Casablancas — Instant Crush (feat. Julian Casablancas) | last aired 2026-11-02 12:06 | normal pick now | request now
 OK   Daft Punk — Harder, Better, Faster, Stronger | last aired 2026-11-02 14:02 | normal pick now | request now
 WAIT Daft Punk — One More Time | last aired 2026-11-04 14:46 | normal pick from 2026-11-06 02:46 | request from 2026-11-05 10:46
 OK   Daft Punk — Something About Us | last aired 2026-11-03 00:33 | normal pick now | request now
 WAIT Daft Punk — Touch It / Technologic | last aired 2026-11-03 13:58 | normal pick from 2026-11-05 01:58 | request now
-OK   Daft Punk — Voyager | last aired 2026-11-02 03:16 | normal pick now | request now
+WAIT Daft Punk — Voyager | last aired 2026-11-04 22:16 | normal pick from 2026-11-06 10:16 | request from 2026-11-05 18:16
 OK   Dafuniks — The Dance | last aired 2026-10-24 08:15 | normal pick now | request now
 OK   Daikaiju — Magic Wanda | last aired 2026-10-26 03:11 | normal pick now | request now
 WAIT Dalida — Paroles paroles (Album Version) | last aired 2026-11-03 15:32 | normal pick from 2026-11-05 15:32 | request from 2026-11-05 15:32
