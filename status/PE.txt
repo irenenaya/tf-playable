@@ -1,4 +1,4 @@
-Track status, artists filed under PE (built Tue Nov 3, 9:15 PM PST (05:15 UTC Wed)). Times in UTC.
+Track status, artists filed under PE (built Tue Nov 3, 9:25 PM PST (05:25 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Pearl Jam — Yellow Ledbetter | last aired 2026-11-01 22:56 | normal pick now | request now
@@ -21,7 +21,7 @@ OK   Peter Fox — Alles neu (Album Version) | last aired 2026-10-20 19:34 | nor
 WAIT Peter Fox — Haus am See | last aired 2026-11-03 12:32 | normal pick from 2026-11-05 12:32 | request from 2026-11-05 12:32
 WAIT Peter Gabriel — Don't Give Up  (2012 Remaster) | last aired 2026-11-02 23:09 | normal pick from 2026-11-04 11:09 | request now
 WAIT Peter Gabriel — Sky Blue | last aired 2026-11-03 01:53 | normal pick from 2026-11-04 13:53 | request now
-OK   Peter Gabriel — Sledgehammer | last aired 2026-11-02 15:42 | normal pick now | request now
+WAIT Peter Gabriel — Sledgehammer | last aired 2026-11-04 05:12 | normal pick from 2026-11-05 17:12 | request from 2026-11-05 01:12
 OK   Peter Gabriel — The Feeling Begins (Remastered 2002) | last aired 2026-11-02 03:28 | normal pick now | request now
 WAIT Peter Jablonski — Waltz No.19 in A minor, Op.posth. - Chopin: Waltz No. 19 in A minor, Op. posth. | last aired 2026-11-02 09:15 | normal pick from 2026-11-04 09:15 | request from 2026-11-04 09:15
 WAIT Petit Biscuit — Sunset Lover | last aired 2026-11-02 18:48 | normal pick from 2026-11-04 06:48 | request now
