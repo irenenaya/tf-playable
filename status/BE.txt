@@ -1,8 +1,8 @@
-Track status, artists filed under BE (built Wed Nov 4, 2:05 AM PST (10:05 UTC)). Times in UTC.
+Track status, artists filed under BE (built Wed Nov 4, 2:15 AM PST (10:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Beach House — Bluebird | last aired 2026-11-03 19:24 | normal pick from 2026-11-05 07:24 | request from 2026-11-04 15:24
-OK   Beach House — Space Song | last aired 2026-11-02 04:40 | normal pick now | request now
+WAIT Beach House — Space Song | last aired 2026-11-04 09:59 | normal pick from 2026-11-06 09:59 | request from 2026-11-06 09:59
 OK   Beastie Boys — Sabotage | last aired 2026-10-28 21:54 | normal pick now | request now
 OK   Beatrice Rana — Keyboard Concerto No. 1 in D Minor, BWV 1052: I. Allegro | last aired 2026-11-01 11:42 | normal pick now | request now
 OK   Beatrice Rana — Libertango (Arr. Yamamoto for Piano 4-Hands) | last aired 2026-11-01 18:34 | normal pick now | request now
@@ -25,7 +25,7 @@ OK   Ben&Ben — Maybe The Night | last aired 2026-10-08 16:41 | normal pick now
 OK   Benjamin Francis Leftwich — Ticket To Ride | last aired 2026-11-01 12:18 | normal pick now | request now
 OK   Benny Goodman — Sing Sing Sing (With A Swing) (live) | last aired 2026-10-30 15:31 | normal pick now | request now
 OK   Benny Sings — Rolled Up | last aired 2026-10-31 02:43 | normal pick now | request now
-OK   Benny Sings — Sailing | last aired 2026-10-29 00:19 | normal pick now | request now
+WAIT Benny Sings — Sailing | last aired 2026-11-04 10:05 | normal pick from 2026-11-06 10:05 | request from 2026-11-06 10:05
 OK   Benson Boone — Beautiful Things | last aired 2026-10-25 15:50 | normal pick now | request now
 OK   Berlin — Take My Breath Away | last aired 2026-10-26 21:23 | normal pick now | request now
 OK   Berliner Philharmoniker — Boléro, M. 81 | last aired 2026-11-01 18:06 | normal pick now | request now
@@ -50,4 +50,4 @@ OK   The Beatles — Revolution 9 (Remastered 2009) | last aired 2026-09-14 19:3
 WAIT The Beatles — Strawberry Fields Forever | last aired 2026-11-03 19:04 | normal pick from 2026-11-05 07:04 | request from 2026-11-04 15:04
 OK   The Beatles — This Boy (Remastered) | last aired 2026-10-25 22:25 | normal pick now | request now
 OK   The Beatles — With A Little Help From My Friends (2017 Mix) | last aired 2026-10-23 09:41 | normal pick now | request now
-OK   The Beatles — Yesterday (Remastered) | last aired 2026-10-29 04:58 | normal pick now | request now
+WAIT The Beatles — Yesterday (Remastered) | last aired 2026-11-04 10:08 | normal pick from 2026-11-05 22:08 | request from 2026-11-05 06:08

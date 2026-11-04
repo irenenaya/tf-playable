@@ -1,4 +1,4 @@
-Track status, artists filed under ST (built Wed Nov 4, 2:05 AM PST (10:05 UTC)). Times in UTC.
+Track status, artists filed under ST (built Wed Nov 4, 2:15 AM PST (10:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT St Germain — Rose rouge | last aired 2026-11-03 18:26 | normal pick from 2026-11-05 06:26 | request from 2026-11-04 14:26
@@ -45,5 +45,5 @@ OK   Styx — Mr. Roboto | last aired 2026-11-02 14:57 | normal pick now | reque
 OK   The Staple Singers — I'll Take You There | last aired 2026-10-31 17:00 | normal pick now | request now
 OK   The Strokes — Last Nite | last aired 2026-11-02 12:57 | normal pick now | request now
 OK   The Strokes — Lonely in the Future | last aired 2026-11-01 21:32 | normal pick now | request now
-WAIT The Strokes — Ode To The Mets | last aired 2026-11-02 22:14 | normal pick from 2026-11-04 10:14 | request now
+OK   The Strokes — Ode To The Mets | last aired 2026-11-02 22:14 | normal pick now | request now
 OK   The Style Council — Iwasadoledadstoyboy | last aired 2026-11-01 16:47 | normal pick now | request now
