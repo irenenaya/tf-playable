@@ -1,4 +1,4 @@
-Track status, song titles filed under GO (built Tue Nov 3, 5:45 PM PST (01:45 UTC Wed)). Times in UTC.
+Track status, song titles filed under GO (built Tue Nov 3, 5:55 PM PST (01:55 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Go Home — Stevie Wonder | last aired 2026-11-02 12:41 | normal pick now | request now
@@ -23,7 +23,7 @@ OK   Goodbye Horses - Single — Q Lazzarus | last aired 2026-11-01 20:06 | norm
 WAIT Goodbye Pork Pie Hat (Album Version) — Charles Mingus | last aired 2026-11-03 00:23 | normal pick from 2026-11-04 12:23 | request now
 OK   Goodnight Ladies — Lou Reed | last aired 2026-10-30 05:52 | normal pick now | request now
 OK   Goodnight Tonight (Single Version) — Wings | last aired 2026-10-27 21:05 | normal pick now | request now
-WAIT Gorecki — Lamb | last aired 2026-11-02 13:55 | normal pick from 2026-11-04 01:55 | request now
+OK   Gorecki — Lamb | last aired 2026-11-02 13:55 | normal pick now | request now
 OK   Gorilla — Bruno Mars | last aired 2026-10-23 18:55 | normal pick now | request now
 WAIT Gosh — Jamie xx | last aired 2026-11-02 12:36 | normal pick from 2026-11-04 12:36 | request from 2026-11-04 12:36
 WAIT Gotta Go Home — Boney M. | last aired 2026-11-02 17:53 | normal pick from 2026-11-04 05:53 | request now
