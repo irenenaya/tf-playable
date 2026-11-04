@@ -1,9 +1,9 @@
-Track status, artists filed under BO (built Wed Nov 4, 4:05 AM PST (12:05 UTC)). Times in UTC.
+Track status, artists filed under BO (built Wed Nov 4, 4:15 AM PST (12:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Boards of Canada — Blood In The Labyrinth | last aired 2026-11-02 21:51 | normal pick now | request now
-OK   Boards of Canada — Dayvan Cowboy | last aired 2026-11-02 17:57 | normal pick now | request now
-OK   Boards of Canada — Olson | last aired 2026-11-02 11:33 | normal pick now | request now
+WAIT Boards of Canada — Dayvan Cowboy | last aired 2026-11-04 12:04 | normal pick from 2026-11-06 00:04 | request from 2026-11-05 08:04
+WAIT Boards of Canada — Olson | last aired 2026-11-04 12:01 | normal pick from 2026-11-06 00:01 | request from 2026-11-05 08:01
 OK   Boards of Canada — Roygbiv | last aired 2026-11-02 10:07 | normal pick now | request now
 WAIT Bob Dylan — Girl from the North Country | last aired 2026-11-03 21:53 | normal pick from 2026-11-05 21:53 | request from 2026-11-05 21:53
 OK   Bob Dylan — The Lonesome Death of Hattie Carroll | last aired 2026-11-02 23:03 | normal pick now | request now
@@ -26,7 +26,7 @@ OK   Bonnie Tyler — Total Eclipse of the Heart | last aired 2026-11-02 22:06 |
 WAIT Bonobo — Cirrus | last aired 2026-11-03 04:20 | normal pick from 2026-11-05 04:20 | request from 2026-11-05 04:20
 WAIT Bonobo — Kiara | last aired 2026-11-03 02:39 | normal pick from 2026-11-04 14:39 | request now
 WAIT Bonobo — Kong | last aired 2026-11-03 02:50 | normal pick from 2026-11-05 02:50 | request from 2026-11-05 02:50
-WAIT Bonobo — Terrapin | last aired 2026-11-03 00:10 | normal pick from 2026-11-04 12:10 | request now
+OK   Bonobo — Terrapin | last aired 2026-11-03 00:10 | normal pick now | request now
 OK   Booker T. & The M.G.'s — Green Onions | last aired 2026-11-01 23:15 | normal pick now | request now
 WAIT Booker T. & The M.G.'s — Time Is Tight  (Live) | last aired 2026-11-03 03:35 | normal pick from 2026-11-04 15:35 | request now
 OK   Booker T. Jones — Everything Is Everything | last aired 2026-11-01 15:53 | normal pick now | request now
