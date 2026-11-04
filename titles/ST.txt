@@ -1,4 +1,4 @@
-Track status, song titles filed under ST (built Wed Nov 4, 1:35 AM PST (09:35 UTC)). Times in UTC.
+Track status, song titles filed under ST (built Wed Nov 4, 1:45 AM PST (09:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   S.T.A.Y. — Hans Zimmer | last aired 2026-10-31 21:39 | normal pick now | request now
@@ -9,7 +9,7 @@ OK   Stand By Me — Ben E. King | last aired 2026-10-31 09:29 | normal pick now
 OK   Stand By Your Man (Album Version) — Tammy Wynette | last aired 2026-10-27 20:41 | normal pick now | request now
 WAIT Star Fruit Surf Rider (Damon Albarn Remix) — Cornelius | last aired 2026-11-03 18:57 | normal pick from 2026-11-05 06:57 | request from 2026-11-04 14:57
 OK   Starboy — The Weeknd | last aired 2026-10-31 23:35 | normal pick now | request now
-WAIT Stardust — Bobby Hutcherson | last aired 2026-11-02 21:45 | normal pick from 2026-11-04 09:45 | request now
+OK   Stardust — Bobby Hutcherson | last aired 2026-11-02 21:45 | normal pick now | request now
 OK   Starman  (2012 Remaster) — David Bowie | last aired 2026-10-30 12:29 | normal pick now | request now
 OK   Starry Night — Peggy Gou | last aired 2026-11-02 13:30 | normal pick now | request now
 OK   Start Shootin' — Little People | last aired 2026-10-29 21:58 | normal pick now | request now
@@ -27,7 +27,7 @@ OK   Still Of The Night (Live In Tokyo, Japan / 1993) — Blue Murder | last air
 OK   Stop Googling Me ! — Bart&Baker | last aired 2026-10-27 16:34 | normal pick now | request now
 OK   Straight Outta Vagina (feat. Desi Mo & Leikeli47) — Pussy Riot | last aired 2026-09-15 09:55 | normal pick now | request now
 OK   Straight Up (Single Version) — Paula Abdul | last aired 2026-10-31 22:35 | normal pick now | request now
-OK   Strange — Patsy Cline | last aired 2026-10-28 22:28 | normal pick now | request now
+WAIT Strange — Patsy Cline | last aired 2026-11-04 09:35 | normal pick from 2026-11-05 21:35 | request from 2026-11-05 05:35
 OK   Stranger in Moscow — Michael Jackson | last aired 2026-10-29 12:39 | normal pick now | request now
 OK   Stranger On The Shore — Acker Bilk | last aired 2026-10-31 19:29 | normal pick now | request now
 OK   Stratosfear (Digital Remastered) — Tangerine Dream | last aired 2026-10-28 06:58 | normal pick now | request now
