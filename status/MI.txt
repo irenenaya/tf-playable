@@ -1,12 +1,12 @@
-Track status, artists filed under MI (built Tue Nov 3, 6:15 PM PST (02:15 UTC Wed)). Times in UTC.
+Track status, artists filed under MI (built Tue Nov 3, 6:25 PM PST (02:25 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Mica Levi — Love | last aired 2026-10-28 02:44 | normal pick now | request now
 WAIT Michael Brook — Ultramarine | last aired 2026-11-04 02:04 | normal pick from 2026-11-05 14:04 | request from 2026-11-04 22:04
 OK   Michael Bublé — Crazy (with Jon Batiste & Stay Human)  (Live) | last aired 2026-10-21 19:42 | normal pick now | request now
 OK   Michael Damian — Rock On | last aired 2026-10-29 12:53 | normal pick now | request now
-OK   Michael Hedges — Aerial Boundaries | last aired 2026-10-31 08:23 | normal pick now | request now
-OK   Michael Hutchence — Slide Away | last aired 2026-10-28 10:49 | normal pick now | request now
+WAIT Michael Hedges — Aerial Boundaries | last aired 2026-11-04 02:09 | normal pick from 2026-11-05 14:09 | request from 2026-11-04 22:09
+WAIT Michael Hutchence — Slide Away | last aired 2026-11-04 02:14 | normal pick from 2026-11-05 14:14 | request from 2026-11-04 22:14
 OK   Michael Jackson — Jam | last aired 2026-10-23 19:44 | normal pick now | request now
 OK   Michael Jackson — Morphine (Album Version) | last aired 2026-10-29 22:56 | normal pick now | request now
 OK   Michael Jackson — Rock with You (Single Version) | last aired 2026-10-29 14:04 | normal pick now | request now
