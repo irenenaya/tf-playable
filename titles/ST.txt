@@ -1,4 +1,4 @@
-Track status, song titles filed under ST (built Wed Nov 4, 7:05 AM PST (15:05 UTC)). Times in UTC.
+Track status, song titles filed under ST (built Wed Nov 4, 7:15 AM PST (15:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT S.T.A.Y. — Hans Zimmer | last aired 2026-11-04 11:49 | normal pick from 2026-11-05 23:49 | request from 2026-11-05 07:49
@@ -13,7 +13,7 @@ WAIT Stardust — Bobby Hutcherson | last aired 2026-11-04 11:39 | normal pick f
 OK   Starman  (2012 Remaster) — David Bowie | last aired 2026-10-30 12:29 | normal pick now | request now
 OK   Starry Night — Peggy Gou | last aired 2026-11-02 13:30 | normal pick now | request now
 OK   Start Shootin' — Little People | last aired 2026-10-29 21:58 | normal pick now | request now
-WAIT Starálfur — Sigur Rós | last aired 2026-11-02 15:06 | normal pick from 2026-11-04 15:06 | request from 2026-11-04 15:06
+OK   Starálfur — Sigur Rós | last aired 2026-11-02 15:06 | normal pick now | request now
 OK   Static on the Radio — Jim White | last aired 2026-10-25 22:41 | normal pick now | request now
 OK   Stay — Shakespears Sister | last aired 2026-10-26 07:35 | normal pick now | request now
 WAIT Steal Away — Robbie Dupree | last aired 2026-11-03 23:46 | normal pick from 2026-11-05 11:46 | request from 2026-11-04 19:46
