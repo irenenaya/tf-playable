@@ -1,11 +1,11 @@
-Track status, artists filed under JA (built Wed Nov 4, 6:25 AM PST (14:25 UTC)). Times in UTC.
+Track status, artists filed under JA (built Wed Nov 4, 6:35 AM PST (14:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Jack Johnson — Better Together | last aired 2026-11-04 01:40 | normal pick from 2026-11-05 13:40 | request from 2026-11-04 21:40
 WAIT Jack Johnson — Upside Down | last aired 2026-11-04 11:03 | normal pick from 2026-11-06 11:03 | request from 2026-11-06 11:03
 WAIT Jacquees — Won't Turn It Down | last aired 2026-11-04 14:09 | normal pick from 2026-11-06 02:09 | request from 2026-11-05 10:09
 WAIT James Blake — Retrograde | last aired 2026-11-04 02:02 | normal pick from 2026-11-06 02:02 | request from 2026-11-06 02:02
-WAIT James Brown — I Got You (I Feel Good) | last aired 2026-11-02 14:34 | normal pick from 2026-11-04 14:34 | request from 2026-11-04 14:34
+OK   James Brown — I Got You (I Feel Good) | last aired 2026-11-02 14:34 | normal pick now | request now
 WAIT James Brown — Sunny | last aired 2026-11-04 11:10 | normal pick from 2026-11-05 23:10 | request from 2026-11-05 07:10
 WAIT James Taylor — Fire and Rain  (2019 Remaster) | last aired 2026-11-03 22:24 | normal pick from 2026-11-05 22:24 | request from 2026-11-05 22:24
 OK   Jamie xx — Gosh | last aired 2026-11-02 12:36 | normal pick now | request now
