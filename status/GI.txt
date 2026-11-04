@@ -1,4 +1,4 @@
-Track status, artists filed under GI (built Wed Nov 4, 12:55 PM PST (20:55 UTC)). Times in UTC.
+Track status, artists filed under GI (built Wed Nov 4, 1:05 PM PST (21:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Giant Squid — Versus the Siren (2023 Remaster) | last aired 2026-11-02 22:34 | normal pick now | request now
@@ -7,4 +7,4 @@ WAIT Gilbert Bécaud — Le Pianiste de Varsovie | last aired 2026-11-04 00:41 |
 WAIT Gilbert Bécaud — Nathalie | last aired 2026-11-04 00:12 | normal pick from 2026-11-05 12:12 | request now
 WAIT Gilberto Gil — Aquele Abraço | last aired 2026-11-03 21:24 | normal pick from 2026-11-05 21:24 | request from 2026-11-05 21:24
 WAIT Gipsy Kings — Bamboleo | last aired 2026-11-03 21:28 | normal pick from 2026-11-05 21:28 | request from 2026-11-05 21:28
-WAIT Girls' Generation — Gee | last aired 2026-11-04 16:59 | normal pick from 2026-11-06 04:59 | request from 2026-11-05 12:59
+WAIT Girls' Generation — Gee | last aired 2026-11-04 17:00 | normal pick from 2026-11-06 05:00 | request from 2026-11-05 13:00

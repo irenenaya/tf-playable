@@ -1,4 +1,4 @@
-Track status, song titles filed under BL (built Wed Nov 4, 12:55 PM PST (20:55 UTC)). Times in UTC.
+Track status, song titles filed under BL (built Wed Nov 4, 1:05 PM PST (21:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Black Diamond — Stratovarius | last aired 2026-11-02 03:41 | normal pick now | request now
@@ -14,7 +14,7 @@ OK   Blaue Augen — Ideal | last aired 2026-10-21 16:55 | normal pick now | req
 OK   Bleached By The Sun — Dot Allison | last aired 2026-10-31 16:54 | normal pick now | request now
 OK   Blessed with a Curse — Bring Me The Horizon | last aired 2026-11-02 00:11 | normal pick now | request now
 OK   Blinding Lights — The Weeknd | last aired 2026-10-20 22:57 | normal pick now | request now
-WAIT Blitzkrieg Bop — Ramones | last aired 2026-11-04 16:43 | normal pick from 2026-11-06 04:43 | request from 2026-11-05 12:43
+WAIT Blitzkrieg Bop — Ramones | last aired 2026-11-04 16:44 | normal pick from 2026-11-06 04:44 | request from 2026-11-05 12:44
 OK   Blood In The Labyrinth — Boards of Canada | last aired 2026-11-02 21:51 | normal pick now | request now
 WAIT Bloodbuzz Ohio (Live in Rome) — The National | last aired 2026-11-03 13:20 | normal pick from 2026-11-05 01:20 | request now
 OK   Bloom — Airiel | last aired 2026-09-15 08:41 | normal pick now | request now
@@ -24,7 +24,7 @@ WAIT Blue in Green — Miles Davis | last aired 2026-11-03 20:27 | normal pick f
 WAIT Blue — LeAnn Rimes | last aired 2026-11-04 09:53 | normal pick from 2026-11-05 21:53 | request from 2026-11-05 05:53
 OK   Blue Lips — Her's | last aired 2026-10-29 06:47 | normal pick now | request now
 OK   Blue Monday  (2016 Remaster) — New Order | last aired 2026-11-02 00:17 | normal pick now | request now
-WAIT Blue Moon Of Kentucky — Bill Monroe & His Blue Grass Boys | last aired 2026-11-04 01:01 | normal pick from 2026-11-05 13:01 | request from 2026-11-04 21:01
+WAIT Blue Moon Of Kentucky — Bill Monroe & His Blue Grass Boys | last aired 2026-11-04 01:01 | normal pick from 2026-11-05 13:01 | request now
 OK   Blue Room  (Live) — The Orb | last aired 2026-10-24 15:14 | normal pick now | request now
 WAIT Blue Velvet — Bobby Vinton | last aired 2026-11-03 20:06 | normal pick from 2026-11-05 08:06 | request now
 WAIT Bluebird — Beach House | last aired 2026-11-03 19:24 | normal pick from 2026-11-05 07:24 | request now
