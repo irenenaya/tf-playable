@@ -1,7 +1,7 @@
-Track status, song titles filed under YO (built Wed Nov 4, 2:35 AM PST (10:35 UTC)). Times in UTC.
+Track status, song titles filed under YO (built Wed Nov 4, 2:45 AM PST (10:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   You and I — Papooz | last aired 2026-11-01 22:33 | normal pick now | request now
+WAIT You and I — Papooz | last aired 2026-11-04 10:32 | normal pick from 2026-11-05 22:32 | request from 2026-11-05 06:32
 OK   You Are — Lionel Richie | last aired 2026-10-29 07:48 | normal pick now | request now
 OK   You Are Not Alone — Michael Jackson | last aired 2026-10-26 10:10 | normal pick now | request now
 WAIT You Are So Beautiful — Charles Lloyd | last aired 2026-11-04 07:02 | normal pick from 2026-11-05 19:02 | request from 2026-11-05 03:02
