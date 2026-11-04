@@ -1,4 +1,4 @@
-Track status, artists filed under PE (built Tue Nov 3, 10:45 PM PST (06:45 UTC Wed)). Times in UTC.
+Track status, artists filed under PE (built Tue Nov 3, 10:55 PM PST (06:55 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Pearl Jam — Yellow Ledbetter | last aired 2026-11-01 22:56 | normal pick now | request now
@@ -10,13 +10,13 @@ WAIT Pellek — Bohemian Rhapsody | last aired 2026-11-02 23:27 | normal pick fr
 WAIT Penguin Cafe Orchestra — Perpetuum Mobile | last aired 2026-11-03 14:52 | normal pick from 2026-11-05 02:52 | request from 2026-11-04 10:52
 OK   Pent Up Pup — ORDER:SCORE | last aired 2026-10-18 03:50 | normal pick now | request now
 OK   Percy Faith & His Orchestra — Black Magic Woman | last aired 2026-11-02 11:47 | normal pick now | request now
-OK   Percy Faith & His Orchestra — Theme from "A Summer Place" | last aired 2026-11-02 10:11 | normal pick now | request now
+WAIT Percy Faith & His Orchestra — Theme from "A Summer Place" | last aired 2026-11-04 06:48 | normal pick from 2026-11-05 18:48 | request from 2026-11-05 02:48
 WAIT Perpetuum Jazzile — Africa | last aired 2026-11-03 16:15 | normal pick from 2026-11-05 16:15 | request from 2026-11-05 16:15
 OK   Perrie — Die With A Smile  (Bruno Mars & Lady Gaga Cover - BBC Radio 1 Live Lounge) | last aired 2026-10-21 15:11 | normal pick now | request now
 OK   Pet Shop Boys — West End Girls  (2001 Remaster) | last aired 2026-11-02 02:05 | normal pick now | request now
 OK   Pete Seeger — Solidarity Forever | last aired 2026-11-02 13:46 | normal pick now | request now
 WAIT Pete Seeger — Which Side are You On? | last aired 2026-11-02 14:23 | normal pick from 2026-11-04 14:23 | request from 2026-11-04 14:23
-OK   Peter Broderick — A Little Lost | last aired 2026-11-02 04:45 | normal pick now | request now
+WAIT Peter Broderick — A Little Lost | last aired 2026-11-04 06:44 | normal pick from 2026-11-06 06:44 | request from 2026-11-06 06:44
 OK   Peter Fox — Alles neu (Album Version) | last aired 2026-10-20 19:34 | normal pick now | request now
 WAIT Peter Fox — Haus am See | last aired 2026-11-03 12:32 | normal pick from 2026-11-05 12:32 | request from 2026-11-05 12:32
 WAIT Peter Gabriel — Don't Give Up  (2012 Remaster) | last aired 2026-11-02 23:09 | normal pick from 2026-11-04 11:09 | request now
@@ -24,6 +24,6 @@ WAIT Peter Gabriel — Sky Blue | last aired 2026-11-03 01:53 | normal pick from
 WAIT Peter Gabriel — Sledgehammer | last aired 2026-11-04 05:12 | normal pick from 2026-11-05 17:12 | request from 2026-11-05 01:12
 OK   Peter Gabriel — The Feeling Begins (Remastered 2002) | last aired 2026-11-02 03:28 | normal pick now | request now
 WAIT Peter Jablonski — Waltz No.19 in A minor, Op.posth. - Chopin: Waltz No. 19 in A minor, Op. posth. | last aired 2026-11-02 09:15 | normal pick from 2026-11-04 09:15 | request from 2026-11-04 09:15
-WAIT Petit Biscuit — Sunset Lover | last aired 2026-11-02 18:48 | normal pick from 2026-11-04 06:48 | request now
-WAIT Petra Haden — Moon River | last aired 2026-11-02 18:46 | normal pick from 2026-11-04 06:46 | request now
+OK   Petit Biscuit — Sunset Lover | last aired 2026-11-02 18:48 | normal pick now | request now
+OK   Petra Haden — Moon River | last aired 2026-11-02 18:46 | normal pick now | request now
 OK   Petra — This Means War | last aired 2026-10-30 02:29 | normal pick now | request now
