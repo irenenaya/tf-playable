@@ -1,15 +1,15 @@
-Track status, artists filed under RO (built Tue Nov 3, 10:55 PM PST (06:55 UTC Wed)). Times in UTC.
+Track status, artists filed under RO (built Tue Nov 3, 11:05 PM PST (07:05 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Robbie Dupree — Steal Away | last aired 2026-11-03 23:46 | normal pick from 2026-11-05 11:46 | request from 2026-11-04 19:46
-WAIT Robbie Robertson — Coyote Dance | last aired 2026-11-02 07:00 | normal pick from 2026-11-04 07:00 | request from 2026-11-04 07:00
+OK   Robbie Robertson — Coyote Dance | last aired 2026-11-02 07:00 | normal pick now | request now
 OK   Robert Fripp — Here Comes The Flood (Exposure Fourth Edition: 2021 Stereo Mix) | last aired 2026-11-02 06:39 | normal pick now | request now
 WAIT Robert Johnson — Cross Road Blues | last aired 2026-11-04 00:46 | normal pick from 2026-11-05 12:46 | request from 2026-11-04 20:46
 OK   Roberta Flack — Killing Me Softly With His Song | last aired 2026-11-02 06:45 | normal pick now | request now
 OK   Roberta Flack — The First Time Ever I Saw Your Face (2020 Remaster) | last aired 2026-11-02 06:35 | normal pick now | request now
 OK   Robin Packalen — Kesärenkaat | last aired 2026-10-28 22:13 | normal pick now | request now
 OK   Rock appetizers — Child in Time (Special Version) | last aired 2026-09-22 21:18 | normal pick now | request now
-WAIT Rodrigo Leão — Pasión (Album Version) | last aired 2026-11-02 06:56 | normal pick from 2026-11-04 06:56 | request from 2026-11-04 06:56
+OK   Rodrigo Leão — Pasión (Album Version) | last aired 2026-11-02 06:56 | normal pick now | request now
 WAIT Rodrigo y Gabriela — Libertango | last aired 2026-11-03 23:43 | normal pick from 2026-11-05 23:43 | request from 2026-11-05 23:43
 WAIT Roland Dyens — Fuoco (Libra Sonatine) | last aired 2026-11-03 15:25 | normal pick from 2026-11-05 15:25 | request from 2026-11-05 15:25
 OK   ROSALÍA — Berghain | last aired 2026-11-02 01:18 | normal pick now | request now
@@ -17,7 +17,7 @@ WAIT ROSALÍA — MALAMENTE (Cap.1: Augurio) | last aired 2026-11-03 21:12 | nor
 OK   Roseanna Vitro — If I Didn't Have You (If I Didn't Have You) | last aired 2026-10-29 03:36 | normal pick now | request now
 OK   Roxette — The Look | last aired 2026-10-31 16:23 | normal pick now | request now
 OK   Roxy Music — Bitter Sweet (Remastered 1999) | last aired 2026-11-02 09:10 | normal pick now | request now
-WAIT Roy Ayers Ubiquity — Everybody Loves The Sunshine | last aired 2026-11-04 04:50 | normal pick from 2026-11-05 16:50 | request from 2026-11-05 00:50
+WAIT Roy Ayers Ubiquity — Everybody Loves The Sunshine | last aired 2026-11-04 04:51 | normal pick from 2026-11-06 04:51 | request from 2026-11-06 04:51
 OK   Roy Orbison — Oh, Pretty Woman | last aired 2026-11-01 01:52 | normal pick now | request now
 OK   Royal Blood — Boilermaker | last aired 2026-11-01 01:11 | normal pick now | request now
 OK   Rozen — Voice of NO Return | last aired 2026-09-05 17:43 | normal pick now | request now

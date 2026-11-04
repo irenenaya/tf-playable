@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Tue Nov 3, 10:55 PM PST (06:55 UTC Wed)). Times in UTC.
+Track status, artists filed under BE (built Tue Nov 3, 11:05 PM PST (07:05 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Beach House — Bluebird | last aired 2026-11-03 19:24 | normal pick from 2026-11-05 07:24 | request from 2026-11-04 15:24
@@ -8,8 +8,8 @@ OK   Beatrice Rana — Keyboard Concerto No. 1 in D Minor, BWV 1052: I. Allegro 
 OK   Beatrice Rana — Libertango (Arr. Yamamoto for Piano 4-Hands) | last aired 2026-11-01 18:34 | normal pick now | request now
 OK   Beats by Luca — 52 CHICKEN NUGGET (McRave) | last aired 2026-10-18 11:09 | normal pick now | request now
 WAIT Bebel Gilberto — Samba Da Benção | last aired 2026-11-02 09:47 | normal pick from 2026-11-04 09:47 | request from 2026-11-04 09:47
-WAIT Beck — Devils Haircut | last aired 2026-11-03 10:58 | normal pick from 2026-11-04 22:58 | request from 2026-11-04 06:58
-WAIT Beck — Loser | last aired 2026-11-03 11:00 | normal pick from 2026-11-04 23:00 | request from 2026-11-04 07:00
+WAIT Beck — Devils Haircut | last aired 2026-11-03 10:58 | normal pick from 2026-11-04 22:58 | request now
+WAIT Beck — Loser | last aired 2026-11-03 11:00 | normal pick from 2026-11-04 23:00 | request now
 WAIT Beck — The New Pollution | last aired 2026-11-03 16:32 | normal pick from 2026-11-05 16:32 | request from 2026-11-05 16:32
 OK   Becky Levi and the Nightjars — Wake Me Up | last aired 2026-10-22 06:23 | normal pick now | request now
 WAIT Bee Gees — Night Fever (From "Saturday Night Fever" Soundtrack) | last aired 2026-11-03 14:34 | normal pick from 2026-11-05 02:34 | request from 2026-11-04 10:34
@@ -31,7 +31,7 @@ OK   Berlin — Take My Breath Away | last aired 2026-10-26 21:23 | normal pick 
 OK   Berliner Philharmoniker — Boléro, M. 81 | last aired 2026-11-01 18:06 | normal pick now | request now
 OK   Bernard Purdie — Cool Down | last aired 2026-11-01 03:27 | normal pick now | request now
 OK   Bert Kaempfert — A Swingin' Safari | last aired 2026-10-30 15:24 | normal pick now | request now
-WAIT Betty Carter — Moonlight in Vermont | last aired 2026-11-04 04:37 | normal pick from 2026-11-05 16:37 | request from 2026-11-05 00:37
+WAIT Betty Carter — Moonlight in Vermont | last aired 2026-11-04 04:38 | normal pick from 2026-11-05 16:38 | request from 2026-11-05 00:38
 OK   BETWEEN FRIENDS — affection | last aired 2026-11-01 09:52 | normal pick now | request now
 OK   Beyoncé — Crazy In Love | last aired 2026-10-30 19:02 | normal pick now | request now
 OK   Beyoncé — TEXAS HOLD 'EM | last aired 2026-10-28 22:05 | normal pick now | request now

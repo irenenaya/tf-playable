@@ -1,8 +1,8 @@
-Track status, song titles filed under MA (built Tue Nov 3, 10:55 PM PST (06:55 UTC Wed)). Times in UTC.
+Track status, song titles filed under MA (built Tue Nov 3, 11:05 PM PST (07:05 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Mad World — Gary Jules | last aired 2026-11-02 09:17 | normal pick from 2026-11-04 09:17 | request from 2026-11-04 09:17
-WAIT Mad World — Tears For Fears | last aired 2026-11-04 05:57 | normal pick from 2026-11-06 05:57 | request from 2026-11-06 05:57
+WAIT Mad World — Tears For Fears | last aired 2026-11-04 05:59 | normal pick from 2026-11-06 05:59 | request from 2026-11-06 05:59
 WAIT Madder — Groove Armada | last aired 2026-11-03 08:44 | normal pick from 2026-11-04 20:44 | request now
 OK   Madwoman — Laufey | last aired 2026-11-01 13:15 | normal pick now | request now
 OK   Magic Wanda — Daikaiju | last aired 2026-10-26 03:11 | normal pick now | request now
@@ -26,7 +26,7 @@ OK   Master Blaster (Jammin') — Stevie Wonder | last aired 2026-11-01 19:09 | 
 OK   Master of Puppets  (Live at Irvine Meadows Amphitheatre, Irvine, CA, 8/4/1996) — Metallica | last aired 2026-10-23 13:38 | normal pick now | request now
 OK   Matte Kudasai — King Crimson | last aired 2026-11-01 06:29 | normal pick now | request now
 OK   Maureen — Martin Ditcham | last aired 2026-08-18 22:36 | normal pick now | request now
-WAIT May Ninth — Khruangbin | last aired 2026-11-03 04:17 | normal pick from 2026-11-05 04:17 | request from 2026-11-05 04:17
+WAIT May Ninth — Khruangbin | last aired 2026-11-03 04:17 | normal pick from 2026-11-04 16:17 | request now
 WAIT Maybe I’m Amazed (2011 Remaster) — Paul McCartney | last aired 2026-11-03 11:59 | normal pick from 2026-11-04 23:59 | request from 2026-11-04 07:59
 WAIT Maybe — The Ink Spots | last aired 2026-11-03 10:01 | normal pick from 2026-11-04 22:01 | request now
 OK   Maybe The Night — Ben&Ben | last aired 2026-10-08 16:41 | normal pick now | request now

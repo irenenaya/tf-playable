@@ -1,4 +1,4 @@
-Track status, song titles filed under CO (built Tue Nov 3, 10:55 PM PST (06:55 UTC Wed)). Times in UTC.
+Track status, song titles filed under CO (built Tue Nov 3, 11:05 PM PST (07:05 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Coat of Many Colors — Dolly Parton | last aired 2026-10-31 09:58 | normal pick now | request now
@@ -6,7 +6,7 @@ OK   Coffee Homeground — Kate Bush | last aired 2026-10-27 21:43 | normal pick
 OK   Colorful Array — Neuro-sama | last aired 2026-10-18 01:42 | normal pick now | request now
 OK   Come On Get Higher — Matt Nathanson | last aired 2026-10-26 14:17 | normal pick now | request now
 OK   Come Tomorrow (Duet With Barry Gibb (Album Version)) — Various Interprets | last aired 2026-10-26 03:00 | normal pick now | request now
-WAIT Comfortably Numb — Pink Floyd | last aired 2026-11-04 02:24 | normal pick from 2026-11-05 14:24 | request from 2026-11-04 22:24
+WAIT Comfortably Numb — Pink Floyd | last aired 2026-11-04 02:25 | normal pick from 2026-11-05 14:25 | request from 2026-11-04 22:25
 OK   Coming Back to Life — Pink Floyd | last aired 2026-11-01 22:09 | normal pick now | request now
 WAIT Coming Down from Love — Bobby Caldwell | last aired 2026-11-03 03:27 | normal pick from 2026-11-04 15:27 | request now
 OK   Coming Home — Leon Bridges | last aired 2026-11-01 00:51 | normal pick now | request now
@@ -15,9 +15,9 @@ WAIT Common Threads — Bobby McFerrin | last aired 2026-11-03 20:14 | normal pi
 WAIT Como É Grande o Meu Amor por Você — Raquel Tavares | last aired 2026-11-03 12:06 | normal pick from 2026-11-05 12:06 | request from 2026-11-05 12:06
 OK   Comptine d'un autre été, l'après-midi — Yann Tiersen | last aired 2026-10-25 07:59 | normal pick now | request now
 OK   Computer Incantations for World Peace — Jean-Luc Ponty | last aired 2026-10-28 08:54 | normal pick now | request now
-WAIT Computer Love  (2009 Remaster) — Kraftwerk | last aired 2026-11-04 02:51 | normal pick from 2026-11-05 14:51 | request from 2026-11-04 22:51
+WAIT Computer Love  (2009 Remaster) — Kraftwerk | last aired 2026-11-04 02:52 | normal pick from 2026-11-05 14:52 | request from 2026-11-04 22:52
 OK   Computerlove — Erik Wøllo | last aired 2026-10-25 23:41 | normal pick now | request now
-WAIT Concrete Over Water — Jockstrap | last aired 2026-11-04 02:34 | normal pick from 2026-11-05 14:34 | request from 2026-11-04 22:34
+WAIT Concrete Over Water — Jockstrap | last aired 2026-11-04 02:35 | normal pick from 2026-11-05 14:35 | request from 2026-11-04 22:35
 WAIT Construção — Chico Buarque | last aired 2026-11-03 15:45 | normal pick from 2026-11-05 15:45 | request from 2026-11-05 15:45
 OK   Cool Change — Little River Band | last aired 2026-10-28 08:49 | normal pick now | request now
 OK   Cool Down — Bernard Purdie | last aired 2026-11-01 03:27 | normal pick now | request now
@@ -27,5 +27,5 @@ WAIT Cosmic Girl (Remastered 2013) — Jamiroquai | last aired 2026-11-02 12:33 
 OK   Cotton Fields — Creedence Clearwater Revival | last aired 2026-10-24 13:33 | normal pick now | request now
 WAIT Counting Sheep — Brijean | last aired 2026-11-03 04:57 | normal pick from 2026-11-05 04:57 | request from 2026-11-05 04:57
 OK   Cowboy Nudes — Geese | last aired 2026-10-20 19:31 | normal pick now | request now
-WAIT Coyote Dance — Robbie Robertson | last aired 2026-11-02 07:00 | normal pick from 2026-11-04 07:00 | request from 2026-11-04 07:00
+OK   Coyote Dance — Robbie Robertson | last aired 2026-11-02 07:00 | normal pick now | request now
 OK   The Colour Of Spring — Mark Hollis | last aired 2026-10-30 07:27 | normal pick now | request now

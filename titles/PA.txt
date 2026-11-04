@@ -1,4 +1,4 @@
-Track status, song titles filed under PA (built Tue Nov 3, 10:55 PM PST (06:55 UTC Wed)). Times in UTC.
+Track status, song titles filed under PA (built Tue Nov 3, 11:05 PM PST (07:05 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Pac-Man (feat. ScHoolboy Q) — Gorillaz | last aired 2026-10-22 00:14 | normal pick now | request now
@@ -16,9 +16,9 @@ WAIT Parisienne Walkways — Gary Moore | last aired 2026-11-03 01:18 | normal p
 WAIT Paroles paroles (Album Version) — Dalida | last aired 2026-11-03 15:32 | normal pick from 2026-11-05 15:32 | request from 2026-11-05 15:32
 OK   Party Hard (Album Version) — Andrew W.K. | last aired 2026-11-01 01:24 | normal pick now | request now
 OK   Party In The U.S.A. — Miley Cyrus | last aired 2026-10-24 21:54 | normal pick now | request now
-WAIT Pasión (Album Version) — Rodrigo Leão | last aired 2026-11-02 06:56 | normal pick from 2026-11-04 06:56 | request from 2026-11-04 06:56
+OK   Pasión (Album Version) — Rodrigo Leão | last aired 2026-11-02 06:56 | normal pick now | request now
 OK   Passion Play (Live in Paris) — William Fitzsimmons | last aired 2026-10-27 20:51 | normal pick now | request now
-WAIT Passion, Grace & Fire (Album Version) — Al Di Meola | last aired 2026-11-04 02:18 | normal pick from 2026-11-05 14:18 | request from 2026-11-04 22:18
+WAIT Passion, Grace & Fire (Album Version) — Al Di Meola | last aired 2026-11-04 02:19 | normal pick from 2026-11-05 14:19 | request from 2026-11-04 22:19
 OK   Pata Pata — Miriam Makeba | last aired 2026-10-29 10:21 | normal pick now | request now
 OK   Patient — Playroom | last aired 2026-10-26 15:32 | normal pick now | request now
 OK   Pattern Recognition (feat. ODDEEO) — Neuro-sama | last aired 2026-09-25 15:01 | normal pick now | request now
