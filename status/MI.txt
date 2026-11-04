@@ -1,11 +1,11 @@
-Track status, artists filed under MI (built Tue Nov 3, 6:55 PM PST (02:55 UTC Wed)). Times in UTC.
+Track status, artists filed under MI (built Tue Nov 3, 7:05 PM PST (03:05 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Mica Levi — Love | last aired 2026-10-28 02:44 | normal pick now | request now
-WAIT Michael Brook — Ultramarine | last aired 2026-11-04 02:04 | normal pick from 2026-11-05 14:04 | request from 2026-11-04 22:04
+WAIT Michael Brook — Ultramarine | last aired 2026-11-04 02:05 | normal pick from 2026-11-05 14:05 | request from 2026-11-04 22:05
 OK   Michael Bublé — Crazy (with Jon Batiste & Stay Human)  (Live) | last aired 2026-10-21 19:42 | normal pick now | request now
 OK   Michael Damian — Rock On | last aired 2026-10-29 12:53 | normal pick now | request now
-WAIT Michael Hedges — Aerial Boundaries | last aired 2026-11-04 02:09 | normal pick from 2026-11-05 14:09 | request from 2026-11-04 22:09
+WAIT Michael Hedges — Aerial Boundaries | last aired 2026-11-04 02:10 | normal pick from 2026-11-06 02:10 | request from 2026-11-06 02:10
 WAIT Michael Hutchence — Slide Away | last aired 2026-11-04 02:14 | normal pick from 2026-11-05 14:14 | request from 2026-11-04 22:14
 OK   Michael Jackson — Jam | last aired 2026-10-23 19:44 | normal pick now | request now
 OK   Michael Jackson — Morphine (Album Version) | last aired 2026-10-29 22:56 | normal pick now | request now
@@ -21,7 +21,7 @@ OK   Mike Oldfield — Moonlight Shadow | last aired 2026-10-21 01:34 | normal p
 OK   Mikis Theodorakis — Zorba the Greek:  Zorba's Dance | last aired 2026-11-01 17:46 | normal pick now | request now
 WAIT Miles Davis — Blue in Green | last aired 2026-11-03 20:27 | normal pick from 2026-11-05 08:27 | request from 2026-11-04 16:27
 WAIT Miles Davis — Flamenco Sketches | last aired 2026-11-03 20:40 | normal pick from 2026-11-05 08:40 | request from 2026-11-04 16:40
-WAIT Miles Davis — So What | last aired 2026-11-03 22:54 | normal pick from 2026-11-05 10:54 | request from 2026-11-04 18:54
+WAIT Miles Davis — So What | last aired 2026-11-03 22:59 | normal pick from 2026-11-05 10:59 | request from 2026-11-04 18:59
 OK   Miley Cyrus — Flowers | last aired 2026-10-23 19:34 | normal pick now | request now
 OK   Miley Cyrus — Party In The U.S.A. | last aired 2026-10-24 21:54 | normal pick now | request now
 OK   Milt Jackson — Bag's New Groove | last aired 2026-10-27 06:24 | normal pick now | request now

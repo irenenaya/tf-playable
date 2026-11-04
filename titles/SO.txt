@@ -1,11 +1,11 @@
-Track status, song titles filed under SO (built Tue Nov 3, 6:55 PM PST (02:55 UTC Wed)). Times in UTC.
+Track status, song titles filed under SO (built Tue Nov 3, 7:05 PM PST (03:05 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   So Alive — Love and Rockets | last aired 2026-10-29 12:34 | normal pick now | request now
 WAIT So Far Away — Carole King | last aired 2026-11-02 08:47 | normal pick from 2026-11-04 08:47 | request from 2026-11-04 08:47
 WAIT So Long, Marianne — Leonard Cohen | last aired 2026-11-03 11:37 | normal pick from 2026-11-04 23:37 | request from 2026-11-04 07:37
 OK   So Real — Jeff Buckley | last aired 2026-10-28 11:10 | normal pick now | request now
-WAIT So What — Miles Davis | last aired 2026-11-03 22:54 | normal pick from 2026-11-05 10:54 | request from 2026-11-04 18:54
+WAIT So What — Miles Davis | last aired 2026-11-03 22:59 | normal pick from 2026-11-05 10:59 | request from 2026-11-04 18:59
 OK   So What — P!nk | last aired 2026-10-20 15:13 | normal pick now | request now
 OK   Sodade — Cesária Evora | last aired 2026-11-01 17:30 | normal pick now | request now
 OK   Solidarity Forever — Pete Seeger | last aired 2026-11-02 13:46 | normal pick now | request now
@@ -17,7 +17,7 @@ OK   Somebody To Love — Queen | last aired 2026-10-27 23:56 | normal pick now 
 WAIT Someone Somewhere (In Summertime) — Simple Minds | last aired 2026-11-03 16:56 | normal pick from 2026-11-05 04:56 | request from 2026-11-04 12:56
 WAIT Something About Us — Daft Punk | last aired 2026-11-03 00:33 | normal pick from 2026-11-04 12:33 | request now
 OK   Sometimes It Snows in April (LP Version) — Prince | last aired 2026-11-01 01:45 | normal pick now | request now
-WAIT Somewhere, My Love (Lara's Theme from "Doctor Zhivago") (Album Version) — The Ray Conniff Singers | last aired 2026-11-04 00:24 | normal pick from 2026-11-05 12:24 | request from 2026-11-04 20:24
+WAIT Somewhere, My Love (Lara's Theme from "Doctor Zhivago") (Album Version) — The Ray Conniff Singers | last aired 2026-11-04 00:26 | normal pick from 2026-11-05 12:26 | request from 2026-11-04 20:26
 OK   Sonate Pacifique — L'Impératrice | last aired 2026-11-01 18:55 | normal pick now | request now
 OK   Song 2 — Blur | last aired 2026-10-27 22:29 | normal pick now | request now
 OK   Song for Zula — Phosphorescent | last aired 2026-10-28 06:32 | normal pick now | request now
@@ -25,7 +25,7 @@ WAIT Song To The Siren — This Mortal Coil | last aired 2026-11-03 17:50 | norm
 OK   Songbird — Kenny G | last aired 2026-10-11 11:23 | normal pick now | request now
 OK   Soon It Will Be Cold Enough to Build Fires — Emancipator | last aired 2026-10-28 02:36 | normal pick now | request now
 OK   Souk Eye — Gorillaz | last aired 2026-10-20 17:39 | normal pick now | request now
-OK   Soukora — Ali Farka Touré | last aired 2026-11-01 17:20 | normal pick now | request now
+WAIT Soukora — Ali Farka Touré | last aired 2026-11-04 02:58 | normal pick from 2026-11-06 02:58 | request from 2026-11-06 02:58
 OK   Sound and Vision  (2017 Remaster) — David Bowie | last aired 2026-10-23 15:48 | normal pick now | request now
 OK   Soundtrack to Me and You — Swan Dive | last aired 2026-11-01 12:14 | normal pick now | request now
 OK   Sour Flower — Lianne La Havas | last aired 2026-10-29 18:21 | normal pick now | request now

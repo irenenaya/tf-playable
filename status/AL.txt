@@ -1,4 +1,4 @@
-Track status, artists filed under AL (built Tue Nov 3, 6:55 PM PST (02:55 UTC Wed)). Times in UTC.
+Track status, artists filed under AL (built Tue Nov 3, 7:05 PM PST (03:05 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Al Di Meola — Double Concerto | last aired 2026-11-02 16:39 | normal pick from 2026-11-04 04:39 | request now
@@ -6,11 +6,11 @@ OK   Al Di Meola — Libertango | last aired 2026-10-31 16:28 | normal pick now 
 WAIT Al Di Meola — Passion, Grace & Fire (Album Version) | last aired 2026-11-04 02:18 | normal pick from 2026-11-05 14:18 | request from 2026-11-04 22:18
 OK   Al Di Meola — Red Moon | last aired 2026-11-02 04:17 | normal pick now | request now
 WAIT Al Green — Let's Stay Together | last aired 2026-11-03 00:05 | normal pick from 2026-11-05 00:05 | request from 2026-11-05 00:05
-WAIT Al Green — Love and Happiness | last aired 2026-11-04 01:30 | normal pick from 2026-11-05 13:30 | request from 2026-11-04 21:30
+WAIT Al Green — Love and Happiness | last aired 2026-11-04 01:32 | normal pick from 2026-11-06 01:32 | request from 2026-11-06 01:32
 OK   Al Green — Simply Beautiful | last aired 2026-11-02 02:23 | normal pick now | request now
 OK   Al Green — The Lord Will Make a Way | last aired 2026-11-01 16:10 | normal pick now | request now
 WAIT Al Stewart — Year of the Cat | last aired 2026-11-03 06:08 | normal pick from 2026-11-05 06:08 | request from 2026-11-05 06:08
-WAIT Alabama 3 — Sad Eyed Lady Of The Low Life | last aired 2026-11-04 01:35 | normal pick from 2026-11-05 13:35 | request from 2026-11-04 21:35
+WAIT Alabama 3 — Sad Eyed Lady Of The Low Life | last aired 2026-11-04 01:36 | normal pick from 2026-11-05 13:36 | request from 2026-11-04 21:36
 OK   Alabama 3 — Thank you | last aired 2026-11-01 16:37 | normal pick now | request now
 WAIT Alabama 3 — Woke Up This Morning | last aired 2026-11-02 15:49 | normal pick from 2026-11-04 03:49 | request now
 OK   Albert Hammond — When I'm Gone | last aired 2026-11-02 04:21 | normal pick now | request now
@@ -24,7 +24,7 @@ OK   Alexander Rybak — Fairytale | last aired 2026-11-01 16:20 | normal pick n
 WAIT Alexandre Tharaud — Gnossienne No.1 - Gnossienne: No. 1 | last aired 2026-11-03 16:18 | normal pick from 2026-11-05 16:18 | request from 2026-11-05 16:18
 OK   Alexi Murdoch — Orange Sky | last aired 2026-11-01 16:04 | normal pick now | request now
 OK   Alfa Mist — Organic Rust | last aired 2026-11-02 04:58 | normal pick now | request now
-OK   Ali Farka Touré — Soukora | last aired 2026-11-01 17:20 | normal pick now | request now
+WAIT Ali Farka Touré — Soukora | last aired 2026-11-04 02:58 | normal pick from 2026-11-06 02:58 | request from 2026-11-06 02:58
 OK   Alice Coltrane — Journey In Satchidananda | last aired 2026-11-02 05:02 | normal pick now | request now
 WAIT Alice In Chains — Man in the Box | last aired 2026-11-03 14:29 | normal pick from 2026-11-05 02:29 | request from 2026-11-04 10:29
 OK   Alicia Keys — Fallin' (Album Version) | last aired 2026-11-02 08:39 | normal pick now | request now

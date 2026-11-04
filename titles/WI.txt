@@ -1,11 +1,11 @@
-Track status, song titles filed under WI (built Tue Nov 3, 6:55 PM PST (02:55 UTC Wed)). Times in UTC.
+Track status, song titles filed under WI (built Tue Nov 3, 7:05 PM PST (03:05 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Wicked Game  (Remastered Album Version) — Chris Isaak | last aired 2026-10-30 19:49 | normal pick now | request now
 OK   Wild Horses — The Sundays | last aired 2026-10-30 11:22 | normal pick now | request now
 OK   Wild Indian Woman — Free | last aired 2026-10-26 04:25 | normal pick now | request now
 OK   Wild Is the Wind  (2016 Remaster) — David Bowie | last aired 2026-10-31 11:40 | normal pick now | request now
-WAIT Wild Is The Wind — Nina Simone | last aired 2026-11-04 01:23 | normal pick from 2026-11-05 13:23 | request from 2026-11-04 21:23
+WAIT Wild Is The Wind — Nina Simone | last aired 2026-11-04 01:24 | normal pick from 2026-11-05 13:24 | request from 2026-11-04 21:24
 OK   Window Seat — Erykah Badu | last aired 2026-10-29 20:36 | normal pick now | request now
 OK   Windowlicker — Aphex Twin | last aired 2026-10-26 00:27 | normal pick now | request now
 OK   Wing — Patti Smith | last aired 2026-10-22 18:35 | normal pick now | request now
@@ -14,5 +14,5 @@ OK   Wish You Were Here — Pink Floyd | last aired 2026-10-29 15:37 | normal pi
 OK   Wishmaster — Nightwish | last aired 2026-10-26 16:51 | normal pick now | request now
 OK   Witchoo — Durand Jones & The Indications | last aired 2026-10-27 05:16 | normal pick now | request now
 OK   With A Little Help From My Friends (2017 Mix) — The Beatles | last aired 2026-10-23 09:41 | normal pick now | request now
-WAIT With A Little Help From My Friends — Joe Cocker | last aired 2026-11-04 01:11 | normal pick from 2026-11-06 01:11 | request from 2026-11-06 01:11
+WAIT With A Little Help From My Friends — Joe Cocker | last aired 2026-11-04 01:12 | normal pick from 2026-11-06 01:12 | request from 2026-11-06 01:12
 OK   With Arms Wide Open — Creed | last aired 2026-10-24 20:32 | normal pick now | request now
