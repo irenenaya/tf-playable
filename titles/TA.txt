@@ -1,4 +1,4 @@
-Track status, song titles filed under TA (built Wed Nov 4, 9:15 AM PST (17:15 UTC)). Times in UTC.
+Track status, song titles filed under TA (built Wed Nov 4, 9:25 AM PST (17:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Ta douleur — Camille | last aired 2026-11-03 13:33 | normal pick from 2026-11-05 01:33 | request now
@@ -17,5 +17,5 @@ OK   Taken — Eluvium | last aired 2026-11-02 21:25 | normal pick now | request
 OK   Takin' Care Of Business — Bachman-Turner Overdrive | last aired 2026-11-02 13:24 | normal pick now | request now
 WAIT Talk — Coldplay | last aired 2026-11-03 10:44 | normal pick from 2026-11-04 22:44 | request now
 WAIT Tape Recorder — Hammock | last aired 2026-11-04 10:53 | normal pick from 2026-11-06 10:53 | request from 2026-11-06 10:53
-OK   Tashamanaletch — Alèmayèhu Eshèté | last aired 2026-11-02 08:32 | normal pick now | request now
+WAIT Tashamanaletch — Alèmayèhu Eshèté | last aired 2026-11-04 17:11 | normal pick from 2026-11-06 17:11 | request from 2026-11-06 17:11
 OK   Taste — Sabrina Carpenter | last aired 2026-11-02 23:00 | normal pick now | request now
