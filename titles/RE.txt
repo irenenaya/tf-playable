@@ -1,4 +1,4 @@
-Track status, song titles filed under RE (built Tue Nov 3, 5:55 PM PST (01:55 UTC Wed)). Times in UTC.
+Track status, song titles filed under RE (built Tue Nov 3, 6:05 PM PST (02:05 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Reason or Rhyme — Bryan Ferry | last aired 2026-10-30 13:15 | normal pick now | request now
@@ -13,7 +13,7 @@ OK   Rent A Wreck — Suburban Kids With Biblical Names | last aired 2026-10-30 
 WAIT Requiem for Dying Mothers, Pt. 1 — Stars of the Lid | last aired 2026-11-03 05:26 | normal pick from 2026-11-05 05:26 | request from 2026-11-05 05:26
 WAIT Requiem for Dying Mothers, Pt. 2 — Stars of the Lid | last aired 2026-11-03 04:49 | normal pick from 2026-11-05 04:49 | request from 2026-11-05 04:49
 OK   Resist The Force — Predatory Meerkats | last aired 2026-10-24 23:27 | normal pick now | request now
-OK   Retrograde — James Blake | last aired 2026-11-01 04:33 | normal pick now | request now
+WAIT Retrograde — James Blake | last aired 2026-11-04 02:00 | normal pick from 2026-11-06 02:00 | request from 2026-11-06 02:00
 OK   Revenge of Instinct — Gesu No Kiwami Otome | last aired 2026-10-16 03:03 | normal pick now | request now
 OK   Revolution 9 (Remastered 2009) — The Beatles | last aired 2026-09-14 19:37 | normal pick now | request now
 OK   Reward — THE TEARDROP EXPLODES | last aired 2026-10-28 00:20 | normal pick now | request now
