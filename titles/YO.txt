@@ -1,13 +1,13 @@
-Track status, song titles filed under YO (built Wed Nov 4, 3:55 AM PST (11:55 UTC)). Times in UTC.
+Track status, song titles filed under YO (built Wed Nov 4, 4:05 AM PST (12:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT You and I — Papooz | last aired 2026-11-04 10:32 | normal pick from 2026-11-05 22:32 | request from 2026-11-05 06:32
+WAIT You and I — Papooz | last aired 2026-11-04 10:34 | normal pick from 2026-11-05 22:34 | request from 2026-11-05 06:34
 OK   You Are — Lionel Richie | last aired 2026-10-29 07:48 | normal pick now | request now
 OK   You Are Not Alone — Michael Jackson | last aired 2026-10-26 10:10 | normal pick now | request now
-WAIT You Are So Beautiful — Charles Lloyd | last aired 2026-11-04 07:02 | normal pick from 2026-11-05 19:02 | request from 2026-11-05 03:02
-WAIT You Are So Beautiful — Charles Lloyd & The Marvels | last aired 2026-11-04 08:05 | normal pick from 2026-11-05 20:05 | request from 2026-11-05 04:05
+WAIT You Are So Beautiful — Charles Lloyd | last aired 2026-11-04 07:03 | normal pick from 2026-11-05 19:03 | request from 2026-11-05 03:03
+WAIT You Are So Beautiful — Charles Lloyd & The Marvels | last aired 2026-11-04 08:06 | normal pick from 2026-11-05 20:06 | request from 2026-11-05 04:06
 OK   You Belong to Me  (2016 Remaster) — The Doobie Brothers | last aired 2026-10-31 17:44 | normal pick now | request now
-WAIT You Can Call Me Al — Paul Simon | last aired 2026-11-04 10:20 | normal pick from 2026-11-05 22:20 | request from 2026-11-05 06:20
+WAIT You Can Call Me Al — Paul Simon | last aired 2026-11-04 10:22 | normal pick from 2026-11-05 22:22 | request from 2026-11-05 06:22
 OK   You Can Have It All — Yo La Tengo | last aired 2026-10-28 10:57 | normal pick now | request now
 OK   You Can't Always Get What You Want — The Rolling Stones | last aired 2026-11-01 19:01 | normal pick now | request now
 WAIT You Don't Know What Love Is — Chet Baker | last aired 2026-11-03 20:32 | normal pick from 2026-11-05 08:32 | request from 2026-11-04 16:32
@@ -22,7 +22,7 @@ WAIT You're The One That I Want — Angus & Julia Stone | last aired 2026-11-03 
 OK   Young And Beautiful — Lana Del Rey | last aired 2026-11-01 12:41 | normal pick now | request now
 OK   Your Flag Decal Won't Get You into Heaven Anymore — John Prine | last aired 2026-10-30 20:42 | normal pick now | request now
 OK   Your Hand in Mine — Explosions In The Sky | last aired 2026-10-31 00:00 | normal pick now | request now
-WAIT Your Latest Trick — Dire Straits | last aired 2026-11-04 07:46 | normal pick from 2026-11-05 19:46 | request from 2026-11-05 03:46
+WAIT Your Latest Trick — Dire Straits | last aired 2026-11-04 07:47 | normal pick from 2026-11-05 19:47 | request from 2026-11-05 03:47
 OK   Your Love Is King — Serge Clivio | last aired 2026-10-21 15:15 | normal pick now | request now
 OK   Your Mrs — JAY1 | last aired 2026-10-04 23:17 | normal pick now | request now
 OK   Your Neighborhood Spaceman — Peeping Tom | last aired 2026-11-02 13:39 | normal pick now | request now

@@ -1,8 +1,8 @@
-Track status, song titles filed under AL (built Wed Nov 4, 3:55 AM PST (11:55 UTC)). Times in UTC.
+Track status, song titles filed under AL (built Wed Nov 4, 4:05 AM PST (12:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   A Life (1895 - 1915) — Mark Hollis | last aired 2026-11-02 15:33 | normal pick now | request now
-WAIT A Little Lost — Peter Broderick | last aired 2026-11-04 06:44 | normal pick from 2026-11-06 06:44 | request from 2026-11-06 06:44
+WAIT A Little Lost — Peter Broderick | last aired 2026-11-04 06:45 | normal pick from 2026-11-06 06:45 | request from 2026-11-06 06:45
 WAIT Albatross — Fleetwood Mac | last aired 2026-11-03 09:46 | normal pick from 2026-11-04 21:46 | request now
 OK   Algorithm — Heejin | last aired 2026-10-29 10:25 | normal pick now | request now
 OK   Alien Observer — Grouper | last aired 2026-10-30 09:06 | normal pick now | request now
@@ -11,7 +11,7 @@ WAIT Alive And Kicking (Remastered 2002) — Simple Minds | last aired 2026-11-0
 OK   All Along The Watchtower (Live - Rattle & Hum Version) — U2 | last aired 2026-10-31 22:46 | normal pick now | request now
 OK   All I Wanna Do — Sheryl Crow | last aired 2026-10-26 20:02 | normal pick now | request now
 OK   All I Want for Christmas Is You — Mariah Carey | last aired 2026-04-20 09:48 | normal pick now | request now
-WAIT All Melody — Nils Frahm | last aired 2026-11-04 06:50 | normal pick from 2026-11-05 18:50 | request from 2026-11-05 02:50
+WAIT All Melody — Nils Frahm | last aired 2026-11-04 06:51 | normal pick from 2026-11-05 18:51 | request from 2026-11-05 02:51
 OK   All My Little Words — The Magnetic Fields | last aired 2026-10-30 18:39 | normal pick now | request now
 OK   All Star (Album Version) — Smash Mouth | last aired 2026-10-24 18:00 | normal pick now | request now
 OK   All Summer — YASSiN & Sean Terrio | last aired 2026-10-15 21:52 | normal pick now | request now

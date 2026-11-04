@@ -1,8 +1,8 @@
-Track status, artists filed under BE (built Wed Nov 4, 3:55 AM PST (11:55 UTC)). Times in UTC.
+Track status, artists filed under BE (built Wed Nov 4, 4:05 AM PST (12:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Beach House — Bluebird | last aired 2026-11-03 19:24 | normal pick from 2026-11-05 07:24 | request from 2026-11-04 15:24
-WAIT Beach House — Space Song | last aired 2026-11-04 09:59 | normal pick from 2026-11-06 09:59 | request from 2026-11-06 09:59
+WAIT Beach House — Space Song | last aired 2026-11-04 10:04 | normal pick from 2026-11-06 10:04 | request from 2026-11-06 10:04
 OK   Beastie Boys — Sabotage | last aired 2026-10-28 21:54 | normal pick now | request now
 OK   Beatrice Rana — Keyboard Concerto No. 1 in D Minor, BWV 1052: I. Allegro | last aired 2026-11-01 11:42 | normal pick now | request now
 OK   Beatrice Rana — Libertango (Arr. Yamamoto for Piano 4-Hands) | last aired 2026-11-01 18:34 | normal pick now | request now
@@ -18,14 +18,14 @@ OK   Belcea Quartet — Quatuor à cordes n° 4, Sz. 91 - String Quartet No. 4 i
 OK   Belle and Sebastian — The Boy with the Arab Strap | last aired 2026-10-30 21:17 | normal pick now | request now
 OK   Ben Allison — D.A.V.E. | last aired 2026-10-28 22:54 | normal pick now | request now
 OK   Ben E. King — Stand By Me | last aired 2026-10-31 09:29 | normal pick now | request now
-WAIT Ben Harper — Yard Sale | last aired 2026-11-04 10:11 | normal pick from 2026-11-06 10:11 | request from 2026-11-06 10:11
-WAIT Ben Howard — Only Love | last aired 2026-11-04 09:55 | normal pick from 2026-11-05 21:55 | request from 2026-11-05 05:55
+WAIT Ben Harper — Yard Sale | last aired 2026-11-04 10:12 | normal pick from 2026-11-06 10:12 | request from 2026-11-06 10:12
+WAIT Ben Howard — Only Love | last aired 2026-11-04 09:56 | normal pick from 2026-11-05 21:56 | request from 2026-11-05 05:56
 OK   Ben&Ben — Leaves | last aired 2026-11-01 00:14 | normal pick now | request now
 OK   Ben&Ben — Maybe The Night | last aired 2026-10-08 16:41 | normal pick now | request now
 OK   Benjamin Francis Leftwich — Ticket To Ride | last aired 2026-11-01 12:18 | normal pick now | request now
 OK   Benny Goodman — Sing Sing Sing (With A Swing) (live) | last aired 2026-10-30 15:31 | normal pick now | request now
 OK   Benny Sings — Rolled Up | last aired 2026-10-31 02:43 | normal pick now | request now
-WAIT Benny Sings — Sailing | last aired 2026-11-04 10:05 | normal pick from 2026-11-06 10:05 | request from 2026-11-06 10:05
+WAIT Benny Sings — Sailing | last aired 2026-11-04 10:06 | normal pick from 2026-11-06 10:06 | request from 2026-11-06 10:06
 OK   Benson Boone — Beautiful Things | last aired 2026-10-25 15:50 | normal pick now | request now
 OK   Berlin — Take My Breath Away | last aired 2026-10-26 21:23 | normal pick now | request now
 OK   Berliner Philharmoniker — Boléro, M. 81 | last aired 2026-11-01 18:06 | normal pick now | request now
@@ -50,4 +50,4 @@ OK   The Beatles — Revolution 9 (Remastered 2009) | last aired 2026-09-14 19:3
 WAIT The Beatles — Strawberry Fields Forever | last aired 2026-11-03 19:04 | normal pick from 2026-11-05 07:04 | request from 2026-11-04 15:04
 OK   The Beatles — This Boy (Remastered) | last aired 2026-10-25 22:25 | normal pick now | request now
 OK   The Beatles — With A Little Help From My Friends (2017 Mix) | last aired 2026-10-23 09:41 | normal pick now | request now
-WAIT The Beatles — Yesterday (Remastered) | last aired 2026-11-04 10:08 | normal pick from 2026-11-05 22:08 | request from 2026-11-05 06:08
+WAIT The Beatles — Yesterday (Remastered) | last aired 2026-11-04 10:10 | normal pick from 2026-11-05 22:10 | request from 2026-11-05 06:10
