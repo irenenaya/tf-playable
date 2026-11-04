@@ -1,15 +1,15 @@
-Track status, artists filed under RA (built Tue Nov 3, 8:45 PM PST (04:45 UTC Wed)). Times in UTC.
+Track status, artists filed under RA (built Tue Nov 3, 8:55 PM PST (04:55 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Radiohead — Paranoid Android | last aired 2026-11-03 02:54 | normal pick from 2026-11-05 02:54 | request from 2026-11-05 02:54
 OK   Radiohead — Weird Fishes / Arpeggi | last aired 2026-11-02 03:57 | normal pick now | request now
 WAIT Rammstein — Deutschland | last aired 2026-11-04 03:42 | normal pick from 2026-11-05 15:42 | request from 2026-11-04 23:42
-WAIT Ramones — Blitzkrieg Bop | last aired 2026-11-02 16:53 | normal pick from 2026-11-04 04:53 | request now
+OK   Ramones — Blitzkrieg Bop | last aired 2026-11-02 16:53 | normal pick now | request now
 WAIT Randy Crawford — One Day I'll Fly Away | last aired 2026-11-02 16:00 | normal pick from 2026-11-04 16:00 | request from 2026-11-04 16:00
-WAIT Randy Travis — Forever and Ever, Amen | last aired 2026-11-02 16:55 | normal pick from 2026-11-04 04:55 | request now
+OK   Randy Travis — Forever and Ever, Amen | last aired 2026-11-02 16:55 | normal pick now | request now
 WAIT Raquel Tavares — Como É Grande o Meu Amor por Você | last aired 2026-11-03 12:06 | normal pick from 2026-11-05 12:06 | request from 2026-11-05 12:06
 OK   Ray Anthony — The Hokey Pokey | last aired 2026-11-02 16:45 | normal pick now | request now
-WAIT Ray Parker Junior — Ghostbusters (Album Version) | last aired 2026-11-02 16:48 | normal pick from 2026-11-04 04:48 | request now
+OK   Ray Parker Junior — Ghostbusters (Album Version) | last aired 2026-11-02 16:48 | normal pick now | request now
 WAIT Rayland Baxter — Objects In The Mirror | last aired 2026-11-02 16:59 | normal pick from 2026-11-04 16:59 | request from 2026-11-04 16:59
 WAIT The Rah Band — Clouds Across the Moon | last aired 2026-11-03 16:50 | normal pick from 2026-11-05 04:50 | request from 2026-11-04 12:50
 WAIT The Rah Band — Messages from the Stars (Remaster) | last aired 2026-11-03 01:35 | normal pick from 2026-11-04 13:35 | request now
