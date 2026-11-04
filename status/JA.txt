@@ -1,4 +1,4 @@
-Track status, artists filed under JA (built Wed Nov 4, 3:25 AM PST (11:25 UTC)). Times in UTC.
+Track status, artists filed under JA (built Wed Nov 4, 3:35 AM PST (11:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Jack Johnson — Better Together | last aired 2026-11-04 01:40 | normal pick from 2026-11-05 13:40 | request from 2026-11-04 21:40
@@ -12,8 +12,8 @@ WAIT Jamie xx — Gosh | last aired 2026-11-02 12:36 | normal pick from 2026-11-
 WAIT Jamiroquai — Cosmic Girl (Remastered 2013) | last aired 2026-11-02 12:33 | normal pick from 2026-11-04 12:33 | request from 2026-11-04 12:33
 WAIT Jan Hammer — Crockett's Theme | last aired 2026-11-04 01:44 | normal pick from 2026-11-06 01:44 | request from 2026-11-06 01:44
 WAIT Janelle Monáe — Make Me Feel | last aired 2026-11-04 11:05 | normal pick from 2026-11-06 11:05 | request from 2026-11-06 11:05
-OK   Janet Jackson — Any Time, Any Place | last aired 2026-11-01 14:49 | normal pick now | request now
-OK   Janis Joplin — Me and Bobby McGee | last aired 2026-11-01 15:08 | normal pick now | request now
+WAIT Janet Jackson — Any Time, Any Place | last aired 2026-11-04 11:22 | normal pick from 2026-11-05 23:22 | request from 2026-11-05 07:22
+WAIT Janis Joplin — Me and Bobby McGee | last aired 2026-11-04 11:30 | normal pick from 2026-11-05 23:30 | request from 2026-11-05 07:30
 OK   Jars Of Clay — Flood | last aired 2026-11-01 04:40 | normal pick now | request now
 OK   JAWNY — true | last aired 2026-10-13 19:10 | normal pick now | request now
 OK   JAY1 — Your Mrs | last aired 2026-10-04 23:17 | normal pick now | request now
