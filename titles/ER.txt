@@ -1,6 +1,6 @@
-Track status, song titles filed under ER (built Wed Nov 4, 3:45 PM PST (23:45 UTC)). Times in UTC.
+Track status, song titles filed under ER (built Wed Nov 4, 3:55 PM PST (23:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Ere Mela Mela / Meche Neu — Mahmoud Ahmed | last aired 2026-11-03 12:48 | normal pick from 2026-11-05 12:48 | request from 2026-11-05 12:48
-WAIT Eres (Album Version) — Café Tacvba | last aired 2026-11-02 23:49 | normal pick from 2026-11-04 23:49 | request from 2026-11-04 23:49
+OK   Eres (Album Version) — Café Tacvba | last aired 2026-11-02 23:49 | normal pick now | request now
 OK   Erik's Song (Album Version) — Slowdive | last aired 2026-11-02 08:07 | normal pick now | request now
