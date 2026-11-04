@@ -1,4 +1,4 @@
-Track status, song titles filed under PA (built Wed Nov 4, 4:35 AM PST (12:35 UTC)). Times in UTC.
+Track status, song titles filed under PA (built Wed Nov 4, 4:45 AM PST (12:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Pac-Man (feat. ScHoolboy Q) — Gorillaz | last aired 2026-10-22 00:14 | normal pick now | request now
@@ -7,7 +7,7 @@ OK   Pagan Poetry — Björk | last aired 2026-10-31 07:50 | normal pick now | r
 WAIT Paid In Full — Eric B. & Rakim | last aired 2026-11-03 13:12 | normal pick from 2026-11-05 01:12 | request now
 WAIT Paint It, Black — The Rolling Stones | last aired 2026-11-03 13:16 | normal pick from 2026-11-05 01:16 | request now
 OK   Panic Attack (Album Version) — Dream Theater | last aired 2026-10-15 15:09 | normal pick now | request now
-WAIT Papa Was a Rodeo — The Magnetic Fields | last aired 2026-11-03 16:41 | normal pick from 2026-11-05 04:41 | request from 2026-11-04 12:41
+WAIT Papa Was a Rodeo — The Magnetic Fields | last aired 2026-11-03 16:41 | normal pick from 2026-11-05 04:41 | request now
 OK   Papa Was A Rollin' Stone (Full Version) — The Temptations | last aired 2026-10-28 23:48 | normal pick now | request now
 OK   Paradise City — Guns N' Roses | last aired 2026-10-30 00:04 | normal pick now | request now
 WAIT Paranoid Android — Radiohead | last aired 2026-11-03 02:54 | normal pick from 2026-11-05 02:54 | request from 2026-11-05 02:54
