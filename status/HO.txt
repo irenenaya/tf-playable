@@ -1,10 +1,10 @@
-Track status, artists filed under HO (built Wed Nov 4, 8:55 PM PST (04:55 UTC Thu)). Times in UTC.
+Track status, artists filed under HO (built Wed Nov 4, 9:05 PM PST (05:05 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Hollie Col — The Gambler | last aired 2026-11-02 07:11 | normal pick now | request now
 OK   Holly Herndon — Chorus | last aired 2026-10-26 00:04 | normal pick now | request now
-WAIT Home — We're Finally Landing | last aired 2026-11-05 03:01 | normal pick from 2026-11-06 15:01 | request from 2026-11-05 23:01
-WAIT Hooverphonic — 2 Wicky | last aired 2026-11-05 02:48 | normal pick from 2026-11-06 14:48 | request from 2026-11-05 22:48
+WAIT Home — We're Finally Landing | last aired 2026-11-05 03:04 | normal pick from 2026-11-06 15:04 | request from 2026-11-05 23:04
+WAIT Hooverphonic — 2 Wicky | last aired 2026-11-05 02:49 | normal pick from 2026-11-07 02:49 | request from 2026-11-07 02:49
 OK   Horace Silver — Opus De Funk (Remastered 1998/Rudy Van Gelder Edition) | last aired 2026-10-27 16:54 | normal pick now | request now
 WAIT Horace Silver Quintet — Peace | last aired 2026-11-05 01:11 | normal pick from 2026-11-06 13:11 | request from 2026-11-05 21:11
 OK   Hotel Ugly — Mice City | last aired 2026-10-26 10:35 | normal pick now | request now
@@ -13,6 +13,6 @@ OK   Howlin' Wolf — Smokestack Lightnin' | last aired 2026-10-26 17:17 | norma
 WAIT Hozier — Angel Of Small Death & The Codeine Scene | last aired 2026-11-04 08:39 | normal pick from 2026-11-05 20:39 | request now
 OK   Hozier — Cherry Wine  (Live) | last aired 2026-11-01 21:40 | normal pick now | request now
 WAIT Hozier — From Eden | last aired 2026-11-04 08:23 | normal pick from 2026-11-05 20:23 | request now
-WAIT Hozier — Take Me To Church | last aired 2026-11-04 09:02 | normal pick from 2026-11-05 21:02 | request from 2026-11-05 05:02
+WAIT Hozier — Take Me To Church | last aired 2026-11-04 09:02 | normal pick from 2026-11-05 21:02 | request now
 OK   Hozier — Wasteland, Baby! | last aired 2026-10-30 09:17 | normal pick now | request now
 OK   The Hollyridge Strings — Yesterday | last aired 2026-10-21 15:19 | normal pick now | request now
