@@ -1,16 +1,16 @@
-Track status, song titles filed under ST (built Thu Nov 5, 8:55 AM PST (16:55 UTC)). Times in UTC.
+Track status, song titles filed under ST (built Thu Nov 5, 9:05 AM PST (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT S.T.A.Y. — Hans Zimmer | last aired 2026-11-04 11:50 | normal pick from 2026-11-05 23:50 | request now
 OK   St. James Infirmary — Jim James | last aired 2026-10-24 12:25 | normal pick now | request now
 WAIT Stacy's Mom — Fountains Of Wayne | last aired 2026-11-05 14:27 | normal pick from 2026-11-07 02:27 | request from 2026-11-06 10:27
-OK   Stairway to Heaven  (Remaster) — Led Zeppelin | last aired 2026-11-03 14:05 | normal pick now | request now
+OK   Stairway to Heaven (Remaster) — Led Zeppelin | last aired 2026-11-03 14:05 | normal pick now | request now
 OK   Stand By Me — Ben E. King | last aired 2026-10-31 09:29 | normal pick now | request now
 OK   Stand By Your Man (Album Version) — Tammy Wynette | last aired 2026-10-27 20:41 | normal pick now | request now
 WAIT Star Fruit Surf Rider (Damon Albarn Remix) — Cornelius | last aired 2026-11-04 14:22 | normal pick from 2026-11-06 02:22 | request now
 OK   Starboy — The Weeknd | last aired 2026-10-31 23:35 | normal pick now | request now
 WAIT Stardust — Bobby Hutcherson | last aired 2026-11-04 11:39 | normal pick from 2026-11-05 23:39 | request now
-OK   Starman  (2012 Remaster) — David Bowie | last aired 2026-10-30 12:29 | normal pick now | request now
+OK   Starman (2012 Remaster) — David Bowie | last aired 2026-10-30 12:29 | normal pick now | request now
 OK   Starry Night — Peggy Gou | last aired 2026-11-02 13:30 | normal pick now | request now
 OK   Start Shootin' — Little People | last aired 2026-10-29 21:58 | normal pick now | request now
 WAIT Starálfur — Sigur Rós | last aired 2026-11-05 10:14 | normal pick from 2026-11-07 10:14 | request from 2026-11-07 10:14
@@ -19,7 +19,7 @@ OK   Stay — Shakespears Sister | last aired 2026-10-26 07:35 | normal pick now
 OK   Steal Away — Robbie Dupree | last aired 2026-11-03 23:46 | normal pick now | request now
 OK   Steep Hills of Vicodin Tears — A Winged Victory For The Sullen | last aired 2026-10-24 01:59 | normal pick now | request now
 OK   Steppe — René Aubry | last aired 2026-10-30 13:58 | normal pick now | request now
-WAIT Stick Season — Noah Kahan | last aired 2026-11-05 16:08 | normal pick from 2026-11-07 04:08 | request from 2026-11-06 12:08
+WAIT Stick Season — Noah Kahan | last aired 2026-11-05 16:09 | normal pick from 2026-11-07 04:09 | request from 2026-11-06 12:09
 OK   Still Life (2015 Remaster) — Iron Maiden | last aired 2026-10-25 16:43 | normal pick now | request now
 OK   Still Loving You (2011 Version) — Scorpions | last aired 2026-10-28 01:03 | normal pick now | request now
 OK   Still Of The Night (2018 Remaster) — Whitesnake | last aired 2026-10-28 01:10 | normal pick now | request now
@@ -35,7 +35,7 @@ OK   Strawberry Fields Forever — The Beatles | last aired 2026-11-03 19:04 | n
 OK   Strawberry Letter 23 (Album Version) — The Brothers Johnson | last aired 2026-11-02 23:40 | normal pick now | request now
 OK   Street Fighting Man — The Rolling Stones | last aired 2026-11-03 18:39 | normal pick now | request now
 OK   Street Lights — Josh Rouse | last aired 2026-10-27 17:56 | normal pick now | request now
-OK   Streets of Philadelphia  (Single Edit) — Bruce Springsteen | last aired 2026-11-01 05:37 | normal pick now | request now
+OK   Streets of Philadelphia (Single Edit) — Bruce Springsteen | last aired 2026-11-01 05:37 | normal pick now | request now
 OK   Stressed Out — twenty one pilots | last aired 2026-10-26 12:18 | normal pick now | request now
 OK   Strings of Light — Yussef Kamaal | last aired 2026-10-23 17:23 | normal pick now | request now
 OK   Stripsearch — Faith No More | last aired 2026-10-20 19:48 | normal pick now | request now

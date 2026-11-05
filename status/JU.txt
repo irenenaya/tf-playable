@@ -1,4 +1,4 @@
-Track status, artists filed under JU (built Thu Nov 5, 8:55 AM PST (16:55 UTC)). Times in UTC.
+Track status, artists filed under JU (built Thu Nov 5, 9:05 AM PST (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Judas Priest — Breaking the Law | last aired 2026-11-05 01:28 | normal pick from 2026-11-06 13:28 | request from 2026-11-05 21:28
@@ -12,5 +12,5 @@ WAIT Jungle — Busy Earnin' | last aired 2026-11-05 14:51 | normal pick from 20
 OK   Jungle — Keep Moving | last aired 2026-11-03 11:22 | normal pick now | request now
 OK   Junior H — Ella | last aired 2026-10-25 14:19 | normal pick now | request now
 OK   Junkie XL — Brothers In Arms | last aired 2026-10-28 10:19 | normal pick now | request now
-WAIT Justice — D.A.N.C.E. | last aired 2026-11-05 14:54 | normal pick from 2026-11-07 02:54 | request from 2026-11-06 10:54
+WAIT Justice — D.A.N.C.E. | last aired 2026-11-05 14:54 | normal pick from 2026-11-07 14:54 | request from 2026-11-07 14:54
 WAIT The Judds — Grandpa (Tell Me 'Bout The Good Old Days) | last aired 2026-11-05 14:58 | normal pick from 2026-11-07 02:58 | request from 2026-11-06 10:58
