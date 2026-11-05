@@ -1,10 +1,10 @@
-Track status, artists filed under NI (built Thu Nov 5, 1:55 PM PST (21:55 UTC)). Times in UTC.
+Track status, artists filed under NI (built Thu Nov 5, 2:05 PM PST (22:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Nick Cave & The Bad Seeds — (I'll Love You) Till The End Of The World | last aired 2026-11-04 16:55 | normal pick from 2026-11-06 16:55 | request from 2026-11-06 16:55
 WAIT Nick Cave & The Bad Seeds — Henry Lee (Remastered 2011) | last aired 2026-11-04 03:34 | normal pick from 2026-11-06 03:34 | request from 2026-11-06 03:34
 WAIT Nick Drake — Northern Sky | last aired 2026-11-05 13:27 | normal pick from 2026-11-07 13:27 | request from 2026-11-07 13:27
-WAIT Nick Drake — Pink Moon | last aired 2026-11-03 22:01 | normal pick from 2026-11-05 22:01 | request from 2026-11-05 22:01
+OK   Nick Drake — Pink Moon | last aired 2026-11-03 22:01 | normal pick now | request now
 OK   Nickelback — How You Remind Me (- LP Mix) | last aired 2026-11-03 16:02 | normal pick now | request now
 WAIT Nightmares On Wax — Les Nuits | last aired 2026-11-04 11:16 | normal pick from 2026-11-05 23:16 | request now
 WAIT Nightwish — Wishmaster | last aired 2026-11-04 14:17 | normal pick from 2026-11-06 02:17 | request now
@@ -15,7 +15,7 @@ WAIT Nils Frahm — Familiar | last aired 2026-11-05 06:01 | normal pick from 20
 WAIT Nils Frahm — Says | last aired 2026-11-05 06:07 | normal pick from 2026-11-07 06:07 | request from 2026-11-07 06:07
 WAIT Nina Simone — Feeling Good | last aired 2026-11-05 13:31 | normal pick from 2026-11-07 13:31 | request from 2026-11-07 13:31
 OK   Nina Simone — Mood Indigo (G-Swing Featuring Ludovic Allen Remix) | last aired 2026-10-27 16:45 | normal pick now | request now
-WAIT Nina Simone — Wild Is The Wind | last aired 2026-11-05 21:00 | normal pick from 2026-11-07 09:00 | request from 2026-11-06 17:00
+WAIT Nina Simone — Wild Is The Wind | last aired 2026-11-05 21:00 | normal pick from 2026-11-07 21:00 | request from 2026-11-07 21:00
 OK   Nine Inch Nails — Heresy (Nine Inch Noize Version) | last aired 2026-11-03 04:45 | normal pick now | request now
 OK   Nine Inch Nails — Hurt | last aired 2026-11-02 23:20 | normal pick now | request now
 OK   Nine Inch Nails — Less Than | last aired 2026-10-30 03:48 | normal pick now | request now

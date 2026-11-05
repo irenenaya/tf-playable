@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Thu Nov 5, 1:55 PM PST (21:55 UTC)). Times in UTC.
+Track status, artists filed under BE (built Thu Nov 5, 2:05 PM PST (22:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Beach House — Bluebird | last aired 2026-11-03 19:24 | normal pick now | request now
@@ -8,7 +8,7 @@ WAIT Beatrice Rana — Keyboard Concerto No. 1 in D Minor, BWV 1052: I. Allegro 
 WAIT Beatrice Rana — Libertango (Arr. Yamamoto for Piano 4-Hands) | last aired 2026-11-04 15:48 | normal pick from 2026-11-06 15:48 | request from 2026-11-06 15:48
 OK   Beats by Luca — 52 CHICKEN NUGGET (McRave) | last aired 2026-10-18 11:09 | normal pick now | request now
 WAIT Bebel Gilberto — Samba Da Benção | last aired 2026-11-04 17:04 | normal pick from 2026-11-06 17:04 | request from 2026-11-06 17:04
-WAIT Beck — Devils Haircut | last aired 2026-11-05 07:18 | normal pick from 2026-11-07 07:18 | request from 2026-11-07 07:18
+WAIT Beck — Devils Haircut | last aired 2026-11-05 07:18 | normal pick from 2026-11-06 19:18 | request from 2026-11-06 03:18
 WAIT Beck — Loser | last aired 2026-11-05 07:20 | normal pick from 2026-11-07 07:20 | request from 2026-11-07 07:20
 OK   Beck — The New Pollution | last aired 2026-11-03 16:32 | normal pick now | request now
 OK   Becky Levi and the Nightjars — Wake Me Up | last aired 2026-10-22 06:23 | normal pick now | request now
@@ -19,7 +19,7 @@ OK   Belle and Sebastian — The Boy with the Arab Strap | last aired 2026-10-30
 OK   Ben Allison — D.A.V.E. | last aired 2026-10-28 22:54 | normal pick now | request now
 OK   Ben E. King — Stand By Me | last aired 2026-10-31 09:29 | normal pick now | request now
 WAIT Ben Harper — Yard Sale | last aired 2026-11-04 10:12 | normal pick from 2026-11-06 10:12 | request from 2026-11-06 10:12
-WAIT Ben Howard — Only Love | last aired 2026-11-04 09:56 | normal pick from 2026-11-05 21:56 | request now
+OK   Ben Howard — Only Love | last aired 2026-11-04 09:56 | normal pick now | request now
 OK   Ben&Ben — Leaves | last aired 2026-11-01 00:14 | normal pick now | request now
 OK   Ben&Ben — Maybe The Night | last aired 2026-10-08 16:41 | normal pick now | request now
 OK   Benjamin Francis Leftwich — Ticket To Ride | last aired 2026-11-01 12:18 | normal pick now | request now
