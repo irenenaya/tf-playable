@@ -1,4 +1,4 @@
-Track status, song titles filed under DO (built Wed Nov 4, 7:15 PM PST (03:15 UTC Thu)). Times in UTC.
+Track status, song titles filed under DO (built Wed Nov 4, 7:25 PM PST (03:25 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   (Don't Fear) The Reaper — Blue Öyster Cult | last aired 2026-10-26 02:52 | normal pick now | request now
@@ -23,7 +23,7 @@ OK   Don't You (Forget About Me) — Simple Minds | last aired 2026-10-29 00:23 
 OK   Don't You Ever Stop — Mr. President | last aired 2026-10-21 03:18 | normal pick now | request now
 OK   Don't You Want Me — Human League | last aired 2026-11-01 21:03 | normal pick now | request now
 OK   Double Concerto — Al Di Meola | last aired 2026-11-02 16:39 | normal pick now | request now
-OK   Doused — DIIV | last aired 2026-10-28 11:07 | normal pick now | request now
+WAIT Doused — DIIV | last aired 2026-11-05 03:17 | normal pick from 2026-11-07 03:17 | request from 2026-11-07 03:17
 OK   Down in the Valley — The Head And The Heart | last aired 2026-10-29 06:51 | normal pick now | request now
 WAIT Down To The River To Pray (Live) — Alison Krauss | last aired 2026-11-04 08:59 | normal pick from 2026-11-05 20:59 | request from 2026-11-05 04:59
 OK   Down Under — Men At Work | last aired 2026-11-01 10:59 | normal pick now | request now
