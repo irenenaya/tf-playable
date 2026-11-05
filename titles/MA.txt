@@ -1,4 +1,4 @@
-Track status, song titles filed under MA (built Wed Nov 4, 3:55 PM PST (23:55 UTC)). Times in UTC.
+Track status, song titles filed under MA (built Wed Nov 4, 4:05 PM PST (00:05 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Mad World — Gary Jules | last aired 2026-11-02 09:17 | normal pick now | request now
@@ -27,7 +27,7 @@ OK   Master of Puppets  (Live at Irvine Meadows Amphitheatre, Irvine, CA, 8/4/19
 OK   Matte Kudasai — King Crimson | last aired 2026-11-01 06:29 | normal pick now | request now
 OK   Maureen — Martin Ditcham | last aired 2026-08-18 22:36 | normal pick now | request now
 OK   May Ninth — Khruangbin | last aired 2026-11-03 04:17 | normal pick now | request now
-WAIT Maybe I’m Amazed (2011 Remaster) — Paul McCartney | last aired 2026-11-03 11:59 | normal pick from 2026-11-04 23:59 | request now
+OK   Maybe I’m Amazed (2011 Remaster) — Paul McCartney | last aired 2026-11-03 11:59 | normal pick now | request now
 OK   Maybe — The Ink Spots | last aired 2026-11-03 10:01 | normal pick now | request now
 OK   Maybe The Night — Ben&Ben | last aired 2026-10-08 16:41 | normal pick now | request now
 WAIT Maybe They Will Sing for Us Tomorrow — Hammock | last aired 2026-11-04 10:44 | normal pick from 2026-11-05 22:44 | request from 2026-11-05 06:44
