@@ -1,4 +1,4 @@
-Track status, song titles filed under RI (built Thu Nov 5, 12:55 AM PST (08:55 UTC)). Times in UTC.
+Track status, song titles filed under RI (built Thu Nov 5, 1:05 AM PST (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Richter: Shadow Journal — Tilda Swinton | last aired 2026-11-03 07:56 | normal pick now | request now
@@ -6,7 +6,7 @@ OK   Ride Like the Wind (Album Version) — Christopher Cross | last aired 2026-
 OK   Ride On (Fight On) — Little Axe | last aired 2026-10-29 21:15 | normal pick now | request now
 OK   Ride On Time — DEEN | last aired 2026-10-16 03:27 | normal pick now | request now
 OK   Riders on the Storm — The Doors | last aired 2026-10-31 11:05 | normal pick now | request now
-WAIT Riding For The Feeling — Bill Callahan | last aired 2026-11-05 07:23 | normal pick from 2026-11-07 07:23 | request from 2026-11-07 07:23
+WAIT Riding For The Feeling — Bill Callahan | last aired 2026-11-05 07:25 | normal pick from 2026-11-07 07:25 | request from 2026-11-07 07:25
 WAIT Right Down the Line — Gerry Rafferty | last aired 2026-11-04 15:52 | normal pick from 2026-11-06 03:52 | request from 2026-11-05 11:52
 OK   Right In Front Of Me — Tiny Habits | last aired 2026-10-25 22:30 | normal pick now | request now
 WAIT Ring of Fire — Johnny Cash | last aired 2026-11-04 13:07 | normal pick from 2026-11-06 13:07 | request from 2026-11-06 13:07
@@ -16,4 +16,4 @@ WAIT River — Joni Mitchell | last aired 2026-11-03 21:56 | normal pick from 20
 OK   Riviera Paradise — Stevie Ray Vaughan & Double Trouble | last aired 2026-10-31 23:55 | normal pick now | request now
 OK   The Rite of Spring (1913 Version) - Le Sacre du Printemps (The Rite of Spring): Les augures printaniers (Danses des adolescentes) [The Augurs of Spring (Dance of the Young Girls)] (1913 Version) — Leonard Bernstein | last aired 2026-10-13 14:05 | normal pick now | request now
 OK   The River — Bruce Springsteen | last aired 2026-10-31 09:51 | normal pick now | request now
-WAIT The River of Dreams (Album Version) — Billy Joel | last aired 2026-11-05 07:33 | normal pick from 2026-11-06 19:33 | request from 2026-11-06 03:33
+WAIT The River of Dreams (Album Version) — Billy Joel | last aired 2026-11-05 07:35 | normal pick from 2026-11-06 19:35 | request from 2026-11-06 03:35
