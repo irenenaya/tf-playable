@@ -1,7 +1,7 @@
-Track status, song titles filed under GI (built Thu Nov 5, 2:15 AM PST (10:15 UTC)). Times in UTC.
+Track status, song titles filed under GI (built Thu Nov 5, 2:25 AM PST (10:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Gilded Lily — Cults | last aired 2026-11-03 10:18 | normal pick from 2026-11-05 10:18 | request from 2026-11-05 10:18
+OK   Gilded Lily — Cults | last aired 2026-11-03 10:18 | normal pick now | request now
 OK   Gimme Some More — Busta Rhymes | last aired 2026-11-02 18:02 | normal pick now | request now
 OK   Gimme! Gimme! Gimme! (A Man After Midnight) — ABBA | last aired 2026-10-07 15:38 | normal pick now | request now
 WAIT Girl (Remastered) — The Beatles | last aired 2026-11-05 08:04 | normal pick from 2026-11-06 20:04 | request from 2026-11-06 04:04
