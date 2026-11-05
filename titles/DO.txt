@@ -1,8 +1,8 @@
-Track status, song titles filed under DO (built Thu Nov 5, 12:15 AM PST (08:15 UTC)). Times in UTC.
+Track status, song titles filed under DO (built Thu Nov 5, 12:25 AM PST (08:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   (Don't Fear) The Reaper — Blue Öyster Cult | last aired 2026-10-26 02:52 | normal pick now | request now
-OK   Do I Wanna Know? — Arctic Monkeys | last aired 2026-10-29 11:18 | normal pick now | request now
+WAIT Do I Wanna Know? — Arctic Monkeys | last aired 2026-11-05 08:15 | normal pick from 2026-11-06 20:15 | request from 2026-11-06 04:15
 OK   Do It — Underscores | last aired 2026-11-01 12:51 | normal pick now | request now
 WAIT Do Not Disturb — Halestorm | last aired 2026-11-05 04:10 | normal pick from 2026-11-06 16:10 | request from 2026-11-06 00:10
 OK   Dobra Vila — Tabu | last aired 2026-10-22 16:58 | normal pick now | request now
