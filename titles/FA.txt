@@ -1,9 +1,9 @@
-Track status, song titles filed under FA (built Thu Nov 5, 11:15 AM PST (19:15 UTC)). Times in UTC.
+Track status, song titles filed under FA (built Thu Nov 5, 11:25 AM PST (19:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Face to Face — Daft Punk | last aired 2026-11-04 14:55 | normal pick from 2026-11-06 02:55 | request now
 WAIT Facing East — Thievery Corporation | last aired 2026-11-05 15:53 | normal pick from 2026-11-07 15:53 | request from 2026-11-07 15:53
-WAIT Fade Into You — Mazzy Star | last aired 2026-11-03 19:18 | normal pick from 2026-11-05 19:18 | request from 2026-11-05 19:18
+OK   Fade Into You — Mazzy Star | last aired 2026-11-03 19:18 | normal pick now | request now
 OK   Fade To Grey — Visage | last aired 2026-10-25 13:36 | normal pick now | request now
 WAIT Fado Vadio (Má Fama) — Ana Sofia Varela | last aired 2026-11-05 18:02 | normal pick from 2026-11-07 18:02 | request from 2026-11-07 18:02
 WAIT Fail Upward For A Change — Tom Konkle | last aired 2026-11-04 21:43 | normal pick from 2026-11-06 09:43 | request now
@@ -19,7 +19,7 @@ OK   Family Portrait — P!nk | last aired 2026-10-14 13:43 | normal pick now | 
 WAIT Famous Blue Raincoat — Leonard Cohen | last aired 2026-11-04 09:45 | normal pick from 2026-11-06 09:45 | request from 2026-11-06 09:45
 OK   Fancy — Reba McEntire | last aired 2026-10-27 23:21 | normal pick now | request now
 OK   Fantas — Caterina Barbieri | last aired 2026-11-03 03:16 | normal pick now | request now
-WAIT Fantasiestücke, Op. 73 - Schumann: Fantasiestücke, Op. 73: No. 1, Zart und mit Ausdruck — Sol Gabetta | last aired 2026-11-03 19:16 | normal pick from 2026-11-05 19:16 | request from 2026-11-05 19:16
+OK   Fantasiestücke, Op. 73 - Schumann: Fantasiestücke, Op. 73: No. 1, Zart und mit Ausdruck — Sol Gabetta | last aired 2026-11-03 19:16 | normal pick now | request now
 OK   Fast Car (2015 Remaster) — Tracy Chapman | last aired 2026-11-02 08:52 | normal pick now | request now
 OK   Fast Car (LP Version) — Tracy Chapman | last aired 2026-11-03 22:37 | normal pick now | request now
 OK   Faster — Matt Nathanson | last aired 2026-10-30 07:35 | normal pick now | request now
