@@ -1,4 +1,4 @@
-Track status, artists filed under RA (built Thu Nov 5, 4:25 AM PST (12:25 UTC)). Times in UTC.
+Track status, artists filed under RA (built Thu Nov 5, 4:35 AM PST (12:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Radiohead — Paranoid Android | last aired 2026-11-03 02:54 | normal pick now | request now
@@ -14,4 +14,4 @@ WAIT Rayland Baxter — Objects In The Mirror | last aired 2026-11-04 19:12 | no
 WAIT The Rah Band — Clouds Across the Moon | last aired 2026-11-05 11:43 | normal pick from 2026-11-06 23:43 | request from 2026-11-06 07:43
 WAIT The Rah Band — Messages from the Stars (Remaster) | last aired 2026-11-04 23:09 | normal pick from 2026-11-06 11:09 | request from 2026-11-05 19:09
 OK   The Ray Charles Singers — Sweet Little Mountain Bird | last aired 2026-09-18 12:34 | normal pick now | request now
-WAIT The Ray Conniff Singers — Somewhere, My Love (Lara's Theme from "Doctor Zhivago") (Album Version) | last aired 2026-11-04 00:26 | normal pick from 2026-11-05 12:26 | request now
+OK   The Ray Conniff Singers — Somewhere, My Love (Lara's Theme from "Doctor Zhivago") (Album Version) | last aired 2026-11-04 00:26 | normal pick now | request now
