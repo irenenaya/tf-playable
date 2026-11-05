@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Wed Nov 4, 10:35 PM PST (06:35 UTC Thu)). Times in UTC.
+Track status, artists filed under BE (built Wed Nov 4, 10:45 PM PST (06:45 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Beach House — Bluebird | last aired 2026-11-03 19:24 | normal pick from 2026-11-05 07:24 | request now
@@ -41,13 +41,13 @@ OK   The Beach Boys — Good Vibrations (Stereo/Remastered 2012) | last aired 20
 OK   The Beatles — A Day In The Life (2017 Mix) | last aired 2026-10-30 03:52 | normal pick now | request now
 OK   The Beatles — Get Back (2021 Mix) | last aired 2026-10-30 19:43 | normal pick now | request now
 OK   The Beatles — Girl (Remastered) | last aired 2026-10-22 15:02 | normal pick now | request now
-OK   The Beatles — Golden Slumbers (Remastered) | last aired 2026-10-25 23:34 | normal pick now | request now
-OK   The Beatles — Here Comes The Sun (2019 Mix) | last aired 2026-10-30 19:01 | normal pick now | request now
+WAIT The Beatles — Golden Slumbers (Remastered) | last aired 2026-11-05 06:33 | normal pick from 2026-11-06 18:33 | request from 2026-11-06 02:33
+WAIT The Beatles — Here Comes The Sun (2019 Mix) | last aired 2026-11-05 06:35 | normal pick from 2026-11-06 18:35 | request from 2026-11-06 02:35
 OK   The Beatles — Lucy In The Sky With Diamonds (Remastered 2009) | last aired 2026-10-25 20:35 | normal pick now | request now
 OK   The Beatles — Octopus's Garden (Remastered) | last aired 2026-11-02 12:01 | normal pick now | request now
 OK   The Beatles — Rain (Remastered) | last aired 2026-10-23 11:57 | normal pick now | request now
 OK   The Beatles — Revolution 9 (Remastered 2009) | last aired 2026-09-14 19:37 | normal pick now | request now
 WAIT The Beatles — Strawberry Fields Forever | last aired 2026-11-03 19:04 | normal pick from 2026-11-05 07:04 | request now
-OK   The Beatles — This Boy (Remastered) | last aired 2026-10-25 22:25 | normal pick now | request now
+WAIT The Beatles — This Boy (Remastered) | last aired 2026-11-05 06:38 | normal pick from 2026-11-06 18:38 | request from 2026-11-06 02:38
 OK   The Beatles — With A Little Help From My Friends (2017 Mix) | last aired 2026-10-23 09:41 | normal pick now | request now
 WAIT The Beatles — Yesterday (Remastered) | last aired 2026-11-04 10:10 | normal pick from 2026-11-05 22:10 | request now
