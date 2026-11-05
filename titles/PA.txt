@@ -1,4 +1,4 @@
-Track status, song titles filed under PA (built Wed Nov 4, 7:35 PM PST (03:35 UTC Thu)). Times in UTC.
+Track status, song titles filed under PA (built Wed Nov 4, 7:45 PM PST (03:45 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Pac-Man (feat. ScHoolboy Q) — Gorillaz | last aired 2026-10-22 00:14 | normal pick now | request now
@@ -23,4 +23,4 @@ OK   Pata Pata — Miriam Makeba | last aired 2026-10-29 10:21 | normal pick now
 OK   Patient — Playroom | last aired 2026-10-26 15:32 | normal pick now | request now
 OK   Pattern Recognition (feat. ODDEEO) — Neuro-sama | last aired 2026-09-25 15:01 | normal pick now | request now
 OK   Pärt: Für Alina — Alexander Malter | last aired 2026-10-25 18:33 | normal pick now | request now
-WAIT The Path of the Wind (from 'My Neighbor Totoro') — Joe Hisaishi | last aired 2026-11-04 07:43 | normal pick from 2026-11-05 19:43 | request from 2026-11-05 03:43
+WAIT The Path of the Wind (from 'My Neighbor Totoro') — Joe Hisaishi | last aired 2026-11-04 07:43 | normal pick from 2026-11-05 19:43 | request now

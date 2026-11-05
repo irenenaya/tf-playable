@@ -1,4 +1,4 @@
-Track status, artists filed under AN (built Wed Nov 4, 7:35 PM PST (03:35 UTC Thu)). Times in UTC.
+Track status, artists filed under AN (built Wed Nov 4, 7:45 PM PST (03:45 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Ana Sofia Varela — Fado Vadio (Má Fama) | last aired 2026-11-03 00:56 | normal pick now | request now
@@ -12,11 +12,11 @@ WAIT Anita Baker — Angel (LP Version) | last aired 2026-11-04 23:33 | normal p
 OK   Anita Baker — Caught Up in the Rapture (LP Version) | last aired 2026-11-03 00:51 | normal pick now | request now
 OK   Anita Baker — Sweet Love | last aired 2026-11-01 14:05 | normal pick now | request now
 OK   Anne Clark — Hope Road (A-Z Route) | last aired 2026-10-31 09:36 | normal pick now | request now
-OK   Anne Clark — Our Darkness | last aired 2026-10-30 22:55 | normal pick now | request now
+WAIT Anne Clark — Our Darkness | last aired 2026-11-05 03:32 | normal pick from 2026-11-06 15:32 | request from 2026-11-05 23:32
 OK   Annenmaykantereit — Oft gefragt | last aired 2026-11-01 04:18 | normal pick now | request now
 OK   ANNIE — Heartbeat | last aired 2026-11-03 14:24 | normal pick now | request now
 OK   ANORAQUE — Ivy | last aired 2026-11-01 03:45 | normal pick now | request now
 OK   Antonio Campo — I Need You More and More  (Remastered) | last aired 2026-10-31 09:32 | normal pick now | request now
 WAIT Antonio Carlos Jobim — The Girl From Ipanema | last aired 2026-11-03 20:38 | normal pick from 2026-11-05 08:38 | request now
-WAIT Antonio Carlos Jobim — Wave | last aired 2026-11-03 15:41 | normal pick from 2026-11-05 03:41 | request now
+OK   Antonio Carlos Jobim — Wave | last aired 2026-11-03 15:41 | normal pick now | request now
 OK   The Animals — The House of the Rising Sun | last aired 2026-09-29 16:09 | normal pick now | request now
