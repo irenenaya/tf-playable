@@ -1,4 +1,4 @@
-Track status, song titles filed under HO (built Wed Nov 4, 6:15 PM PST (02:15 UTC Thu)). Times in UTC.
+Track status, song titles filed under HO (built Wed Nov 4, 6:25 PM PST (02:25 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Holding — Grouper | last aired 2026-11-03 08:05 | normal pick now | request now
@@ -14,7 +14,7 @@ OK   Hong Kong — Gorillaz | last aired 2026-11-03 06:52 | normal pick now | re
 OK   Hope Road (A-Z Route) — Anne Clark | last aired 2026-10-31 09:36 | normal pick now | request now
 WAIT Hopopono — GoGo Penguin | last aired 2026-11-05 00:12 | normal pick from 2026-11-06 12:12 | request from 2026-11-05 20:12
 OK   Hoppípolla — Sigur Rós | last aired 2026-11-02 10:53 | normal pick now | request now
-WAIT HOT TO GO! — Chappell Roan | last aired 2026-11-03 14:16 | normal pick from 2026-11-05 02:16 | request now
+OK   HOT TO GO! — Chappell Roan | last aired 2026-11-03 14:16 | normal pick now | request now
 WAIT Hotel California  (2013 Remaster) — Eagles | last aired 2026-11-04 16:08 | normal pick from 2026-11-06 04:08 | request from 2026-11-05 12:08
 WAIT Houdini — Dua Lipa | last aired 2026-11-04 15:20 | normal pick from 2026-11-06 03:20 | request from 2026-11-05 11:20
 OK   House of the Rising Sun — Erik Grönwall | last aired 2026-10-24 20:50 | normal pick now | request now
