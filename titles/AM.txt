@@ -1,12 +1,12 @@
-Track status, song titles filed under AM (built Thu Nov 5, 3:05 AM PST (11:05 UTC)). Times in UTC.
+Track status, song titles filed under AM (built Thu Nov 5, 3:15 AM PST (11:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   A Minha Menina — Os Mutantes | last aired 2026-10-26 01:24 | normal pick now | request now
 OK   Am Fenster — City | last aired 2026-10-31 22:39 | normal pick now | request now
-WAIT Amar pelos Dois — Salvador Sobral | last aired 2026-11-03 11:09 | normal pick from 2026-11-05 11:09 | request from 2026-11-05 11:09
+OK   Amar pelos Dois — Salvador Sobral | last aired 2026-11-03 11:09 | normal pick now | request now
 OK   Amaze Amaze Amaze (Life on Erid) (from "Project Hail Mary") — Daniel Pemberton | last aired 2026-11-01 11:49 | normal pick now | request now
 OK   Amazing Grace — The Blind Boys Of Alabama | last aired 2026-11-01 03:08 | normal pick now | request now
-OK   Ambre — Nils Frahm | last aired 2026-11-03 06:26 | normal pick now | request now
+WAIT Ambre — Nils Frahm | last aired 2026-11-05 11:09 | normal pick from 2026-11-07 11:09 | request from 2026-11-07 11:09
 WAIT Amen Brother — The Winstons | last aired 2026-11-04 13:49 | normal pick from 2026-11-06 01:49 | request now
 OK   American Girl — Tom Petty & The Heartbreakers | last aired 2026-10-30 06:20 | normal pick now | request now
 OK   American Idiot (Album Version) — Green Day | last aired 2026-10-28 21:57 | normal pick now | request now
