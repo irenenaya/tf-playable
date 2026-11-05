@@ -1,4 +1,4 @@
-Track status, song titles filed under RO (built Thu Nov 5, 11:55 AM PST (19:55 UTC)). Times in UTC.
+Track status, song titles filed under RO (built Thu Nov 5, 12:05 PM PST (20:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT 'Round Midnight (Remastered 2013) — Thelonious Monk | last aired 2026-11-05 14:48 | normal pick from 2026-11-07 02:48 | request from 2026-11-06 10:48
@@ -7,7 +7,7 @@ OK   Roar — Katy Perry | last aired 2026-10-23 19:38 | normal pick now | reque
 OK   Robbers — The 1975 | last aired 2026-10-25 00:36 | normal pick now | request now
 WAIT Rock And Roll All Nite — Kiss | last aired 2026-11-05 15:17 | normal pick from 2026-11-07 03:17 | request from 2026-11-06 11:17
 OK   Rock On — Michael Damian | last aired 2026-10-29 12:53 | normal pick now | request now
-OK   Rock Steady (Album Version) — Aretha Franklin | last aired 2026-10-22 22:04 | normal pick now | request now
+WAIT Rock Steady (Album Version) — Aretha Franklin | last aired 2026-11-05 19:58 | normal pick from 2026-11-07 07:58 | request from 2026-11-06 15:58
 OK   Rock The Boat — Aaliyah | last aired 2026-10-18 20:50 | normal pick now | request now
 OK   Rock the House — Gorillaz | last aired 2026-10-23 11:41 | normal pick now | request now
 OK   Rock with You (Single Version) — Michael Jackson | last aired 2026-10-29 14:04 | normal pick now | request now
