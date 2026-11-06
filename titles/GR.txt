@@ -1,7 +1,7 @@
-Track status, song titles filed under GR (built Fri Nov 6, 8:35 AM PST (16:35 UTC)). Times in UTC.
+Track status, song titles filed under GR (built Fri Nov 6, 8:45 AM PST (16:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Grace Kelly — MIKA | last aired 2026-10-27 14:39 | normal pick now | request now
+WAIT Grace Kelly — MIKA | last aired 2026-11-06 16:40 | normal pick from 2026-11-08 04:40 | request from 2026-11-07 12:40
 OK   Gracias a la Vida (En Vivo NY) — Mercedes Sosa | last aired 2026-11-03 21:18 | normal pick now | request now
 WAIT Grandpa (Tell Me 'Bout The Good Old Days) — The Judds | last aired 2026-11-05 14:58 | normal pick from 2026-11-07 02:58 | request now
 OK   greedy — Tate McRae | last aired 2026-10-18 03:24 | normal pick now | request now
