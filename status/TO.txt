@@ -1,4 +1,4 @@
-Track status, artists filed under TO (built Fri Nov 6, 1:45 AM PST (09:45 UTC)). Times in UTC.
+Track status, artists filed under TO (built Fri Nov 6, 1:55 AM PST (09:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   toe — Goodbye (Live) | last aired 2026-11-04 19:45 | normal pick now | request now
@@ -28,7 +28,7 @@ OK   Tomohisa Okudo — Always with Me | last aired 2026-10-28 10:05 | normal pi
 OK   Toni Braxton — Un-Break My Heart | last aired 2026-10-27 18:18 | normal pick now | request now
 OK   Tonto's Expanding Head Band — Cybernaut | last aired 2026-11-01 10:51 | normal pick now | request now
 OK   Tony Bennett & Faith Hill — The Way You Look Tonight | last aired 2026-10-26 13:12 | normal pick now | request now
-WAIT TOOL — Lateralus | last aired 2026-11-04 21:51 | normal pick from 2026-11-06 09:51 | request now
+OK   TOOL — Lateralus | last aired 2026-11-04 21:51 | normal pick now | request now
 OK   Tori Amos — A Sorta Fairytale (2023 Remaster) | last aired 2026-10-27 05:29 | normal pick now | request now
 OK   Tori Amos — Rattlesnakes | last aired 2026-10-31 23:06 | normal pick now | request now
 OK   Tori Amos — Winter | last aired 2026-10-26 03:47 | normal pick now | request now
