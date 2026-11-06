@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Thu Nov 5, 7:55 PM PST (03:55 UTC Fri)). Times in UTC.
+Track status, artists filed under BE (built Thu Nov 5, 8:05 PM PST (04:05 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Beach House — Bluebird | last aired 2026-11-03 19:24 | normal pick now | request now
@@ -40,7 +40,7 @@ OK   The Beach Boys — God Only Knows (Stereo) | last aired 2026-10-29 03:42 | 
 OK   The Beach Boys — Good Vibrations (Stereo/Remastered 2012) | last aired 2026-10-31 02:11 | normal pick now | request now
 WAIT The Beatles — A Day In The Life (2017 Mix) | last aired 2026-11-05 07:54 | normal pick from 2026-11-06 19:54 | request now
 OK   The Beatles — Get Back (2021 Mix) | last aired 2026-10-30 19:43 | normal pick now | request now
-WAIT The Beatles — Girl (Remastered) | last aired 2026-11-05 08:04 | normal pick from 2026-11-06 20:04 | request from 2026-11-06 04:04
+WAIT The Beatles — Girl (Remastered) | last aired 2026-11-05 08:04 | normal pick from 2026-11-06 20:04 | request now
 WAIT The Beatles — Golden Slumbers (Remastered) | last aired 2026-11-05 06:35 | normal pick from 2026-11-06 18:35 | request now
 WAIT The Beatles — Here Comes The Sun (2019 Mix) | last aired 2026-11-05 06:38 | normal pick from 2026-11-06 18:38 | request now
 WAIT The Beatles — Lucy In The Sky With Diamonds (Remastered 2009) | last aired 2026-11-05 08:39 | normal pick from 2026-11-06 20:39 | request from 2026-11-06 04:39
