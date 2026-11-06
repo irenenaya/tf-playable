@@ -1,4 +1,4 @@
-Track status, song titles filed under RE (built Thu Nov 5, 10:45 PM PST (06:45 UTC Fri)). Times in UTC.
+Track status, song titles filed under RE (built Thu Nov 5, 10:55 PM PST (06:55 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Reason or Rhyme — Bryan Ferry | last aired 2026-10-30 13:15 | normal pick now | request now
@@ -11,7 +11,7 @@ OK   Rehab — Amy Winehouse | last aired 2026-10-29 08:37 | normal pick now | r
 OK   Reminiscing (2002 Digital Remaster) — Little River Band | last aired 2026-10-31 18:50 | normal pick now | request now
 OK   Rent A Wreck — Suburban Kids With Biblical Names | last aired 2026-10-30 11:11 | normal pick now | request now
 WAIT Requiem for Dying Mothers, Pt. 1 — Stars of the Lid | last aired 2026-11-06 06:35 | normal pick from 2026-11-08 06:35 | request from 2026-11-08 06:35
-OK   Requiem for Dying Mothers, Pt. 2 — Stars of the Lid | last aired 2026-11-03 04:49 | normal pick now | request now
+WAIT Requiem for Dying Mothers, Pt. 2 — Stars of the Lid | last aired 2026-11-06 06:42 | normal pick from 2026-11-08 06:42 | request from 2026-11-08 06:42
 OK   Resist The Force — Predatory Meerkats | last aired 2026-10-24 23:27 | normal pick now | request now
 OK   Retrograde — James Blake | last aired 2026-11-04 02:02 | normal pick now | request now
 OK   Revenge of Instinct — Gesu No Kiwami Otome | last aired 2026-10-16 03:03 | normal pick now | request now
