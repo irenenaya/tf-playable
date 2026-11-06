@@ -1,10 +1,10 @@
-Track status, artists filed under MI (built Fri Nov 6, 8:45 AM PST (16:45 UTC)). Times in UTC.
+Track status, artists filed under MI (built Fri Nov 6, 8:55 AM PST (16:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Mica Levi — Love | last aired 2026-10-28 02:44 | normal pick now | request now
 WAIT Michael Brook — Ultramarine | last aired 2026-11-06 14:48 | normal pick from 2026-11-08 02:48 | request from 2026-11-07 10:48
 OK   Michael Bublé — Crazy (with Jon Batiste & Stay Human) (Live) | last aired 2026-10-21 19:42 | normal pick now | request now
-OK   Michael Damian — Rock On | last aired 2026-10-29 12:53 | normal pick now | request now
+WAIT Michael Damian — Rock On | last aired 2026-11-06 16:46 | normal pick from 2026-11-08 04:46 | request from 2026-11-07 12:46
 WAIT Michael Hedges — Aerial Boundaries | last aired 2026-11-06 14:39 | normal pick from 2026-11-08 02:39 | request from 2026-11-07 10:39
 WAIT Michael Hutchence — Slide Away | last aired 2026-11-06 14:44 | normal pick from 2026-11-08 02:44 | request from 2026-11-07 10:44
 WAIT Michael Jackson — Jam | last aired 2026-11-06 14:53 | normal pick from 2026-11-08 02:53 | request from 2026-11-07 10:53
@@ -22,7 +22,7 @@ OK   Mikis Theodorakis — Zorba the Greek: Zorba's Dance | last aired 2026-11-0
 OK   Miles Davis — Blue in Green | last aired 2026-11-03 20:27 | normal pick now | request now
 OK   Miles Davis — Flamenco Sketches | last aired 2026-11-03 20:40 | normal pick now | request now
 WAIT Miles Davis — So What | last aired 2026-11-06 16:28 | normal pick from 2026-11-08 04:28 | request from 2026-11-07 12:28
-OK   Miley Cyrus — Flowers | last aired 2026-10-23 19:34 | normal pick now | request now
+WAIT Miley Cyrus — Flowers | last aired 2026-11-06 16:43 | normal pick from 2026-11-08 04:43 | request from 2026-11-07 12:43
 OK   Miley Cyrus — Party In The U.S.A. | last aired 2026-10-24 21:54 | normal pick now | request now
 OK   Milt Jackson — Bag's New Groove | last aired 2026-11-04 15:09 | normal pick now | request now
 OK   Milton Nascimento — Bridges (Travessia) | last aired 2026-11-04 03:39 | normal pick now | request now
