@@ -1,4 +1,4 @@
-Track status, artists filed under AL (built Thu Nov 5, 11:45 PM PST (07:45 UTC Fri)). Times in UTC.
+Track status, artists filed under AL (built Thu Nov 5, 11:55 PM PST (07:55 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Al Di Meola — Double Concerto | last aired 2026-11-02 16:39 | normal pick now | request now
@@ -21,10 +21,10 @@ OK   Alestorm — Keelhauled | last aired 2026-11-03 11:56 | normal pick now | r
 OK   Alex Andre — thanks, my day is ruined | last aired 2026-10-25 13:48 | normal pick now | request now
 OK   Alexander Malter — Pärt: Für Alina | last aired 2026-10-25 18:33 | normal pick now | request now
 OK   Alexander Rybak — Fairytale | last aired 2026-11-01 16:20 | normal pick now | request now
-OK   Alexandre Tharaud — Gnossienne No.1 - Gnossienne: No. 1 | last aired 2026-11-03 16:18 | normal pick now | request now
+WAIT Alexandre Tharaud — Gnossienne No.1 - Gnossienne: No. 1 | last aired 2026-11-06 07:51 | normal pick from 2026-11-08 07:51 | request from 2026-11-08 07:51
 OK   Alexi Murdoch — Orange Sky | last aired 2026-11-04 08:53 | normal pick now | request now
 OK   Alfa Mist — Organic Rust | last aired 2026-11-02 04:58 | normal pick now | request now
-OK   Ali Farka Touré — Soukora | last aired 2026-11-04 02:59 | normal pick now | request now
+WAIT Ali Farka Touré — Soukora | last aired 2026-11-06 07:45 | normal pick from 2026-11-08 07:45 | request from 2026-11-08 07:45
 WAIT Alice Coltrane — Journey In Satchidananda | last aired 2026-11-06 07:34 | normal pick from 2026-11-07 19:34 | request from 2026-11-07 03:34
 OK   Alice In Chains — Man in the Box | last aired 2026-11-03 14:29 | normal pick now | request now
 OK   Alicia Keys — Fallin' (Album Version) | last aired 2026-11-02 08:39 | normal pick now | request now
