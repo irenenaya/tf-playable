@@ -1,4 +1,4 @@
-Track status, song titles filed under HO (built Fri Nov 6, 11:15 AM PST (19:15 UTC)). Times in UTC.
+Track status, song titles filed under HO (built Fri Nov 6, 11:25 AM PST (19:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Holding — Grouper | last aired 2026-11-03 08:05 | normal pick now | request now
@@ -7,7 +7,7 @@ OK   Holiday (Remastered 2015) — Scorpions | last aired 2026-10-26 01:17 | nor
 WAIT Holiday — Madonna | last aired 2026-11-05 13:58 | normal pick from 2026-11-07 01:58 | request now
 WAIT Holocene — Bon Iver | last aired 2026-11-06 00:46 | normal pick from 2026-11-08 00:46 | request from 2026-11-08 00:46
 OK   Holy Water (Album Version) — Soundgarden | last aired 2026-11-04 21:34 | normal pick now | request now
-OK   Home At Last — Steely Dan | last aired 2026-11-04 14:59 | normal pick now | request now
+WAIT Home At Last — Steely Dan | last aired 2026-11-06 19:20 | normal pick from 2026-11-08 07:20 | request from 2026-11-07 15:20
 WAIT Honesty (Album Version) — Billy Joel | last aired 2026-11-06 03:32 | normal pick from 2026-11-08 03:32 | request from 2026-11-08 03:32
 OK   Honey Bones — Dope Lemon | last aired 2026-10-31 20:02 | normal pick now | request now
 WAIT Hong Kong — Gorillaz | last aired 2026-11-05 21:22 | normal pick from 2026-11-07 09:22 | request now
