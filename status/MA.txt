@@ -1,4 +1,4 @@
-Track status, artists filed under MA (built Fri Nov 6, 12:45 AM PST (08:45 UTC)). Times in UTC.
+Track status, artists filed under MA (built Fri Nov 6, 12:55 AM PST (08:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   M/A/R/R/S — Pump Up The Volume (UK 12" Remix) | last aired 2026-11-02 23:55 | normal pick now | request now
@@ -38,7 +38,7 @@ OK   Marty Friedman — Senbonzakura | last aired 2026-10-29 00:08 | normal pick
 WAIT Marvin Gaye — Distant Lover | last aired 2026-11-04 21:39 | normal pick from 2026-11-06 21:39 | request from 2026-11-06 21:39
 OK   Marvin Gaye — I Heard It Through The Grapevine (SACD Stereo) | last aired 2026-11-02 20:29 | normal pick now | request now
 OK   Marvin Gaye — Inner City Blues (Make Me Wanna Holler) | last aired 2026-11-04 18:02 | normal pick now | request now
-WAIT Marvin Gaye — Let's Get It On | last aired 2026-11-04 20:49 | normal pick from 2026-11-06 08:49 | request now
+OK   Marvin Gaye — Let's Get It On | last aired 2026-11-04 20:49 | normal pick now | request now
 WAIT Marvin Gaye — Mercy Mercy Me (The Ecology) | last aired 2026-11-05 09:17 | normal pick from 2026-11-06 21:17 | request now
 OK   Marvin Gaye — Save The Children | last aired 2026-10-31 17:20 | normal pick now | request now
 OK   Marvin Gaye — Sexual Healing (Album Version) | last aired 2026-11-02 20:07 | normal pick now | request now
@@ -48,7 +48,7 @@ WAIT Mary Halvorson — About Ghosts | last aired 2026-11-05 10:41 | normal pick
 OK   Masego — Tadow | last aired 2026-11-04 18:11 | normal pick now | request now
 WAIT Massive Attack — Angel | last aired 2026-11-05 07:10 | normal pick from 2026-11-07 07:10 | request from 2026-11-07 07:10
 OK   Massive Attack — Protection | last aired 2026-11-04 07:58 | normal pick now | request now
-WAIT Massive Attack — Teardrop | last aired 2026-11-04 08:48 | normal pick from 2026-11-06 08:48 | request from 2026-11-06 08:48
+OK   Massive Attack — Teardrop | last aired 2026-11-04 08:48 | normal pick now | request now
 OK   Massive Attack — Unfinished Sympathy (2012 Mix/Master) | last aired 2026-11-04 08:33 | normal pick now | request now
 OK   Matt Nathanson — All We Are | last aired 2026-10-31 08:41 | normal pick now | request now
 OK   Matt Nathanson — Come On Get Higher | last aired 2026-10-26 14:17 | normal pick now | request now
