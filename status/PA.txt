@@ -1,4 +1,4 @@
-Track status, artists filed under PA (built Fri Nov 6, 12:45 PM PST (20:45 UTC)). Times in UTC.
+Track status, artists filed under PA (built Fri Nov 6, 12:55 PM PST (20:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Paco de Lucía — Entre Dos Aguas | last aired 2026-11-04 00:28 | normal pick now | request now
@@ -6,9 +6,9 @@ OK   Paco de Lucía — Mediterranean sundance - Di Meola: Mediterranean sundanc
 OK   Pages — If I Saw You Again (Album Version) | last aired 2026-11-04 10:37 | normal pick now | request now
 OK   Pale Saints — Kinky Love | last aired 2026-11-05 04:14 | normal pick now | request now
 OK   Paolo Conte — Via Con Me | last aired 2026-11-04 00:34 | normal pick now | request now
-WAIT Papa Roach — Last Resort | last aired 2026-11-05 08:53 | normal pick from 2026-11-06 20:53 | request now
+OK   Papa Roach — Last Resort | last aired 2026-11-05 08:53 | normal pick now | request now
 OK   Papooz — You and I | last aired 2026-11-04 10:34 | normal pick now | request now
-WAIT Paramore — Thick Skull | last aired 2026-11-05 08:49 | normal pick from 2026-11-06 20:49 | request now
+OK   Paramore — Thick Skull | last aired 2026-11-05 08:49 | normal pick now | request now
 OK   Parcels — Overnight - from Hansa Studios, Berlin | last aired 2026-11-04 18:33 | normal pick now | request now
 OK   Parliament — Give Up The Funk (Tear The Roof Off The Sucker) | last aired 2026-11-04 17:36 | normal pick now | request now
 OK   Patrick Watson — Sit Down Beside Me | last aired 2026-11-05 02:09 | normal pick now | request now
