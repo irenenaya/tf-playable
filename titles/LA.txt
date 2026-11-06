@@ -1,4 +1,4 @@
-Track status, song titles filed under LA (built Fri Nov 6, 3:25 AM PST (11:25 UTC)). Times in UTC.
+Track status, song titles filed under LA (built Fri Nov 6, 3:35 AM PST (11:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   L'Amour Looks Something Like You (2018 Remaster) — Kate Bush | last aired 2026-10-24 05:27 | normal pick now | request now
@@ -6,7 +6,7 @@ OK   La bonne étoile (Live 2020) — -M- | last aired 2026-10-25 19:04 | normal
 WAIT La chanson des vieux amants — Melody Gardot | last aired 2026-11-06 08:08 | normal pick from 2026-11-07 20:08 | request from 2026-11-07 04:08
 WAIT La femme d'argent — Air | last aired 2026-11-05 10:04 | normal pick from 2026-11-07 10:04 | request from 2026-11-07 10:04
 OK   La Fontaine De Sang — The Vampire Lestat | last aired 2026-10-26 01:58 | normal pick now | request now
-OK   La llorona — Chavela Vargas | last aired 2026-11-04 15:42 | normal pick now | request now
+WAIT La llorona — Chavela Vargas | last aired 2026-11-06 11:24 | normal pick from 2026-11-07 23:24 | request from 2026-11-07 07:24
 OK   La Mentira — Luis Miguel | last aired 2026-11-02 19:14 | normal pick now | request now
 OK   La Negra Tomasa (Bilongo - Version Tropical) — Caifanes | last aired 2026-11-02 15:52 | normal pick now | request now
 OK   La petite fille de la mer — Vangelis | last aired 2026-10-30 08:28 | normal pick now | request now
