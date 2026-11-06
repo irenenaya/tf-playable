@@ -1,4 +1,4 @@
-Track status, song titles filed under AN (built Fri Nov 6, 6:25 AM PST (14:25 UTC)). Times in UTC.
+Track status, song titles filed under AN (built Fri Nov 6, 6:35 AM PST (14:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   An Ending (Ascent) (Remastered 2019) — Brian Eno | last aired 2026-11-04 07:36 | normal pick now | request now
@@ -19,7 +19,7 @@ OK   Another Brick in the Wall, Pt. 2 — Pink Floyd | last aired 2026-10-31 22:
 OK   Another One Bites The Dust — Queen | last aired 2026-10-29 01:15 | normal pick now | request now
 OK   Answering Machine — The Replacements | last aired 2026-11-01 04:55 | normal pick now | request now
 OK   Anthem for the Year 2000 (Album Version) — Silverchair | last aired 2026-10-27 13:57 | normal pick now | request now
-OK   Anthem — Leonard Cohen | last aired 2026-11-04 08:18 | normal pick now | request now
+WAIT Anthem — Leonard Cohen | last aired 2026-11-06 14:22 | normal pick from 2026-11-08 02:22 | request from 2026-11-07 10:22
 OK   ANTONYMPH — Vylet Pony | last aired 2026-10-18 11:03 | normal pick now | request now
 WAIT Ants In My Room — Carter Vail | last aired 2026-11-05 10:01 | normal pick from 2026-11-06 22:01 | request now
 OK   Any Time, Any Place — Janet Jackson | last aired 2026-11-04 11:24 | normal pick now | request now
