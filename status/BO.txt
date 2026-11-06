@@ -1,9 +1,9 @@
-Track status, artists filed under BO (built Thu Nov 5, 6:25 PM PST (02:25 UTC Fri)). Times in UTC.
+Track status, artists filed under BO (built Thu Nov 5, 6:35 PM PST (02:35 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Boards of Canada — Blood In The Labyrinth | last aired 2026-11-02 21:51 | normal pick now | request now
 WAIT Boards of Canada — Dayvan Cowboy | last aired 2026-11-04 12:05 | normal pick from 2026-11-06 12:05 | request from 2026-11-06 12:05
-OK   Boards of Canada — Olson | last aired 2026-11-04 12:05 | normal pick now | request now
+WAIT Boards of Canada — Olson | last aired 2026-11-06 02:23 | normal pick from 2026-11-07 14:23 | request from 2026-11-06 22:23
 WAIT Boards of Canada — Roygbiv | last aired 2026-11-05 12:13 | normal pick from 2026-11-07 00:13 | request from 2026-11-06 08:13
 WAIT Bob Dylan — Girl from the North Country | last aired 2026-11-06 00:52 | normal pick from 2026-11-08 00:52 | request from 2026-11-08 00:52
 OK   Bob Dylan — The Lonesome Death of Hattie Carroll | last aired 2026-11-04 12:50 | normal pick now | request now
@@ -11,7 +11,7 @@ WAIT Bob Marley & The Wailers — Get Up, Stand Up | last aired 2026-11-05 12:57
 WAIT Bobby Caldwell — Coming Down from Love | last aired 2026-11-05 12:49 | normal pick from 2026-11-07 12:49 | request from 2026-11-07 12:49
 WAIT Bobby Caldwell — What You Won't Do for Love | last aired 2026-11-06 00:08 | normal pick from 2026-11-08 00:08 | request from 2026-11-08 00:08
 WAIT Bobby Darin — Beyond the Sea | last aired 2026-11-05 13:20 | normal pick from 2026-11-07 01:20 | request from 2026-11-06 09:20
-OK   Bobby Hutcherson — Stardust | last aired 2026-11-04 11:39 | normal pick now | request now
+WAIT Bobby Hutcherson — Stardust | last aired 2026-11-06 02:25 | normal pick from 2026-11-07 14:25 | request from 2026-11-06 22:25
 WAIT Bobby McFerrin — Common Threads | last aired 2026-11-05 12:39 | normal pick from 2026-11-07 00:39 | request from 2026-11-06 08:39
 WAIT Bobby McFerrin — Don't Worry Be Happy | last aired 2026-11-05 13:23 | normal pick from 2026-11-07 01:23 | request from 2026-11-06 09:23
 WAIT Bobby Vinton — Blue Velvet | last aired 2026-11-05 13:00 | normal pick from 2026-11-07 01:00 | request from 2026-11-06 09:00
