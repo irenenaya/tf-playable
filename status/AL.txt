@@ -1,13 +1,13 @@
-Track status, artists filed under AL (built Fri Nov 6, 11:45 AM PST (19:45 UTC)). Times in UTC.
+Track status, artists filed under AL (built Fri Nov 6, 11:55 AM PST (19:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Al Di Meola — Double Concerto | last aired 2026-11-02 16:39 | normal pick now | request now
+WAIT Al Di Meola — Double Concerto | last aired 2026-11-06 19:51 | normal pick from 2026-11-08 07:51 | request from 2026-11-07 15:51
 WAIT Al Di Meola — Libertango | last aired 2026-11-06 00:03 | normal pick from 2026-11-07 12:03 | request from 2026-11-06 20:03
 WAIT Al Di Meola — Passion, Grace & Fire (Album Version) | last aired 2026-11-06 06:18 | normal pick from 2026-11-07 18:18 | request from 2026-11-07 02:18
 WAIT Al Di Meola — Red Moon | last aired 2026-11-06 04:05 | normal pick from 2026-11-07 16:05 | request from 2026-11-07 00:05
 WAIT Al Green — Let's Stay Together | last aired 2026-11-05 11:23 | normal pick from 2026-11-07 11:23 | request from 2026-11-07 11:23
 WAIT Al Green — Love and Happiness | last aired 2026-11-06 02:48 | normal pick from 2026-11-08 02:48 | request from 2026-11-08 02:48
-OK   Al Green — Simply Beautiful | last aired 2026-11-04 18:25 | normal pick now | request now
+WAIT Al Green — Simply Beautiful | last aired 2026-11-06 19:42 | normal pick from 2026-11-08 19:42 | request from 2026-11-08 19:42
 WAIT Al Green — The Lord Will Make a Way | last aired 2026-11-05 20:57 | normal pick from 2026-11-07 08:57 | request now
 WAIT Al Stewart — Year of the Cat | last aired 2026-11-05 11:27 | normal pick from 2026-11-07 11:27 | request from 2026-11-07 11:27
 OK   Alabama 3 — Sad Eyed Lady Of The Low Life | last aired 2026-11-04 01:36 | normal pick now | request now
@@ -16,7 +16,7 @@ WAIT Alabama 3 — Woke Up This Morning | last aired 2026-11-06 02:44 | normal p
 WAIT Albert Hammond — When I'm Gone | last aired 2026-11-06 01:28 | normal pick from 2026-11-08 01:28 | request from 2026-11-08 01:28
 WAIT Albert King — Born Under A Bad Sign | last aired 2026-11-06 10:53 | normal pick from 2026-11-07 22:53 | request from 2026-11-07 06:53
 OK   Alestorm — Captain Morgan`s Revenge | last aired 2026-11-01 10:14 | normal pick now | request now
-OK   Alestorm — Drink | last aired 2026-11-02 02:29 | normal pick now | request now
+WAIT Alestorm — Drink | last aired 2026-11-06 19:47 | normal pick from 2026-11-08 07:47 | request from 2026-11-07 15:47
 OK   Alestorm — Keelhauled | last aired 2026-11-03 11:56 | normal pick now | request now
 OK   Alex Andre — thanks, my day is ruined | last aired 2026-10-25 13:48 | normal pick now | request now
 OK   Alexander Malter — Pärt: Für Alina | last aired 2026-10-25 18:33 | normal pick now | request now
