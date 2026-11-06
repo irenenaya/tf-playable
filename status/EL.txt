@@ -1,4 +1,4 @@
-Track status, artists filed under EL (built Fri Nov 6, 4:55 AM PST (12:55 UTC)). Times in UTC.
+Track status, artists filed under EL (built Fri Nov 6, 5:05 AM PST (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Electric Light Orchestra — Evil Woman | last aired 2026-11-04 23:23 | normal pick now | request now
@@ -7,10 +7,10 @@ WAIT Electric Light Orchestra — Yours Truly, 2095 | last aired 2026-11-05 04:0
 WAIT Elis Regina — Águas De Marco | last aired 2026-11-05 20:53 | normal pick from 2026-11-07 20:53 | request from 2026-11-07 20:53
 WAIT Ella Fitzgerald — Bewitched, Bothered And Bewildered | last aired 2026-11-05 02:17 | normal pick from 2026-11-06 14:17 | request now
 WAIT Ella Fitzgerald — Bewitched, Bothered And Bewildered (Ella Fitzgerald and Her Famous Orchestra Bewitched, Bothered And Bewildered) | last aired 2026-11-05 15:24 | normal pick from 2026-11-07 03:24 | request now
-OK   Ella Fitzgerald — Summertime | last aired 2026-11-04 15:23 | normal pick now | request now
-OK   Elliott Smith — Angeles | last aired 2026-11-03 19:12 | normal pick now | request now
+WAIT Ella Fitzgerald — Summertime | last aired 2026-11-06 12:52 | normal pick from 2026-11-08 00:52 | request from 2026-11-07 08:52
+WAIT Elliott Smith — Angeles | last aired 2026-11-06 12:57 | normal pick from 2026-11-08 12:57 | request from 2026-11-08 12:57
 WAIT Elliott Smith — Independence Day | last aired 2026-11-05 00:39 | normal pick from 2026-11-07 00:39 | request from 2026-11-07 00:39
-OK   Elton John — Rocket Man (I Think It's Going To Be A Long, Long Time) | last aired 2026-11-03 23:20 | normal pick now | request now
+WAIT Elton John — Rocket Man (I Think It's Going To Be A Long, Long Time) | last aired 2026-11-06 13:00 | normal pick from 2026-11-08 13:00 | request from 2026-11-08 13:00
 WAIT Eluvium — Indoor Swimming At The Space Station | last aired 2026-11-06 12:41 | normal pick from 2026-11-08 00:41 | request from 2026-11-07 08:41
 OK   Eluvium — Surrounded by Illusion | last aired 2026-11-02 06:50 | normal pick now | request now
 OK   Eluvium — Taken | last aired 2026-11-02 21:25 | normal pick now | request now
