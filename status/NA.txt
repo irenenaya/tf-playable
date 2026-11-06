@@ -1,4 +1,4 @@
-Track status, artists filed under NA (built Fri Nov 6, 6:55 AM PST (14:55 UTC)). Times in UTC.
+Track status, artists filed under NA (built Fri Nov 6, 7:05 AM PST (15:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Nancy Wilson — Guess Who I Saw Today | last aired 2026-11-06 09:26 | normal pick from 2026-11-07 21:26 | request from 2026-11-07 05:26
@@ -10,8 +10,8 @@ WAIT Nat King Cole — Autumn Leaves | last aired 2026-11-06 09:23 | normal pick
 OK   Nat King Cole — L-O-V-E | last aired 2026-11-05 01:31 | normal pick now | request now
 WAIT Nat King Cole — Nature Boy | last aired 2026-11-06 09:20 | normal pick from 2026-11-07 21:20 | request from 2026-11-07 05:20
 WAIT Natalie Cole — At Last | last aired 2026-11-06 09:32 | normal pick from 2026-11-07 21:32 | request from 2026-11-07 05:32
-WAIT Natalie Imbruglia — Torn | last aired 2026-11-05 02:20 | normal pick from 2026-11-07 02:20 | request from 2026-11-07 02:20
-WAIT Nation of Language — Weak In Your Light | last aired 2026-11-05 02:58 | normal pick from 2026-11-06 14:58 | request now
+OK   Natalie Imbruglia — Torn | last aired 2026-11-05 02:20 | normal pick now | request now
+OK   Nation of Language — Weak In Your Light | last aired 2026-11-05 02:58 | normal pick now | request now
 OK   Nattalia Sarria — Last Summer Whisper (From "Anri") | last aired 2026-08-02 19:45 | normal pick now | request now
 WAIT The National — About Today (2021 Remaster) | last aired 2026-11-05 11:05 | normal pick from 2026-11-06 23:05 | request now
 OK   The National — Bloodbuzz Ohio (Live in Rome) | last aired 2026-11-03 13:20 | normal pick now | request now
