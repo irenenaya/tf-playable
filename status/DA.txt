@@ -1,12 +1,12 @@
-Track status, artists filed under DA (built Thu Nov 5, 6:45 PM PST (02:45 UTC Fri)). Times in UTC.
+Track status, artists filed under DA (built Thu Nov 5, 6:55 PM PST (02:55 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   D'Angelo — Untitled (How Does It Feel) | last aired 2026-11-03 02:17 | normal pick now | request now
 WAIT Daft Punk — Around the World | last aired 2026-11-04 22:21 | normal pick from 2026-11-06 10:21 | request now
-WAIT Daft Punk — Face to Face | last aired 2026-11-04 14:55 | normal pick from 2026-11-06 02:55 | request now
+OK   Daft Punk — Face to Face | last aired 2026-11-04 14:55 | normal pick now | request now
 WAIT Daft Punk feat. Julian Casablancas — Instant Crush (feat. Julian Casablancas) | last aired 2026-11-04 22:39 | normal pick from 2026-11-06 10:39 | request now
 WAIT Daft Punk — Harder, Better, Faster, Stronger | last aired 2026-11-04 22:35 | normal pick from 2026-11-06 10:35 | request now
-WAIT Daft Punk — One More Time | last aired 2026-11-04 14:46 | normal pick from 2026-11-06 02:46 | request now
+OK   Daft Punk — One More Time | last aired 2026-11-04 14:46 | normal pick now | request now
 WAIT Daft Punk — Something About Us | last aired 2026-11-04 22:31 | normal pick from 2026-11-06 10:31 | request now
 OK   Daft Punk — Touch It / Technologic | last aired 2026-11-03 13:58 | normal pick now | request now
 WAIT Daft Punk — Voyager | last aired 2026-11-04 22:16 | normal pick from 2026-11-06 10:16 | request now
@@ -17,7 +17,7 @@ OK   Damien Rice — The Blower's Daughter | last aired 2026-11-03 19:39 | norma
 OK   Daniel Barenboim — Nocturne n° 2 in E flat, op. 9 n° 2 - Nocturne No. 2 in E-Flat Major, Op. 9 No. 2 | last aired 2026-11-01 06:18 | normal pick now | request now
 OK   Daniel Pemberton — Amaze Amaze Amaze (Life on Erid) (from "Project Hail Mary") | last aired 2026-11-01 11:49 | normal pick now | request now
 OK   Dara — Bangaranga | last aired 2026-11-02 14:36 | normal pick now | request now
-WAIT Darude — Sandstorm | last aired 2026-11-04 14:51 | normal pick from 2026-11-06 02:51 | request now
+OK   Darude — Sandstorm | last aired 2026-11-04 14:51 | normal pick now | request now
 OK   Daryl Hall & John Oates — I Can't Go For That (No Can Do) (Remastered 2003) | last aired 2026-11-02 13:01 | normal pick now | request now
 OK   Dasha — Austin (Boots Stop Workin') | last aired 2026-10-25 15:29 | normal pick now | request now
 OK   Database — Vice II | last aired 2026-10-09 11:05 | normal pick now | request now

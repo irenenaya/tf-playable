@@ -1,4 +1,4 @@
-Track status, song titles filed under SA (built Thu Nov 5, 6:45 PM PST (02:45 UTC Fri)). Times in UTC.
+Track status, song titles filed under SA (built Thu Nov 5, 6:55 PM PST (02:55 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Sabotage — Beastie Boys | last aired 2026-10-28 21:54 | normal pick now | request now
@@ -15,7 +15,7 @@ WAIT saman — Ólafur Arnalds | last aired 2026-11-05 05:53 | normal pick from 
 WAIT Samba Da Benção — Bebel Gilberto | last aired 2026-11-04 17:04 | normal pick from 2026-11-06 17:04 | request from 2026-11-06 17:04
 WAIT Samba Pa Ti — Santana | last aired 2026-11-05 22:05 | normal pick from 2026-11-07 22:05 | request from 2026-11-07 22:05
 OK   Same — Smith & Mighty | last aired 2026-10-24 17:26 | normal pick now | request now
-WAIT Sandstorm — Darude | last aired 2026-11-04 14:51 | normal pick from 2026-11-06 02:51 | request now
+OK   Sandstorm — Darude | last aired 2026-11-04 14:51 | normal pick now | request now
 WAIT Santa María (del Buen Ayre) — Gotan Project | last aired 2026-11-05 08:43 | normal pick from 2026-11-07 08:43 | request from 2026-11-07 08:43
 OK   Sanvean - I Am Your Shadow — Lisa Gerrard | last aired 2026-10-29 16:43 | normal pick now | request now
 WAIT Sara — Fleetwood Mac | last aired 2026-11-06 00:55 | normal pick from 2026-11-08 00:55 | request from 2026-11-08 00:55
