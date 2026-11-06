@@ -1,9 +1,9 @@
-Track status, song titles filed under AL (built Fri Nov 6, 3:05 AM PST (11:05 UTC)). Times in UTC.
+Track status, song titles filed under AL (built Fri Nov 6, 3:15 AM PST (11:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   A Life (1895 - 1915) — Mark Hollis | last aired 2026-11-02 15:33 | normal pick now | request now
 OK   A Little Lost — Peter Broderick | last aired 2026-11-04 06:45 | normal pick now | request now
-WAIT Albatross — Fleetwood Mac | last aired 2026-11-04 23:12 | normal pick from 2026-11-06 11:12 | request now
+OK   Albatross — Fleetwood Mac | last aired 2026-11-04 23:12 | normal pick now | request now
 OK   Algorithm — Heejin | last aired 2026-10-29 10:25 | normal pick now | request now
 OK   Alien Observer — Grouper | last aired 2026-10-30 09:06 | normal pick now | request now
 OK   Alison — Slowdive | last aired 2026-11-02 08:12 | normal pick now | request now
@@ -15,7 +15,7 @@ WAIT All Melody — Nils Frahm | last aired 2026-11-06 02:30 | normal pick from 
 WAIT All My Little Words — The Magnetic Fields | last aired 2026-11-05 09:25 | normal pick from 2026-11-06 21:25 | request now
 OK   All Star (Album Version) — Smash Mouth | last aired 2026-10-24 18:00 | normal pick now | request now
 OK   All Summer — YASSiN & Sean Terrio | last aired 2026-10-15 21:52 | normal pick now | request now
-WAIT All The Small Things — blink-182 | last aired 2026-11-04 23:15 | normal pick from 2026-11-06 11:15 | request now
+OK   All The Small Things — blink-182 | last aired 2026-11-04 23:15 | normal pick now | request now
 OK   All The Way — Kat Edmonson | last aired 2026-10-29 17:30 | normal pick now | request now
 OK   All Through the Night — Cyndi Lauper | last aired 2026-10-14 22:47 | normal pick now | request now
 OK   All We Are — Matt Nathanson | last aired 2026-10-31 08:41 | normal pick now | request now

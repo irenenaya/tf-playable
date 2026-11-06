@@ -1,4 +1,4 @@
-Track status, song titles filed under ME (built Fri Nov 6, 3:05 AM PST (11:05 UTC)). Times in UTC.
+Track status, song titles filed under ME (built Fri Nov 6, 3:15 AM PST (11:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Me and Bobby McGee — Janis Joplin | last aired 2026-11-04 11:31 | normal pick now | request now
@@ -15,4 +15,4 @@ WAIT Mercy Mercy Me (The Ecology) — Marvin Gaye | last aired 2026-11-05 09:17 
 WAIT Merry Christmas Mr. Lawrence — Ryuichi Sakamoto | last aired 2026-11-05 06:16 | normal pick from 2026-11-06 18:16 | request now
 WAIT Merry-Go-Round of Life (from 'Howl’s Moving Castle') — Joe Hisaishi | last aired 2026-11-06 10:22 | normal pick from 2026-11-07 22:22 | request from 2026-11-07 06:22
 OK   Message In A Bottle (Remastered 2003) — The Police | last aired 2026-10-29 17:44 | normal pick now | request now
-WAIT Messages from the Stars (Remaster) — The Rah Band | last aired 2026-11-04 23:09 | normal pick from 2026-11-06 11:09 | request now
+OK   Messages from the Stars (Remaster) — The Rah Band | last aired 2026-11-04 23:09 | normal pick now | request now
