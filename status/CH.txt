@@ -1,4 +1,4 @@
-Track status, artists filed under CH (built Fri Nov 6, 3:45 AM PST (11:45 UTC)). Times in UTC.
+Track status, artists filed under CH (built Fri Nov 6, 3:55 AM PST (11:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Chaka Khan — What Cha' Gonna Do for Me | last aired 2026-11-04 23:40 | normal pick now | request now
@@ -30,7 +30,7 @@ WAIT Chris Isaak — Blue Hotel (Remastered Album Version) | last aired 2026-11-
 OK   Chris Isaak — Wicked Game (Remastered Album Version) | last aired 2026-10-30 19:49 | normal pick now | request now
 OK   Chris Snelling — Le onde | last aired 2026-11-04 09:15 | normal pick now | request now
 WAIT Chris Whitley — Big Sky Country (Album Version) | last aired 2026-11-06 11:36 | normal pick from 2026-11-07 23:36 | request from 2026-11-07 07:36
-OK   Christian Löffler — Lid | last aired 2026-11-01 12:36 | normal pick now | request now
+WAIT Christian Löffler — Lid | last aired 2026-11-06 11:45 | normal pick from 2026-11-07 23:45 | request from 2026-11-07 07:45
 OK   Christina Aguilera — Genie In a Bottle | last aired 2026-10-30 14:20 | normal pick now | request now
 OK   Christopher Cross — I Really Don't Know Anymore (2019 Remaster) | last aired 2026-10-31 01:35 | normal pick now | request now
 OK   Christopher Cross — Ride Like the Wind (Album Version) | last aired 2026-10-31 11:00 | normal pick now | request now
@@ -38,5 +38,5 @@ WAIT Christopher Cross — Sailing | last aired 2026-11-06 11:41 | normal pick f
 OK   Chuck Berry — Johnny B. Goode | last aired 2026-11-03 12:08 | normal pick now | request now
 OK   Chuck Mangione — Feels So Good | last aired 2026-10-30 05:38 | normal pick now | request now
 OK   CHVRCHES — Clearest Blue | last aired 2026-10-25 00:49 | normal pick now | request now
-OK   The Chills — Pink Frost | last aired 2026-11-01 03:38 | normal pick now | request now
+WAIT The Chills — Pink Frost | last aired 2026-11-06 11:51 | normal pick from 2026-11-07 23:51 | request from 2026-11-07 07:51
 OK   The Chordettes — Mr. Sandman | last aired 2026-10-18 04:36 | normal pick now | request now
