@@ -1,9 +1,9 @@
-Track status, artists filed under NE (built Fri Nov 6, 3:25 PM PST (23:25 UTC)). Times in UTC.
+Track status, artists filed under NE (built Fri Nov 6, 3:35 PM PST (23:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Neil Diamond — Be (Introduction Of Jonathan) | last aired 2026-11-06 17:39 | normal pick from 2026-11-08 05:39 | request from 2026-11-07 13:39
 WAIT Neil Diamond — Sweet Caroline | last aired 2026-11-05 12:53 | normal pick from 2026-11-07 00:53 | request now
-WAIT Neil Young — Harvest Moon (Album Version) | last aired 2026-11-05 11:34 | normal pick from 2026-11-06 23:34 | request now
+OK   Neil Young — Harvest Moon (Album Version) | last aired 2026-11-05 11:34 | normal pick now | request now
 WAIT Neil Young — Heart of Gold | last aired 2026-11-05 12:16 | normal pick from 2026-11-07 00:16 | request now
 WAIT Nek — Fatti avanti amore (feat. Jovanotti) (5030 version) | last aired 2026-11-05 21:53 | normal pick from 2026-11-07 09:53 | request now
 OK   Nekrogoblikon — No One Survives | last aired 2026-10-20 23:00 | normal pick now | request now

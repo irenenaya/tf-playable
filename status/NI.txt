@@ -1,7 +1,7 @@
-Track status, artists filed under NI (built Fri Nov 6, 3:25 PM PST (23:25 UTC)). Times in UTC.
+Track status, artists filed under NI (built Fri Nov 6, 3:35 PM PST (23:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Nick Cave & The Bad Seeds — (I'll Love You) Till The End Of The World | last aired 2026-11-04 16:55 | normal pick now | request now
+WAIT Nick Cave & The Bad Seeds — (I'll Love You) Till The End Of The World | last aired 2026-11-06 23:25 | normal pick from 2026-11-08 23:25 | request from 2026-11-08 23:25
 WAIT Nick Cave & The Bad Seeds — Henry Lee (Remastered 2011) | last aired 2026-11-06 05:10 | normal pick from 2026-11-08 05:10 | request from 2026-11-08 05:10
 WAIT Nick Drake — Northern Sky | last aired 2026-11-05 13:27 | normal pick from 2026-11-07 13:27 | request from 2026-11-07 13:27
 WAIT Nick Drake — Pink Moon | last aired 2026-11-06 00:00 | normal pick from 2026-11-08 00:00 | request from 2026-11-08 00:00
