@@ -1,4 +1,4 @@
-Track status, song titles filed under SO (built Fri Nov 6, 12:35 AM PST (08:35 UTC)). Times in UTC.
+Track status, song titles filed under SO (built Fri Nov 6, 12:45 AM PST (08:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   So Alive — Love and Rockets | last aired 2026-10-29 12:34 | normal pick now | request now
@@ -17,7 +17,7 @@ OK   Somebody To Love — Queen | last aired 2026-10-27 23:56 | normal pick now 
 WAIT Someone Somewhere (In Summertime) — Simple Minds | last aired 2026-11-06 00:41 | normal pick from 2026-11-07 12:41 | request from 2026-11-06 20:41
 WAIT Something About Us — Daft Punk | last aired 2026-11-04 22:31 | normal pick from 2026-11-06 10:31 | request now
 WAIT Sometimes It Snows in April (LP Version) — Prince | last aired 2026-11-06 02:57 | normal pick from 2026-11-07 14:57 | request from 2026-11-06 22:57
-OK   Somewhere, My Love (Lara's Theme from "Doctor Zhivago") (Album Version) — The Ray Conniff Singers | last aired 2026-11-04 00:26 | normal pick now | request now
+WAIT Somewhere, My Love (Lara's Theme from "Doctor Zhivago") (Album Version) — The Ray Conniff Singers | last aired 2026-11-06 08:40 | normal pick from 2026-11-07 20:40 | request from 2026-11-07 04:40
 OK   Sonate Pacifique — L'Impératrice | last aired 2026-11-01 18:55 | normal pick now | request now
 OK   Song 2 — Blur | last aired 2026-11-04 20:13 | normal pick now | request now
 OK   Song for Zula — Phosphorescent | last aired 2026-10-28 06:32 | normal pick now | request now
