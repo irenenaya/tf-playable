@@ -1,4 +1,4 @@
-Track status, song titles filed under NE (built Thu Nov 5, 9:35 PM PST (05:35 UTC Fri)). Times in UTC.
+Track status, song titles filed under NE (built Thu Nov 5, 9:45 PM PST (05:45 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Near Dark — Burial | last aired 2026-11-05 04:07 | normal pick from 2026-11-06 16:07 | request now
@@ -10,6 +10,6 @@ WAIT Never Tear Us Apart — INXS | last aired 2026-11-05 03:44 | normal pick fr
 WAIT New Grass — Talk Talk | last aired 2026-11-05 12:19 | normal pick from 2026-11-07 00:19 | request from 2026-11-06 08:19
 OK   New Light — John Mayer | last aired 2026-10-31 15:07 | normal pick now | request now
 OK   New Music Machine (Buffalo Daughter Remix) — Cornelius | last aired 2026-10-29 19:44 | normal pick now | request now
-OK   New Orleans Is Sinking — The Tragically Hip | last aired 2026-11-01 10:33 | normal pick now | request now
+WAIT New Orleans Is Sinking — The Tragically Hip | last aired 2026-11-06 05:35 | normal pick from 2026-11-07 17:35 | request from 2026-11-07 01:35
 OK   New Year's Day (Remastered 2008) — U2 | last aired 2026-10-31 22:25 | normal pick now | request now
 OK   The New Pollution — Beck | last aired 2026-11-03 16:32 | normal pick now | request now
