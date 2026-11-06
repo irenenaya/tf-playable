@@ -1,7 +1,7 @@
-Track status, artists filed under RO (built Fri Nov 6, 1:35 PM PST (21:35 UTC)). Times in UTC.
+Track status, artists filed under RO (built Fri Nov 6, 1:45 PM PST (21:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Robbie Dupree — Steal Away | last aired 2026-11-03 23:46 | normal pick now | request now
+WAIT Robbie Dupree — Steal Away | last aired 2026-11-06 21:32 | normal pick from 2026-11-08 09:32 | request from 2026-11-07 17:32
 OK   Robbie Robertson — Coyote Dance | last aired 2026-11-04 19:21 | normal pick now | request now
 OK   Robert Fripp — Here Comes The Flood (Exposure Fourth Edition: 2021 Stereo Mix) | last aired 2026-11-05 02:45 | normal pick now | request now
 WAIT Robert Johnson — Cross Road Blues | last aired 2026-11-05 19:27 | normal pick from 2026-11-07 07:27 | request now
@@ -10,7 +10,7 @@ WAIT Roberta Flack — The First Time Ever I Saw Your Face (2020 Remaster) | las
 OK   Robin Packalen — Kesärenkaat | last aired 2026-10-28 22:13 | normal pick now | request now
 OK   Rock appetizers — Child in Time (Special Version) | last aired 2026-09-22 21:18 | normal pick now | request now
 WAIT Rodrigo Leão — Pasión (Album Version) | last aired 2026-11-05 03:14 | normal pick from 2026-11-07 03:14 | request from 2026-11-07 03:14
-OK   Rodrigo y Gabriela — Libertango | last aired 2026-11-03 23:43 | normal pick now | request now
+WAIT Rodrigo y Gabriela — Libertango | last aired 2026-11-06 21:36 | normal pick from 2026-11-08 21:36 | request from 2026-11-08 21:36
 OK   Roland Dyens — Fuoco (Libra Sonatine) | last aired 2026-11-03 15:25 | normal pick now | request now
 OK   ROSALÍA — Berghain | last aired 2026-11-05 04:35 | normal pick now | request now
 OK   ROSALÍA — MALAMENTE (Cap.1: Augurio) | last aired 2026-11-03 21:12 | normal pick now | request now
