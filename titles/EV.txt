@@ -1,4 +1,4 @@
-Track status, song titles filed under EV (built Fri Nov 6, 12:15 AM PST (08:15 UTC)). Times in UTC.
+Track status, song titles filed under EV (built Fri Nov 6, 12:25 AM PST (08:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   (Every Time I Turn Around) Back In Love Again (Album Version) — L.T.D. | last aired 2026-10-24 08:22 | normal pick now | request now
@@ -12,7 +12,7 @@ OK   Everybody Loves The Sunshine — Roy Ayers Ubiquity | last aired 2026-11-04
 WAIT Everybody Wants To Rule The World — Tears For Fears | last aired 2026-11-06 04:21 | normal pick from 2026-11-08 04:21 | request from 2026-11-08 04:21
 OK   Everybody's Coming to My House (Live) — David Byrne | last aired 2026-10-26 23:31 | normal pick now | request now
 OK   Everybody's Got To Learn Sometime — The Korgis | last aired 2026-10-28 06:47 | normal pick now | request now
-OK   Everything Is Everything — Booker T. Jones | last aired 2026-11-01 15:53 | normal pick now | request now
+WAIT Everything Is Everything — Booker T. Jones | last aired 2026-11-06 08:19 | normal pick from 2026-11-07 20:19 | request from 2026-11-07 04:19
 OK   Everything You Know Is Wrong — Weird Al Yankovic | last aired 2026-10-21 00:49 | normal pick now | request now
 OK   Everything Zen (Remastered) — Bush | last aired 2026-11-03 04:02 | normal pick now | request now
 OK   Everytime We Touch — Cascada | last aired 2026-11-04 14:07 | normal pick now | request now
