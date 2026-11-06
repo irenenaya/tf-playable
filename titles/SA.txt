@@ -1,4 +1,4 @@
-Track status, song titles filed under SA (built Fri Nov 6, 2:55 AM PST (10:55 UTC)). Times in UTC.
+Track status, song titles filed under SA (built Fri Nov 6, 3:05 AM PST (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Sabotage — Beastie Boys | last aired 2026-10-28 21:54 | normal pick now | request now
@@ -10,7 +10,7 @@ OK   Sailor Song — Gigi Perez | last aired 2026-11-04 00:17 | normal pick now 
 OK   Saku — Susumu Yokota | last aired 2026-10-31 01:57 | normal pick now | request now
 WAIT Salomila (Live) — Ledward Kaapana | last aired 2026-11-06 09:08 | normal pick from 2026-11-07 21:08 | request from 2026-11-07 05:08
 OK   Saltwater — Geowulf | last aired 2026-10-26 20:39 | normal pick now | request now
-WAIT Salvatore — Lana Del Rey | last aired 2026-11-06 09:48 | normal pick from 2026-11-07 21:48 | request from 2026-11-07 05:48
+WAIT Salvatore — Lana Del Rey | last aired 2026-11-06 09:48 | normal pick from 2026-11-08 09:48 | request from 2026-11-08 09:48
 WAIT saman — Ólafur Arnalds | last aired 2026-11-05 05:53 | normal pick from 2026-11-07 05:53 | request from 2026-11-07 05:53
 WAIT Samba Da Benção — Bebel Gilberto | last aired 2026-11-04 17:04 | normal pick from 2026-11-06 17:04 | request from 2026-11-06 17:04
 WAIT Samba Pa Ti — Santana | last aired 2026-11-05 22:05 | normal pick from 2026-11-07 22:05 | request from 2026-11-07 22:05
