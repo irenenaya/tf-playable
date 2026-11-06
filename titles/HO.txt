@@ -1,4 +1,4 @@
-Track status, song titles filed under HO (built Thu Nov 5, 7:15 PM PST (03:15 UTC Fri)). Times in UTC.
+Track status, song titles filed under HO (built Thu Nov 5, 7:25 PM PST (03:25 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Holding — Grouper | last aired 2026-11-03 08:05 | normal pick now | request now
@@ -16,7 +16,7 @@ WAIT Hopopono — GoGo Penguin | last aired 2026-11-05 00:14 | normal pick from 
 WAIT Hoppípolla — Sigur Rós | last aired 2026-11-05 10:28 | normal pick from 2026-11-07 10:28 | request from 2026-11-07 10:28
 OK   HOT TO GO! — Chappell Roan | last aired 2026-11-03 14:16 | normal pick now | request now
 WAIT Hotel California (2013 Remaster) — Eagles | last aired 2026-11-04 16:08 | normal pick from 2026-11-06 04:08 | request now
-WAIT Houdini — Dua Lipa | last aired 2026-11-04 15:20 | normal pick from 2026-11-06 03:20 | request now
+OK   Houdini — Dua Lipa | last aired 2026-11-04 15:20 | normal pick now | request now
 OK   House of the Rising Sun — Erik Grönwall | last aired 2026-10-24 20:50 | normal pick now | request now
 OK   House Where Nobody Lives — Tom Waits | last aired 2026-10-28 19:34 | normal pick now | request now
 WAIT How Deep Is The Ocean — Diana Krall | last aired 2026-11-04 23:58 | normal pick from 2026-11-06 23:58 | request from 2026-11-06 23:58
