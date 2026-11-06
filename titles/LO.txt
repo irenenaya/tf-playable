@@ -1,4 +1,4 @@
-Track status, song titles filed under LO (built Fri Nov 6, 8:55 AM PST (16:55 UTC)). Times in UTC.
+Track status, song titles filed under LO (built Fri Nov 6, 9:05 AM PST (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   L-O-V-E — Nat King Cole | last aired 2026-11-05 01:31 | normal pick now | request now
@@ -21,7 +21,7 @@ OK   Love I — The Green | last aired 2026-10-30 15:06 | normal pick now | requ
 OK   Love Is Blue (Album Version) — Paul Mauriat | last aired 2026-11-03 19:01 | normal pick now | request now
 OK   Love Kills — Freddie Mercury | last aired 2026-10-24 13:49 | normal pick now | request now
 OK   Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley — Studio Group | last aired 2026-08-31 18:46 | normal pick now | request now
-OK   Love — Mica Levi | last aired 2026-10-28 02:44 | normal pick now | request now
+WAIT Love — Mica Levi | last aired 2026-11-06 16:55 | normal pick from 2026-11-08 04:55 | request from 2026-11-07 12:55
 OK   Love On A Real Train — Tangerine Dream | last aired 2026-10-28 06:54 | normal pick now | request now
 WAIT LOVE TRIP — Takako Mamiya | last aired 2026-11-05 17:53 | normal pick from 2026-11-07 05:53 | request now
 WAIT Lovely Day — Bill Withers | last aired 2026-11-06 00:22 | normal pick from 2026-11-08 00:22 | request from 2026-11-08 00:22
@@ -35,5 +35,5 @@ OK   Lowdown (2023 Remaster) — Boz Scaggs | last aired 2026-11-03 15:19 | norm
 WAIT The Lonesome Death of Hattie Carroll — Bob Dylan | last aired 2026-11-06 05:40 | normal pick from 2026-11-08 05:40 | request from 2026-11-08 05:40
 OK   The Long Road — Mark Knopfler | last aired 2026-10-30 21:44 | normal pick now | request now
 OK   The Look — Roxette | last aired 2026-10-31 16:23 | normal pick now | request now
-WAIT The Lord Will Make a Way — Al Green | last aired 2026-11-05 20:57 | normal pick from 2026-11-07 08:57 | request from 2026-11-06 16:57
+WAIT The Lord Will Make a Way — Al Green | last aired 2026-11-05 20:57 | normal pick from 2026-11-07 08:57 | request now
 OK   The Love Song — Marilyn Manson | last aired 2026-10-25 20:53 | normal pick now | request now
