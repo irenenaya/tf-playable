@@ -1,10 +1,10 @@
-Track status, song titles filed under RE (built Thu Nov 5, 8:05 PM PST (04:05 UTC Fri)). Times in UTC.
+Track status, song titles filed under RE (built Thu Nov 5, 8:15 PM PST (04:15 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Reason or Rhyme — Bryan Ferry | last aired 2026-10-30 13:15 | normal pick now | request now
 WAIT Rebel Girl — Bikini Kill | last aired 2026-11-05 08:26 | normal pick from 2026-11-06 20:26 | request from 2026-11-06 04:26
 OK   Rebel Rebel — David Bowie | last aired 2026-10-30 14:37 | normal pick now | request now
-OK   Red Moon — Al Di Meola | last aired 2026-11-02 04:17 | normal pick now | request now
+WAIT Red Moon — Al Di Meola | last aired 2026-11-06 04:05 | normal pick from 2026-11-07 16:05 | request from 2026-11-07 00:05
 OK   Redemption Day (Album Version) — Johnny Cash | last aired 2026-11-04 13:13 | normal pick now | request now
 OK   Regret - À Kader Barry — Ballaké Sissoko | last aired 2026-10-20 17:20 | normal pick now | request now
 OK   Rehab — Amy Winehouse | last aired 2026-10-29 08:37 | normal pick now | request now
