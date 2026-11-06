@@ -1,4 +1,4 @@
-Track status, artists filed under SI (built Thu Nov 5, 5:55 PM PST (01:55 UTC Fri)). Times in UTC.
+Track status, artists filed under SI (built Thu Nov 5, 6:05 PM PST (02:05 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Siddhartha — 00:00 | last aired 2026-11-02 10:50 | normal pick now | request now
@@ -14,9 +14,9 @@ WAIT Simon & Garfunkel — The Boxer | last aired 2026-11-05 12:33 | normal pick
 WAIT Simon & Garfunkel — The Sound of Silence (Acoustic Version) | last aired 2026-11-05 10:54 | normal pick from 2026-11-06 22:54 | request from 2026-11-06 06:54
 OK   Simon Trpčeski — Suite bergamasque, CD 82, L. 75: III. Clair de lune | last aired 2026-10-29 06:59 | normal pick now | request now
 OK   Simple Minds — Alive And Kicking (Remastered 2002) | last aired 2026-11-03 23:05 | normal pick now | request now
-WAIT Simple Minds — Don't You (Forget About Me) | last aired 2026-11-05 21:41 | normal pick from 2026-11-07 09:41 | request from 2026-11-06 17:41
+WAIT Simple Minds — Don't You (Forget About Me) | last aired 2026-11-05 21:42 | normal pick from 2026-11-07 09:42 | request from 2026-11-06 17:42
 WAIT Simple Minds — Someone Somewhere (In Summertime) | last aired 2026-11-06 00:41 | normal pick from 2026-11-07 12:41 | request from 2026-11-06 20:41
-WAIT Sinéad O'Connor — Nothing Compares 2 U (2009 Remaster) | last aired 2026-11-06 00:36 | normal pick from 2026-11-07 12:36 | request from 2026-11-06 20:36
+WAIT Sinéad O'Connor — Nothing Compares 2 U (2009 Remaster) | last aired 2026-11-06 00:36 | normal pick from 2026-11-08 00:36 | request from 2026-11-08 00:36
 OK   Siouxsie & The Banshees — Cities In Dust (Single Version) | last aired 2026-10-31 13:01 | normal pick now | request now
 OK   Siouxsie & The Banshees — Spellbound | last aired 2026-10-30 23:00 | normal pick now | request now
 OK   Sir David Willcocks — 5 Tudor Portraits: No. 5, Scherzo. Jolly Rutterkin | last aired 2026-10-17 13:40 | normal pick now | request now
