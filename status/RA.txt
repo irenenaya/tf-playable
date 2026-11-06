@@ -1,4 +1,4 @@
-Track status, artists filed under RA (built Fri Nov 6, 2:55 PM PST (22:55 UTC)). Times in UTC.
+Track status, artists filed under RA (built Fri Nov 6, 3:05 PM PST (23:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Radiohead — Paranoid Android | last aired 2026-11-05 18:20 | normal pick from 2026-11-07 18:20 | request from 2026-11-07 18:20
@@ -6,7 +6,7 @@ OK   Radiohead — Weird Fishes / Arpeggi | last aired 2026-11-04 19:06 | normal
 OK   Rammstein — Deutschland | last aired 2026-11-04 03:43 | normal pick now | request now
 OK   Ramones — Blitzkrieg Bop | last aired 2026-11-04 16:44 | normal pick now | request now
 OK   Randy Crawford — One Day I'll Fly Away | last aired 2026-11-04 20:45 | normal pick now | request now
-WAIT Randy Travis — Forever and Ever, Amen | last aired 2026-11-04 23:02 | normal pick from 2026-11-06 23:02 | request from 2026-11-06 23:02
+OK   Randy Travis — Forever and Ever, Amen | last aired 2026-11-04 23:02 | normal pick now | request now
 OK   Raquel Tavares — Como É Grande o Meu Amor por Você | last aired 2026-11-03 12:06 | normal pick now | request now
 OK   Ray Anthony — The Hokey Pokey | last aired 2026-11-02 16:45 | normal pick now | request now
 OK   Ray Parker Junior — Ghostbusters (Album Version) | last aired 2026-11-04 20:31 | normal pick now | request now
