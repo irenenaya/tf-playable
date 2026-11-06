@@ -1,4 +1,4 @@
-Track status, artists filed under CA (built Thu Nov 5, 6:55 PM PST (02:55 UTC Fri)). Times in UTC.
+Track status, artists filed under CA (built Thu Nov 5, 7:05 PM PST (03:05 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Caetano Veloso — O Leãozinho (Ao Vivo) | last aired 2026-11-03 12:38 | normal pick now | request now
@@ -22,4 +22,4 @@ OK   Cascada — Everytime We Touch | last aired 2026-11-04 14:07 | normal pick 
 OK   Cat Power — The Greatest | last aired 2026-11-04 14:42 | normal pick now | request now
 WAIT Cate Le Bon — Are You with Me Now? | last aired 2026-11-04 09:24 | normal pick from 2026-11-06 09:24 | request from 2026-11-06 09:24
 OK   Caterina Barbieri — Fantas | last aired 2026-11-03 03:16 | normal pick now | request now
-OK   The Carpenters — (They Long To Be) Close To You | last aired 2026-11-03 12:45 | normal pick now | request now
+WAIT The Carpenters — (They Long To Be) Close To You | last aired 2026-11-06 02:53 | normal pick from 2026-11-08 02:53 | request from 2026-11-08 02:53
