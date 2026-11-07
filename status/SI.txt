@@ -1,4 +1,4 @@
-Track status, artists filed under SI (built Sat Nov 7, 1:35 AM PST (09:35 UTC)). Times in UTC.
+Track status, artists filed under SI (built Sat Nov 7, 1:45 AM PST (09:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Siddhartha — 00:00 | last aired 2026-11-06 17:51 | normal pick from 2026-11-08 05:51 | request from 2026-11-07 13:51
@@ -14,7 +14,7 @@ WAIT Simon & Garfunkel — The Boxer | last aired 2026-11-05 12:33 | normal pick
 OK   Simon & Garfunkel — The Sound of Silence (Acoustic Version) | last aired 2026-11-05 10:54 | normal pick now | request now
 OK   Simon Trpčeski — Suite bergamasque, CD 82, L. 75: III. Clair de lune | last aired 2026-10-29 06:59 | normal pick now | request now
 WAIT Simple Minds — Alive And Kicking (Remastered 2002) | last aired 2026-11-06 05:49 | normal pick from 2026-11-07 17:49 | request now
-WAIT Simple Minds — Don't You (Forget About Me) | last aired 2026-11-05 21:42 | normal pick from 2026-11-07 09:42 | request now
+OK   Simple Minds — Don't You (Forget About Me) | last aired 2026-11-05 21:42 | normal pick now | request now
 WAIT Simple Minds — Someone Somewhere (In Summertime) | last aired 2026-11-06 00:41 | normal pick from 2026-11-07 12:41 | request now
 WAIT Sinéad O'Connor — Nothing Compares 2 U (2009 Remaster) | last aired 2026-11-06 00:36 | normal pick from 2026-11-08 00:36 | request from 2026-11-08 00:36
 WAIT Siouxsie & The Banshees — Cities In Dust (Single Version) | last aired 2026-11-06 05:54 | normal pick from 2026-11-07 17:54 | request now
