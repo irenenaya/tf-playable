@@ -1,12 +1,12 @@
-Track status, artists filed under TI (built Sat Nov 7, 12:55 AM PST (08:55 UTC)). Times in UTC.
+Track status, artists filed under TI (built Sat Nov 7, 1:05 AM PST (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   TilaR — More Than A Friend | last aired 2026-10-26 18:39 | normal pick now | request now
 OK   Tilda Swinton — Richter: Shadow Journal | last aired 2026-11-03 07:56 | normal pick now | request now
 OK   Tim Cappello — I Still Believe | last aired 2026-11-05 18:30 | normal pick now | request now
 OK   Tim Curry — Sweet Transvestite | last aired 2026-10-25 12:34 | normal pick now | request now
-OK   Tim Hecker — Black Refraction | last aired 2026-11-03 05:10 | normal pick now | request now
-OK   Tim Hecker — Harmony in Blue I | last aired 2026-10-22 01:05 | normal pick now | request now
+WAIT Tim Hecker — Black Refraction | last aired 2026-11-07 08:48 | normal pick from 2026-11-08 20:48 | request from 2026-11-08 04:48
+WAIT Tim Hecker — Harmony in Blue I | last aired 2026-11-07 08:55 | normal pick from 2026-11-08 20:55 | request from 2026-11-08 04:55
 WAIT Tim Hecker — In the Fog I | last aired 2026-11-07 05:18 | normal pick from 2026-11-08 17:18 | request from 2026-11-08 01:18
 WAIT Tim Hecker — In the Fog II | last aired 2026-11-07 07:31 | normal pick from 2026-11-08 19:31 | request from 2026-11-08 03:31
 WAIT Tim Maia — Réu Confesso | last aired 2026-11-05 22:55 | normal pick from 2026-11-07 22:55 | request from 2026-11-07 22:55
