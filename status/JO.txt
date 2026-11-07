@@ -1,8 +1,8 @@
-Track status, artists filed under JO (built Sat Nov 7, 7:35 AM PST (15:35 UTC)). Times in UTC.
+Track status, artists filed under JO (built Sat Nov 7, 7:45 AM PST (15:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-11-07 13:03 | normal pick from 2026-11-09 01:03 | request from 2026-11-08 09:03
-WAIT Jockstrap — Concrete Over Water | last aired 2026-11-06 03:40 | normal pick from 2026-11-07 15:40 | request now
+OK   Jockstrap — Concrete Over Water | last aired 2026-11-06 03:40 | normal pick now | request now
 WAIT Joe Cocker — The Letter (Live At The Fillmore East/1970) | last aired 2026-11-06 21:11 | normal pick from 2026-11-08 09:11 | request from 2026-11-07 17:11
 WAIT Joe Cocker — With A Little Help From My Friends | last aired 2026-11-06 01:42 | normal pick from 2026-11-08 01:42 | request from 2026-11-08 01:42
 WAIT Joe Hisaishi — A Town with an Ocean View (from 'Kiki's Delivery Service') | last aired 2026-11-07 12:44 | normal pick from 2026-11-09 00:44 | request from 2026-11-08 08:44
