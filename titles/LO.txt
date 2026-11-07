@@ -1,4 +1,4 @@
-Track status, song titles filed under LO (built Fri Nov 6, 3:55 PM PST (23:55 UTC)). Times in UTC.
+Track status, song titles filed under LO (built Fri Nov 6, 4:05 PM PST (00:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   L-O-V-E — Nat King Cole | last aired 2026-11-05 01:31 | normal pick now | request now
@@ -9,7 +9,7 @@ OK   London Calling — The Clash | last aired 2026-10-31 10:52 | normal pick no
 OK   Lonely in the Future — The Strokes | last aired 2026-11-01 21:32 | normal pick now | request now
 WAIT Long Time Running — The Tragically Hip | last aired 2026-11-06 02:00 | normal pick from 2026-11-07 14:00 | request now
 WAIT Longing — Nusrat Fateh Ali Khan | last aired 2026-11-05 16:48 | normal pick from 2026-11-07 04:48 | request now
-WAIT Loser — Beck | last aired 2026-11-05 07:20 | normal pick from 2026-11-07 07:20 | request from 2026-11-07 07:20
+OK   Loser — Beck | last aired 2026-11-05 07:20 | normal pick now | request now
 OK   Losing Faith — Tom Konkle | last aired 2026-09-12 01:59 | normal pick now | request now
 OK   Lost Coastlines — Okkervil River | last aired 2026-10-24 09:39 | normal pick now | request now
 WAIT Lost in Music (1995 Remaster) (LP Version) — Sister Sledge | last aired 2026-11-06 15:58 | normal pick from 2026-11-08 03:58 | request from 2026-11-07 11:58
@@ -31,7 +31,7 @@ OK   Lovin' Every Minute of It — Loverboy | last aired 2026-10-29 12:50 | norm
 OK   Lovin' You — Minnie Riperton | last aired 2026-10-29 02:47 | normal pick now | request now
 OK   Loving Machine — TV Girl | last aired 2026-10-16 13:16 | normal pick now | request now
 OK   Low Frequency Thunderstorm Shield — Cognitron | last aired 2026-11-05 04:33 | normal pick now | request now
-WAIT Lowdown (2023 Remaster) — Boz Scaggs | last aired 2026-11-06 22:48 | normal pick from 2026-11-08 10:48 | request from 2026-11-07 18:48
+WAIT Lowdown (2023 Remaster) — Boz Scaggs | last aired 2026-11-06 22:49 | normal pick from 2026-11-08 10:49 | request from 2026-11-07 18:49
 WAIT The Lonesome Death of Hattie Carroll — Bob Dylan | last aired 2026-11-06 05:40 | normal pick from 2026-11-08 05:40 | request from 2026-11-08 05:40
 OK   The Long Road — Mark Knopfler | last aired 2026-10-30 21:44 | normal pick now | request now
 OK   The Look — Roxette | last aired 2026-10-31 16:23 | normal pick now | request now
