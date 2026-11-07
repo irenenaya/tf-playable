@@ -1,13 +1,13 @@
-Track status, artists filed under SO (built Sat Nov 7, 1:15 PM PST (21:15 UTC)). Times in UTC.
+Track status, artists filed under SO (built Sat Nov 7, 1:25 PM PST (21:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Soda Stereo — De Música Ligera (Remasterizado 2007) | last aired 2026-11-07 21:10 | normal pick from 2026-11-09 09:10 | request from 2026-11-08 17:10
 OK   Soda Stereo — En La Ciudad De La Furia (MTV Unplugged) | last aired 2026-11-03 07:21 | normal pick now | request now
 OK   Soda Stereo — Luna Roja (Remasterizado 2007) | last aired 2026-11-03 18:04 | normal pick now | request now
-OK   Soft Cell — Tainted Love | last aired 2026-11-05 16:30 | normal pick now | request now
+WAIT Soft Cell — Tainted Love | last aired 2026-11-07 21:18 | normal pick from 2026-11-09 09:18 | request from 2026-11-08 17:18
 OK   Sol Gabetta — Fantasiestücke, Op. 73 - Schumann: Fantasiestücke, Op. 73: No. 1, Zart und mit Ausdruck | last aired 2026-11-03 19:16 | normal pick now | request now
-OK   Solange — Cranes in the Sky | last aired 2026-11-05 16:38 | normal pick now | request now
-OK   Solarstone — Evensong | last aired 2026-11-03 05:51 | normal pick now | request now
+WAIT Solange — Cranes in the Sky | last aired 2026-11-07 21:14 | normal pick from 2026-11-09 09:14 | request from 2026-11-08 17:14
+WAIT Solarstone — Evensong | last aired 2026-11-07 21:21 | normal pick from 2026-11-09 09:21 | request from 2026-11-08 17:21
 OK   Solisti e Orchestre del Cinema Italiano — L'uomo dell'armonica | last aired 2026-11-04 17:34 | normal pick now | request now
 OK   Sons Of Apollo — Desolate July | last aired 2026-09-25 16:24 | normal pick now | request now
 OK   Sophie Hunger — Le vent nous portera | last aired 2026-11-04 20:15 | normal pick now | request now
