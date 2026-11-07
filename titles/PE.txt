@@ -1,8 +1,8 @@
-Track status, song titles filed under PE (built Fri Nov 6, 8:35 PM PST (04:35 UTC Sat)). Times in UTC.
+Track status, song titles filed under PE (built Fri Nov 6, 8:45 PM PST (04:45 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   pe$o$ — Evan Fong | last aired 2026-10-18 03:52 | normal pick now | request now
-OK   Peace — Horace Silver Quintet | last aired 2026-11-05 01:11 | normal pick now | request now
+WAIT Peace — Horace Silver Quintet | last aired 2026-11-07 04:40 | normal pick from 2026-11-08 16:40 | request from 2026-11-08 00:40
 WAIT Peace Piece (Album Version) — Bill Evans | last aired 2026-11-05 06:43 | normal pick from 2026-11-07 06:43 | request from 2026-11-07 06:43
 OK   Peg — Steely Dan | last aired 2026-11-03 02:05 | normal pick now | request now
 OK   Penelope's Song The Odyssey — Celtic Siren Noreen | last aired 2026-10-19 17:28 | normal pick now | request now
