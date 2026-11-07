@@ -1,5 +1,5 @@
-Track status, song titles filed under OB (built Fri Nov 6, 4:35 PM PST (00:35 UTC Sat)). Times in UTC.
+Track status, song titles filed under OB (built Fri Nov 6, 4:45 PM PST (00:45 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Objects In The Mirror — Rayland Baxter | last aired 2026-11-04 19:12 | normal pick now | request now
-OK   Oblivion — Grimes | last aired 2026-10-28 15:46 | normal pick now | request now
+WAIT Oblivion — Grimes | last aired 2026-11-07 00:37 | normal pick from 2026-11-08 12:37 | request from 2026-11-07 20:37
