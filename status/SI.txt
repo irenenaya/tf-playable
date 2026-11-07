@@ -1,7 +1,7 @@
-Track status, artists filed under SI (built Sat Nov 7, 5:45 AM PST (13:45 UTC)). Times in UTC.
+Track status, artists filed under SI (built Sat Nov 7, 5:55 AM PST (13:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Siddhartha — 00:00 | last aired 2026-11-06 17:51 | normal pick from 2026-11-08 05:51 | request from 2026-11-07 13:51
+WAIT Siddhartha — 00:00 | last aired 2026-11-06 17:51 | normal pick from 2026-11-08 05:51 | request now
 WAIT Side-A — Only You (There Will Never Be Another) | last aired 2026-11-06 10:08 | normal pick from 2026-11-07 22:08 | request now
 OK   Sigur Rós — Hoppípolla | last aired 2026-11-05 10:28 | normal pick now | request now
 OK   Sigur Rós — Starálfur | last aired 2026-11-05 10:14 | normal pick now | request now
@@ -19,6 +19,6 @@ OK   Simple Minds — Someone Somewhere (In Summertime) | last aired 2026-11-06 
 WAIT Sinéad O'Connor — Nothing Compares 2 U (2009 Remaster) | last aired 2026-11-06 00:36 | normal pick from 2026-11-08 00:36 | request from 2026-11-08 00:36
 WAIT Siouxsie & The Banshees — Cities In Dust (Single Version) | last aired 2026-11-06 05:54 | normal pick from 2026-11-07 17:54 | request now
 OK   Siouxsie & The Banshees — Spellbound | last aired 2026-10-30 23:00 | normal pick now | request now
-WAIT Sir David Willcocks — 5 Tudor Portraits: No. 5, Scherzo. Jolly Rutterkin | last aired 2026-11-06 17:46 | normal pick from 2026-11-08 05:46 | request from 2026-11-07 13:46
+WAIT Sir David Willcocks — 5 Tudor Portraits: No. 5, Scherzo. Jolly Rutterkin | last aired 2026-11-06 17:46 | normal pick from 2026-11-08 05:46 | request now
 WAIT Sister Rosetta Tharpe — Up Above My Head There's Music In The Air | last aired 2026-11-06 10:15 | normal pick from 2026-11-07 22:15 | request now
 WAIT Sister Sledge — Lost in Music (1995 Remaster) (LP Version) | last aired 2026-11-06 15:58 | normal pick from 2026-11-08 03:58 | request now
