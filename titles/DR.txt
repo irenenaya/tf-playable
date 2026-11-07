@@ -1,4 +1,4 @@
-Track status, song titles filed under DR (built Sat Nov 7, 6:55 AM PST (14:55 UTC)). Times in UTC.
+Track status, song titles filed under DR (built Sat Nov 7, 7:05 AM PST (15:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   DRAW THE LINE — From Fall to Spring | last aired 2026-10-23 18:52 | normal pick now | request now
@@ -9,5 +9,5 @@ WAIT Dreams (2001 Remaster) — Fleetwood Mac | last aired 2026-11-06 03:08 | no
 WAIT Dreams (2004 Remaster) — Fleetwood Mac | last aired 2026-11-06 15:07 | normal pick from 2026-11-08 03:07 | request now
 OK   Dreams — The Cranberries | last aired 2026-11-05 23:21 | normal pick now | request now
 WAIT Drink — Alestorm | last aired 2026-11-06 19:58 | normal pick from 2026-11-08 07:58 | request from 2026-11-07 15:58
-WAIT Drops of Jupiter (Tell Me) — Train | last aired 2026-11-06 03:04 | normal pick from 2026-11-07 15:04 | request now
+OK   Drops of Jupiter (Tell Me) — Train | last aired 2026-11-06 03:04 | normal pick now | request now
 WAIT The Drugs Don't Work (Remastered 2016) — The Verve | last aired 2026-11-07 06:02 | normal pick from 2026-11-08 18:02 | request from 2026-11-08 02:02
