@@ -1,8 +1,8 @@
-Track status, song titles filed under CO (built Sat Nov 7, 9:15 AM PST (17:15 UTC)). Times in UTC.
+Track status, song titles filed under CO (built Sat Nov 7, 9:26 AM PST (17:26 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Coat of Many Colors — Dolly Parton | last aired 2026-11-07 01:20 | normal pick from 2026-11-08 13:20 | request from 2026-11-07 21:20
-OK   Coffee Homeground — Kate Bush | last aired 2026-10-27 21:43 | normal pick now | request now
+WAIT Coffee Homeground — Kate Bush | last aired 2026-11-07 17:15 | normal pick from 2026-11-09 05:15 | request from 2026-11-08 13:15
 OK   Colorful Array — Neuro-sama | last aired 2026-10-18 01:42 | normal pick now | request now
 OK   Come On Get Higher — Matt Nathanson | last aired 2026-10-26 14:17 | normal pick now | request now
 OK   Come Tomorrow (Duet With Barry Gibb (Album Version)) — Various Interprets | last aired 2026-10-26 03:00 | normal pick now | request now
