@@ -1,7 +1,7 @@
-Track status, artists filed under ST (built Sat Nov 7, 11:55 AM PST (19:55 UTC)). Times in UTC.
+Track status, artists filed under ST (built Sat Nov 7, 12:05 PM PST (20:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT St Germain — Rose rouge | last aired 2026-11-06 07:57 | normal pick from 2026-11-07 19:57 | request now
+OK   St Germain — Rose rouge | last aired 2026-11-06 07:57 | normal pick now | request now
 WAIT Stan Bush — The Touch | last aired 2026-11-06 22:38 | normal pick from 2026-11-08 10:38 | request now
 WAIT Stan Getz — Corcovado (Quiet Nights Of Quiet Stars) | last aired 2026-11-06 07:00 | normal pick from 2026-11-08 07:00 | request from 2026-11-08 07:00
 WAIT Stardust — Music Sounds Better With You | last aired 2026-11-06 22:32 | normal pick from 2026-11-08 10:32 | request now
@@ -35,7 +35,7 @@ OK   Stevie Wonder — You Haven't Done Nothin' | last aired 2026-11-02 19:53 | 
 OK   Still Woozy — Get Down | last aired 2026-11-01 16:45 | normal pick now | request now
 OK   Sting — Desert Rose (Album Version) | last aired 2026-11-01 21:16 | normal pick now | request now
 WAIT Sting — Fields Of Gold (My Songs Version) | last aired 2026-11-06 19:16 | normal pick from 2026-11-08 07:16 | request now
-WAIT Sting — Fragile | last aired 2026-11-06 08:04 | normal pick from 2026-11-07 20:04 | request now
+OK   Sting — Fragile | last aired 2026-11-06 08:04 | normal pick now | request now
 OK   Sting — If You Love Somebody Set Them Free (Single Edit) | last aired 2026-11-02 12:47 | normal pick now | request now
 OK   Sting — Shape Of My Heart (My Songs Version) | last aired 2026-11-02 03:37 | normal pick now | request now
 OK   Stratovarius — Black Diamond | last aired 2026-11-02 03:41 | normal pick now | request now
