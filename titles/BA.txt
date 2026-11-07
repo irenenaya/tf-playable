@@ -1,4 +1,4 @@
-Track status, song titles filed under BA (built Fri Nov 6, 10:15 PM PST (06:15 UTC Sat)). Times in UTC.
+Track status, song titles filed under BA (built Fri Nov 6, 10:25 PM PST (06:25 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   ...Baby One More Time (from Kung Fu Panda 4) — Tenacious D | last aired 2026-10-18 11:11 | normal pick now | request now
@@ -18,6 +18,6 @@ OK   Baker Street — Gerry Rafferty | last aired 2026-11-05 17:11 | normal pick
 OK   Baller — Abor & Tynna | last aired 2026-10-16 02:11 | normal pick now | request now
 OK   Bamboleo — Gipsy Kings | last aired 2026-11-03 21:28 | normal pick now | request now
 OK   Bangaranga — Dara | last aired 2026-11-02 14:36 | normal pick now | request now
-OK   Barco negro — Amália Rodrigues | last aired 2026-10-29 16:39 | normal pick now | request now
+WAIT Barco negro — Amália Rodrigues | last aired 2026-11-07 06:12 | normal pick from 2026-11-09 06:12 | request from 2026-11-09 06:12
 OK   Barely Breathing — Duncan Sheik | last aired 2026-09-19 22:14 | normal pick now | request now
 OK   The Ballad of Love and Hate — The Avett Brothers | last aired 2026-10-23 21:30 | normal pick now | request now
