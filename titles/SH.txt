@@ -1,4 +1,4 @@
-Track status, song titles filed under SH (built Sat Nov 7, 5:35 AM PST (13:35 UTC)). Times in UTC.
+Track status, song titles filed under SH (built Sat Nov 7, 5:45 AM PST (13:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Shampoo — Greg Shilling | last aired 2026-10-25 04:45 | normal pick now | request now
@@ -8,7 +8,7 @@ OK   Sharkey's Day (Album Version) — Laurie Anderson | last aired 2026-11-02 0
 OK   She's a Pass — Paul Leonard-Morgan | last aired 2026-11-03 17:37 | normal pick now | request now
 OK   Shellela — Getatchèw Mèkurya | last aired 2026-10-29 10:28 | normal pick now | request now
 OK   Shine A Light — Banners | last aired 2026-11-02 13:20 | normal pick now | request now
-OK   Shining Star — Earth, Wind & Fire | last aired 2026-11-02 22:28 | normal pick now | request now
+WAIT Shining Star — Earth, Wind & Fire | last aired 2026-11-07 13:35 | normal pick from 2026-11-09 01:35 | request from 2026-11-08 09:35
 WAIT Should Have Known Better — Sufjan Stevens | last aired 2026-11-05 16:18 | normal pick from 2026-11-07 16:18 | request from 2026-11-07 16:18
 OK   Should I Stay or Should I Go (Remastered) — The Clash | last aired 2026-10-30 14:34 | normal pick now | request now
 OK   Show Me How — Men I Trust | last aired 2026-11-01 04:05 | normal pick now | request now
