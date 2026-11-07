@@ -1,8 +1,8 @@
-Track status, artists filed under MA (built Sat Nov 7, 10:15 AM PST (18:15 UTC)). Times in UTC.
+Track status, artists filed under MA (built Sat Nov 7, 10:25 AM PST (18:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT M/A/R/R/S — Pump Up The Volume (UK 12" Remix) | last aired 2026-11-07 15:06 | normal pick from 2026-11-09 03:06 | request from 2026-11-08 11:06
-WAIT Mac DeMarco — Chamber Of Reflection | last aired 2026-11-05 18:16 | normal pick from 2026-11-07 18:16 | request from 2026-11-07 18:16
+OK   Mac DeMarco — Chamber Of Reflection | last aired 2026-11-05 18:16 | normal pick now | request now
 WAIT Mac DeMarco — My Kind of Woman | last aired 2026-11-07 14:58 | normal pick from 2026-11-09 14:58 | request from 2026-11-09 14:58
 WAIT Mac DeMarco — No Other Heart | last aired 2026-11-07 16:00 | normal pick from 2026-11-09 16:00 | request from 2026-11-09 16:00
 WAIT Madness — Our House | last aired 2026-11-07 14:49 | normal pick from 2026-11-09 14:49 | request from 2026-11-09 14:49
@@ -48,7 +48,7 @@ OK   Mary Halvorson — About Ghosts | last aired 2026-11-05 10:41 | normal pick
 OK   Masego — Tadow | last aired 2026-11-04 18:11 | normal pick now | request now
 OK   Massive Attack — Angel | last aired 2026-11-05 07:10 | normal pick now | request now
 OK   Massive Attack — Protection | last aired 2026-11-04 07:58 | normal pick now | request now
-OK   Massive Attack — Teardrop | last aired 2026-11-04 08:48 | normal pick now | request now
+WAIT Massive Attack — Teardrop | last aired 2026-11-07 18:16 | normal pick from 2026-11-09 18:16 | request from 2026-11-09 18:16
 OK   Massive Attack — Unfinished Sympathy (2012 Mix/Master) | last aired 2026-11-04 08:33 | normal pick now | request now
 OK   Matt Nathanson — All We Are | last aired 2026-10-31 08:41 | normal pick now | request now
 OK   Matt Nathanson — Come On Get Higher | last aired 2026-10-26 14:17 | normal pick now | request now

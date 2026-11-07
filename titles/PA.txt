@@ -1,4 +1,4 @@
-Track status, song titles filed under PA (built Sat Nov 7, 10:15 AM PST (18:15 UTC)). Times in UTC.
+Track status, song titles filed under PA (built Sat Nov 7, 10:25 AM PST (18:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Pac-Man (feat. ScHoolboy Q) — Gorillaz | last aired 2026-10-22 00:14 | normal pick now | request now
@@ -10,7 +10,7 @@ OK   Panic Attack (Album Version) — Dream Theater | last aired 2026-10-15 15:0
 OK   Papa Was a Rodeo — The Magnetic Fields | last aired 2026-11-03 16:41 | normal pick now | request now
 OK   Papa Was A Rollin' Stone (Full Version) — The Temptations | last aired 2026-11-05 22:38 | normal pick now | request now
 OK   Paradise City — Guns N' Roses | last aired 2026-10-30 00:04 | normal pick now | request now
-WAIT Paranoid Android — Radiohead | last aired 2026-11-05 18:20 | normal pick from 2026-11-07 18:20 | request from 2026-11-07 18:20
+OK   Paranoid Android — Radiohead | last aired 2026-11-05 18:20 | normal pick now | request now
 OK   Paranoid — Black Sabbath | last aired 2026-11-05 00:36 | normal pick now | request now
 WAIT Parisienne Walkways — Gary Moore | last aired 2026-11-06 13:21 | normal pick from 2026-11-08 01:21 | request now
 OK   Paroles paroles (Album Version) — Dalida | last aired 2026-11-03 15:32 | normal pick now | request now
@@ -18,7 +18,7 @@ WAIT Party Hard (Album Version) — Andrew W.K. | last aired 2026-11-06 22:03 | 
 OK   Party In The U.S.A. — Miley Cyrus | last aired 2026-10-24 21:54 | normal pick now | request now
 OK   Pasión (Album Version) — Rodrigo Leão | last aired 2026-11-05 03:14 | normal pick now | request now
 WAIT Passion Play (Live in Paris) — William Fitzsimmons | last aired 2026-11-07 08:34 | normal pick from 2026-11-09 08:34 | request from 2026-11-09 08:34
-WAIT Passion, Grace & Fire (Album Version) — Al Di Meola | last aired 2026-11-06 06:18 | normal pick from 2026-11-07 18:18 | request now
+OK   Passion, Grace & Fire (Album Version) — Al Di Meola | last aired 2026-11-06 06:18 | normal pick now | request now
 OK   Pata Pata — Miriam Makeba | last aired 2026-10-29 10:21 | normal pick now | request now
 OK   Patient — Playroom | last aired 2026-10-26 15:32 | normal pick now | request now
 OK   Pattern Recognition (feat. ODDEEO) — Neuro-sama | last aired 2026-09-25 15:01 | normal pick now | request now
