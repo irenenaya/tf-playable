@@ -1,4 +1,4 @@
-Track status, artists filed under SO (built Sat Nov 7, 1:25 PM PST (21:25 UTC)). Times in UTC.
+Track status, artists filed under SO (built Sat Nov 7, 1:35 PM PST (21:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Soda Stereo — De Música Ligera (Remasterizado 2007) | last aired 2026-11-07 21:10 | normal pick from 2026-11-09 09:10 | request from 2026-11-08 17:10
@@ -8,7 +8,7 @@ WAIT Soft Cell — Tainted Love | last aired 2026-11-07 21:18 | normal pick from
 OK   Sol Gabetta — Fantasiestücke, Op. 73 - Schumann: Fantasiestücke, Op. 73: No. 1, Zart und mit Ausdruck | last aired 2026-11-03 19:16 | normal pick now | request now
 WAIT Solange — Cranes in the Sky | last aired 2026-11-07 21:14 | normal pick from 2026-11-09 09:14 | request from 2026-11-08 17:14
 WAIT Solarstone — Evensong | last aired 2026-11-07 21:21 | normal pick from 2026-11-09 09:21 | request from 2026-11-08 17:21
-OK   Solisti e Orchestre del Cinema Italiano — L'uomo dell'armonica | last aired 2026-11-04 17:34 | normal pick now | request now
+WAIT Solisti e Orchestre del Cinema Italiano — L'uomo dell'armonica | last aired 2026-11-07 21:29 | normal pick from 2026-11-09 09:29 | request from 2026-11-08 17:29
 OK   Sons Of Apollo — Desolate July | last aired 2026-09-25 16:24 | normal pick now | request now
 OK   Sophie Hunger — Le vent nous portera | last aired 2026-11-04 20:15 | normal pick now | request now
 OK   Sophie Hunger — Shape | last aired 2026-11-04 19:25 | normal pick now | request now
