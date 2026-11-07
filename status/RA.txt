@@ -1,8 +1,8 @@
-Track status, artists filed under RA (built Sat Nov 7, 3:45 PM PST (23:45 UTC)). Times in UTC.
+Track status, artists filed under RA (built Sat Nov 7, 3:55 PM PST (23:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Radiohead — Paranoid Android | last aired 2026-11-05 18:20 | normal pick now | request now
-OK   Radiohead — Weird Fishes / Arpeggi | last aired 2026-11-04 19:06 | normal pick now | request now
+WAIT Radiohead — Weird Fishes / Arpeggi | last aired 2026-11-07 23:44 | normal pick from 2026-11-09 23:44 | request from 2026-11-09 23:44
 OK   Rammstein — Deutschland | last aired 2026-11-04 03:43 | normal pick now | request now
 OK   Ramones — Blitzkrieg Bop | last aired 2026-11-04 16:44 | normal pick now | request now
 WAIT Randy Crawford — One Day I'll Fly Away | last aired 2026-11-07 23:39 | normal pick from 2026-11-09 23:39 | request from 2026-11-09 23:39
@@ -10,7 +10,7 @@ OK   Randy Travis — Forever and Ever, Amen | last aired 2026-11-04 23:02 | nor
 OK   Raquel Tavares — Como É Grande o Meu Amor por Você | last aired 2026-11-03 12:06 | normal pick now | request now
 OK   Ray Anthony — The Hokey Pokey | last aired 2026-11-02 16:45 | normal pick now | request now
 OK   Ray Parker Junior — Ghostbusters (Album Version) | last aired 2026-11-04 20:31 | normal pick now | request now
-OK   Rayland Baxter — Objects In The Mirror | last aired 2026-11-04 19:12 | normal pick now | request now
+WAIT Rayland Baxter — Objects In The Mirror | last aired 2026-11-07 23:49 | normal pick from 2026-11-09 23:49 | request from 2026-11-09 23:49
 OK   The Rah Band — Clouds Across the Moon | last aired 2026-11-05 11:43 | normal pick now | request now
 OK   The Rah Band — Messages from the Stars (Remaster) | last aired 2026-11-04 23:09 | normal pick now | request now
 OK   The Ray Charles Singers — Sweet Little Mountain Bird | last aired 2026-09-18 12:34 | normal pick now | request now
