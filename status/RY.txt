@@ -1,8 +1,8 @@
-Track status, artists filed under RY (built Sat Nov 7, 12:25 AM PST (08:25 UTC)). Times in UTC.
+Track status, artists filed under RY (built Sat Nov 7, 12:35 AM PST (08:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   RY X — Let You Go | last aired 2026-11-04 12:12 | normal pick now | request now
-OK   Ryuichi Sakamoto — andata | last aired 2026-11-04 06:02 | normal pick now | request now
+WAIT Ryuichi Sakamoto — andata | last aired 2026-11-07 08:30 | normal pick from 2026-11-09 08:30 | request from 2026-11-09 08:30
 WAIT Ryuichi Sakamoto — Bibo no Aozora | last aired 2026-11-07 04:58 | normal pick from 2026-11-09 04:58 | request from 2026-11-09 04:58
 OK   Ryuichi Sakamoto — energy flow | last aired 2026-11-04 06:07 | normal pick now | request now
 OK   Ryuichi Sakamoto — Merry Christmas Mr. Lawrence | last aired 2026-11-05 06:16 | normal pick now | request now
