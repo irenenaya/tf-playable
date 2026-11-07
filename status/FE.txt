@@ -1,7 +1,7 @@
-Track status, artists filed under FE (built Fri Nov 6, 6:35 PM PST (02:35 UTC Sat)). Times in UTC.
+Track status, artists filed under FE (built Fri Nov 6, 6:45 PM PST (02:45 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Federico Aubele — Postales | last aired 2026-11-04 21:17 | normal pick now | request now
+WAIT Federico Aubele — Postales | last aired 2026-11-07 02:32 | normal pick from 2026-11-08 14:32 | request from 2026-11-07 22:32
 OK   Fela Kuti — Water No Get Enemy | last aired 2026-10-31 10:25 | normal pick now | request now
 OK   Fennesz — Endless Summer | last aired 2026-10-26 06:01 | normal pick now | request now
 OK   Ferrante & Teicher — Exodus | last aired 2026-10-28 04:49 | normal pick now | request now
