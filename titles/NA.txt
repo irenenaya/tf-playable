@@ -1,4 +1,4 @@
-Track status, song titles filed under NA (built Sat Nov 7, 12:05 PM PST (20:05 UTC)). Times in UTC.
+Track status, song titles filed under NA (built Sat Nov 7, 12:15 PM PST (20:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Nagisade Dance — Takako Mamiya | last aired 2026-11-07 08:05 | normal pick from 2026-11-08 20:05 | request from 2026-11-08 04:05
@@ -6,7 +6,7 @@ OK   Nah Neh Nah — Vaya Con Dios | last aired 2026-10-27 17:02 | normal pick n
 WAIT Naked as We Came — Iron & Wine | last aired 2026-11-07 02:45 | normal pick from 2026-11-09 02:45 | request from 2026-11-09 02:45
 OK   Naked — Obie Fernandez | last aired 2026-10-25 13:18 | normal pick now | request now
 OK   Name On A Screen — Tom Konkle | last aired 2026-10-24 14:24 | normal pick now | request now
-OK   Nasty — Tinashe | last aired 2026-10-25 16:58 | normal pick now | request now
+WAIT Nasty — Tinashe | last aired 2026-11-07 20:10 | normal pick from 2026-11-09 08:10 | request from 2026-11-08 16:10
 OK   Nathalie — Gilbert Bécaud | last aired 2026-11-05 14:39 | normal pick now | request now
 OK   Natural Blues — Moby | last aired 2026-10-31 16:42 | normal pick now | request now
 WAIT Nature Boy — Nat King Cole | last aired 2026-11-06 09:20 | normal pick from 2026-11-07 21:20 | request now
