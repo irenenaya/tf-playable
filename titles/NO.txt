@@ -1,13 +1,13 @@
-Track status, song titles filed under NO (built Sat Nov 7, 7:55 AM PST (15:55 UTC)). Times in UTC.
+Track status, song titles filed under NO (built Sat Nov 7, 8:05 AM PST (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT (No One Knows Me) Like the Piano — Sampha | last aired 2026-11-07 11:54 | normal pick from 2026-11-09 11:54 | request from 2026-11-09 11:54
-WAIT No Bad Vibes — Jazzy | last aired 2026-11-07 13:00 | normal pick from 2026-11-09 01:00 | request from 2026-11-08 09:00
+WAIT No Bad Vibes — Jazzy | last aired 2026-11-07 13:01 | normal pick from 2026-11-09 01:01 | request from 2026-11-08 09:01
 OK   No One Dies From Love — Tove Lo | last aired 2026-10-26 18:20 | normal pick now | request now
 OK   No One Knows — Queens Of The Stone Age | last aired 2026-10-29 01:11 | normal pick now | request now
 OK   No One Survives — Nekrogoblikon | last aired 2026-10-20 23:00 | normal pick now | request now
 WAIT No Ordinary Love (Remastered Version) — Sade | last aired 2026-11-07 12:01 | normal pick from 2026-11-09 12:01 | request from 2026-11-09 12:01
-OK   No Other Heart — Mac DeMarco | last aired 2026-11-05 09:35 | normal pick now | request now
+WAIT No Other Heart — Mac DeMarco | last aired 2026-11-07 16:00 | normal pick from 2026-11-09 16:00 | request from 2026-11-09 16:00
 OK   No Surrender — Bruce Springsteen | last aired 2026-11-01 00:58 | normal pick now | request now
 OK   No. 1 Party Anthem — Arctic Monkeys | last aired 2026-10-27 17:45 | normal pick now | request now
 WAIT Noctilune No. 1 (Bandoneon Solo) — Claudio Constantini | last aired 2026-11-06 12:35 | normal pick from 2026-11-08 00:35 | request now
@@ -17,7 +17,7 @@ OK   Nod Scene — Monster Magnet | last aired 2026-10-28 18:20 | normal pick no
 OK   Northern Sky — Nick Drake | last aired 2026-11-05 13:27 | normal pick now | request now
 OK   Norwegian Reggaeton (feat. Charly Glamour & Gigatron) — Nanowar of Steel | last aired 2026-11-02 18:24 | normal pick now | request now
 OK   Not Like Us — Kendrick Lamar | last aired 2026-11-02 00:30 | normal pick now | request now
-WAIT Nothing Compares 2 U (2009 Remaster) — Sinéad O'Connor | last aired 2026-11-06 00:36 | normal pick from 2026-11-08 00:36 | request from 2026-11-08 00:36
+OK   Nothing Compares 2 U (2009 Remaster) — Sinéad O'Connor | last aired 2026-11-06 00:36 | normal pick now | request now
 OK   Nothing Compares 2 U — Prince | last aired 2026-11-02 18:52 | normal pick now | request now
 OK   Nothing's Gonna Hurt You Baby — Cigarettes After Sex | last aired 2026-10-29 11:36 | normal pick now | request now
 OK   Nothing’s Special — Oneohtrix Point Never | last aired 2026-11-01 12:59 | normal pick now | request now
