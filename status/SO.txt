@@ -1,10 +1,10 @@
-Track status, artists filed under SO (built Fri Nov 6, 8:25 PM PST (04:25 UTC Sat)). Times in UTC.
+Track status, artists filed under SO (built Fri Nov 6, 8:35 PM PST (04:35 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Soda Stereo — De Música Ligera (Remasterizado 2007) | last aired 2026-11-05 16:27 | normal pick from 2026-11-07 04:27 | request now
+OK   Soda Stereo — De Música Ligera (Remasterizado 2007) | last aired 2026-11-05 16:27 | normal pick now | request now
 OK   Soda Stereo — En La Ciudad De La Furia (MTV Unplugged) | last aired 2026-11-03 07:21 | normal pick now | request now
 OK   Soda Stereo — Luna Roja (Remasterizado 2007) | last aired 2026-11-03 18:04 | normal pick now | request now
-WAIT Soft Cell — Tainted Love | last aired 2026-11-05 16:30 | normal pick from 2026-11-07 04:30 | request now
+OK   Soft Cell — Tainted Love | last aired 2026-11-05 16:30 | normal pick now | request now
 OK   Sol Gabetta — Fantasiestücke, Op. 73 - Schumann: Fantasiestücke, Op. 73: No. 1, Zart und mit Ausdruck | last aired 2026-11-03 19:16 | normal pick now | request now
 WAIT Solange — Cranes in the Sky | last aired 2026-11-05 16:38 | normal pick from 2026-11-07 04:38 | request now
 OK   Solarstone — Evensong | last aired 2026-11-03 05:51 | normal pick now | request now
@@ -12,7 +12,7 @@ OK   Solisti e Orchestre del Cinema Italiano — L'uomo dell'armonica | last air
 OK   Sons Of Apollo — Desolate July | last aired 2026-09-25 16:24 | normal pick now | request now
 OK   Sophie Hunger — Le vent nous portera | last aired 2026-11-04 20:15 | normal pick now | request now
 OK   Sophie Hunger — Shape | last aired 2026-11-04 19:25 | normal pick now | request now
-WAIT Soul Coughing — Screenwriter's Blues | last aired 2026-11-05 16:33 | normal pick from 2026-11-07 04:33 | request now
+OK   Soul Coughing — Screenwriter's Blues | last aired 2026-11-05 16:33 | normal pick now | request now
 WAIT Soundgarden — Black Hole Sun | last aired 2026-11-05 16:43 | normal pick from 2026-11-07 04:43 | request now
 OK   Soundgarden — Fell On Black Days (Album Version) | last aired 2026-11-04 20:05 | normal pick now | request now
 OK   Soundgarden — Holy Water (Album Version) | last aired 2026-11-04 21:34 | normal pick now | request now
