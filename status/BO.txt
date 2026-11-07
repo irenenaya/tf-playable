@@ -1,4 +1,4 @@
-Track status, artists filed under BO (built Sat Nov 7, 4:55 AM PST (12:55 UTC)). Times in UTC.
+Track status, artists filed under BO (built Sat Nov 7, 5:05 AM PST (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Boards of Canada — Blood In The Labyrinth | last aired 2026-11-06 05:00 | normal pick from 2026-11-08 05:00 | request from 2026-11-08 05:00
@@ -7,7 +7,7 @@ WAIT Boards of Canada — Olson | last aired 2026-11-06 02:23 | normal pick from
 WAIT Boards of Canada — Roygbiv | last aired 2026-11-07 01:03 | normal pick from 2026-11-09 01:03 | request from 2026-11-09 01:03
 WAIT Bob Dylan — Girl from the North Country | last aired 2026-11-06 00:52 | normal pick from 2026-11-08 00:52 | request from 2026-11-08 00:52
 WAIT Bob Dylan — The Lonesome Death of Hattie Carroll | last aired 2026-11-06 05:40 | normal pick from 2026-11-08 05:40 | request from 2026-11-08 05:40
-WAIT Bob Marley & The Wailers — Get Up, Stand Up | last aired 2026-11-05 12:57 | normal pick from 2026-11-07 12:57 | request from 2026-11-07 12:57
+OK   Bob Marley & The Wailers — Get Up, Stand Up | last aired 2026-11-05 12:57 | normal pick now | request now
 OK   Bobby Caldwell — Coming Down from Love | last aired 2026-11-05 12:49 | normal pick now | request now
 WAIT Bobby Caldwell — What You Won't Do for Love | last aired 2026-11-06 00:08 | normal pick from 2026-11-08 00:08 | request from 2026-11-08 00:08
 OK   Bobby Darin — Beyond the Sea | last aired 2026-11-05 13:20 | normal pick now | request now
@@ -33,7 +33,7 @@ WAIT Booker T. Jones — Everything Is Everything | last aired 2026-11-06 08:19 
 WAIT Bootsy Collins — Psychoticbumpschool (LP Version) | last aired 2026-11-06 22:57 | normal pick from 2026-11-08 10:57 | request from 2026-11-07 18:57
 WAIT Bowling For Soup — 1985 | last aired 2026-11-06 22:54 | normal pick from 2026-11-08 10:54 | request from 2026-11-07 18:54
 OK   Boy Throb — Finger | last aired 2026-10-24 16:49 | normal pick now | request now
-WAIT Boyz II Men — End Of The Road (Album Version) | last aired 2026-11-06 17:04 | normal pick from 2026-11-08 05:04 | request from 2026-11-07 13:04
+WAIT Boyz II Men — End Of The Road (Album Version) | last aired 2026-11-06 17:04 | normal pick from 2026-11-08 05:04 | request now
 OK   Boz Scaggs — JoJo (2023 Remaster) | last aired 2026-11-01 19:35 | normal pick now | request now
 WAIT Boz Scaggs — Lowdown (2023 Remaster) | last aired 2026-11-06 22:49 | normal pick from 2026-11-08 10:49 | request from 2026-11-07 18:49
 WAIT Boz Scaggs — Simone (2023 Remaster) | last aired 2026-11-06 23:20 | normal pick from 2026-11-08 11:20 | request from 2026-11-07 19:20
