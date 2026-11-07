@@ -1,4 +1,4 @@
-Track status, artists filed under HE (built Sat Nov 7, 1:15 AM PST (09:15 UTC)). Times in UTC.
+Track status, artists filed under HE (built Sat Nov 7, 1:25 AM PST (09:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Heathered Pearls — Pacific Summits (Pulse Version) | last aired 2026-10-24 06:16 | normal pick now | request now
@@ -8,7 +8,7 @@ WAIT Helado Negro — Brown Fluorescence | last aired 2026-11-06 13:32 | normal 
 OK   Helen Forrest — It's Been A Long, Long Time | last aired 2026-10-21 04:51 | normal pick now | request now
 WAIT Helios — First Dream Called Ocean | last aired 2026-11-06 13:28 | normal pick from 2026-11-08 01:28 | request from 2026-11-07 09:28
 OK   Helloween — Eagle Fly Free (Remastered 2024) | last aired 2026-11-01 23:59 | normal pick now | request now
-WAIT Hem — Betting on Trains (Remastered 2025) | last aired 2026-11-06 13:25 | normal pick from 2026-11-08 01:25 | request from 2026-11-07 09:25
+WAIT Hem — Betting on Trains (Remastered 2025) | last aired 2026-11-06 13:25 | normal pick from 2026-11-08 01:25 | request now
 WAIT Hem — Half Acre (Remastered 2025) | last aired 2026-11-07 01:56 | normal pick from 2026-11-08 13:56 | request from 2026-11-07 21:56
 OK   Henry Cow — Beautiful as the Moon; Terrible as an Army with Banners | last aired 2026-10-10 19:17 | normal pick now | request now
 WAIT Henry Mancini — Moon River (Remastered) | last aired 2026-11-07 01:54 | normal pick from 2026-11-08 13:54 | request from 2026-11-07 21:54
