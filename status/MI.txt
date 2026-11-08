@@ -1,4 +1,4 @@
-Track status, artists filed under MI (built Sun Nov 8, 12:15 PM PST (20:15 UTC)). Times in UTC.
+Track status, artists filed under MI (built Sun Nov 8, 12:25 PM PST (20:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Mica Levi — Love | last aired 2026-11-06 16:55 | normal pick now | request now
@@ -13,7 +13,7 @@ OK   Michael Jackson — Rock with You (Single Version) | last aired 2026-11-07 
 OK   Michael Jackson — Stranger in Moscow | last aired 2026-10-29 12:39 | normal pick now | request now
 OK   Michael Jackson — Thriller | last aired 2026-10-31 13:09 | normal pick now | request now
 OK   Michael Jackson — Who Is It | last aired 2026-10-29 22:14 | normal pick now | request now
-WAIT Michael Jackson — You Are Not Alone | last aired 2026-11-08 00:17 | normal pick from 2026-11-09 12:17 | request from 2026-11-08 20:17
+WAIT Michael Jackson — You Are Not Alone | last aired 2026-11-08 00:17 | normal pick from 2026-11-09 12:17 | request now
 OK   Michael McDonald — I Keep Forgettin' (Every Time You're Near) | last aired 2026-11-07 00:54 | normal pick now | request now
 OK   MIKA — Grace Kelly | last aired 2026-11-06 16:40 | normal pick now | request now
 OK   Mike Marshall — Big Country (Instrumental) | last aired 2026-10-29 04:23 | normal pick now | request now
