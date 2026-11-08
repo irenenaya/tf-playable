@@ -1,7 +1,7 @@
-Track status, artists filed under BE (built Sun Nov 8, 3:05 PM PST (23:05 UTC)). Times in UTC.
+Track status, artists filed under BE (built Sun Nov 8, 3:15 PM PST (23:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Beach House — Bluebird | last aired 2026-11-07 11:12 | normal pick from 2026-11-08 23:12 | request now
+OK   Beach House — Bluebird | last aired 2026-11-07 11:12 | normal pick now | request now
 WAIT Beach House — Space Song | last aired 2026-11-07 10:59 | normal pick from 2026-11-09 10:59 | request from 2026-11-09 10:59
 WAIT Beastie Boys — Sabotage | last aired 2026-11-08 14:36 | normal pick from 2026-11-10 02:36 | request from 2026-11-09 10:36
 WAIT Beatrice Rana — Keyboard Concerto No. 1 in D Minor, BWV 1052: I. Allegro | last aired 2026-11-08 12:27 | normal pick from 2026-11-10 00:27 | request from 2026-11-09 08:27
