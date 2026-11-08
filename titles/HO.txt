@@ -1,8 +1,8 @@
-Track status, song titles filed under HO (built Sun Nov 8, 2:25 PM PST (22:25 UTC)). Times in UTC.
+Track status, song titles filed under HO (built Sun Nov 8, 2:35 PM PST (22:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Holding — Grouper | last aired 2026-11-07 17:07 | normal pick from 2026-11-09 05:07 | request now
-OK   Holding Out for a Hero (From "Footloose" Soundtrack) — Bonnie Tyler | last aired 2026-11-06 15:47 | normal pick now | request now
+WAIT Holding Out for a Hero (From "Footloose" Soundtrack) — Bonnie Tyler | last aired 2026-11-08 22:30 | normal pick from 2026-11-10 22:30 | request from 2026-11-10 22:30
 OK   Holiday (Remastered 2015) — Scorpions | last aired 2026-10-26 01:17 | normal pick now | request now
 WAIT Holiday — Madonna | last aired 2026-11-07 14:52 | normal pick from 2026-11-09 02:52 | request now
 WAIT Holocene — Bon Iver | last aired 2026-11-08 04:34 | normal pick from 2026-11-10 04:34 | request from 2026-11-10 04:34
@@ -12,7 +12,7 @@ OK   Honesty (Album Version) — Billy Joel | last aired 2026-11-06 03:32 | norm
 OK   Honey Bones — Dope Lemon | last aired 2026-10-31 20:02 | normal pick now | request now
 OK   Hong Kong — Gorillaz | last aired 2026-11-05 21:22 | normal pick now | request now
 OK   Hope Road (A-Z Route) — Anne Clark | last aired 2026-11-06 21:16 | normal pick now | request now
-WAIT Hopopono — GoGo Penguin | last aired 2026-11-08 02:28 | normal pick from 2026-11-09 14:28 | request from 2026-11-08 22:28
+WAIT Hopopono — GoGo Penguin | last aired 2026-11-08 02:28 | normal pick from 2026-11-09 14:28 | request now
 WAIT Hoppípolla — Sigur Rós | last aired 2026-11-07 17:56 | normal pick from 2026-11-09 17:56 | request from 2026-11-09 17:56
 OK   HOT TO GO! — Chappell Roan | last aired 2026-11-03 14:16 | normal pick now | request now
 OK   Hotel California (2013 Remaster) — Eagles | last aired 2026-11-04 16:08 | normal pick now | request now

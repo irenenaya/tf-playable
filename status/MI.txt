@@ -1,7 +1,7 @@
-Track status, artists filed under MI (built Sun Nov 8, 2:25 PM PST (22:25 UTC)). Times in UTC.
+Track status, artists filed under MI (built Sun Nov 8, 2:35 PM PST (22:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Mica Levi — Love | last aired 2026-11-06 16:55 | normal pick now | request now
+WAIT Mica Levi — Love | last aired 2026-11-08 22:25 | normal pick from 2026-11-10 10:25 | request from 2026-11-09 18:25
 WAIT Michael Brook — Ultramarine | last aired 2026-11-08 06:35 | normal pick from 2026-11-10 06:35 | request from 2026-11-10 06:35
 WAIT Michael Bublé — Crazy (with Jon Batiste & Stay Human) (Live) | last aired 2026-11-08 22:00 | normal pick from 2026-11-10 10:00 | request from 2026-11-09 18:00
 OK   Michael Damian — Rock On | last aired 2026-11-06 16:46 | normal pick now | request now
@@ -20,7 +20,7 @@ OK   Mike Marshall — Big Country (Instrumental) | last aired 2026-10-29 04:23 
 OK   Mike Oldfield — Moonlight Shadow | last aired 2026-11-07 06:42 | normal pick now | request now
 WAIT Mikis Theodorakis — Zorba the Greek: Zorba's Dance | last aired 2026-11-08 01:04 | normal pick from 2026-11-10 01:04 | request from 2026-11-10 01:04
 WAIT Miles Davis — Blue in Green | last aired 2026-11-08 00:11 | normal pick from 2026-11-09 12:11 | request now
-WAIT Miles Davis — Flamenco Sketches | last aired 2026-11-08 02:35 | normal pick from 2026-11-09 14:35 | request from 2026-11-08 22:35
+WAIT Miles Davis — Flamenco Sketches | last aired 2026-11-08 02:35 | normal pick from 2026-11-09 14:35 | request now
 OK   Miles Davis — So What | last aired 2026-11-06 16:28 | normal pick now | request now
 OK   Miley Cyrus — Flowers | last aired 2026-11-06 16:43 | normal pick now | request now
 OK   Miley Cyrus — Party In The U.S.A. | last aired 2026-10-24 21:54 | normal pick now | request now
