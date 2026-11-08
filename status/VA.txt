@@ -1,4 +1,4 @@
-Track status, artists filed under VA (built Sun Nov 8, 11:05 AM PST (19:05 UTC)). Times in UTC.
+Track status, artists filed under VA (built Sun Nov 8, 11:15 AM PST (19:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Vampire Lestat — Brutal Love | last aired 2026-10-09 15:42 | normal pick now | request now
@@ -6,7 +6,7 @@ OK   The Vampire Lestat — Dancing With Myself | last aired 2026-10-18 03:44 | 
 OK   The Vampire Lestat — La Fontaine De Sang | last aired 2026-10-26 01:58 | normal pick now | request now
 WAIT Van Halen — Jump (2015 Remaster) | last aired 2026-11-08 15:40 | normal pick from 2026-11-10 03:40 | request from 2026-11-09 11:40
 WAIT Vangelis — La petite fille de la mer | last aired 2026-11-07 23:19 | normal pick from 2026-11-09 11:19 | request from 2026-11-08 19:19
-OK   Vanilla Ice — Ninja Rap | last aired 2026-10-22 20:37 | normal pick now | request now
+WAIT Vanilla Ice — Ninja Rap | last aired 2026-11-08 19:03 | normal pick from 2026-11-10 07:03 | request from 2026-11-09 15:03
 OK   Various Interprets — At Last | last aired 2026-09-27 15:48 | normal pick now | request now
 OK   Various Interprets — Come Tomorrow (Duet With Barry Gibb (Album Version)) | last aired 2026-10-26 03:00 | normal pick now | request now
 WAIT VAST — Thrown Away | last aired 2026-11-08 17:34 | normal pick from 2026-11-10 05:34 | request from 2026-11-09 13:34
