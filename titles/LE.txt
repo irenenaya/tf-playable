@@ -1,11 +1,11 @@
-Track status, song titles filed under LE (built Sun Nov 8, 5:55 AM PST (13:55 UTC)). Times in UTC.
+Track status, song titles filed under LE (built Sun Nov 8, 6:05 AM PST (14:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Le Chant des oiseaux — La Fenice | last aired 2026-10-02 15:12 | normal pick now | request now
 WAIT Le Coeur — Thievery Corporation | last aired 2026-11-07 18:21 | normal pick from 2026-11-09 06:21 | request from 2026-11-08 14:21
 WAIT Le onde — Chris Snelling | last aired 2026-11-08 11:51 | normal pick from 2026-11-09 23:51 | request from 2026-11-09 07:51
 OK   Le Pianiste de Varsovie — Gilbert Bécaud | last aired 2026-11-05 15:31 | normal pick now | request now
-WAIT Le vent nous portera — Sophie Hunger | last aired 2026-11-08 09:28 | normal pick from 2026-11-09 21:28 | request from 2026-11-09 05:28
+WAIT Le vent nous portera — Sophie Hunger | last aired 2026-11-08 09:29 | normal pick from 2026-11-09 21:29 | request from 2026-11-09 05:29
 OK   Lean On Me — Club Nouveau | last aired 2026-10-25 09:53 | normal pick now | request now
 OK   leavemealone — Fred again.. | last aired 2026-10-27 00:38 | normal pick now | request now
 WAIT Leaves — Ben&Ben | last aired 2026-11-07 11:23 | normal pick from 2026-11-08 23:23 | request now
@@ -13,7 +13,7 @@ WAIT Lebanese Blonde — Thievery Corporation | last aired 2026-11-07 16:28 | no
 OK   Left of the Dial (Ed Stasium Mix) — The Replacements | last aired 2026-10-31 12:16 | normal pick now | request now
 OK   Lemon — Kenshi Yonezu | last aired 2026-10-26 22:45 | normal pick now | request now
 WAIT Les Nuits — Nightmares On Wax | last aired 2026-11-07 21:46 | normal pick from 2026-11-09 09:46 | request from 2026-11-08 17:46
-WAIT LesAlpx — Floating Points | last aired 2026-11-08 10:50 | normal pick from 2026-11-09 22:50 | request from 2026-11-09 06:50
+WAIT LesAlpx — Floating Points | last aired 2026-11-08 10:51 | normal pick from 2026-11-09 22:51 | request from 2026-11-09 06:51
 OK   Less Than — Nine Inch Nails | last aired 2026-11-07 00:41 | normal pick now | request now
 WAIT Let You Go — RY X | last aired 2026-11-08 10:28 | normal pick from 2026-11-09 22:28 | request from 2026-11-09 06:28
 OK   Let's Dance (2018 Remaster) — David Bowie | last aired 2026-10-30 19:23 | normal pick now | request now
