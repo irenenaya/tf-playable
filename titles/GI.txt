@@ -1,11 +1,11 @@
-Track status, song titles filed under GI (built Sat Nov 7, 4:45 PM PST (00:45 UTC Sun)). Times in UTC.
+Track status, song titles filed under GI (built Sat Nov 7, 4:55 PM PST (00:55 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Gilded Lily — Cults | last aired 2026-11-03 10:18 | normal pick now | request now
 OK   Gimme Some More — Busta Rhymes | last aired 2026-11-02 18:02 | normal pick now | request now
 WAIT Gimme! Gimme! Gimme! (A Man After Midnight) — ABBA | last aired 2026-11-07 00:58 | normal pick from 2026-11-08 12:58 | request now
 OK   Girl (Remastered) — The Beatles | last aired 2026-11-05 08:04 | normal pick now | request now
-WAIT Girl from the North Country — Bob Dylan | last aired 2026-11-06 00:52 | normal pick from 2026-11-08 00:52 | request from 2026-11-08 00:52
+OK   Girl from the North Country — Bob Dylan | last aired 2026-11-06 00:52 | normal pick now | request now
 OK   Girls Just Want to Have Fun — Cyndi Lauper | last aired 2026-10-23 09:12 | normal pick now | request now
 OK   Give Peace A Chance (Remastered 2010) — John Lennon | last aired 2026-10-30 02:14 | normal pick now | request now
 OK   Give Up The Funk (Tear The Roof Off The Sucker) — Parliament | last aired 2026-11-04 17:36 | normal pick now | request now

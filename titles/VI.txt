@@ -1,7 +1,7 @@
-Track status, song titles filed under VI (built Sat Nov 7, 4:45 PM PST (00:45 UTC Sun)). Times in UTC.
+Track status, song titles filed under VI (built Sat Nov 7, 4:55 PM PST (00:55 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Via Con Me — Paolo Conte | last aired 2026-11-04 00:34 | normal pick now | request now
+WAIT Via Con Me — Paolo Conte | last aired 2026-11-08 00:42 | normal pick from 2026-11-10 00:42 | request from 2026-11-10 00:42
 OK   Vice II — Database | last aired 2026-10-09 11:05 | normal pick now | request now
 OK   Victory Lap — Fred again.. | last aired 2026-10-28 17:25 | normal pick now | request now
 WAIT Vida En El Espejo — Enjambre | last aired 2026-11-06 19:35 | normal pick from 2026-11-08 07:35 | request now
