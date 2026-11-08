@@ -1,10 +1,10 @@
-Track status, song titles filed under MA (built Sun Nov 8, 10:25 AM PST (18:25 UTC)). Times in UTC.
+Track status, song titles filed under MA (built Sun Nov 8, 10:35 AM PST (18:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Mad World — Gary Jules | last aired 2026-11-06 13:18 | normal pick now | request now
 OK   Mad World — Tears For Fears | last aired 2026-11-04 05:59 | normal pick now | request now
 OK   Madder — Groove Armada | last aired 2026-11-03 08:44 | normal pick now | request now
-WAIT Madwoman — Laufey | last aired 2026-11-07 06:28 | normal pick from 2026-11-08 18:28 | request now
+OK   Madwoman — Laufey | last aired 2026-11-07 06:28 | normal pick now | request now
 OK   Magic Wanda — Daikaiju | last aired 2026-10-26 03:11 | normal pick now | request now
 OK   Main Theme — Filippo Beck Peccoz | last aired 2026-10-22 05:16 | normal pick now | request now
 WAIT Mais je t'aime — Grand Corps Malade | last aired 2026-11-08 16:29 | normal pick from 2026-11-10 16:29 | request from 2026-11-10 16:29
