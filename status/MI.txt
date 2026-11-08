@@ -1,9 +1,9 @@
-Track status, artists filed under MI (built Sat Nov 7, 8:55 PM PST (04:55 UTC Sun)). Times in UTC.
+Track status, artists filed under MI (built Sat Nov 7, 9:05 PM PST (05:05 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Mica Levi — Love | last aired 2026-11-06 16:55 | normal pick now | request now
 OK   Michael Brook — Ultramarine | last aired 2026-11-06 14:48 | normal pick now | request now
-WAIT Michael Bublé — Crazy (with Jon Batiste & Stay Human) (Live) | last aired 2026-11-06 17:00 | normal pick from 2026-11-08 05:00 | request now
+OK   Michael Bublé — Crazy (with Jon Batiste & Stay Human) (Live) | last aired 2026-11-06 17:00 | normal pick now | request now
 OK   Michael Damian — Rock On | last aired 2026-11-06 16:46 | normal pick now | request now
 WAIT Michael Hedges — Aerial Boundaries | last aired 2026-11-06 14:39 | normal pick from 2026-11-08 14:39 | request from 2026-11-08 14:39
 OK   Michael Hutchence — Slide Away | last aired 2026-11-06 14:44 | normal pick now | request now
@@ -20,7 +20,7 @@ OK   Mike Marshall — Big Country (Instrumental) | last aired 2026-10-29 04:23 
 WAIT Mike Oldfield — Moonlight Shadow | last aired 2026-11-07 06:42 | normal pick from 2026-11-08 18:42 | request now
 WAIT Mikis Theodorakis — Zorba the Greek: Zorba's Dance | last aired 2026-11-08 01:04 | normal pick from 2026-11-10 01:04 | request from 2026-11-10 01:04
 WAIT Miles Davis — Blue in Green | last aired 2026-11-08 00:11 | normal pick from 2026-11-09 12:11 | request from 2026-11-08 20:11
-WAIT Miles Davis — Flamenco Sketches | last aired 2026-11-08 02:34 | normal pick from 2026-11-09 14:34 | request from 2026-11-08 22:34
+WAIT Miles Davis — Flamenco Sketches | last aired 2026-11-08 02:35 | normal pick from 2026-11-09 14:35 | request from 2026-11-08 22:35
 OK   Miles Davis — So What | last aired 2026-11-06 16:28 | normal pick now | request now
 OK   Miley Cyrus — Flowers | last aired 2026-11-06 16:43 | normal pick now | request now
 OK   Miley Cyrus — Party In The U.S.A. | last aired 2026-10-24 21:54 | normal pick now | request now
