@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Sun Nov 8, 10:45 AM PST (18:45 UTC)). Times in UTC.
+Track status, artists filed under BE (built Sun Nov 8, 10:55 AM PST (18:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Beach House — Bluebird | last aired 2026-11-07 11:12 | normal pick from 2026-11-08 23:12 | request now
@@ -9,7 +9,7 @@ WAIT Beatrice Rana — Libertango (Arr. Yamamoto for Piano 4-Hands) | last aired
 OK   Beats by Luca — 52 CHICKEN NUGGET (McRave) | last aired 2026-10-18 11:09 | normal pick now | request now
 WAIT Bebel Gilberto — Samba Da Benção | last aired 2026-11-08 06:26 | normal pick from 2026-11-10 06:26 | request from 2026-11-10 06:26
 OK   Beck — Devils Haircut | last aired 2026-11-05 07:18 | normal pick now | request now
-OK   Beck — Loser | last aired 2026-11-05 07:20 | normal pick now | request now
+WAIT Beck — Loser | last aired 2026-11-08 18:49 | normal pick from 2026-11-10 06:49 | request from 2026-11-09 14:49
 WAIT Beck — The New Pollution | last aired 2026-11-08 14:02 | normal pick from 2026-11-10 14:02 | request from 2026-11-10 14:02
 OK   Becky Levi and the Nightjars — Wake Me Up | last aired 2026-10-22 06:23 | normal pick now | request now
 WAIT Bee Gees — Night Fever (From "Saturday Night Fever" Soundtrack) | last aired 2026-11-08 14:11 | normal pick from 2026-11-10 02:11 | request from 2026-11-09 10:11
