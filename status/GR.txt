@@ -1,4 +1,4 @@
-Track status, artists filed under GR (built Sat Nov 7, 4:05 PM PST (00:05 UTC Sun)). Times in UTC.
+Track status, artists filed under GR (built Sat Nov 7, 4:15 PM PST (00:15 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   G.Rag & die Landlergschwister — Odessa | last aired 2026-10-27 10:51 | normal pick now | request now
@@ -17,5 +17,5 @@ OK   Groove Armada — My Friend (Album Version) | last aired 2026-10-28 23:24 |
 OK   Grossstadtgeflüster — Fickt-Euch-Allee | last aired 2026-09-18 10:29 | normal pick now | request now
 WAIT Grouper — Alien Observer | last aired 2026-11-07 17:45 | normal pick from 2026-11-09 17:45 | request from 2026-11-09 17:45
 WAIT Grouper — Holding | last aired 2026-11-07 17:07 | normal pick from 2026-11-09 05:07 | request from 2026-11-08 13:07
-OK   Grover Washington Jr. — Mister Magic | last aired 2026-11-04 04:42 | normal pick now | request now
+WAIT Grover Washington Jr. — Mister Magic | last aired 2026-11-08 00:02 | normal pick from 2026-11-09 12:02 | request from 2026-11-08 20:02
 OK   The Green — Love I | last aired 2026-10-30 15:06 | normal pick now | request now
