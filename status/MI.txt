@@ -1,4 +1,4 @@
-Track status, artists filed under MI (built Sun Nov 8, 4:45 AM PST (12:45 UTC)). Times in UTC.
+Track status, artists filed under MI (built Sun Nov 8, 4:55 AM PST (12:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Mica Levi — Love | last aired 2026-11-06 16:55 | normal pick now | request now
@@ -9,12 +9,12 @@ WAIT Michael Hedges — Aerial Boundaries | last aired 2026-11-06 14:39 | normal
 OK   Michael Hutchence — Slide Away | last aired 2026-11-06 14:44 | normal pick now | request now
 OK   Michael Jackson — Jam | last aired 2026-11-06 14:53 | normal pick now | request now
 OK   Michael Jackson — Morphine (Album Version) | last aired 2026-10-29 22:56 | normal pick now | request now
-WAIT Michael Jackson — Rock with You (Single Version) | last aired 2026-11-07 00:50 | normal pick from 2026-11-08 12:50 | request now
+OK   Michael Jackson — Rock with You (Single Version) | last aired 2026-11-07 00:50 | normal pick now | request now
 OK   Michael Jackson — Stranger in Moscow | last aired 2026-10-29 12:39 | normal pick now | request now
 OK   Michael Jackson — Thriller | last aired 2026-10-31 13:09 | normal pick now | request now
 OK   Michael Jackson — Who Is It | last aired 2026-10-29 22:14 | normal pick now | request now
 WAIT Michael Jackson — You Are Not Alone | last aired 2026-11-08 00:17 | normal pick from 2026-11-09 12:17 | request from 2026-11-08 20:17
-WAIT Michael McDonald — I Keep Forgettin' (Every Time You're Near) | last aired 2026-11-07 00:54 | normal pick from 2026-11-08 12:54 | request now
+OK   Michael McDonald — I Keep Forgettin' (Every Time You're Near) | last aired 2026-11-07 00:54 | normal pick now | request now
 OK   MIKA — Grace Kelly | last aired 2026-11-06 16:40 | normal pick now | request now
 OK   Mike Marshall — Big Country (Instrumental) | last aired 2026-10-29 04:23 | normal pick now | request now
 WAIT Mike Oldfield — Moonlight Shadow | last aired 2026-11-07 06:42 | normal pick from 2026-11-08 18:42 | request now
