@@ -1,10 +1,10 @@
-Track status, artists filed under DE (built Sun Nov 8, 3:35 AM PST (11:35 UTC)). Times in UTC.
+Track status, artists filed under DE (built Sun Nov 8, 3:45 AM PST (11:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   De La Soul — Me Myself and I | last aired 2026-11-04 23:50 | normal pick now | request now
 OK   Dead Can Dance — Bird | last aired 2026-11-05 03:38 | normal pick now | request now
 WAIT Dead Can Dance — The Host of Seraphim (Remastered) | last aired 2026-11-08 11:22 | normal pick from 2026-11-09 23:22 | request from 2026-11-09 07:22
-OK   Dean Martin — Everybody Loves Somebody | last aired 2026-11-06 12:39 | normal pick now | request now
+WAIT Dean Martin — Everybody Loves Somebody | last aired 2026-11-08 11:41 | normal pick from 2026-11-09 23:41 | request from 2026-11-09 07:41
 OK   Deathbrain — the empty space is stuck in my head | last aired 2026-10-25 13:22 | normal pick now | request now
 OK   DEEN — Ride On Time | last aired 2026-10-16 03:27 | normal pick now | request now
 OK   Def Leppard — Photograph | last aired 2026-11-05 23:38 | normal pick now | request now
