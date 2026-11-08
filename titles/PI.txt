@@ -1,4 +1,4 @@
-Track status, song titles filed under PI (built Sun Nov 8, 5:05 AM PST (13:05 UTC)). Times in UTC.
+Track status, song titles filed under PI (built Sun Nov 8, 5:15 AM PST (13:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Piano Sonata No. 14 in C-Sharp Minor, Op. 27, No. 2, "Moonlight" - I. Adagio sostenuto — Igor Levit | last aired 2026-10-31 07:33 | normal pick now | request now
@@ -8,4 +8,4 @@ WAIT Pink + White — Frank Ocean | last aired 2026-11-08 05:38 | normal pick fr
 OK   Pink Frost — The Chills | last aired 2026-11-06 11:51 | normal pick now | request now
 OK   Pink Moon — Nick Drake | last aired 2026-11-06 00:00 | normal pick now | request now
 OK   Pink Pony Club — Chappell Roan | last aired 2026-11-02 00:24 | normal pick now | request now
-OK   Pièces froides No.1 "Trois airs à faire fuir" — France Clidat | last aired 2026-10-25 06:51 | normal pick now | request now
+WAIT Pièces froides No.1 "Trois airs à faire fuir" — France Clidat | last aired 2026-11-08 13:04 | normal pick from 2026-11-10 01:04 | request from 2026-11-09 09:04
