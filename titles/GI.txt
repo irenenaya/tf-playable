@@ -1,4 +1,4 @@
-Track status, song titles filed under GI (built Sun Nov 8, 2:15 AM PST (10:15 UTC)). Times in UTC.
+Track status, song titles filed under GI (built Sun Nov 8, 2:25 AM PST (10:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Gilded Lily — Cults | last aired 2026-11-03 10:18 | normal pick now | request now
@@ -9,4 +9,4 @@ OK   Girl from the North Country — Bob Dylan | last aired 2026-11-06 00:52 | n
 OK   Girls Just Want to Have Fun — Cyndi Lauper | last aired 2026-10-23 09:12 | normal pick now | request now
 OK   Give Peace A Chance (Remastered 2010) — John Lennon | last aired 2026-10-30 02:14 | normal pick now | request now
 OK   Give Up The Funk (Tear The Roof Off The Sucker) — Parliament | last aired 2026-11-04 17:36 | normal pick now | request now
-OK   The Girl From Ipanema — Antonio Carlos Jobim | last aired 2026-11-06 04:18 | normal pick now | request now
+WAIT The Girl From Ipanema — Antonio Carlos Jobim | last aired 2026-11-08 10:18 | normal pick from 2026-11-10 10:18 | request from 2026-11-10 10:18
