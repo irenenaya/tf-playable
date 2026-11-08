@@ -1,4 +1,4 @@
-Track status, artists filed under RO (built Sun Nov 8, 10:05 AM PST (18:05 UTC)). Times in UTC.
+Track status, artists filed under RO (built Sun Nov 8, 10:15 AM PST (18:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Robbie Dupree — Steal Away | last aired 2026-11-06 21:32 | normal pick now | request now
@@ -19,7 +19,7 @@ OK   Roseanna Vitro — If I Didn't Have You (If I Didn't Have You) | last aired
 WAIT Roxette — See Me | last aired 2026-11-08 09:10 | normal pick from 2026-11-09 21:10 | request from 2026-11-09 05:10
 WAIT Roxette — The Look | last aired 2026-11-08 04:02 | normal pick from 2026-11-09 16:02 | request from 2026-11-09 00:02
 OK   Roxy Music — Bitter Sweet (Remastered 1999) | last aired 2026-11-06 18:15 | normal pick now | request now
-WAIT Roy Ayers Ubiquity — Everybody Loves The Sunshine | last aired 2026-11-06 18:07 | normal pick from 2026-11-08 18:07 | request from 2026-11-08 18:07
+OK   Roy Ayers Ubiquity — Everybody Loves The Sunshine | last aired 2026-11-06 18:07 | normal pick now | request now
 WAIT Roy Orbison — Oh, Pretty Woman | last aired 2026-11-08 03:59 | normal pick from 2026-11-09 15:59 | request from 2026-11-08 23:59
 WAIT Royal Blood — Boilermaker | last aired 2026-11-08 04:14 | normal pick from 2026-11-09 16:14 | request from 2026-11-09 00:14
 WAIT Rozen — Voice of NO Return | last aired 2026-11-08 04:17 | normal pick from 2026-11-09 16:17 | request from 2026-11-09 00:17
