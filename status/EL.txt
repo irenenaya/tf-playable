@@ -1,4 +1,4 @@
-Track status, artists filed under EL (built Sat Nov 7, 9:15 PM PST (05:15 UTC Sun)). Times in UTC.
+Track status, artists filed under EL (built Sat Nov 7, 9:25 PM PST (05:25 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Electric Light Orchestra — Evil Woman | last aired 2026-11-06 23:57 | normal pick from 2026-11-08 11:57 | request now
@@ -13,7 +13,7 @@ OK   Elliott Smith — Independence Day | last aired 2026-11-05 00:39 | normal p
 WAIT Elton John — Rocket Man (I Think It's Going To Be A Long, Long Time) | last aired 2026-11-06 13:00 | normal pick from 2026-11-08 13:00 | request from 2026-11-08 13:00
 WAIT Eluvium — Indoor Swimming At The Space Station | last aired 2026-11-06 12:41 | normal pick from 2026-11-08 12:41 | request from 2026-11-08 12:41
 OK   Eluvium — Surrounded by Illusion | last aired 2026-11-02 06:50 | normal pick now | request now
-WAIT Eluvium — Taken | last aired 2026-11-06 17:22 | normal pick from 2026-11-08 05:22 | request now
-OK   Elvis Costello — Almost Blue | last aired 2026-11-05 15:37 | normal pick now | request now
+OK   Eluvium — Taken | last aired 2026-11-06 17:22 | normal pick now | request now
+WAIT Elvis Costello — Almost Blue | last aired 2026-11-08 05:20 | normal pick from 2026-11-09 17:20 | request from 2026-11-09 01:20
 OK   Elvis Costello — Watching The Detectives (Single Version) | last aired 2026-11-05 14:05 | normal pick now | request now
 OK   Elvis Presley — Can't Help Falling in Love | last aired 2026-11-05 13:55 | normal pick now | request now
