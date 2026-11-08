@@ -1,4 +1,4 @@
-Track status, artists filed under ST (built Sat Nov 7, 11:15 PM PST (07:15 UTC Sun)). Times in UTC.
+Track status, artists filed under ST (built Sat Nov 7, 11:25 PM PST (07:25 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   St Germain — Rose rouge | last aired 2026-11-06 07:57 | normal pick now | request now
@@ -10,7 +10,7 @@ OK   Stars of the Lid — Requiem for Dying Mothers, Pt. 2 | last aired 2026-11-
 WAIT Stealers Wheel — Stuck In The Middle With You | last aired 2026-11-06 22:28 | normal pick from 2026-11-08 22:28 | request from 2026-11-08 22:28
 OK   Steely Dan — Almost Gothic (Album Version) | last aired 2026-11-06 08:15 | normal pick now | request now
 OK   Steely Dan — Babylon Sisters | last aired 2026-11-03 14:46 | normal pick now | request now
-WAIT Steely Dan — Home At Last | last aired 2026-11-06 19:20 | normal pick from 2026-11-08 07:20 | request now
+OK   Steely Dan — Home At Last | last aired 2026-11-06 19:20 | normal pick now | request now
 OK   Steely Dan — Jack of Speed (Album Version) | last aired 2026-11-02 12:51 | normal pick now | request now
 OK   Steely Dan — Kid Charlemagne | last aired 2026-11-02 01:35 | normal pick now | request now
 WAIT Steely Dan — Peg | last aired 2026-11-07 18:51 | normal pick from 2026-11-09 06:51 | request from 2026-11-08 14:51
@@ -21,7 +21,7 @@ WAIT Stevie Ray Vaughan & Double Trouble — Pride and Joy | last aired 2026-11-
 OK   Stevie Ray Vaughan & Double Trouble — Riviera Paradise | last aired 2026-10-31 23:55 | normal pick now | request now
 OK   Stevie Wonder — As | last aired 2026-11-01 16:30 | normal pick now | request now
 OK   Stevie Wonder — Go Home | last aired 2026-11-02 12:41 | normal pick now | request now
-WAIT Stevie Wonder — Golden Lady | last aired 2026-11-06 19:25 | normal pick from 2026-11-08 07:25 | request now
+OK   Stevie Wonder — Golden Lady | last aired 2026-11-06 19:25 | normal pick now | request now
 OK   Stevie Wonder — Happy Birthday | last aired 2026-11-02 00:43 | normal pick now | request now
 WAIT Stevie Wonder — Higher Ground (Album Version) | last aired 2026-11-07 20:33 | normal pick from 2026-11-09 08:33 | request from 2026-11-08 16:33
 WAIT Stevie Wonder — I Wish | last aired 2026-11-07 19:48 | normal pick from 2026-11-09 07:48 | request from 2026-11-08 15:48
@@ -34,7 +34,7 @@ OK   Stevie Wonder — Superstition (Album Version) | last aired 2026-10-30 17:0
 OK   Stevie Wonder — You Haven't Done Nothin' | last aired 2026-11-02 19:53 | normal pick now | request now
 OK   Still Woozy — Get Down | last aired 2026-11-01 16:45 | normal pick now | request now
 OK   Sting — Desert Rose (Album Version) | last aired 2026-11-01 21:16 | normal pick now | request now
-WAIT Sting — Fields Of Gold (My Songs Version) | last aired 2026-11-06 19:16 | normal pick from 2026-11-08 07:16 | request now
+OK   Sting — Fields Of Gold (My Songs Version) | last aired 2026-11-06 19:16 | normal pick now | request now
 OK   Sting — Fragile | last aired 2026-11-06 08:04 | normal pick now | request now
 OK   Sting — If You Love Somebody Set Them Free (Single Edit) | last aired 2026-11-02 12:47 | normal pick now | request now
 OK   Sting — Shape Of My Heart (My Songs Version) | last aired 2026-11-02 03:37 | normal pick now | request now
