@@ -1,9 +1,9 @@
-Track status, song titles filed under CI (built Sat Nov 7, 10:45 PM PST (06:45 UTC Sun)). Times in UTC.
+Track status, song titles filed under CI (built Sat Nov 7, 10:55 PM PST (06:55 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Ciao Ciao — La Rappresentante di Lista | last aired 2026-11-01 13:22 | normal pick now | request now
 OK   Circle (Album Version) — Edie Brickell & New Bohemians | last aired 2026-11-02 17:35 | normal pick now | request now
 OK   Circle — Swan Dive | last aired 2026-11-05 03:59 | normal pick now | request now
-WAIT Cirrus — Bonobo | last aired 2026-11-06 06:54 | normal pick from 2026-11-08 06:54 | request from 2026-11-08 06:54
+OK   Cirrus — Bonobo | last aired 2026-11-06 06:54 | normal pick now | request now
 OK   Cities In Dust (Single Version) — Siouxsie & The Banshees | last aired 2026-11-06 05:54 | normal pick now | request now
 OK   City's Burning — Pebe Sebert | last aired 2026-11-03 18:52 | normal pick now | request now
