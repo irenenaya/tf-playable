@@ -1,4 +1,4 @@
-Track status, song titles filed under GO (built Sun Nov 8, 9:55 AM PST (17:55 UTC)). Times in UTC.
+Track status, song titles filed under GO (built Sun Nov 8, 10:05 AM PST (18:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Go Home — Stevie Wonder | last aired 2026-11-02 12:41 | normal pick now | request now
@@ -27,4 +27,4 @@ WAIT Gorecki — Lamb | last aired 2026-11-08 06:01 | normal pick from 2026-11-1
 OK   Gorilla — Bruno Mars | last aired 2026-11-04 22:45 | normal pick now | request now
 WAIT Gosh — Jamie xx | last aired 2026-11-07 02:27 | normal pick from 2026-11-09 02:27 | request from 2026-11-09 02:27
 OK   Gotta Go Home — Boney M. | last aired 2026-11-06 11:13 | normal pick now | request now
-WAIT Gotta Have You — The Weepies | last aired 2026-11-08 15:36 | normal pick from 2026-11-10 03:36 | request from 2026-11-09 11:36
+WAIT Gotta Have You — The Weepies | last aired 2026-11-08 15:37 | normal pick from 2026-11-10 03:37 | request from 2026-11-09 11:37

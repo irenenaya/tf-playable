@@ -1,4 +1,4 @@
-Track status, song titles filed under SU (built Sun Nov 8, 9:55 AM PST (17:55 UTC)). Times in UTC.
+Track status, song titles filed under SU (built Sun Nov 8, 10:05 AM PST (18:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Subterraneans (2017 Remaster) — David Bowie | last aired 2026-10-31 07:17 | normal pick now | request now
@@ -9,7 +9,7 @@ OK   Sugar Water (Album Version) — Cibo Matto | last aired 2026-10-26 21:15 | 
 OK   Suite bergamasque, CD 82, L. 75: III. Clair de lune — Simon Trpčeski | last aired 2026-10-29 06:59 | normal pick now | request now
 OK   Sultans of Swing — Dire Straits | last aired 2026-11-05 20:27 | normal pick now | request now
 OK   Sultans Of Swing — Dire Straits | last aired 2026-06-11 20:23 | normal pick now | request now
-OK   Summer (from 'Kikujiro') — Joe Hisaishi | last aired 2026-11-05 12:29 | normal pick now | request now
+WAIT Summer (from 'Kikujiro') — Joe Hisaishi | last aired 2026-11-08 17:58 | normal pick from 2026-11-10 05:58 | request from 2026-11-09 13:58
 OK   Summer 91 (Looking Back) (Acoustic) — Noizu | last aired 2026-11-06 17:58 | normal pick now | request now
 OK   Summer 91 (Looking Back) — Noizu | last aired 2026-11-06 23:30 | normal pick now | request now
 OK   Summer Moved On (2019 Remaster) — A-Ha | last aired 2026-10-11 16:02 | normal pick now | request now
@@ -17,7 +17,7 @@ OK   Summer Soft — Stevie Wonder | last aired 2026-11-02 20:41 | normal pick n
 WAIT Summertime Blue — Norah Jones | last aired 2026-11-07 06:52 | normal pick from 2026-11-08 18:52 | request now
 WAIT Summertime — Ella Fitzgerald | last aired 2026-11-08 05:26 | normal pick from 2026-11-09 17:26 | request from 2026-11-09 01:26
 WAIT Sunny — Boney M. | last aired 2026-11-07 19:04 | normal pick from 2026-11-09 07:04 | request now
-WAIT Sunny — James Brown | last aired 2026-11-08 13:27 | normal pick from 2026-11-10 01:27 | request from 2026-11-09 09:27
+WAIT Sunny — James Brown | last aired 2026-11-08 13:27 | normal pick from 2026-11-10 13:27 | request from 2026-11-10 13:27
 OK   Sunrain — Ashra | last aired 2026-10-26 04:18 | normal pick now | request now
 OK   Sunset Lover — Petit Biscuit | last aired 2026-11-02 18:48 | normal pick now | request now
 OK   Superstar (The Jason Nevins' Live Peep Show Mix) — Tom Novy | last aired 2026-10-21 03:32 | normal pick now | request now
