@@ -1,7 +1,7 @@
-Track status, artists filed under AL (built Sat Nov 7, 11:45 PM PST (07:45 UTC Sun)). Times in UTC.
+Track status, artists filed under AL (built Sat Nov 7, 11:55 PM PST (07:55 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Al Di Meola — Double Concerto | last aired 2026-11-06 19:51 | normal pick from 2026-11-08 07:51 | request now
+OK   Al Di Meola — Double Concerto | last aired 2026-11-06 19:51 | normal pick now | request now
 OK   Al Di Meola — Libertango | last aired 2026-11-06 00:03 | normal pick now | request now
 OK   Al Di Meola — Passion, Grace & Fire (Album Version) | last aired 2026-11-06 06:18 | normal pick now | request now
 WAIT Al Di Meola — Red Moon | last aired 2026-11-08 01:51 | normal pick from 2026-11-09 13:51 | request from 2026-11-08 21:51
@@ -21,7 +21,7 @@ OK   Alestorm — Keelhauled | last aired 2026-11-03 11:56 | normal pick now | r
 WAIT Alex Andre — thanks, my day is ruined | last aired 2026-11-06 23:44 | normal pick from 2026-11-08 11:44 | request now
 OK   Alexander Malter — Pärt: Für Alina | last aired 2026-10-25 18:33 | normal pick now | request now
 WAIT Alexander Rybak — Fairytale | last aired 2026-11-06 23:41 | normal pick from 2026-11-08 11:41 | request now
-WAIT Alexandre Tharaud — Gnossienne No.1 - Gnossienne: No. 1 | last aired 2026-11-06 07:51 | normal pick from 2026-11-08 07:51 | request from 2026-11-08 07:51
+OK   Alexandre Tharaud — Gnossienne No.1 - Gnossienne: No. 1 | last aired 2026-11-06 07:51 | normal pick now | request now
 WAIT Alexi Murdoch — Orange Sky | last aired 2026-11-08 06:46 | normal pick from 2026-11-09 18:46 | request from 2026-11-09 02:46
 WAIT Alfa Mist — Organic Rust | last aired 2026-11-06 23:33 | normal pick from 2026-11-08 11:33 | request now
 OK   Ali Farka Touré — Soukora | last aired 2026-11-06 07:45 | normal pick now | request now
