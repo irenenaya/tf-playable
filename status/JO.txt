@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Sun Nov 8, 6:15 AM PST (14:15 UTC)). Times in UTC.
+Track status, artists filed under JO (built Sun Nov 8, 6:25 AM PST (14:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-11-07 13:03 | normal pick from 2026-11-09 13:03 | request from 2026-11-09 13:03
@@ -24,7 +24,7 @@ WAIT John Carpenter — Halloween Theme | last aired 2026-11-07 16:21 | normal p
 OK   John Coltrane — Lush Life | last aired 2026-11-06 23:15 | normal pick now | request now
 WAIT John Coltrane — My Favorite Things | last aired 2026-11-07 13:06 | normal pick from 2026-11-09 01:06 | request now
 WAIT John Denver — Take Me Home, Country Roads | last aired 2026-11-07 16:09 | normal pick from 2026-11-09 16:09 | request from 2026-11-09 16:09
-OK   John Lee Hooker — Boom Boom | last aired 2026-10-30 16:48 | normal pick now | request now
+WAIT John Lee Hooker — Boom Boom | last aired 2026-11-08 14:16 | normal pick from 2026-11-10 02:16 | request from 2026-11-09 10:16
 OK   John Lee Hooker — I Cover the Waterfront | last aired 2026-11-01 00:00 | normal pick now | request now
 OK   John Lennon — Give Peace A Chance (Remastered 2010) | last aired 2026-10-30 02:14 | normal pick now | request now
 WAIT John Lennon — Imagine (Remastered 2010) | last aired 2026-11-08 08:12 | normal pick from 2026-11-09 20:12 | request from 2026-11-09 04:12
