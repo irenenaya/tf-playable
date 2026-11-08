@@ -1,7 +1,7 @@
-Track status, artists filed under ST (built Sun Nov 8, 8:55 AM PST (16:55 UTC)). Times in UTC.
+Track status, artists filed under ST (built Sun Nov 8, 9:05 AM PST (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   St Germain — Rose rouge | last aired 2026-11-06 07:57 | normal pick now | request now
+WAIT St Germain — Rose rouge | last aired 2026-11-08 16:55 | normal pick from 2026-11-10 04:55 | request from 2026-11-09 12:55
 OK   Stan Bush — The Touch | last aired 2026-11-06 22:38 | normal pick now | request now
 WAIT Stan Getz — Corcovado (Quiet Nights Of Quiet Stars) | last aired 2026-11-08 16:51 | normal pick from 2026-11-10 16:51 | request from 2026-11-10 16:51
 WAIT Stardust — Music Sounds Better With You | last aired 2026-11-08 16:40 | normal pick from 2026-11-10 04:40 | request from 2026-11-09 12:40

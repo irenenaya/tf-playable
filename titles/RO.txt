@@ -1,4 +1,4 @@
-Track status, song titles filed under RO (built Sun Nov 8, 8:55 AM PST (16:55 UTC)). Times in UTC.
+Track status, song titles filed under RO (built Sun Nov 8, 9:05 AM PST (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT 'Round Midnight (Remastered 2013) — Thelonious Monk | last aired 2026-11-07 16:37 | normal pick from 2026-11-09 04:37 | request now
@@ -19,6 +19,6 @@ OK   Rollin' (Air Raid Vehicle) — Limp Bizkit | last aired 2026-10-29 19:59 | 
 OK   Rooster (2022 Remaster) — Jerry Cantrell | last aired 2026-10-05 22:21 | normal pick now | request now
 OK   Roots Bloody Roots (2017 Remaster) — Sepultura | last aired 2026-10-27 03:50 | normal pick now | request now
 OK   Rosanna (Album Version) — Toto | last aired 2026-10-31 22:51 | normal pick now | request now
-OK   Rose rouge — St Germain | last aired 2026-11-06 07:57 | normal pick now | request now
+WAIT Rose rouge — St Germain | last aired 2026-11-08 16:55 | normal pick from 2026-11-10 04:55 | request from 2026-11-09 12:55
 OK   Roxanne (Remastered 2003) — The Police | last aired 2026-10-25 23:18 | normal pick now | request now
 WAIT Roygbiv — Boards of Canada | last aired 2026-11-07 01:03 | normal pick from 2026-11-09 01:03 | request from 2026-11-09 01:03
