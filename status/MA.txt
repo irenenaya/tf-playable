@@ -1,4 +1,4 @@
-Track status, artists filed under MA (built Sat Nov 7, 10:15 PM PST (06:15 UTC Sun)). Times in UTC.
+Track status, artists filed under MA (built Sat Nov 7, 10:25 PM PST (06:25 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT M/A/R/R/S — Pump Up The Volume (UK 12" Remix) | last aired 2026-11-07 15:06 | normal pick from 2026-11-09 03:06 | request from 2026-11-08 11:06
@@ -26,7 +26,7 @@ OK   Marilyn Manson — The Love Song | last aired 2026-10-25 20:53 | normal pic
 WAIT Marisa Monte — Beija Eu | last aired 2026-11-06 15:39 | normal pick from 2026-11-08 15:39 | request from 2026-11-08 15:39
 OK   Mariya Takeuchi — Plastic Love | last aired 2026-11-01 17:04 | normal pick now | request now
 OK   Mariza — Ó gente da minha terra | last aired 2026-11-04 03:57 | normal pick now | request now
-OK   Mark Hollis — A Life (1895 - 1915) | last aired 2026-11-02 15:33 | normal pick now | request now
+WAIT Mark Hollis — A Life (1895 - 1915) | last aired 2026-11-08 06:17 | normal pick from 2026-11-09 18:17 | request from 2026-11-09 02:17
 OK   Mark Hollis — The Colour Of Spring | last aired 2026-11-05 09:28 | normal pick now | request now
 OK   Mark Knopfler — The Long Road | last aired 2026-10-30 21:44 | normal pick now | request now
 OK   marshall4 — i get gender envy from shadow the hedgehog | last aired 2026-10-18 03:54 | normal pick now | request now
@@ -55,7 +55,7 @@ OK   Matt Nathanson — Come On Get Higher | last aired 2026-10-26 14:17 | norma
 OK   Matt Nathanson — Faster | last aired 2026-10-30 07:35 | normal pick now | request now
 OK   Mavis Staples — We're Gonna Make It | last aired 2026-11-04 18:08 | normal pick now | request now
 WAIT Max Richter — Dream 3 (in the midst of my life) | last aired 2026-11-07 10:33 | normal pick from 2026-11-09 10:33 | request from 2026-11-09 10:33
-WAIT Max Richter — On the Nature of Daylight | last aired 2026-11-07 10:16 | normal pick from 2026-11-08 22:16 | request from 2026-11-08 06:16
+WAIT Max Richter — On the Nature of Daylight | last aired 2026-11-07 10:16 | normal pick from 2026-11-08 22:16 | request now
 OK   Max Specter — Just Asking (Day Theme I) | last aired 2026-10-31 06:58 | normal pick now | request now
 OK   Maxwell — Ascension (No One's Gonna Love You, So Don't Ever Wonder)[The Tribute][Cut] | last aired 2026-09-05 10:34 | normal pick now | request now
 OK   Maxwell — Pretty Wings (uncut) | last aired 2026-11-04 18:20 | normal pick now | request now
