@@ -1,4 +1,4 @@
-Track status, artists filed under TH (built Sat Nov 7, 5:05 PM PST (01:05 UTC Sun)). Times in UTC.
+Track status, artists filed under TH (built Sat Nov 7, 5:15 PM PST (01:15 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Thee Sacred Souls — Live For You | last aired 2026-11-07 16:25 | normal pick from 2026-11-09 04:25 | request from 2026-11-08 12:25
@@ -10,5 +10,5 @@ WAIT Thievery Corporation — Omid | last aired 2026-11-07 18:39 | normal pick f
 WAIT Thin Lizzy — Emerald | last aired 2026-11-07 16:33 | normal pick from 2026-11-09 16:33 | request from 2026-11-09 16:33
 WAIT This Mortal Coil — Song To The Siren | last aired 2026-11-08 00:32 | normal pick from 2026-11-10 00:32 | request from 2026-11-10 00:32
 WAIT Thom Yorke — 5.17 | last aired 2026-11-07 16:44 | normal pick from 2026-11-09 16:44 | request from 2026-11-09 16:44
-OK   Thorsten Quaeschning — Rain On Dry Concrete | last aired 2026-11-01 02:46 | normal pick now | request now
+WAIT Thorsten Quaeschning — Rain On Dry Concrete | last aired 2026-11-08 01:09 | normal pick from 2026-11-09 13:09 | request from 2026-11-08 21:09
 OK   THREESOME (Marlene, Jiro Yoshida, Makoto Kuriya) — Memories of Tomorrow (The Koln Concert - Part IIc) | last aired 2026-11-02 18:07 | normal pick now | request now
