@@ -1,7 +1,7 @@
-Track status, artists filed under HA (built Sun Nov 8, 1:55 AM PST (09:55 UTC)). Times in UTC.
+Track status, artists filed under HA (built Sun Nov 8, 2:05 AM PST (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Haddaway — What Is Love (7" Mix) (Remastered 2025) (7" Mix / Remastered 2025) | last aired 2026-11-07 14:05 | normal pick from 2026-11-09 02:05 | request from 2026-11-08 10:05
+WAIT Haddaway — What Is Love (7" Mix) (Remastered 2025) (7" Mix / Remastered 2025) | last aired 2026-11-07 14:05 | normal pick from 2026-11-09 02:05 | request now
 WAIT Haddaway — What Is Love (Lynx & Pico Remix) | last aired 2026-11-07 14:16 | normal pick from 2026-11-09 02:16 | request from 2026-11-08 10:16
 WAIT Hailu Mergia — Tezeta | last aired 2026-11-08 05:44 | normal pick from 2026-11-10 05:44 | request from 2026-11-10 05:44
 WAIT Halestorm — Do Not Disturb | last aired 2026-11-07 15:24 | normal pick from 2026-11-09 03:24 | request from 2026-11-08 11:24
@@ -17,7 +17,7 @@ WAIT Hans Zimmer — Cornfield Chase | last aired 2026-11-07 15:22 | normal pick
 OK   Hans Zimmer — S.T.A.Y. | last aired 2026-11-04 11:50 | normal pick now | request now
 OK   Hard Life — daydreams | last aired 2026-11-03 02:31 | normal pick now | request now
 OK   Hardcore Superstar — We Don't Celebrate Sundays | last aired 2026-09-22 13:05 | normal pick now | request now
-OK   Hariprasad Chaurasia — Bhupali | last aired 2026-10-25 02:30 | normal pick now | request now
+WAIT Hariprasad Chaurasia — Bhupali | last aired 2026-11-08 10:00 | normal pick from 2026-11-09 22:00 | request from 2026-11-09 06:00
 WAIT Harold Budd — A Stream With Bright Fish (2005 Digital Remaster) | last aired 2026-11-07 16:53 | normal pick from 2026-11-09 16:53 | request from 2026-11-09 16:53
 WAIT Harold Budd — Lost In The Humming Air (2005 Digital Remaster) | last aired 2026-11-07 17:28 | normal pick from 2026-11-09 17:28 | request from 2026-11-09 17:28
 OK   Harris Jayaraj — Adiyae Kolluthey (From "Vaaranam Aayiram") | last aired 2026-11-01 18:45 | normal pick now | request now
