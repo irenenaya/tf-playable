@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Sun Nov 8, 2:55 PM PST (22:55 UTC)). Times in UTC.
+Track status, artists filed under BE (built Sun Nov 8, 3:05 PM PST (23:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Beach House — Bluebird | last aired 2026-11-07 11:12 | normal pick from 2026-11-08 23:12 | request now
@@ -9,7 +9,7 @@ WAIT Beatrice Rana — Libertango (Arr. Yamamoto for Piano 4-Hands) | last aired
 OK   Beats by Luca — 52 CHICKEN NUGGET (McRave) | last aired 2026-10-18 11:09 | normal pick now | request now
 WAIT Bebel Gilberto — Samba Da Benção | last aired 2026-11-08 06:26 | normal pick from 2026-11-10 06:26 | request from 2026-11-10 06:26
 OK   Beck — Devils Haircut | last aired 2026-11-05 07:18 | normal pick now | request now
-WAIT Beck — Loser | last aired 2026-11-08 18:49 | normal pick from 2026-11-10 06:49 | request from 2026-11-09 14:49
+WAIT Beck — Loser | last aired 2026-11-08 18:49 | normal pick from 2026-11-10 18:49 | request from 2026-11-10 18:49
 WAIT Beck — The New Pollution | last aired 2026-11-08 14:02 | normal pick from 2026-11-10 14:02 | request from 2026-11-10 14:02
 OK   Becky Levi and the Nightjars — Wake Me Up | last aired 2026-10-22 06:23 | normal pick now | request now
 WAIT Bee Gees — Night Fever (From "Saturday Night Fever" Soundtrack) | last aired 2026-11-08 14:11 | normal pick from 2026-11-10 02:11 | request from 2026-11-09 10:11
@@ -17,9 +17,9 @@ OK   Beenie Man — Feel It Boy | last aired 2026-10-30 15:44 | normal pick now 
 WAIT Belcea Quartet — Quatuor à cordes n° 4, Sz. 91 - String Quartet No. 4 in C Major, Sz. 91: IV. Allegretto pizzicato | last aired 2026-11-08 22:22 | normal pick from 2026-11-10 10:22 | request from 2026-11-09 18:22
 WAIT Belle and Sebastian — The Boy with the Arab Strap | last aired 2026-11-08 21:15 | normal pick from 2026-11-10 09:15 | request from 2026-11-09 17:15
 WAIT Ben Allison — D.A.V.E. | last aired 2026-11-08 22:16 | normal pick from 2026-11-10 10:16 | request from 2026-11-09 18:16
-WAIT Ben E. King — Stand By Me | last aired 2026-11-08 21:11 | normal pick from 2026-11-10 09:11 | request from 2026-11-09 17:11
+WAIT Ben E. King — Stand By Me | last aired 2026-11-08 21:12 | normal pick from 2026-11-10 09:12 | request from 2026-11-09 17:12
 OK   Ben Harper — Yard Sale | last aired 2026-11-04 10:12 | normal pick now | request now
-WAIT Ben Howard — Only Love | last aired 2026-11-07 11:04 | normal pick from 2026-11-08 23:04 | request now
+OK   Ben Howard — Only Love | last aired 2026-11-07 11:04 | normal pick now | request now
 WAIT Ben&Ben — Leaves | last aired 2026-11-07 11:23 | normal pick from 2026-11-08 23:23 | request now
 WAIT Ben&Ben — Maybe The Night | last aired 2026-11-07 11:39 | normal pick from 2026-11-08 23:39 | request now
 OK   Benjamin Francis Leftwich — Ticket To Ride | last aired 2026-11-01 12:18 | normal pick now | request now
