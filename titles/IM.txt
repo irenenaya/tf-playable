@@ -1,10 +1,10 @@
-Track status, song titles filed under IM (built Sat Nov 7, 9:45 PM PST (05:45 UTC Sun)). Times in UTC.
+Track status, song titles filed under IM (built Sat Nov 7, 9:55 PM PST (05:55 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   I'm Coming Out — Diana Ross | last aired 2026-11-05 01:04 | normal pick now | request now
 OK   I'm Gonna Be (500 Miles) — The Proclaimers | last aired 2026-11-05 22:59 | normal pick now | request now
 OK   I'm Not Okay (I Promise) — My Chemical Romance | last aired 2026-10-29 11:41 | normal pick now | request now
-OK   I'm So Lonesome I Could Cry (Single Version) — Hank Williams | last aired 2026-11-06 01:18 | normal pick now | request now
+WAIT I'm So Lonesome I Could Cry (Single Version) — Hank Williams | last aired 2026-11-08 05:48 | normal pick from 2026-11-10 05:48 | request from 2026-11-10 05:48
 OK   Images — Sun Ra | last aired 2026-10-27 23:38 | normal pick now | request now
 OK   Imagine (Remastered 2010) — John Lennon | last aired 2026-10-31 00:38 | normal pick now | request now
 OK   Improvisation On Four Sequences Pt.1 — Suzanne Ciani | last aired 2026-10-24 02:53 | normal pick now | request now
