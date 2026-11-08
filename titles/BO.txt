@@ -1,13 +1,13 @@
-Track status, song titles filed under BO (built Sat Nov 7, 4:55 PM PST (00:55 UTC Sun)). Times in UTC.
+Track status, song titles filed under BO (built Sat Nov 7, 5:05 PM PST (01:05 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Bocca di rosa — Fabrizio De Andrè | last aired 2026-11-06 13:05 | normal pick from 2026-11-08 01:05 | request now
+OK   Bocca di rosa — Fabrizio De Andrè | last aired 2026-11-06 13:05 | normal pick now | request now
 OK   Body and Soul — Coleman Hawkins & His Orchestra | last aired 2026-11-05 22:31 | normal pick now | request now
 OK   Bohemian Rhapsody (Remastered 2011) — Queen | last aired 2026-10-29 14:52 | normal pick now | request now
 WAIT Bohemian Rhapsody — Pellek | last aired 2026-11-07 16:03 | normal pick from 2026-11-09 04:03 | request from 2026-11-08 12:03
 OK   Boilermaker — Royal Blood | last aired 2026-11-04 20:59 | normal pick now | request now
 OK   Boléro, M. 81 — Berliner Philharmoniker | last aired 2026-11-01 18:06 | normal pick now | request now
-WAIT Bonfire — Lamb | last aired 2026-11-06 02:05 | normal pick from 2026-11-08 02:05 | request from 2026-11-08 02:05
+OK   Bonfire — Lamb | last aired 2026-11-06 02:05 | normal pick now | request now
 OK   Boom Boom — John Lee Hooker | last aired 2026-10-30 16:48 | normal pick now | request now
 OK   Bop to the Top — Ashley Tisdale | last aired 2026-10-19 22:50 | normal pick now | request now
 OK   Born in the U.S.A. — Bruce Springsteen | last aired 2026-10-31 19:24 | normal pick now | request now
