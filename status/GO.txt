@@ -1,4 +1,4 @@
-Track status, artists filed under GO (built Sat Nov 7, 6:35 PM PST (02:35 UTC Sun)). Times in UTC.
+Track status, artists filed under GO (built Sat Nov 7, 6:45 PM PST (02:45 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Go_A — SHUM | last aired 2026-11-05 20:01 | normal pick now | request now
@@ -6,7 +6,7 @@ WAIT GoGo Penguin — Hopopono | last aired 2026-11-08 02:28 | normal pick from 
 WAIT GoGo Penguin — Raven | last aired 2026-11-07 02:40 | normal pick from 2026-11-08 14:40 | request now
 OK   Golden Earring — Radar Love | last aired 2026-10-30 22:06 | normal pick now | request now
 WAIT Goldmund — Threnody | last aired 2026-11-07 05:49 | normal pick from 2026-11-08 17:49 | request now
-OK   Gonzales — Gogol | last aired 2026-11-05 01:09 | normal pick now | request now
+WAIT Gonzales — Gogol | last aired 2026-11-08 02:32 | normal pick from 2026-11-09 14:32 | request from 2026-11-08 22:32
 OK   Gordon Lightfoot — Wherefore and Why (LP Version) | last aired 2026-11-05 23:53 | normal pick now | request now
 OK   Gorillaz — Damascus (feat. Omar Souleyman and Yasiin Bey) | last aired 2026-11-02 10:42 | normal pick now | request now
 OK   Gorillaz — Empire Ants (feat. Little Dragon) | last aired 2026-11-03 08:53 | normal pick now | request now

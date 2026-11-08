@@ -1,11 +1,11 @@
-Track status, song titles filed under GO (built Sat Nov 7, 6:35 PM PST (02:35 UTC Sun)). Times in UTC.
+Track status, song titles filed under GO (built Sat Nov 7, 6:45 PM PST (02:45 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Go Home — Stevie Wonder | last aired 2026-11-02 12:41 | normal pick now | request now
 WAIT Go Your Own Way (2004 Remaster) — Fleetwood Mac | last aired 2026-11-07 12:40 | normal pick from 2026-11-09 12:40 | request from 2026-11-09 12:40
 WAIT God Only Knows (Stereo) — The Beach Boys | last aired 2026-11-07 11:20 | normal pick from 2026-11-08 23:20 | request from 2026-11-08 07:20
 OK   GODDESS — Fireboy DML | last aired 2026-10-22 09:04 | normal pick now | request now
-OK   Gogol — Gonzales | last aired 2026-11-05 01:09 | normal pick now | request now
+WAIT Gogol — Gonzales | last aired 2026-11-08 02:32 | normal pick from 2026-11-09 14:32 | request from 2026-11-08 22:32
 OK   Going Down — Freddie King | last aired 2026-10-27 15:17 | normal pick now | request now
 WAIT Going to California (Remaster) — Led Zeppelin | last aired 2026-11-06 08:57 | normal pick from 2026-11-08 08:57 | request from 2026-11-08 08:57
 OK   Gold (2003 Remaster) — Spandau Ballet | last aired 2026-10-28 20:37 | normal pick now | request now
@@ -20,7 +20,7 @@ OK   Good Times (2018 Remaster) — Chic | last aired 2026-11-06 12:18 | normal 
 OK   Good Vibrations (Stereo/Remastered 2012) — The Beach Boys | last aired 2026-10-31 02:11 | normal pick now | request now
 WAIT Goodbye (Live) — toe | last aired 2026-11-06 20:31 | normal pick from 2026-11-08 08:31 | request now
 OK   Goodbye Horses - Single — Q Lazzarus | last aired 2026-11-01 20:06 | normal pick now | request now
-WAIT Goodbye Pork Pie Hat (Album Version) — Charles Mingus | last aired 2026-11-07 06:37 | normal pick from 2026-11-08 18:37 | request from 2026-11-08 02:37
+WAIT Goodbye Pork Pie Hat (Album Version) — Charles Mingus | last aired 2026-11-07 06:37 | normal pick from 2026-11-08 18:37 | request now
 OK   Goodnight Ladies — Lou Reed | last aired 2026-10-30 05:52 | normal pick now | request now
 OK   Goodnight Tonight (Single Version) — Wings | last aired 2026-10-27 21:05 | normal pick now | request now
 OK   Gorecki — Lamb | last aired 2026-11-05 19:03 | normal pick now | request now
