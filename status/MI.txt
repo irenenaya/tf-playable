@@ -1,4 +1,4 @@
-Track status, artists filed under MI (built Sat Nov 7, 8:35 PM PST (04:35 UTC Sun)). Times in UTC.
+Track status, artists filed under MI (built Sat Nov 7, 8:45 PM PST (04:45 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Mica Levi — Love | last aired 2026-11-06 16:55 | normal pick from 2026-11-08 04:55 | request now
@@ -15,14 +15,14 @@ OK   Michael Jackson — Thriller | last aired 2026-10-31 13:09 | normal pick no
 OK   Michael Jackson — Who Is It | last aired 2026-10-29 22:14 | normal pick now | request now
 WAIT Michael Jackson — You Are Not Alone | last aired 2026-11-08 00:17 | normal pick from 2026-11-09 12:17 | request from 2026-11-08 20:17
 WAIT Michael McDonald — I Keep Forgettin' (Every Time You're Near) | last aired 2026-11-07 00:54 | normal pick from 2026-11-08 12:54 | request now
-WAIT MIKA — Grace Kelly | last aired 2026-11-06 16:40 | normal pick from 2026-11-08 04:40 | request now
+OK   MIKA — Grace Kelly | last aired 2026-11-06 16:40 | normal pick now | request now
 OK   Mike Marshall — Big Country (Instrumental) | last aired 2026-10-29 04:23 | normal pick now | request now
 WAIT Mike Oldfield — Moonlight Shadow | last aired 2026-11-07 06:42 | normal pick from 2026-11-08 18:42 | request now
 WAIT Mikis Theodorakis — Zorba the Greek: Zorba's Dance | last aired 2026-11-08 01:04 | normal pick from 2026-11-10 01:04 | request from 2026-11-10 01:04
 WAIT Miles Davis — Blue in Green | last aired 2026-11-08 00:11 | normal pick from 2026-11-09 12:11 | request from 2026-11-08 20:11
 WAIT Miles Davis — Flamenco Sketches | last aired 2026-11-08 02:34 | normal pick from 2026-11-09 14:34 | request from 2026-11-08 22:34
 OK   Miles Davis — So What | last aired 2026-11-06 16:28 | normal pick now | request now
-WAIT Miley Cyrus — Flowers | last aired 2026-11-06 16:43 | normal pick from 2026-11-08 04:43 | request now
+OK   Miley Cyrus — Flowers | last aired 2026-11-06 16:43 | normal pick now | request now
 OK   Miley Cyrus — Party In The U.S.A. | last aired 2026-10-24 21:54 | normal pick now | request now
 OK   Milt Jackson — Bag's New Groove | last aired 2026-11-04 15:09 | normal pick now | request now
 OK   Milton Nascimento — Bridges (Travessia) | last aired 2026-11-04 03:39 | normal pick now | request now
@@ -33,5 +33,5 @@ OK   Miracles of Modern Science — Dear Pressure | last aired 2026-10-29 23:55 
 OK   Mireille Mathieu — Together We're Strong | last aired 2026-10-29 04:27 | normal pick now | request now
 OK   Miriam Makeba — Pata Pata | last aired 2026-10-29 10:21 | normal pick now | request now
 OK   Missio — I See You | last aired 2026-10-30 12:04 | normal pick now | request now
-WAIT Mitski — My Love Mine All Mine | last aired 2026-11-06 16:37 | normal pick from 2026-11-08 04:37 | request now
+OK   Mitski — My Love Mine All Mine | last aired 2026-11-06 16:37 | normal pick now | request now
 OK   Mizuki Tomoda — Marunouchi sadistic (Cover) | last aired 2026-10-17 14:46 | normal pick now | request now
