@@ -1,4 +1,4 @@
-Track status, artists filed under MA (built Sun Nov 8, 6:45 PM PST (02:45 UTC Mon)). Times in UTC.
+Track status, artists filed under MA (built Sun Nov 8, 6:55 PM PST (02:55 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT M/A/R/R/S — Pump Up The Volume (UK 12" Remix) | last aired 2026-11-07 15:06 | normal pick from 2026-11-09 03:06 | request now
@@ -6,7 +6,7 @@ WAIT Mac DeMarco — Chamber Of Reflection | last aired 2026-11-08 13:16 | norma
 WAIT Mac DeMarco — My Kind of Woman | last aired 2026-11-07 14:58 | normal pick from 2026-11-09 14:58 | request from 2026-11-09 14:58
 WAIT Mac DeMarco — No Other Heart | last aired 2026-11-07 16:00 | normal pick from 2026-11-09 16:00 | request from 2026-11-09 16:00
 WAIT Madness — Our House | last aired 2026-11-07 14:49 | normal pick from 2026-11-09 14:49 | request from 2026-11-09 14:49
-WAIT Madonna — Holiday | last aired 2026-11-07 14:52 | normal pick from 2026-11-09 02:52 | request now
+OK   Madonna — Holiday | last aired 2026-11-07 14:52 | normal pick now | request now
 WAIT Mahalia Jackson — How I Got Over (Live) | last aired 2026-11-08 13:20 | normal pick from 2026-11-10 13:20 | request from 2026-11-10 13:20
 WAIT Mahavishnu Orchestra — I Wonder (Album Version) | last aired 2026-11-07 15:40 | normal pick from 2026-11-09 03:40 | request now
 WAIT Mahmoud Ahmed — Ere Mela Mela / Meche Neu | last aired 2026-11-08 01:28 | normal pick from 2026-11-10 01:28 | request from 2026-11-10 01:28
