@@ -1,4 +1,4 @@
-Track status, artists filed under PA (built Mon Nov 9, 12:55 AM PST (08:55 UTC)). Times in UTC.
+Track status, artists filed under PA (built Mon Nov 9, 1:05 AM PST (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Paco de Lucía — Entre Dos Aguas | last aired 2026-11-08 00:36 | normal pick from 2026-11-10 00:36 | request from 2026-11-10 00:36
@@ -23,7 +23,7 @@ OK   Patti Smith — People Have the Power | last aired 2026-10-22 18:19 | norma
 OK   Patti Smith — Wing | last aired 2026-10-22 18:35 | normal pick now | request now
 OK   Paul Leonard-Morgan — She's a Pass | last aired 2026-11-03 17:37 | normal pick now | request now
 WAIT Paul Mauriat — Love Is Blue (Album Version) | last aired 2026-11-08 12:47 | normal pick from 2026-11-10 00:47 | request now
-WAIT Paul McCartney — Maybe I’m Amazed (2011 Remaster) | last aired 2026-11-08 12:56 | normal pick from 2026-11-10 00:56 | request from 2026-11-09 08:56
+WAIT Paul McCartney — Maybe I’m Amazed (2011 Remaster) | last aired 2026-11-08 12:56 | normal pick from 2026-11-10 00:56 | request now
 OK   Paul McCartney — Monkberry Moon Delight (2012 Remaster) | last aired 2026-11-01 19:30 | normal pick now | request now
 OK   Paul Rodgers — Muddy Water Blues | last aired 2026-11-05 05:49 | normal pick now | request now
 WAIT Paul Simon — Further to Fly | last aired 2026-11-08 12:50 | normal pick from 2026-11-10 12:50 | request from 2026-11-10 12:50
