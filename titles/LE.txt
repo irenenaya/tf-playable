@@ -1,4 +1,4 @@
-Track status, song titles filed under LE (built Sun Nov 8, 4:45 PM PST (00:45 UTC Mon)). Times in UTC.
+Track status, song titles filed under LE (built Sun Nov 8, 4:55 PM PST (00:55 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Le Chant des oiseaux — La Fenice | last aired 2026-10-02 15:12 | normal pick now | request now
@@ -23,4 +23,4 @@ WAIT Let's Groove (Album Version) — Earth, Wind & Fire | last aired 2026-11-07
 WAIT Let's Stay Together — Al Green | last aired 2026-11-08 01:41 | normal pick from 2026-11-10 01:41 | request from 2026-11-10 01:41
 OK   The Ledge — Fleetwood Mac | last aired 2026-11-07 12:34 | normal pick now | request now
 OK   The Less I Know The Better — Tame Impala | last aired 2026-11-04 19:44 | normal pick now | request now
-OK   The Letter (Live At The Fillmore East/1970) — Joe Cocker | last aired 2026-11-06 21:11 | normal pick now | request now
+WAIT The Letter (Live At The Fillmore East/1970) — Joe Cocker | last aired 2026-11-09 00:46 | normal pick from 2026-11-10 12:46 | request from 2026-11-09 20:46
