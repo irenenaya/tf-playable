@@ -1,8 +1,8 @@
-Track status, song titles filed under SO (built Sun Nov 8, 6:55 PM PST (02:55 UTC Mon)). Times in UTC.
+Track status, song titles filed under SO (built Sun Nov 8, 7:05 PM PST (03:05 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   So Alive — Love and Rockets | last aired 2026-10-29 12:34 | normal pick now | request now
-WAIT So Far Away — Carole King | last aired 2026-11-09 00:19 | normal pick from 2026-11-11 00:19 | request from 2026-11-11 00:19
+WAIT So Far Away — Carole King | last aired 2026-11-09 00:20 | normal pick from 2026-11-11 00:20 | request from 2026-11-11 00:20
 OK   So Long, Marianne — Leonard Cohen | last aired 2026-11-03 11:37 | normal pick now | request now
 OK   So Real — Jeff Buckley | last aired 2026-10-28 11:10 | normal pick now | request now
 OK   So What — Miles Davis | last aired 2026-11-06 16:28 | normal pick now | request now
