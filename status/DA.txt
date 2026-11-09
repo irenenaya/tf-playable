@@ -1,10 +1,10 @@
-Track status, artists filed under DA (built Mon Nov 9, 9:35 AM PST (17:35 UTC)). Times in UTC.
+Track status, artists filed under DA (built Mon Nov 9, 9:45 AM PST (17:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT D'Angelo — Untitled (How Does It Feel) | last aired 2026-11-08 16:22 | normal pick from 2026-11-10 04:22 | request now
 WAIT Daft Punk — Around the World | last aired 2026-11-08 20:49 | normal pick from 2026-11-10 08:49 | request now
 WAIT Daft Punk — Face to Face | last aired 2026-11-09 17:30 | normal pick from 2026-11-11 05:30 | request from 2026-11-10 13:30
-OK   Daft Punk feat. Julian Casablancas — Instant Crush (feat. Julian Casablancas) | last aired 2026-11-08 05:07 | normal pick now | request now
+WAIT Daft Punk feat. Julian Casablancas — Instant Crush (feat. Julian Casablancas) | last aired 2026-11-09 17:37 | normal pick from 2026-11-11 05:37 | request from 2026-11-10 13:37
 WAIT Daft Punk — Harder, Better, Faster, Stronger | last aired 2026-11-09 14:17 | normal pick from 2026-11-11 02:17 | request from 2026-11-10 10:17
 WAIT Daft Punk — One More Time | last aired 2026-11-09 14:56 | normal pick from 2026-11-11 14:56 | request from 2026-11-11 14:56
 WAIT Daft Punk — Something About Us | last aired 2026-11-08 19:17 | normal pick from 2026-11-10 19:17 | request from 2026-11-10 19:17
@@ -15,7 +15,7 @@ OK   Daikaiju — Magic Wanda | last aired 2026-10-26 03:11 | normal pick now | 
 WAIT Dalida — Paroles paroles (Album Version) | last aired 2026-11-09 14:25 | normal pick from 2026-11-11 02:25 | request from 2026-11-10 10:25
 WAIT Damien Rice — The Blower's Daughter | last aired 2026-11-09 17:25 | normal pick from 2026-11-11 17:25 | request from 2026-11-11 17:25
 OK   Daniel Barenboim — Nocturne n° 2 in E flat, op. 9 n° 2 - Nocturne No. 2 in E-Flat Major, Op. 9 No. 2 | last aired 2026-11-01 06:18 | normal pick now | request now
-OK   Daniel Pemberton — Amaze Amaze Amaze (Life on Erid) (from "Project Hail Mary") | last aired 2026-11-01 11:49 | normal pick now | request now
+WAIT Daniel Pemberton — Amaze Amaze Amaze (Life on Erid) (from "Project Hail Mary") | last aired 2026-11-09 17:34 | normal pick from 2026-11-11 05:34 | request from 2026-11-10 13:34
 OK   Dara — Bangaranga | last aired 2026-11-02 14:36 | normal pick now | request now
 OK   Darude — Sandstorm | last aired 2026-11-04 14:51 | normal pick now | request now
 OK   Daryl Hall & John Oates — I Can't Go For That (No Can Do) (Remastered 2003) | last aired 2026-11-02 13:01 | normal pick now | request now
