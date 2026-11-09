@@ -1,4 +1,4 @@
-Track status, artists filed under ST (built Sun Nov 8, 10:35 PM PST (06:35 UTC Mon)). Times in UTC.
+Track status, artists filed under ST (built Sun Nov 8, 10:45 PM PST (06:45 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT St Germain — Rose rouge | last aired 2026-11-08 16:56 | normal pick from 2026-11-10 16:56 | request from 2026-11-10 16:56
@@ -28,7 +28,7 @@ WAIT Stevie Wonder — I Wish | last aired 2026-11-07 19:48 | normal pick from 2
 OK   Stevie Wonder — Isn't She Lovely | last aired 2026-10-31 00:27 | normal pick now | request now
 OK   Stevie Wonder — Living For The City (Album Version) | last aired 2026-11-01 21:22 | normal pick now | request now
 OK   Stevie Wonder — Master Blaster (Jammin') | last aired 2026-11-01 19:09 | normal pick now | request now
-WAIT Stevie Wonder — Sir Duke | last aired 2026-11-07 18:42 | normal pick from 2026-11-09 06:42 | request now
+OK   Stevie Wonder — Sir Duke | last aired 2026-11-07 18:42 | normal pick now | request now
 OK   Stevie Wonder — Summer Soft | last aired 2026-11-02 20:41 | normal pick now | request now
 OK   Stevie Wonder — Superstition (Album Version) | last aired 2026-10-30 17:03 | normal pick now | request now
 OK   Stevie Wonder — You Haven't Done Nothin' | last aired 2026-11-02 19:53 | normal pick now | request now
