@@ -1,4 +1,4 @@
-Track status, artists filed under RA (built Mon Nov 9, 3:45 AM PST (11:45 UTC)). Times in UTC.
+Track status, artists filed under RA (built Mon Nov 9, 3:55 AM PST (11:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Radiohead — Paranoid Android | last aired 2026-11-09 01:18 | normal pick from 2026-11-11 01:18 | request from 2026-11-11 01:18
@@ -11,7 +11,7 @@ WAIT Raquel Tavares — Como É Grande o Meu Amor por Você | last aired 2026-11
 OK   Ray Anthony — The Hokey Pokey | last aired 2026-11-02 16:45 | normal pick now | request now
 WAIT Ray Parker Junior — Ghostbusters (Album Version) | last aired 2026-11-09 02:13 | normal pick from 2026-11-11 02:13 | request from 2026-11-11 02:13
 WAIT Rayland Baxter — Objects In The Mirror | last aired 2026-11-07 23:49 | normal pick from 2026-11-09 23:49 | request from 2026-11-09 23:49
-WAIT The Rah Band — Clouds Across the Moon | last aired 2026-11-07 23:55 | normal pick from 2026-11-09 11:55 | request now
+OK   The Rah Band — Clouds Across the Moon | last aired 2026-11-07 23:55 | normal pick now | request now
 WAIT The Rah Band — Messages from the Stars (Remaster) | last aired 2026-11-09 01:24 | normal pick from 2026-11-10 13:24 | request from 2026-11-09 21:24
 OK   The Ray Charles Singers — Sweet Little Mountain Bird | last aired 2026-09-18 12:34 | normal pick now | request now
 OK   The Ray Conniff Singers — Somewhere, My Love (Lara's Theme from "Doctor Zhivago") (Album Version) | last aired 2026-11-06 08:40 | normal pick now | request now
