@@ -1,11 +1,11 @@
-Track status, artists filed under JO (built Sun Nov 8, 4:35 PM PST (00:35 UTC Mon)). Times in UTC.
+Track status, artists filed under JO (built Sun Nov 8, 4:45 PM PST (00:45 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-11-07 13:03 | normal pick from 2026-11-09 13:03 | request from 2026-11-09 13:03
 WAIT Jockstrap — Concrete Over Water | last aired 2026-11-07 16:15 | normal pick from 2026-11-09 04:15 | request now
 OK   Joe Cocker — The Letter (Live At The Fillmore East/1970) | last aired 2026-11-06 21:11 | normal pick now | request now
 WAIT Joe Cocker — With A Little Help From My Friends | last aired 2026-11-08 04:45 | normal pick from 2026-11-10 04:45 | request from 2026-11-10 04:45
-WAIT Joe Hisaishi — A Town with an Ocean View (from 'Kiki's Delivery Service') | last aired 2026-11-07 12:44 | normal pick from 2026-11-09 00:44 | request now
+OK   Joe Hisaishi — A Town with an Ocean View (from 'Kiki's Delivery Service') | last aired 2026-11-07 12:44 | normal pick now | request now
 WAIT Joe Hisaishi — a Wish to the Moon | last aired 2026-11-07 12:57 | normal pick from 2026-11-09 00:57 | request now
 WAIT Joe Hisaishi — Asian Dream Song | last aired 2026-11-08 18:39 | normal pick from 2026-11-10 18:39 | request from 2026-11-10 18:39
 OK   Joe Hisaishi — Deep Sea Pastures (from 'Ponyo on the Cliff by the Sea') | last aired 2026-10-24 19:02 | normal pick now | request now
@@ -25,7 +25,7 @@ WAIT John Coltrane — Lush Life | last aired 2026-11-08 14:23 | normal pick fro
 WAIT John Coltrane — My Favorite Things | last aired 2026-11-07 13:06 | normal pick from 2026-11-09 01:06 | request now
 WAIT John Denver — Take Me Home, Country Roads | last aired 2026-11-07 16:09 | normal pick from 2026-11-09 16:09 | request from 2026-11-09 16:09
 WAIT John Lee Hooker — Boom Boom | last aired 2026-11-08 14:17 | normal pick from 2026-11-10 02:17 | request from 2026-11-09 10:17
-OK   John Lee Hooker — I Cover the Waterfront | last aired 2026-11-01 00:00 | normal pick now | request now
+WAIT John Lee Hooker — I Cover the Waterfront | last aired 2026-11-09 00:39 | normal pick from 2026-11-10 12:39 | request from 2026-11-09 20:39
 OK   John Lennon — Give Peace A Chance (Remastered 2010) | last aired 2026-10-30 02:14 | normal pick now | request now
 WAIT John Lennon — Imagine (Remastered 2010) | last aired 2026-11-08 08:12 | normal pick from 2026-11-09 20:12 | request from 2026-11-09 04:12
 OK   John Lennon — Instant Karma! (We All Shine On) (Ultimate Mix) | last aired 2026-10-25 23:31 | normal pick now | request now
