@@ -1,4 +1,4 @@
-Track status, song titles filed under LE (built Mon Nov 9, 1:45 AM PST (09:45 UTC)). Times in UTC.
+Track status, song titles filed under LE (built Mon Nov 9, 1:55 AM PST (09:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Le Chant des oiseaux — La Fenice | last aired 2026-10-02 15:12 | normal pick now | request now
@@ -13,7 +13,7 @@ OK   Lebanese Blonde — Thievery Corporation | last aired 2026-11-07 16:28 | no
 WAIT Led s severa — Big Foot Mama | last aired 2026-11-08 20:27 | normal pick from 2026-11-10 08:27 | request from 2026-11-09 16:27
 OK   Left of the Dial (Ed Stasium Mix) — The Replacements | last aired 2026-10-31 12:16 | normal pick now | request now
 OK   Lemon — Kenshi Yonezu | last aired 2026-10-26 22:45 | normal pick now | request now
-WAIT Les Nuits — Nightmares On Wax | last aired 2026-11-07 21:46 | normal pick from 2026-11-09 09:46 | request now
+OK   Les Nuits — Nightmares On Wax | last aired 2026-11-07 21:46 | normal pick now | request now
 WAIT LesAlpx — Floating Points | last aired 2026-11-08 10:51 | normal pick from 2026-11-09 22:51 | request now
 OK   Less Than — Nine Inch Nails | last aired 2026-11-07 00:41 | normal pick now | request now
 WAIT Let You Go — RY X | last aired 2026-11-08 10:28 | normal pick from 2026-11-09 22:28 | request now
