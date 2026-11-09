@@ -1,4 +1,4 @@
-Track status, song titles filed under BL (built Mon Nov 9, 3:25 AM PST (11:25 UTC)). Times in UTC.
+Track status, song titles filed under BL (built Mon Nov 9, 3:35 AM PST (11:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Black Diamond — Stratovarius | last aired 2026-11-02 03:41 | normal pick now | request now
@@ -6,14 +6,14 @@ OK   Black Fingernails, Red Wine — Eskimo Joe | last aired 2026-10-26 11:33 | 
 OK   Black Hole Sun — Soundgarden | last aired 2026-11-05 16:43 | normal pick now | request now
 OK   Black Magic Woman — Percy Faith & His Orchestra | last aired 2026-11-07 14:45 | normal pick now | request now
 WAIT Black Magic Woman — Santana | last aired 2026-11-09 01:41 | normal pick from 2026-11-11 01:41 | request from 2026-11-11 01:41
-OK   Black Refraction — Tim Hecker | last aired 2026-11-07 08:48 | normal pick now | request now
+WAIT Black Refraction — Tim Hecker | last aired 2026-11-09 11:30 | normal pick from 2026-11-10 23:30 | request from 2026-11-10 07:30
 OK   Black Roses — Barrington Levy | last aired 2026-11-03 16:46 | normal pick now | request now
 OK   Black Sea (Live at Elbphilharmonie) — Hundreds | last aired 2026-10-28 06:23 | normal pick now | request now
 OK   BLACKOUT — Turnstile | last aired 2026-10-10 21:11 | normal pick now | request now
 OK   Blaue Augen — Ideal | last aired 2026-10-21 16:55 | normal pick now | request now
 OK   Bleached By The Sun — Dot Allison | last aired 2026-10-31 16:54 | normal pick now | request now
 OK   Blessed with a Curse — Bring Me The Horizon | last aired 2026-11-02 00:11 | normal pick now | request now
-WAIT Blinding Lights — The Weeknd | last aired 2026-11-08 15:33 | normal pick from 2026-11-10 03:33 | request from 2026-11-09 11:33
+WAIT Blinding Lights — The Weeknd | last aired 2026-11-08 15:33 | normal pick from 2026-11-10 03:33 | request now
 WAIT Blitzkrieg Bop — Ramones | last aired 2026-11-09 02:28 | normal pick from 2026-11-10 14:28 | request from 2026-11-09 22:28
 WAIT Blood In The Labyrinth — Boards of Canada | last aired 2026-11-09 08:43 | normal pick from 2026-11-11 08:43 | request from 2026-11-11 08:43
 OK   Bloodbuzz Ohio (Live in Rome) — The National | last aired 2026-11-03 13:20 | normal pick now | request now
