@@ -1,10 +1,10 @@
-Track status, artists filed under MA (built Mon Nov 9, 7:55 AM PST (15:55 UTC)). Times in UTC.
+Track status, artists filed under MA (built Mon Nov 9, 8:05 AM PST (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT M/A/R/R/S — Pump Up The Volume (UK 12" Remix) | last aired 2026-11-09 15:13 | normal pick from 2026-11-11 03:13 | request from 2026-11-10 11:13
 WAIT Mac DeMarco — Chamber Of Reflection | last aired 2026-11-08 13:16 | normal pick from 2026-11-10 13:16 | request from 2026-11-10 13:16
 OK   Mac DeMarco — My Kind of Woman | last aired 2026-11-07 14:58 | normal pick now | request now
-WAIT Mac DeMarco — No Other Heart | last aired 2026-11-07 16:00 | normal pick from 2026-11-09 16:00 | request from 2026-11-09 16:00
+OK   Mac DeMarco — No Other Heart | last aired 2026-11-07 16:00 | normal pick now | request now
 WAIT Madness — Our House | last aired 2026-11-09 15:09 | normal pick from 2026-11-11 15:09 | request from 2026-11-11 15:09
 WAIT Madonna — Holiday | last aired 2026-11-09 03:46 | normal pick from 2026-11-10 15:46 | request from 2026-11-09 23:46
 WAIT Mahalia Jackson — How I Got Over (Live) | last aired 2026-11-08 13:20 | normal pick from 2026-11-10 13:20 | request from 2026-11-10 13:20
@@ -44,7 +44,7 @@ WAIT Marvin Gaye — Save The Children | last aired 2026-11-09 09:38 | normal pi
 OK   Marvin Gaye — Sexual Healing (Album Version) | last aired 2026-11-02 20:07 | normal pick now | request now
 OK   Marvin Gaye — What's Going On | last aired 2026-10-30 07:31 | normal pick now | request now
 WAIT Marvin Gaye — Wholy Holy | last aired 2026-11-09 11:24 | normal pick from 2026-11-10 23:24 | request from 2026-11-10 07:24
-WAIT Mary Halvorson — About Ghosts | last aired 2026-11-09 11:33 | normal pick from 2026-11-10 23:33 | request from 2026-11-10 07:33
+WAIT Mary Halvorson — About Ghosts | last aired 2026-11-09 11:34 | normal pick from 2026-11-10 23:34 | request from 2026-11-10 07:34
 WAIT Masego — Tadow | last aired 2026-11-09 15:26 | normal pick from 2026-11-11 03:26 | request from 2026-11-10 11:26
 WAIT Massive Attack — Angel | last aired 2026-11-09 11:39 | normal pick from 2026-11-11 11:39 | request from 2026-11-11 11:39
 WAIT Massive Attack — Protection | last aired 2026-11-09 04:36 | normal pick from 2026-11-10 16:36 | request from 2026-11-10 00:36
@@ -52,7 +52,7 @@ WAIT Massive Attack — Teardrop | last aired 2026-11-07 18:16 | normal pick fro
 OK   Massive Attack — Unfinished Sympathy (2012 Mix/Master) | last aired 2026-11-04 08:33 | normal pick now | request now
 WAIT Matt Nathanson — All We Are | last aired 2026-11-09 15:39 | normal pick from 2026-11-11 03:39 | request from 2026-11-10 11:39
 OK   Matt Nathanson — Come On Get Higher | last aired 2026-10-26 14:17 | normal pick now | request now
-OK   Matt Nathanson — Faster | last aired 2026-10-30 07:35 | normal pick now | request now
+WAIT Matt Nathanson — Faster | last aired 2026-11-09 16:01 | normal pick from 2026-11-11 04:01 | request from 2026-11-10 12:01
 WAIT Mavis Staples — We're Gonna Make It | last aired 2026-11-09 15:22 | normal pick from 2026-11-11 03:22 | request from 2026-11-10 11:22
 WAIT Max Richter — Dream 3 (in the midst of my life) | last aired 2026-11-09 11:11 | normal pick from 2026-11-11 11:11 | request from 2026-11-11 11:11
 WAIT Max Richter — On the Nature of Daylight | last aired 2026-11-09 04:29 | normal pick from 2026-11-10 16:29 | request from 2026-11-10 00:29
@@ -64,11 +64,11 @@ OK   Maxwell — Whenever Wherever Whatever (Remastered 2021) (Album Version) | 
 WAIT Mazzy Star — Fade Into You | last aired 2026-11-08 08:39 | normal pick from 2026-11-10 08:39 | request from 2026-11-10 08:39
 WAIT Mazzy Star — Halah | last aired 2026-11-09 04:26 | normal pick from 2026-11-11 04:26 | request from 2026-11-11 04:26
 WAIT Måneskin — Torna a casa | last aired 2026-11-08 20:45 | normal pick from 2026-11-10 08:45 | request from 2026-11-09 16:45
-OK   Måneskin — ZITTI E BUONI | last aired 2026-10-29 16:09 | normal pick now | request now
+WAIT Måneskin — ZITTI E BUONI | last aired 2026-11-09 15:57 | normal pick from 2026-11-11 03:57 | request from 2026-11-10 11:57
 OK   The Magnetic Fields — Absolutely Cuckoo | last aired 2026-10-21 16:36 | normal pick now | request now
 OK   The Magnetic Fields — All My Little Words | last aired 2026-11-05 09:25 | normal pick now | request now
 OK   The Magnetic Fields — Born on a Train | last aired 2026-10-27 11:34 | normal pick now | request now
 OK   The Magnetic Fields — Papa Was a Rodeo | last aired 2026-11-03 16:41 | normal pick now | request now
-WAIT The Magnetic Fields — The Book of Love | last aired 2026-11-09 11:21 | normal pick from 2026-11-10 23:21 | request from 2026-11-10 07:21
+WAIT The Magnetic Fields — The Book of Love | last aired 2026-11-09 11:22 | normal pick from 2026-11-10 23:22 | request from 2026-11-10 07:22
 WAIT The Mamas & The Papas — California Dreamin' (Single Version) | last aired 2026-11-09 15:19 | normal pick from 2026-11-11 03:19 | request from 2026-11-10 11:19
-OK   The Marías — Cariño | last aired 2026-11-05 09:21 | normal pick now | request now
+WAIT The Marías — Cariño | last aired 2026-11-09 15:53 | normal pick from 2026-11-11 03:53 | request from 2026-11-10 11:53
