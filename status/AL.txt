@@ -1,4 +1,4 @@
-Track status, artists filed under AL (built Sun Nov 8, 5:35 PM PST (01:35 UTC Mon)). Times in UTC.
+Track status, artists filed under AL (built Sun Nov 8, 5:55 PM PST (01:55 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Al Di Meola — Double Concerto | last aired 2026-11-06 19:51 | normal pick now | request now
@@ -20,7 +20,7 @@ OK   Alestorm — Drink | last aired 2026-11-06 19:58 | normal pick now | reques
 OK   Alestorm — Keelhauled | last aired 2026-11-03 11:56 | normal pick now | request now
 OK   Alex Andre — thanks, my day is ruined | last aired 2026-11-06 23:44 | normal pick now | request now
 OK   Alexander Malter — Pärt: Für Alina | last aired 2026-10-25 18:33 | normal pick now | request now
-OK   Alexander Rybak — Fairytale | last aired 2026-11-06 23:41 | normal pick now | request now
+WAIT Alexander Rybak — Fairytale | last aired 2026-11-09 01:48 | normal pick from 2026-11-10 13:48 | request from 2026-11-09 21:48
 WAIT Alexandre Tharaud — Gnossienne No.1 - Gnossienne: No. 1 | last aired 2026-11-08 08:57 | normal pick from 2026-11-10 08:57 | request from 2026-11-10 08:57
 WAIT Alexi Murdoch — Orange Sky | last aired 2026-11-08 06:46 | normal pick from 2026-11-09 18:46 | request from 2026-11-09 02:46
 OK   Alfa Mist — Organic Rust | last aired 2026-11-06 23:33 | normal pick now | request now
