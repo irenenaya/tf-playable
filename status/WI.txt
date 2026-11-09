@@ -1,10 +1,10 @@
-Track status, artists filed under WI (built Mon Nov 9, 12:25 AM PST (08:25 UTC)). Times in UTC.
+Track status, artists filed under WI (built Mon Nov 9, 12:35 AM PST (08:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT The Winstons — Amen Brother | last aired 2026-11-09 02:30 | normal pick from 2026-11-10 14:30 | request from 2026-11-09 22:30
 WAIT Wild Nothing — Chinatown | last aired 2026-11-08 12:07 | normal pick from 2026-11-10 12:07 | request from 2026-11-10 12:07
 WAIT William Fitzsimmons — I Don't Feel It Anymore (Song of the Sparrow) (Remastered) | last aired 2026-11-09 00:31 | normal pick from 2026-11-10 12:31 | request from 2026-11-09 20:31
-WAIT William Fitzsimmons — Passion Play (Live in Paris) | last aired 2026-11-07 08:34 | normal pick from 2026-11-09 08:34 | request from 2026-11-09 08:34
+OK   William Fitzsimmons — Passion Play (Live in Paris) | last aired 2026-11-07 08:34 | normal pick now | request now
 WAIT Willie Nelson — On the Road Again | last aired 2026-11-09 00:37 | normal pick from 2026-11-10 12:37 | request from 2026-11-09 20:37
 WAIT Willy DeVille — Heaven Stood Still | last aired 2026-11-08 12:10 | normal pick from 2026-11-10 00:10 | request now
 WAIT Wilson Pickett — In the Midnight Hour | last aired 2026-11-09 00:34 | normal pick from 2026-11-10 12:34 | request from 2026-11-09 20:34
