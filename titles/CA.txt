@@ -1,4 +1,4 @@
-Track status, song titles filed under CA (built Mon Nov 9, 12:05 PM PST (20:05 UTC)). Times in UTC.
+Track status, song titles filed under CA (built Mon Nov 9, 12:15 PM PST (20:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT California Dreamin' (Single Version) — The Mamas & The Papas | last aired 2026-11-09 15:20 | normal pick from 2026-11-11 03:20 | request from 2026-11-10 11:20
@@ -19,6 +19,6 @@ OK   Caribou — Polar Sun | last aired 2026-11-01 11:05 | normal pick now | req
 WAIT Cariño — The Marías | last aired 2026-11-09 15:53 | normal pick from 2026-11-11 03:53 | request from 2026-11-10 11:53
 OK   Carnival of the Animals, R. 125: XIII. The Swan — Yo-Yo Ma | last aired 2026-11-07 07:22 | normal pick now | request now
 WAIT Carry You — Martin Garrix | last aired 2026-11-09 15:35 | normal pick from 2026-11-11 03:35 | request from 2026-11-10 11:35
-OK   Cars — Gary Numan | last aired 2026-11-07 03:23 | normal pick now | request now
+WAIT Cars — Gary Numan | last aired 2026-11-09 20:10 | normal pick from 2026-11-11 08:10 | request from 2026-11-10 16:10
 WAIT Casimir Pulaski Day — Sufjan Stevens | last aired 2026-11-09 06:51 | normal pick from 2026-11-11 06:51 | request from 2026-11-11 06:51
 WAIT Caught Up in the Rapture (LP Version) — Anita Baker | last aired 2026-11-08 20:16 | normal pick from 2026-11-10 20:16 | request from 2026-11-10 20:16
