@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Mon Nov 9, 2:15 AM PST (10:15 UTC)). Times in UTC.
+Track status, artists filed under JO (built Mon Nov 9, 2:25 AM PST (10:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-11-07 13:03 | normal pick from 2026-11-09 13:03 | request from 2026-11-09 13:03
@@ -24,12 +24,12 @@ OK   John Carpenter — Halloween Theme | last aired 2026-11-07 16:21 | normal p
 WAIT John Coltrane — Lush Life | last aired 2026-11-08 14:23 | normal pick from 2026-11-10 14:23 | request from 2026-11-10 14:23
 WAIT John Coltrane — My Favorite Things | last aired 2026-11-09 08:12 | normal pick from 2026-11-10 20:12 | request from 2026-11-10 04:12
 WAIT John Denver — Take Me Home, Country Roads | last aired 2026-11-07 16:09 | normal pick from 2026-11-09 16:09 | request from 2026-11-09 16:09
-WAIT John Lee Hooker — Boom Boom | last aired 2026-11-08 14:17 | normal pick from 2026-11-10 02:17 | request from 2026-11-09 10:17
+WAIT John Lee Hooker — Boom Boom | last aired 2026-11-08 14:17 | normal pick from 2026-11-10 02:17 | request now
 WAIT John Lee Hooker — I Cover the Waterfront | last aired 2026-11-09 00:40 | normal pick from 2026-11-10 12:40 | request from 2026-11-09 20:40
 OK   John Lennon — Give Peace A Chance (Remastered 2010) | last aired 2026-10-30 02:14 | normal pick now | request now
 WAIT John Lennon — Imagine (Remastered 2010) | last aired 2026-11-08 08:12 | normal pick from 2026-11-09 20:12 | request now
 WAIT John Lennon — Instant Karma! (We All Shine On) (Ultimate Mix) | last aired 2026-11-09 00:51 | normal pick from 2026-11-10 12:51 | request from 2026-11-09 20:51
-OK   John Lennon — Watching The Wheels (Remastered 2010) | last aired 2026-10-30 06:40 | normal pick now | request now
+WAIT John Lennon — Watching The Wheels (Remastered 2010) | last aired 2026-11-09 10:20 | normal pick from 2026-11-10 22:20 | request from 2026-11-10 06:20
 OK   John Mayer — New Light | last aired 2026-10-31 15:07 | normal pick now | request now
 OK   John McLaughlin — You Know, You Know (Album Version) | last aired 2026-10-20 05:00 | normal pick now | request now
 OK   John Prine — Your Flag Decal Won't Get You into Heaven Anymore | last aired 2026-11-04 13:10 | normal pick now | request now
