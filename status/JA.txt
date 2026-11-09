@@ -1,15 +1,15 @@
-Track status, artists filed under JA (built Mon Nov 9, 5:35 AM PST (13:35 UTC)). Times in UTC.
+Track status, artists filed under JA (built Mon Nov 9, 5:45 AM PST (13:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Jack Johnson — Better Together | last aired 2026-11-07 12:08 | normal pick now | request now
+WAIT Jack Johnson — Better Together | last aired 2026-11-09 13:33 | normal pick from 2026-11-11 13:33 | request from 2026-11-11 13:33
 WAIT Jack Johnson — Upside Down | last aired 2026-11-09 00:24 | normal pick from 2026-11-11 00:24 | request from 2026-11-11 00:24
 OK   Jacquees — Won't Turn It Down | last aired 2026-11-04 14:10 | normal pick now | request now
 WAIT James Blake — Retrograde | last aired 2026-11-09 00:58 | normal pick from 2026-11-11 00:58 | request from 2026-11-11 00:58
-OK   James Brown — I Got You (I Feel Good) | last aired 2026-11-07 12:23 | normal pick now | request now
+WAIT James Brown — I Got You (I Feel Good) | last aired 2026-11-09 13:41 | normal pick from 2026-11-11 13:41 | request from 2026-11-11 13:41
 WAIT James Brown — Sunny | last aired 2026-11-08 13:27 | normal pick from 2026-11-10 13:27 | request from 2026-11-10 13:27
 WAIT James Taylor — Fire and Rain (2019 Remaster) | last aired 2026-11-08 00:52 | normal pick from 2026-11-10 00:52 | request from 2026-11-10 00:52
 WAIT Jamie xx — Gosh | last aired 2026-11-09 03:14 | normal pick from 2026-11-11 03:14 | request from 2026-11-11 03:14
-OK   Jamiroquai — Cosmic Girl (Remastered 2013) | last aired 2026-11-07 04:26 | normal pick now | request now
+WAIT Jamiroquai — Cosmic Girl (Remastered 2013) | last aired 2026-11-09 13:37 | normal pick from 2026-11-11 13:37 | request from 2026-11-11 13:37
 WAIT Jan Hammer — Crockett's Theme | last aired 2026-11-08 00:55 | normal pick from 2026-11-10 00:55 | request from 2026-11-10 00:55
 WAIT Janelle Monáe — Make Me Feel | last aired 2026-11-09 00:27 | normal pick from 2026-11-11 00:27 | request from 2026-11-11 00:27
 WAIT Janet Jackson — Any Time, Any Place | last aired 2026-11-09 01:52 | normal pick from 2026-11-11 01:52 | request from 2026-11-11 01:52

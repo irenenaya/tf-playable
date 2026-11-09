@@ -1,4 +1,4 @@
-Track status, song titles filed under LE (built Mon Nov 9, 5:35 AM PST (13:35 UTC)). Times in UTC.
+Track status, song titles filed under LE (built Mon Nov 9, 5:45 AM PST (13:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Le Chant des oiseaux — La Fenice | last aired 2026-10-02 15:12 | normal pick now | request now
@@ -19,7 +19,7 @@ OK   Less Than — Nine Inch Nails | last aired 2026-11-07 00:41 | normal pick n
 WAIT Let You Go — RY X | last aired 2026-11-08 10:28 | normal pick from 2026-11-09 22:28 | request now
 OK   Let's Dance (2018 Remaster) — David Bowie | last aired 2026-10-30 19:23 | normal pick now | request now
 OK   Let's Get It On — Marvin Gaye | last aired 2026-11-04 20:49 | normal pick now | request now
-WAIT Let's Groove (Album Version) — Earth, Wind & Fire | last aired 2026-11-07 13:38 | normal pick from 2026-11-09 13:38 | request from 2026-11-09 13:38
+OK   Let's Groove (Album Version) — Earth, Wind & Fire | last aired 2026-11-07 13:38 | normal pick now | request now
 WAIT Let's Stay Together — Al Green | last aired 2026-11-08 01:41 | normal pick from 2026-11-10 01:41 | request from 2026-11-10 01:41
 OK   The Ledge — Fleetwood Mac | last aired 2026-11-07 12:34 | normal pick now | request now
 OK   The Less I Know The Better — Tame Impala | last aired 2026-11-04 19:44 | normal pick now | request now
