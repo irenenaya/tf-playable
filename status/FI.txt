@@ -1,4 +1,4 @@
-Track status, artists filed under FI (built Mon Nov 9, 11:35 AM PST (19:35 UTC)). Times in UTC.
+Track status, artists filed under FI (built Mon Nov 9, 11:45 AM PST (19:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Filippo Beck Peccoz — Desperados III Main Theme | last aired 2026-10-21 04:48 | normal pick now | request now
@@ -8,4 +8,4 @@ OK   Filippo Beck Peccoz — Until Death Do Us Part | last aired 2026-10-23 06:4
 OK   Fiona Apple — Better Version Of Me (Album Version) | last aired 2026-11-07 19:45 | normal pick now | request now
 WAIT Fiona Apple — Slow Like Honey | last aired 2026-11-07 20:37 | normal pick from 2026-11-09 20:37 | request from 2026-11-09 20:37
 OK   Fireboy DML — GODDESS | last aired 2026-10-22 09:04 | normal pick now | request now
-OK   Fito Páez — El amor después del amor | last aired 2026-11-07 03:18 | normal pick now | request now
+WAIT Fito Páez — El amor después del amor | last aired 2026-11-09 19:38 | normal pick from 2026-11-11 19:38 | request from 2026-11-11 19:38
