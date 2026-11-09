@@ -1,4 +1,4 @@
-Track status, song titles filed under MA (built Mon Nov 9, 5:15 AM PST (13:15 UTC)). Times in UTC.
+Track status, song titles filed under MA (built Mon Nov 9, 5:25 AM PST (13:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Mad World — Gary Jules | last aired 2026-11-06 13:18 | normal pick now | request now
@@ -16,7 +16,7 @@ WAIT Man in the Box — Alice In Chains | last aired 2026-11-09 03:27 | normal p
 OK   Manipulation (The Dance) — Tom Konkle | last aired 2026-11-02 00:49 | normal pick now | request now
 OK   Mannish Boy — Muddy Waters | last aired 2026-10-28 21:13 | normal pick now | request now
 OK   Many Too Many (2007 Remaster) — Genesis | last aired 2026-10-21 20:39 | normal pick now | request now
-OK   Maria Maria — Santana | last aired 2026-11-07 20:55 | normal pick now | request now
+WAIT Maria Maria — Santana | last aired 2026-11-09 13:20 | normal pick from 2026-11-11 01:20 | request from 2026-11-10 09:20
 OK   Married To The Music — SHINee | last aired 2026-10-27 15:13 | normal pick now | request now
 OK   Marunouchi sadistic (Cover) — Mizuki Tomoda | last aired 2026-10-17 14:46 | normal pick now | request now
 WAIT Mary — Big Thief | last aired 2026-11-08 04:40 | normal pick from 2026-11-10 04:40 | request from 2026-11-10 04:40
