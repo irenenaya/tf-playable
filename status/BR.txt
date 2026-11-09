@@ -1,4 +1,4 @@
-Track status, artists filed under BR (built Mon Nov 9, 1:55 AM PST (09:55 UTC)). Times in UTC.
+Track status, artists filed under BR (built Mon Nov 9, 2:05 AM PST (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Brainstory — Mnemophobia | last aired 2026-10-31 06:20 | normal pick now | request now
@@ -14,7 +14,7 @@ OK   Brian Eno — Spinning Away | last aired 2026-11-04 06:29 | normal pick now
 WAIT Brian Eno — The Big Ship (2004 Remaster) | last aired 2026-11-07 10:22 | normal pick from 2026-11-09 10:22 | request from 2026-11-09 10:22
 WAIT Brijean — Counting Sheep | last aired 2026-11-08 06:55 | normal pick from 2026-11-09 18:55 | request now
 OK   Bring Me The Horizon — Blessed with a Curse | last aired 2026-11-02 00:11 | normal pick now | request now
-WAIT Bruce Kaphan — Clouds | last aired 2026-11-07 10:04 | normal pick from 2026-11-09 10:04 | request from 2026-11-09 10:04
+OK   Bruce Kaphan — Clouds | last aired 2026-11-07 10:04 | normal pick now | request now
 OK   Bruce Springsteen — Born in the U.S.A. | last aired 2026-10-31 19:24 | normal pick now | request now
 OK   Bruce Springsteen — Born to Run | last aired 2026-11-02 02:45 | normal pick now | request now
 OK   Bruce Springsteen — No Surrender | last aired 2026-11-01 00:58 | normal pick now | request now
