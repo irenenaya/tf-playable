@@ -1,7 +1,7 @@
-Track status, artists filed under MA (built Mon Nov 9, 7:15 AM PST (15:15 UTC)). Times in UTC.
+Track status, artists filed under MA (built Mon Nov 9, 7:25 AM PST (15:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   M/A/R/R/S — Pump Up The Volume (UK 12" Remix) | last aired 2026-11-07 15:06 | normal pick now | request now
+WAIT M/A/R/R/S — Pump Up The Volume (UK 12" Remix) | last aired 2026-11-09 15:13 | normal pick from 2026-11-11 03:13 | request from 2026-11-10 11:13
 WAIT Mac DeMarco — Chamber Of Reflection | last aired 2026-11-08 13:16 | normal pick from 2026-11-10 13:16 | request from 2026-11-10 13:16
 OK   Mac DeMarco — My Kind of Woman | last aired 2026-11-07 14:58 | normal pick now | request now
 WAIT Mac DeMarco — No Other Heart | last aired 2026-11-07 16:00 | normal pick from 2026-11-09 16:00 | request from 2026-11-09 16:00
@@ -70,5 +70,5 @@ OK   The Magnetic Fields — All My Little Words | last aired 2026-11-05 09:25 |
 OK   The Magnetic Fields — Born on a Train | last aired 2026-10-27 11:34 | normal pick now | request now
 OK   The Magnetic Fields — Papa Was a Rodeo | last aired 2026-11-03 16:41 | normal pick now | request now
 WAIT The Magnetic Fields — The Book of Love | last aired 2026-11-09 11:21 | normal pick from 2026-11-10 23:21 | request from 2026-11-10 07:21
-OK   The Mamas & The Papas — California Dreamin' (Single Version) | last aired 2026-11-01 00:55 | normal pick now | request now
+WAIT The Mamas & The Papas — California Dreamin' (Single Version) | last aired 2026-11-09 15:19 | normal pick from 2026-11-11 03:19 | request from 2026-11-10 11:19
 OK   The Marías — Cariño | last aired 2026-11-05 09:21 | normal pick now | request now
