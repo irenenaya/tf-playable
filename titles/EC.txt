@@ -1,5 +1,5 @@
-Track status, song titles filed under EC (built Mon Nov 9, 1:15 AM PST (09:15 UTC)). Times in UTC.
+Track status, song titles filed under EC (built Mon Nov 9, 1:25 AM PST (09:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Echo Beach — Martha And The Muffins | last aired 2026-10-30 16:00 | normal pick now | request now
+WAIT Echo Beach — Martha And The Muffins | last aired 2026-11-09 09:20 | normal pick from 2026-11-10 21:20 | request from 2026-11-10 05:20
 WAIT The Ecstasy of Gold — Ennio Morricone | last aired 2026-11-08 13:05 | normal pick from 2026-11-10 01:05 | request now
