@@ -1,4 +1,4 @@
-Track status, song titles filed under LA (built Mon Nov 9, 8:45 AM PST (16:45 UTC)). Times in UTC.
+Track status, song titles filed under LA (built Mon Nov 9, 8:55 AM PST (16:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   L'Amour Looks Something Like You (2018 Remaster) — Kate Bush | last aired 2026-10-24 05:27 | normal pick now | request now
@@ -8,7 +8,7 @@ OK   La femme d'argent — Air | last aired 2026-11-07 10:43 | normal pick now |
 OK   La Fontaine De Sang — The Vampire Lestat | last aired 2026-10-26 01:58 | normal pick now | request now
 OK   La llorona — Chavela Vargas | last aired 2026-11-06 11:24 | normal pick now | request now
 OK   La Mentira — Luis Miguel | last aired 2026-11-02 19:14 | normal pick now | request now
-OK   La Negra Tomasa (Bilongo - Version Tropical) — Caifanes | last aired 2026-11-07 19:33 | normal pick now | request now
+WAIT La Negra Tomasa (Bilongo - Version Tropical) — Caifanes | last aired 2026-11-09 16:46 | normal pick from 2026-11-11 04:46 | request from 2026-11-10 12:46
 OK   La petite fille de la mer — Vangelis | last aired 2026-11-07 23:19 | normal pick now | request now
 OK   La Revacholiere — Sea Power | last aired 2026-10-26 00:52 | normal pick now | request now
 OK   La Serena — Azam Ali | last aired 2026-10-25 14:38 | normal pick now | request now
