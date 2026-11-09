@@ -1,7 +1,7 @@
-Track status, song titles filed under AF (built Mon Nov 9, 2:05 PM PST (22:05 UTC)). Times in UTC.
+Track status, song titles filed under AF (built Mon Nov 9, 2:15 PM PST (22:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   A Forest — The Cure | last aired 2026-11-02 10:47 | normal pick now | request now
+WAIT A Forest — The Cure | last aired 2026-11-09 22:07 | normal pick from 2026-11-11 10:07 | request from 2026-11-10 18:07
 OK   affection — BETWEEN FRIENDS | last aired 2026-11-01 09:52 | normal pick now | request now
 OK   Affirmation (Album Version) — George Benson | last aired 2026-11-07 09:42 | normal pick now | request now
 OK   Africa — Perpetuum Jazzile | last aired 2026-11-07 14:01 | normal pick now | request now
