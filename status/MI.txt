@@ -1,4 +1,4 @@
-Track status, artists filed under MI (built Mon Nov 9, 2:45 AM PST (10:45 UTC)). Times in UTC.
+Track status, artists filed under MI (built Mon Nov 9, 2:55 AM PST (10:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Mica Levi — Love | last aired 2026-11-08 22:25 | normal pick from 2026-11-10 10:25 | request from 2026-11-09 18:25
@@ -14,14 +14,14 @@ OK   Michael Jackson — Stranger in Moscow | last aired 2026-10-29 12:39 | norm
 OK   Michael Jackson — Thriller | last aired 2026-10-31 13:09 | normal pick now | request now
 OK   Michael Jackson — Who Is It | last aired 2026-10-29 22:14 | normal pick now | request now
 WAIT Michael Jackson — You Are Not Alone | last aired 2026-11-08 00:17 | normal pick from 2026-11-09 12:17 | request now
-OK   Michael McDonald — I Keep Forgettin' (Every Time You're Near) | last aired 2026-11-07 00:54 | normal pick now | request now
+WAIT Michael McDonald — I Keep Forgettin' (Every Time You're Near) | last aired 2026-11-09 10:47 | normal pick from 2026-11-10 22:47 | request from 2026-11-10 06:47
 OK   MIKA — Grace Kelly | last aired 2026-11-06 16:40 | normal pick now | request now
 OK   Mike Marshall — Big Country (Instrumental) | last aired 2026-10-29 04:23 | normal pick now | request now
 OK   Mike Oldfield — Moonlight Shadow | last aired 2026-11-07 06:42 | normal pick now | request now
 WAIT Mikis Theodorakis — Zorba the Greek: Zorba's Dance | last aired 2026-11-08 01:04 | normal pick from 2026-11-10 01:04 | request from 2026-11-10 01:04
 WAIT Miles Davis — Blue in Green | last aired 2026-11-08 00:11 | normal pick from 2026-11-09 12:11 | request now
 WAIT Miles Davis — Flamenco Sketches | last aired 2026-11-08 02:35 | normal pick from 2026-11-09 14:35 | request now
-OK   Miles Davis — So What | last aired 2026-11-06 16:28 | normal pick now | request now
+WAIT Miles Davis — So What | last aired 2026-11-09 10:51 | normal pick from 2026-11-10 22:51 | request from 2026-11-10 06:51
 OK   Miley Cyrus — Flowers | last aired 2026-11-06 16:43 | normal pick now | request now
 OK   Miley Cyrus — Party In The U.S.A. | last aired 2026-10-24 21:54 | normal pick now | request now
 WAIT Milt Jackson — Bag's New Groove | last aired 2026-11-09 10:41 | normal pick from 2026-11-10 22:41 | request from 2026-11-10 06:41
