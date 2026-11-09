@@ -1,4 +1,4 @@
-Track status, artists filed under LE (built Sun Nov 8, 7:55 PM PST (03:55 UTC Mon)). Times in UTC.
+Track status, artists filed under LE (built Sun Nov 8, 8:05 PM PST (04:05 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   LeAnn Rimes — Blue | last aired 2026-11-06 23:48 | normal pick now | request now
@@ -8,7 +8,7 @@ WAIT Led Zeppelin — Over the Hills and Far Away (Remaster) | last aired 2026-1
 OK   Led Zeppelin — Stairway to Heaven (Remaster) | last aired 2026-11-06 16:08 | normal pick now | request now
 WAIT Ledward Kaapana — Salomila (Live) | last aired 2026-11-08 08:15 | normal pick from 2026-11-09 20:15 | request from 2026-11-09 04:15
 WAIT Lemon Jelly — Ramblin' Man | last aired 2026-11-08 01:17 | normal pick from 2026-11-10 01:17 | request from 2026-11-10 01:17
-OK   Leon Bridges — Coming Home | last aired 2026-11-06 14:19 | normal pick now | request now
+WAIT Leon Bridges — Coming Home | last aired 2026-11-09 03:52 | normal pick from 2026-11-11 03:52 | request from 2026-11-11 03:52
 WAIT Leon Larregui — Brillas | last aired 2026-11-08 03:27 | normal pick from 2026-11-10 03:27 | request from 2026-11-10 03:27
 WAIT Leon Larregui — Locos | last aired 2026-11-08 08:36 | normal pick from 2026-11-09 20:36 | request from 2026-11-09 04:36
 WAIT Leonard Bernstein — Candide: Overture | last aired 2026-11-08 03:31 | normal pick from 2026-11-09 15:31 | request now
@@ -17,7 +17,7 @@ OK   Leonard Cohen — Anthem | last aired 2026-11-06 14:22 | normal pick now | 
 OK   Leonard Cohen — Avalanche | last aired 2026-11-04 08:43 | normal pick now | request now
 WAIT Leonard Cohen — Bird on the Wire | last aired 2026-11-07 23:25 | normal pick from 2026-11-09 11:25 | request now
 WAIT Leonard Cohen — Dance Me to the End of Love | last aired 2026-11-08 01:56 | normal pick from 2026-11-09 13:56 | request now
-OK   Leonard Cohen — Famous Blue Raincoat | last aired 2026-11-06 18:01 | normal pick now | request now
+WAIT Leonard Cohen — Famous Blue Raincoat | last aired 2026-11-09 03:55 | normal pick from 2026-11-11 03:55 | request from 2026-11-11 03:55
 OK   Leonard Cohen — Hallelujah | last aired 2026-11-02 06:04 | normal pick now | request now
 OK   Leonard Cohen — So Long, Marianne | last aired 2026-11-03 11:37 | normal pick now | request now
 OK   Leonard Cohen — Suzanne | last aired 2026-11-06 17:54 | normal pick now | request now

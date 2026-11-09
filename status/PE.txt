@@ -1,4 +1,4 @@
-Track status, artists filed under PE (built Sun Nov 8, 7:55 PM PST (03:55 UTC Mon)). Times in UTC.
+Track status, artists filed under PE (built Sun Nov 8, 8:05 PM PST (04:05 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Pearl Jam — Yellow Ledbetter | last aired 2026-11-07 01:45 | normal pick now | request now
@@ -6,7 +6,7 @@ OK   Pebe Sebert — City's Burning | last aired 2026-11-03 18:52 | normal pick 
 OK   Pedro Infante — Amorcito corazón | last aired 2026-11-07 01:51 | normal pick now | request now
 OK   Peeping Tom — Your Neighborhood Spaceman | last aired 2026-11-02 13:39 | normal pick now | request now
 OK   Peggy Gou — Starry Night | last aired 2026-11-07 13:54 | normal pick now | request now
-WAIT Pellek — Bohemian Rhapsody | last aired 2026-11-07 16:03 | normal pick from 2026-11-09 04:03 | request now
+OK   Pellek — Bohemian Rhapsody | last aired 2026-11-07 16:03 | normal pick now | request now
 OK   Penguin Cafe Orchestra — Music For A Found Harmonium | last aired 2026-11-07 01:42 | normal pick now | request now
 OK   Penguin Cafe Orchestra — Perpetuum Mobile | last aired 2026-11-07 13:49 | normal pick now | request now
 OK   Pent Up Pup — ORDER:SCORE | last aired 2026-10-18 03:50 | normal pick now | request now
