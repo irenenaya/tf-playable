@@ -1,9 +1,9 @@
-Track status, artists filed under TO (built Sun Nov 8, 10:25 PM PST (06:25 UTC Mon)). Times in UTC.
+Track status, artists filed under TO (built Sun Nov 8, 10:35 PM PST (06:35 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT toe — Goodbye (Live) | last aired 2026-11-08 19:07 | normal pick from 2026-11-10 07:07 | request from 2026-11-09 15:07
 OK   Tom Jones — Cwm Rhondda | last aired 2026-10-18 13:57 | normal pick now | request now
-OK   Tom Konkle — Camouflage (Acoustic Mix) | last aired 2026-11-04 21:11 | normal pick now | request now
+WAIT Tom Konkle — Camouflage (Acoustic Mix) | last aired 2026-11-09 06:25 | normal pick from 2026-11-10 18:25 | request from 2026-11-10 02:25
 OK   Tom Konkle — Camouflage (Album Mix) | last aired 2026-11-06 22:06 | normal pick now | request now
 WAIT Tom Konkle — Children of No Horizon | last aired 2026-11-08 10:08 | normal pick from 2026-11-09 22:08 | request now
 OK   Tom Konkle — Fail Upward For A Change | last aired 2026-11-04 21:43 | normal pick now | request now
