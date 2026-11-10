@@ -1,7 +1,7 @@
-Track status, artists filed under CA (built Tue Nov 10, 2:55 AM PST (10:55 UTC)). Times in UTC.
+Track status, artists filed under CA (built Tue Nov 10, 3:05 AM PST (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Caetano Veloso — O Leãozinho (Ao Vivo) | last aired 2026-11-08 07:46 | normal pick now | request now
+WAIT Caetano Veloso — O Leãozinho (Ao Vivo) | last aired 2026-11-10 11:01 | normal pick from 2026-11-12 11:01 | request from 2026-11-12 11:01
 WAIT Caetano Veloso — Tropicália (Remastered 2006) | last aired 2026-11-09 16:34 | normal pick from 2026-11-11 16:34 | request from 2026-11-11 16:34
 OK   Café Tacvba — Eres (Album Version) | last aired 2026-11-08 04:54 | normal pick now | request now
 OK   Cage The Elephant — What I'm Becoming | last aired 2026-11-07 19:53 | normal pick now | request now
@@ -10,7 +10,7 @@ WAIT Caifanes — La Negra Tomasa (Bilongo - Version Tropical) | last aired 2026
 OK   Camille — Ta douleur | last aired 2026-11-08 11:06 | normal pick now | request now
 WAIT Camille Thomas — Deux mélodies hébraïques, M. A22 - Ravel: Deux mélodies hébraïques, M. A22: I. Kaddisch (Transcr. by Richard Tognetti for Cello and Orchestra ) | last aired 2026-11-09 02:03 | normal pick from 2026-11-11 02:03 | request from 2026-11-11 02:03
 WAIT Canned Heat — On The Road Again | last aired 2026-11-09 16:38 | normal pick from 2026-11-11 16:38 | request from 2026-11-11 16:38
-OK   Carbon Based Lifeforms — Photosynthesis | last aired 2026-11-07 20:00 | normal pick now | request now
+WAIT Carbon Based Lifeforms — Photosynthesis | last aired 2026-11-10 10:54 | normal pick from 2026-11-12 10:54 | request from 2026-11-12 10:54
 WAIT Cardiacs — Big Ship | last aired 2026-11-09 16:54 | normal pick from 2026-11-11 04:54 | request from 2026-11-10 12:54
 OK   Carlos Gardel — Por una Cabeza | last aired 2026-11-08 02:44 | normal pick now | request now
 WAIT Carole King — It's Too Late | last aired 2026-11-09 16:30 | normal pick from 2026-11-11 16:30 | request from 2026-11-11 16:30

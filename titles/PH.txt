@@ -1,5 +1,5 @@
-Track status, song titles filed under PH (built Tue Nov 10, 2:55 AM PST (10:55 UTC)). Times in UTC.
+Track status, song titles filed under PH (built Tue Nov 10, 3:05 AM PST (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Photograph — Def Leppard | last aired 2026-11-08 16:13 | normal pick now | request now
-OK   Photosynthesis — Carbon Based Lifeforms | last aired 2026-11-07 20:00 | normal pick now | request now
+WAIT Photosynthesis — Carbon Based Lifeforms | last aired 2026-11-10 10:54 | normal pick from 2026-11-12 10:54 | request from 2026-11-12 10:54
