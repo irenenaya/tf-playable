@@ -1,4 +1,4 @@
-Track status, song titles filed under SU (built Mon Nov 9, 9:55 PM PST (05:55 UTC Tue)). Times in UTC.
+Track status, song titles filed under SU (built Mon Nov 9, 10:05 PM PST (06:05 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Subterraneans (2017 Remaster) — David Bowie | last aired 2026-10-31 07:17 | normal pick now | request now
@@ -8,7 +8,7 @@ OK   Such Great Heights — Iron & Wine | last aired 2026-11-07 12:36 | normal p
 OK   Sugar Water (Album Version) — Cibo Matto | last aired 2026-10-26 21:15 | normal pick now | request now
 OK   Suite bergamasque, CD 82, L. 75: III. Clair de lune — Simon Trpčeski | last aired 2026-10-29 06:59 | normal pick now | request now
 WAIT Sultans of Swing — Dire Straits | last aired 2026-11-09 18:08 | normal pick from 2026-11-11 06:08 | request from 2026-11-10 14:08
-WAIT Summer (from 'Kikujiro') — Joe Hisaishi | last aired 2026-11-08 17:58 | normal pick from 2026-11-10 05:58 | request now
+OK   Summer (from 'Kikujiro') — Joe Hisaishi | last aired 2026-11-08 17:58 | normal pick now | request now
 WAIT Summer 91 (Looking Back) (Acoustic) — Noizu | last aired 2026-11-10 05:22 | normal pick from 2026-11-11 17:22 | request from 2026-11-11 01:22
 WAIT Summer 91 (Looking Back) — Noizu | last aired 2026-11-08 23:23 | normal pick from 2026-11-10 11:23 | request now
 WAIT Summer Moved On (2019 Remaster) — A-Ha | last aired 2026-11-09 21:14 | normal pick from 2026-11-11 09:14 | request from 2026-11-10 17:14
