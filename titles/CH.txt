@@ -1,4 +1,4 @@
-Track status, song titles filed under CH (built Tue Nov 10, 9:25 AM PST (17:25 UTC)). Times in UTC.
+Track status, song titles filed under CH (built Tue Nov 10, 9:35 AM PST (17:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Cha Cha Cha — Käärijä | last aired 2026-10-29 16:13 | normal pick now | request now
@@ -23,5 +23,5 @@ OK   Child in Time (Special Version) — Rock appetizers | last aired 2026-09-22
 OK   Children of No Horizon — Tom Konkle | last aired 2026-11-08 10:08 | normal pick now | request now
 OK   Children Of The Revolution — T. Rex | last aired 2026-11-05 19:51 | normal pick now | request now
 OK   Chinatown — Wild Nothing | last aired 2026-11-08 12:07 | normal pick now | request now
-OK   Choo Choo Ch'Boogie — Louis Jordan & His Tympany Five | last aired 2026-10-27 16:48 | normal pick now | request now
+WAIT Choo Choo Ch'Boogie — Louis Jordan & His Tympany Five | last aired 2026-11-10 17:24 | normal pick from 2026-11-12 05:24 | request from 2026-11-11 13:24
 OK   Chorus — Holly Herndon | last aired 2026-11-07 08:14 | normal pick now | request now
