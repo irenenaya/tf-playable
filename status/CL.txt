@@ -1,9 +1,9 @@
-Track status, artists filed under CL (built Mon Nov 9, 11:25 PM PST (07:25 UTC Tue)). Times in UTC.
+Track status, artists filed under CL (built Mon Nov 9, 11:35 PM PST (07:35 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Claire Chevallier — Je te veux | last aired 2026-10-23 01:36 | normal pick now | request now
-OK   Clannad — Theme From Harry's Game | last aired 2026-11-06 12:32 | normal pick now | request now
-OK   Claude Debussy — Clair de Lune: I | last aired 2026-11-06 12:37 | normal pick now | request now
+WAIT Clannad — Theme From Harry's Game | last aired 2026-11-10 07:27 | normal pick from 2026-11-12 07:27 | request from 2026-11-12 07:27
+WAIT Claude Debussy — Clair de Lune: I | last aired 2026-11-10 07:26 | normal pick from 2026-11-11 19:26 | request from 2026-11-11 03:26
 OK   Claudio Constantini — Noctilune No. 1 (Bandoneon Solo) | last aired 2026-11-08 18:26 | normal pick now | request now
 OK   Club Nouveau — Lean On Me | last aired 2026-10-25 09:53 | normal pick now | request now
 OK   The Clash — London Calling | last aired 2026-10-31 10:52 | normal pick now | request now

@@ -1,7 +1,7 @@
-Track status, song titles filed under CL (built Mon Nov 9, 11:25 PM PST (07:25 UTC Tue)). Times in UTC.
+Track status, song titles filed under CL (built Mon Nov 9, 11:35 PM PST (07:35 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Clair de Lune: I — Claude Debussy | last aired 2026-11-06 12:37 | normal pick now | request now
+WAIT Clair de Lune: I — Claude Debussy | last aired 2026-11-10 07:26 | normal pick from 2026-11-11 19:26 | request from 2026-11-11 03:26
 OK   Clearest Blue — CHVRCHES | last aired 2026-10-25 00:49 | normal pick now | request now
 OK   Clipper — Autechre | last aired 2026-10-21 02:28 | normal pick now | request now
 OK   Close in the Distance (FFXIV Endwalker) [Synthwave] — Dutyyaknow | last aired 2026-10-26 00:36 | normal pick now | request now
