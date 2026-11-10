@@ -1,5 +1,5 @@
-Track status, song titles filed under HU (built Tue Nov 10, 2:35 AM PST (10:35 UTC)). Times in UTC.
+Track status, song titles filed under HU (built Tue Nov 10, 2:45 AM PST (10:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Hurt (Album Version) — Johnny Cash | last aired 2026-11-08 08:24 | normal pick now | request now
-OK   Hurt — Nine Inch Nails | last aired 2026-11-08 19:38 | normal pick now | request now
+WAIT Hurt — Nine Inch Nails | last aired 2026-11-10 10:35 | normal pick from 2026-11-11 22:35 | request from 2026-11-11 06:35
