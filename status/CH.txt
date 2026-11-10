@@ -1,7 +1,7 @@
-Track status, artists filed under CH (built Tue Nov 10, 3:45 PM PST (23:45 UTC)). Times in UTC.
+Track status, artists filed under CH (built Tue Nov 10, 3:55 PM PST (23:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Chaka Khan — What Cha' Gonna Do for Me | last aired 2026-11-04 23:40 | normal pick now | request now
+WAIT Chaka Khan — What Cha' Gonna Do for Me | last aired 2026-11-10 23:46 | normal pick from 2026-11-12 11:46 | request from 2026-11-11 19:46
 OK   Chappell Roan — Good Luck, Babe! | last aired 2026-11-03 01:26 | normal pick now | request now
 OK   Chappell Roan — HOT TO GO! | last aired 2026-11-03 14:16 | normal pick now | request now
 OK   Chappell Roan — Pink Pony Club | last aired 2026-11-02 00:24 | normal pick now | request now
@@ -13,7 +13,7 @@ OK   Charles Mingus — Track A - Solo Dancer (Stop! Look! And Listen, Sinner Ji
 OK   Charles Wright & The Watts 103rd Street Rhythm Band — Express Yourself (Album Version) | last aired 2026-10-31 17:47 | normal pick now | request now
 OK   Charli XCX — 360 | last aired 2026-10-23 19:42 | normal pick now | request now
 OK   Charly García — Demoliendo Hoteles (Live) | last aired 2026-11-05 13:35 | normal pick now | request now
-OK   Chavela Vargas — La llorona | last aired 2026-11-06 11:24 | normal pick now | request now
+WAIT Chavela Vargas — La llorona | last aired 2026-11-10 23:50 | normal pick from 2026-11-12 11:50 | request from 2026-11-11 19:50
 OK   Chet Atkins — Why Worry (Album Version) | last aired 2026-11-06 12:01 | normal pick now | request now
 WAIT Chet Baker — Almost Blue | last aired 2026-11-09 08:27 | normal pick from 2026-11-11 08:27 | request from 2026-11-11 08:27
 WAIT Chet Baker — My Funny Valentine | last aired 2026-11-09 11:28 | normal pick from 2026-11-11 11:28 | request from 2026-11-11 11:28
