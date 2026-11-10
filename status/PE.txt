@@ -1,14 +1,14 @@
-Track status, artists filed under PE (built Tue Nov 10, 2:35 PM PST (22:35 UTC)). Times in UTC.
+Track status, artists filed under PE (built Tue Nov 10, 2:45 PM PST (22:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Pearl Jam — Yellow Ledbetter | last aired 2026-11-07 01:45 | normal pick now | request now
 OK   Pebe Sebert — City's Burning | last aired 2026-11-03 18:52 | normal pick now | request now
-OK   Pedro Infante — Amorcito corazón | last aired 2026-11-07 01:51 | normal pick now | request now
+WAIT Pedro Infante — Amorcito corazón | last aired 2026-11-10 22:34 | normal pick from 2026-11-12 22:34 | request from 2026-11-12 22:34
 OK   Peeping Tom — Your Neighborhood Spaceman | last aired 2026-11-02 13:39 | normal pick now | request now
-OK   Peggy Gou — Starry Night | last aired 2026-11-07 13:54 | normal pick now | request now
+WAIT Peggy Gou — Starry Night | last aired 2026-11-10 22:41 | normal pick from 2026-11-12 10:41 | request from 2026-11-11 18:41
 OK   Pellek — Bohemian Rhapsody | last aired 2026-11-07 16:03 | normal pick now | request now
 OK   Penguin Cafe Orchestra — Music For A Found Harmonium | last aired 2026-11-07 01:42 | normal pick now | request now
-OK   Penguin Cafe Orchestra — Perpetuum Mobile | last aired 2026-11-07 13:49 | normal pick now | request now
+WAIT Penguin Cafe Orchestra — Perpetuum Mobile | last aired 2026-11-10 22:37 | normal pick from 2026-11-12 10:37 | request from 2026-11-11 18:37
 OK   Pent Up Pup — ORDER:SCORE | last aired 2026-10-18 03:50 | normal pick now | request now
 OK   Percy Faith & His Orchestra — Black Magic Woman | last aired 2026-11-07 14:45 | normal pick now | request now
 OK   Percy Faith & His Orchestra — Theme from "A Summer Place" | last aired 2026-11-07 06:50 | normal pick now | request now
