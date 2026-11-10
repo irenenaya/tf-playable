@@ -1,8 +1,8 @@
-Track status, song titles filed under LU (built Tue Nov 10, 4:55 AM PST (12:55 UTC)). Times in UTC.
+Track status, song titles filed under LU (built Tue Nov 10, 5:05 AM PST (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   L'uomo dell'armonica — Solisti e Orchestre del Cinema Italiano | last aired 2026-11-07 21:29 | normal pick now | request now
 OK   Lua e Estrela — Vinicius Cantuaria | last aired 2026-11-08 19:45 | normal pick now | request now
 OK   Lucy In The Sky With Diamonds (Remastered 2009) — The Beatles | last aired 2026-11-07 11:28 | normal pick now | request now
-WAIT Luna Roja (Remasterizado 2007) — Soda Stereo | last aired 2026-11-10 09:45 | normal pick from 2026-11-11 21:45 | request from 2026-11-11 05:45
+WAIT Luna Roja (Remasterizado 2007) — Soda Stereo | last aired 2026-11-10 09:46 | normal pick from 2026-11-12 09:46 | request from 2026-11-12 09:46
 WAIT Lush Life — John Coltrane | last aired 2026-11-08 14:23 | normal pick from 2026-11-10 14:23 | request from 2026-11-10 14:23

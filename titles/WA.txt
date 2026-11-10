@@ -1,4 +1,4 @@
-Track status, song titles filed under WA (built Tue Nov 10, 4:55 AM PST (12:55 UTC)). Times in UTC.
+Track status, song titles filed under WA (built Tue Nov 10, 5:05 AM PST (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Way You Look Tonight — Tony Bennett & Faith Hill | last aired 2026-10-26 13:12 | normal pick now | request now
@@ -9,7 +9,7 @@ OK   Wake Me Up — Becky Levi and the Nightjars | last aired 2026-10-22 06:23 |
 OK   Walkin' On The Sun — Smash Mouth | last aired 2026-10-25 20:07 | normal pick now | request now
 OK   Walking On The Moon (Remastered 2003) — The Police | last aired 2026-10-29 21:31 | normal pick now | request now
 OK   Waltz No.19 in A minor, Op.posth. - Chopin: Waltz No. 19 in A minor, Op. posth. — Peter Jablonski | last aired 2026-11-02 09:15 | normal pick now | request now
-WAIT Waltzing Back — No Vacation | last aired 2026-11-10 09:42 | normal pick from 2026-11-11 21:42 | request from 2026-11-11 05:42
+WAIT Waltzing Back — No Vacation | last aired 2026-11-10 09:42 | normal pick from 2026-11-12 09:42 | request from 2026-11-12 09:42
 WAIT Wandering Star — Portishead | last aired 2026-11-09 10:24 | normal pick from 2026-11-10 22:24 | request now
 OK   War — Edwin Starr | last aired 2026-11-02 17:26 | normal pick now | request now
 OK   Warszawa (2017 Remaster) — David Bowie | last aired 2026-11-02 01:49 | normal pick now | request now
@@ -23,4 +23,4 @@ WAIT Water No Get Enemy — Fela Kuti | last aired 2026-11-09 19:21 | normal pic
 OK   Water — Tyla | last aired 2026-11-05 21:46 | normal pick now | request now
 OK   Waterloo (English Version) — ABBA | last aired 2026-11-07 13:25 | normal pick now | request now
 OK   Watermelon Sugar — Harry Styles | last aired 2026-11-08 14:14 | normal pick now | request now
-WAIT Wave — Antonio Carlos Jobim | last aired 2026-11-10 10:07 | normal pick from 2026-11-12 10:07 | request from 2026-11-12 10:07
+WAIT Wave — Antonio Carlos Jobim | last aired 2026-11-10 10:08 | normal pick from 2026-11-12 10:08 | request from 2026-11-12 10:08

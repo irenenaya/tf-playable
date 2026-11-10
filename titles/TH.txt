@@ -1,11 +1,11 @@
-Track status, song titles filed under TH (built Tue Nov 10, 4:55 AM PST (12:55 UTC)). Times in UTC.
+Track status, song titles filed under TH (built Tue Nov 10, 5:05 AM PST (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   (They Long To Be) Close To You — The Carpenters | last aired 2026-11-08 04:51 | normal pick now | request now
 OK   Thank you — Alabama 3 | last aired 2026-11-08 23:10 | normal pick now | request now
 WAIT thanks, my day is ruined — Alex Andre | last aired 2026-11-10 02:58 | normal pick from 2026-11-11 14:58 | request from 2026-11-10 22:58
 WAIT That Acid — Marie Vaunt | last aired 2026-11-09 02:55 | normal pick from 2026-11-10 14:55 | request now
-WAIT That's All for Everyone — Fleetwood Mac | last aired 2026-11-10 08:27 | normal pick from 2026-11-11 20:27 | request from 2026-11-11 04:27
+WAIT That's All for Everyone — Fleetwood Mac | last aired 2026-11-10 08:27 | normal pick from 2026-11-12 08:27 | request from 2026-11-12 08:27
 OK   The Thieves of Imai — Filippo Beck Peccoz | last aired 2026-10-18 01:47 | normal pick now | request now
 OK   The Thrill Is Gone — B.B. King | last aired 2026-10-24 13:27 | normal pick now | request now
 OK   Theme from "A Summer Place" — Percy Faith & His Orchestra | last aired 2026-11-07 06:50 | normal pick now | request now
@@ -15,7 +15,7 @@ OK   There She Goes — The La's | last aired 2026-11-02 13:48 | normal pick now
 OK   They Took My Love Away — Djivan Gasparyan | last aired 2026-10-30 23:54 | normal pick now | request now
 OK   Thick Skull — Paramore | last aired 2026-11-08 15:22 | normal pick now | request now
 OK   This Boy (Remastered) — The Beatles | last aired 2026-11-05 06:40 | normal pick now | request now
-OK   This Foolish Heart Could Love You — Melody Gardot | last aired 2026-11-06 01:14 | normal pick now | request now
+WAIT This Foolish Heart Could Love You — Melody Gardot | last aired 2026-11-10 13:01 | normal pick from 2026-11-12 01:01 | request from 2026-11-11 09:01
 OK   This Is It — Kenny Loggins | last aired 2026-10-26 15:47 | normal pick now | request now
 OK   This Is The Life — Amy Macdonald | last aired 2026-11-07 22:57 | normal pick now | request now
 OK   This Is Your Life (Originally Performed by Banderas) — Cover Vocals BPM 122 Acapellas | last aired 2026-09-21 02:20 | normal pick now | request now
