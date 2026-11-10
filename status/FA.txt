@@ -1,10 +1,10 @@
-Track status, artists filed under FA (built Tue Nov 10, 7:15 AM PST (15:15 UTC)). Times in UTC.
+Track status, artists filed under FA (built Tue Nov 10, 7:25 AM PST (15:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Fabrizio De Andrè — Bocca di rosa | last aired 2026-11-06 13:05 | normal pick now | request now
 OK   Fairport Convention — Who Knows Where The Time Goes? | last aired 2026-11-01 11:34 | normal pick now | request now
 OK   Faith No More — Stripsearch | last aired 2026-10-20 19:48 | normal pick now | request now
-WAIT Faith No More — Surprise! You're Dead! | last aired 2026-11-09 19:18 | normal pick from 2026-11-11 07:18 | request from 2026-11-10 15:18
+WAIT Faith No More — Surprise! You're Dead! | last aired 2026-11-09 19:18 | normal pick from 2026-11-11 07:18 | request now
 WAIT Falco — Vienna Calling | last aired 2026-11-09 19:04 | normal pick from 2026-11-11 07:04 | request now
 WAIT Fall Out Boy — Uma Thurman | last aired 2026-11-09 19:14 | normal pick from 2026-11-11 07:14 | request now
 WAIT Fanfare Ciocarlia — Asfalt Tango | last aired 2026-11-09 19:08 | normal pick from 2026-11-11 07:08 | request now
