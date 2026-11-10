@@ -1,4 +1,4 @@
-Track status, song titles filed under SU (built Mon Nov 9, 9:25 PM PST (05:25 UTC Tue)). Times in UTC.
+Track status, song titles filed under SU (built Mon Nov 9, 9:35 PM PST (05:35 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Subterraneans (2017 Remaster) — David Bowie | last aired 2026-10-31 07:17 | normal pick now | request now
@@ -9,7 +9,7 @@ OK   Sugar Water (Album Version) — Cibo Matto | last aired 2026-10-26 21:15 | 
 OK   Suite bergamasque, CD 82, L. 75: III. Clair de lune — Simon Trpčeski | last aired 2026-10-29 06:59 | normal pick now | request now
 WAIT Sultans of Swing — Dire Straits | last aired 2026-11-09 18:08 | normal pick from 2026-11-11 06:08 | request from 2026-11-10 14:08
 WAIT Summer (from 'Kikujiro') — Joe Hisaishi | last aired 2026-11-08 17:58 | normal pick from 2026-11-10 05:58 | request now
-OK   Summer 91 (Looking Back) (Acoustic) — Noizu | last aired 2026-11-06 17:58 | normal pick now | request now
+WAIT Summer 91 (Looking Back) (Acoustic) — Noizu | last aired 2026-11-10 05:22 | normal pick from 2026-11-11 17:22 | request from 2026-11-11 01:22
 WAIT Summer 91 (Looking Back) — Noizu | last aired 2026-11-08 23:23 | normal pick from 2026-11-10 11:23 | request now
 WAIT Summer Moved On (2019 Remaster) — A-Ha | last aired 2026-11-09 21:14 | normal pick from 2026-11-11 09:14 | request from 2026-11-10 17:14
 OK   Summer Soft — Stevie Wonder | last aired 2026-11-02 20:41 | normal pick now | request now
@@ -22,6 +22,6 @@ OK   Sunset Lover — Petit Biscuit | last aired 2026-11-02 18:48 | normal pick 
 OK   Superstar (The Jason Nevins' Live Peep Show Mix) — Tom Novy | last aired 2026-10-21 03:32 | normal pick now | request now
 OK   Superstition (Album Version) — Stevie Wonder | last aired 2026-10-30 17:03 | normal pick now | request now
 WAIT Surprise! You're Dead! — Faith No More | last aired 2026-11-09 19:18 | normal pick from 2026-11-11 07:18 | request from 2026-11-10 15:18
-WAIT Surrounded by Illusion — Eluvium | last aired 2026-11-08 05:31 | normal pick from 2026-11-10 05:31 | request from 2026-11-10 05:31
+OK   Surrounded by Illusion — Eluvium | last aired 2026-11-08 05:31 | normal pick now | request now
 OK   Suspended In Gaffa (2018 Remaster) — Kate Bush | last aired 2026-11-07 17:41 | normal pick now | request now
 OK   Suzanne — Leonard Cohen | last aired 2026-11-06 17:54 | normal pick now | request now
