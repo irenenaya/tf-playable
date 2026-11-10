@@ -1,4 +1,4 @@
-Track status, artists filed under AL (built Tue Nov 10, 3:05 PM PST (23:05 UTC)). Times in UTC.
+Track status, artists filed under AL (built Tue Nov 10, 3:15 PM PST (23:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Al Di Meola — Double Concerto | last aired 2026-11-09 02:17 | normal pick now | request now
@@ -14,7 +14,7 @@ OK   Alabama 3 — Sad Eyed Lady Of The Low Life | last aired 2026-11-09 02:38 |
 OK   Alabama 3 — Thank you | last aired 2026-11-08 23:10 | normal pick now | request now
 WAIT Alabama 3 — Woke Up This Morning | last aired 2026-11-10 02:28 | normal pick from 2026-11-11 14:28 | request now
 WAIT Albert Hammond — When I'm Gone | last aired 2026-11-10 03:07 | normal pick from 2026-11-12 03:07 | request from 2026-11-12 03:07
-WAIT Albert King — Born Under A Bad Sign | last aired 2026-11-08 23:07 | normal pick from 2026-11-10 23:07 | request from 2026-11-10 23:07
+OK   Albert King — Born Under A Bad Sign | last aired 2026-11-08 23:07 | normal pick now | request now
 WAIT Alestorm — Captain Morgan`s Revenge | last aired 2026-11-09 15:46 | normal pick from 2026-11-11 03:46 | request now
 WAIT Alestorm — Drink | last aired 2026-11-09 15:02 | normal pick from 2026-11-11 03:02 | request now
 WAIT Alestorm — Keelhauled | last aired 2026-11-09 14:02 | normal pick from 2026-11-11 02:02 | request now
@@ -33,4 +33,4 @@ OK   Almendra — Plegaria para un Niño Dormido | last aired 2026-11-08 08:53 |
 WAIT Alvin Lucier — I Am Sitting in a Room | last aired 2026-11-10 07:37 | normal pick from 2026-11-11 19:37 | request from 2026-11-11 03:37
 WAIT Alvvays — Belinda Says | last aired 2026-11-09 09:28 | normal pick from 2026-11-11 09:28 | request from 2026-11-11 09:28
 OK   Alèmayèhu Eshèté — Tashamanaletch | last aired 2026-11-09 09:31 | normal pick now | request now
-WAIT The Altons — When You Go (That's When You'll Know) | last aired 2026-11-10 03:12 | normal pick from 2026-11-11 15:12 | request from 2026-11-10 23:12
+WAIT The Altons — When You Go (That's When You'll Know) | last aired 2026-11-10 03:12 | normal pick from 2026-11-11 15:12 | request now
