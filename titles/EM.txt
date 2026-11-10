@@ -1,8 +1,8 @@
-Track status, song titles filed under EM (built Tue Nov 10, 6:15 AM PST (14:15 UTC)). Times in UTC.
+Track status, song titles filed under EM (built Tue Nov 10, 6:25 AM PST (14:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Emerald Sword (Re-Recorded) — Rhapsody Of Fire | last aired 2026-10-26 01:00 | normal pick now | request now
-OK   Emerald — Thin Lizzy | last aired 2026-11-07 16:33 | normal pick now | request now
+WAIT Emerald — Thin Lizzy | last aired 2026-11-10 14:21 | normal pick from 2026-11-12 14:21 | request from 2026-11-12 14:21
 WAIT Emily — Julian Lage | last aired 2026-11-09 06:07 | normal pick from 2026-11-10 18:07 | request now
 OK   Empire Ants (feat. Little Dragon) — Gorillaz | last aired 2026-11-08 02:59 | normal pick now | request now
 OK   Empty Orchestra — Shearwater | last aired 2026-11-06 16:03 | normal pick now | request now
