@@ -1,14 +1,14 @@
-Track status, artists filed under NI (built Mon Nov 9, 4:15 PM PST (00:15 UTC Tue)). Times in UTC.
+Track status, artists filed under NI (built Mon Nov 9, 4:25 PM PST (00:25 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Nick Cave & The Bad Seeds — (I'll Love You) Till The End Of The World | last aired 2026-11-09 06:57 | normal pick from 2026-11-11 06:57 | request from 2026-11-11 06:57
 WAIT Nick Cave & The Bad Seeds — Henry Lee (Remastered 2011) | last aired 2026-11-08 09:47 | normal pick from 2026-11-10 09:47 | request from 2026-11-10 09:47
-OK   Nick Drake — Northern Sky | last aired 2026-11-07 21:42 | normal pick now | request now
+WAIT Nick Drake — Northern Sky | last aired 2026-11-10 00:12 | normal pick from 2026-11-12 00:12 | request from 2026-11-12 00:12
 WAIT Nick Drake — Pink Moon | last aired 2026-11-08 19:36 | normal pick from 2026-11-10 19:36 | request from 2026-11-10 19:36
 OK   Nickelback — How You Remind Me (- LP Mix) | last aired 2026-11-03 16:02 | normal pick now | request now
 WAIT Nightmares On Wax — Les Nuits | last aired 2026-11-09 12:59 | normal pick from 2026-11-11 00:59 | request from 2026-11-10 08:59
 WAIT Nightwish — Wishmaster | last aired 2026-11-10 00:07 | normal pick from 2026-11-11 12:07 | request from 2026-11-10 20:07
-OK   Niko B — Who's That What's That | last aired 2026-11-06 05:19 | normal pick now | request now
+WAIT Niko B — Who's That What's That | last aired 2026-11-10 00:16 | normal pick from 2026-11-11 12:16 | request from 2026-11-10 20:16
 WAIT Nils Frahm — All Melody | last aired 2026-11-08 06:59 | normal pick from 2026-11-10 06:59 | request from 2026-11-10 06:59
 WAIT Nils Frahm — Ambre | last aired 2026-11-10 00:03 | normal pick from 2026-11-12 00:03 | request from 2026-11-12 00:03
 WAIT Nils Frahm — Familiar | last aired 2026-11-09 12:04 | normal pick from 2026-11-11 12:04 | request from 2026-11-11 12:04
@@ -16,7 +16,7 @@ WAIT Nils Frahm — Says | last aired 2026-11-09 12:10 | normal pick from 2026-1
 WAIT Nina Simone — Feeling Good | last aired 2026-11-10 00:00 | normal pick from 2026-11-12 00:00 | request from 2026-11-12 00:00
 OK   Nina Simone — Mood Indigo (G-Swing Featuring Ludovic Allen Remix) | last aired 2026-10-27 16:45 | normal pick now | request now
 WAIT Nina Simone — Wild Is The Wind | last aired 2026-11-08 19:29 | normal pick from 2026-11-10 19:29 | request from 2026-11-10 19:29
-OK   Nine Inch Nails — Heresy (Nine Inch Noize Version) | last aired 2026-11-03 04:45 | normal pick now | request now
+WAIT Nine Inch Nails — Heresy (Nine Inch Noize Version) | last aired 2026-11-10 00:20 | normal pick from 2026-11-11 12:20 | request from 2026-11-10 20:20
 WAIT Nine Inch Nails — Hurt | last aired 2026-11-08 19:38 | normal pick from 2026-11-10 07:38 | request now
 OK   Nine Inch Nails — Less Than | last aired 2026-11-07 00:41 | normal pick now | request now
 OK   Nine Inch Nails — The Hand That Feeds | last aired 2026-11-06 05:27 | normal pick now | request now
