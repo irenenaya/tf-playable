@@ -1,4 +1,4 @@
-Track status, artists filed under HA (built Tue Nov 10, 6:35 AM PST (14:35 UTC)). Times in UTC.
+Track status, artists filed under HA (built Tue Nov 10, 6:45 AM PST (14:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Haddaway — What Is Love (7" Mix) (Remastered 2025) (7" Mix / Remastered 2025) | last aired 2026-11-07 14:05 | normal pick now | request now
@@ -24,5 +24,5 @@ WAIT Harris Jayaraj — Adiyae Kolluthey (From "Vaaranam Aayiram") | last aired 
 OK   Harry Styles — As It Was | last aired 2026-11-09 01:02 | normal pick now | request now
 OK   Harry Styles — Watermelon Sugar | last aired 2026-11-08 14:14 | normal pick now | request now
 OK   Haute & Freddy — Dance The Pain Away | last aired 2026-11-08 14:47 | normal pick now | request now
-WAIT Haute & Freddy — Shy Girl | last aired 2026-11-09 02:43 | normal pick from 2026-11-10 14:43 | request now
+OK   Haute & Freddy — Shy Girl | last aired 2026-11-09 02:43 | normal pick now | request now
 OK   Hayley Williams — Simmer (Acoustic) | last aired 2026-11-09 01:38 | normal pick now | request now
