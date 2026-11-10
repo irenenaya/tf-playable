@@ -1,4 +1,4 @@
-Track status, artists filed under DI (built Tue Nov 10, 6:25 AM PST (14:25 UTC)). Times in UTC.
+Track status, artists filed under DI (built Tue Nov 10, 6:35 AM PST (14:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Diana Krall — How Deep Is The Ocean | last aired 2026-11-09 18:14 | normal pick from 2026-11-11 18:14 | request from 2026-11-11 18:14
@@ -6,7 +6,7 @@ WAIT Diana Ross — I'm Coming Out | last aired 2026-11-09 18:03 | normal pick f
 WAIT Diana Ross — Muscles | last aired 2026-11-09 18:48 | normal pick from 2026-11-11 06:48 | request from 2026-11-10 14:48
 WAIT Die Fantastischen Vier — MfG - Mit freundlichen Grüßen (2022) | last aired 2026-11-09 18:24 | normal pick from 2026-11-11 06:24 | request now
 WAIT DIIV — Doused | last aired 2026-11-09 18:20 | normal pick from 2026-11-11 18:20 | request from 2026-11-11 18:20
-WAIT Dire Straits — Brothers in Arms | last aired 2026-11-09 18:35 | normal pick from 2026-11-11 06:35 | request from 2026-11-10 14:35
+WAIT Dire Straits — Brothers in Arms | last aired 2026-11-09 18:35 | normal pick from 2026-11-11 06:35 | request now
 OK   Dire Straits — Money for Nothing | last aired 2026-11-04 05:49 | normal pick now | request now
 WAIT Dire Straits — Sultans of Swing | last aired 2026-11-09 18:08 | normal pick from 2026-11-11 06:08 | request now
 OK   Dire Straits — Your Latest Trick | last aired 2026-11-04 07:47 | normal pick now | request now
