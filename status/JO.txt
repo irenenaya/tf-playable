@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Tue Nov 10, 12:05 PM PST (20:05 UTC)). Times in UTC.
+Track status, artists filed under JO (built Tue Nov 10, 12:15 PM PST (20:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-11-09 13:44 | normal pick from 2026-11-11 13:44 | request from 2026-11-11 13:44
@@ -6,7 +6,7 @@ WAIT Jockstrap — Concrete Over Water | last aired 2026-11-10 00:32 | normal pi
 OK   Joe Cocker — The Letter (Live At The Fillmore East/1970) | last aired 2026-11-09 00:47 | normal pick now | request now
 OK   Joe Cocker — With A Little Help From My Friends | last aired 2026-11-08 04:45 | normal pick now | request now
 WAIT Joe Hisaishi — A Town with an Ocean View (from 'Kiki's Delivery Service') | last aired 2026-11-09 09:50 | normal pick from 2026-11-11 09:50 | request from 2026-11-11 09:50
-WAIT Joe Hisaishi — a Wish to the Moon | last aired 2026-11-09 08:09 | normal pick from 2026-11-10 20:09 | request now
+OK   Joe Hisaishi — a Wish to the Moon | last aired 2026-11-09 08:09 | normal pick now | request now
 OK   Joe Hisaishi — Asian Dream Song | last aired 2026-11-08 18:39 | normal pick now | request now
 WAIT Joe Hisaishi — Deep Sea Pastures (from 'Ponyo on the Cliff by the Sea') | last aired 2026-11-10 08:41 | normal pick from 2026-11-11 20:41 | request from 2026-11-11 04:41
 WAIT Joe Hisaishi — Departures (from 'Departures') | last aired 2026-11-09 22:28 | normal pick from 2026-11-11 22:28 | request from 2026-11-11 22:28
@@ -22,7 +22,7 @@ OK   Joel Pott — Chances | last aired 2026-10-26 11:28 | normal pick now | req
 OK   Johann Johannsson — Flight From The City - Jóhannsson: Flight from the City | last aired 2026-11-08 18:19 | normal pick now | request now
 OK   John Carpenter — Halloween Theme | last aired 2026-11-07 16:21 | normal pick now | request now
 OK   John Coltrane — Lush Life | last aired 2026-11-08 14:23 | normal pick now | request now
-WAIT John Coltrane — My Favorite Things | last aired 2026-11-09 08:13 | normal pick from 2026-11-10 20:13 | request now
+OK   John Coltrane — My Favorite Things | last aired 2026-11-09 08:13 | normal pick now | request now
 WAIT John Denver — Take Me Home, Country Roads | last aired 2026-11-09 22:24 | normal pick from 2026-11-11 22:24 | request from 2026-11-11 22:24
 OK   John Lee Hooker — Boom Boom | last aired 2026-11-08 14:17 | normal pick now | request now
 OK   John Lee Hooker — I Cover the Waterfront | last aired 2026-11-09 00:40 | normal pick now | request now
