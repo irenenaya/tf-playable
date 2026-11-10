@@ -1,4 +1,4 @@
-Track status, artists filed under SA (built Tue Nov 10, 12:55 AM PST (08:55 UTC)). Times in UTC.
+Track status, artists filed under SA (built Tue Nov 10, 1:05 AM PST (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Sabaton — The Last Stand | last aired 2026-11-08 17:38 | normal pick from 2026-11-10 17:38 | request from 2026-11-10 17:38
@@ -7,12 +7,12 @@ WAIT Sabrina Carpenter — Please Please Please | last aired 2026-11-09 03:06 | 
 WAIT Sabrina Carpenter — Taste | last aired 2026-11-09 14:06 | normal pick from 2026-11-11 14:06 | request from 2026-11-11 14:06
 WAIT Sade — By Your Side (Remastered Version) | last aired 2026-11-09 10:15 | normal pick from 2026-11-11 10:15 | request from 2026-11-11 10:15
 WAIT Sade — Cherish the Day (Remastered Version) | last aired 2026-11-10 02:05 | normal pick from 2026-11-12 02:05 | request from 2026-11-12 02:05
-WAIT Sade — Is It a Crime (Remastered Version) | last aired 2026-11-10 05:01 | normal pick from 2026-11-11 17:01 | request from 2026-11-11 01:01
+WAIT Sade — Is It a Crime (Remastered Version) | last aired 2026-11-10 05:02 | normal pick from 2026-11-12 05:02 | request from 2026-11-12 05:02
 WAIT Sade — Kiss of Life (Remastered Version) | last aired 2026-11-09 13:16 | normal pick from 2026-11-11 13:16 | request from 2026-11-11 13:16
 WAIT Sade — No Ordinary Love (Remastered Version) | last aired 2026-11-10 01:17 | normal pick from 2026-11-12 01:17 | request from 2026-11-12 01:17
 WAIT Sade — Smooth Operator (2011 Remastered) (Remastered Version) | last aired 2026-11-09 14:47 | normal pick from 2026-11-11 14:47 | request from 2026-11-11 14:47
-WAIT Sade — The Sweetest Taboo (Remastered Version) | last aired 2026-11-10 04:52 | normal pick from 2026-11-11 16:52 | request from 2026-11-11 00:52
-WAIT Sadie Jean — WYD Now? | last aired 2026-11-10 05:19 | normal pick from 2026-11-11 17:19 | request from 2026-11-11 01:19
+WAIT Sade — The Sweetest Taboo (Remastered Version) | last aired 2026-11-10 04:52 | normal pick from 2026-11-12 04:52 | request from 2026-11-12 04:52
+WAIT Sadie Jean — WYD Now? | last aired 2026-11-10 05:20 | normal pick from 2026-11-11 17:20 | request from 2026-11-11 01:20
 WAIT Saindra — Mil Besos | last aired 2026-11-08 17:30 | normal pick from 2026-11-10 17:30 | request from 2026-11-10 17:30
 WAIT Saint Etienne — Only Love Can Break Your Heart | last aired 2026-11-09 12:22 | normal pick from 2026-11-11 12:22 | request from 2026-11-11 12:22
 WAIT Salvador Sobral — Amar pelos Dois | last aired 2026-11-10 01:13 | normal pick from 2026-11-12 01:13 | request from 2026-11-12 01:13
@@ -21,7 +21,7 @@ WAIT Sampha — (No One Knows Me) Like the Piano | last aired 2026-11-09 12:19 |
 WAIT Santana — Black Magic Woman | last aired 2026-11-09 01:41 | normal pick from 2026-11-11 01:41 | request from 2026-11-11 01:41
 WAIT Santana — Maria Maria | last aired 2026-11-09 13:20 | normal pick from 2026-11-11 01:20 | request from 2026-11-10 09:20
 WAIT Santana — Oye Como Va | last aired 2026-11-10 01:24 | normal pick from 2026-11-12 01:24 | request from 2026-11-12 01:24
-WAIT Santana — Samba Pa Ti | last aired 2026-11-10 04:56 | normal pick from 2026-11-12 04:56 | request from 2026-11-12 04:56
+WAIT Santana — Samba Pa Ti | last aired 2026-11-10 04:57 | normal pick from 2026-11-12 04:57 | request from 2026-11-12 04:57
 WAIT Sarah McLachlan — Building a Mystery | last aired 2026-11-10 01:28 | normal pick from 2026-11-12 01:28 | request from 2026-11-12 01:28
 OK   Sarah McLachlan — Fallen (Album Mix) | last aired 2026-11-08 07:42 | normal pick now | request now
 WAIT Sarah McLachlan — Sweet Surrender (Album Version) | last aired 2026-11-09 00:02 | normal pick from 2026-11-11 00:02 | request from 2026-11-11 00:02
