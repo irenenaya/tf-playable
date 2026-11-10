@@ -1,4 +1,4 @@
-Track status, song titles filed under HA (built Tue Nov 10, 2:15 AM PST (10:15 UTC)). Times in UTC.
+Track status, song titles filed under HA (built Tue Nov 10, 2:25 AM PST (10:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Halah — Mazzy Star | last aired 2026-11-09 04:26 | normal pick from 2026-11-11 04:26 | request from 2026-11-11 04:26
@@ -14,7 +14,7 @@ WAIT Hard Rock Hallelujah — Lordi | last aired 2026-11-09 13:58 | normal pick 
 OK   Hard Times — The Jetzons | last aired 2026-10-29 03:18 | normal pick now | request now
 OK   Hard to Say I'M Sorry / Get Away — Chicago | last aired 2026-11-02 04:29 | normal pick now | request now
 OK   Hardcore Vibes — Dúné | last aired 2026-11-02 00:12 | normal pick now | request now
-WAIT Harder, Better, Faster, Stronger — Daft Punk | last aired 2026-11-09 14:17 | normal pick from 2026-11-11 02:17 | request from 2026-11-10 10:17
+WAIT Harder, Better, Faster, Stronger — Daft Punk | last aired 2026-11-09 14:17 | normal pick from 2026-11-11 02:17 | request now
 WAIT Hardline — Julien Baker | last aired 2026-11-09 06:38 | normal pick from 2026-11-11 06:38 | request from 2026-11-11 06:38
 WAIT Harmony in Blue I — Tim Hecker | last aired 2026-11-10 07:22 | normal pick from 2026-11-11 19:22 | request from 2026-11-11 03:22
 OK   Haru No Iutoori — indigo la End | last aired 2026-11-06 13:37 | normal pick now | request now
