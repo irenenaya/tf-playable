@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Mon Nov 9, 8:35 PM PST (04:35 UTC Tue)). Times in UTC.
+Track status, artists filed under BE (built Mon Nov 9, 8:45 PM PST (04:45 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Beach House — Bluebird | last aired 2026-11-09 05:13 | normal pick from 2026-11-10 17:13 | request now
@@ -22,11 +22,11 @@ WAIT Ben Harper — Yard Sale | last aired 2026-11-10 04:21 | normal pick from 2
 WAIT Ben Howard — Only Love | last aired 2026-11-09 05:17 | normal pick from 2026-11-10 17:17 | request now
 WAIT Ben&Ben — Leaves | last aired 2026-11-10 04:25 | normal pick from 2026-11-11 16:25 | request from 2026-11-11 00:25
 OK   Ben&Ben — Maybe The Night | last aired 2026-11-07 11:39 | normal pick now | request now
-OK   Benjamin Francis Leftwich — Ticket To Ride | last aired 2026-11-01 12:18 | normal pick now | request now
+WAIT Benjamin Francis Leftwich — Ticket To Ride | last aired 2026-11-10 04:36 | normal pick from 2026-11-11 16:36 | request from 2026-11-11 00:36
 WAIT Benny Goodman — Sing Sing Sing (With A Swing) (live) | last aired 2026-11-10 04:07 | normal pick from 2026-11-11 16:07 | request from 2026-11-11 00:07
 OK   Benny Sings — Rolled Up | last aired 2026-10-31 02:43 | normal pick now | request now
-OK   Benny Sings — Sailing | last aired 2026-11-07 11:08 | normal pick now | request now
-OK   Benson Boone — Beautiful Things | last aired 2026-10-25 15:50 | normal pick now | request now
+WAIT Benny Sings — Sailing | last aired 2026-11-10 04:32 | normal pick from 2026-11-12 04:32 | request from 2026-11-12 04:32
+WAIT Benson Boone — Beautiful Things | last aired 2026-11-10 04:40 | normal pick from 2026-11-11 16:40 | request from 2026-11-11 00:40
 OK   Berlin — Take My Breath Away | last aired 2026-10-26 21:23 | normal pick now | request now
 OK   Berliner Philharmoniker — Boléro, M. 81 | last aired 2026-11-01 18:06 | normal pick now | request now
 OK   Bernard Purdie — Cool Down | last aired 2026-11-01 03:27 | normal pick now | request now
