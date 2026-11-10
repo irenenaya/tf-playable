@@ -1,4 +1,4 @@
-Track status, artists filed under BI (built Mon Nov 9, 9:05 PM PST (05:05 UTC Tue)). Times in UTC.
+Track status, artists filed under BI (built Mon Nov 9, 9:15 PM PST (05:15 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Bicep — Apricots | last aired 2026-11-07 22:42 | normal pick now | request now
@@ -12,7 +12,7 @@ OK   Bill Evans — Peace Piece (Album Version) | last aired 2026-11-07 22:27 | 
 OK   Bill Monroe & His Blue Grass Boys — Blue Moon Of Kentucky | last aired 2026-11-07 22:47 | normal pick now | request now
 OK   Bill Withers — Ain't No Sunshine (Album Version) | last aired 2026-11-07 22:40 | normal pick now | request now
 WAIT Bill Withers — Lovely Day | last aired 2026-11-08 14:06 | normal pick from 2026-11-10 14:06 | request from 2026-11-10 14:06
-WAIT Billie Eilish — BIRDS OF A FEATHER | last aired 2026-11-08 17:06 | normal pick from 2026-11-10 05:06 | request now
+OK   Billie Eilish — BIRDS OF A FEATHER | last aired 2026-11-08 17:06 | normal pick now | request now
 OK   Billie Eilish — Lo Vas A Olvidar | last aired 2026-11-06 09:38 | normal pick now | request now
 OK   Billie Eilish — What Was I Made For? [From The Motion Picture "Barbie"] | last aired 2026-11-06 06:27 | normal pick now | request now
 OK   Billie Eilish — when the party's over | last aired 2026-11-07 06:46 | normal pick now | request now
