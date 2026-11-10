@@ -1,4 +1,4 @@
-Track status, song titles filed under CO (built Mon Nov 9, 9:45 PM PST (05:45 UTC Tue)). Times in UTC.
+Track status, song titles filed under CO (built Mon Nov 9, 9:55 PM PST (05:55 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Coat of Many Colors — Dolly Parton | last aired 2026-11-07 01:20 | normal pick now | request now
@@ -28,4 +28,4 @@ OK   Cotton Fields — Creedence Clearwater Revival | last aired 2026-11-06 03:4
 WAIT Counting Sheep — Brijean | last aired 2026-11-09 22:53 | normal pick from 2026-11-11 10:53 | request from 2026-11-10 18:53
 OK   Cowboy Nudes — Geese | last aired 2026-11-08 03:17 | normal pick now | request now
 WAIT Coyote Dance — Robbie Robertson | last aired 2026-11-09 06:42 | normal pick from 2026-11-11 06:42 | request from 2026-11-11 06:42
-OK   The Colour Of Spring — Mark Hollis | last aired 2026-11-08 06:31 | normal pick now | request now
+WAIT The Colour Of Spring — Mark Hollis | last aired 2026-11-10 05:42 | normal pick from 2026-11-11 17:42 | request from 2026-11-11 01:42
