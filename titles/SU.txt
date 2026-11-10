@@ -1,4 +1,4 @@
-Track status, song titles filed under SU (built Tue Nov 10, 3:15 AM PST (11:15 UTC)). Times in UTC.
+Track status, song titles filed under SU (built Tue Nov 10, 3:25 AM PST (11:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Subterraneans (2017 Remaster) — David Bowie | last aired 2026-10-31 07:17 | normal pick now | request now
@@ -10,7 +10,7 @@ OK   Suite bergamasque, CD 82, L. 75: III. Clair de lune — Simon Trpčeski | l
 WAIT Sultans of Swing — Dire Straits | last aired 2026-11-09 18:08 | normal pick from 2026-11-11 06:08 | request from 2026-11-10 14:08
 OK   Summer (from 'Kikujiro') — Joe Hisaishi | last aired 2026-11-08 17:58 | normal pick now | request now
 WAIT Summer 91 (Looking Back) (Acoustic) — Noizu | last aired 2026-11-10 05:22 | normal pick from 2026-11-11 17:22 | request from 2026-11-11 01:22
-WAIT Summer 91 (Looking Back) — Noizu | last aired 2026-11-08 23:23 | normal pick from 2026-11-10 11:23 | request now
+OK   Summer 91 (Looking Back) — Noizu | last aired 2026-11-08 23:23 | normal pick now | request now
 WAIT Summer Moved On (2019 Remaster) — A-Ha | last aired 2026-11-09 21:14 | normal pick from 2026-11-11 09:14 | request from 2026-11-10 17:14
 OK   Summer Soft — Stevie Wonder | last aired 2026-11-02 20:41 | normal pick now | request now
 OK   Summertime Blue — Norah Jones | last aired 2026-11-08 23:14 | normal pick now | request now
