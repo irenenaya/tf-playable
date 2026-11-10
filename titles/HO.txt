@@ -1,4 +1,4 @@
-Track status, song titles filed under HO (built Mon Nov 9, 5:45 PM PST (01:45 UTC Tue)). Times in UTC.
+Track status, song titles filed under HO (built Mon Nov 9, 5:55 PM PST (01:55 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Holding — Grouper | last aired 2026-11-09 07:05 | normal pick from 2026-11-10 19:05 | request from 2026-11-10 03:05
@@ -23,7 +23,7 @@ WAIT How Deep Is The Ocean — Diana Krall | last aired 2026-11-09 18:14 | norma
 OK   How Do — Sneaker Pimps | last aired 2026-10-31 14:36 | normal pick now | request now
 WAIT How I Got Over (Live) — Mahalia Jackson | last aired 2026-11-08 13:20 | normal pick from 2026-11-10 13:20 | request from 2026-11-10 13:20
 OK   How You Remind Me (- LP Mix) — Nickelback | last aired 2026-11-03 16:02 | normal pick now | request now
-OK   The Hokey Pokey — Ray Anthony | last aired 2026-11-02 16:45 | normal pick now | request now
+WAIT The Hokey Pokey — Ray Anthony | last aired 2026-11-10 01:48 | normal pick from 2026-11-11 13:48 | request from 2026-11-10 21:48
 OK   The Holly and the Ivy (Live) — Loreena McKennitt | last aired 2026-10-19 19:02 | normal pick now | request now
 WAIT The Host of Seraphim (Remastered) — Dead Can Dance | last aired 2026-11-08 11:22 | normal pick from 2026-11-10 11:22 | request from 2026-11-10 11:22
 OK   The House of the Rising Sun — The Animals | last aired 2026-09-29 16:09 | normal pick now | request now
