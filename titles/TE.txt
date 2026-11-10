@@ -1,4 +1,4 @@
-Track status, song titles filed under TE (built Tue Nov 10, 4:05 AM PST (12:05 UTC)). Times in UTC.
+Track status, song titles filed under TE (built Tue Nov 10, 4:15 AM PST (12:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Te Quiero Pero Por Otro Lado. — Savath & Savalas | last aired 2026-11-10 09:37 | normal pick from 2026-11-12 09:37 | request from 2026-11-12 09:37
@@ -13,5 +13,5 @@ OK   Tennessee Orange — Megan Moroney | last aired 2026-10-26 10:45 | normal p
 WAIT Teo Torriatte (Let Us Cling Together) — Louis Clark | last aired 2026-11-10 10:46 | normal pick from 2026-11-11 22:46 | request from 2026-11-11 06:46
 WAIT Terrapin — Bonobo | last aired 2026-11-08 23:18 | normal pick from 2026-11-10 23:18 | request from 2026-11-10 23:18
 OK   TEXAS HOLD 'EM — Beyoncé | last aired 2026-10-28 22:05 | normal pick now | request now
-OK   Tezeta — Hailu Mergia | last aired 2026-11-08 05:44 | normal pick now | request now
+WAIT Tezeta — Hailu Mergia | last aired 2026-11-10 12:10 | normal pick from 2026-11-12 12:10 | request from 2026-11-12 12:10
 OK   The Tendraam — Fat Bard | last aired 2026-10-21 04:41 | normal pick now | request now

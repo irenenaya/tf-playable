@@ -1,13 +1,13 @@
-Track status, artists filed under HA (built Tue Nov 10, 4:05 AM PST (12:05 UTC)). Times in UTC.
+Track status, artists filed under HA (built Tue Nov 10, 4:15 AM PST (12:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Haddaway — What Is Love (7" Mix) (Remastered 2025) (7" Mix / Remastered 2025) | last aired 2026-11-07 14:05 | normal pick now | request now
 OK   Haddaway — What Is Love (Lynx & Pico Remix) | last aired 2026-11-07 14:16 | normal pick now | request now
-OK   Hailu Mergia — Tezeta | last aired 2026-11-08 05:44 | normal pick now | request now
+WAIT Hailu Mergia — Tezeta | last aired 2026-11-10 12:10 | normal pick from 2026-11-12 12:10 | request from 2026-11-12 12:10
 OK   Halestorm — Do Not Disturb | last aired 2026-11-07 15:24 | normal pick now | request now
 OK   Halo — Halo Theme Mjolnir Mix | last aired 2026-10-29 22:04 | normal pick now | request now
 OK   Hammerfall — Hearts On Fire | last aired 2026-11-07 14:12 | normal pick now | request now
-OK   Hammock — Maybe They Will Sing for Us Tomorrow | last aired 2026-11-08 05:51 | normal pick now | request now
+WAIT Hammock — Maybe They Will Sing for Us Tomorrow | last aired 2026-11-10 12:05 | normal pick from 2026-11-12 12:05 | request from 2026-11-12 12:05
 WAIT Hammock — Tape Recorder | last aired 2026-11-10 06:22 | normal pick from 2026-11-12 06:22 | request from 2026-11-12 06:22
 WAIT Hania Rani — Eden | last aired 2026-11-10 06:17 | normal pick from 2026-11-12 06:17 | request from 2026-11-12 06:17
 WAIT Hania Rani — Glass | last aired 2026-11-09 20:37 | normal pick from 2026-11-11 20:37 | request from 2026-11-11 20:37
