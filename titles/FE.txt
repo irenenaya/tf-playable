@@ -1,11 +1,11 @@
-Track status, song titles filed under FE (built Mon Nov 9, 8:45 PM PST (04:45 UTC Tue)). Times in UTC.
+Track status, song titles filed under FE (built Mon Nov 9, 8:55 PM PST (04:55 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Fearless — Pink Floyd | last aired 2026-11-06 09:42 | normal pick now | request now
 OK   Feathered Indians — Tyler Childers | last aired 2026-11-07 02:58 | normal pick now | request now
 OK   Feel Good Inc. — Dorian Electra | last aired 2026-10-13 13:58 | normal pick now | request now
 WAIT Feel — Hiroshi Yoshimura | last aired 2026-11-09 20:48 | normal pick from 2026-11-11 20:48 | request from 2026-11-11 20:48
-OK   Feel It Boy — Beenie Man | last aired 2026-10-30 15:44 | normal pick now | request now
+WAIT Feel It Boy — Beenie Man | last aired 2026-11-10 04:43 | normal pick from 2026-11-11 16:43 | request from 2026-11-11 00:43
 OK   Feeling Good — Muse | last aired 2026-10-26 22:37 | normal pick now | request now
 WAIT Feeling Good — Nina Simone | last aired 2026-11-10 00:01 | normal pick from 2026-11-12 00:01 | request from 2026-11-12 00:01
 OK   Feels So Good — Chuck Mangione | last aired 2026-11-06 12:08 | normal pick now | request now
