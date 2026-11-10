@@ -1,7 +1,7 @@
-Track status, artists filed under MI (built Tue Nov 10, 7:25 AM PST (15:25 UTC)). Times in UTC.
+Track status, artists filed under MI (built Tue Nov 10, 7:35 AM PST (15:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Mica Levi — Love | last aired 2026-11-08 22:25 | normal pick now | request now
+WAIT Mica Levi — Love | last aired 2026-11-10 15:23 | normal pick from 2026-11-12 03:23 | request from 2026-11-11 11:23
 WAIT Michael Brook — Ultramarine | last aired 2026-11-10 15:15 | normal pick from 2026-11-12 03:15 | request from 2026-11-11 11:15
 OK   Michael Bublé — Crazy (with Jon Batiste & Stay Human) (Live) | last aired 2026-11-08 22:00 | normal pick now | request now
 WAIT Michael Damian — Rock On | last aired 2026-11-10 15:20 | normal pick from 2026-11-12 03:20 | request from 2026-11-11 11:20
