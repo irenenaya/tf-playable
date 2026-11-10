@@ -1,7 +1,7 @@
-Track status, song titles filed under EN (built Tue Nov 10, 3:45 AM PST (11:45 UTC)). Times in UTC.
+Track status, song titles filed under EN (built Tue Nov 10, 3:55 AM PST (11:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   En La Ciudad De La Furia (MTV Unplugged) — Soda Stereo | last aired 2026-11-07 21:52 | normal pick now | request now
+WAIT En La Ciudad De La Furia (MTV Unplugged) — Soda Stereo | last aired 2026-11-10 11:48 | normal pick from 2026-11-11 23:48 | request from 2026-11-11 07:48
 OK   End of Beginning — Djo | last aired 2026-10-26 04:07 | normal pick now | request now
 WAIT End Of The Road (Album Version) — Boyz II Men | last aired 2026-11-09 12:48 | normal pick from 2026-11-11 00:48 | request now
 OK   Endgame — R.E.M. | last aired 2026-10-27 01:10 | normal pick now | request now
