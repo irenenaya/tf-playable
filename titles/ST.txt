@@ -1,7 +1,7 @@
-Track status, song titles filed under ST (built Tue Nov 10, 8:55 AM PST (16:55 UTC)). Times in UTC.
+Track status, song titles filed under ST (built Tue Nov 10, 9:05 AM PST (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT S.T.A.Y. — Hans Zimmer | last aired 2026-11-10 12:15 | normal pick from 2026-11-12 00:15 | request from 2026-11-11 08:15
+WAIT S.T.A.Y. — Hans Zimmer | last aired 2026-11-10 12:15 | normal pick from 2026-11-12 12:15 | request from 2026-11-12 12:15
 OK   St. James Infirmary — Jim James | last aired 2026-10-24 12:25 | normal pick now | request now
 OK   Stacy's Mom — Fountains Of Wayne | last aired 2026-11-05 14:27 | normal pick now | request now
 WAIT Stairway to Heaven (Remaster) — Led Zeppelin | last aired 2026-11-10 01:52 | normal pick from 2026-11-11 13:52 | request from 2026-11-10 21:52
@@ -40,4 +40,4 @@ OK   Stressed Out — twenty one pilots | last aired 2026-10-26 12:18 | normal p
 OK   Strings of Light — Yussef Kamaal | last aired 2026-10-23 17:23 | normal pick now | request now
 OK   Stripsearch — Faith No More | last aired 2026-10-20 19:48 | normal pick now | request now
 OK   Stuck In The Middle With You — Stealers Wheel | last aired 2026-11-08 16:48 | normal pick now | request now
-WAIT Stupid Cupid — Red Velvet | last aired 2026-11-10 14:43 | normal pick from 2026-11-12 02:43 | request from 2026-11-11 10:43
+WAIT Stupid Cupid — Red Velvet | last aired 2026-11-10 14:44 | normal pick from 2026-11-12 02:44 | request from 2026-11-11 10:44
