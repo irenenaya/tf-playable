@@ -1,4 +1,4 @@
-Track status, artists filed under SA (built Mon Nov 9, 6:05 PM PST (02:05 UTC Tue)). Times in UTC.
+Track status, artists filed under SA (built Mon Nov 9, 6:15 PM PST (02:15 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Sabaton — The Last Stand | last aired 2026-11-08 17:38 | normal pick from 2026-11-10 17:38 | request from 2026-11-10 17:38
@@ -6,7 +6,7 @@ WAIT Sabrina Carpenter — Espresso | last aired 2026-11-08 15:30 | normal pick 
 WAIT Sabrina Carpenter — Please Please Please | last aired 2026-11-09 03:06 | normal pick from 2026-11-10 15:06 | request now
 WAIT Sabrina Carpenter — Taste | last aired 2026-11-09 14:06 | normal pick from 2026-11-11 14:06 | request from 2026-11-11 14:06
 WAIT Sade — By Your Side (Remastered Version) | last aired 2026-11-09 10:15 | normal pick from 2026-11-11 10:15 | request from 2026-11-11 10:15
-OK   Sade — Cherish the Day (Remastered Version) | last aired 2026-11-07 11:48 | normal pick now | request now
+WAIT Sade — Cherish the Day (Remastered Version) | last aired 2026-11-10 02:04 | normal pick from 2026-11-12 02:04 | request from 2026-11-12 02:04
 OK   Sade — Is It a Crime (Remastered Version) | last aired 2026-11-07 09:58 | normal pick now | request now
 WAIT Sade — Kiss of Life (Remastered Version) | last aired 2026-11-09 13:16 | normal pick from 2026-11-11 13:16 | request from 2026-11-11 13:16
 WAIT Sade — No Ordinary Love (Remastered Version) | last aired 2026-11-10 01:16 | normal pick from 2026-11-12 01:16 | request from 2026-11-12 01:16
