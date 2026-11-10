@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Tue Nov 10, 9:15 AM PST (17:15 UTC)). Times in UTC.
+Track status, artists filed under BE (built Tue Nov 10, 9:25 AM PST (17:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Beach House — Bluebird | last aired 2026-11-09 05:13 | normal pick now | request now
@@ -19,7 +19,7 @@ WAIT Belle and Sebastian — The Boy with the Arab Strap | last aired 2026-11-10
 WAIT Ben Allison — D.A.V.E. | last aired 2026-11-10 16:36 | normal pick from 2026-11-12 04:36 | request from 2026-11-11 12:36
 WAIT Ben E. King — Stand By Me | last aired 2026-11-10 13:10 | normal pick from 2026-11-12 01:10 | request from 2026-11-11 09:10
 WAIT Ben Harper — Yard Sale | last aired 2026-11-10 04:21 | normal pick from 2026-11-12 04:21 | request from 2026-11-12 04:21
-WAIT Ben Howard — Only Love | last aired 2026-11-09 05:17 | normal pick from 2026-11-10 17:17 | request now
+OK   Ben Howard — Only Love | last aired 2026-11-09 05:17 | normal pick now | request now
 WAIT Ben&Ben — Leaves | last aired 2026-11-10 04:25 | normal pick from 2026-11-11 16:25 | request from 2026-11-11 00:25
 WAIT Ben&Ben — Maybe The Night | last aired 2026-11-10 13:19 | normal pick from 2026-11-12 01:19 | request from 2026-11-11 09:19
 WAIT Benjamin Francis Leftwich — Ticket To Ride | last aired 2026-11-10 04:36 | normal pick from 2026-11-11 16:36 | request from 2026-11-11 00:36

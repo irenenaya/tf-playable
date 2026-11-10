@@ -1,4 +1,4 @@
-Track status, artists filed under NI (built Tue Nov 10, 9:15 AM PST (17:15 UTC)). Times in UTC.
+Track status, artists filed under NI (built Tue Nov 10, 9:25 AM PST (17:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Nick Cave & The Bad Seeds — (I'll Love You) Till The End Of The World | last aired 2026-11-09 06:57 | normal pick from 2026-11-11 06:57 | request from 2026-11-11 06:57
@@ -18,7 +18,7 @@ OK   Nina Simone — Mood Indigo (G-Swing Featuring Ludovic Allen Remix) | last 
 WAIT Nina Simone — Wild Is The Wind | last aired 2026-11-08 19:29 | normal pick from 2026-11-10 19:29 | request from 2026-11-10 19:29
 WAIT Nine Inch Nails — Heresy (Nine Inch Noize Version) | last aired 2026-11-10 00:20 | normal pick from 2026-11-11 12:20 | request from 2026-11-10 20:20
 WAIT Nine Inch Nails — Hurt | last aired 2026-11-10 10:35 | normal pick from 2026-11-11 22:35 | request from 2026-11-11 06:35
-OK   Nine Inch Nails — Less Than | last aired 2026-11-07 00:41 | normal pick now | request now
+WAIT Nine Inch Nails — Less Than | last aired 2026-11-10 17:20 | normal pick from 2026-11-12 05:20 | request from 2026-11-11 13:20
 WAIT Nine Inch Nails — The Hand That Feeds | last aired 2026-11-10 05:16 | normal pick from 2026-11-11 17:16 | request from 2026-11-11 01:16
 WAIT Nirvana — Heart-Shaped Box (Album Version) | last aired 2026-11-10 05:11 | normal pick from 2026-11-12 05:11 | request from 2026-11-12 05:11
 OK   Nirvana — Smells Like Teen Spirit | last aired 2026-11-06 16:23 | normal pick now | request now
