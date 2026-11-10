@@ -1,8 +1,8 @@
-Track status, artists filed under SA (built Mon Nov 9, 7:25 PM PST (03:25 UTC Tue)). Times in UTC.
+Track status, artists filed under SA (built Mon Nov 9, 7:35 PM PST (03:35 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Sabaton — The Last Stand | last aired 2026-11-08 17:38 | normal pick from 2026-11-10 17:38 | request from 2026-11-10 17:38
-WAIT Sabrina Carpenter — Espresso | last aired 2026-11-08 15:30 | normal pick from 2026-11-10 03:30 | request now
+OK   Sabrina Carpenter — Espresso | last aired 2026-11-08 15:30 | normal pick now | request now
 WAIT Sabrina Carpenter — Please Please Please | last aired 2026-11-09 03:06 | normal pick from 2026-11-10 15:06 | request now
 WAIT Sabrina Carpenter — Taste | last aired 2026-11-09 14:06 | normal pick from 2026-11-11 14:06 | request from 2026-11-11 14:06
 WAIT Sade — By Your Side (Remastered Version) | last aired 2026-11-09 10:15 | normal pick from 2026-11-11 10:15 | request from 2026-11-11 10:15
@@ -11,7 +11,7 @@ OK   Sade — Is It a Crime (Remastered Version) | last aired 2026-11-07 09:58 |
 WAIT Sade — Kiss of Life (Remastered Version) | last aired 2026-11-09 13:16 | normal pick from 2026-11-11 13:16 | request from 2026-11-11 13:16
 WAIT Sade — No Ordinary Love (Remastered Version) | last aired 2026-11-10 01:16 | normal pick from 2026-11-12 01:16 | request from 2026-11-12 01:16
 WAIT Sade — Smooth Operator (2011 Remastered) (Remastered Version) | last aired 2026-11-09 14:47 | normal pick from 2026-11-11 14:47 | request from 2026-11-11 14:47
-WAIT Sade — The Sweetest Taboo (Remastered Version) | last aired 2026-11-08 15:26 | normal pick from 2026-11-10 03:26 | request now
+OK   Sade — The Sweetest Taboo (Remastered Version) | last aired 2026-11-08 15:26 | normal pick now | request now
 OK   Sadie Jean — WYD Now? | last aired 2026-11-06 22:46 | normal pick now | request now
 WAIT Saindra — Mil Besos | last aired 2026-11-08 17:30 | normal pick from 2026-11-10 17:30 | request from 2026-11-10 17:30
 WAIT Saint Etienne — Only Love Can Break Your Heart | last aired 2026-11-09 12:22 | normal pick from 2026-11-11 12:22 | request from 2026-11-11 12:22
