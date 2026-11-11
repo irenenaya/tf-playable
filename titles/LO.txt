@@ -1,4 +1,4 @@
-Track status, song titles filed under LO (built Wed Nov 11, 1:15 PM PST (21:15 UTC)). Times in UTC.
+Track status, song titles filed under LO (built Wed Nov 11, 1:25 PM PST (21:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   L-O-V-E — Nat King Cole | last aired 2026-11-07 03:32 | normal pick now | request now
@@ -7,7 +7,7 @@ OK   Locos — Leon Larregui | last aired 2026-11-10 02:48 | normal pick now | r
 OK   Logic — Euology | last aired 2026-10-30 12:08 | normal pick now | request now
 OK   London Calling — The Clash | last aired 2026-10-31 10:52 | normal pick now | request now
 OK   Lonely in the Future — The Strokes | last aired 2026-11-01 21:32 | normal pick now | request now
-OK   Long Time Running — The Tragically Hip | last aired 2026-11-06 02:00 | normal pick now | request now
+WAIT Long Time Running — The Tragically Hip | last aired 2026-11-11 21:16 | normal pick from 2026-11-13 09:16 | request from 2026-11-12 17:16
 OK   Longing — Nusrat Fateh Ali Khan | last aired 2026-11-05 16:48 | normal pick now | request now
 WAIT Loser — Beck | last aired 2026-11-11 01:20 | normal pick from 2026-11-13 01:20 | request from 2026-11-13 01:20
 OK   Losing Faith — Tom Konkle | last aired 2026-11-09 21:00 | normal pick now | request now
