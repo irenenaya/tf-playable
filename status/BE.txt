@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Wed Nov 11, 8:15 AM PST (16:15 UTC)). Times in UTC.
+Track status, artists filed under BE (built Wed Nov 11, 8:25 AM PST (16:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Beach House — Bluebird | last aired 2026-11-11 01:15 | normal pick from 2026-11-12 13:15 | request from 2026-11-11 21:15
@@ -20,7 +20,7 @@ WAIT Ben Allison — D.A.V.E. | last aired 2026-11-10 16:36 | normal pick from 2
 WAIT Ben E. King — Stand By Me | last aired 2026-11-10 13:10 | normal pick from 2026-11-12 01:10 | request now
 WAIT Ben Harper — Yard Sale | last aired 2026-11-10 04:21 | normal pick from 2026-11-12 04:21 | request from 2026-11-12 04:21
 WAIT Ben Howard — Only Love | last aired 2026-11-11 09:59 | normal pick from 2026-11-12 21:59 | request from 2026-11-12 05:59
-WAIT Ben&Ben — Leaves | last aired 2026-11-10 04:25 | normal pick from 2026-11-11 16:25 | request now
+OK   Ben&Ben — Leaves | last aired 2026-11-10 04:25 | normal pick now | request now
 WAIT Ben&Ben — Maybe The Night | last aired 2026-11-10 13:19 | normal pick from 2026-11-12 01:19 | request now
 WAIT Benjamin Francis Leftwich — Ticket To Ride | last aired 2026-11-10 04:36 | normal pick from 2026-11-11 16:36 | request now
 OK   Benny Goodman — Sing Sing Sing (With A Swing) (live) | last aired 2026-11-10 04:07 | normal pick now | request now
@@ -33,7 +33,7 @@ OK   Bernard Purdie — Cool Down | last aired 2026-11-01 03:27 | normal pick no
 OK   Bert Kaempfert — A Swingin' Safari | last aired 2026-10-30 15:24 | normal pick now | request now
 WAIT Betty Carter — Moonlight in Vermont | last aired 2026-11-11 09:56 | normal pick from 2026-11-12 21:56 | request from 2026-11-12 05:56
 WAIT BETWEEN FRIENDS — affection | last aired 2026-11-11 01:23 | normal pick from 2026-11-12 13:23 | request from 2026-11-11 21:23
-WAIT Beyoncé — Crazy In Love | last aired 2026-11-10 04:17 | normal pick from 2026-11-11 16:17 | request now
+OK   Beyoncé — Crazy In Love | last aired 2026-11-10 04:17 | normal pick now | request now
 OK   Beyoncé — TEXAS HOLD 'EM | last aired 2026-10-28 22:05 | normal pick now | request now
 WAIT Béla Fleck — My Home's Across The Blue Ridge Mountains | last aired 2026-11-11 10:08 | normal pick from 2026-11-12 22:08 | request from 2026-11-12 06:08
 OK   The Beach Boys — God Only Knows (Stereo) | last aired 2026-11-10 04:04 | normal pick now | request now
