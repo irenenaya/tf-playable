@@ -1,4 +1,4 @@
-Track status, song titles filed under FR (built Tue Nov 10, 6:55 PM PST (02:55 UTC Wed)). Times in UTC.
+Track status, song titles filed under FR (built Tue Nov 10, 7:05 PM PST (03:05 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Fragile — Scott Carlin | last aired 2026-10-15 21:02 | normal pick now | request now
@@ -7,4 +7,4 @@ OK   Freak — HYD | last aired 2026-10-26 00:40 | normal pick now | request now
 OK   Friday Morning — Khruangbin | last aired 2026-11-08 09:21 | normal pick now | request now
 OK   From Eden — Hozier | last aired 2026-11-04 08:23 | normal pick now | request now
 WAIT Front Line (action) — Liam Comerford | last aired 2026-11-10 19:39 | normal pick from 2026-11-12 07:39 | request from 2026-11-11 15:39
-WAIT アシタカとサン (from 'Princess Mononoke') — Joe Hisaishi | last aired 2026-11-09 15:05 | normal pick from 2026-11-11 03:05 | request now
+OK   アシタカとサン (from 'Princess Mononoke') — Joe Hisaishi | last aired 2026-11-09 15:05 | normal pick now | request now
