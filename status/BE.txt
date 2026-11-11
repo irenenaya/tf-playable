@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Wed Nov 11, 8:45 AM PST (16:45 UTC)). Times in UTC.
+Track status, artists filed under BE (built Wed Nov 11, 8:55 AM PST (16:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Beach House — Bluebird | last aired 2026-11-11 01:15 | normal pick from 2026-11-12 13:15 | request from 2026-11-11 21:15
@@ -6,7 +6,7 @@ WAIT Beach House — Space Song | last aired 2026-11-10 03:38 | normal pick from
 OK   Beastie Boys — Sabotage | last aired 2026-11-10 03:50 | normal pick now | request now
 OK   Beatrice Rana — Keyboard Concerto No. 1 in D Minor, BWV 1052: I. Allegro | last aired 2026-11-10 03:53 | normal pick now | request now
 WAIT Beatrice Rana — Libertango (Arr. Yamamoto for Piano 4-Hands) | last aired 2026-11-10 16:06 | normal pick from 2026-11-12 16:06 | request from 2026-11-12 16:06
-WAIT Beats by Luca — 52 CHICKEN NUGGET (McRave) | last aired 2026-11-10 04:47 | normal pick from 2026-11-11 16:47 | request now
+OK   Beats by Luca — 52 CHICKEN NUGGET (McRave) | last aired 2026-11-10 04:47 | normal pick now | request now
 WAIT Bebel Gilberto — Samba Da Benção | last aired 2026-11-10 13:05 | normal pick from 2026-11-12 13:05 | request from 2026-11-12 13:05
 OK   Beck — Devils Haircut | last aired 2026-11-10 03:43 | normal pick now | request now
 WAIT Beck — Loser | last aired 2026-11-11 01:20 | normal pick from 2026-11-13 01:20 | request from 2026-11-13 01:20
@@ -24,7 +24,7 @@ OK   Ben&Ben — Leaves | last aired 2026-11-10 04:25 | normal pick now | reques
 WAIT Ben&Ben — Maybe The Night | last aired 2026-11-10 13:19 | normal pick from 2026-11-12 01:19 | request now
 OK   Benjamin Francis Leftwich — Ticket To Ride | last aired 2026-11-10 04:36 | normal pick now | request now
 OK   Benny Goodman — Sing Sing Sing (With A Swing) (live) | last aired 2026-11-10 04:07 | normal pick now | request now
-WAIT Benny Sings — Rolled Up | last aired 2026-11-10 04:49 | normal pick from 2026-11-11 16:49 | request now
+OK   Benny Sings — Rolled Up | last aired 2026-11-10 04:49 | normal pick now | request now
 WAIT Benny Sings — Sailing | last aired 2026-11-10 04:33 | normal pick from 2026-11-12 04:33 | request from 2026-11-12 04:33
 OK   Benson Boone — Beautiful Things | last aired 2026-11-10 04:40 | normal pick now | request now
 WAIT Berlin — Take My Breath Away | last aired 2026-11-11 10:03 | normal pick from 2026-11-12 22:03 | request from 2026-11-12 06:03
