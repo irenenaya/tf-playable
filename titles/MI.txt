@@ -1,4 +1,4 @@
-Track status, song titles filed under MI (built Wed Nov 11, 12:15 PM PST (20:15 UTC)). Times in UTC.
+Track status, song titles filed under MI (built Wed Nov 11, 12:25 PM PST (20:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Mice City — Hotel Ugly | last aired 2026-10-26 10:35 | normal pick now | request now
@@ -12,7 +12,7 @@ OK   Minus Celsius — Backyard Babies | last aired 2026-11-10 03:34 | normal pi
 OK   Mirror Mirror (Remastered 2007) — Blind Guardian | last aired 2026-11-02 01:59 | normal pick now | request now
 WAIT Miss possessive — Tate McRae | last aired 2026-11-10 18:57 | normal pick from 2026-11-12 06:57 | request now
 WAIT Mistakes Like Fractures — Knocked Loose | last aired 2026-11-10 19:19 | normal pick from 2026-11-12 07:19 | request now
-WAIT Mister Magic — Grover Washington Jr. | last aired 2026-11-09 20:19 | normal pick from 2026-11-11 20:19 | request from 2026-11-11 20:19
+OK   Mister Magic — Grover Washington Jr. | last aired 2026-11-09 20:19 | normal pick now | request now
 WAIT Mister Sandman — Emmylou Harris | last aired 2026-11-11 17:42 | normal pick from 2026-11-13 05:42 | request from 2026-11-12 13:42
 OK   The Middle — Jimmy Eat World | last aired 2026-10-31 12:23 | normal pick now | request now
 OK   The Mission – Buona Fortuna Jack (Live) — Angèle Dubeau | last aired 2026-10-31 09:24 | normal pick now | request now
