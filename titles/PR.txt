@@ -1,4 +1,4 @@
-Track status, song titles filed under PR (built Wed Nov 11, 2:25 AM PST (10:25 UTC)). Times in UTC.
+Track status, song titles filed under PR (built Wed Nov 11, 2:35 AM PST (10:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Praying For Love — Donna De Lory | last aired 2026-10-31 20:07 | normal pick now | request now
@@ -12,5 +12,5 @@ OK   princess mononoke theme — KOHTO | last aired 2026-10-16 03:35 | normal pi
 OK   Prisencolinensinainciusol — Adriano Celentano | last aired 2026-10-26 02:31 | normal pick now | request now
 OK   Private Dancer (Single Edit) — Tina Turner | last aired 2026-11-07 18:01 | normal pick now | request now
 OK   Promise — Voyager | last aired 2026-10-25 03:01 | normal pick now | request now
-OK   Protection — Massive Attack | last aired 2026-11-09 04:36 | normal pick now | request now
+WAIT Protection — Massive Attack | last aired 2026-11-11 10:25 | normal pick from 2026-11-12 22:25 | request from 2026-11-12 06:25
 WAIT The Promise (2010 Remaster) — Arcadia | last aired 2026-11-11 04:52 | normal pick from 2026-11-12 16:52 | request from 2026-11-12 00:52
