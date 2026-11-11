@@ -1,4 +1,4 @@
-Track status, song titles filed under WA (built Wed Nov 11, 5:35 AM PST (13:35 UTC)). Times in UTC.
+Track status, song titles filed under WA (built Wed Nov 11, 5:45 AM PST (13:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Way You Look Tonight — Tony Bennett & Faith Hill | last aired 2026-10-26 13:12 | normal pick now | request now
@@ -22,5 +22,5 @@ WAIT Water From An Ancient Well — Abdullah Ibrahim | last aired 2026-11-09 16:
 WAIT Water No Get Enemy — Fela Kuti | last aired 2026-11-09 19:21 | normal pick from 2026-11-11 19:21 | request from 2026-11-11 19:21
 OK   Water — Tyla | last aired 2026-11-05 21:46 | normal pick now | request now
 OK   Waterloo (English Version) — ABBA | last aired 2026-11-07 13:25 | normal pick now | request now
-WAIT Watermelon Sugar — Harry Styles | last aired 2026-11-10 17:44 | normal pick from 2026-11-12 05:44 | request from 2026-11-11 13:44
+WAIT Watermelon Sugar — Harry Styles | last aired 2026-11-10 17:44 | normal pick from 2026-11-12 05:44 | request now
 WAIT Wave — Antonio Carlos Jobim | last aired 2026-11-10 10:08 | normal pick from 2026-11-12 10:08 | request from 2026-11-12 10:08
