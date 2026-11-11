@@ -1,4 +1,4 @@
-Track status, song titles filed under ST (built Wed Nov 11, 10:25 AM PST (18:25 UTC)). Times in UTC.
+Track status, song titles filed under ST (built Wed Nov 11, 10:35 AM PST (18:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT S.T.A.Y. — Hans Zimmer | last aired 2026-11-10 12:15 | normal pick from 2026-11-12 12:15 | request from 2026-11-12 12:15
@@ -36,7 +36,7 @@ OK   Strawberry Letter 23 (Album Version) — The Brothers Johnson | last aired 
 OK   Street Fighting Man — The Rolling Stones | last aired 2026-11-03 18:39 | normal pick now | request now
 OK   Street Lights — Josh Rouse | last aired 2026-10-27 17:56 | normal pick now | request now
 OK   Streets of Philadelphia (Single Edit) — Bruce Springsteen | last aired 2026-11-01 05:37 | normal pick now | request now
-OK   Stressed Out — twenty one pilots | last aired 2026-10-26 12:18 | normal pick now | request now
+WAIT Stressed Out — twenty one pilots | last aired 2026-11-11 18:31 | normal pick from 2026-11-13 06:31 | request from 2026-11-12 14:31
 WAIT Strings of Light — Yussef Kamaal | last aired 2026-11-11 17:34 | normal pick from 2026-11-13 05:34 | request from 2026-11-12 13:34
 OK   Stripsearch — Faith No More | last aired 2026-10-20 19:48 | normal pick now | request now
 WAIT Stuck In The Middle With You — Stealers Wheel | last aired 2026-11-10 20:58 | normal pick from 2026-11-12 20:58 | request from 2026-11-12 20:58
