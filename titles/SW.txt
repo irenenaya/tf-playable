@@ -1,8 +1,8 @@
-Track status, song titles filed under SW (built Tue Nov 10, 5:55 PM PST (01:55 UTC Wed)). Times in UTC.
+Track status, song titles filed under SW (built Tue Nov 10, 6:05 PM PST (02:05 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Swan Lake Suite, Op. 20a - Tchaikovsky: Swan Lake Suite, Op. 20a: I. Scene "Swan Theme". Moderato — Mstislav Rostropovich | last aired 2026-11-02 11:20 | normal pick now | request now
-WAIT Sweet Caroline — Neil Diamond | last aired 2026-11-10 05:30 | normal pick from 2026-11-12 05:30 | request from 2026-11-12 05:30
+WAIT Sweet Caroline — Neil Diamond | last aired 2026-11-10 05:30 | normal pick from 2026-11-11 17:30 | request now
 OK   Sweet Child O' Mine — Guns N' Roses | last aired 2026-10-23 11:20 | normal pick now | request now
 OK   Sweet Dreams (Are Made of This) [2018 Remastered] — Eurythmics, Annie Lennox, Dave Stewart | last aired 2026-11-07 05:23 | normal pick now | request now
 WAIT Sweet Jane (Full Length Version; 2015 Remaster) — The Velvet Underground | last aired 2026-11-09 20:53 | normal pick from 2026-11-11 08:53 | request now
@@ -10,7 +10,7 @@ OK   Sweet Jane (Full Length Version; 2015 Remaster)n; 2015 Remaster) — The Ve
 OK   Sweet Little Mountain Bird — The Ray Charles Singers | last aired 2026-09-18 12:34 | normal pick now | request now
 WAIT Sweet Love — Anita Baker | last aired 2026-11-10 10:11 | normal pick from 2026-11-12 10:11 | request from 2026-11-12 10:11
 OK   Sweet Sounds Of Heaven — The Rolling Stones | last aired 2026-11-06 18:20 | normal pick now | request now
-WAIT Sweet Surrender (Album Version) — Sarah McLachlan | last aired 2026-11-11 00:57 | normal pick from 2026-11-13 00:57 | request from 2026-11-13 00:57
+WAIT Sweet Surrender (Album Version) — Sarah McLachlan | last aired 2026-11-11 00:58 | normal pick from 2026-11-13 00:58 | request from 2026-11-13 00:58
 OK   Sweet Transvestite — Tim Curry | last aired 2026-10-25 12:34 | normal pick now | request now
 OK   Switched-on Wendy — Luca Di Sabatino | last aired 2026-11-07 09:14 | normal pick now | request now
 WAIT The Sweetest Taboo (Remastered Version) — Sade | last aired 2026-11-10 04:52 | normal pick from 2026-11-12 04:52 | request from 2026-11-12 04:52

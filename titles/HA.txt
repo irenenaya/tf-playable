@@ -1,4 +1,4 @@
-Track status, song titles filed under HA (built Tue Nov 10, 5:55 PM PST (01:55 UTC Wed)). Times in UTC.
+Track status, song titles filed under HA (built Tue Nov 10, 6:05 PM PST (02:05 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Halah — Mazzy Star | last aired 2026-11-09 04:26 | normal pick from 2026-11-11 04:26 | request from 2026-11-11 04:26
@@ -10,7 +10,7 @@ OK   Halloween Theme — John Carpenter | last aired 2026-11-07 16:21 | normal p
 OK   Halo Theme Mjolnir Mix — Halo | last aired 2026-10-29 22:04 | normal pick now | request now
 OK   Hang on Sloopy — The McCoys | last aired 2026-10-26 12:06 | normal pick now | request now
 OK   Happy Birthday — Stevie Wonder | last aired 2026-11-02 00:43 | normal pick now | request now
-WAIT Hard Rock Hallelujah — Lordi | last aired 2026-11-09 13:58 | normal pick from 2026-11-11 01:58 | request now
+OK   Hard Rock Hallelujah — Lordi | last aired 2026-11-09 13:58 | normal pick now | request now
 OK   Hard Times — The Jetzons | last aired 2026-10-29 03:18 | normal pick now | request now
 OK   Hard to Say I'M Sorry / Get Away — Chicago | last aired 2026-11-02 04:29 | normal pick now | request now
 OK   Hardcore Vibes — Dúné | last aired 2026-11-02 00:12 | normal pick now | request now
