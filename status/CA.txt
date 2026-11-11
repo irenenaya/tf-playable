@@ -1,8 +1,8 @@
-Track status, artists filed under CA (built Wed Nov 11, 8:25 AM PST (16:25 UTC)). Times in UTC.
+Track status, artists filed under CA (built Wed Nov 11, 8:35 AM PST (16:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Caetano Veloso — O Leãozinho (Ao Vivo) | last aired 2026-11-10 11:01 | normal pick from 2026-11-12 11:01 | request from 2026-11-12 11:01
-WAIT Caetano Veloso — Tropicália (Remastered 2006) | last aired 2026-11-09 16:34 | normal pick from 2026-11-11 16:34 | request from 2026-11-11 16:34
+OK   Caetano Veloso — Tropicália (Remastered 2006) | last aired 2026-11-09 16:34 | normal pick now | request now
 WAIT Café Tacvba — Eres (Album Version) | last aired 2026-11-10 11:19 | normal pick from 2026-11-12 11:19 | request from 2026-11-12 11:19
 WAIT Cage The Elephant — What I'm Becoming | last aired 2026-11-10 11:37 | normal pick from 2026-11-12 11:37 | request from 2026-11-12 11:37
 OK   Caifanes — Afuera | last aired 2026-11-03 21:03 | normal pick now | request now
@@ -13,7 +13,7 @@ WAIT Canned Heat — On The Road Again | last aired 2026-11-09 16:38 | normal pi
 WAIT Carbon Based Lifeforms — Photosynthesis | last aired 2026-11-10 10:54 | normal pick from 2026-11-12 10:54 | request from 2026-11-12 10:54
 OK   Cardiacs — Big Ship | last aired 2026-11-09 16:54 | normal pick now | request now
 WAIT Carlos Gardel — Por una Cabeza | last aired 2026-11-10 11:04 | normal pick from 2026-11-12 11:04 | request from 2026-11-12 11:04
-WAIT Carole King — It's Too Late | last aired 2026-11-09 16:30 | normal pick from 2026-11-11 16:30 | request from 2026-11-11 16:30
+OK   Carole King — It's Too Late | last aired 2026-11-09 16:30 | normal pick now | request now
 WAIT Carole King — So Far Away | last aired 2026-11-11 14:44 | normal pick from 2026-11-13 14:44 | request from 2026-11-13 14:44
 WAIT Caroline Polachek — Bunny Is A Rider | last aired 2026-11-10 11:41 | normal pick from 2026-11-12 11:41 | request from 2026-11-12 11:41
 OK   Carter Vail — Ants In My Room | last aired 2026-11-09 02:46 | normal pick now | request now
