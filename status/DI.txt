@@ -1,8 +1,8 @@
-Track status, artists filed under DI (built Tue Nov 10, 9:55 PM PST (05:55 UTC Wed)). Times in UTC.
+Track status, artists filed under DI (built Tue Nov 10, 10:05 PM PST (06:05 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Diana Krall — How Deep Is The Ocean | last aired 2026-11-09 18:14 | normal pick from 2026-11-11 18:14 | request from 2026-11-11 18:14
-WAIT Diana Ross — I'm Coming Out | last aired 2026-11-09 18:03 | normal pick from 2026-11-11 06:03 | request now
+OK   Diana Ross — I'm Coming Out | last aired 2026-11-09 18:03 | normal pick now | request now
 WAIT Diana Ross — Muscles | last aired 2026-11-09 18:48 | normal pick from 2026-11-11 06:48 | request now
 WAIT Die Fantastischen Vier — MfG - Mit freundlichen Grüßen (2022) | last aired 2026-11-09 18:24 | normal pick from 2026-11-11 06:24 | request now
 WAIT DIIV — Doused | last aired 2026-11-09 18:20 | normal pick from 2026-11-11 18:20 | request from 2026-11-11 18:20
