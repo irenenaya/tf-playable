@@ -1,4 +1,4 @@
-Track status, song titles filed under BE (built Wed Nov 11, 1:25 AM PST (09:25 UTC)). Times in UTC.
+Track status, song titles filed under BE (built Wed Nov 11, 1:35 AM PST (09:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Be (Introduction Of Jonathan) — Neil Diamond | last aired 2026-11-06 17:39 | normal pick now | request now
@@ -11,7 +11,7 @@ WAIT Beautiful Things — Benson Boone | last aired 2026-11-10 04:40 | normal pi
 OK   Behind the Mask (2018 Bob Ludwig Remastering) — Yellow Magic Orchestra | last aired 2026-11-02 00:33 | normal pick now | request now
 OK   Beija Eu — Marisa Monte | last aired 2026-11-08 19:21 | normal pick now | request now
 WAIT Being Is Bewildering — Moloko | last aired 2026-11-11 02:10 | normal pick from 2026-11-12 14:10 | request from 2026-11-11 22:10
-WAIT Belinda Says — Alvvays | last aired 2026-11-09 09:28 | normal pick from 2026-11-11 09:28 | request from 2026-11-11 09:28
+OK   Belinda Says — Alvvays | last aired 2026-11-09 09:28 | normal pick now | request now
 OK   Berghain — ROSALÍA | last aired 2026-11-05 04:35 | normal pick now | request now
 WAIT Berimbau/Consolacao (Album Version) — Sergio Mendes | last aired 2026-11-11 08:43 | normal pick from 2026-11-12 20:43 | request from 2026-11-12 04:43
 WAIT Better Together — Jack Johnson | last aired 2026-11-09 13:33 | normal pick from 2026-11-11 13:33 | request from 2026-11-11 13:33
