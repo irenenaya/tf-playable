@@ -1,4 +1,4 @@
-Track status, artists filed under PA (built Wed Nov 11, 3:15 PM PST (23:15 UTC)). Times in UTC.
+Track status, artists filed under PA (built Wed Nov 11, 3:25 PM PST (23:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Paco de Lucía — Entre Dos Aguas | last aired 2026-11-10 13:45 | normal pick from 2026-11-12 13:45 | request from 2026-11-12 13:45
@@ -13,7 +13,7 @@ WAIT Parcels — Overnight - from Hansa Studios, Berlin | last aired 2026-11-10 
 WAIT Parliament — Give Up The Funk (Tear The Roof Off The Sucker) | last aired 2026-11-10 14:03 | normal pick from 2026-11-12 14:03 | request from 2026-11-12 14:03
 WAIT Patrick Watson — Sit Down Beside Me | last aired 2026-11-11 22:33 | normal pick from 2026-11-13 10:33 | request from 2026-11-12 18:33
 WAIT Patrik Andrén — ARC Raiders | last aired 2026-11-11 16:46 | normal pick from 2026-11-13 04:46 | request from 2026-11-12 12:46
-WAIT Patsy Cline — Crazy (Single Version) | last aired 2026-11-11 03:24 | normal pick from 2026-11-12 15:24 | request from 2026-11-11 23:24
+WAIT Patsy Cline — Crazy (Single Version) | last aired 2026-11-11 03:24 | normal pick from 2026-11-12 15:24 | request now
 WAIT Patsy Cline — Strange | last aired 2026-11-11 22:37 | normal pick from 2026-11-13 10:37 | request from 2026-11-12 18:37
 WAIT Patti LaBelle — If Only You Knew | last aired 2026-11-11 22:40 | normal pick from 2026-11-13 10:40 | request from 2026-11-12 18:40
 OK   Patti LaBelle — On My Own | last aired 2026-11-09 16:25 | normal pick now | request now
@@ -22,7 +22,7 @@ OK   Patti Smith Group — Dancing Barefoot | last aired 2026-10-22 18:30 | norm
 OK   Patti Smith — People Have the Power | last aired 2026-10-22 18:19 | normal pick now | request now
 OK   Patti Smith — Wing | last aired 2026-10-22 18:35 | normal pick now | request now
 OK   Paul Leonard-Morgan — She's a Pass | last aired 2026-11-03 17:37 | normal pick now | request now
-WAIT Paul Mauriat — Love Is Blue (Album Version) | last aired 2026-11-11 03:16 | normal pick from 2026-11-12 15:16 | request from 2026-11-11 23:16
+WAIT Paul Mauriat — Love Is Blue (Album Version) | last aired 2026-11-11 03:16 | normal pick from 2026-11-12 15:16 | request now
 WAIT Paul McCartney — Maybe I’m Amazed (2011 Remaster) | last aired 2026-11-11 13:20 | normal pick from 2026-11-13 01:20 | request from 2026-11-12 09:20
 OK   Paul McCartney — Monkberry Moon Delight (2012 Remaster) | last aired 2026-11-01 19:30 | normal pick now | request now
 WAIT Paul Rodgers — Muddy Water Blues | last aired 2026-11-11 03:11 | normal pick from 2026-11-12 15:11 | request now
