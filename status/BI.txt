@@ -1,4 +1,4 @@
-Track status, artists filed under BI (built Wed Nov 11, 7:15 AM PST (15:15 UTC)). Times in UTC.
+Track status, artists filed under BI (built Wed Nov 11, 7:25 AM PST (15:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Bicep — Apricots | last aired 2026-11-10 08:18 | normal pick from 2026-11-12 08:18 | request from 2026-11-12 08:18
@@ -18,7 +18,7 @@ WAIT Billie Eilish — What Was I Made For? [From The Motion Picture "Barbie"] |
 OK   Billie Eilish — when the party's over | last aired 2026-11-07 06:46 | normal pick now | request now
 OK   Billy Crystal — If I Didn't Have You (From "Monsters, Inc."/Soundtrack Version) | last aired 2026-10-26 05:08 | normal pick now | request now
 OK   Billy Joel — Get It Right the First Time (Album Version) | last aired 2026-11-08 17:09 | normal pick now | request now
-OK   Billy Joel — Honesty (Album Version) | last aired 2026-11-06 03:32 | normal pick now | request now
+WAIT Billy Joel — Honesty (Album Version) | last aired 2026-11-11 15:20 | normal pick from 2026-11-13 15:20 | request from 2026-11-13 15:20
 OK   Billy Joel — Scenes from an Italian Restaurant (Album Version) | last aired 2026-11-01 19:15 | normal pick now | request now
 OK   Billy Joel — The River of Dreams (Album Version) | last aired 2026-11-05 07:35 | normal pick now | request now
 WAIT Billy Joel — Vienna (Album Version) | last aired 2026-11-11 08:32 | normal pick from 2026-11-12 20:32 | request from 2026-11-12 04:32
