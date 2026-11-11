@@ -1,4 +1,4 @@
-Track status, artists filed under AL (built Wed Nov 11, 7:05 AM PST (15:05 UTC)). Times in UTC.
+Track status, artists filed under AL (built Wed Nov 11, 7:15 AM PST (15:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Al Di Meola — Double Concerto | last aired 2026-11-09 02:17 | normal pick now | request now
@@ -6,7 +6,7 @@ OK   Al Di Meola — Libertango | last aired 2026-11-08 23:31 | normal pick now 
 WAIT Al Di Meola — Passion, Grace & Fire (Album Version) | last aired 2026-11-10 02:43 | normal pick from 2026-11-12 02:43 | request from 2026-11-12 02:43
 OK   Al Di Meola — Red Moon | last aired 2026-11-09 14:32 | normal pick now | request now
 WAIT Al Green — Let's Stay Together | last aired 2026-11-10 02:11 | normal pick from 2026-11-12 02:11 | request from 2026-11-12 02:11
-OK   Al Green — Love and Happiness | last aired 2026-11-08 23:36 | normal pick now | request now
+WAIT Al Green — Love and Happiness | last aired 2026-11-11 15:05 | normal pick from 2026-11-13 15:05 | request from 2026-11-13 15:05
 OK   Al Green — Simply Beautiful | last aired 2026-11-08 23:03 | normal pick now | request now
 WAIT Al Green — The Lord Will Make a Way | last aired 2026-11-10 03:01 | normal pick from 2026-11-12 03:01 | request from 2026-11-12 03:01
 WAIT Al Stewart — Year of the Cat | last aired 2026-11-10 02:14 | normal pick from 2026-11-12 02:14 | request from 2026-11-12 02:14
@@ -33,4 +33,4 @@ OK   Almendra — Plegaria para un Niño Dormido | last aired 2026-11-08 08:53 |
 WAIT Alvin Lucier — I Am Sitting in a Room | last aired 2026-11-10 07:37 | normal pick from 2026-11-11 19:37 | request now
 OK   Alvvays — Belinda Says | last aired 2026-11-09 09:28 | normal pick now | request now
 OK   Alèmayèhu Eshèté — Tashamanaletch | last aired 2026-11-09 09:31 | normal pick now | request now
-WAIT The Altons — When You Go (That's When You'll Know) | last aired 2026-11-10 03:12 | normal pick from 2026-11-11 15:12 | request now
+OK   The Altons — When You Go (That's When You'll Know) | last aired 2026-11-10 03:12 | normal pick now | request now
