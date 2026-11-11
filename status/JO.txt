@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Wed Nov 11, 12:05 PM PST (20:05 UTC)). Times in UTC.
+Track status, artists filed under JO (built Wed Nov 11, 12:15 PM PST (20:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-11-09 13:44 | normal pick now | request now
@@ -14,7 +14,7 @@ OK   Joe Hisaishi — Innocent (from 'Castle in the Sky') | last aired 2026-11-0
 OK   Joe Hisaishi — Merry-Go-Round of Life (from 'Howl’s Moving Castle') | last aired 2026-11-08 18:16 | normal pick now | request now
 WAIT Joe Hisaishi — One Summer's Day (from 'Spirited Away') | last aired 2026-11-11 09:44 | normal pick from 2026-11-12 21:44 | request from 2026-11-12 05:44
 WAIT Joe Hisaishi — Ponyo's Sisters Lend a Hand - A Song for Mothers and the Sea (from 'Ponyo on the Cliff by the Sea') | last aired 2026-11-10 08:42 | normal pick from 2026-11-11 20:42 | request now
-OK   Joe Hisaishi — Summer (from 'Kikujiro') | last aired 2026-11-08 17:58 | normal pick now | request now
+WAIT Joe Hisaishi — Summer (from 'Kikujiro') | last aired 2026-11-11 20:10 | normal pick from 2026-11-13 08:10 | request from 2026-11-12 16:10
 OK   Joe Hisaishi — Symphonic Suite “Princess Mononoke”2021 : V. Mononoke Hime (Live) | last aired 2026-11-08 18:36 | normal pick now | request now
 OK   Joe Hisaishi — The Path of the Wind (from 'My Neighbor Totoro') | last aired 2026-11-08 18:15 | normal pick now | request now
 OK   Joe Hisaishi — アシタカとサン (from 'Princess Mononoke') | last aired 2026-11-09 15:05 | normal pick now | request now
@@ -48,7 +48,7 @@ OK   Jonathan Parecki — Senbonzakura (Hatsune Miku) | last aired 2026-09-02 17
 WAIT Joni Mitchell — A Case of You | last aired 2026-11-11 02:31 | normal pick from 2026-11-13 02:31 | request from 2026-11-13 02:31
 OK   Joni Mitchell — At Last (LP Version) | last aired 2026-11-03 22:19 | normal pick now | request now
 WAIT Joni Mitchell — River | last aired 2026-11-11 11:43 | normal pick from 2026-11-12 23:43 | request from 2026-11-12 07:43
-OK   Jorge Ben Jor — Mas, Que Nada! | last aired 2026-11-03 21:46 | normal pick now | request now
+WAIT Jorge Ben Jor — Mas, Que Nada! | last aired 2026-11-11 20:07 | normal pick from 2026-11-13 08:07 | request from 2026-11-12 16:07
 WAIT Josh Rouse — 1972 | last aired 2026-11-11 15:11 | normal pick from 2026-11-13 03:11 | request from 2026-11-12 11:11
 OK   Josh Rouse — Street Lights | last aired 2026-10-27 17:56 | normal pick now | request now
 WAIT José González — Heartbeats | last aired 2026-11-11 09:48 | normal pick from 2026-11-13 09:48 | request from 2026-11-13 09:48
