@@ -1,4 +1,4 @@
-Track status, artists filed under BO (built Wed Nov 11, 2:45 AM PST (10:45 UTC)). Times in UTC.
+Track status, artists filed under BO (built Wed Nov 11, 2:55 AM PST (10:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Boards of Canada — Blood In The Labyrinth | last aired 2026-11-09 08:43 | normal pick now | request now
@@ -11,7 +11,7 @@ OK   Bob Marley & The Wailers — Get Up, Stand Up | last aired 2026-11-07 19:13
 OK   Bobby Caldwell — Coming Down from Love | last aired 2026-11-09 08:48 | normal pick now | request now
 OK   Bobby Caldwell — What You Won't Do for Love | last aired 2026-11-08 04:29 | normal pick now | request now
 OK   Bobby Darin — Beyond the Sea | last aired 2026-11-09 09:42 | normal pick now | request now
-OK   Bobby Hutcherson — Stardust | last aired 2026-11-07 19:23 | normal pick now | request now
+WAIT Bobby Hutcherson — Stardust | last aired 2026-11-11 10:46 | normal pick from 2026-11-13 10:46 | request from 2026-11-13 10:46
 OK   Bobby McFerrin — Common Threads | last aired 2026-11-08 21:36 | normal pick now | request now
 OK   Bobby McFerrin — Don't Worry Be Happy | last aired 2026-11-09 12:54 | normal pick now | request now
 OK   Bobby Vinton — Blue Velvet | last aired 2026-11-07 20:20 | normal pick now | request now

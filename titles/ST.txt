@@ -1,4 +1,4 @@
-Track status, song titles filed under ST (built Wed Nov 11, 2:45 AM PST (10:45 UTC)). Times in UTC.
+Track status, song titles filed under ST (built Wed Nov 11, 2:55 AM PST (10:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT S.T.A.Y. — Hans Zimmer | last aired 2026-11-10 12:15 | normal pick from 2026-11-12 12:15 | request from 2026-11-12 12:15
@@ -9,7 +9,7 @@ WAIT Stand By Me — Ben E. King | last aired 2026-11-10 13:10 | normal pick fro
 OK   Stand By Your Man (Album Version) — Tammy Wynette | last aired 2026-10-27 20:41 | normal pick now | request now
 OK   Star Fruit Surf Rider (Damon Albarn Remix) — Cornelius | last aired 2026-11-09 17:20 | normal pick now | request now
 OK   Starboy — The Weeknd | last aired 2026-10-31 23:35 | normal pick now | request now
-OK   Stardust — Bobby Hutcherson | last aired 2026-11-07 19:23 | normal pick now | request now
+WAIT Stardust — Bobby Hutcherson | last aired 2026-11-11 10:46 | normal pick from 2026-11-13 10:46 | request from 2026-11-13 10:46
 OK   Starman (2012 Remaster) — David Bowie | last aired 2026-10-30 12:29 | normal pick now | request now
 WAIT Starry Night — Peggy Gou | last aired 2026-11-10 22:42 | normal pick from 2026-11-12 10:42 | request from 2026-11-11 18:42
 OK   Start Shootin' — Little People | last aired 2026-10-29 21:58 | normal pick now | request now
@@ -18,7 +18,7 @@ OK   Static on the Radio — Jim White | last aired 2026-10-25 22:41 | normal pi
 OK   Stay — Shakespears Sister | last aired 2026-11-06 17:10 | normal pick now | request now
 OK   Steal Away — Robbie Dupree | last aired 2026-11-06 21:32 | normal pick now | request now
 OK   Steep Hills of Vicodin Tears — A Winged Victory For The Sullen | last aired 2026-10-24 01:59 | normal pick now | request now
-WAIT Steppe — René Aubry | last aired 2026-11-10 14:47 | normal pick from 2026-11-12 02:47 | request from 2026-11-11 10:47
+WAIT Steppe — René Aubry | last aired 2026-11-10 14:47 | normal pick from 2026-11-12 02:47 | request now
 OK   Stick Season — Noah Kahan | last aired 2026-11-09 00:55 | normal pick now | request now
 OK   Still Life (2015 Remaster) — Iron Maiden | last aired 2026-10-25 16:43 | normal pick now | request now
 OK   Still Loving You (2011 Version) — Scorpions | last aired 2026-10-28 01:03 | normal pick now | request now
