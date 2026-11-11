@@ -1,9 +1,9 @@
-Track status, song titles filed under ON (built Tue Nov 10, 10:25 PM PST (06:25 UTC Wed)). Times in UTC.
+Track status, song titles filed under ON (built Tue Nov 10, 10:35 PM PST (06:35 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   On & On — Erykah Badu | last aired 2026-11-09 14:37 | normal pick now | request now
 OK   On My Own — Patti LaBelle | last aired 2026-11-09 16:25 | normal pick now | request now
-OK   On the Nature of Daylight — Max Richter | last aired 2026-11-09 04:29 | normal pick now | request now
+WAIT On the Nature of Daylight — Max Richter | last aired 2026-11-11 06:31 | normal pick from 2026-11-12 18:31 | request from 2026-11-12 02:31
 WAIT On The Road Again — Canned Heat | last aired 2026-11-09 16:38 | normal pick from 2026-11-11 16:38 | request from 2026-11-11 16:38
 WAIT On the Road Again — Willie Nelson | last aired 2026-11-11 05:32 | normal pick from 2026-11-12 17:32 | request from 2026-11-12 01:32
 OK   Once Upon a Time in the West (From "Once Upon a Time in the West") — Ennio Morricone | last aired 2026-11-08 10:36 | normal pick now | request now
