@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Tue Nov 10, 6:35 PM PST (02:35 UTC Wed)). Times in UTC.
+Track status, artists filed under JO (built Tue Nov 10, 6:45 PM PST (02:45 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-11-09 13:44 | normal pick from 2026-11-11 13:44 | request from 2026-11-11 13:44
@@ -24,7 +24,7 @@ OK   John Carpenter — Halloween Theme | last aired 2026-11-07 16:21 | normal p
 WAIT John Coltrane — Lush Life | last aired 2026-11-11 02:25 | normal pick from 2026-11-13 02:25 | request from 2026-11-13 02:25
 OK   John Coltrane — My Favorite Things | last aired 2026-11-09 08:13 | normal pick now | request now
 WAIT John Denver — Take Me Home, Country Roads | last aired 2026-11-09 22:24 | normal pick from 2026-11-11 22:24 | request from 2026-11-11 22:24
-OK   John Lee Hooker — Boom Boom | last aired 2026-11-08 14:17 | normal pick now | request now
+WAIT John Lee Hooker — Boom Boom | last aired 2026-11-11 02:39 | normal pick from 2026-11-12 14:39 | request from 2026-11-11 22:39
 OK   John Lee Hooker — I Cover the Waterfront | last aired 2026-11-09 00:40 | normal pick now | request now
 WAIT John Lennon — Give Peace A Chance (Remastered 2010) | last aired 2026-11-09 22:36 | normal pick from 2026-11-11 10:36 | request now
 OK   John Lennon — Imagine (Remastered 2010) | last aired 2026-11-08 08:12 | normal pick now | request now
@@ -36,7 +36,7 @@ OK   John Prine — Your Flag Decal Won't Get You into Heaven Anymore | last air
 OK   John T. Williams — Anything Goes | last aired 2026-10-16 05:14 | normal pick now | request now
 OK   John Williams — Theme From Superman (Concert Version) | last aired 2026-11-08 18:45 | normal pick now | request now
 OK   Johnny Cash — Folsom Prison Blues | last aired 2026-11-07 16:13 | normal pick now | request now
-OK   Johnny Cash — Hurt (Album Version) | last aired 2026-11-08 08:24 | normal pick now | request now
+WAIT Johnny Cash — Hurt (Album Version) | last aired 2026-11-11 02:35 | normal pick from 2026-11-12 14:35 | request from 2026-11-11 22:35
 OK   Johnny Cash — Redemption Day (Album Version) | last aired 2026-11-04 13:13 | normal pick now | request now
 OK   Johnny Cash — Ring of Fire | last aired 2026-11-04 13:07 | normal pick now | request now
 OK   Johnny Flynn — Detectorists (Original Soundtrack from the TV Series) | last aired 2026-10-23 05:38 | normal pick now | request now
