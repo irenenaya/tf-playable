@@ -1,4 +1,4 @@
-Track status, song titles filed under TI (built Wed Nov 11, 10:45 AM PST (18:45 UTC)). Times in UTC.
+Track status, song titles filed under TI (built Wed Nov 11, 10:55 AM PST (18:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Time Is Now — Moloko | last aired 2026-10-27 14:01 | normal pick now | request now
@@ -12,5 +12,5 @@ OK   Time Out Of Mind — Steely Dan | last aired 2026-11-02 18:15 | normal pick
 OK   Time to Pretend (Album Version) — MGMT | last aired 2026-11-04 21:47 | normal pick now | request now
 OK   Tip Toe Thru' the Tulips with Me (Single Version) — Tiny Tim | last aired 2026-11-09 21:32 | normal pick now | request now
 OK   Tipping Point — Megadeth | last aired 2026-10-30 00:44 | normal pick now | request now
-OK   TIT FOR TAT — Tate McRae | last aired 2026-10-25 19:53 | normal pick now | request now
+WAIT TIT FOR TAT — Tate McRae | last aired 2026-11-11 18:51 | normal pick from 2026-11-13 06:51 | request from 2026-11-12 14:51
 OK   Tizita — Aster Aweke | last aired 2026-11-05 17:57 | normal pick now | request now
