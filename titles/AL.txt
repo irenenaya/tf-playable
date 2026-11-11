@@ -1,9 +1,9 @@
-Track status, song titles filed under AL (built Wed Nov 11, 5:45 AM PST (13:45 UTC)). Times in UTC.
+Track status, song titles filed under AL (built Wed Nov 11, 5:55 AM PST (13:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT A Life (1895 - 1915) — Mark Hollis | last aired 2026-11-10 06:33 | normal pick from 2026-11-11 18:33 | request now
 OK   A Little Lost — Peter Broderick | last aired 2026-11-08 07:09 | normal pick now | request now
-OK   Albatross — Fleetwood Mac | last aired 2026-11-08 21:20 | normal pick now | request now
+WAIT Albatross — Fleetwood Mac | last aired 2026-11-11 13:51 | normal pick from 2026-11-13 01:51 | request from 2026-11-12 09:51
 OK   Algorithm — Heejin | last aired 2026-11-06 13:33 | normal pick now | request now
 WAIT Alien Observer — Grouper | last aired 2026-11-10 07:03 | normal pick from 2026-11-11 19:03 | request now
 OK   Alison — Slowdive | last aired 2026-11-08 08:05 | normal pick now | request now

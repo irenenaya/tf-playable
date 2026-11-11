@@ -1,4 +1,4 @@
-Track status, artists filed under TA (built Wed Nov 11, 5:45 AM PST (13:45 UTC)). Times in UTC.
+Track status, artists filed under TA (built Wed Nov 11, 5:55 AM PST (13:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Tabu — Dobra Vila | last aired 2026-10-22 16:58 | normal pick now | request now
@@ -13,7 +13,7 @@ OK   Talk Talk — Such a Shame (1997 Remaster) | last aired 2026-11-05 17:47 | 
 OK   Talking Heads — Psycho Killer | last aired 2026-11-02 19:42 | normal pick now | request now
 OK   Talking Heads — This Must Be the Place (Naive Melody) (2005 Remastered LP Version) | last aired 2026-11-08 11:29 | normal pick now | request now
 OK   Tamara Živković — Nova Zora (Eurovision 2026) | last aired 2026-10-23 22:04 | normal pick now | request now
-OK   Tame Impala — Is It True | last aired 2026-11-03 07:34 | normal pick now | request now
+WAIT Tame Impala — Is It True | last aired 2026-11-11 13:47 | normal pick from 2026-11-13 01:47 | request from 2026-11-12 09:47
 OK   Tame Impala — The Less I Know The Better | last aired 2026-11-04 19:44 | normal pick now | request now
 OK   Tammy Wynette — Stand By Your Man (Album Version) | last aired 2026-10-27 20:41 | normal pick now | request now
 OK   Tangerine Dream — Love On A Real Train | last aired 2026-10-28 06:54 | normal pick now | request now
@@ -21,5 +21,5 @@ OK   Tangerine Dream — Stratosfear (Digital Remastered) | last aired 2026-10-2
 OK   Tate McRae — greedy | last aired 2026-10-18 03:24 | normal pick now | request now
 WAIT Tate McRae — Miss possessive | last aired 2026-11-10 18:57 | normal pick from 2026-11-12 06:57 | request from 2026-11-11 14:57
 OK   Tate McRae — TIT FOR TAT | last aired 2026-10-25 19:53 | normal pick now | request now
-OK   Taylor Swift — Cruel Summer | last aired 2026-11-03 17:01 | normal pick now | request now
+WAIT Taylor Swift — Cruel Summer | last aired 2026-11-11 13:44 | normal pick from 2026-11-13 01:44 | request from 2026-11-12 09:44
 OK   The Tallest Man On Earth — The Gardener | last aired 2026-10-29 02:11 | normal pick now | request now
