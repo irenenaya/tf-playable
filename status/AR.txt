@@ -1,4 +1,4 @@
-Track status, artists filed under AR (built Tue Nov 10, 8:15 PM PST (04:15 UTC Wed)). Times in UTC.
+Track status, artists filed under AR (built Tue Nov 10, 8:25 PM PST (04:25 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Arcadia — The Promise (2010 Remaster) | last aired 2026-10-24 18:10 | normal pick now | request now
@@ -11,6 +11,6 @@ OK   Aretha Franklin — Day Dreaming (Album Version) | last aired 2026-11-08 13
 OK   Aretha Franklin — I Say a Little Prayer | last aired 2026-11-08 14:43 | normal pick now | request now
 OK   Aretha Franklin — Precious Lord (Take My Hand) (Part One) | last aired 2026-11-01 21:14 | normal pick now | request now
 OK   Aretha Franklin — Rock Steady (Album Version) | last aired 2026-11-05 19:58 | normal pick now | request now
-OK   Aretha Franklin — Wholy Holy | last aired 2026-10-25 17:04 | normal pick now | request now
+WAIT Aretha Franklin — Wholy Holy | last aired 2026-11-11 04:21 | normal pick from 2026-11-12 16:21 | request from 2026-11-12 00:21
 OK   Armin van Buuren — Set Me Free | last aired 2026-10-24 22:42 | normal pick now | request now
 OK   Arvo Pärt — Spiegel im spiegel | last aired 2026-11-07 09:33 | normal pick now | request now
