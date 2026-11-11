@@ -1,4 +1,4 @@
-Track status, artists filed under SA (built Wed Nov 11, 9:56 AM PST (17:56 UTC)). Times in UTC.
+Track status, artists filed under SA (built Wed Nov 11, 10:05 AM PST (18:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Sabaton — The Last Stand | last aired 2026-11-11 01:08 | normal pick from 2026-11-13 01:08 | request from 2026-11-13 01:08
@@ -8,7 +8,7 @@ OK   Sabrina Carpenter — Taste | last aired 2026-11-09 14:06 | normal pick now
 WAIT Sade — By Your Side (Remastered Version) | last aired 2026-11-11 11:32 | normal pick from 2026-11-13 11:32 | request from 2026-11-13 11:32
 WAIT Sade — Cherish the Day (Remastered Version) | last aired 2026-11-10 02:05 | normal pick from 2026-11-12 02:05 | request from 2026-11-12 02:05
 WAIT Sade — Is It a Crime (Remastered Version) | last aired 2026-11-10 05:02 | normal pick from 2026-11-12 05:02 | request from 2026-11-12 05:02
-WAIT Sade — Kiss of Life (Remastered Version) | last aired 2026-11-11 16:16 | normal pick from 2026-11-13 16:16 | request from 2026-11-13 16:16
+WAIT Sade — Kiss of Life (Remastered Version) | last aired 2026-11-11 16:17 | normal pick from 2026-11-13 16:17 | request from 2026-11-13 16:17
 WAIT Sade — No Ordinary Love (Remastered Version) | last aired 2026-11-10 01:17 | normal pick from 2026-11-12 01:17 | request from 2026-11-12 01:17
 OK   Sade — Smooth Operator (2011 Remastered) (Remastered Version) | last aired 2026-11-09 14:47 | normal pick now | request now
 WAIT Sade — The Sweetest Taboo (Remastered Version) | last aired 2026-11-10 04:52 | normal pick from 2026-11-12 04:52 | request from 2026-11-12 04:52
@@ -17,9 +17,9 @@ WAIT Saindra — Mil Besos | last aired 2026-11-11 01:02 | normal pick from 2026
 WAIT Saint Etienne — Only Love Can Break Your Heart | last aired 2026-11-11 16:29 | normal pick from 2026-11-13 16:29 | request from 2026-11-13 16:29
 WAIT Salvador Sobral — Amar pelos Dois | last aired 2026-11-10 01:13 | normal pick from 2026-11-12 01:13 | request from 2026-11-12 01:13
 WAIT Sam Cooke — A Change Is Gonna Come | last aired 2026-11-11 16:13 | normal pick from 2026-11-13 16:13 | request from 2026-11-13 16:13
-WAIT Sampha — (No One Knows Me) Like the Piano | last aired 2026-11-11 16:20 | normal pick from 2026-11-13 16:20 | request from 2026-11-13 16:20
+WAIT Sampha — (No One Knows Me) Like the Piano | last aired 2026-11-11 16:21 | normal pick from 2026-11-13 16:21 | request from 2026-11-13 16:21
 WAIT Santana — Black Magic Woman | last aired 2026-11-11 09:41 | normal pick from 2026-11-13 09:41 | request from 2026-11-13 09:41
-WAIT Santana — Maria Maria | last aired 2026-11-11 16:24 | normal pick from 2026-11-13 04:24 | request from 2026-11-12 12:24
+WAIT Santana — Maria Maria | last aired 2026-11-11 16:25 | normal pick from 2026-11-13 04:25 | request from 2026-11-12 12:25
 WAIT Santana — Oye Como Va | last aired 2026-11-10 01:24 | normal pick from 2026-11-12 01:24 | request from 2026-11-12 01:24
 WAIT Santana — Samba Pa Ti | last aired 2026-11-10 04:57 | normal pick from 2026-11-12 04:57 | request from 2026-11-12 04:57
 WAIT Sarah McLachlan — Building a Mystery | last aired 2026-11-10 01:28 | normal pick from 2026-11-12 01:28 | request from 2026-11-12 01:28
