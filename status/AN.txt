@@ -1,4 +1,4 @@
-Track status, artists filed under AN (built Wed Nov 11, 1:55 AM PST (09:55 UTC)). Times in UTC.
+Track status, artists filed under AN (built Wed Nov 11, 2:05 AM PST (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Ana Sofia Varela — Fado Vadio (Má Fama) | last aired 2026-11-10 10:19 | normal pick from 2026-11-12 10:19 | request from 2026-11-12 10:19
@@ -16,7 +16,7 @@ OK   Anne Clark — Our Darkness | last aired 2026-11-09 05:32 | normal pick now
 WAIT Annenmaykantereit — Oft gefragt | last aired 2026-11-10 09:25 | normal pick from 2026-11-11 21:25 | request now
 WAIT ANNIE — Heartbeat | last aired 2026-11-10 08:24 | normal pick from 2026-11-11 20:24 | request now
 WAIT ANORAQUE — Ivy | last aired 2026-11-11 00:28 | normal pick from 2026-11-13 00:28 | request from 2026-11-13 00:28
-WAIT Antonio Campo — I Need You More and More (Remastered) | last aired 2026-11-09 09:59 | normal pick from 2026-11-11 09:59 | request from 2026-11-11 09:59
+OK   Antonio Campo — I Need You More and More (Remastered) | last aired 2026-11-09 09:59 | normal pick now | request now
 OK   Antonio Carlos Jobim — The Girl From Ipanema | last aired 2026-11-08 10:18 | normal pick now | request now
 WAIT Antonio Carlos Jobim — Wave | last aired 2026-11-10 10:08 | normal pick from 2026-11-12 10:08 | request from 2026-11-12 10:08
 OK   The Animals — The House of the Rising Sun | last aired 2026-09-29 16:09 | normal pick now | request now

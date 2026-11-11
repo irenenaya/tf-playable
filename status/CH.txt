@@ -1,4 +1,4 @@
-Track status, artists filed under CH (built Wed Nov 11, 1:55 AM PST (09:55 UTC)). Times in UTC.
+Track status, artists filed under CH (built Wed Nov 11, 2:05 AM PST (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Chaka Khan — What Cha' Gonna Do for Me | last aired 2026-11-10 23:46 | normal pick from 2026-11-12 11:46 | request from 2026-11-11 19:46
@@ -17,7 +17,7 @@ WAIT Chavela Vargas — La llorona | last aired 2026-11-10 23:50 | normal pick f
 WAIT Chet Atkins — Why Worry (Album Version) | last aired 2026-11-11 08:21 | normal pick from 2026-11-12 20:21 | request from 2026-11-12 04:21
 OK   Chet Baker — Almost Blue | last aired 2026-11-09 08:27 | normal pick now | request now
 WAIT Chet Baker — My Funny Valentine | last aired 2026-11-09 11:28 | normal pick from 2026-11-11 11:28 | request from 2026-11-11 11:28
-WAIT Chet Baker — You Don't Know What Love Is | last aired 2026-11-11 08:00 | normal pick from 2026-11-12 20:00 | request from 2026-11-12 04:00
+WAIT Chet Baker — You Don't Know What Love Is | last aired 2026-11-11 08:01 | normal pick from 2026-11-12 20:01 | request from 2026-11-12 04:01
 WAIT Chic — Good Times (2018 Remaster) | last aired 2026-11-10 23:59 | normal pick from 2026-11-12 23:59 | request from 2026-11-12 23:59
 OK   Chicago — Hard to Say I'M Sorry / Get Away | last aired 2026-11-02 04:29 | normal pick now | request now
 OK   Chico Buarque — Construção | last aired 2026-11-06 11:55 | normal pick now | request now
@@ -30,7 +30,7 @@ OK   Chris Isaak — Blue Hotel (Remastered Album Version) | last aired 2026-11-
 OK   Chris Isaak — Wicked Game (Remastered Album Version) | last aired 2026-11-06 17:17 | normal pick now | request now
 OK   Chris Snelling — Le onde | last aired 2026-11-08 11:51 | normal pick now | request now
 OK   Chris Whitley — Big Sky Country (Album Version) | last aired 2026-11-06 11:36 | normal pick now | request now
-WAIT Christian Löffler — Lid | last aired 2026-11-11 08:11 | normal pick from 2026-11-12 20:11 | request from 2026-11-12 04:11
+WAIT Christian Löffler — Lid | last aired 2026-11-11 08:13 | normal pick from 2026-11-12 20:13 | request from 2026-11-12 04:13
 OK   Christina Aguilera — Genie In a Bottle | last aired 2026-10-30 14:20 | normal pick now | request now
 OK   Christopher Cross — I Really Don't Know Anymore (2019 Remaster) | last aired 2026-10-31 01:35 | normal pick now | request now
 OK   Christopher Cross — Ride Like the Wind (Album Version) | last aired 2026-10-31 11:00 | normal pick now | request now

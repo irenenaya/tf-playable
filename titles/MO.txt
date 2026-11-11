@@ -1,4 +1,4 @@
-Track status, song titles filed under MO (built Wed Nov 11, 1:55 AM PST (09:55 UTC)). Times in UTC.
+Track status, song titles filed under MO (built Wed Nov 11, 2:05 AM PST (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Molitva — Marija Šerifović | last aired 2026-11-10 05:50 | normal pick from 2026-11-12 05:50 | request from 2026-11-12 05:50
@@ -14,7 +14,7 @@ OK   Moon River — Petra Haden | last aired 2026-11-02 18:46 | normal pick now 
 WAIT Moon Song — Phoebe Bridgers | last aired 2026-11-10 00:24 | normal pick from 2026-11-11 12:24 | request now
 OK   Moonage Daydream (2012 Remaster) — David Bowie | last aired 2026-10-31 12:51 | normal pick now | request now
 OK   Moonbeam Levels (2019 Remaster) — Prince | last aired 2026-11-06 06:04 | normal pick now | request now
-OK   Moonlight in Vermont — Betty Carter | last aired 2026-11-04 04:38 | normal pick now | request now
+WAIT Moonlight in Vermont — Betty Carter | last aired 2026-11-11 09:55 | normal pick from 2026-11-12 21:55 | request from 2026-11-12 05:55
 WAIT Moonlight Shadow — Mike Oldfield | last aired 2026-11-11 03:38 | normal pick from 2026-11-12 15:38 | request from 2026-11-11 23:38
 OK   Mope (Album Version) — Bloodhound Gang | last aired 2026-10-20 13:28 | normal pick now | request now
 OK   MORAK — Manal | last aired 2026-11-01 08:42 | normal pick now | request now

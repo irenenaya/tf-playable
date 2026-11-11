@@ -1,4 +1,4 @@
-Track status, song titles filed under GO (built Wed Nov 11, 1:55 AM PST (09:55 UTC)). Times in UTC.
+Track status, song titles filed under GO (built Wed Nov 11, 2:05 AM PST (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Go Home — Stevie Wonder | last aired 2026-11-02 12:41 | normal pick now | request now
@@ -9,7 +9,7 @@ OK   Gogol — Gonzales | last aired 2026-11-08 02:33 | normal pick now | reques
 OK   Going Down — Freddie King | last aired 2026-11-09 19:50 | normal pick now | request now
 WAIT Going to California (Remaster) — Led Zeppelin | last aired 2026-11-11 00:32 | normal pick from 2026-11-13 00:32 | request from 2026-11-13 00:32
 OK   Gold (2003 Remaster) — Spandau Ballet | last aired 2026-10-28 20:37 | normal pick now | request now
-WAIT Golden Air — Sun's Signature | last aired 2026-11-10 20:10 | normal pick from 2026-11-12 20:10 | request from 2026-11-12 20:10
+WAIT Golden Air — Sun's Signature | last aired 2026-11-10 20:10 | normal pick from 2026-11-12 08:10 | request from 2026-11-11 16:10
 OK   golden hour — Jvke | last aired 2026-10-31 00:19 | normal pick now | request now
 OK   Golden — Jill Scott | last aired 2026-10-30 06:16 | normal pick now | request now
 WAIT Golden Lady — Stevie Wonder | last aired 2026-11-11 09:11 | normal pick from 2026-11-12 21:11 | request from 2026-11-12 05:11
@@ -22,7 +22,7 @@ OK   Goodbye (Live) — toe | last aired 2026-11-08 19:07 | normal pick now | re
 OK   Goodbye Horses - Single — Q Lazzarus | last aired 2026-11-01 20:06 | normal pick now | request now
 WAIT Goodbye Pork Pie Hat (Album Version) — Charles Mingus | last aired 2026-11-11 08:06 | normal pick from 2026-11-12 20:06 | request from 2026-11-12 04:06
 WAIT Goodnight Ladies — Lou Reed | last aired 2026-11-10 08:43 | normal pick from 2026-11-11 20:43 | request now
-WAIT Goodnight Tonight (Single Version) — Wings | last aired 2026-11-11 05:35 | normal pick from 2026-11-12 17:35 | request from 2026-11-12 01:35
+WAIT Goodnight Tonight (Single Version) — Wings | last aired 2026-11-11 05:36 | normal pick from 2026-11-12 17:36 | request from 2026-11-12 01:36
 WAIT Gorecki — Lamb | last aired 2026-11-11 06:52 | normal pick from 2026-11-13 06:52 | request from 2026-11-13 06:52
 OK   Gorilla — Bruno Mars | last aired 2026-11-04 22:45 | normal pick now | request now
 OK   Gosh — Jamie xx | last aired 2026-11-09 03:14 | normal pick now | request now
