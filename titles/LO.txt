@@ -1,4 +1,4 @@
-Track status, song titles filed under LO (built Wed Nov 11, 2:55 PM PST (22:55 UTC)). Times in UTC.
+Track status, song titles filed under LO (built Wed Nov 11, 3:05 PM PST (23:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   L-O-V-E — Nat King Cole | last aired 2026-11-07 03:32 | normal pick now | request now
@@ -31,7 +31,7 @@ OK   Lovin' Every Minute of It — Loverboy | last aired 2026-10-29 12:50 | norm
 WAIT Lovin' You — Minnie Riperton | last aired 2026-11-11 21:53 | normal pick from 2026-11-13 09:53 | request from 2026-11-12 17:53
 WAIT Loving Machine — TV Girl | last aired 2026-11-10 19:27 | normal pick from 2026-11-12 07:27 | request now
 WAIT Low Frequency Thunderstorm Shield — Cognitron | last aired 2026-11-10 18:07 | normal pick from 2026-11-12 06:07 | request now
-WAIT Lowdown (2023 Remaster) — Boz Scaggs | last aired 2026-11-11 21:32 | normal pick from 2026-11-13 09:32 | request from 2026-11-12 17:32
+WAIT Lowdown (2023 Remaster) — Boz Scaggs | last aired 2026-11-11 21:33 | normal pick from 2026-11-13 09:33 | request from 2026-11-12 17:33
 OK   The Lonesome Death of Hattie Carroll — Bob Dylan | last aired 2026-11-08 21:46 | normal pick now | request now
 WAIT The Long Road — Mark Knopfler | last aired 2026-11-11 11:06 | normal pick from 2026-11-12 23:06 | request from 2026-11-12 07:06
 OK   The Look — Roxette | last aired 2026-11-08 04:02 | normal pick now | request now
