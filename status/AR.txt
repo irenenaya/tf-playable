@@ -1,4 +1,4 @@
-Track status, artists filed under AR (built Wed Nov 11, 11:05 AM PST (19:05 UTC)). Times in UTC.
+Track status, artists filed under AR (built Wed Nov 11, 11:15 AM PST (19:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Arcadia — The Promise (2010 Remaster) | last aired 2026-11-11 04:52 | normal pick from 2026-11-12 16:52 | request from 2026-11-12 00:52
@@ -6,7 +6,7 @@ OK   Archivio Storico Fondazione Isabella Scelsi — Anahit Concerto per due ond
 WAIT Arctic Monkeys — 505 | last aired 2026-11-11 04:27 | normal pick from 2026-11-13 04:27 | request from 2026-11-13 04:27
 OK   Arctic Monkeys — Do I Wanna Know? | last aired 2026-11-08 20:57 | normal pick now | request now
 OK   Arctic Monkeys — Fake Tales Of San Francisco | last aired 2026-11-05 08:33 | normal pick now | request now
-OK   Arctic Monkeys — No. 1 Party Anthem | last aired 2026-10-27 17:45 | normal pick now | request now
+WAIT Arctic Monkeys — No. 1 Party Anthem | last aired 2026-11-11 19:06 | normal pick from 2026-11-13 07:06 | request from 2026-11-12 15:06
 OK   Aretha Franklin — Day Dreaming (Album Version) | last aired 2026-11-08 13:00 | normal pick now | request now
 OK   Aretha Franklin — I Say a Little Prayer | last aired 2026-11-08 14:43 | normal pick now | request now
 OK   Aretha Franklin — Precious Lord (Take My Hand) (Part One) | last aired 2026-11-01 21:14 | normal pick now | request now
