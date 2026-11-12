@@ -1,4 +1,4 @@
-Track status, song titles filed under HE (built Thu Nov 12, 3:45 PM PST (23:45 UTC)). Times in UTC.
+Track status, song titles filed under HE (built Thu Nov 12, 3:55 PM PST (23:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   "Heroes" (2017 Remaster) — David Bowie | last aired 2026-10-30 23:45 | normal pick now | request now
@@ -20,7 +20,7 @@ OK   Help You Ann — Lyres | last aired 2026-10-20 18:20 | normal pick now | re
 WAIT Helpless — Crosby, Stills, Nash & Young | last aired 2026-11-12 14:01 | normal pick from 2026-11-14 02:01 | request from 2026-11-13 10:01
 OK   Helplessness Blues — Fleet Foxes | last aired 2026-11-10 23:33 | normal pick now | request now
 OK   Henry Lee (Remastered 2011) — Nick Cave & The Bad Seeds | last aired 2026-11-10 10:31 | normal pick now | request now
-OK   Her Yerde Sen (Akustik) — Zeynep Bastık | last aired 2026-10-31 16:33 | normal pick now | request now
+WAIT Her Yerde Sen (Akustik) — Zeynep Bastık | last aired 2026-11-12 23:42 | normal pick from 2026-11-14 11:42 | request from 2026-11-13 19:42
 OK   Here Comes The Flood (Exposure Fourth Edition: 2021 Stereo Mix) — Robert Fripp | last aired 2026-11-08 03:44 | normal pick now | request now
 OK   Here Comes The Sun (2019 Mix) — The Beatles | last aired 2026-11-05 06:38 | normal pick now | request now
 OK   Heresy (Nine Inch Noize Version) — Nine Inch Nails | last aired 2026-11-10 00:20 | normal pick now | request now
