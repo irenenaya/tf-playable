@@ -1,4 +1,4 @@
-Track status, artists filed under PO (built Thu Nov 12, 7:05 AM PST (15:05 UTC)). Times in UTC.
+Track status, artists filed under PO (built Thu Nov 12, 7:15 AM PST (15:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Polar Sun — Caribou | last aired 2026-11-12 02:59 | normal pick from 2026-11-13 14:59 | request from 2026-11-12 22:59
@@ -14,4 +14,4 @@ OK   Powerwolf — Demons Are a Girl's Best Friend | last aired 2026-10-29 21:36
 OK   The Police — Message In A Bottle (Remastered 2003) | last aired 2026-10-29 17:44 | normal pick now | request now
 OK   The Police — Roxanne (Remastered 2003) | last aired 2026-10-25 23:18 | normal pick now | request now
 OK   The Police — Walking On The Moon (Remastered 2003) | last aired 2026-10-29 21:31 | normal pick now | request now
-OK   The Postal Service — Such Great Heights (Remastered) | last aired 2026-10-31 02:52 | normal pick now | request now
+WAIT The Postal Service — Such Great Heights (Remastered) | last aired 2026-11-12 15:06 | normal pick from 2026-11-14 03:06 | request from 2026-11-13 11:06
