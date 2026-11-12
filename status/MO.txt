@@ -1,8 +1,8 @@
-Track status, artists filed under MO (built Thu Nov 12, 6:15 AM PST (14:15 UTC)). Times in UTC.
+Track status, artists filed under MO (built Thu Nov 12, 6:25 AM PST (14:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Moby — In My Heart | last aired 2026-11-10 12:41 | normal pick now | request now
-WAIT Moby — Natural Blues | last aired 2026-11-11 02:21 | normal pick from 2026-11-12 14:21 | request now
+OK   Moby — Natural Blues | last aired 2026-11-11 02:21 | normal pick now | request now
 WAIT Moby — One of These Mornings | last aired 2026-11-12 02:10 | normal pick from 2026-11-13 14:10 | request from 2026-11-12 22:10
 OK   Modest Mouse — Float On | last aired 2026-11-11 02:06 | normal pick now | request now
 WAIT Moes Haven — Shut Up Your Monkey | last aired 2026-11-12 02:04 | normal pick from 2026-11-13 14:04 | request from 2026-11-12 22:04
