@@ -1,8 +1,8 @@
-Track status, song titles filed under MA (built Thu Nov 12, 1:35 PM PST (21:35 UTC)). Times in UTC.
+Track status, song titles filed under MA (built Thu Nov 12, 1:45 PM PST (21:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Mad World — Gary Jules | last aired 2026-11-12 15:34 | normal pick from 2026-11-14 03:34 | request from 2026-11-13 11:34
-WAIT Mad World — Tears For Fears | last aired 2026-11-12 01:36 | normal pick from 2026-11-13 13:36 | request from 2026-11-12 21:36
+WAIT Mad World — Tears For Fears | last aired 2026-11-12 01:36 | normal pick from 2026-11-13 13:36 | request now
 OK   Madder — Groove Armada | last aired 2026-11-09 20:28 | normal pick now | request now
 OK   Madwoman — Laufey | last aired 2026-11-11 04:13 | normal pick now | request now
 OK   Magic Wanda — Daikaiju | last aired 2026-11-11 03:47 | normal pick now | request now
@@ -28,7 +28,7 @@ WAIT Matte Kudasai — King Crimson | last aired 2026-11-12 12:10 | normal pick 
 OK   Maureen — Martin Ditcham | last aired 2026-08-18 22:36 | normal pick now | request now
 OK   May Ninth — Khruangbin | last aired 2026-11-08 10:32 | normal pick now | request now
 WAIT Maybe I’m Amazed (2011 Remaster) — Paul McCartney | last aired 2026-11-11 13:20 | normal pick from 2026-11-13 01:20 | request now
-WAIT Maybe — The Ink Spots | last aired 2026-11-12 01:40 | normal pick from 2026-11-13 13:40 | request from 2026-11-12 21:40
+WAIT Maybe — The Ink Spots | last aired 2026-11-12 01:40 | normal pick from 2026-11-13 13:40 | request now
 OK   Maybe The Night — Ben&Ben | last aired 2026-11-10 13:19 | normal pick now | request now
 OK   Maybe They Will Sing for Us Tomorrow — Hammock | last aired 2026-11-10 12:06 | normal pick now | request now
 OK   Má Vlast, JB 1:112-Vltava Smetana, Bedřich 伏塔瓦河 史麥塔納 — 江晴 | last aired 2026-09-21 02:37 | normal pick now | request now
