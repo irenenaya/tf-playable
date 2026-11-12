@@ -1,4 +1,4 @@
-Track status, song titles filed under BL (built Thu Nov 12, 12:15 AM PST (08:15 UTC)). Times in UTC.
+Track status, song titles filed under BL (built Thu Nov 12, 12:25 AM PST (08:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Black Diamond — Stratovarius | last aired 2026-11-02 03:41 | normal pick now | request now
@@ -24,7 +24,7 @@ OK   Blue in Green — Miles Davis | last aired 2026-11-10 07:07 | normal pick n
 OK   Blue — LeAnn Rimes | last aired 2026-11-10 02:55 | normal pick now | request now
 OK   Blue Lips — Her's | last aired 2026-10-29 06:47 | normal pick now | request now
 OK   Blue Monday (2016 Remaster) — New Order | last aired 2026-11-02 00:17 | normal pick now | request now
-WAIT Blue Moon Of Kentucky — Bill Monroe & His Blue Grass Boys | last aired 2026-11-10 08:22 | normal pick from 2026-11-12 08:22 | request from 2026-11-12 08:22
+OK   Blue Moon Of Kentucky — Bill Monroe & His Blue Grass Boys | last aired 2026-11-10 08:22 | normal pick now | request now
 OK   Blue Room (Live) — The Orb | last aired 2026-10-24 15:14 | normal pick now | request now
 OK   Blue Velvet — Bobby Vinton | last aired 2026-11-07 20:20 | normal pick now | request now
 WAIT Bluebird — Beach House | last aired 2026-11-11 01:15 | normal pick from 2026-11-12 13:15 | request now
