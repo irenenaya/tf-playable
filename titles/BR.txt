@@ -1,4 +1,4 @@
-Track status, song titles filed under BR (built Thu Nov 12, 4:15 AM PST (12:15 UTC)). Times in UTC.
+Track status, song titles filed under BR (built Thu Nov 12, 4:25 AM PST (12:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Brandenburg Concerto No. 3 in G Major, BWV 1048: I. Allegro — Herbert Waltl | last aired 2026-10-25 05:19 | normal pick now | request now
@@ -6,7 +6,7 @@ OK   Bread and Roses — Judy Collins | last aired 2026-11-09 06:31 | normal pic
 OK   Break The Night With Colour — Richard Ashcroft | last aired 2026-11-08 15:51 | normal pick now | request now
 OK   Breaking Glass (2017 Remaster) — David Bowie | last aired 2026-10-18 12:22 | normal pick now | request now
 WAIT Breaking the Law — Judas Priest | last aired 2026-11-12 01:01 | normal pick from 2026-11-13 13:01 | request from 2026-11-12 21:01
-OK   Breathe (In the Air) — Pink Floyd | last aired 2026-11-08 07:20 | normal pick now | request now
+WAIT Breathe (In the Air) — Pink Floyd | last aired 2026-11-12 12:13 | normal pick from 2026-11-14 00:13 | request from 2026-11-13 08:13
 WAIT Breathe Again — Pop Evil | last aired 2026-11-12 03:15 | normal pick from 2026-11-13 15:15 | request from 2026-11-12 23:15
 OK   Breathing Below Surface (Rerecorded) — Jesse Cook | last aired 2026-11-01 17:54 | normal pick now | request now
 OK   Bridges (Travessia) — Milton Nascimento | last aired 2026-11-09 10:29 | normal pick now | request now
