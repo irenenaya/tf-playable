@@ -1,4 +1,4 @@
-Track status, artists filed under EL (built Thu Nov 12, 3:35 AM PST (11:35 UTC)). Times in UTC.
+Track status, artists filed under EL (built Thu Nov 12, 3:45 AM PST (11:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Electric Light Orchestra — Evil Woman | last aired 2026-11-06 23:57 | normal pick now | request now
@@ -7,13 +7,13 @@ OK   Electric Light Orchestra — Yours Truly, 2095 | last aired 2026-11-09 19:0
 WAIT Elis Regina — Águas De Marco | last aired 2026-11-11 12:46 | normal pick from 2026-11-13 12:46 | request from 2026-11-13 12:46
 OK   Ella Fitzgerald — Bewitched, Bothered And Bewildered | last aired 2026-11-09 05:21 | normal pick now | request now
 OK   Ella Fitzgerald — Bewitched, Bothered And Bewildered (Ella Fitzgerald and Her Famous Orchestra Bewitched, Bothered And Bewildered) | last aired 2026-11-08 07:31 | normal pick now | request now
-OK   Ella Fitzgerald — Summertime | last aired 2026-11-09 18:53 | normal pick now | request now
+WAIT Ella Fitzgerald — Summertime | last aired 2026-11-12 11:35 | normal pick from 2026-11-13 23:35 | request from 2026-11-13 07:35
 WAIT Elliott Smith — Angeles | last aired 2026-11-11 13:09 | normal pick from 2026-11-13 13:09 | request from 2026-11-13 13:09
 WAIT Elliott Smith — Independence Day | last aired 2026-11-11 15:49 | normal pick from 2026-11-13 15:49 | request from 2026-11-13 15:49
 OK   Elton John — Rocket Man (I Think It's Going To Be A Long, Long Time) | last aired 2026-11-08 13:46 | normal pick now | request now
 WAIT Eluvium — Indoor Swimming At The Space Station | last aired 2026-11-12 11:25 | normal pick from 2026-11-14 11:25 | request from 2026-11-14 11:25
 OK   Eluvium — Surrounded by Illusion | last aired 2026-11-08 05:31 | normal pick now | request now
 WAIT Eluvium — Taken | last aired 2026-11-11 12:49 | normal pick from 2026-11-13 00:49 | request now
-OK   Elvis Costello — Almost Blue | last aired 2026-11-09 18:58 | normal pick now | request now
+WAIT Elvis Costello — Almost Blue | last aired 2026-11-12 11:40 | normal pick from 2026-11-13 23:40 | request from 2026-11-13 07:40
 OK   Elvis Costello — Watching The Detectives (Single Version) | last aired 2026-11-05 14:05 | normal pick now | request now
 OK   Elvis Presley — Can't Help Falling in Love | last aired 2026-11-09 05:24 | normal pick now | request now

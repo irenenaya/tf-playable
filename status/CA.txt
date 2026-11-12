@@ -1,10 +1,10 @@
-Track status, artists filed under CA (built Thu Nov 12, 3:35 AM PST (11:35 UTC)). Times in UTC.
+Track status, artists filed under CA (built Thu Nov 12, 3:45 AM PST (11:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Caetano Veloso — O Leãozinho (Ao Vivo) | last aired 2026-11-10 11:01 | normal pick now | request now
 WAIT Caetano Veloso — Tropicália (Remastered 2006) | last aired 2026-11-11 20:18 | normal pick from 2026-11-13 20:18 | request from 2026-11-13 20:18
 OK   Café Tacvba — Eres (Album Version) | last aired 2026-11-10 11:19 | normal pick now | request now
-WAIT Cage The Elephant — What I'm Becoming | last aired 2026-11-10 11:37 | normal pick from 2026-11-12 11:37 | request from 2026-11-12 11:37
+OK   Cage The Elephant — What I'm Becoming | last aired 2026-11-10 11:37 | normal pick now | request now
 OK   Caifanes — Afuera | last aired 2026-11-03 21:03 | normal pick now | request now
 OK   Caifanes — La Negra Tomasa (Bilongo - Version Tropical) | last aired 2026-11-09 16:46 | normal pick now | request now
 OK   Camille — Ta douleur | last aired 2026-11-10 11:10 | normal pick now | request now
@@ -15,7 +15,7 @@ OK   Cardiacs — Big Ship | last aired 2026-11-09 16:54 | normal pick now | req
 OK   Carlos Gardel — Por una Cabeza | last aired 2026-11-10 11:04 | normal pick now | request now
 OK   Carole King — It's Too Late | last aired 2026-11-09 16:30 | normal pick now | request now
 WAIT Carole King — So Far Away | last aired 2026-11-11 14:44 | normal pick from 2026-11-13 14:44 | request from 2026-11-13 14:44
-WAIT Caroline Polachek — Bunny Is A Rider | last aired 2026-11-10 11:41 | normal pick from 2026-11-12 11:41 | request from 2026-11-12 11:41
+OK   Caroline Polachek — Bunny Is A Rider | last aired 2026-11-10 11:41 | normal pick now | request now
 OK   Carter Vail — Ants In My Room | last aired 2026-11-09 02:46 | normal pick now | request now
 WAIT Cartola — As Rosas Não Falam | last aired 2026-11-10 21:58 | normal pick from 2026-11-12 21:58 | request from 2026-11-12 21:58
 OK   Cascada — Everytime We Touch | last aired 2026-11-09 16:43 | normal pick now | request now
