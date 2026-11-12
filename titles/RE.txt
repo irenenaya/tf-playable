@@ -1,4 +1,4 @@
-Track status, song titles filed under RE (built Wed Nov 11, 6:55 PM PST (02:55 UTC Thu)). Times in UTC.
+Track status, song titles filed under RE (built Wed Nov 11, 7:05 PM PST (03:05 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Reason or Rhyme — Bryan Ferry | last aired 2026-10-30 13:15 | normal pick now | request now
@@ -9,7 +9,7 @@ OK   Redemption Day (Album Version) — Johnny Cash | last aired 2026-11-04 13:1
 OK   Regret - À Kader Barry — Ballaké Sissoko | last aired 2026-10-20 17:20 | normal pick now | request now
 OK   Rehab — Amy Winehouse | last aired 2026-11-07 23:01 | normal pick now | request now
 OK   Reminiscing (2002 Digital Remaster) — Little River Band | last aired 2026-10-31 18:50 | normal pick now | request now
-WAIT Rent A Wreck — Suburban Kids With Biblical Names | last aired 2026-11-10 14:59 | normal pick from 2026-11-12 02:59 | request now
+OK   Rent A Wreck — Suburban Kids With Biblical Names | last aired 2026-11-10 14:59 | normal pick now | request now
 WAIT Requiem for Dying Mothers, Pt. 1 — Stars of the Lid | last aired 2026-11-10 18:59 | normal pick from 2026-11-12 18:59 | request from 2026-11-12 18:59
 WAIT Requiem for Dying Mothers, Pt. 2 — Stars of the Lid | last aired 2026-11-11 08:48 | normal pick from 2026-11-13 08:48 | request from 2026-11-13 08:48
 WAIT Resist The Force — Predatory Meerkats | last aired 2026-11-10 15:37 | normal pick from 2026-11-12 03:37 | request now
@@ -18,4 +18,4 @@ OK   Revenge of Instinct — Gesu No Kiwami Otome | last aired 2026-10-16 03:03 
 OK   Revolution 9 (Remastered 2009) — The Beatles | last aired 2026-11-09 21:05 | normal pick now | request now
 OK   Reward — THE TEARDROP EXPLODES | last aired 2026-11-05 23:42 | normal pick now | request now
 OK   Rewind — Wonder Girls | last aired 2026-10-27 10:12 | normal pick now | request now
-WAIT Réu Confesso — Tim Maia | last aired 2026-11-12 00:28 | normal pick from 2026-11-13 12:28 | request from 2026-11-12 20:28
+WAIT Réu Confesso — Tim Maia | last aired 2026-11-12 00:28 | normal pick from 2026-11-14 00:28 | request from 2026-11-14 00:28
