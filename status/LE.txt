@@ -1,4 +1,4 @@
-Track status, artists filed under LE (built Thu Nov 12, 2:55 AM PST (10:55 UTC)). Times in UTC.
+Track status, artists filed under LE (built Thu Nov 12, 3:05 AM PST (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   LeAnn Rimes — Blue | last aired 2026-11-10 02:55 | normal pick now | request now
@@ -15,13 +15,13 @@ OK   Leonard Bernstein — Candide: Overture | last aired 2026-11-10 02:00 | nor
 OK   Leonard Bernstein — The Rite of Spring (1913 Version) - Le Sacre du Printemps (The Rite of Spring): Les augures printaniers (Danses des adolescentes) [The Augurs of Spring (Dance of the Young Girls)] (1913 Version) | last aired 2026-11-10 02:39 | normal pick now | request now
 WAIT Leonard Cohen — Anthem | last aired 2026-11-11 22:45 | normal pick from 2026-11-13 10:45 | request from 2026-11-12 18:45
 OK   Leonard Cohen — Avalanche | last aired 2026-11-04 08:43 | normal pick now | request now
-WAIT Leonard Cohen — Bird on the Wire | last aired 2026-11-10 23:01 | normal pick from 2026-11-12 11:01 | request now
+OK   Leonard Cohen — Bird on the Wire | last aired 2026-11-10 23:01 | normal pick now | request now
 OK   Leonard Cohen — Dance Me to the End of Love | last aired 2026-11-08 01:56 | normal pick now | request now
 OK   Leonard Cohen — Famous Blue Raincoat | last aired 2026-11-09 03:56 | normal pick now | request now
 OK   Leonard Cohen — Hallelujah | last aired 2026-11-02 06:04 | normal pick now | request now
 OK   Leonard Cohen — So Long, Marianne | last aired 2026-11-03 11:37 | normal pick now | request now
 OK   Leonard Cohen — Suzanne | last aired 2026-11-06 17:54 | normal pick now | request now
 OK   Leonard Cohen — Treaty | last aired 2026-11-02 11:40 | normal pick now | request now
-WAIT Lester Flatt, Earl Scruggs — Foggy Mountain Breakdown | last aired 2026-11-10 22:59 | normal pick from 2026-11-12 10:59 | request now
+OK   Lester Flatt, Earl Scruggs — Foggy Mountain Breakdown | last aired 2026-11-10 22:59 | normal pick now | request now
 WAIT Levante — SEI TU | last aired 2026-11-10 23:10 | normal pick from 2026-11-12 11:10 | request now
 WAIT The Leeward Fits — Over the Rainbow (Israel Kamakawiwoʻole Cover) | last aired 2026-11-11 02:46 | normal pick from 2026-11-12 14:46 | request now
