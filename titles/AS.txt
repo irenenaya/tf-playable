@@ -1,4 +1,4 @@
-Track status, song titles filed under AS (built Thu Nov 12, 12:25 AM PST (08:25 UTC)). Times in UTC.
+Track status, song titles filed under AS (built Thu Nov 12, 12:35 AM PST (08:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   A Song for You — Donny Hathaway | last aired 2026-11-07 01:14 | normal pick now | request now
@@ -9,7 +9,7 @@ OK   As (Album Version) — George Michael Duet with Mary J. Blige | last aired 
 OK   As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige — Studio Group | last aired 2026-08-08 23:18 | normal pick now | request now
 WAIT As It Was — Harry Styles | last aired 2026-11-11 13:27 | normal pick from 2026-11-13 01:27 | request from 2026-11-12 09:27
 WAIT As Rosas Não Falam — Cartola | last aired 2026-11-10 21:58 | normal pick from 2026-11-12 21:58 | request from 2026-11-12 21:58
-WAIT As — Stevie Wonder | last aired 2026-11-10 20:34 | normal pick from 2026-11-12 08:34 | request now
+OK   As — Stevie Wonder | last aired 2026-11-10 20:34 | normal pick now | request now
 OK   Ascension (No One's Gonna Love You, So Don't Ever Wonder)[The Tribute][Cut] — Maxwell | last aired 2026-09-05 10:34 | normal pick now | request now
 OK   Asfalt Tango — Fanfare Ciocarlia | last aired 2026-11-09 19:08 | normal pick now | request now
 OK   Asian Dream Song — Joe Hisaishi | last aired 2026-11-08 18:39 | normal pick now | request now
