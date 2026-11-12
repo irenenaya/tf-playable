@@ -1,10 +1,10 @@
-Track status, artists filed under SM (built Thu Nov 12, 10:15 AM PST (18:15 UTC)). Times in UTC.
+Track status, artists filed under SM (built Thu Nov 12, 10:25 AM PST (18:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Smash Mouth — All Star (Album Version) | last aired 2026-10-24 18:00 | normal pick now | request now
 OK   Smash Mouth — Walkin' On The Sun | last aired 2026-10-25 20:07 | normal pick now | request now
 OK   Smith & Mighty — Same | last aired 2026-10-24 17:26 | normal pick now | request now
-OK   Smoke City — Underwater Love | last aired 2026-10-28 11:43 | normal pick now | request now
+WAIT Smoke City — Underwater Love | last aired 2026-11-12 18:14 | normal pick from 2026-11-14 06:14 | request from 2026-11-13 14:14
 OK   The Smashing Pumpkins — 1979 | last aired 2026-10-28 11:38 | normal pick now | request now
 OK   The Smile — The Smoke | last aired 2026-10-31 20:40 | normal pick now | request now
 OK   The Smiths — I Know It's Over | last aired 2026-10-31 20:20 | normal pick now | request now
