@@ -1,4 +1,4 @@
-Track status, song titles filed under HE (built Thu Nov 12, 5:55 AM PST (13:55 UTC)). Times in UTC.
+Track status, song titles filed under HE (built Thu Nov 12, 6:05 AM PST (14:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   "Heroes" (2017 Remaster) — David Bowie | last aired 2026-10-30 23:45 | normal pick now | request now
@@ -17,7 +17,7 @@ OK   Hell — Squirrel Nut Zippers | last aired 2026-10-27 16:51 | normal pick n
 OK   Hella Good — Dorian Electra | last aired 2026-10-25 13:14 | normal pick now | request now
 WAIT Help Me Lose My Mind — Disclosure | last aired 2026-11-11 23:34 | normal pick from 2026-11-13 11:34 | request from 2026-11-12 19:34
 OK   Help You Ann — Lyres | last aired 2026-10-20 18:20 | normal pick now | request now
-OK   Helpless — Crosby, Stills, Nash & Young | last aired 2026-11-06 02:10 | normal pick now | request now
+WAIT Helpless — Crosby, Stills, Nash & Young | last aired 2026-11-12 14:00 | normal pick from 2026-11-14 02:00 | request from 2026-11-13 10:00
 WAIT Helplessness Blues — Fleet Foxes | last aired 2026-11-10 23:33 | normal pick from 2026-11-12 23:33 | request from 2026-11-12 23:33
 OK   Henry Lee (Remastered 2011) — Nick Cave & The Bad Seeds | last aired 2026-11-10 10:31 | normal pick now | request now
 OK   Her Yerde Sen (Akustik) — Zeynep Bastık | last aired 2026-10-31 16:33 | normal pick now | request now
