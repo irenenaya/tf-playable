@@ -1,4 +1,4 @@
-Track status, song titles filed under AL (built Thu Nov 12, 9:35 AM PST (17:35 UTC)). Times in UTC.
+Track status, song titles filed under AL (built Thu Nov 12, 9:45 AM PST (17:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   A Life (1895 - 1915) — Mark Hollis | last aired 2026-11-10 06:33 | normal pick now | request now
@@ -16,7 +16,7 @@ OK   All My Little Words — The Magnetic Fields | last aired 2026-11-10 06:47 |
 OK   All Star (Album Version) — Smash Mouth | last aired 2026-10-24 18:00 | normal pick now | request now
 OK   All Summer — YASSiN & Sean Terrio | last aired 2026-10-15 21:52 | normal pick now | request now
 OK   All The Small Things — blink-182 | last aired 2026-11-04 23:15 | normal pick now | request now
-WAIT All The Way — Kat Edmonson | last aired 2026-11-11 05:44 | normal pick from 2026-11-12 17:44 | request now
+OK   All The Way — Kat Edmonson | last aired 2026-11-11 05:44 | normal pick now | request now
 OK   All Through the Night — Cyndi Lauper | last aired 2026-11-10 19:22 | normal pick now | request now
 OK   All We Are — Matt Nathanson | last aired 2026-11-09 15:39 | normal pick now | request now
 OK   Alles neu (Album Version) — Peter Fox | last aired 2026-10-20 19:34 | normal pick now | request now
