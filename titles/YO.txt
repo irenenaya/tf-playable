@@ -1,4 +1,4 @@
-Track status, song titles filed under YO (built Thu Nov 12, 3:45 AM PST (11:45 UTC)). Times in UTC.
+Track status, song titles filed under YO (built Thu Nov 12, 3:55 AM PST (11:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT You and I — Papooz | last aired 2026-11-11 13:17 | normal pick from 2026-11-13 01:17 | request now
@@ -18,7 +18,7 @@ OK   You Know Me Better Than I Know Myself — Cult With No Name | last aired 20
 OK   You Know, You Know (Album Version) — John McLaughlin | last aired 2026-10-20 05:00 | normal pick now | request now
 OK   You — The Jetzons | last aired 2026-10-28 12:04 | normal pick now | request now
 OK   You're The One That I Want — Angus & Julia Stone | last aired 2026-11-10 10:15 | normal pick now | request now
-OK   Young And Beautiful — Lana Del Rey | last aired 2026-11-06 09:56 | normal pick now | request now
+WAIT Young And Beautiful — Lana Del Rey | last aired 2026-11-12 11:43 | normal pick from 2026-11-13 23:43 | request from 2026-11-13 07:43
 OK   Your Flag Decal Won't Get You into Heaven Anymore — John Prine | last aired 2026-11-04 13:10 | normal pick now | request now
 OK   Your Hand in Mine — Explosions In The Sky | last aired 2026-11-09 07:31 | normal pick now | request now
 OK   Your Latest Trick — Dire Straits | last aired 2026-11-04 07:47 | normal pick now | request now
