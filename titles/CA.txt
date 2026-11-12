@@ -1,8 +1,8 @@
-Track status, song titles filed under CA (built Wed Nov 11, 6:25 PM PST (02:25 UTC Thu)). Times in UTC.
+Track status, song titles filed under CA (built Wed Nov 11, 6:35 PM PST (02:35 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   California Dreamin' (Single Version) — The Mamas & The Papas | last aired 2026-11-09 15:20 | normal pick now | request now
-WAIT Californication — Red Hot Chili Peppers | last aired 2026-11-10 14:33 | normal pick from 2026-11-12 02:33 | request now
+OK   Californication — Red Hot Chili Peppers | last aired 2026-11-10 14:33 | normal pick now | request now
 OK   Call Me — Blondie | last aired 2026-10-30 11:44 | normal pick now | request now
 OK   Call Out My Name — The Weeknd | last aired 2026-10-26 15:43 | normal pick now | request now
 OK   Calling You (Live) — Jeff Buckley | last aired 2026-10-25 22:57 | normal pick now | request now
@@ -19,6 +19,6 @@ OK   Caribou — Polar Sun | last aired 2026-11-01 11:05 | normal pick now | req
 OK   Cariño — The Marías | last aired 2026-11-09 15:53 | normal pick now | request now
 OK   Carnival of the Animals, R. 125: XIII. The Swan — Yo-Yo Ma | last aired 2026-11-10 12:46 | normal pick now | request now
 OK   Carry You — Martin Garrix | last aired 2026-11-09 15:35 | normal pick now | request now
-OK   Cars — Gary Numan | last aired 2026-11-09 20:11 | normal pick now | request now
+WAIT Cars — Gary Numan | last aired 2026-11-12 02:26 | normal pick from 2026-11-13 14:26 | request from 2026-11-12 22:26
 OK   Casimir Pulaski Day — Sufjan Stevens | last aired 2026-11-09 06:51 | normal pick now | request now
 WAIT Caught Up in the Rapture (LP Version) — Anita Baker | last aired 2026-11-10 22:30 | normal pick from 2026-11-12 22:30 | request from 2026-11-12 22:30
