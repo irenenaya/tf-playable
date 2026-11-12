@@ -1,4 +1,4 @@
-Track status, song titles filed under SO (built Thu Nov 12, 7:55 AM PST (15:55 UTC)). Times in UTC.
+Track status, song titles filed under SO (built Thu Nov 12, 8:05 AM PST (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   So Alive — Love and Rockets | last aired 2026-10-29 12:34 | normal pick now | request now
@@ -21,7 +21,7 @@ OK   Somewhere, My Love (Lara's Theme from "Doctor Zhivago") (Album Version) —
 OK   Sonate Pacifique — L'Impératrice | last aired 2026-11-01 18:55 | normal pick now | request now
 WAIT Song 2 — Blur | last aired 2026-11-12 15:28 | normal pick from 2026-11-14 03:28 | request from 2026-11-13 11:28
 WAIT Song for Zula — Phosphorescent | last aired 2026-11-11 13:58 | normal pick from 2026-11-13 13:58 | request from 2026-11-13 13:58
-WAIT Song To The Siren — This Mortal Coil | last aired 2026-11-10 15:56 | normal pick from 2026-11-12 15:56 | request from 2026-11-12 15:56
+OK   Song To The Siren — This Mortal Coil | last aired 2026-11-10 15:56 | normal pick now | request now
 OK   Songbird — Kenny G | last aired 2026-10-11 11:23 | normal pick now | request now
 OK   Soon It Will Be Cold Enough to Build Fires — Emancipator | last aired 2026-10-28 02:36 | normal pick now | request now
 WAIT Souk Eye — Gorillaz | last aired 2026-11-11 17:15 | normal pick from 2026-11-13 05:15 | request now
