@@ -1,4 +1,4 @@
-Track status, artists filed under PO (built Wed Nov 11, 7:05 PM PST (03:05 UTC Thu)). Times in UTC.
+Track status, artists filed under PO (built Wed Nov 11, 7:15 PM PST (03:15 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Polar Sun — Caribou | last aired 2026-11-12 02:58 | normal pick from 2026-11-13 14:58 | request from 2026-11-12 22:58
@@ -9,7 +9,7 @@ OK   Portishead — It Could Be Sweet | last aired 2026-11-09 11:46 | normal pic
 OK   Portishead — Roads | last aired 2026-11-09 10:11 | normal pick now | request now
 OK   Portishead — Sour Times | last aired 2026-11-03 02:46 | normal pick now | request now
 OK   Portishead — Wandering Star | last aired 2026-11-09 10:24 | normal pick now | request now
-OK   Post Malone — Chemical | last aired 2026-10-25 20:42 | normal pick now | request now
+WAIT Post Malone — Chemical | last aired 2026-11-12 03:06 | normal pick from 2026-11-13 15:06 | request from 2026-11-12 23:06
 OK   Powerwolf — Demons Are a Girl's Best Friend | last aired 2026-10-29 21:36 | normal pick now | request now
 OK   The Police — Message In A Bottle (Remastered 2003) | last aired 2026-10-29 17:44 | normal pick now | request now
 OK   The Police — Roxanne (Remastered 2003) | last aired 2026-10-25 23:18 | normal pick now | request now
