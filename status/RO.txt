@@ -1,11 +1,11 @@
-Track status, artists filed under RO (built Thu Nov 12, 4:35 AM PST (12:35 UTC)). Times in UTC.
+Track status, artists filed under RO (built Thu Nov 12, 4:45 AM PST (12:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Robbie Dupree — Steal Away | last aired 2026-11-06 21:32 | normal pick now | request now
 OK   Robbie Robertson — Coyote Dance | last aired 2026-11-09 06:42 | normal pick now | request now
 OK   Robert Fripp — Here Comes The Flood (Exposure Fourth Edition: 2021 Stereo Mix) | last aired 2026-11-08 03:44 | normal pick now | request now
 OK   Robert Johnson — Cross Road Blues | last aired 2026-11-08 03:35 | normal pick now | request now
-OK   Robert Plant — Please Read The Letter | last aired 2026-11-07 22:21 | normal pick now | request now
+WAIT Robert Plant — Please Read The Letter | last aired 2026-11-12 12:37 | normal pick from 2026-11-14 00:37 | request from 2026-11-13 08:37
 WAIT Roberta Flack — Killing Me Softly With His Song | last aired 2026-11-11 15:54 | normal pick from 2026-11-13 15:54 | request from 2026-11-13 15:54
 WAIT Roberta Flack — The First Time Ever I Saw Your Face (2020 Remaster) | last aired 2026-11-12 12:20 | normal pick from 2026-11-14 12:20 | request from 2026-11-14 12:20
 OK   Robin Packalen — Kesärenkaat | last aired 2026-10-28 22:13 | normal pick now | request now

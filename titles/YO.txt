@@ -1,4 +1,4 @@
-Track status, song titles filed under YO (built Thu Nov 12, 4:35 AM PST (12:35 UTC)). Times in UTC.
+Track status, song titles filed under YO (built Thu Nov 12, 4:45 AM PST (12:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT You and I — Papooz | last aired 2026-11-11 13:17 | normal pick from 2026-11-13 01:17 | request now
@@ -24,5 +24,5 @@ OK   Your Hand in Mine — Explosions In The Sky | last aired 2026-11-09 07:31 |
 OK   Your Latest Trick — Dire Straits | last aired 2026-11-04 07:47 | normal pick now | request now
 OK   Your Love Is King — Serge Clivio | last aired 2026-10-21 15:15 | normal pick now | request now
 OK   Your Mrs — JAY1 | last aired 2026-11-10 01:10 | normal pick now | request now
-WAIT Your Neighborhood Spaceman — Peeping Tom | last aired 2026-11-11 00:40 | normal pick from 2026-11-12 12:40 | request now
+OK   Your Neighborhood Spaceman — Peeping Tom | last aired 2026-11-11 00:40 | normal pick now | request now
 OK   Yours Truly, 2095 — Electric Light Orchestra | last aired 2026-11-09 19:01 | normal pick now | request now
