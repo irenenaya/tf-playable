@@ -1,11 +1,11 @@
-Track status, artists filed under RI (built Thu Nov 12, 12:15 PM PST (20:15 UTC)). Times in UTC.
+Track status, artists filed under RI (built Thu Nov 12, 12:25 PM PST (20:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Ricchi E Poveri — Sarà perché ti amo | last aired 2026-11-12 16:47 | normal pick from 2026-11-14 04:47 | request from 2026-11-13 12:47
 OK   Richard Ashcroft — Break The Night With Colour | last aired 2026-11-08 15:51 | normal pick now | request now
 OK   Richard O Brien — The Time Warp | last aired 2026-11-08 16:03 | normal pick now | request now
 OK   Richard Wagner — Wagner: Tristan und Isolde - Wagner: Tristan und Isolde: Prelude - Orchestra (Act One) | last aired 2026-10-29 23:18 | normal pick now | request now
-OK   Rick Astley — Never Gonna Give You Up | last aired 2026-11-08 15:47 | normal pick now | request now
+WAIT Rick Astley — Never Gonna Give You Up | last aired 2026-11-12 20:19 | normal pick from 2026-11-14 08:19 | request from 2026-11-13 16:19
 OK   Rick Springfield — Jessie's Girl | last aired 2026-11-08 16:00 | normal pick now | request now
 OK   Ride — Vapour Trail | last aired 2026-11-08 06:08 | normal pick now | request now
 OK   Rihanna — Umbrella (Album Version) | last aired 2026-11-08 15:55 | normal pick now | request now
