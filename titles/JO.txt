@@ -1,8 +1,8 @@
-Track status, song titles filed under JO (built Wed Nov 11, 5:45 PM PST (01:45 UTC Thu)). Times in UTC.
+Track status, song titles filed under JO (built Wed Nov 11, 5:55 PM PST (01:55 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Joe Hisaishi: Spring — Lang Lang | last aired 2026-11-11 06:59 | normal pick from 2026-11-12 18:59 | request from 2026-11-12 02:59
-OK   Johnny B. Goode — Chuck Berry | last aired 2026-11-03 12:08 | normal pick now | request now
+WAIT Johnny B. Goode — Chuck Berry | last aired 2026-11-12 01:48 | normal pick from 2026-11-13 13:48 | request from 2026-11-12 21:48
 WAIT JoJo (2023 Remaster) — Boz Scaggs | last aired 2026-11-11 11:00 | normal pick from 2026-11-12 23:00 | request from 2026-11-12 07:00
 OK   Jolene — Dolly Parton | last aired 2026-10-30 21:59 | normal pick now | request now
 WAIT Journey In Satchidananda — Alice Coltrane | last aired 2026-11-10 07:30 | normal pick from 2026-11-12 07:30 | request from 2026-11-12 07:30
