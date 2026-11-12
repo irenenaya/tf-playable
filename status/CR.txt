@@ -1,4 +1,4 @@
-Track status, artists filed under CR (built Thu Nov 12, 5:45 AM PST (13:45 UTC)). Times in UTC.
+Track status, artists filed under CR (built Thu Nov 12, 5:55 AM PST (13:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Crazy Town — Butterfly | last aired 2026-10-21 04:21 | normal pick now | request now
@@ -6,7 +6,7 @@ OK   Creed — With Arms Wide Open | last aired 2026-11-06 06:31 | normal pick n
 OK   Creedence Clearwater Revival — Bad Moon Rising (Remastered 1985) | last aired 2026-11-05 21:39 | normal pick now | request now
 OK   Creedence Clearwater Revival — Cotton Fields | last aired 2026-11-06 03:46 | normal pick now | request now
 OK   Crosby, Stills, Nash & Young — Helpless | last aired 2026-11-06 02:10 | normal pick now | request now
-OK   Crowded House — Don't Dream It's Over | last aired 2026-11-05 20:23 | normal pick now | request now
+WAIT Crowded House — Don't Dream It's Over | last aired 2026-11-12 13:52 | normal pick from 2026-11-14 01:52 | request from 2026-11-13 09:52
 OK   The Cramps — Goo Goo Muck | last aired 2026-10-31 13:15 | normal pick now | request now
 OK   The Cranberries — Dreams | last aired 2026-11-05 23:21 | normal pick now | request now
 OK   The Crystal Method — Busy Child | last aired 2026-10-20 02:04 | normal pick now | request now
