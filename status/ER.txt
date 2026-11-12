@@ -1,7 +1,7 @@
-Track status, artists filed under ER (built Wed Nov 11, 10:05 PM PST (06:05 UTC Thu)). Times in UTC.
+Track status, artists filed under ER (built Wed Nov 11, 10:15 PM PST (06:15 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Eric B. & Rakim — Paid In Full | last aired 2026-11-10 18:09 | normal pick from 2026-11-12 06:09 | request now
+OK   Eric B. & Rakim — Paid In Full | last aired 2026-11-10 18:09 | normal pick now | request now
 WAIT Eric Clapton — Change the World | last aired 2026-11-11 09:16 | normal pick from 2026-11-13 09:16 | request from 2026-11-13 09:16
 WAIT Erik Grönwall — House of the Rising Sun | last aired 2026-11-11 09:35 | normal pick from 2026-11-12 21:35 | request now
 WAIT Erik Wøllo — Computerlove | last aired 2026-11-11 07:43 | normal pick from 2026-11-12 19:43 | request now
