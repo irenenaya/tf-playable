@@ -1,4 +1,4 @@
-Track status, song titles filed under LE (built Wed Nov 11, 7:35 PM PST (03:35 UTC Thu)). Times in UTC.
+Track status, song titles filed under LE (built Wed Nov 11, 7:45 PM PST (03:45 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Le Chant des oiseaux — La Fenice | last aired 2026-10-02 15:12 | normal pick now | request now
@@ -7,7 +7,7 @@ OK   Le onde — Chris Snelling | last aired 2026-11-08 11:51 | normal pick now 
 OK   Le Pianiste de Varsovie — Gilbert Bécaud | last aired 2026-11-05 15:31 | normal pick now | request now
 OK   Le vent nous portera — Sophie Hunger | last aired 2026-11-08 09:29 | normal pick now | request now
 OK   Lean On Me — Club Nouveau | last aired 2026-10-25 09:53 | normal pick now | request now
-WAIT leavemealone — Fred again.. | last aired 2026-11-10 15:44 | normal pick from 2026-11-12 03:44 | request now
+OK   leavemealone — Fred again.. | last aired 2026-11-10 15:44 | normal pick now | request now
 OK   Leaves — Ben&Ben | last aired 2026-11-10 04:25 | normal pick now | request now
 WAIT Lebanese Blonde — Thievery Corporation | last aired 2026-11-10 14:17 | normal pick from 2026-11-12 14:17 | request from 2026-11-12 14:17
 WAIT Led s severa — Big Foot Mama | last aired 2026-11-11 19:58 | normal pick from 2026-11-13 07:58 | request from 2026-11-12 15:58

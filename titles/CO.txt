@@ -1,4 +1,4 @@
-Track status, song titles filed under CO (built Wed Nov 11, 7:35 PM PST (03:35 UTC Thu)). Times in UTC.
+Track status, song titles filed under CO (built Wed Nov 11, 7:45 PM PST (03:45 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Coat of Many Colors — Dolly Parton | last aired 2026-11-07 01:20 | normal pick now | request now
@@ -16,9 +16,9 @@ WAIT Como É Grande o Meu Amor por Você — Raquel Tavares | last aired 2026-11
 OK   Comptine d'un autre été, l'après-midi — Yann Tiersen | last aired 2026-11-08 11:09 | normal pick now | request now
 OK   Computer Incantations for World Peace — Jean-Luc Ponty | last aired 2026-10-28 08:54 | normal pick now | request now
 OK   Computer Love (2009 Remaster) — Kraftwerk | last aired 2026-11-05 18:56 | normal pick now | request now
-WAIT Computerlove — Erik Wøllo | last aired 2026-11-11 07:43 | normal pick from 2026-11-12 19:43 | request from 2026-11-12 03:43
+WAIT Computerlove — Erik Wøllo | last aired 2026-11-11 07:43 | normal pick from 2026-11-12 19:43 | request now
 OK   Concrete Over Water — Jockstrap | last aired 2026-11-10 00:32 | normal pick now | request now
-OK   Construção — Chico Buarque | last aired 2026-11-06 11:55 | normal pick now | request now
+WAIT Construção — Chico Buarque | last aired 2026-11-12 03:36 | normal pick from 2026-11-13 15:36 | request from 2026-11-12 23:36
 OK   Cool Change — Little River Band | last aired 2026-10-28 08:49 | normal pick now | request now
 OK   Cool Down — Bernard Purdie | last aired 2026-11-01 03:27 | normal pick now | request now
 OK   Corcovado (Quiet Nights Of Quiet Stars) — Stan Getz | last aired 2026-11-09 10:02 | normal pick now | request now
