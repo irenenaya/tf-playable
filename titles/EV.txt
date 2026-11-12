@@ -1,11 +1,11 @@
-Track status, song titles filed under EV (built Thu Nov 12, 12:25 PM PST (20:25 UTC)). Times in UTC.
+Track status, song titles filed under EV (built Thu Nov 12, 12:35 PM PST (20:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   (Every Time I Turn Around) Back In Love Again (Album Version) — L.T.D. | last aired 2026-10-24 08:22 | normal pick now | request now
 WAIT Even In The Quietest Moments — Supertramp | last aired 2026-11-12 16:14 | normal pick from 2026-11-14 04:14 | request from 2026-11-13 12:14
 OK   Evensong — Solarstone | last aired 2026-11-10 09:56 | normal pick now | request now
 OK   Eventually — P!nk | last aired 2026-10-19 22:46 | normal pick now | request now
-OK   Everlong — Foo Fighters | last aired 2026-11-07 03:11 | normal pick now | request now
+WAIT Everlong — Foo Fighters | last aired 2026-11-12 20:28 | normal pick from 2026-11-14 20:28 | request from 2026-11-14 20:28
 WAIT Everybody Loves Somebody — Dean Martin | last aired 2026-11-12 08:57 | normal pick from 2026-11-14 08:57 | request from 2026-11-14 08:57
 OK   Everybody Loves the Sunshine — DJ Cam Quartet | last aired 2026-11-05 20:42 | normal pick now | request now
 WAIT Everybody Loves The Sunshine — Roy Ayers Ubiquity | last aired 2026-11-11 22:54 | normal pick from 2026-11-13 22:54 | request from 2026-11-13 22:54
@@ -13,7 +13,7 @@ OK   Everybody Wants To Rule The World — Tears For Fears | last aired 2026-11-
 WAIT Everybody's Coming to My House (Live) — David Byrne | last aired 2026-11-11 19:44 | normal pick from 2026-11-13 07:44 | request now
 WAIT Everybody's Got To Learn Sometime — The Korgis | last aired 2026-11-12 17:21 | normal pick from 2026-11-14 05:21 | request from 2026-11-13 13:21
 OK   Everything Is Everything — Booker T. Jones | last aired 2026-11-09 12:37 | normal pick now | request now
-WAIT Everything You Know Is Wrong — Weird Al Yankovic | last aired 2026-11-12 00:32 | normal pick from 2026-11-13 12:32 | request from 2026-11-12 20:32
+WAIT Everything You Know Is Wrong — Weird Al Yankovic | last aired 2026-11-12 00:32 | normal pick from 2026-11-13 12:32 | request now
 OK   Everything Zen (Remastered) — Bush | last aired 2026-11-03 04:02 | normal pick now | request now
 OK   Everytime We Touch — Cascada | last aired 2026-11-09 16:43 | normal pick now | request now
 OK   Evil Woman — Electric Light Orchestra | last aired 2026-11-06 23:57 | normal pick now | request now
