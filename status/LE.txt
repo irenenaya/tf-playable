@@ -1,8 +1,8 @@
-Track status, artists filed under LE (built Thu Nov 12, 3:05 AM PST (11:05 UTC)). Times in UTC.
+Track status, artists filed under LE (built Thu Nov 12, 3:15 AM PST (11:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   LeAnn Rimes — Blue | last aired 2026-11-10 02:55 | normal pick now | request now
-WAIT Lebanon Hanover — Babes of the 80s (She Past Away) | last aired 2026-11-10 23:14 | normal pick from 2026-11-12 11:14 | request now
+OK   Lebanon Hanover — Babes of the 80s (She Past Away) | last aired 2026-11-10 23:14 | normal pick now | request now
 WAIT Led Zeppelin — Going to California (Remaster) | last aired 2026-11-11 00:32 | normal pick from 2026-11-13 00:32 | request from 2026-11-13 00:32
 WAIT Led Zeppelin — Over the Hills and Far Away (Remaster) | last aired 2026-11-10 23:05 | normal pick from 2026-11-12 23:05 | request from 2026-11-12 23:05
 WAIT Led Zeppelin — Stairway to Heaven (Remaster) | last aired 2026-11-11 23:12 | normal pick from 2026-11-13 11:12 | request from 2026-11-12 19:12
@@ -23,5 +23,5 @@ OK   Leonard Cohen — So Long, Marianne | last aired 2026-11-03 11:37 | normal 
 OK   Leonard Cohen — Suzanne | last aired 2026-11-06 17:54 | normal pick now | request now
 OK   Leonard Cohen — Treaty | last aired 2026-11-02 11:40 | normal pick now | request now
 OK   Lester Flatt, Earl Scruggs — Foggy Mountain Breakdown | last aired 2026-11-10 22:59 | normal pick now | request now
-WAIT Levante — SEI TU | last aired 2026-11-10 23:10 | normal pick from 2026-11-12 11:10 | request now
+OK   Levante — SEI TU | last aired 2026-11-10 23:10 | normal pick now | request now
 WAIT The Leeward Fits — Over the Rainbow (Israel Kamakawiwoʻole Cover) | last aired 2026-11-11 02:46 | normal pick from 2026-11-12 14:46 | request now
