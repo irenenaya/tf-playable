@@ -1,4 +1,4 @@
-Track status, artists filed under BI (built Wed Nov 11, 11:55 PM PST (07:55 UTC Thu)). Times in UTC.
+Track status, artists filed under BI (built Thu Nov 12, 12:05 AM PST (08:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Bicep — Apricots | last aired 2026-11-10 08:18 | normal pick from 2026-11-12 08:18 | request from 2026-11-12 08:18
@@ -6,9 +6,9 @@ OK   Big Bad Voodoo Daddy — Why Me? | last aired 2026-11-08 17:22 | normal pic
 OK   Big Data — Put Me to Work | last aired 2026-11-03 03:42 | normal pick now | request now
 WAIT Big Foot Mama — Led s severa | last aired 2026-11-11 19:58 | normal pick from 2026-11-13 07:58 | request from 2026-11-12 15:58
 WAIT Big Foot Mama — Obseden z njo | last aired 2026-11-11 20:27 | normal pick from 2026-11-13 08:27 | request from 2026-11-12 16:27
-WAIT Big Thief — Mary | last aired 2026-11-10 08:02 | normal pick from 2026-11-12 08:02 | request from 2026-11-12 08:02
+OK   Big Thief — Mary | last aired 2026-11-10 08:02 | normal pick now | request now
 OK   Bikini Kill — Rebel Girl | last aired 2026-11-08 17:03 | normal pick now | request now
-WAIT Bill Callahan — Riding For The Feeling | last aired 2026-11-10 07:56 | normal pick from 2026-11-12 07:56 | request from 2026-11-12 07:56
+OK   Bill Callahan — Riding For The Feeling | last aired 2026-11-10 07:56 | normal pick now | request now
 OK   Bill Evans — Peace Piece (Album Version) | last aired 2026-11-10 06:54 | normal pick now | request now
 WAIT Bill Monroe & His Blue Grass Boys — Blue Moon Of Kentucky | last aired 2026-11-10 08:22 | normal pick from 2026-11-12 08:22 | request from 2026-11-12 08:22
 OK   Bill Withers — Ain't No Sunshine (Album Version) | last aired 2026-11-10 07:01 | normal pick now | request now
