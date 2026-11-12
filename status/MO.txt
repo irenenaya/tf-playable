@@ -1,15 +1,15 @@
-Track status, artists filed under MO (built Thu Nov 12, 6:05 AM PST (14:05 UTC)). Times in UTC.
+Track status, artists filed under MO (built Thu Nov 12, 6:15 AM PST (14:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Moby — In My Heart | last aired 2026-11-10 12:41 | normal pick now | request now
 WAIT Moby — Natural Blues | last aired 2026-11-11 02:21 | normal pick from 2026-11-12 14:21 | request now
 WAIT Moby — One of These Mornings | last aired 2026-11-12 02:10 | normal pick from 2026-11-13 14:10 | request from 2026-11-12 22:10
-WAIT Modest Mouse — Float On | last aired 2026-11-11 02:06 | normal pick from 2026-11-12 14:06 | request now
+OK   Modest Mouse — Float On | last aired 2026-11-11 02:06 | normal pick now | request now
 WAIT Moes Haven — Shut Up Your Monkey | last aired 2026-11-12 02:04 | normal pick from 2026-11-13 14:04 | request from 2026-11-12 22:04
-WAIT Moloko — Being Is Bewildering | last aired 2026-11-11 02:10 | normal pick from 2026-11-12 14:10 | request now
+OK   Moloko — Being Is Bewildering | last aired 2026-11-11 02:10 | normal pick now | request now
 OK   Moloko — Over & Over | last aired 2026-11-09 05:42 | normal pick now | request now
 WAIT Moloko — The Time Is Now | last aired 2026-11-12 02:13 | normal pick from 2026-11-13 14:13 | request from 2026-11-12 22:13
-WAIT Monster Magnet — Nod Scene | last aired 2026-11-11 02:14 | normal pick from 2026-11-12 14:14 | request now
+OK   Monster Magnet — Nod Scene | last aired 2026-11-11 02:14 | normal pick now | request now
 WAIT Montaigne — I Am Not an End | last aired 2026-11-12 02:06 | normal pick from 2026-11-13 14:06 | request from 2026-11-12 22:06
 OK   Montaigne — Technicolour | last aired 2026-10-31 16:35 | normal pick now | request now
 WAIT Morcheeba — Trigger Hippie | last aired 2026-11-12 06:12 | normal pick from 2026-11-13 18:12 | request from 2026-11-13 02:12
