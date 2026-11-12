@@ -1,4 +1,4 @@
-Track status, song titles filed under BO (built Thu Nov 12, 6:35 AM PST (14:35 UTC)). Times in UTC.
+Track status, song titles filed under BO (built Thu Nov 12, 6:45 AM PST (14:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Bocca di rosa — Fabrizio De Andrè | last aired 2026-11-12 06:01 | normal pick from 2026-11-13 18:01 | request from 2026-11-13 02:01
@@ -8,7 +8,7 @@ OK   Bohemian Rhapsody — Pellek | last aired 2026-11-07 16:03 | normal pick no
 OK   Boilermaker — Royal Blood | last aired 2026-11-08 04:14 | normal pick now | request now
 OK   Boléro, M. 81 — Berliner Philharmoniker | last aired 2026-11-01 18:06 | normal pick now | request now
 WAIT Bonfire — Lamb | last aired 2026-11-11 04:17 | normal pick from 2026-11-13 04:17 | request from 2026-11-13 04:17
-WAIT Boom Boom — John Lee Hooker | last aired 2026-11-11 02:39 | normal pick from 2026-11-12 14:39 | request now
+OK   Boom Boom — John Lee Hooker | last aired 2026-11-11 02:39 | normal pick now | request now
 OK   Bop to the Top — Ashley Tisdale | last aired 2026-10-19 22:50 | normal pick now | request now
 WAIT Born in the U.S.A. — Bruce Springsteen | last aired 2026-11-11 03:42 | normal pick from 2026-11-12 15:42 | request now
 OK   Born on a Train — The Magnetic Fields | last aired 2026-11-10 08:14 | normal pick now | request now
