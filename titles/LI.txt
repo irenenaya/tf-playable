@@ -1,4 +1,4 @@
-Track status, song titles filed under LI (built Thu Nov 12, 12:35 AM PST (08:35 UTC)). Times in UTC.
+Track status, song titles filed under LI (built Thu Nov 12, 12:45 AM PST (08:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Li Beirut (after Joaquín Rodrigo) — Karim Sulayman | last aired 2026-11-11 05:47 | normal pick from 2026-11-12 17:47 | request now
@@ -26,4 +26,4 @@ WAIT Live For You — Thee Sacred Souls | last aired 2026-11-10 14:13 | normal p
 WAIT Live Forever — Oasis | last aired 2026-11-12 00:47 | normal pick from 2026-11-13 12:47 | request from 2026-11-12 20:47
 WAIT Livin' On A Prayer — Bon Jovi | last aired 2026-11-10 23:29 | normal pick from 2026-11-12 23:29 | request from 2026-11-12 23:29
 OK   Living For The City (Album Version) — Stevie Wonder | last aired 2026-11-01 21:22 | normal pick now | request now
-WAIT Living the Dream — Steve Roach | last aired 2026-11-10 20:41 | normal pick from 2026-11-12 08:41 | request now
+OK   Living the Dream — Steve Roach | last aired 2026-11-10 20:41 | normal pick now | request now
