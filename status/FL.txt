@@ -1,4 +1,4 @@
-Track status, artists filed under FL (built Thu Nov 12, 12:55 AM PST (08:55 UTC)). Times in UTC.
+Track status, artists filed under FL (built Thu Nov 12, 1:05 AM PST (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Fleet Foxes — Helplessness Blues | last aired 2026-11-10 23:33 | normal pick from 2026-11-12 23:33 | request from 2026-11-12 23:33
@@ -8,7 +8,7 @@ WAIT Fleetwood Mac — Albatross | last aired 2026-11-11 13:51 | normal pick fro
 WAIT Fleetwood Mac — Dreams (2001 Remaster) | last aired 2026-11-12 00:11 | normal pick from 2026-11-13 12:11 | request from 2026-11-12 20:11
 OK   Fleetwood Mac — Dreams (2004 Remaster) | last aired 2026-11-09 22:20 | normal pick now | request now
 OK   Fleetwood Mac — Go Your Own Way (2004 Remaster) | last aired 2026-11-09 13:47 | normal pick now | request now
-WAIT Fleetwood Mac — I Know I'm Not Wrong | last aired 2026-11-10 09:05 | normal pick from 2026-11-12 09:05 | request from 2026-11-12 09:05
+OK   Fleetwood Mac — I Know I'm Not Wrong | last aired 2026-11-10 09:05 | normal pick now | request now
 OK   Fleetwood Mac — Sara | last aired 2026-11-08 22:36 | normal pick now | request now
 OK   Fleetwood Mac — That's All for Everyone | last aired 2026-11-10 08:27 | normal pick now | request now
 WAIT Fleetwood Mac — The Ledge | last aired 2026-11-10 23:44 | normal pick from 2026-11-12 11:44 | request now
