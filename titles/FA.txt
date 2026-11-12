@@ -1,10 +1,10 @@
-Track status, song titles filed under FA (built Wed Nov 11, 6:35 PM PST (02:35 UTC Thu)). Times in UTC.
+Track status, song titles filed under FA (built Wed Nov 11, 6:45 PM PST (02:45 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Face to Face — Daft Punk | last aired 2026-11-09 17:30 | normal pick now | request now
 WAIT Facing East — Thievery Corporation | last aired 2026-11-10 15:52 | normal pick from 2026-11-12 15:52 | request from 2026-11-12 15:52
 WAIT Fade Into You — Mazzy Star | last aired 2026-11-11 06:26 | normal pick from 2026-11-13 06:26 | request from 2026-11-13 06:26
-OK   Fade To Grey — Visage | last aired 2026-11-08 19:51 | normal pick now | request now
+WAIT Fade To Grey — Visage | last aired 2026-11-12 02:34 | normal pick from 2026-11-13 14:34 | request from 2026-11-12 22:34
 WAIT Fado Vadio (Má Fama) — Ana Sofia Varela | last aired 2026-11-10 10:19 | normal pick from 2026-11-12 10:19 | request from 2026-11-12 10:19
 OK   Fail Upward For A Change — Tom Konkle | last aired 2026-11-04 21:43 | normal pick now | request now
 OK   Fairytale — Alexander Rybak | last aired 2026-11-09 01:49 | normal pick now | request now
@@ -17,7 +17,7 @@ OK   Falling Slowly (Album Version) — Glen Hansard and Marketa Irglova | last 
 OK   Familiar — Nils Frahm | last aired 2026-11-09 12:04 | normal pick now | request now
 OK   Family Portrait — P!nk | last aired 2026-10-14 13:43 | normal pick now | request now
 OK   Famous Blue Raincoat — Leonard Cohen | last aired 2026-11-09 03:56 | normal pick now | request now
-WAIT Fancy — Reba McEntire | last aired 2026-11-10 14:39 | normal pick from 2026-11-12 02:39 | request now
+OK   Fancy — Reba McEntire | last aired 2026-11-10 14:39 | normal pick now | request now
 WAIT Fantas — Caterina Barbieri | last aired 2026-11-10 22:05 | normal pick from 2026-11-12 22:05 | request from 2026-11-12 22:05
 WAIT Fantasiestücke, Op. 73 - Schumann: Fantasiestücke, Op. 73: No. 1, Zart und mit Ausdruck — Sol Gabetta | last aired 2026-11-10 10:04 | normal pick from 2026-11-12 10:04 | request from 2026-11-12 10:04
 WAIT Fast Car (2015 Remaster) — Tracy Chapman | last aired 2026-11-11 21:11 | normal pick from 2026-11-13 21:11 | request from 2026-11-13 21:11

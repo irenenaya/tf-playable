@@ -1,4 +1,4 @@
-Track status, song titles filed under ST (built Wed Nov 11, 6:35 PM PST (02:35 UTC Thu)). Times in UTC.
+Track status, song titles filed under ST (built Wed Nov 11, 6:45 PM PST (02:45 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT S.T.A.Y. — Hans Zimmer | last aired 2026-11-10 12:15 | normal pick from 2026-11-12 12:15 | request from 2026-11-12 12:15
@@ -40,4 +40,4 @@ WAIT Stressed Out — twenty one pilots | last aired 2026-11-11 18:31 | normal p
 WAIT Strings of Light — Yussef Kamaal | last aired 2026-11-11 17:34 | normal pick from 2026-11-13 05:34 | request from 2026-11-12 13:34
 OK   Stripsearch — Faith No More | last aired 2026-10-20 19:48 | normal pick now | request now
 WAIT Stuck In The Middle With You — Stealers Wheel | last aired 2026-11-10 20:58 | normal pick from 2026-11-12 20:58 | request from 2026-11-12 20:58
-WAIT Stupid Cupid — Red Velvet | last aired 2026-11-10 14:44 | normal pick from 2026-11-12 02:44 | request now
+OK   Stupid Cupid — Red Velvet | last aired 2026-11-10 14:44 | normal pick now | request now
