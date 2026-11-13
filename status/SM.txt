@@ -1,7 +1,7 @@
-Track status, artists filed under SM (built Fri Nov 13, 2:05 AM PST (10:05 UTC)). Times in UTC.
+Track status, artists filed under SM (built Fri Nov 13, 2:15 AM PST (10:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Smash Mouth — All Star (Album Version) | last aired 2026-10-24 18:00 | normal pick now | request now
+WAIT Smash Mouth — All Star (Album Version) | last aired 2026-11-13 10:04 | normal pick from 2026-11-14 22:04 | request from 2026-11-14 06:04
 WAIT Smash Mouth — Walkin' On The Sun | last aired 2026-11-13 01:38 | normal pick from 2026-11-14 13:38 | request from 2026-11-13 21:38
 WAIT Smith & Mighty — Same | last aired 2026-11-12 23:12 | normal pick from 2026-11-14 11:12 | request from 2026-11-13 19:12
 WAIT Smoke City — Underwater Love | last aired 2026-11-12 18:15 | normal pick from 2026-11-14 06:15 | request from 2026-11-13 14:15

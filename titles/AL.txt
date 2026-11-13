@@ -1,4 +1,4 @@
-Track status, song titles filed under AL (built Fri Nov 13, 2:05 AM PST (10:05 UTC)). Times in UTC.
+Track status, song titles filed under AL (built Fri Nov 13, 2:15 AM PST (10:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   A Life (1895 - 1915) — Mark Hollis | last aired 2026-11-10 06:33 | normal pick now | request now
@@ -13,7 +13,7 @@ WAIT All I Wanna Do — Sheryl Crow | last aired 2026-11-12 01:31 | normal pick 
 OK   All I Want for Christmas Is You — Mariah Carey | last aired 2026-11-07 21:06 | normal pick now | request now
 WAIT All Melody — Nils Frahm | last aired 2026-11-13 07:25 | normal pick from 2026-11-15 07:25 | request from 2026-11-15 07:25
 OK   All My Little Words — The Magnetic Fields | last aired 2026-11-10 06:47 | normal pick now | request now
-OK   All Star (Album Version) — Smash Mouth | last aired 2026-10-24 18:00 | normal pick now | request now
+WAIT All Star (Album Version) — Smash Mouth | last aired 2026-11-13 10:04 | normal pick from 2026-11-14 22:04 | request from 2026-11-14 06:04
 OK   All Summer — YASSiN & Sean Terrio | last aired 2026-10-15 21:52 | normal pick now | request now
 OK   All The Small Things — blink-182 | last aired 2026-11-04 23:15 | normal pick now | request now
 OK   All The Way — Kat Edmonson | last aired 2026-11-11 05:44 | normal pick now | request now
