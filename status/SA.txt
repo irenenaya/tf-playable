@@ -1,4 +1,4 @@
-Track status, artists filed under SA (built Fri Nov 13, 8:15 AM PST (16:15 UTC)). Times in UTC.
+Track status, artists filed under SA (built Fri Nov 13, 8:25 AM PST (16:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Sabaton — The Last Stand | last aired 2026-11-11 01:08 | normal pick now | request now
@@ -8,7 +8,7 @@ OK   Sabrina Carpenter — Taste | last aired 2026-11-09 14:06 | normal pick now
 WAIT Sade — By Your Side (Remastered Version) | last aired 2026-11-13 14:12 | normal pick from 2026-11-15 14:12 | request from 2026-11-15 14:12
 WAIT Sade — Cherish the Day (Remastered Version) | last aired 2026-11-12 10:32 | normal pick from 2026-11-14 10:32 | request from 2026-11-14 10:32
 OK   Sade — Is It a Crime (Remastered Version) | last aired 2026-11-10 05:02 | normal pick now | request now
-WAIT Sade — Kiss of Life (Remastered Version) | last aired 2026-11-11 16:17 | normal pick from 2026-11-13 16:17 | request from 2026-11-13 16:17
+OK   Sade — Kiss of Life (Remastered Version) | last aired 2026-11-11 16:17 | normal pick now | request now
 OK   Sade — No Ordinary Love (Remastered Version) | last aired 2026-11-10 01:17 | normal pick now | request now
 WAIT Sade — Smooth Operator (2011 Remastered) (Remastered Version) | last aired 2026-11-11 21:04 | normal pick from 2026-11-13 21:04 | request from 2026-11-13 21:04
 OK   Sade — The Sweetest Taboo (Remastered Version) | last aired 2026-11-10 04:52 | normal pick now | request now
@@ -17,7 +17,7 @@ OK   Saindra — Mil Besos | last aired 2026-11-11 01:02 | normal pick now | req
 WAIT Saint Etienne — Only Love Can Break Your Heart | last aired 2026-11-11 16:29 | normal pick from 2026-11-13 16:29 | request from 2026-11-13 16:29
 WAIT Salvador Sobral — Amar pelos Dois | last aired 2026-11-12 06:09 | normal pick from 2026-11-14 06:09 | request from 2026-11-14 06:09
 OK   Sam Cooke — A Change Is Gonna Come | last aired 2026-11-11 16:13 | normal pick now | request now
-WAIT Sampha — (No One Knows Me) Like the Piano | last aired 2026-11-11 16:21 | normal pick from 2026-11-13 16:21 | request from 2026-11-13 16:21
+OK   Sampha — (No One Knows Me) Like the Piano | last aired 2026-11-11 16:21 | normal pick now | request now
 OK   Santana — Black Magic Woman | last aired 2026-11-11 09:41 | normal pick now | request now
 OK   Santana — Maria Maria | last aired 2026-11-11 16:25 | normal pick now | request now
 OK   Santana — Oye Como Va | last aired 2026-11-10 01:24 | normal pick now | request now
