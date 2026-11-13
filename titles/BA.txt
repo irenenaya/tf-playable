@@ -1,4 +1,4 @@
-Track status, song titles filed under BA (built Fri Nov 13, 8:45 AM PST (16:45 UTC)). Times in UTC.
+Track status, song titles filed under BA (built Fri Nov 13, 8:55 AM PST (16:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   ...Baby One More Time (from Kung Fu Panda 4) — Tenacious D | last aired 2026-10-18 11:11 | normal pick now | request now
@@ -16,7 +16,7 @@ OK   Bag Lady (Album Version) — Erykah Badu | last aired 2026-11-09 11:50 | no
 OK   Bag's New Groove — Milt Jackson | last aired 2026-11-11 22:11 | normal pick now | request now
 OK   Baker Street — Gerry Rafferty | last aired 2026-11-05 17:11 | normal pick now | request now
 OK   Baller — Abor & Tynna | last aired 2026-10-16 02:11 | normal pick now | request now
-OK   Bamboleo — Gipsy Kings | last aired 2026-11-03 21:28 | normal pick now | request now
+WAIT Bamboleo — Gipsy Kings | last aired 2026-11-13 16:48 | normal pick from 2026-11-15 16:48 | request from 2026-11-15 16:48
 OK   Bangaranga — Dara | last aired 2026-11-02 14:36 | normal pick now | request now
 OK   Barco negro — Amália Rodrigues | last aired 2026-11-11 20:41 | normal pick now | request now
 OK   Barely Breathing — Duncan Sheik | last aired 2026-09-19 22:14 | normal pick now | request now
