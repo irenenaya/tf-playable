@@ -1,7 +1,7 @@
-Track status, artists filed under HU (built Fri Nov 13, 1:55 AM PST (09:55 UTC)). Times in UTC.
+Track status, artists filed under HU (built Fri Nov 13, 2:05 AM PST (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Huey Lewis And The News — Hip To Be Square | last aired 2026-10-26 02:39 | normal pick now | request now
+WAIT Huey Lewis And The News — Hip To Be Square | last aired 2026-11-13 10:00 | normal pick from 2026-11-14 22:00 | request from 2026-11-14 06:00
 WAIT Huey Lewis And The News — The Power Of Love | last aired 2026-11-13 01:58 | normal pick from 2026-11-14 13:58 | request from 2026-11-13 21:58
 OK   HUGEL — Movin' To The Sun | last aired 2026-11-07 14:10 | normal pick now | request now
 WAIT Human League — Don't You Want Me | last aired 2026-11-12 00:15 | normal pick from 2026-11-13 12:15 | request now

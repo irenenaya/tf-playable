@@ -1,4 +1,4 @@
-Track status, song titles filed under SH (built Fri Nov 13, 1:55 AM PST (09:55 UTC)). Times in UTC.
+Track status, song titles filed under SH (built Fri Nov 13, 2:05 AM PST (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Shampoo — Greg Shilling | last aired 2026-11-12 03:22 | normal pick from 2026-11-13 15:22 | request now
@@ -10,7 +10,7 @@ OK   Shellela — Getatchèw Mèkurya | last aired 2026-10-29 10:28 | normal pic
 OK   Shine A Light — Banners | last aired 2026-11-10 03:18 | normal pick now | request now
 OK   Shining Star — Earth, Wind & Fire | last aired 2026-11-10 00:29 | normal pick now | request now
 OK   Should Have Known Better — Sufjan Stevens | last aired 2026-11-10 15:02 | normal pick now | request now
-OK   Should I Stay or Should I Go (Remastered) — The Clash | last aired 2026-10-30 14:34 | normal pick now | request now
+WAIT Should I Stay or Should I Go (Remastered) — The Clash | last aired 2026-11-13 09:53 | normal pick from 2026-11-14 21:53 | request from 2026-11-14 05:53
 WAIT Show Me How — Men I Trust | last aired 2026-11-12 09:24 | normal pick from 2026-11-13 21:24 | request now
 WAIT SHUM — Go_A | last aired 2026-11-12 22:07 | normal pick from 2026-11-14 10:07 | request from 2026-11-13 18:07
 WAIT Shut Up Your Monkey — Moes Haven | last aired 2026-11-12 02:04 | normal pick from 2026-11-13 14:04 | request now
