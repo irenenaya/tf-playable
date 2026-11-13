@@ -1,4 +1,4 @@
-Track status, artists filed under AN (built Fri Nov 13, 8:05 AM PST (16:05 UTC)). Times in UTC.
+Track status, artists filed under AN (built Fri Nov 13, 8:15 AM PST (16:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Ana Sofia Varela — Fado Vadio (Má Fama) | last aired 2026-11-10 10:19 | normal pick now | request now
@@ -6,13 +6,13 @@ OK   Andrew W.K. — Party Hard (Album Version) | last aired 2026-11-10 22:26 | 
 OK   Andrés Calamaro — Flaca | last aired 2026-11-10 05:53 | normal pick now | request now
 OK   Angus & Julia Stone — You're The One That I Want | last aired 2026-11-10 10:15 | normal pick now | request now
 OK   Angèle Dubeau — The Mission – Buona Fortuna Jack (Live) | last aired 2026-10-31 09:24 | normal pick now | request now
-OK   Angélique Kidjo — Agolo | last aired 2026-11-10 09:29 | normal pick now | request now
+WAIT Angélique Kidjo — Agolo | last aired 2026-11-13 16:04 | normal pick from 2026-11-15 16:04 | request from 2026-11-15 16:04
 WAIT Angélique Kidjo — Malaika | last aired 2026-11-12 04:15 | normal pick from 2026-11-14 04:15 | request from 2026-11-14 04:15
 WAIT Anita Baker — Angel (LP Version) | last aired 2026-11-12 04:04 | normal pick from 2026-11-14 04:04 | request from 2026-11-14 04:04
 OK   Anita Baker — Caught Up in the Rapture (LP Version) | last aired 2026-11-10 22:30 | normal pick now | request now
 OK   Anita Baker — Sweet Love | last aired 2026-11-10 10:11 | normal pick now | request now
 OK   Anne Clark — Hope Road (A-Z Route) | last aired 2026-11-12 03:26 | normal pick now | request now
-WAIT Anne Clark — Our Darkness | last aired 2026-11-12 04:10 | normal pick from 2026-11-13 16:10 | request now
+OK   Anne Clark — Our Darkness | last aired 2026-11-12 04:10 | normal pick now | request now
 OK   Annenmaykantereit — Oft gefragt | last aired 2026-11-10 09:25 | normal pick now | request now
 WAIT ANNIE — Heartbeat | last aired 2026-11-12 04:19 | normal pick from 2026-11-13 16:19 | request now
 OK   ANORAQUE — Ivy | last aired 2026-11-11 00:28 | normal pick now | request now
