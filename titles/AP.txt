@@ -1,6 +1,6 @@
-Track status, song titles filed under AP (built Fri Nov 13, 3:25 AM PST (11:25 UTC)). Times in UTC.
+Track status, song titles filed under AP (built Fri Nov 13, 3:35 AM PST (11:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Apocalypse — Cigarettes After Sex | last aired 2026-10-31 02:56 | normal pick now | request now
-WAIT Apres Un Reve — Ailbhe Mcdonagh | last aired 2026-11-11 11:29 | normal pick from 2026-11-13 11:29 | request from 2026-11-13 11:29
+OK   Apres Un Reve — Ailbhe Mcdonagh | last aired 2026-11-11 11:29 | normal pick now | request now
 WAIT Apricots — Bicep | last aired 2026-11-13 00:39 | normal pick from 2026-11-15 00:39 | request from 2026-11-15 00:39
