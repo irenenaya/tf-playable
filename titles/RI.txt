@@ -1,4 +1,4 @@
-Track status, song titles filed under RI (built Thu Nov 12, 10:05 PM PST (06:05 UTC Fri)). Times in UTC.
+Track status, song titles filed under RI (built Thu Nov 12, 10:15 PM PST (06:15 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Richter: Shadow Journal — Tilda Swinton | last aired 2026-11-09 07:23 | normal pick now | request now
@@ -10,7 +10,7 @@ WAIT Riding For The Feeling — Bill Callahan | last aired 2026-11-13 00:26 | no
 OK   Right Down the Line — Gerry Rafferty | last aired 2026-11-04 15:52 | normal pick now | request now
 OK   Right In Front Of Me — Tiny Habits | last aired 2026-11-07 18:24 | normal pick now | request now
 OK   Ring of Fire — Johnny Cash | last aired 2026-11-04 13:07 | normal pick now | request now
-WAIT Ring Ring Ring — Tyler, The Creator | last aired 2026-11-11 18:06 | normal pick from 2026-11-13 06:06 | request now
+OK   Ring Ring Ring — Tyler, The Creator | last aired 2026-11-11 18:06 | normal pick now | request now
 WAIT Rise Like a Phoenix — Conchita Wurst | last aired 2026-11-11 23:46 | normal pick from 2026-11-13 11:46 | request now
 OK   River — Joni Mitchell | last aired 2026-11-11 11:43 | normal pick now | request now
 OK   Riviera Paradise — Stevie Ray Vaughan & Double Trouble | last aired 2026-11-10 21:10 | normal pick now | request now
