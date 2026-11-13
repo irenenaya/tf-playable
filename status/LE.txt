@@ -1,9 +1,9 @@
-Track status, artists filed under LE (built Thu Nov 12, 4:25 PM PST (00:25 UTC Fri)). Times in UTC.
+Track status, artists filed under LE (built Thu Nov 12, 4:35 PM PST (00:35 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT LeAnn Rimes — Blue | last aired 2026-11-13 00:02 | normal pick from 2026-11-14 12:02 | request from 2026-11-13 20:02
 OK   Lebanon Hanover — Babes of the 80s (She Past Away) | last aired 2026-11-10 23:14 | normal pick now | request now
-WAIT Led Zeppelin — Going to California (Remaster) | last aired 2026-11-11 00:32 | normal pick from 2026-11-13 00:32 | request from 2026-11-13 00:32
+OK   Led Zeppelin — Going to California (Remaster) | last aired 2026-11-11 00:32 | normal pick now | request now
 OK   Led Zeppelin — Over the Hills and Far Away (Remaster) | last aired 2026-11-10 23:05 | normal pick now | request now
 WAIT Led Zeppelin — Stairway to Heaven (Remaster) | last aired 2026-11-11 23:12 | normal pick from 2026-11-13 11:12 | request now
 OK   Ledward Kaapana — Salomila (Live) | last aired 2026-11-10 02:51 | normal pick now | request now

@@ -1,4 +1,4 @@
-Track status, artists filed under BI (built Thu Nov 12, 4:25 PM PST (00:25 UTC Fri)). Times in UTC.
+Track status, artists filed under BI (built Thu Nov 12, 4:35 PM PST (00:35 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Bicep — Apricots | last aired 2026-11-10 08:18 | normal pick now | request now
@@ -8,9 +8,9 @@ WAIT Big Foot Mama — Led s severa | last aired 2026-11-11 19:58 | normal pick 
 WAIT Big Foot Mama — Obseden z njo | last aired 2026-11-11 20:27 | normal pick from 2026-11-13 08:27 | request now
 WAIT Big Thief — Mary | last aired 2026-11-13 00:13 | normal pick from 2026-11-15 00:13 | request from 2026-11-15 00:13
 OK   Bikini Kill — Rebel Girl | last aired 2026-11-08 17:03 | normal pick now | request now
-OK   Bill Callahan — Riding For The Feeling | last aired 2026-11-10 07:56 | normal pick now | request now
+WAIT Bill Callahan — Riding For The Feeling | last aired 2026-11-13 00:25 | normal pick from 2026-11-15 00:25 | request from 2026-11-15 00:25
 WAIT Bill Evans — Peace Piece (Album Version) | last aired 2026-11-13 00:18 | normal pick from 2026-11-15 00:18 | request from 2026-11-15 00:18
-OK   Bill Monroe & His Blue Grass Boys — Blue Moon Of Kentucky | last aired 2026-11-10 08:22 | normal pick now | request now
+WAIT Bill Monroe & His Blue Grass Boys — Blue Moon Of Kentucky | last aired 2026-11-13 00:32 | normal pick from 2026-11-14 12:32 | request from 2026-11-13 20:32
 OK   Bill Withers — Ain't No Sunshine (Album Version) | last aired 2026-11-10 07:01 | normal pick now | request now
 WAIT Bill Withers — Lovely Day | last aired 2026-11-11 09:00 | normal pick from 2026-11-13 09:00 | request from 2026-11-13 09:00
 OK   Billie Eilish — BIRDS OF A FEATHER | last aired 2026-11-08 17:06 | normal pick now | request now
