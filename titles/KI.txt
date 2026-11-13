@@ -1,4 +1,4 @@
-Track status, song titles filed under KI (built Thu Nov 12, 8:15 PM PST (04:15 UTC Fri)). Times in UTC.
+Track status, song titles filed under KI (built Thu Nov 12, 8:25 PM PST (04:25 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Kiara — Bonobo | last aired 2026-11-11 10:56 | normal pick from 2026-11-13 10:56 | request from 2026-11-13 10:56
@@ -12,4 +12,4 @@ WAIT Kimi Wo Nosete (Castle in the Sky) — AUN J-Classic Orchestra | last aired
 WAIT Kinky Love — Pale Saints | last aired 2026-11-12 06:17 | normal pick from 2026-11-14 06:17 | request from 2026-11-14 06:17
 OK   Kiss (LP Version) — Prince | last aired 2026-11-10 15:29 | normal pick now | request now
 WAIT Kiss of Life (Remastered Version) — Sade | last aired 2026-11-11 16:17 | normal pick from 2026-11-13 16:17 | request from 2026-11-13 16:17
-OK   The Killing Moon — Echo And The Bunnymen | last aired 2026-10-26 04:42 | normal pick now | request now
+WAIT The Killing Moon — Echo And The Bunnymen | last aired 2026-11-13 04:12 | normal pick from 2026-11-14 16:12 | request from 2026-11-14 00:12
