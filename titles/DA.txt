@@ -1,4 +1,4 @@
-Track status, song titles filed under DA (built Fri Nov 13, 3:15 PM PST (23:15 UTC)). Times in UTC.
+Track status, song titles filed under DA (built Fri Nov 13, 3:25 PM PST (23:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   D.A.N.C.E. — Justice | last aired 2026-11-05 14:54 | normal pick now | request now
@@ -9,7 +9,7 @@ OK   Dance Me to the End of Love — Leonard Cohen | last aired 2026-11-08 01:56
 OK   Dance The Pain Away — Haute & Freddy | last aired 2026-11-11 13:30 | normal pick now | request now
 OK   Dancing Barefoot — Patti Smith Group | last aired 2026-10-22 18:30 | normal pick now | request now
 OK   Dancing in the Street (2002 Remaster) — David Bowie | last aired 2026-11-03 12:24 | normal pick now | request now
-OK   Dancing Queen — ABBA | last aired 2026-11-09 14:21 | normal pick now | request now
+WAIT Dancing Queen — ABBA | last aired 2026-11-13 23:14 | normal pick from 2026-11-15 11:14 | request from 2026-11-14 19:14
 OK   Dancing With Myself — The Vampire Lestat | last aired 2026-10-18 03:44 | normal pick now | request now
 OK   Danger Zone (From "Top Gun" Original Soundtrack) — Kenny Loggins | last aired 2026-10-23 13:19 | normal pick now | request now
 OK   Dansevise — Grethe & Jørgen Ingmann | last aired 2026-11-10 16:49 | normal pick now | request now
