@@ -1,8 +1,8 @@
-Track status, song titles filed under DR (built Thu Nov 12, 11:05 PM PST (07:05 UTC Fri)). Times in UTC.
+Track status, song titles filed under DR (built Thu Nov 12, 11:15 PM PST (07:15 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   DRAW THE LINE — From Fall to Spring | last aired 2026-10-23 18:52 | normal pick now | request now
-OK   Dream 3 (in the midst of my life) — Max Richter | last aired 2026-11-09 11:11 | normal pick now | request now
+WAIT Dream 3 (in the midst of my life) — Max Richter | last aired 2026-11-13 07:08 | normal pick from 2026-11-15 07:08 | request from 2026-11-15 07:08
 WAIT Dream On — Aerosmith | last aired 2026-11-11 19:23 | normal pick from 2026-11-13 07:23 | request now
 OK   Dreamin' (Album Version) — George Benson | last aired 2026-11-07 03:05 | normal pick now | request now
 WAIT Dreams (2001 Remaster) — Fleetwood Mac | last aired 2026-11-12 00:11 | normal pick from 2026-11-13 12:11 | request now
