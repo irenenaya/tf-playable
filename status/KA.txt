@@ -1,4 +1,4 @@
-Track status, artists filed under KA (built Fri Nov 13, 1:15 PM PST (21:15 UTC)). Times in UTC.
+Track status, artists filed under KA (built Fri Nov 13, 1:25 PM PST (21:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Kacey Musgraves — Deeper Well | last aired 2026-11-11 05:40 | normal pick now | request now
@@ -9,7 +9,7 @@ OK   Karim Sulayman — Li Beirut (after Joaquín Rodrigo) | last aired 2026-11-
 OK   Kat Edmonson — All The Way | last aired 2026-11-11 05:44 | normal pick now | request now
 OK   Kate Bush — Coffee Homeground | last aired 2026-11-07 17:15 | normal pick now | request now
 OK   Kate Bush — Delius (2018 Remaster) | last aired 2026-11-11 06:11 | normal pick now | request now
-OK   Kate Bush — Get Out Of My House (2018 Remaster) | last aired 2026-10-26 11:41 | normal pick now | request now
+WAIT Kate Bush — Get Out Of My House (2018 Remaster) | last aired 2026-11-13 21:20 | normal pick from 2026-11-15 09:20 | request from 2026-11-14 17:20
 WAIT Kate Bush — L'Amour Looks Something Like You (2018 Remaster) | last aired 2026-11-12 12:07 | normal pick from 2026-11-14 00:07 | request now
 OK   Kate Bush — Suspended In Gaffa (2018 Remaster) | last aired 2026-11-07 17:41 | normal pick now | request now
 OK   Kate Bush — Under The Ivy | last aired 2026-11-11 15:52 | normal pick now | request now
