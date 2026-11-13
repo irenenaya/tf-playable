@@ -1,4 +1,4 @@
-Track status, song titles filed under SO (built Thu Nov 12, 4:35 PM PST (00:35 UTC Fri)). Times in UTC.
+Track status, song titles filed under SO (built Thu Nov 12, 4:45 PM PST (00:45 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   So Alive — Love and Rockets | last aired 2026-10-29 12:34 | normal pick now | request now
@@ -14,7 +14,7 @@ WAIT Some Place We Called Home — Piotr Musial | last aired 2026-11-12 12:17 | 
 OK   Somebody Else — The 1975 | last aired 2026-10-30 14:10 | normal pick now | request now
 OK   Somebody to Love (Album Version) — George Michael | last aired 2026-11-08 02:23 | normal pick now | request now
 OK   Somebody To Love — Queen | last aired 2026-10-27 23:56 | normal pick now | request now
-WAIT Someone Somewhere (In Summertime) — Simple Minds | last aired 2026-11-11 12:41 | normal pick from 2026-11-13 00:41 | request now
+OK   Someone Somewhere (In Summertime) — Simple Minds | last aired 2026-11-11 12:41 | normal pick now | request now
 OK   Something About Us — Daft Punk | last aired 2026-11-08 19:17 | normal pick now | request now
 OK   Sometimes It Snows in April (LP Version) — Prince | last aired 2026-11-10 16:42 | normal pick now | request now
 OK   Somewhere, My Love (Lara's Theme from "Doctor Zhivago") (Album Version) — The Ray Conniff Singers | last aired 2026-11-06 08:40 | normal pick now | request now
