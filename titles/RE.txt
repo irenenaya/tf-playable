@@ -1,7 +1,7 @@
-Track status, song titles filed under RE (built Fri Nov 13, 1:05 PM PST (21:05 UTC)). Times in UTC.
+Track status, song titles filed under RE (built Fri Nov 13, 1:15 PM PST (21:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Reason or Rhyme — Bryan Ferry | last aired 2026-11-12 09:08 | normal pick from 2026-11-13 21:08 | request now
+OK   Reason or Rhyme — Bryan Ferry | last aired 2026-11-12 09:08 | normal pick now | request now
 WAIT Rebel Girl — Bikini Kill | last aired 2026-11-13 00:51 | normal pick from 2026-11-14 12:51 | request now
 OK   Rebel Rebel — David Bowie | last aired 2026-10-30 14:37 | normal pick now | request now
 OK   Red Moon — Al Di Meola | last aired 2026-11-09 14:32 | normal pick now | request now
