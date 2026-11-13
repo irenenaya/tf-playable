@@ -1,4 +1,4 @@
-Track status, artists filed under RU (built Fri Nov 13, 1:25 PM PST (21:25 UTC)). Times in UTC.
+Track status, artists filed under RU (built Fri Nov 13, 1:35 PM PST (21:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Rufus — Ain't Nobody (Album Version) | last aired 2026-11-12 09:46 | normal pick from 2026-11-13 21:46 | request now
@@ -6,4 +6,4 @@ OK   Rufus Wainwright — Dinner At Eight | last aired 2026-11-12 08:40 | normal
 OK   Rumahoy — Forest Party | last aired 2026-11-09 21:42 | normal pick now | request now
 OK   Rush — Tom Sawyer | last aired 2026-10-29 14:47 | normal pick now | request now
 OK   Russian State Symphony Orchestra — Jazz Suite No. 2 - VI. Waltz 2 | last aired 2026-11-12 08:37 | normal pick now | request now
-WAIT RÜFÜS DU SOL — Innerbloom (Live from Joshua Tree) | last aired 2026-11-12 09:33 | normal pick from 2026-11-13 21:33 | request now
+OK   RÜFÜS DU SOL — Innerbloom (Live from Joshua Tree) | last aired 2026-11-12 09:33 | normal pick now | request now

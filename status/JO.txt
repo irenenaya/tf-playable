@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Fri Nov 13, 1:25 PM PST (21:25 UTC)). Times in UTC.
+Track status, artists filed under JO (built Fri Nov 13, 1:35 PM PST (21:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-11-09 13:44 | normal pick now | request now
@@ -41,7 +41,7 @@ OK   Johnny Cash — Redemption Day (Album Version) | last aired 2026-11-04 13:1
 OK   Johnny Cash — Ring of Fire | last aired 2026-11-04 13:07 | normal pick now | request now
 OK   Johnny Flynn — Detectorists (Original Soundtrack from the TV Series) | last aired 2026-10-23 05:38 | normal pick now | request now
 OK   Johnny Mathis — Wonderful! Wonderful! | last aired 2026-11-11 11:51 | normal pick now | request now
-OK   Joker Out — Novi Val | last aired 2026-10-26 21:11 | normal pick now | request now
+WAIT Joker Out — Novi Val | last aired 2026-11-13 21:25 | normal pick from 2026-11-15 09:25 | request from 2026-11-14 17:25
 WAIT Jon Hopkins — Open Eye Signal (Remaster 2023) | last aired 2026-11-13 12:02 | normal pick from 2026-11-15 00:02 | request from 2026-11-14 08:02
 WAIT Jon Hopkins — Small Memory | last aired 2026-11-13 18:15 | normal pick from 2026-11-15 06:15 | request from 2026-11-14 14:15
 OK   Jonathan Parecki — Senbonzakura (Hatsune Miku) | last aired 2026-09-02 17:36 | normal pick now | request now

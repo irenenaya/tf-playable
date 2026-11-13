@@ -1,4 +1,4 @@
-Track status, song titles filed under NO (built Fri Nov 13, 1:25 PM PST (21:25 UTC)). Times in UTC.
+Track status, song titles filed under NO (built Fri Nov 13, 1:35 PM PST (21:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   (No One Knows Me) Like the Piano — Sampha | last aired 2026-11-11 16:21 | normal pick now | request now
@@ -23,4 +23,4 @@ OK   Nothing's Gonna Hurt You Baby — Cigarettes After Sex | last aired 2026-10
 OK   Nothing’s Special — Oneohtrix Point Never | last aired 2026-11-01 12:59 | normal pick now | request now
 OK   Notorious (2010 Remaster) — Duran Duran | last aired 2026-11-11 19:10 | normal pick now | request now
 OK   Nova Zora (Eurovision 2026) — Tamara Živković | last aired 2026-10-23 22:04 | normal pick now | request now
-OK   Novi Val — Joker Out | last aired 2026-10-26 21:11 | normal pick now | request now
+WAIT Novi Val — Joker Out | last aired 2026-11-13 21:25 | normal pick from 2026-11-15 09:25 | request from 2026-11-14 17:25
