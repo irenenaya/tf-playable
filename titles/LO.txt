@@ -1,4 +1,4 @@
-Track status, song titles filed under LO (built Thu Nov 12, 6:55 PM PST (02:55 UTC Fri)). Times in UTC.
+Track status, song titles filed under LO (built Thu Nov 12, 7:05 PM PST (03:05 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   L-O-V-E — Nat King Cole | last aired 2026-11-07 03:32 | normal pick now | request now
@@ -12,7 +12,7 @@ WAIT Longing — Nusrat Fateh Ali Khan | last aired 2026-11-13 02:34 | normal pi
 OK   Loser — Beck | last aired 2026-11-11 01:20 | normal pick now | request now
 OK   Losing Faith — Tom Konkle | last aired 2026-11-09 21:00 | normal pick now | request now
 OK   Lost Coastlines — Okkervil River | last aired 2026-10-24 09:39 | normal pick now | request now
-WAIT Lost in Music (1995 Remaster) (LP Version) — Sister Sledge | last aired 2026-11-11 14:57 | normal pick from 2026-11-13 02:57 | request now
+OK   Lost in Music (1995 Remaster) (LP Version) — Sister Sledge | last aired 2026-11-11 14:57 | normal pick now | request now
 OK   Lost In The Humming Air (2005 Digital Remaster) — Harold Budd | last aired 2026-11-10 06:28 | normal pick now | request now
 OK   Lost on You — LP | last aired 2026-10-26 02:35 | normal pick now | request now
 WAIT Louie Bag (Live at Electric Lady) — YEBBA | last aired 2026-11-13 02:52 | normal pick from 2026-11-14 14:52 | request from 2026-11-13 22:52
