@@ -1,4 +1,4 @@
-Track status, song titles filed under WA (built Thu Nov 12, 5:35 PM PST (01:35 UTC Fri)). Times in UTC.
+Track status, song titles filed under WA (built Thu Nov 12, 5:45 PM PST (01:45 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Way You Look Tonight — Tony Bennett & Faith Hill | last aired 2026-10-26 13:12 | normal pick now | request now
@@ -6,7 +6,7 @@ OK   Wagner: Tristan und Isolde - Wagner: Tristan und Isolde: Prelude - Orchestr
 OK   Wait — M83 | last aired 2026-10-23 23:24 | normal pick now | request now
 WAIT Waiting Room — Fugazi | last aired 2026-11-13 01:29 | normal pick from 2026-11-14 13:29 | request from 2026-11-13 21:29
 OK   Wake Me Up — Becky Levi and the Nightjars | last aired 2026-10-22 06:23 | normal pick now | request now
-OK   Walkin' On The Sun — Smash Mouth | last aired 2026-10-25 20:07 | normal pick now | request now
+WAIT Walkin' On The Sun — Smash Mouth | last aired 2026-11-13 01:38 | normal pick from 2026-11-14 13:38 | request from 2026-11-13 21:38
 OK   Walking On The Moon (Remastered 2003) — The Police | last aired 2026-10-29 21:31 | normal pick now | request now
 WAIT Waltz No.19 in A minor, Op.posth. - Chopin: Waltz No. 19 in A minor, Op. posth. — Peter Jablonski | last aired 2026-11-12 07:39 | normal pick from 2026-11-13 19:39 | request from 2026-11-13 03:39
 WAIT Waltzing Back — No Vacation | last aired 2026-11-12 16:21 | normal pick from 2026-11-14 16:21 | request from 2026-11-14 16:21

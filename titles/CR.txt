@@ -1,4 +1,4 @@
-Track status, song titles filed under CR (built Thu Nov 12, 5:35 PM PST (01:35 UTC Fri)). Times in UTC.
+Track status, song titles filed under CR (built Thu Nov 12, 5:45 PM PST (01:45 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Cranes in the Sky — Solange | last aired 2026-11-12 06:38 | normal pick from 2026-11-13 18:38 | request from 2026-11-13 02:38
@@ -10,6 +10,6 @@ OK   Crazy In Love — Beyoncé | last aired 2026-11-10 04:17 | normal pick now 
 OK   Crimen — Gustavo Cerati | last aired 2026-10-30 00:09 | normal pick now | request now
 OK   Crockett's Theme — Jan Hammer | last aired 2026-11-10 12:58 | normal pick now | request now
 OK   Cross Road Blues — Robert Johnson | last aired 2026-11-08 03:35 | normal pick now | request now
-WAIT Cruel Summer — Taylor Swift | last aired 2026-11-11 13:44 | normal pick from 2026-11-13 01:44 | request now
+OK   Cruel Summer — Taylor Swift | last aired 2026-11-11 13:44 | normal pick now | request now
 OK   Crumbling Castle — King Gizzard & The Lizard Wizard | last aired 2026-11-10 17:10 | normal pick now | request now
 WAIT Cry Me A River — Julie London | last aired 2026-11-12 01:28 | normal pick from 2026-11-14 01:28 | request from 2026-11-14 01:28
