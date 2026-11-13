@@ -1,8 +1,8 @@
-Track status, artists filed under WE (built Thu Nov 12, 8:35 PM PST (04:35 UTC Fri)). Times in UTC.
+Track status, artists filed under WE (built Thu Nov 12, 8:45 PM PST (04:45 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Weeknd — After Hours | last aired 2026-11-09 21:55 | normal pick now | request now
-OK   The Weeknd — Blinding Lights | last aired 2026-11-08 15:33 | normal pick now | request now
+WAIT The Weeknd — Blinding Lights | last aired 2026-11-13 04:34 | normal pick from 2026-11-14 16:34 | request from 2026-11-14 00:34
 OK   The Weeknd — Call Out My Name | last aired 2026-10-26 15:43 | normal pick now | request now
 WAIT The Weeknd — Gasoline | last aired 2026-11-11 17:54 | normal pick from 2026-11-13 05:54 | request now
 OK   The Weeknd — Secrets | last aired 2026-10-02 04:10 | normal pick now | request now
