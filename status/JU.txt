@@ -1,7 +1,7 @@
-Track status, artists filed under JU (built Fri Nov 13, 4:55 AM PST (12:55 UTC)). Times in UTC.
+Track status, artists filed under JU (built Fri Nov 13, 5:05 AM PST (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Judas Priest — Breaking the Law | last aired 2026-11-12 01:01 | normal pick from 2026-11-13 13:01 | request now
+OK   Judas Priest — Breaking the Law | last aired 2026-11-12 01:01 | normal pick now | request now
 WAIT Judy Collins — Bread and Roses | last aired 2026-11-12 19:35 | normal pick from 2026-11-14 19:35 | request from 2026-11-14 19:35
 WAIT Juli — Perfekte Welle | last aired 2026-11-12 22:14 | normal pick from 2026-11-14 10:14 | request from 2026-11-13 18:14
 WAIT Julian Lage — Emily | last aired 2026-11-12 18:26 | normal pick from 2026-11-14 06:26 | request from 2026-11-13 14:26
