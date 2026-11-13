@@ -1,4 +1,4 @@
-Track status, artists filed under CH (built Fri Nov 13, 12:15 PM PST (20:15 UTC)). Times in UTC.
+Track status, artists filed under CH (built Fri Nov 13, 12:25 PM PST (20:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Chaka Khan — What Cha' Gonna Do for Me | last aired 2026-11-10 23:46 | normal pick now | request now
@@ -17,9 +17,9 @@ OK   Chavela Vargas — La llorona | last aired 2026-11-10 23:50 | normal pick n
 OK   Chet Atkins — Why Worry (Album Version) | last aired 2026-11-11 08:21 | normal pick now | request now
 WAIT Chet Baker — Almost Blue | last aired 2026-11-12 01:51 | normal pick from 2026-11-14 01:51 | request from 2026-11-14 01:51
 OK   Chet Baker — My Funny Valentine | last aired 2026-11-09 11:28 | normal pick now | request now
-OK   Chet Baker — You Don't Know What Love Is | last aired 2026-11-11 08:01 | normal pick now | request now
+WAIT Chet Baker — You Don't Know What Love Is | last aired 2026-11-13 20:12 | normal pick from 2026-11-15 08:12 | request from 2026-11-14 16:12
 WAIT Chic — Good Times (2018 Remaster) | last aired 2026-11-13 19:34 | normal pick from 2026-11-15 19:34 | request from 2026-11-15 19:34
-OK   Chicago — Hard to Say I'M Sorry / Get Away | last aired 2026-11-12 03:47 | normal pick now | request now
+WAIT Chicago — Hard to Say I'M Sorry / Get Away | last aired 2026-11-13 20:17 | normal pick from 2026-11-15 08:17 | request from 2026-11-14 16:17
 WAIT Chico Buarque — Construção | last aired 2026-11-13 20:05 | normal pick from 2026-11-15 08:05 | request from 2026-11-14 16:05
 OK   Child Seat — Heart To Heart | last aired 2026-11-12 03:43 | normal pick now | request now
 OK   Child Seat — Hyperphantasia | last aired 2026-10-26 19:10 | normal pick now | request now
