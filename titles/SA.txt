@@ -1,9 +1,9 @@
-Track status, song titles filed under SA (built Fri Nov 13, 5:35 AM PST (13:35 UTC)). Times in UTC.
+Track status, song titles filed under SA (built Fri Nov 13, 5:45 AM PST (13:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Sabotage — Beastie Boys | last aired 2026-11-10 03:50 | normal pick now | request now
 OK   Sad Eyed Lady Of The Low Life — Alabama 3 | last aired 2026-11-09 02:38 | normal pick now | request now
-WAIT Sad Robot — Pornophonique | last aired 2026-11-12 01:43 | normal pick from 2026-11-13 13:43 | request now
+OK   Sad Robot — Pornophonique | last aired 2026-11-12 01:43 | normal pick now | request now
 OK   Sailing — Benny Sings | last aired 2026-11-10 04:33 | normal pick now | request now
 OK   Sailing — Christopher Cross | last aired 2026-11-11 08:17 | normal pick now | request now
 OK   Sailor Song — Gigi Perez | last aired 2026-11-07 02:36 | normal pick now | request now

@@ -1,4 +1,4 @@
-Track status, song titles filed under RE (built Fri Nov 13, 5:35 AM PST (13:35 UTC)). Times in UTC.
+Track status, song titles filed under RE (built Fri Nov 13, 5:45 AM PST (13:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Reason or Rhyme — Bryan Ferry | last aired 2026-11-12 09:08 | normal pick from 2026-11-13 21:08 | request now
@@ -16,6 +16,6 @@ OK   Resist The Force — Predatory Meerkats | last aired 2026-11-10 15:37 | nor
 OK   Retrograde — James Blake | last aired 2026-11-11 08:35 | normal pick now | request now
 OK   Revenge of Instinct — Gesu No Kiwami Otome | last aired 2026-10-16 03:03 | normal pick now | request now
 OK   Revolution 9 (Remastered 2009) — The Beatles | last aired 2026-11-09 21:05 | normal pick now | request now
-WAIT Reward — THE TEARDROP EXPLODES | last aired 2026-11-12 17:45 | normal pick from 2026-11-14 05:45 | request from 2026-11-13 13:45
+WAIT Reward — THE TEARDROP EXPLODES | last aired 2026-11-12 17:45 | normal pick from 2026-11-14 05:45 | request now
 WAIT Rewind — Wonder Girls | last aired 2026-11-13 04:05 | normal pick from 2026-11-14 16:05 | request from 2026-11-14 00:05
 WAIT Réu Confesso — Tim Maia | last aired 2026-11-12 00:28 | normal pick from 2026-11-14 00:28 | request from 2026-11-14 00:28
