@@ -1,4 +1,4 @@
-Track status, song titles filed under BE (built Fri Nov 13, 9:35 AM PST (17:35 UTC)). Times in UTC.
+Track status, song titles filed under BE (built Fri Nov 13, 9:45 AM PST (17:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Be (Introduction Of Jonathan) — Neil Diamond | last aired 2026-11-12 22:18 | normal pick from 2026-11-14 10:18 | request from 2026-11-13 18:18
@@ -19,7 +19,7 @@ OK   Better Version Of Me (Album Version) — Fiona Apple | last aired 2026-11-0
 OK   Betting on Trains (Remastered 2025) — Hem | last aired 2026-11-09 20:46 | normal pick now | request now
 WAIT Between the Sheets — The Isley Brothers | last aired 2026-11-12 15:37 | normal pick from 2026-11-14 03:37 | request now
 OK   Bewitched, Bothered And Bewildered (Ella Fitzgerald and Her Famous Orchestra Bewitched, Bothered And Bewildered) — Ella Fitzgerald | last aired 2026-11-08 07:31 | normal pick now | request now
-OK   Bewitched, Bothered And Bewildered — Ella Fitzgerald | last aired 2026-11-09 05:21 | normal pick now | request now
+WAIT Bewitched, Bothered And Bewildered — Ella Fitzgerald | last aired 2026-11-13 17:39 | normal pick from 2026-11-15 17:39 | request from 2026-11-15 17:39
 WAIT Beyond the Sea — Bobby Darin | last aired 2026-11-11 21:42 | normal pick from 2026-11-13 21:42 | request from 2026-11-13 21:42
 OK   The Beat Goes On — Prince Fatty | last aired 2026-11-04 18:00 | normal pick now | request now
 WAIT The Best — Tina Turner | last aired 2026-11-12 16:57 | normal pick from 2026-11-14 04:57 | request now
