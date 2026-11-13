@@ -1,9 +1,9 @@
-Track status, artists filed under FI (built Fri Nov 13, 2:15 AM PST (10:15 UTC)). Times in UTC.
+Track status, artists filed under FI (built Fri Nov 13, 2:25 AM PST (10:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Filippo Beck Peccoz — Desperados III Main Theme | last aired 2026-10-21 04:48 | normal pick now | request now
 OK   Filippo Beck Peccoz — Main Theme | last aired 2026-10-22 05:16 | normal pick now | request now
-OK   Filippo Beck Peccoz — The Thieves of Imai | last aired 2026-10-18 01:47 | normal pick now | request now
+WAIT Filippo Beck Peccoz — The Thieves of Imai | last aired 2026-11-13 10:22 | normal pick from 2026-11-14 22:22 | request from 2026-11-14 06:22
 OK   Filippo Beck Peccoz — Until Death Do Us Part | last aired 2026-10-23 06:49 | normal pick now | request now
 OK   Fiona Apple — Better Version Of Me (Album Version) | last aired 2026-11-09 19:43 | normal pick now | request now
 WAIT Fiona Apple — Slow Like Honey | last aired 2026-11-12 17:10 | normal pick from 2026-11-14 17:10 | request from 2026-11-14 17:10
