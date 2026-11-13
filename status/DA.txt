@@ -1,4 +1,4 @@
-Track status, artists filed under DA (built Fri Nov 13, 9:15 AM PST (17:15 UTC)). Times in UTC.
+Track status, artists filed under DA (built Fri Nov 13, 9:25 AM PST (17:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT D'Angelo — Untitled (How Does It Feel) | last aired 2026-11-12 04:29 | normal pick from 2026-11-14 04:29 | request from 2026-11-14 04:29
@@ -39,4 +39,4 @@ OK   David Bowie — Wild Is the Wind (2016 Remaster) | last aired 2026-11-06 18
 OK   David Byrne — Everybody's Coming to My House (Live) | last aired 2026-11-11 19:44 | normal pick now | request now
 OK   David Soul — Silver Lady | last aired 2026-10-30 02:35 | normal pick now | request now
 OK   David Sylvian — Darkest Dreaming | last aired 2026-11-06 18:39 | normal pick now | request now
-OK   The Dave Brubeck Quartet — Take Five | last aired 2026-11-03 20:21 | normal pick now | request now
+WAIT The Dave Brubeck Quartet — Take Five | last aired 2026-11-13 17:18 | normal pick from 2026-11-15 05:18 | request from 2026-11-14 13:18
