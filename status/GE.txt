@@ -1,4 +1,4 @@
-Track status, artists filed under GE (built Fri Nov 13, 2:05 PM PST (22:05 UTC)). Times in UTC.
+Track status, artists filed under GE (built Fri Nov 13, 2:15 PM PST (22:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Geese — Cowboy Nudes | last aired 2026-11-08 03:17 | normal pick now | request now
@@ -11,7 +11,7 @@ OK   George Benson — Affirmation (Album Version) | last aired 2026-11-07 09:42
 OK   George Benson — Dreamin' (Album Version) | last aired 2026-11-07 03:05 | normal pick now | request now
 OK   George Michael Duet with Mary J. Blige — As (Album Version) | last aired 2026-10-19 00:44 | normal pick now | request now
 OK   George Michael — Somebody to Love (Album Version) | last aired 2026-11-08 02:23 | normal pick now | request now
-OK   Geowulf — Saltwater | last aired 2026-10-26 20:39 | normal pick now | request now
+WAIT Geowulf — Saltwater | last aired 2026-11-13 22:09 | normal pick from 2026-11-15 10:09 | request from 2026-11-14 18:09
 OK   Geraint Watkins — At Last | last aired 2026-11-11 16:57 | normal pick now | request now
 OK   Gerry Rafferty — Baker Street | last aired 2026-11-05 17:11 | normal pick now | request now
 OK   Gerry Rafferty — Right Down the Line | last aired 2026-11-04 15:52 | normal pick now | request now
