@@ -1,5 +1,5 @@
-Track status, artists filed under FU (built Thu Nov 12, 5:05 PM PST (01:05 UTC Fri)). Times in UTC.
+Track status, artists filed under FU (built Thu Nov 12, 5:15 PM PST (01:15 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Fugazi — Waiting Room | last aired 2026-10-31 23:09 | normal pick now | request now
-OK   Fugees — Killing Me Softly | last aired 2026-11-08 03:49 | normal pick now | request now
+WAIT Fugees — Killing Me Softly | last aired 2026-11-13 01:08 | normal pick from 2026-11-14 13:08 | request from 2026-11-13 21:08
