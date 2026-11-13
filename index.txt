@@ -1,4 +1,4 @@
-THINKING FREQUENCIES — PLAYLIST HELPER (built Fri Nov 13, 3:35 PM PST (23:35 UTC))
+THINKING FREQUENCIES — PLAYLIST HELPER (built Fri Nov 13, 3:45 PM PST (23:45 UTC))
 
 playable.txt : 50 tracks you can play right now.
 
@@ -17,7 +17,7 @@ CRATE DIGS: songs that haven't aired in a while, longest silent first (all fine 
   90+ days (or never): silent/90d-1.txt (6 songs)
   60-89 days: silent/60d-1.txt (14 songs)
   30-59 days: silent/30d-1.txt (35 songs)
-  14-29 days: silent/14d-1.txt to silent/14d-5.txt (278 songs)
+  14-29 days: silent/14d-1.txt to silent/14d-5.txt (279 songs)
 
 Rules behind the times: normal picks rest at least 36 h (longer for busy tracks: 20+ plays
 in 30 days = 72 h, 40+ = 96 h). Requests: at least 20 h plus the same tiers, and never a 4th
