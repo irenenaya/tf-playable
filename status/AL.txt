@@ -1,4 +1,4 @@
-Track status, artists filed under AL (built Thu Nov 12, 3:55 PM PST (23:55 UTC)). Times in UTC.
+Track status, artists filed under AL (built Thu Nov 12, 4:05 PM PST (00:05 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Al Di Meola — Double Concerto | last aired 2026-11-09 02:17 | normal pick now | request now
@@ -14,7 +14,7 @@ OK   Alabama 3 — Sad Eyed Lady Of The Low Life | last aired 2026-11-09 02:38 |
 OK   Alabama 3 — Thank you | last aired 2026-11-08 23:10 | normal pick now | request now
 OK   Alabama 3 — Woke Up This Morning | last aired 2026-11-10 02:28 | normal pick now | request now
 OK   Albert Hammond — When I'm Gone | last aired 2026-11-10 03:07 | normal pick now | request now
-WAIT Albert King — Born Under A Bad Sign | last aired 2026-11-12 21:52 | normal pick from 2026-11-14 21:52 | request from 2026-11-14 21:52
+WAIT Albert King — Born Under A Bad Sign | last aired 2026-11-12 21:53 | normal pick from 2026-11-14 21:53 | request from 2026-11-14 21:53
 OK   Alestorm — Captain Morgan`s Revenge | last aired 2026-11-09 15:46 | normal pick now | request now
 OK   Alestorm — Drink | last aired 2026-11-09 15:02 | normal pick now | request now
 OK   Alestorm — Keelhauled | last aired 2026-11-09 14:02 | normal pick now | request now
@@ -22,7 +22,7 @@ OK   Alex Andre — thanks, my day is ruined | last aired 2026-11-10 02:58 | nor
 OK   Alexander Malter — Pärt: Für Alina | last aired 2026-10-25 18:33 | normal pick now | request now
 OK   Alexander Rybak — Fairytale | last aired 2026-11-09 01:49 | normal pick now | request now
 OK   Alexandre Tharaud — Gnossienne No.1 - Gnossienne: No. 1 | last aired 2026-11-08 08:57 | normal pick now | request now
-WAIT Alexi Murdoch — Orange Sky | last aired 2026-11-12 19:42 | normal pick from 2026-11-14 19:42 | request from 2026-11-14 19:42
+WAIT Alexi Murdoch — Orange Sky | last aired 2026-11-12 19:43 | normal pick from 2026-11-14 19:43 | request from 2026-11-14 19:43
 WAIT Alfa Mist — Organic Rust | last aired 2026-11-12 18:32 | normal pick from 2026-11-14 18:32 | request from 2026-11-14 18:32
 WAIT Ali Farka Touré — Soukora | last aired 2026-11-11 20:35 | normal pick from 2026-11-13 20:35 | request from 2026-11-13 20:35
 OK   Alice Coltrane — Journey In Satchidananda | last aired 2026-11-10 07:30 | normal pick now | request now
