@@ -1,9 +1,9 @@
-Track status, song titles filed under LO (built Fri Nov 13, 2:45 PM PST (22:45 UTC)). Times in UTC.
+Track status, song titles filed under LO (built Fri Nov 13, 2:55 PM PST (22:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   L-O-V-E — Nat King Cole | last aired 2026-11-07 03:32 | normal pick now | request now
 OK   Lo Vas A Olvidar — Billie Eilish | last aired 2026-11-06 09:38 | normal pick now | request now
-WAIT Locos — Leon Larregui | last aired 2026-11-11 22:51 | normal pick from 2026-11-13 22:51 | request from 2026-11-13 22:51
+OK   Locos — Leon Larregui | last aired 2026-11-11 22:51 | normal pick now | request now
 OK   Logic — Euology | last aired 2026-10-30 12:08 | normal pick now | request now
 WAIT London Calling — The Clash | last aired 2026-11-13 00:56 | normal pick from 2026-11-14 12:56 | request now
 OK   Lonely in the Future — The Strokes | last aired 2026-11-01 21:32 | normal pick now | request now
@@ -15,7 +15,7 @@ WAIT Lost Coastlines — Okkervil River | last aired 2026-11-13 06:19 | normal p
 OK   Lost in Music (1995 Remaster) (LP Version) — Sister Sledge | last aired 2026-11-11 14:57 | normal pick now | request now
 WAIT Lost In The Humming Air (2005 Digital Remaster) — Harold Budd | last aired 2026-11-13 13:16 | normal pick from 2026-11-15 13:16 | request from 2026-11-15 13:16
 OK   Lost on You — LP | last aired 2026-10-26 02:35 | normal pick now | request now
-WAIT Louie Bag (Live at Electric Lady) — YEBBA | last aired 2026-11-13 02:52 | normal pick from 2026-11-14 14:52 | request from 2026-11-13 22:52
+WAIT Louie Bag (Live at Electric Lady) — YEBBA | last aired 2026-11-13 02:52 | normal pick from 2026-11-14 14:52 | request now
 WAIT Love and Happiness — Al Green | last aired 2026-11-13 19:12 | normal pick from 2026-11-15 19:12 | request from 2026-11-15 19:12
 OK   Love I — The Green | last aired 2026-10-30 15:06 | normal pick now | request now
 OK   Love Is Blue (Album Version) — Paul Mauriat | last aired 2026-11-11 03:16 | normal pick now | request now
