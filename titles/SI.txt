@@ -1,4 +1,4 @@
-Track status, song titles filed under SI (built Fri Nov 13, 10:25 AM PST (18:25 UTC)). Times in UTC.
+Track status, song titles filed under SI (built Fri Nov 13, 10:35 AM PST (18:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT (Sittin' On) the Dock of the Bay — Otis Redding | last aired 2026-11-13 14:41 | normal pick from 2026-11-15 02:41 | request from 2026-11-14 10:41
@@ -12,5 +12,5 @@ OK   Sing Sing Sing (With A Swing) (live) — Benny Goodman | last aired 2026-11
 WAIT Singin' in the Rain — Gene Kelly | last aired 2026-11-13 05:37 | normal pick from 2026-11-14 17:37 | request from 2026-11-14 01:37
 OK   Sir Duke — Stevie Wonder | last aired 2026-11-07 18:42 | normal pick now | request now
 OK   Sit Down Beside Me — Patrick Watson | last aired 2026-11-11 22:33 | normal pick now | request now
-WAIT Sit Next to Me — Foster The People | last aired 2026-11-12 22:28 | normal pick from 2026-11-14 10:28 | request from 2026-11-13 18:28
+WAIT Sit Next to Me — Foster The People | last aired 2026-11-12 22:28 | normal pick from 2026-11-14 10:28 | request now
 WAIT The Six Day Moment — Lubomyr Melnyk | last aired 2026-11-12 06:51 | normal pick from 2026-11-14 06:51 | request from 2026-11-14 06:51
