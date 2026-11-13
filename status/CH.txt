@@ -1,4 +1,4 @@
-Track status, artists filed under CH (built Fri Nov 13, 7:45 AM PST (15:45 UTC)). Times in UTC.
+Track status, artists filed under CH (built Fri Nov 13, 7:55 AM PST (15:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Chaka Khan — What Cha' Gonna Do for Me | last aired 2026-11-10 23:46 | normal pick now | request now
@@ -10,7 +10,7 @@ OK   Charles Lloyd — You Are So Beautiful | last aired 2026-11-11 00:18 | norm
 OK   Charles Mingus — Goodbye Pork Pie Hat (Album Version) | last aired 2026-11-11 08:06 | normal pick now | request now
 WAIT Charles Mingus — Medley: Mode D - Trio And Group Dancers / Mode E - Single Solos And Group Dance / Mode F - Group And Solo Dance (Album Version) | last aired 2026-11-13 06:38 | normal pick from 2026-11-14 18:38 | request from 2026-11-14 02:38
 OK   Charles Mingus — Track A - Solo Dancer (Stop! Look! And Listen, Sinner Jim Whitney!) (Album Version) | last aired 2026-11-06 10:31 | normal pick now | request now
-WAIT Charles Wright & The Watts 103rd Street Rhythm Band — Express Yourself (Album Version) | last aired 2026-11-12 03:52 | normal pick from 2026-11-13 15:52 | request now
+OK   Charles Wright & The Watts 103rd Street Rhythm Band — Express Yourself (Album Version) | last aired 2026-11-12 03:52 | normal pick now | request now
 OK   Charli XCX — 360 | last aired 2026-11-11 00:11 | normal pick now | request now
 OK   Charly García — Demoliendo Hoteles (Live) | last aired 2026-11-12 01:59 | normal pick now | request now
 OK   Chavela Vargas — La llorona | last aired 2026-11-10 23:50 | normal pick now | request now
@@ -19,7 +19,7 @@ WAIT Chet Baker — Almost Blue | last aired 2026-11-12 01:51 | normal pick from
 OK   Chet Baker — My Funny Valentine | last aired 2026-11-09 11:28 | normal pick now | request now
 OK   Chet Baker — You Don't Know What Love Is | last aired 2026-11-11 08:01 | normal pick now | request now
 OK   Chic — Good Times (2018 Remaster) | last aired 2026-11-10 23:59 | normal pick now | request now
-WAIT Chicago — Hard to Say I'M Sorry / Get Away | last aired 2026-11-12 03:47 | normal pick from 2026-11-13 15:47 | request now
+OK   Chicago — Hard to Say I'M Sorry / Get Away | last aired 2026-11-12 03:47 | normal pick now | request now
 OK   Chico Buarque — Construção | last aired 2026-11-12 03:37 | normal pick now | request now
 OK   Child Seat — Heart To Heart | last aired 2026-11-12 03:43 | normal pick now | request now
 OK   Child Seat — Hyperphantasia | last aired 2026-10-26 19:10 | normal pick now | request now
