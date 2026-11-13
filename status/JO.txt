@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Thu Nov 12, 7:05 PM PST (03:05 UTC Fri)). Times in UTC.
+Track status, artists filed under JO (built Thu Nov 12, 7:15 PM PST (03:15 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-11-09 13:44 | normal pick now | request now
@@ -49,12 +49,12 @@ OK   Joni Mitchell — A Case of You | last aired 2026-11-11 02:31 | normal pick
 OK   Joni Mitchell — At Last (LP Version) | last aired 2026-11-03 22:19 | normal pick now | request now
 OK   Joni Mitchell — River | last aired 2026-11-11 11:43 | normal pick now | request now
 WAIT Jorge Ben Jor — Mas, Que Nada! | last aired 2026-11-11 20:07 | normal pick from 2026-11-13 20:07 | request from 2026-11-13 20:07
-WAIT Josh Rouse — 1972 | last aired 2026-11-11 15:11 | normal pick from 2026-11-13 03:11 | request now
+OK   Josh Rouse — 1972 | last aired 2026-11-11 15:11 | normal pick now | request now
 OK   Josh Rouse — Street Lights | last aired 2026-10-27 17:56 | normal pick now | request now
 WAIT José González — Heartbeats | last aired 2026-11-11 09:48 | normal pick from 2026-11-13 09:48 | request from 2026-11-13 09:48
 OK   Journey — Don't Stop Believin' (Album Version) | last aired 2026-10-27 18:01 | normal pick now | request now
 WAIT Journey — Lights (Album Version) | last aired 2026-11-12 06:22 | normal pick from 2026-11-13 18:22 | request now
 OK   Joywave — In Clover | last aired 2026-10-27 11:03 | normal pick now | request now
 OK   Joywave — Rumors | last aired 2026-10-26 15:36 | normal pick now | request now
-WAIT João Gilberto — Chega de Saudade | last aired 2026-11-11 15:15 | normal pick from 2026-11-13 03:15 | request now
+OK   João Gilberto — Chega de Saudade | last aired 2026-11-11 15:15 | normal pick now | request now
 OK   João Gilberto — Garota de Ipanema (Live) | last aired 2026-11-03 20:54 | normal pick now | request now
