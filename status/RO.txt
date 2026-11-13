@@ -1,4 +1,4 @@
-Track status, artists filed under RO (built Fri Nov 13, 5:55 AM PST (13:55 UTC)). Times in UTC.
+Track status, artists filed under RO (built Fri Nov 13, 6:05 AM PST (14:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Robbie Dupree — Steal Away | last aired 2026-11-12 12:50 | normal pick from 2026-11-14 12:50 | request from 2026-11-14 12:50
@@ -25,7 +25,7 @@ OK   Roy Orbison — Oh, Pretty Woman | last aired 2026-11-08 03:59 | normal pic
 OK   Royal Blood — Boilermaker | last aired 2026-11-08 04:14 | normal pick now | request now
 OK   Rozen — Voice of NO Return | last aired 2026-11-08 04:17 | normal pick now | request now
 OK   Róisín Murphy — Murphy's Law (Album Version) | last aired 2026-11-08 03:52 | normal pick now | request now
-OK   Röyksopp — Eple | last aired 2026-11-06 21:55 | normal pick now | request now
+WAIT Röyksopp — Eple | last aired 2026-11-13 13:57 | normal pick from 2026-11-15 01:57 | request from 2026-11-14 09:57
 OK   The Rolling Stones — Paint It, Black | last aired 2026-11-06 21:47 | normal pick now | request now
 OK   The Rolling Stones — Street Fighting Man | last aired 2026-11-11 22:58 | normal pick now | request now
 OK   The Rolling Stones — Sweet Sounds Of Heaven | last aired 2026-11-06 18:20 | normal pick now | request now
