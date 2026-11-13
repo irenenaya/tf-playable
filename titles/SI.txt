@@ -1,7 +1,7 @@
-Track status, song titles filed under SI (built Fri Nov 13, 6:35 AM PST (14:35 UTC)). Times in UTC.
+Track status, song titles filed under SI (built Fri Nov 13, 6:45 AM PST (14:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   (Sittin' On) the Dock of the Bay — Otis Redding | last aired 2026-10-28 06:51 | normal pick now | request now
+WAIT (Sittin' On) the Dock of the Bay — Otis Redding | last aired 2026-11-13 14:41 | normal pick from 2026-11-15 02:41 | request from 2026-11-14 10:41
 OK   Sifat Manusia — Nusantara Beat | last aired 2026-10-29 10:33 | normal pick now | request now
 WAIT Silent Lucidity (Remastered 2003) — Queensrÿche | last aired 2026-11-12 21:56 | normal pick from 2026-11-14 09:56 | request from 2026-11-13 17:56
 OK   Silver Lady — David Soul | last aired 2026-10-30 02:35 | normal pick now | request now
