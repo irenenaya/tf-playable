@@ -1,7 +1,7 @@
-Track status, song titles filed under RO (built Thu Nov 12, 10:25 PM PST (06:25 UTC Fri)). Times in UTC.
+Track status, song titles filed under RO (built Thu Nov 12, 10:35 PM PST (06:35 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   'Round Midnight (Remastered 2013) — Thelonious Monk | last aired 2026-11-10 16:00 | normal pick now | request now
+WAIT 'Round Midnight (Remastered 2013) — Thelonious Monk | last aired 2026-11-13 06:28 | normal pick from 2026-11-14 18:28 | request from 2026-11-14 02:28
 OK   Roads — Portishead | last aired 2026-11-09 10:11 | normal pick now | request now
 OK   Roar — Katy Perry | last aired 2026-11-08 15:09 | normal pick now | request now
 OK   Robbers — The 1975 | last aired 2026-10-25 00:36 | normal pick now | request now
