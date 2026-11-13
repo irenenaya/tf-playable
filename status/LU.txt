@@ -1,4 +1,4 @@
-Track status, artists filed under LU (built Fri Nov 13, 3:15 AM PST (11:15 UTC)). Times in UTC.
+Track status, artists filed under LU (built Fri Nov 13, 3:25 AM PST (11:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Lubomyr Melnyk — The Six Day Moment | last aired 2026-11-12 06:51 | normal pick from 2026-11-14 06:51 | request from 2026-11-14 06:51
@@ -6,7 +6,7 @@ OK   Luca Di Sabatino — Switched-on Wendy | last aired 2026-11-07 09:14 | norm
 OK   Lucy Dacus — Night Shift | last aired 2026-11-10 21:24 | normal pick now | request now
 WAIT Ludovico Einaudi — Einaudi: Canzone Africana IV | last aired 2026-11-12 07:06 | normal pick from 2026-11-14 07:06 | request from 2026-11-14 07:06
 OK   Ludovico Einaudi — Nuvole Bianche | last aired 2026-11-08 11:00 | normal pick now | request now
-OK   Ludovico Einaudi — Primavera | last aired 2026-11-11 07:50 | normal pick now | request now
+WAIT Ludovico Einaudi — Primavera | last aired 2026-11-13 11:15 | normal pick from 2026-11-14 23:15 | request from 2026-11-14 07:15
 WAIT Luis Alberto Spinetta — Muchacha Ojos De Papel (Live) | last aired 2026-11-12 06:47 | normal pick from 2026-11-14 06:47 | request from 2026-11-14 06:47
 OK   Luis Fonsi — Despacito | last aired 2026-10-22 13:36 | normal pick now | request now
 OK   Luis Miguel — La Mentira | last aired 2026-11-02 19:14 | normal pick now | request now
