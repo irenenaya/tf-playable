@@ -1,4 +1,4 @@
-Track status, artists filed under KH (built Sat Nov 14, 1:15 AM PST (09:15 UTC)). Times in UTC.
+Track status, artists filed under KH (built Sat Nov 14, 1:25 AM PST (09:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Khalid — momentary lovers | last aired 2026-10-25 04:42 | normal pick now | request now
@@ -10,4 +10,4 @@ WAIT Khruangbin — Friday Morning | last aired 2026-11-13 11:50 | normal pick f
 WAIT Khruangbin — May Ninth | last aired 2026-11-13 18:09 | normal pick from 2026-11-15 18:09 | request from 2026-11-15 18:09
 WAIT Khruangbin — People Everywhere ii | last aired 2026-11-13 15:38 | normal pick from 2026-11-15 03:38 | request from 2026-11-14 11:38
 WAIT Khruangbin — Time (You and I) | last aired 2026-11-13 16:10 | normal pick from 2026-11-15 04:10 | request from 2026-11-14 12:10
-WAIT Khruangbin — White Gloves | last aired 2026-11-13 13:23 | normal pick from 2026-11-15 01:23 | request from 2026-11-14 09:23
+WAIT Khruangbin — White Gloves | last aired 2026-11-13 13:23 | normal pick from 2026-11-15 01:23 | request now

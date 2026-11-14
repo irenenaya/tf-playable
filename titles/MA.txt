@@ -1,4 +1,4 @@
-Track status, song titles filed under MA (built Sat Nov 14, 1:15 AM PST (09:15 UTC)). Times in UTC.
+Track status, song titles filed under MA (built Sat Nov 14, 1:25 AM PST (09:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Mad World — Gary Jules | last aired 2026-11-12 15:34 | normal pick now | request now
@@ -13,7 +13,7 @@ OK   Make Me Feel — Janelle Monáe | last aired 2026-11-11 13:36 | normal pick
 WAIT Malaika — Angélique Kidjo | last aired 2026-11-14 08:17 | normal pick from 2026-11-16 08:17 | request from 2026-11-16 08:17
 OK   MALAMENTE (Cap.1: Augurio) — ROSALÍA | last aired 2026-11-08 03:42 | normal pick now | request now
 OK   Man in the Box — Alice In Chains | last aired 2026-11-09 03:27 | normal pick now | request now
-OK   Manipulation (The Dance) — Tom Konkle | last aired 2026-11-02 00:49 | normal pick now | request now
+WAIT Manipulation (The Dance) — Tom Konkle | last aired 2026-11-14 09:16 | normal pick from 2026-11-15 21:16 | request from 2026-11-15 05:16
 OK   Mannish Boy — Muddy Waters | last aired 2026-11-11 14:31 | normal pick now | request now
 OK   Many Too Many (2007 Remaster) — Genesis | last aired 2026-10-21 20:39 | normal pick now | request now
 WAIT Maria Maria — Santana | last aired 2026-11-13 17:14 | normal pick from 2026-11-15 17:14 | request from 2026-11-15 17:14
