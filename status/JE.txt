@@ -1,13 +1,13 @@
-Track status, artists filed under JE (built Fri Nov 13, 7:35 PM PST (03:35 UTC Sat)). Times in UTC.
+Track status, artists filed under JE (built Fri Nov 13, 7:45 PM PST (03:45 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Jean-Luc Ponty — Computer Incantations for World Peace | last aired 2026-11-13 01:32 | normal pick from 2026-11-14 13:32 | request now
 WAIT Jeff Beck — Where Were You (Live) | last aired 2026-11-12 20:53 | normal pick from 2026-11-14 08:53 | request now
-WAIT Jeff Buckley — Calling You (Live) | last aired 2026-11-12 15:45 | normal pick from 2026-11-14 03:45 | request now
+OK   Jeff Buckley — Calling You (Live) | last aired 2026-11-12 15:45 | normal pick now | request now
 WAIT Jeff Buckley — Hallelujah | last aired 2026-11-13 23:51 | normal pick from 2026-11-15 11:51 | request from 2026-11-14 19:51
 OK   Jeff Buckley — Last Goodbye | last aired 2026-11-08 05:57 | normal pick now | request now
 OK   Jeff Buckley — So Real | last aired 2026-10-28 11:10 | normal pick now | request now
-WAIT Jeff Lynne — At Last | last aired 2026-11-12 15:43 | normal pick from 2026-11-14 03:43 | request now
+OK   Jeff Lynne — At Last | last aired 2026-11-12 15:43 | normal pick now | request now
 OK   Jerry Cantrell — Rooster (2022 Remaster) | last aired 2026-10-05 22:21 | normal pick now | request now
 OK   Jerry Cantrell — Would? (2022 Remaster) | last aired 2026-10-21 22:28 | normal pick now | request now
 OK   Jesse Cook — Breathing Below Surface (Rerecorded) | last aired 2026-11-01 17:54 | normal pick now | request now
