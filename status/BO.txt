@@ -1,4 +1,4 @@
-Track status, artists filed under BO (built Sat Nov 14, 12:25 PM PST (20:25 UTC)). Times in UTC.
+Track status, artists filed under BO (built Sat Nov 14, 12:35 PM PST (20:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Boards of Canada — Blood In The Labyrinth | last aired 2026-11-14 11:55 | normal pick from 2026-11-16 11:55 | request from 2026-11-16 11:55
@@ -26,7 +26,7 @@ OK   Bonnie Tyler — Total Eclipse of the Heart | last aired 2026-11-09 13:05 |
 WAIT Bonobo — Cirrus | last aired 2026-11-13 12:10 | normal pick from 2026-11-15 12:10 | request from 2026-11-15 12:10
 WAIT Bonobo — Kiara | last aired 2026-11-14 10:05 | normal pick from 2026-11-16 10:05 | request from 2026-11-16 10:05
 WAIT Bonobo — Kong | last aired 2026-11-14 08:00 | normal pick from 2026-11-16 08:00 | request from 2026-11-16 08:00
-OK   Bonobo — Terrapin | last aired 2026-11-12 13:17 | normal pick now | request now
+WAIT Bonobo — Terrapin | last aired 2026-11-14 20:31 | normal pick from 2026-11-16 20:31 | request from 2026-11-16 20:31
 OK   Booker T. & The M.G.'s — Green Onions | last aired 2026-11-09 14:29 | normal pick now | request now
 OK   Booker T. & The M.G.'s — Time Is Tight (Live) | last aired 2026-11-08 22:49 | normal pick now | request now
 OK   Booker T. Jones — Everything Is Everything | last aired 2026-11-09 12:37 | normal pick now | request now
