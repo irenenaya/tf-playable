@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Fri Nov 13, 5:15 PM PST (01:15 UTC Sat)). Times in UTC.
+Track status, artists filed under JO (built Fri Nov 13, 5:25 PM PST (01:25 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-11-09 13:44 | normal pick now | request now
@@ -52,7 +52,7 @@ OK   Jorge Ben Jor — Mas, Que Nada! | last aired 2026-11-11 20:07 | normal pic
 OK   Josh Rouse — 1972 | last aired 2026-11-11 15:11 | normal pick now | request now
 OK   Josh Rouse — Street Lights | last aired 2026-10-27 17:56 | normal pick now | request now
 WAIT José González — Heartbeats | last aired 2026-11-13 13:02 | normal pick from 2026-11-15 13:02 | request from 2026-11-15 13:02
-OK   Journey — Don't Stop Believin' (Album Version) | last aired 2026-10-27 18:01 | normal pick now | request now
+WAIT Journey — Don't Stop Believin' (Album Version) | last aired 2026-11-14 01:14 | normal pick from 2026-11-15 13:14 | request from 2026-11-14 21:14
 OK   Journey — Lights (Album Version) | last aired 2026-11-12 06:22 | normal pick now | request now
 OK   Joywave — In Clover | last aired 2026-10-27 11:03 | normal pick now | request now
 OK   Joywave — Rumors | last aired 2026-10-26 15:36 | normal pick now | request now
