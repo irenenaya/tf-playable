@@ -1,4 +1,4 @@
-Track status, artists filed under BI (built Fri Nov 13, 5:25 PM PST (01:25 UTC Sat)). Times in UTC.
+Track status, artists filed under BI (built Fri Nov 13, 5:35 PM PST (01:35 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Bicep — Apricots | last aired 2026-11-13 00:39 | normal pick from 2026-11-15 00:39 | request from 2026-11-15 00:39
@@ -22,5 +22,5 @@ OK   Billy Joel — Get It Right the First Time (Album Version) | last aired 202
 OK   Billy Joel — Honesty (Album Version) | last aired 2026-11-11 15:20 | normal pick now | request now
 OK   Billy Joel — Scenes from an Italian Restaurant (Album Version) | last aired 2026-11-01 19:15 | normal pick now | request now
 OK   Billy Joel — The River of Dreams (Album Version) | last aired 2026-11-05 07:35 | normal pick now | request now
-OK   Billy Joel — Vienna (Album Version) | last aired 2026-11-11 08:32 | normal pick now | request now
+WAIT Billy Joel — Vienna (Album Version) | last aired 2026-11-14 01:28 | normal pick from 2026-11-15 13:28 | request from 2026-11-14 21:28
 OK   Bing Crosby — White Christmas | last aired 2026-09-05 21:37 | normal pick now | request now
