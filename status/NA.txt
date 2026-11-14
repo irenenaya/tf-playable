@@ -1,4 +1,4 @@
-Track status, artists filed under NA (built Sat Nov 14, 6:55 AM PST (14:55 UTC)). Times in UTC.
+Track status, artists filed under NA (built Sat Nov 14, 7:05 AM PST (15:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Nancy Wilson — Guess Who I Saw Today | last aired 2026-11-11 01:45 | normal pick now | request now
@@ -6,10 +6,10 @@ OK   Nanowar of Steel — Norwegian Reggaeton (feat. Charly Glamour & Gigatron) 
 OK   Nanowar of Steel — Valhalleluja | last aired 2026-11-03 18:10 | normal pick now | request now
 OK   Nat King Cole — (I Love You) For Sentimental Reasons | last aired 2026-11-12 05:18 | normal pick now | request now
 OK   Nat King Cole — Autumn Leaves | last aired 2026-11-11 01:38 | normal pick now | request now
-OK   Nat King Cole — L-O-V-E | last aired 2026-11-07 03:32 | normal pick now | request now
+WAIT Nat King Cole — L-O-V-E | last aired 2026-11-14 14:53 | normal pick from 2026-11-16 02:53 | request from 2026-11-15 10:53
 OK   Nat King Cole — Nature Boy | last aired 2026-11-11 12:01 | normal pick now | request now
 OK   Natalie Cole — At Last | last aired 2026-11-06 09:32 | normal pick now | request now
-WAIT Natalie Imbruglia — Torn | last aired 2026-11-14 13:48 | normal pick from 2026-11-16 13:48 | request from 2026-11-16 13:48
+WAIT Natalie Imbruglia — Torn | last aired 2026-11-14 13:49 | normal pick from 2026-11-16 13:49 | request from 2026-11-16 13:49
 OK   Nation of Language — Weak In Your Light | last aired 2026-11-11 12:09 | normal pick now | request now
 OK   Nattalia Sarria — Last Summer Whisper (From "Anri") | last aired 2026-08-02 19:45 | normal pick now | request now
 WAIT The National — About Today (2021 Remaster) | last aired 2026-11-14 03:30 | normal pick from 2026-11-16 03:30 | request from 2026-11-16 03:30

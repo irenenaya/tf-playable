@@ -1,8 +1,8 @@
-Track status, artists filed under BE (built Sat Nov 14, 6:55 AM PST (14:55 UTC)). Times in UTC.
+Track status, artists filed under BE (built Sat Nov 14, 7:05 AM PST (15:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Beach House — Bluebird | last aired 2026-11-14 10:15 | normal pick from 2026-11-15 22:15 | request from 2026-11-15 06:15
-WAIT Beach House — Space Song | last aired 2026-11-14 10:09 | normal pick from 2026-11-16 10:09 | request from 2026-11-16 10:09
+WAIT Beach House — Space Song | last aired 2026-11-14 10:10 | normal pick from 2026-11-16 10:10 | request from 2026-11-16 10:10
 OK   Beastie Boys — Sabotage | last aired 2026-11-10 03:50 | normal pick now | request now
 OK   Beatrice Rana — Keyboard Concerto No. 1 in D Minor, BWV 1052: I. Allegro | last aired 2026-11-10 03:53 | normal pick now | request now
 OK   Beatrice Rana — Libertango (Arr. Yamamoto for Piano 4-Hands) | last aired 2026-11-11 20:14 | normal pick now | request now
@@ -19,7 +19,7 @@ OK   Belle and Sebastian — The Boy with the Arab Strap | last aired 2026-11-10
 OK   Ben Allison — D.A.V.E. | last aired 2026-11-10 16:36 | normal pick now | request now
 OK   Ben E. King — Stand By Me | last aired 2026-11-10 13:10 | normal pick now | request now
 WAIT Ben Harper — Yard Sale | last aired 2026-11-13 14:22 | normal pick from 2026-11-15 14:22 | request from 2026-11-15 14:22
-WAIT Ben Howard — Only Love | last aired 2026-11-14 12:30 | normal pick from 2026-11-16 00:30 | request from 2026-11-15 08:30
+WAIT Ben Howard — Only Love | last aired 2026-11-14 12:30 | normal pick from 2026-11-16 12:30 | request from 2026-11-16 12:30
 OK   Ben&Ben — Leaves | last aired 2026-11-10 04:25 | normal pick now | request now
 OK   Ben&Ben — Maybe The Night | last aired 2026-11-10 13:19 | normal pick now | request now
 OK   Benjamin Francis Leftwich — Ticket To Ride | last aired 2026-11-10 04:36 | normal pick now | request now

@@ -1,4 +1,4 @@
-Track status, song titles filed under SU (built Sat Nov 14, 6:55 AM PST (14:55 UTC)). Times in UTC.
+Track status, song titles filed under SU (built Sat Nov 14, 7:05 AM PST (15:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Subterraneans (2017 Remaster) — David Bowie | last aired 2026-11-14 11:07 | normal pick from 2026-11-15 23:07 | request from 2026-11-15 07:07
@@ -14,7 +14,7 @@ OK   Summer 91 (Looking Back) — Noizu | last aired 2026-11-11 04:49 | normal p
 OK   Summer Moved On (2019 Remaster) — A-Ha | last aired 2026-11-09 21:14 | normal pick now | request now
 OK   Summer Soft — Stevie Wonder | last aired 2026-11-02 20:41 | normal pick now | request now
 WAIT Summertime Blue — Norah Jones | last aired 2026-11-13 14:26 | normal pick from 2026-11-15 02:26 | request now
-OK   Summertime — Ella Fitzgerald | last aired 2026-11-12 11:36 | normal pick now | request now
+WAIT Summertime — Ella Fitzgerald | last aired 2026-11-14 14:56 | normal pick from 2026-11-16 02:56 | request from 2026-11-15 10:56
 OK   Sunny — Boney M. | last aired 2026-11-11 21:49 | normal pick now | request now
 WAIT Sunny — James Brown | last aired 2026-11-13 02:11 | normal pick from 2026-11-15 02:11 | request from 2026-11-15 02:11
 WAIT Sunrain — Ashra | last aired 2026-11-13 09:28 | normal pick from 2026-11-14 21:28 | request now
@@ -24,4 +24,4 @@ WAIT Superstition (Album Version) — Stevie Wonder | last aired 2026-11-13 15:5
 OK   Surprise! You're Dead! — Faith No More | last aired 2026-11-09 19:18 | normal pick now | request now
 OK   Surrounded by Illusion — Eluvium | last aired 2026-11-08 05:31 | normal pick now | request now
 OK   Suspended In Gaffa (2018 Remaster) — Kate Bush | last aired 2026-11-07 17:41 | normal pick now | request now
-WAIT Suzanne — Leonard Cohen | last aired 2026-11-14 11:37 | normal pick from 2026-11-15 23:37 | request from 2026-11-15 07:37
+WAIT Suzanne — Leonard Cohen | last aired 2026-11-14 11:38 | normal pick from 2026-11-15 23:38 | request from 2026-11-15 07:38
