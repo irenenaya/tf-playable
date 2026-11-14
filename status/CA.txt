@@ -1,4 +1,4 @@
-Track status, artists filed under CA (built Sat Nov 14, 5:35 AM PST (13:35 UTC)). Times in UTC.
+Track status, artists filed under CA (built Sat Nov 14, 5:45 AM PST (13:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Caetano Veloso — O Leãozinho (Ao Vivo) | last aired 2026-11-12 13:49 | normal pick from 2026-11-14 13:49 | request from 2026-11-14 13:49
@@ -7,13 +7,13 @@ OK   Café Tacvba — Eres (Album Version) | last aired 2026-11-10 11:19 | norma
 OK   Cage The Elephant — What I'm Becoming | last aired 2026-11-10 11:37 | normal pick now | request now
 OK   Caifanes — Afuera | last aired 2026-11-03 21:03 | normal pick now | request now
 OK   Caifanes — La Negra Tomasa (Bilongo - Version Tropical) | last aired 2026-11-09 16:46 | normal pick now | request now
-WAIT Camille — Ta douleur | last aired 2026-11-12 13:40 | normal pick from 2026-11-14 13:40 | request from 2026-11-14 13:40
+OK   Camille — Ta douleur | last aired 2026-11-12 13:40 | normal pick now | request now
 OK   Camille Thomas — Deux mélodies hébraïques, M. A22 - Ravel: Deux mélodies hébraïques, M. A22: I. Kaddisch (Transcr. by Richard Tognetti for Cello and Orchestra ) | last aired 2026-11-09 02:03 | normal pick now | request now
 OK   Canned Heat — On The Road Again | last aired 2026-11-09 16:38 | normal pick now | request now
 OK   Carbon Based Lifeforms — Photosynthesis | last aired 2026-11-10 10:54 | normal pick now | request now
 OK   Cardiacs — Big Ship | last aired 2026-11-09 16:54 | normal pick now | request now
-WAIT Carlos Gardel — Por una Cabeza | last aired 2026-11-12 13:44 | normal pick from 2026-11-14 13:44 | request from 2026-11-14 13:44
-WAIT Carole King — It's Too Late | last aired 2026-11-12 13:36 | normal pick from 2026-11-14 13:36 | request from 2026-11-14 13:36
+OK   Carlos Gardel — Por una Cabeza | last aired 2026-11-12 13:44 | normal pick now | request now
+OK   Carole King — It's Too Late | last aired 2026-11-12 13:36 | normal pick now | request now
 WAIT Carole King — So Far Away | last aired 2026-11-14 03:07 | normal pick from 2026-11-16 03:07 | request from 2026-11-16 03:07
 OK   Caroline Polachek — Bunny Is A Rider | last aired 2026-11-10 11:41 | normal pick now | request now
 OK   Carter Vail — Ants In My Room | last aired 2026-11-09 02:46 | normal pick now | request now
