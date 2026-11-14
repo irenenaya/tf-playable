@@ -1,8 +1,8 @@
-Track status, artists filed under DU (built Sat Nov 14, 2:45 AM PST (10:45 UTC)). Times in UTC.
+Track status, artists filed under DU (built Sat Nov 14, 2:55 AM PST (10:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Dua Lipa — Don't Start Now | last aired 2026-10-23 09:49 | normal pick now | request now
-WAIT Dua Lipa — Future Nostalgia | last aired 2026-11-12 22:49 | normal pick from 2026-11-14 10:49 | request now
+OK   Dua Lipa — Future Nostalgia | last aired 2026-11-12 22:49 | normal pick now | request now
 WAIT Dua Lipa — Houdini | last aired 2026-11-13 09:57 | normal pick from 2026-11-14 21:57 | request now
 WAIT Dua Lipa — Training Season | last aired 2026-11-13 10:36 | normal pick from 2026-11-14 22:36 | request now
 OK   Duke Ellington — In A Sentimental Mood | last aired 2026-11-12 19:49 | normal pick now | request now
