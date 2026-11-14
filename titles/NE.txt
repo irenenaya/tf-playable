@@ -1,10 +1,10 @@
-Track status, song titles filed under NE (built Sat Nov 14, 12:15 AM PST (08:15 UTC)). Times in UTC.
+Track status, song titles filed under NE (built Sat Nov 14, 12:25 AM PST (08:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Near Dark — Burial | last aired 2026-11-05 04:07 | normal pick now | request now
 WAIT Near Light — Ólafur Arnalds | last aired 2026-11-13 18:13 | normal pick from 2026-11-15 18:13 | request from 2026-11-15 18:13
 OK   Neues Land — Hans Tanz | last aired 2026-11-12 06:04 | normal pick now | request now
-WAIT Never Gonna Give You Up — Rick Astley | last aired 2026-11-12 20:19 | normal pick from 2026-11-14 08:19 | request now
+OK   Never Gonna Give You Up — Rick Astley | last aired 2026-11-12 20:19 | normal pick now | request now
 OK   NEVER — Neuro-sama | last aired 2026-08-30 14:42 | normal pick now | request now
 OK   Never Tear Us Apart — INXS | last aired 2026-11-05 03:44 | normal pick now | request now
 OK   New Grass — Talk Talk | last aired 2026-11-07 05:08 | normal pick now | request now
