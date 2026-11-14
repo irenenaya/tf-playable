@@ -1,4 +1,4 @@
-Track status, song titles filed under AM (built Sat Nov 14, 2:25 PM PST (22:25 UTC)). Times in UTC.
+Track status, song titles filed under AM (built Sat Nov 14, 2:35 PM PST (22:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT A Minha Menina — Os Mutantes | last aired 2026-11-13 20:35 | normal pick from 2026-11-15 08:35 | request now
@@ -9,5 +9,5 @@ OK   Amazing Grace — The Blind Boys Of Alabama | last aired 2026-11-05 14:15 |
 OK   Ambre — Nils Frahm | last aired 2026-11-12 08:23 | normal pick now | request now
 OK   Amen Brother — The Winstons | last aired 2026-11-09 02:30 | normal pick now | request now
 WAIT American Girl — Tom Petty & The Heartbreakers | last aired 2026-11-14 01:11 | normal pick from 2026-11-15 13:11 | request now
-WAIT American Idiot (Album Version) — Green Day | last aired 2026-11-14 02:30 | normal pick from 2026-11-15 14:30 | request from 2026-11-14 22:30
+WAIT American Idiot (Album Version) — Green Day | last aired 2026-11-14 02:30 | normal pick from 2026-11-15 14:30 | request now
 WAIT Amorcito corazón — Pedro Infante | last aired 2026-11-13 05:33 | normal pick from 2026-11-15 05:33 | request from 2026-11-15 05:33
