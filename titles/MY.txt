@@ -1,10 +1,10 @@
-Track status, song titles filed under MY (built Fri Nov 13, 10:15 PM PST (06:15 UTC Sat)). Times in UTC.
+Track status, song titles filed under MY (built Fri Nov 13, 10:25 PM PST (06:25 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT My Favorite Things — John Coltrane | last aired 2026-11-13 18:29 | normal pick from 2026-11-15 06:29 | request from 2026-11-14 14:29
 OK   My Friend (Album Version) — Groove Armada | last aired 2026-11-08 00:59 | normal pick now | request now
 OK   My Friends Over You — New Found Glory | last aired 2026-10-29 23:58 | normal pick now | request now
-OK   My Funny Valentine — Chet Baker | last aired 2026-11-09 11:28 | normal pick now | request now
+WAIT My Funny Valentine — Chet Baker | last aired 2026-11-14 06:18 | normal pick from 2026-11-15 18:18 | request from 2026-11-15 02:18
 OK   My Habit (I Haven't Changed) — Cunninlynguists | last aired 2026-10-30 14:54 | normal pick now | request now
 OK   My Home's Across The Blue Ridge Mountains — Béla Fleck | last aired 2026-11-11 10:08 | normal pick now | request now
 OK   My Kind of Woman — Mac DeMarco | last aired 2026-11-09 23:02 | normal pick now | request now
