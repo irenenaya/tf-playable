@@ -1,11 +1,11 @@
-Track status, song titles filed under DA (built Sat Nov 14, 3:45 AM PST (11:45 UTC)). Times in UTC.
+Track status, song titles filed under DA (built Sat Nov 14, 3:55 AM PST (11:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   D.A.N.C.E. — Justice | last aired 2026-11-05 14:54 | normal pick now | request now
 OK   D.A.V.E. — Ben Allison | last aired 2026-11-10 16:36 | normal pick now | request now
 OK   Damascus (feat. Omar Souleyman and Yasiin Bey) — Gorillaz | last aired 2026-11-02 10:42 | normal pick now | request now
 OK   Damn Right, I've Got the Blues — Buddy Guy | last aired 2026-11-04 23:19 | normal pick now | request now
-OK   Dance Me to the End of Love — Leonard Cohen | last aired 2026-11-08 01:56 | normal pick now | request now
+WAIT Dance Me to the End of Love — Leonard Cohen | last aired 2026-11-14 11:49 | normal pick from 2026-11-15 23:49 | request from 2026-11-15 07:49
 OK   Dance The Pain Away — Haute & Freddy | last aired 2026-11-11 13:30 | normal pick now | request now
 OK   Dancing Barefoot — Patti Smith Group | last aired 2026-10-22 18:30 | normal pick now | request now
 OK   Dancing in the Street (2002 Remaster) — David Bowie | last aired 2026-11-03 12:24 | normal pick now | request now
