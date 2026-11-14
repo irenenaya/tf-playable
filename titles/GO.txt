@@ -1,8 +1,8 @@
-Track status, song titles filed under GO (built Sat Nov 14, 5:25 AM PST (13:25 UTC)). Times in UTC.
+Track status, song titles filed under GO (built Sat Nov 14, 5:35 AM PST (13:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Go Home — Stevie Wonder | last aired 2026-11-02 12:41 | normal pick now | request now
-OK   Go Your Own Way (2004 Remaster) — Fleetwood Mac | last aired 2026-11-09 13:47 | normal pick now | request now
+WAIT Go Your Own Way (2004 Remaster) — Fleetwood Mac | last aired 2026-11-14 13:30 | normal pick from 2026-11-16 13:30 | request from 2026-11-16 13:30
 WAIT God Only Knows (Stereo) — The Beach Boys | last aired 2026-11-14 03:52 | normal pick from 2026-11-15 15:52 | request from 2026-11-14 23:52
 OK   GODDESS — Fireboy DML | last aired 2026-10-22 09:04 | normal pick now | request now
 OK   Gogol — Gonzales | last aired 2026-11-08 02:33 | normal pick now | request now
