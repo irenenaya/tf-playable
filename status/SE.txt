@@ -1,4 +1,4 @@
-Track status, artists filed under SE (built Sat Nov 14, 7:15 AM PST (15:15 UTC)). Times in UTC.
+Track status, artists filed under SE (built Sat Nov 14, 7:25 AM PST (15:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Sea Power — Instrument of Surrender | last aired 2026-11-11 09:29 | normal pick now | request now
@@ -8,6 +8,6 @@ OK   Sea Power — Whirling-In-Rags, 8 AM | last aired 2026-10-31 07:38 | normal
 OK   Seatbelts — Space Lion | last aired 2026-10-18 01:09 | normal pick now | request now
 OK   Sepultura — Roots Bloody Roots (2017 Remaster) | last aired 2026-10-27 03:50 | normal pick now | request now
 OK   Serge Clivio — Your Love Is King | last aired 2026-10-21 15:15 | normal pick now | request now
-OK   Sergio Mendes — Berimbau/Consolacao (Album Version) | last aired 2026-11-11 08:44 | normal pick now | request now
+WAIT Sergio Mendes — Berimbau/Consolacao (Album Version) | last aired 2026-11-14 15:17 | normal pick from 2026-11-16 03:17 | request from 2026-11-15 11:17
 OK   Serú Girán — Viernes, 3AM (2019 Remasterizado) | last aired 2026-11-11 08:39 | normal pick now | request now
 OK   Sex Pistols — Anarchy In The UK | last aired 2026-10-25 03:50 | normal pick now | request now
