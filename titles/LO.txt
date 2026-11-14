@@ -1,4 +1,4 @@
-Track status, song titles filed under LO (built Fri Nov 13, 4:25 PM PST (00:25 UTC Sat)). Times in UTC.
+Track status, song titles filed under LO (built Fri Nov 13, 4:35 PM PST (00:35 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   L-O-V-E — Nat King Cole | last aired 2026-11-07 03:32 | normal pick now | request now
@@ -26,7 +26,7 @@ OK   Love On A Real Train — Tangerine Dream | last aired 2026-10-28 06:54 | no
 WAIT LOVE TRIP — Takako Mamiya | last aired 2026-11-12 10:52 | normal pick from 2026-11-14 10:52 | request from 2026-11-14 10:52
 WAIT Lovely Day — Bill Withers | last aired 2026-11-13 14:08 | normal pick from 2026-11-15 14:08 | request from 2026-11-15 14:08
 OK   Lovers Rock — TV Girl | last aired 2026-10-31 19:36 | normal pick now | request now
-OK   Lovesong (2010 Remaster) — The Cure | last aired 2026-10-31 01:40 | normal pick now | request now
+WAIT Lovesong (2010 Remaster) — The Cure | last aired 2026-11-14 00:29 | normal pick from 2026-11-15 12:29 | request from 2026-11-14 20:29
 OK   Lovin' Every Minute of It — Loverboy | last aired 2026-10-29 12:50 | normal pick now | request now
 OK   Lovin' You — Minnie Riperton | last aired 2026-11-11 21:53 | normal pick now | request now
 OK   Loving Machine — TV Girl | last aired 2026-11-10 19:27 | normal pick now | request now
