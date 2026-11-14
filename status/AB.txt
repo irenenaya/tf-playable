@@ -1,4 +1,4 @@
-Track status, artists filed under AB (built Fri Nov 13, 6:35 PM PST (02:35 UTC Sat)). Times in UTC.
+Track status, artists filed under AB (built Fri Nov 13, 6:45 PM PST (02:45 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT ABBA — Dancing Queen | last aired 2026-11-13 23:14 | normal pick from 2026-11-15 11:14 | request from 2026-11-14 19:14
@@ -6,5 +6,5 @@ OK   ABBA — Don't Shut Me Down | last aired 2026-11-07 13:21 | normal pick now
 WAIT ABBA — Gimme! Gimme! Gimme! (A Man After Midnight) | last aired 2026-11-14 00:25 | normal pick from 2026-11-15 12:25 | request from 2026-11-14 20:25
 OK   ABBA — I Wonder (Departure) | last aired 2026-11-07 15:55 | normal pick now | request now
 WAIT ABBA — Waterloo (English Version) | last aired 2026-11-14 02:07 | normal pick from 2026-11-15 14:07 | request from 2026-11-14 22:07
-WAIT Abdullah Ibrahim — Water From An Ancient Well | last aired 2026-11-12 14:43 | normal pick from 2026-11-14 02:43 | request now
+OK   Abdullah Ibrahim — Water From An Ancient Well | last aired 2026-11-12 14:43 | normal pick now | request now
 OK   Abor & Tynna — Baller | last aired 2026-10-16 02:11 | normal pick now | request now
