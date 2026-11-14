@@ -1,4 +1,4 @@
-Track status, artists filed under HO (built Sat Nov 14, 6:45 AM PST (14:45 UTC)). Times in UTC.
+Track status, artists filed under HO (built Sat Nov 14, 6:55 AM PST (14:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Hollie Col — The Gambler | last aired 2026-11-02 07:11 | normal pick now | request now
@@ -13,6 +13,6 @@ WAIT Howlin' Wolf — Smokestack Lightnin' | last aired 2026-11-13 21:17 | norma
 OK   Hozier — Angel Of Small Death & The Codeine Scene | last aired 2026-11-04 08:39 | normal pick now | request now
 OK   Hozier — Cherry Wine (Live) | last aired 2026-11-12 09:00 | normal pick now | request now
 WAIT Hozier — From Eden | last aired 2026-11-14 14:38 | normal pick from 2026-11-16 02:38 | request from 2026-11-15 10:38
-OK   Hozier — Take Me To Church | last aired 2026-11-04 09:02 | normal pick now | request now
+WAIT Hozier — Take Me To Church | last aired 2026-11-14 14:47 | normal pick from 2026-11-16 02:47 | request from 2026-11-15 10:47
 OK   Hozier — Wasteland, Baby! | last aired 2026-10-30 09:17 | normal pick now | request now
 OK   The Hollyridge Strings — Yesterday | last aired 2026-11-12 08:45 | normal pick now | request now

@@ -1,4 +1,4 @@
-Track status, song titles filed under ST (built Sat Nov 14, 6:45 AM PST (14:45 UTC)). Times in UTC.
+Track status, song titles filed under ST (built Sat Nov 14, 6:55 AM PST (14:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   S.T.A.Y. — Hans Zimmer | last aired 2026-11-10 12:15 | normal pick now | request now
@@ -19,7 +19,7 @@ OK   Stay — Shakespears Sister | last aired 2026-11-12 12:58 | normal pick now
 OK   Steal Away — Robbie Dupree | last aired 2026-11-12 12:50 | normal pick now | request now
 OK   Steep Hills of Vicodin Tears — A Winged Victory For The Sullen | last aired 2026-11-11 17:29 | normal pick now | request now
 OK   Steppe — René Aubry | last aired 2026-11-10 14:47 | normal pick now | request now
-OK   Stick Season — Noah Kahan | last aired 2026-11-11 15:02 | normal pick now | request now
+WAIT Stick Season — Noah Kahan | last aired 2026-11-14 14:43 | normal pick from 2026-11-16 02:43 | request from 2026-11-15 10:43
 OK   Still Life (2015 Remaster) — Iron Maiden | last aired 2026-11-12 23:04 | normal pick now | request now
 OK   Still Loving You (2011 Version) — Scorpions | last aired 2026-11-12 16:50 | normal pick now | request now
 OK   Still Of The Night (2018 Remaster) — Whitesnake | last aired 2026-11-12 22:40 | normal pick now | request now
