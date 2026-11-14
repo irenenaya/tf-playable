@@ -1,4 +1,4 @@
-Track status, song titles filed under CO (built Fri Nov 13, 5:55 PM PST (01:55 UTC Sat)). Times in UTC.
+Track status, song titles filed under CO (built Fri Nov 13, 6:05 PM PST (02:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Coat of Many Colors — Dolly Parton | last aired 2026-11-07 01:20 | normal pick now | request now
@@ -9,7 +9,7 @@ OK   Come Tomorrow (Duet With Barry Gibb (Album Version)) — Various Interprets
 WAIT Comfortably Numb — Pink Floyd | last aired 2026-11-14 01:21 | normal pick from 2026-11-15 13:21 | request from 2026-11-14 21:21
 OK   Coming Back to Life — Pink Floyd | last aired 2026-11-08 07:54 | normal pick now | request now
 WAIT Coming Down from Love — Bobby Caldwell | last aired 2026-11-12 13:26 | normal pick from 2026-11-14 13:26 | request from 2026-11-14 13:26
-WAIT Coming Home — Leon Bridges | last aired 2026-11-13 20:52 | normal pick from 2026-11-15 20:52 | request from 2026-11-15 20:52
+WAIT Coming Home — Leon Bridges | last aired 2026-11-13 20:53 | normal pick from 2026-11-15 20:53 | request from 2026-11-15 20:53
 WAIT Common People (Full Length Version; Album Version) — Pulp | last aired 2026-11-13 03:04 | normal pick from 2026-11-14 15:04 | request now
 WAIT Common Threads — Bobby McFerrin | last aired 2026-11-12 13:22 | normal pick from 2026-11-14 13:22 | request from 2026-11-14 13:22
 OK   Como É Grande o Meu Amor por Você — Raquel Tavares | last aired 2026-11-11 02:53 | normal pick now | request now
@@ -24,7 +24,7 @@ OK   Cool Down — Bernard Purdie | last aired 2026-11-01 03:27 | normal pick no
 WAIT Corcovado (Quiet Nights Of Quiet Stars) — Stan Getz | last aired 2026-11-12 06:42 | normal pick from 2026-11-14 06:42 | request from 2026-11-14 06:42
 OK   Cornfield Chase — Hans Zimmer | last aired 2026-11-09 07:53 | normal pick now | request now
 WAIT Cosmic Girl (Remastered 2013) — Jamiroquai | last aired 2026-11-13 18:53 | normal pick from 2026-11-15 18:53 | request from 2026-11-15 18:53
-WAIT Cotton Fields — Creedence Clearwater Revival | last aired 2026-11-12 14:05 | normal pick from 2026-11-14 02:05 | request now
+OK   Cotton Fields — Creedence Clearwater Revival | last aired 2026-11-12 14:05 | normal pick now | request now
 WAIT Counting Sheep — Brijean | last aired 2026-11-12 07:26 | normal pick from 2026-11-14 07:26 | request from 2026-11-14 07:26
 OK   Cowboy Nudes — Geese | last aired 2026-11-08 03:17 | normal pick now | request now
 OK   Coyote Dance — Robbie Robertson | last aired 2026-11-09 06:42 | normal pick now | request now
