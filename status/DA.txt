@@ -1,4 +1,4 @@
-Track status, artists filed under DA (built Sat Nov 14, 1:55 AM PST (09:55 UTC)). Times in UTC.
+Track status, artists filed under DA (built Sat Nov 14, 2:05 AM PST (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   D'Angelo — Untitled (How Does It Feel) | last aired 2026-11-12 04:29 | normal pick now | request now
@@ -16,6 +16,7 @@ OK   Dalida — Paroles paroles (Album Version) | last aired 2026-11-12 04:36 | 
 OK   Damien Rice — The Blower's Daughter | last aired 2026-11-12 05:03 | normal pick now | request now
 OK   Daniel Barenboim — Nocturne n° 2 in E flat, op. 9 n° 2 - Nocturne No. 2 in E-Flat Major, Op. 9 No. 2 | last aired 2026-11-01 06:18 | normal pick now | request now
 OK   Daniel Pemberton — Amaze Amaze Amaze (Life on Erid) (from "Project Hail Mary") | last aired 2026-11-12 05:08 | normal pick now | request now
+WAIT Daniel Quien — Otros Colores | last aired 2026-11-14 06:51 | normal pick from 2026-11-15 18:51 | request from 2026-11-15 02:51
 OK   Dara — Bangaranga | last aired 2026-11-02 14:36 | normal pick now | request now
 OK   Darude — Sandstorm | last aired 2026-11-12 04:41 | normal pick now | request now
 OK   Daryl Hall & John Oates — I Can't Go For That (No Can Do) (Remastered 2003) | last aired 2026-11-02 13:01 | normal pick now | request now
@@ -28,7 +29,7 @@ OK   David Bowie — Dollar Days | last aired 2026-11-06 18:53 | normal pick now
 WAIT David Bowie — Let's Dance (2018 Remaster) | last aired 2026-11-14 05:46 | normal pick from 2026-11-15 17:46 | request from 2026-11-15 01:46
 WAIT David Bowie — Moonage Daydream (2012 Remaster) | last aired 2026-11-14 04:46 | normal pick from 2026-11-15 16:46 | request from 2026-11-15 00:46
 WAIT David Bowie — Rebel Rebel | last aired 2026-11-14 06:34 | normal pick from 2026-11-15 18:34 | request from 2026-11-15 02:34
-WAIT David Bowie — Slip Away | last aired 2026-11-14 06:08 | normal pick from 2026-11-15 18:08 | request from 2026-11-15 02:08
+WAIT David Bowie — Slip Away | last aired 2026-11-14 06:09 | normal pick from 2026-11-15 18:09 | request from 2026-11-15 02:09
 OK   David Bowie — Slow Burn | last aired 2026-10-31 22:15 | normal pick now | request now
 OK   David Bowie — Sound and Vision (2017 Remaster) | last aired 2026-10-23 15:48 | normal pick now | request now
 WAIT David Bowie — Space Oddity | last aired 2026-11-13 21:34 | normal pick from 2026-11-15 09:34 | request from 2026-11-14 17:34

@@ -1,4 +1,4 @@
-Track status, song titles filed under RI (built Sat Nov 14, 1:55 AM PST (09:55 UTC)). Times in UTC.
+Track status, song titles filed under RI (built Sat Nov 14, 2:05 AM PST (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Richter: Shadow Journal — Tilda Swinton | last aired 2026-11-13 08:31 | normal pick from 2026-11-14 20:31 | request now
@@ -12,6 +12,7 @@ OK   Right In Front Of Me — Tiny Habits | last aired 2026-11-07 18:24 | normal
 OK   Ring of Fire — Johnny Cash | last aired 2026-11-04 13:07 | normal pick now | request now
 OK   Ring Ring Ring — Tyler, The Creator | last aired 2026-11-11 18:06 | normal pick now | request now
 OK   Rise Like a Phoenix — Conchita Wurst | last aired 2026-11-11 23:46 | normal pick now | request now
+WAIT risk — Lace | last aired 2026-11-14 07:45 | normal pick from 2026-11-15 19:45 | request from 2026-11-15 03:45
 WAIT River — Joni Mitchell | last aired 2026-11-13 17:01 | normal pick from 2026-11-15 05:01 | request from 2026-11-14 13:01
 OK   Riviera Paradise — Stevie Ray Vaughan & Double Trouble | last aired 2026-11-10 21:10 | normal pick now | request now
 OK   The Rite of Spring (1913 Version) - Le Sacre du Printemps (The Rite of Spring): Les augures printaniers (Danses des adolescentes) [The Augurs of Spring (Dance of the Young Girls)] (1913 Version) — Leonard Bernstein | last aired 2026-11-10 02:39 | normal pick now | request now
