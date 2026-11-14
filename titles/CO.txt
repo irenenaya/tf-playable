@@ -1,4 +1,4 @@
-Track status, song titles filed under CO (built Sat Nov 14, 5:15 AM PST (13:15 UTC)). Times in UTC.
+Track status, song titles filed under CO (built Sat Nov 14, 5:25 AM PST (13:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Coat of Many Colors — Dolly Parton | last aired 2026-11-07 01:20 | normal pick now | request now
@@ -11,7 +11,7 @@ OK   Coming Back to Life — Pink Floyd | last aired 2026-11-08 07:54 | normal p
 WAIT Coming Down from Love — Bobby Caldwell | last aired 2026-11-12 13:26 | normal pick from 2026-11-14 13:26 | request from 2026-11-14 13:26
 WAIT Coming Home — Leon Bridges | last aired 2026-11-13 20:53 | normal pick from 2026-11-15 20:53 | request from 2026-11-15 20:53
 WAIT Common People (Full Length Version; Album Version) — Pulp | last aired 2026-11-13 03:04 | normal pick from 2026-11-14 15:04 | request now
-WAIT Common Threads — Bobby McFerrin | last aired 2026-11-12 13:22 | normal pick from 2026-11-14 13:22 | request from 2026-11-14 13:22
+OK   Common Threads — Bobby McFerrin | last aired 2026-11-12 13:22 | normal pick now | request now
 OK   Como É Grande o Meu Amor por Você — Raquel Tavares | last aired 2026-11-11 02:53 | normal pick now | request now
 WAIT Comptine d'un autre été, l'après-midi — Yann Tiersen | last aired 2026-11-14 12:38 | normal pick from 2026-11-16 00:38 | request from 2026-11-15 08:38
 WAIT Computer Incantations for World Peace — Jean-Luc Ponty | last aired 2026-11-13 01:32 | normal pick from 2026-11-14 13:32 | request now
