@@ -1,4 +1,4 @@
-Track status, artists filed under TO (built Sat Nov 14, 12:55 AM PST (08:55 UTC)). Times in UTC.
+Track status, artists filed under TO (built Sat Nov 14, 1:05 AM PST (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   toe — Goodbye (Live) | last aired 2026-11-08 19:07 | normal pick now | request now
@@ -11,7 +11,7 @@ OK   Tom Konkle — Life Without The Living | last aired 2026-11-10 19:31 | norm
 WAIT Tom Konkle — Light Bulb In My Head | last aired 2026-11-14 08:45 | normal pick from 2026-11-15 20:45 | request from 2026-11-15 04:45
 OK   Tom Konkle — Losing Faith | last aired 2026-11-09 21:00 | normal pick now | request now
 OK   Tom Konkle — Manipulation (The Dance) | last aired 2026-11-02 00:49 | normal pick now | request now
-OK   Tom Konkle — Name On A Screen | last aired 2026-10-24 14:24 | normal pick now | request now
+WAIT Tom Konkle — Name On A Screen | last aired 2026-11-14 08:57 | normal pick from 2026-11-15 20:57 | request from 2026-11-15 04:57
 OK   Tom Konkle — One Last Time | last aired 2026-09-17 07:17 | normal pick now | request now
 OK   Tom Konkle — When Did Love Become A Test | last aired 2026-11-11 16:51 | normal pick now | request now
 OK   Tom Lehrer — Poisoning Pigeons in the Park | last aired 2026-11-12 16:40 | normal pick now | request now
