@@ -1,4 +1,4 @@
-Track status, song titles filed under CO (built Fri Nov 13, 10:35 PM PST (06:35 UTC Sat)). Times in UTC.
+Track status, song titles filed under CO (built Fri Nov 13, 10:45 PM PST (06:45 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Coat of Many Colors — Dolly Parton | last aired 2026-11-07 01:20 | normal pick now | request now
@@ -21,7 +21,7 @@ OK   Concrete Over Water — Jockstrap | last aired 2026-11-12 10:56 | normal pi
 WAIT Construção — Chico Buarque | last aired 2026-11-13 20:06 | normal pick from 2026-11-15 08:06 | request from 2026-11-14 16:06
 OK   Cool Change — Little River Band | last aired 2026-10-28 08:49 | normal pick now | request now
 OK   Cool Down — Bernard Purdie | last aired 2026-11-01 03:27 | normal pick now | request now
-WAIT Corcovado (Quiet Nights Of Quiet Stars) — Stan Getz | last aired 2026-11-12 06:42 | normal pick from 2026-11-14 06:42 | request from 2026-11-14 06:42
+OK   Corcovado (Quiet Nights Of Quiet Stars) — Stan Getz | last aired 2026-11-12 06:42 | normal pick now | request now
 OK   Cornfield Chase — Hans Zimmer | last aired 2026-11-09 07:53 | normal pick now | request now
 WAIT Cosmic Girl (Remastered 2013) — Jamiroquai | last aired 2026-11-13 18:53 | normal pick from 2026-11-15 18:53 | request from 2026-11-15 18:53
 OK   Cotton Fields — Creedence Clearwater Revival | last aired 2026-11-12 14:05 | normal pick now | request now

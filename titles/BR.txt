@@ -1,4 +1,4 @@
-Track status, song titles filed under BR (built Fri Nov 13, 10:35 PM PST (06:35 UTC Sat)). Times in UTC.
+Track status, song titles filed under BR (built Fri Nov 13, 10:45 PM PST (06:45 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Brandenburg Concerto No. 3 in G Major, BWV 1048: I. Allegro — Herbert Waltl | last aired 2026-10-25 05:19 | normal pick now | request now
@@ -14,5 +14,5 @@ OK   Brillas — Leon Larregui | last aired 2026-11-11 02:42 | normal pick now |
 OK   Bring Me To Life — Evanescence | last aired 2026-11-11 19:19 | normal pick now | request now
 WAIT Brothers in Arms — Dire Straits | last aired 2026-11-12 18:48 | normal pick from 2026-11-14 06:48 | request now
 OK   Brothers In Arms — Junkie XL | last aired 2026-10-28 10:19 | normal pick now | request now
-WAIT Brown Fluorescence — Helado Negro | last aired 2026-11-12 18:42 | normal pick from 2026-11-14 06:42 | request now
+OK   Brown Fluorescence — Helado Negro | last aired 2026-11-12 18:42 | normal pick now | request now
 OK   Brutal Love — The Vampire Lestat | last aired 2026-10-09 15:42 | normal pick now | request now
