@@ -1,4 +1,4 @@
-Track status, artists filed under NA (built Fri Nov 13, 8:35 PM PST (04:35 UTC Sat)). Times in UTC.
+Track status, artists filed under NA (built Fri Nov 13, 8:45 PM PST (04:45 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Nancy Wilson — Guess Who I Saw Today | last aired 2026-11-11 01:45 | normal pick now | request now
@@ -13,4 +13,4 @@ OK   Natalie Imbruglia — Torn | last aired 2026-11-11 01:41 | normal pick now 
 OK   Nation of Language — Weak In Your Light | last aired 2026-11-11 12:09 | normal pick now | request now
 OK   Nattalia Sarria — Last Summer Whisper (From "Anri") | last aired 2026-08-02 19:45 | normal pick now | request now
 WAIT The National — About Today (2021 Remaster) | last aired 2026-11-14 03:30 | normal pick from 2026-11-15 15:30 | request from 2026-11-14 23:30
-OK   The National — Bloodbuzz Ohio (Live in Rome) | last aired 2026-11-03 13:20 | normal pick now | request now
+WAIT The National — Bloodbuzz Ohio (Live in Rome) | last aired 2026-11-14 04:32 | normal pick from 2026-11-15 16:32 | request from 2026-11-15 00:32
