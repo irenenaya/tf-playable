@@ -1,4 +1,4 @@
-Track status, artists filed under LE (built Sat Nov 14, 1:45 PM PST (21:45 UTC)). Times in UTC.
+Track status, artists filed under LE (built Sat Nov 14, 1:55 PM PST (21:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT LeAnn Rimes — Blue | last aired 2026-11-13 00:02 | normal pick from 2026-11-15 00:02 | request from 2026-11-15 00:02
@@ -7,7 +7,7 @@ WAIT Led Zeppelin — Going to California (Remaster) | last aired 2026-11-14 21:
 OK   Led Zeppelin — Over the Hills and Far Away (Remaster) | last aired 2026-11-10 23:05 | normal pick now | request now
 OK   Led Zeppelin — Stairway to Heaven (Remaster) | last aired 2026-11-11 23:12 | normal pick now | request now
 OK   Ledward Kaapana — Salomila (Live) | last aired 2026-11-10 02:51 | normal pick now | request now
-OK   Lemon Jelly — Ramblin' Man | last aired 2026-11-12 20:33 | normal pick now | request now
+WAIT Lemon Jelly — Ramblin' Man | last aired 2026-11-14 21:42 | normal pick from 2026-11-16 21:42 | request from 2026-11-16 21:42
 WAIT Leon Bridges — Coming Home | last aired 2026-11-13 20:53 | normal pick from 2026-11-15 20:53 | request from 2026-11-15 20:53
 OK   Leon Larregui — Brillas | last aired 2026-11-11 02:42 | normal pick now | request now
 OK   Leon Larregui — Locos | last aired 2026-11-11 22:51 | normal pick now | request now
@@ -21,7 +21,7 @@ WAIT Leonard Cohen — Famous Blue Raincoat | last aired 2026-11-14 11:29 | norm
 WAIT Leonard Cohen — Hallelujah | last aired 2026-11-13 23:29 | normal pick from 2026-11-15 11:29 | request now
 OK   Leonard Cohen — So Long, Marianne | last aired 2026-11-03 11:37 | normal pick now | request now
 WAIT Leonard Cohen — Suzanne | last aired 2026-11-14 11:38 | normal pick from 2026-11-15 23:38 | request from 2026-11-15 07:38
-OK   Leonard Cohen — Treaty | last aired 2026-11-02 11:40 | normal pick now | request now
+WAIT Leonard Cohen — Treaty | last aired 2026-11-14 21:49 | normal pick from 2026-11-16 09:49 | request from 2026-11-15 17:49
 OK   Lester Flatt, Earl Scruggs — Foggy Mountain Breakdown | last aired 2026-11-10 22:59 | normal pick now | request now
 OK   Levante — SEI TU | last aired 2026-11-10 23:10 | normal pick now | request now
 OK   The Leeward Fits — Over the Rainbow (Israel Kamakawiwoʻole Cover) | last aired 2026-11-11 02:46 | normal pick now | request now
