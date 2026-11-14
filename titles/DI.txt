@@ -1,9 +1,9 @@
-Track status, song titles filed under DI (built Sat Nov 14, 11:15 AM PST (19:15 UTC)). Times in UTC.
+Track status, song titles filed under DI (built Sat Nov 14, 11:35 AM PST (19:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Die With A Smile (Bruno Mars & Lady Gaga Cover - BBC Radio 1 Live Lounge) — Perrie | last aired 2026-10-21 15:11 | normal pick now | request now
 OK   Diet Mountain Dew — Lana Del Rey | last aired 2026-11-08 23:42 | normal pick now | request now
-OK   Dinner At Eight — Rufus Wainwright | last aired 2026-11-12 08:40 | normal pick now | request now
+WAIT Dinner At Eight — Rufus Wainwright | last aired 2026-11-14 19:23 | normal pick from 2026-11-16 07:23 | request from 2026-11-15 15:23
 OK   Disco Man — Remi Wolf | last aired 2026-11-10 14:26 | normal pick now | request now
 WAIT Disco Yes — Tom Misch | last aired 2026-11-14 18:18 | normal pick from 2026-11-16 06:18 | request from 2026-11-15 14:18
 OK   Distant Lover — Marvin Gaye | last aired 2026-11-11 10:17 | normal pick now | request now
