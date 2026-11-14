@@ -1,11 +1,11 @@
-Track status, song titles filed under ST (built Sat Nov 14, 10:55 AM PST (18:55 UTC)). Times in UTC.
+Track status, song titles filed under ST (built Sat Nov 14, 11:05 AM PST (19:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   S.T.A.Y. — Hans Zimmer | last aired 2026-11-10 12:15 | normal pick now | request now
 WAIT St. James Infirmary — Jim James | last aired 2026-11-13 23:46 | normal pick from 2026-11-15 11:46 | request from 2026-11-14 19:46
 OK   Stacy's Mom — Fountains Of Wayne | last aired 2026-11-12 20:13 | normal pick now | request now
 OK   Stairway to Heaven (Remaster) — Led Zeppelin | last aired 2026-11-11 23:12 | normal pick now | request now
-WAIT Stand By Me — Ben E. King | last aired 2026-11-14 15:48 | normal pick from 2026-11-16 03:48 | request from 2026-11-15 11:48
+WAIT Stand By Me — Ben E. King | last aired 2026-11-14 15:49 | normal pick from 2026-11-16 03:49 | request from 2026-11-15 11:49
 OK   Stand By Your Man (Album Version) — Tammy Wynette | last aired 2026-10-27 20:41 | normal pick now | request now
 OK   Star Fruit Surf Rider (Damon Albarn Remix) — Cornelius | last aired 2026-11-11 23:57 | normal pick now | request now
 OK   Starboy — The Weeknd | last aired 2026-10-31 23:35 | normal pick now | request now
@@ -19,7 +19,7 @@ OK   Stay — Shakespears Sister | last aired 2026-11-12 12:58 | normal pick now
 OK   Steal Away — Robbie Dupree | last aired 2026-11-12 12:50 | normal pick now | request now
 OK   Steep Hills of Vicodin Tears — A Winged Victory For The Sullen | last aired 2026-11-11 17:29 | normal pick now | request now
 OK   Steppe — René Aubry | last aired 2026-11-10 14:47 | normal pick now | request now
-WAIT Stick Season — Noah Kahan | last aired 2026-11-14 14:43 | normal pick from 2026-11-16 02:43 | request from 2026-11-15 10:43
+WAIT Stick Season — Noah Kahan | last aired 2026-11-14 14:44 | normal pick from 2026-11-16 02:44 | request from 2026-11-15 10:44
 OK   Still Life (2015 Remaster) — Iron Maiden | last aired 2026-11-12 23:04 | normal pick now | request now
 OK   Still Loving You (2011 Version) — Scorpions | last aired 2026-11-12 16:50 | normal pick now | request now
 OK   Still Of The Night (2018 Remaster) — Whitesnake | last aired 2026-11-12 22:40 | normal pick now | request now
