@@ -1,4 +1,4 @@
-Track status, artists filed under DE (built Fri Nov 13, 9:55 PM PST (05:55 UTC Sat)). Times in UTC.
+Track status, artists filed under DE (built Fri Nov 13, 10:05 PM PST (06:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   De La Soul — Me Myself and I | last aired 2026-11-10 11:29 | normal pick now | request now
@@ -16,5 +16,5 @@ OK   Dennis Edwards — Don't Look Any Further (Single Version) | last aired 202
 WAIT Depeche Mode — Enjoy the Silence | last aired 2026-11-14 03:41 | normal pick from 2026-11-15 15:41 | request from 2026-11-14 23:41
 OK   Depeche Mode — Just Can't Get Enough | last aired 2026-10-31 13:33 | normal pick now | request now
 WAIT Depeche Mode — Policy of Truth | last aired 2026-11-14 04:27 | normal pick from 2026-11-15 16:27 | request from 2026-11-15 00:27
-WAIT Depeche Mode — Precious | last aired 2026-11-14 05:06 | normal pick from 2026-11-15 17:06 | request from 2026-11-15 01:06
+WAIT Depeche Mode — Precious | last aired 2026-11-14 05:07 | normal pick from 2026-11-15 17:07 | request from 2026-11-15 01:07
 OK   Derek & The Dominos — Layla | last aired 2026-10-29 09:21 | normal pick now | request now
