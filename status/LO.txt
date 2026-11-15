@@ -1,7 +1,7 @@
-Track status, artists filed under LO (built Sat Nov 14, 9:45 PM PST (05:45 UTC Sun)). Times in UTC.
+Track status, artists filed under LO (built Sat Nov 14, 9:55 PM PST (05:55 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Lofi Fruits Music — Plastic Love | last aired 2026-11-10 09:03 | normal pick now | request now
+WAIT Lofi Fruits Music — Plastic Love | last aired 2026-11-15 05:48 | normal pick from 2026-11-16 17:48 | request from 2026-11-16 01:48
 WAIT Lofi Lia — Tell Your World (From "Hatsune Miku") (Lofi Remix) | last aired 2026-11-15 05:25 | normal pick from 2026-11-16 17:25 | request from 2026-11-16 01:25
 WAIT London Symphony Orchestra — Duel of the Fates | last aired 2026-11-15 05:38 | normal pick from 2026-11-16 17:38 | request from 2026-11-16 01:38
 OK   LoneGray — Tell Your World | last aired 2026-11-10 08:55 | normal pick now | request now
@@ -20,6 +20,6 @@ WAIT Louis Jordan & His Tympany Five — Choo Choo Ch'Boogie | last aired 2026-1
 WAIT Louis Prima — Jump, Jive, An' Wail (Remastered) | last aired 2026-11-15 05:09 | normal pick from 2026-11-16 17:09 | request from 2026-11-16 01:09
 OK   Lovage — Anger Management (Instrumental) | last aired 2026-09-25 16:39 | normal pick now | request now
 WAIT Love and Rockets — Haunted When the Minutes Drag | last aired 2026-11-15 05:01 | normal pick from 2026-11-16 17:01 | request from 2026-11-16 01:01
-OK   Love and Rockets — Saudade | last aired 2026-11-10 10:42 | normal pick now | request now
+WAIT Love and Rockets — Saudade | last aired 2026-11-15 05:43 | normal pick from 2026-11-16 17:43 | request from 2026-11-16 01:43
 OK   Love and Rockets — So Alive | last aired 2026-10-29 12:34 | normal pick now | request now
-OK   Loverboy — Lovin' Every Minute of It | last aired 2026-10-29 12:50 | normal pick now | request now
+WAIT Loverboy — Lovin' Every Minute of It | last aired 2026-11-15 05:49 | normal pick from 2026-11-16 17:49 | request from 2026-11-16 01:49
