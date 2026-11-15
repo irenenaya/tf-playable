@@ -1,4 +1,4 @@
-Track status, artists filed under LO (built Sat Nov 14, 9:05 PM PST (05:05 UTC Sun)). Times in UTC.
+Track status, artists filed under LO (built Sat Nov 14, 9:15 PM PST (05:15 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Lofi Fruits Music — Plastic Love | last aired 2026-11-10 09:03 | normal pick now | request now
@@ -17,7 +17,7 @@ OK   Lou Reed — Goodnight Ladies | last aired 2026-11-10 08:43 | normal pick n
 OK   Lou Reed — Perfect Day | last aired 2026-10-29 12:31 | normal pick now | request now
 OK   Louis Clark — Teo Torriatte (Let Us Cling Together) | last aired 2026-11-10 10:47 | normal pick now | request now
 OK   Louis Jordan & His Tympany Five — Choo Choo Ch'Boogie | last aired 2026-11-10 17:24 | normal pick now | request now
-OK   Louis Prima — Jump, Jive, An' Wail (Remastered) | last aired 2026-11-10 11:45 | normal pick now | request now
+WAIT Louis Prima — Jump, Jive, An' Wail (Remastered) | last aired 2026-11-15 05:09 | normal pick from 2026-11-16 17:09 | request from 2026-11-16 01:09
 OK   Lovage — Anger Management (Instrumental) | last aired 2026-09-25 16:39 | normal pick now | request now
 WAIT Love and Rockets — Haunted When the Minutes Drag | last aired 2026-11-15 05:01 | normal pick from 2026-11-16 17:01 | request from 2026-11-16 01:01
 OK   Love and Rockets — Saudade | last aired 2026-11-10 10:42 | normal pick now | request now
