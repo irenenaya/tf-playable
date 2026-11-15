@@ -1,29 +1,29 @@
-Track status, artists filed under ST (built Sun Nov 15, 7:55 AM PST (15:55 UTC)). Times in UTC.
+Track status, artists filed under ST (built Sun Nov 15, 8:05 AM PST (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT St Germain — Rose rouge | last aired 2026-11-15 13:41 | normal pick from 2026-11-17 13:41 | request from 2026-11-17 13:41
 WAIT Stan Bush — The Touch | last aired 2026-11-15 15:19 | normal pick from 2026-11-17 03:19 | request from 2026-11-16 11:19
 WAIT Stan Getz — Corcovado (Quiet Nights Of Quiet Stars) | last aired 2026-11-14 15:01 | normal pick from 2026-11-16 15:01 | request from 2026-11-16 15:01
-WAIT Stardust — Music Sounds Better With You | last aired 2026-11-15 14:46 | normal pick from 2026-11-17 02:46 | request from 2026-11-16 10:46
+WAIT Stardust — Music Sounds Better With You | last aired 2026-11-15 14:47 | normal pick from 2026-11-17 14:47 | request from 2026-11-17 14:47
 OK   Stars of the Lid — Requiem for Dying Mothers, Pt. 1 | last aired 2026-11-13 07:18 | normal pick now | request now
-WAIT Stars of the Lid — Requiem for Dying Mothers, Pt. 2 | last aired 2026-11-15 13:42 | normal pick from 2026-11-17 13:42 | request from 2026-11-17 13:42
-WAIT Stealers Wheel — Stuck In The Middle With You | last aired 2026-11-15 13:29 | normal pick from 2026-11-17 13:29 | request from 2026-11-17 13:29
+WAIT Stars of the Lid — Requiem for Dying Mothers, Pt. 2 | last aired 2026-11-15 13:43 | normal pick from 2026-11-17 13:43 | request from 2026-11-17 13:43
+WAIT Stealers Wheel — Stuck In The Middle With You | last aired 2026-11-15 13:30 | normal pick from 2026-11-17 13:30 | request from 2026-11-17 13:30
 WAIT Steely Dan — Almost Gothic (Album Version) | last aired 2026-11-15 02:00 | normal pick from 2026-11-16 14:00 | request from 2026-11-15 22:00
 WAIT Steely Dan — Babylon Sisters | last aired 2026-11-14 23:12 | normal pick from 2026-11-16 23:12 | request from 2026-11-16 23:12
 WAIT Steely Dan — Home At Last | last aired 2026-11-14 02:41 | normal pick from 2026-11-16 02:41 | request from 2026-11-16 02:41
 OK   Steely Dan — Jack of Speed (Album Version) | last aired 2026-11-02 12:51 | normal pick now | request now
-WAIT Steely Dan — Kid Charlemagne | last aired 2026-11-15 13:59 | normal pick from 2026-11-17 01:59 | request from 2026-11-16 09:59
-WAIT Steely Dan — Peg | last aired 2026-11-15 13:21 | normal pick from 2026-11-17 01:21 | request from 2026-11-16 09:21
+WAIT Steely Dan — Kid Charlemagne | last aired 2026-11-15 14:00 | normal pick from 2026-11-17 02:00 | request from 2026-11-16 10:00
+WAIT Steely Dan — Peg | last aired 2026-11-15 13:22 | normal pick from 2026-11-17 01:22 | request from 2026-11-16 09:22
 WAIT Steely Dan — Time Out Of Mind | last aired 2026-11-14 04:23 | normal pick from 2026-11-15 16:23 | request now
 OK   Steve Miller Band — The Joker | last aired 2026-11-07 18:55 | normal pick now | request now
-WAIT Steve Roach — Living the Dream | last aired 2026-11-15 15:32 | normal pick from 2026-11-17 03:32 | request from 2026-11-16 11:32
+WAIT Steve Roach — Living the Dream | last aired 2026-11-15 15:32 | normal pick from 2026-11-17 15:32 | request from 2026-11-17 15:32
 OK   Stevie Ray Vaughan & Double Trouble — Pride and Joy | last aired 2026-11-07 19:00 | normal pick now | request now
-WAIT Stevie Ray Vaughan & Double Trouble — Riviera Paradise | last aired 2026-11-15 13:50 | normal pick from 2026-11-17 01:50 | request from 2026-11-16 09:50
+WAIT Stevie Ray Vaughan & Double Trouble — Riviera Paradise | last aired 2026-11-15 13:51 | normal pick from 2026-11-17 01:51 | request from 2026-11-16 09:51
 WAIT Stevie Wonder — As | last aired 2026-11-14 23:04 | normal pick from 2026-11-16 11:04 | request from 2026-11-15 19:04
 WAIT Stevie Wonder — Go Home | last aired 2026-11-15 01:55 | normal pick from 2026-11-16 13:55 | request from 2026-11-15 21:55
 OK   Stevie Wonder — Golden Lady | last aired 2026-11-13 14:44 | normal pick now | request now
 OK   Stevie Wonder — Happy Birthday | last aired 2026-11-02 00:43 | normal pick now | request now
-WAIT Stevie Wonder — Higher Ground (Album Version) | last aired 2026-11-15 13:25 | normal pick from 2026-11-17 01:25 | request from 2026-11-16 09:25
+WAIT Stevie Wonder — Higher Ground (Album Version) | last aired 2026-11-15 13:26 | normal pick from 2026-11-17 01:26 | request from 2026-11-16 09:26
 WAIT Stevie Wonder — I Wish | last aired 2026-11-14 05:42 | normal pick from 2026-11-15 17:42 | request now
 WAIT Stevie Wonder — Isn't She Lovely | last aired 2026-11-14 15:38 | normal pick from 2026-11-16 03:38 | request now
 OK   Stevie Wonder — Living For The City (Album Version) | last aired 2026-11-01 21:22 | normal pick now | request now
@@ -35,9 +35,9 @@ OK   Stevie Wonder — You Haven't Done Nothin' | last aired 2026-11-02 19:53 | 
 WAIT Still Woozy — Get Down | last aired 2026-11-15 13:33 | normal pick from 2026-11-17 01:33 | request from 2026-11-16 09:33
 OK   Sting — Desert Rose (Album Version) | last aired 2026-11-01 21:16 | normal pick now | request now
 OK   Sting — Fields Of Gold (My Songs Version) | last aired 2026-11-06 19:16 | normal pick now | request now
-WAIT Sting — Fragile | last aired 2026-11-15 13:10 | normal pick from 2026-11-17 01:10 | request from 2026-11-16 09:10
+WAIT Sting — Fragile | last aired 2026-11-15 13:10 | normal pick from 2026-11-17 13:10 | request from 2026-11-17 13:10
 OK   Sting — If You Love Somebody Set Them Free (Single Edit) | last aired 2026-11-02 12:47 | normal pick now | request now
-WAIT Sting — Shape Of My Heart (My Songs Version) | last aired 2026-11-15 14:04 | normal pick from 2026-11-17 02:04 | request from 2026-11-16 10:04
+WAIT Sting — Shape Of My Heart (My Songs Version) | last aired 2026-11-15 14:05 | normal pick from 2026-11-17 02:05 | request from 2026-11-16 10:05
 OK   Stratovarius — Black Diamond | last aired 2026-11-02 03:41 | normal pick now | request now
 OK   Studio Group — As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige | last aired 2026-08-08 23:18 | normal pick now | request now
 OK   Studio Group — Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired 2026-08-31 18:46 | normal pick now | request now
