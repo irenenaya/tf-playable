@@ -1,4 +1,4 @@
-Track status, artists filed under MO (built Sun Nov 15, 6:25 AM PST (14:25 UTC)). Times in UTC.
+Track status, artists filed under MO (built Sun Nov 15, 6:35 AM PST (14:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Moby — In My Heart | last aired 2026-11-10 12:41 | normal pick now | request now
@@ -12,5 +12,5 @@ OK   Moloko — The Time Is Now | last aired 2026-11-12 02:13 | normal pick now 
 OK   Monster Magnet — Nod Scene | last aired 2026-11-11 02:14 | normal pick now | request now
 OK   Montaigne — I Am Not an End | last aired 2026-11-12 02:06 | normal pick now | request now
 OK   Montaigne — Technicolour | last aired 2026-10-31 16:35 | normal pick now | request now
-WAIT Morcheeba — Trigger Hippie | last aired 2026-11-14 18:30 | normal pick from 2026-11-16 06:30 | request from 2026-11-15 14:30
+WAIT Morcheeba — Trigger Hippie | last aired 2026-11-14 18:30 | normal pick from 2026-11-16 06:30 | request now
 WAIT Mort Garson — Plantasia | last aired 2026-11-14 16:12 | normal pick from 2026-11-16 04:12 | request now

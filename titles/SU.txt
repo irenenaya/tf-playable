@@ -1,4 +1,4 @@
-Track status, song titles filed under SU (built Sun Nov 15, 6:25 AM PST (14:25 UTC)). Times in UTC.
+Track status, song titles filed under SU (built Sun Nov 15, 6:35 AM PST (14:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Subterraneans (2017 Remaster) — David Bowie | last aired 2026-11-14 11:07 | normal pick from 2026-11-15 23:07 | request now
@@ -16,7 +16,7 @@ WAIT Summer Soft — Stevie Wonder | last aired 2026-11-14 15:44 | normal pick f
 WAIT Summertime Blue — Norah Jones | last aired 2026-11-15 06:27 | normal pick from 2026-11-16 18:27 | request from 2026-11-16 02:27
 WAIT Summertime — Ella Fitzgerald | last aired 2026-11-14 14:56 | normal pick from 2026-11-16 14:56 | request from 2026-11-16 14:56
 WAIT Sunny — Boney M. | last aired 2026-11-15 09:20 | normal pick from 2026-11-17 09:20 | request from 2026-11-17 09:20
-OK   Sunny — James Brown | last aired 2026-11-13 02:11 | normal pick now | request now
+WAIT Sunny — James Brown | last aired 2026-11-15 14:28 | normal pick from 2026-11-17 14:28 | request from 2026-11-17 14:28
 OK   Sunrain — Ashra | last aired 2026-11-13 09:28 | normal pick now | request now
 OK   Sunset Lover — Petit Biscuit | last aired 2026-11-11 00:36 | normal pick now | request now
 WAIT Superstar (The Jason Nevins' Live Peep Show Mix) — Tom Novy | last aired 2026-11-15 04:43 | normal pick from 2026-11-16 16:43 | request from 2026-11-16 00:43
