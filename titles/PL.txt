@@ -1,4 +1,4 @@
-Track status, song titles filed under PL (built Sun Nov 15, 11:55 AM PST (19:55 UTC)). Times in UTC.
+Track status, song titles filed under PL (built Sun Nov 15, 12:05 PM PST (20:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Plainsong (Remastered) — The Cure | last aired 2026-11-14 02:54 | normal pick now | request now
@@ -10,4 +10,4 @@ OK   Please Don't Leave Me — P!nk | last aired 2026-10-09 03:01 | normal pick 
 OK   Please Please Please — Sabrina Carpenter | last aired 2026-11-11 01:05 | normal pick now | request now
 OK   Please Read The Letter — Robert Plant | last aired 2026-11-12 12:38 | normal pick now | request now
 OK   Pleasure Model (Rohaan Remix) — Noisia | last aired 2026-11-09 03:03 | normal pick now | request now
-OK   Plegaria para un Niño Dormido — Almendra | last aired 2026-11-08 08:53 | normal pick now | request now
+WAIT Plegaria para un Niño Dormido — Almendra | last aired 2026-11-15 19:59 | normal pick from 2026-11-17 07:59 | request from 2026-11-16 15:59

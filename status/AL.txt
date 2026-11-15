@@ -1,4 +1,4 @@
-Track status, artists filed under AL (built Sun Nov 15, 11:55 AM PST (19:55 UTC)). Times in UTC.
+Track status, artists filed under AL (built Sun Nov 15, 12:05 PM PST (20:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Al Di Meola — Double Concerto | last aired 2026-11-09 02:17 | normal pick now | request now
@@ -25,11 +25,11 @@ WAIT Alexandre Tharaud — Gnossienne No.1 - Gnossienne: No. 1 | last aired 2026
 WAIT Alexi Murdoch — Orange Sky | last aired 2026-11-15 19:24 | normal pick from 2026-11-17 19:24 | request from 2026-11-17 19:24
 WAIT Alfa Mist — Organic Rust | last aired 2026-11-15 19:30 | normal pick from 2026-11-17 19:30 | request from 2026-11-17 19:30
 WAIT Ali Farka Touré — Soukora | last aired 2026-11-14 16:51 | normal pick from 2026-11-16 16:51 | request from 2026-11-16 16:51
-OK   Alice Coltrane — Journey In Satchidananda | last aired 2026-11-13 17:30 | normal pick now | request now
+WAIT Alice Coltrane — Journey In Satchidananda | last aired 2026-11-15 19:52 | normal pick from 2026-11-17 19:52 | request from 2026-11-17 19:52
 OK   Alice In Chains — Man in the Box | last aired 2026-11-09 03:27 | normal pick now | request now
 WAIT Alicia Keys — Fallin' (Album Version) | last aired 2026-11-14 16:44 | normal pick from 2026-11-16 04:44 | request now
 WAIT Alison Krauss — Down To The River To Pray (Live) | last aired 2026-11-15 19:45 | normal pick from 2026-11-17 19:45 | request from 2026-11-17 19:45
-OK   Almendra — Plegaria para un Niño Dormido | last aired 2026-11-08 08:53 | normal pick now | request now
+WAIT Almendra — Plegaria para un Niño Dormido | last aired 2026-11-15 19:59 | normal pick from 2026-11-17 07:59 | request from 2026-11-16 15:59
 OK   Alvin Lucier — I Am Sitting in a Room | last aired 2026-11-10 07:37 | normal pick now | request now
 WAIT Alvvays — Belinda Says | last aired 2026-11-15 19:35 | normal pick from 2026-11-17 19:35 | request from 2026-11-17 19:35
 OK   Alèmayèhu Eshèté — Tashamanaletch | last aired 2026-11-09 09:31 | normal pick now | request now
