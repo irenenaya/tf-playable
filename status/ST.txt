@@ -1,4 +1,4 @@
-Track status, artists filed under ST (built Sun Nov 15, 5:25 AM PST (13:25 UTC)). Times in UTC.
+Track status, artists filed under ST (built Sun Nov 15, 5:35 AM PST (13:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT St Germain — Rose rouge | last aired 2026-11-15 13:14 | normal pick from 2026-11-17 13:14 | request from 2026-11-17 13:14
@@ -7,7 +7,7 @@ WAIT Stan Getz — Corcovado (Quiet Nights Of Quiet Stars) | last aired 2026-11-
 OK   Stardust — Music Sounds Better With You | last aired 2026-11-08 16:41 | normal pick now | request now
 OK   Stars of the Lid — Requiem for Dying Mothers, Pt. 1 | last aired 2026-11-13 07:18 | normal pick now | request now
 OK   Stars of the Lid — Requiem for Dying Mothers, Pt. 2 | last aired 2026-11-13 07:53 | normal pick now | request now
-OK   Stealers Wheel — Stuck In The Middle With You | last aired 2026-11-10 20:58 | normal pick now | request now
+WAIT Stealers Wheel — Stuck In The Middle With You | last aired 2026-11-15 13:29 | normal pick from 2026-11-17 13:29 | request from 2026-11-17 13:29
 WAIT Steely Dan — Almost Gothic (Album Version) | last aired 2026-11-15 02:00 | normal pick from 2026-11-16 14:00 | request from 2026-11-15 22:00
 WAIT Steely Dan — Babylon Sisters | last aired 2026-11-14 23:12 | normal pick from 2026-11-16 23:12 | request from 2026-11-16 23:12
 WAIT Steely Dan — Home At Last | last aired 2026-11-14 02:41 | normal pick from 2026-11-16 02:41 | request from 2026-11-16 02:41
@@ -23,7 +23,7 @@ WAIT Stevie Wonder — As | last aired 2026-11-14 23:04 | normal pick from 2026-
 WAIT Stevie Wonder — Go Home | last aired 2026-11-15 01:55 | normal pick from 2026-11-16 13:55 | request from 2026-11-15 21:55
 WAIT Stevie Wonder — Golden Lady | last aired 2026-11-13 14:44 | normal pick from 2026-11-15 14:44 | request from 2026-11-15 14:44
 OK   Stevie Wonder — Happy Birthday | last aired 2026-11-02 00:43 | normal pick now | request now
-OK   Stevie Wonder — Higher Ground (Album Version) | last aired 2026-11-13 15:46 | normal pick now | request now
+WAIT Stevie Wonder — Higher Ground (Album Version) | last aired 2026-11-15 13:25 | normal pick from 2026-11-17 01:25 | request from 2026-11-16 09:25
 WAIT Stevie Wonder — I Wish | last aired 2026-11-14 05:42 | normal pick from 2026-11-15 17:42 | request now
 WAIT Stevie Wonder — Isn't She Lovely | last aired 2026-11-14 15:38 | normal pick from 2026-11-16 03:38 | request now
 OK   Stevie Wonder — Living For The City (Album Version) | last aired 2026-11-01 21:22 | normal pick now | request now
