@@ -1,9 +1,9 @@
-Track status, artists filed under LI (built Sun Nov 15, 2:45 AM PST (10:45 UTC)). Times in UTC.
+Track status, artists filed under LI (built Sun Nov 15, 2:55 AM PST (10:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   L'Impératrice — Sonate Pacifique | last aired 2026-11-01 18:55 | normal pick now | request now
 OK   Liam Comerford — Front Line (action) | last aired 2026-11-10 19:39 | normal pick now | request now
-OK   Lianne La Havas — Sour Flower | last aired 2026-11-13 20:46 | normal pick now | request now
+WAIT Lianne La Havas — Sour Flower | last aired 2026-11-15 10:42 | normal pick from 2026-11-16 22:42 | request from 2026-11-16 06:42
 OK   Lianne La Havas — Unstoppable | last aired 2026-11-13 20:40 | normal pick now | request now
 OK   Lil Jon — Get Low [Explicit] | last aired 2026-10-21 16:43 | normal pick now | request now
 OK   Limp Bizkit — Rollin' (Air Raid Vehicle) | last aired 2026-10-29 19:59 | normal pick now | request now
@@ -16,5 +16,5 @@ WAIT Lisa Gerrard — Until We Meet Again | last aired 2026-11-15 10:36 | normal
 OK   Lita Ford & Ozzy Osborne — Close My Eyes Forever | last aired 2026-10-29 21:20 | normal pick now | request now
 OK   Little Axe — Ride On (Fight On) | last aired 2026-10-29 21:15 | normal pick now | request now
 OK   Little People — Start Shootin' | last aired 2026-10-29 21:58 | normal pick now | request now
-OK   Little River Band — Cool Change | last aired 2026-10-28 08:49 | normal pick now | request now
+WAIT Little River Band — Cool Change | last aired 2026-11-15 10:49 | normal pick from 2026-11-16 22:49 | request from 2026-11-16 06:49
 OK   Little River Band — Reminiscing (2002 Digital Remaster) | last aired 2026-10-31 18:50 | normal pick now | request now
