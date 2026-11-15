@@ -1,4 +1,4 @@
-Track status, artists filed under TO (built Sat Nov 14, 8:05 PM PST (04:05 UTC Sun)). Times in UTC.
+Track status, artists filed under TO (built Sat Nov 14, 8:15 PM PST (04:15 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   toe — Goodbye (Live) | last aired 2026-11-08 19:07 | normal pick now | request now
@@ -14,7 +14,7 @@ WAIT Tom Konkle — Manipulation (The Dance) | last aired 2026-11-14 09:16 | nor
 WAIT Tom Konkle — Name On A Screen | last aired 2026-11-14 08:57 | normal pick from 2026-11-15 20:57 | request from 2026-11-15 04:57
 WAIT Tom Konkle — One Last Time | last aired 2026-11-15 04:00 | normal pick from 2026-11-16 16:00 | request from 2026-11-16 00:00
 WAIT Tom Konkle — When Did Love Become A Test | last aired 2026-11-14 09:36 | normal pick from 2026-11-15 21:36 | request from 2026-11-15 05:36
-OK   Tom Lehrer — Poisoning Pigeons in the Park | last aired 2026-11-12 16:40 | normal pick now | request now
+WAIT Tom Lehrer — Poisoning Pigeons in the Park | last aired 2026-11-15 04:10 | normal pick from 2026-11-16 16:10 | request from 2026-11-16 00:10
 WAIT Tom Misch — Disco Yes | last aired 2026-11-14 18:18 | normal pick from 2026-11-16 06:18 | request from 2026-11-15 14:18
 WAIT Tom Misch — It Runs Through Me (feat. De La Soul) | last aired 2026-11-14 18:02 | normal pick from 2026-11-16 06:02 | request from 2026-11-15 14:02
 OK   Tom Novy — Superstar (The Jason Nevins' Live Peep Show Mix) | last aired 2026-10-21 03:32 | normal pick now | request now
@@ -24,7 +24,7 @@ WAIT Tom Petty — Runnin' Down A Dream | last aired 2026-11-14 00:42 | normal p
 OK   Tom Robinson — The Saturday Disco | last aired 2026-10-24 21:03 | normal pick now | request now
 WAIT Tom Waits — House Where Nobody Lives | last aired 2026-11-14 11:45 | normal pick from 2026-11-15 23:45 | request from 2026-11-15 07:45
 WAIT Tomaso Albinoni — Adagio in G Minor | last aired 2026-11-15 03:51 | normal pick from 2026-11-16 15:51 | request from 2026-11-15 23:51
-OK   Tomohisa Okudo — Always with Me | last aired 2026-10-28 10:05 | normal pick now | request now
+WAIT Tomohisa Okudo — Always with Me | last aired 2026-11-15 04:06 | normal pick from 2026-11-16 16:06 | request from 2026-11-16 00:06
 OK   Toni Braxton — Un-Break My Heart | last aired 2026-10-27 18:18 | normal pick now | request now
 OK   Tonto's Expanding Head Band — Cybernaut | last aired 2026-11-01 10:51 | normal pick now | request now
 WAIT Tony Bennett & Faith Hill — The Way You Look Tonight | last aired 2026-11-14 15:31 | normal pick from 2026-11-16 03:31 | request from 2026-11-15 11:31
