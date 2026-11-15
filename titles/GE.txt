@@ -1,9 +1,9 @@
-Track status, song titles filed under GE (built Sun Nov 15, 2:15 AM PST (10:15 UTC)). Times in UTC.
+Track status, song titles filed under GE (built Sun Nov 15, 2:25 AM PST (10:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Gee — Girls' Generation | last aired 2026-11-04 17:00 | normal pick now | request now
 OK   Genie In a Bottle — Christina Aguilera | last aired 2026-10-30 14:20 | normal pick now | request now
-OK   Georgy Porgy (album version) — Toto | last aired 2026-11-13 21:53 | normal pick now | request now
+WAIT Georgy Porgy (album version) — Toto | last aired 2026-11-15 10:16 | normal pick from 2026-11-16 22:16 | request from 2026-11-16 06:16
 OK   Get Back (2021 Mix) — The Beatles | last aired 2026-10-30 19:43 | normal pick now | request now
 OK   Get Down (Rediscovered) — Blank & Jones | last aired 2026-11-11 17:45 | normal pick now | request now
 OK   Get Down — Still Woozy | last aired 2026-11-01 16:45 | normal pick now | request now
