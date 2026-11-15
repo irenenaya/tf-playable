@@ -1,4 +1,4 @@
-Track status, artists filed under BO (built Sun Nov 15, 12:55 AM PST (08:55 UTC)). Times in UTC.
+Track status, artists filed under BO (built Sun Nov 15, 1:05 AM PST (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Boards of Canada — Blood In The Labyrinth | last aired 2026-11-14 11:55 | normal pick from 2026-11-16 11:55 | request from 2026-11-16 11:55
@@ -8,13 +8,13 @@ WAIT Boards of Canada — Roygbiv | last aired 2026-11-13 15:18 | normal pick fr
 WAIT Bob Dylan — Girl from the North Country | last aired 2026-11-14 13:23 | normal pick from 2026-11-16 13:23 | request from 2026-11-16 13:23
 OK   Bob Dylan — The Lonesome Death of Hattie Carroll | last aired 2026-11-12 13:30 | normal pick now | request now
 WAIT Bob Marley & The Wailers — Get Up, Stand Up | last aired 2026-11-13 22:44 | normal pick from 2026-11-15 22:44 | request from 2026-11-15 22:44
-OK   Bobby Caldwell — Coming Down from Love | last aired 2026-11-12 13:26 | normal pick now | request now
-OK   Bobby Caldwell — What You Won't Do for Love | last aired 2026-11-08 04:29 | normal pick now | request now
+WAIT Bobby Caldwell — Coming Down from Love | last aired 2026-11-15 08:56 | normal pick from 2026-11-17 08:56 | request from 2026-11-17 08:56
+WAIT Bobby Caldwell — What You Won't Do for Love | last aired 2026-11-15 09:01 | normal pick from 2026-11-16 21:01 | request from 2026-11-16 05:01
 OK   Bobby Darin — Beyond the Sea | last aired 2026-11-11 21:42 | normal pick now | request now
 WAIT Bobby Hutcherson — Stardust | last aired 2026-11-15 08:22 | normal pick from 2026-11-17 08:22 | request from 2026-11-17 08:22
 WAIT Bobby McFerrin — Common Threads | last aired 2026-11-15 08:49 | normal pick from 2026-11-16 20:49 | request from 2026-11-16 04:49
 OK   Bobby McFerrin — Don't Worry Be Happy | last aired 2026-11-09 12:54 | normal pick now | request now
-OK   Bobby Vinton — Blue Velvet | last aired 2026-11-07 20:20 | normal pick now | request now
+WAIT Bobby Vinton — Blue Velvet | last aired 2026-11-15 08:53 | normal pick from 2026-11-16 20:53 | request from 2026-11-16 04:53
 WAIT Bon Iver — Holocene | last aired 2026-11-13 12:56 | normal pick from 2026-11-15 12:56 | request from 2026-11-15 12:56
 WAIT Bon Iver — Skinny Love | last aired 2026-11-14 04:37 | normal pick from 2026-11-16 04:37 | request from 2026-11-16 04:37
 OK   Bon Jovi — Livin' On A Prayer | last aired 2026-11-10 23:29 | normal pick now | request now
