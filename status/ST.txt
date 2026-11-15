@@ -1,7 +1,7 @@
-Track status, artists filed under ST (built Sun Nov 15, 5:15 AM PST (13:15 UTC)). Times in UTC.
+Track status, artists filed under ST (built Sun Nov 15, 5:25 AM PST (13:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   St Germain — Rose rouge | last aired 2026-11-13 08:56 | normal pick now | request now
+WAIT St Germain — Rose rouge | last aired 2026-11-15 13:14 | normal pick from 2026-11-17 13:14 | request from 2026-11-17 13:14
 OK   Stan Bush — The Touch | last aired 2026-11-10 21:06 | normal pick now | request now
 WAIT Stan Getz — Corcovado (Quiet Nights Of Quiet Stars) | last aired 2026-11-14 15:01 | normal pick from 2026-11-16 15:01 | request from 2026-11-16 15:01
 OK   Stardust — Music Sounds Better With You | last aired 2026-11-08 16:41 | normal pick now | request now
@@ -13,7 +13,7 @@ WAIT Steely Dan — Babylon Sisters | last aired 2026-11-14 23:12 | normal pick 
 WAIT Steely Dan — Home At Last | last aired 2026-11-14 02:41 | normal pick from 2026-11-16 02:41 | request from 2026-11-16 02:41
 OK   Steely Dan — Jack of Speed (Album Version) | last aired 2026-11-02 12:51 | normal pick now | request now
 OK   Steely Dan — Kid Charlemagne | last aired 2026-11-14 00:20 | normal pick now | request now
-OK   Steely Dan — Peg | last aired 2026-11-13 22:27 | normal pick now | request now
+WAIT Steely Dan — Peg | last aired 2026-11-15 13:21 | normal pick from 2026-11-17 01:21 | request from 2026-11-16 09:21
 WAIT Steely Dan — Time Out Of Mind | last aired 2026-11-14 04:23 | normal pick from 2026-11-15 16:23 | request now
 OK   Steve Miller Band — The Joker | last aired 2026-11-07 18:55 | normal pick now | request now
 OK   Steve Roach — Living the Dream | last aired 2026-11-13 08:39 | normal pick now | request now

@@ -1,4 +1,4 @@
-Track status, artists filed under HA (built Sun Nov 15, 5:15 AM PST (13:15 UTC)). Times in UTC.
+Track status, artists filed under HA (built Sun Nov 15, 5:25 AM PST (13:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Haddaway — What Is Love (7" Mix) (Remastered 2025) (7" Mix / Remastered 2025) | last aired 2026-11-10 17:40 | normal pick now | request now
@@ -19,10 +19,10 @@ OK   Hard Life — daydreams | last aired 2026-11-11 13:24 | normal pick now | r
 OK   Hardcore Superstar — We Don't Celebrate Sundays | last aired 2026-11-10 19:06 | normal pick now | request now
 OK   Hariprasad Chaurasia — Bhupali | last aired 2026-11-08 10:00 | normal pick now | request now
 OK   Harold Budd — A Stream With Bright Fish (2005 Digital Remaster) | last aired 2026-11-13 11:42 | normal pick now | request now
-WAIT Harold Budd — Lost In The Humming Air (2005 Digital Remaster) | last aired 2026-11-13 13:16 | normal pick from 2026-11-15 13:16 | request from 2026-11-15 13:16
+OK   Harold Budd — Lost In The Humming Air (2005 Digital Remaster) | last aired 2026-11-13 13:16 | normal pick now | request now
 OK   Harris Jayaraj — Adiyae Kolluthey (From "Vaaranam Aayiram") | last aired 2026-11-09 02:49 | normal pick now | request now
 OK   Harry Styles — As It Was | last aired 2026-11-11 13:27 | normal pick now | request now
-WAIT Harry Styles — Watermelon Sugar | last aired 2026-11-14 17:18 | normal pick from 2026-11-16 05:18 | request from 2026-11-15 13:18
+WAIT Harry Styles — Watermelon Sugar | last aired 2026-11-14 17:18 | normal pick from 2026-11-16 05:18 | request now
 OK   Haute & Freddy — Dance The Pain Away | last aired 2026-11-11 13:30 | normal pick now | request now
 OK   Haute & Freddy — Shy Girl | last aired 2026-11-09 02:43 | normal pick now | request now
 OK   Hayley Williams — Simmer (Acoustic) | last aired 2026-11-09 01:38 | normal pick now | request now
