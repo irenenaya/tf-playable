@@ -1,4 +1,4 @@
-Track status, song titles filed under YO (built Sun Nov 15, 12:35 AM PST (08:35 UTC)). Times in UTC.
+Track status, song titles filed under YO (built Sun Nov 15, 12:45 AM PST (08:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   You and I — Papooz | last aired 2026-11-11 13:17 | normal pick now | request now
@@ -21,7 +21,7 @@ WAIT You're The One That I Want — Angus & Julia Stone | last aired 2026-11-14 
 WAIT Young And Beautiful — Lana Del Rey | last aired 2026-11-14 18:57 | normal pick from 2026-11-16 18:57 | request from 2026-11-16 18:57
 OK   Young Lady, You're Scaring Me — Ron Gallo | last aired 2026-11-12 17:55 | normal pick now | request now
 OK   Your Flag Decal Won't Get You into Heaven Anymore — John Prine | last aired 2026-11-04 13:10 | normal pick now | request now
-OK   Your Hand in Mine — Explosions In The Sky | last aired 2026-11-09 07:31 | normal pick now | request now
+WAIT Your Hand in Mine — Explosions In The Sky | last aired 2026-11-15 08:35 | normal pick from 2026-11-16 20:35 | request from 2026-11-16 04:35
 WAIT Your Latest Trick — Dire Straits | last aired 2026-11-13 23:39 | normal pick from 2026-11-15 11:39 | request now
 OK   Your Love Is King — Serge Clivio | last aired 2026-10-21 15:15 | normal pick now | request now
 OK   Your Mrs — JAY1 | last aired 2026-11-10 01:10 | normal pick now | request now

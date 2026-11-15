@@ -1,4 +1,4 @@
-Track status, song titles filed under GR (built Sun Nov 15, 12:35 AM PST (08:35 UTC)). Times in UTC.
+Track status, song titles filed under GR (built Sun Nov 15, 12:45 AM PST (08:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Grace Kelly — MIKA | last aired 2026-11-11 01:58 | normal pick now | request now
@@ -8,4 +8,4 @@ WAIT greedy — Tate McRae | last aired 2026-11-15 02:33 | normal pick from 2026
 OK   Green Onions — Booker T. & The M.G.'s | last aired 2026-11-09 14:29 | normal pick now | request now
 WAIT The Great Gig in the Sky (2023 Remaster) — Pink Floyd | last aired 2026-11-15 01:32 | normal pick from 2026-11-16 13:32 | request from 2026-11-15 21:32
 OK   The Great Pretender (Single Version) — The Platters | last aired 2026-10-31 23:30 | normal pick now | request now
-WAIT The Greatest — Cat Power | last aired 2026-11-14 12:45 | normal pick from 2026-11-16 00:45 | request from 2026-11-15 08:45
+WAIT The Greatest — Cat Power | last aired 2026-11-14 12:45 | normal pick from 2026-11-16 00:45 | request now
