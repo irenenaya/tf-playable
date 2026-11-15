@@ -1,7 +1,7 @@
-Track status, artists filed under DI (built Sun Nov 15, 12:25 PM PST (20:25 UTC)). Times in UTC.
+Track status, artists filed under DI (built Sun Nov 15, 12:35 PM PST (20:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Diana Krall — A Case Of You (Live) | last aired 2026-11-14 08:33 | normal pick from 2026-11-15 20:33 | request now
+OK   Diana Krall — A Case Of You (Live) | last aired 2026-11-14 08:33 | normal pick now | request now
 WAIT Diana Krall — How Deep Is The Ocean | last aired 2026-11-14 08:27 | normal pick from 2026-11-16 08:27 | request from 2026-11-16 08:27
 OK   Diana Ross — I'm Coming Out | last aired 2026-11-12 21:47 | normal pick now | request now
 OK   Diana Ross — Muscles | last aired 2026-11-11 23:41 | normal pick now | request now
