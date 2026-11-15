@@ -1,4 +1,4 @@
-Track status, song titles filed under CH (built Sat Nov 14, 8:35 PM PST (04:35 UTC Sun)). Times in UTC.
+Track status, song titles filed under CH (built Sat Nov 14, 8:45 PM PST (04:45 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Cha Cha Cha — Käärijä | last aired 2026-10-29 16:13 | normal pick now | request now
@@ -20,7 +20,7 @@ OK   Cherry Wine (Live) — Hozier | last aired 2026-11-12 09:00 | normal pick n
 OK   Cherry-coloured Funk — Cocteau Twins | last aired 2026-11-11 23:54 | normal pick now | request now
 OK   Chewbaca — Supernova | last aired 2026-10-06 14:30 | normal pick now | request now
 OK   Child in Time (Special Version) — Rock appetizers | last aired 2026-09-22 21:18 | normal pick now | request now
-OK   Children of No Horizon — Tom Konkle | last aired 2026-11-08 10:08 | normal pick now | request now
+WAIT Children of No Horizon — Tom Konkle | last aired 2026-11-15 04:35 | normal pick from 2026-11-16 16:35 | request from 2026-11-16 00:35
 OK   Children Of The Revolution — T. Rex | last aired 2026-11-11 21:25 | normal pick now | request now
 OK   Chinatown — Wild Nothing | last aired 2026-11-11 05:26 | normal pick now | request now
 OK   Choo Choo Ch'Boogie — Louis Jordan & His Tympany Five | last aired 2026-11-10 17:24 | normal pick now | request now
