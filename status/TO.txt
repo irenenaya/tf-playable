@@ -1,4 +1,4 @@
-Track status, artists filed under TO (built Sun Nov 15, 12:55 PM PST (20:55 UTC)). Times in UTC.
+Track status, artists filed under TO (built Sun Nov 15, 1:05 PM PST (21:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   toe — Goodbye (Live) | last aired 2026-11-08 19:07 | normal pick now | request now
@@ -9,16 +9,16 @@ WAIT Tom Konkle — Children of No Horizon | last aired 2026-11-15 04:35 | norma
 WAIT Tom Konkle — Fail Upward For A Change | last aired 2026-11-14 09:23 | normal pick from 2026-11-15 21:23 | request now
 WAIT Tom Konkle — Life Without The Living | last aired 2026-11-14 09:08 | normal pick from 2026-11-15 21:08 | request now
 OK   Tom Konkle — Light Bulb In My Head | last aired 2026-11-14 08:45 | normal pick now | request now
-WAIT Tom Konkle — Losing Faith | last aired 2026-11-14 09:03 | normal pick from 2026-11-15 21:03 | request now
+OK   Tom Konkle — Losing Faith | last aired 2026-11-14 09:03 | normal pick now | request now
 WAIT Tom Konkle — Manipulation (The Dance) | last aired 2026-11-14 09:16 | normal pick from 2026-11-15 21:16 | request now
-WAIT Tom Konkle — Name On A Screen | last aired 2026-11-14 08:57 | normal pick from 2026-11-15 20:57 | request now
+OK   Tom Konkle — Name On A Screen | last aired 2026-11-14 08:57 | normal pick now | request now
 WAIT Tom Konkle — One Last Time | last aired 2026-11-15 04:00 | normal pick from 2026-11-16 16:00 | request from 2026-11-16 00:00
 WAIT Tom Konkle — When Did Love Become A Test | last aired 2026-11-14 09:36 | normal pick from 2026-11-15 21:36 | request now
 WAIT Tom Lehrer — Poisoning Pigeons in the Park | last aired 2026-11-15 04:11 | normal pick from 2026-11-16 16:11 | request from 2026-11-16 00:11
 WAIT Tom Misch — Disco Yes | last aired 2026-11-14 18:18 | normal pick from 2026-11-16 06:18 | request now
 WAIT Tom Misch — It Runs Through Me (feat. De La Soul) | last aired 2026-11-14 18:02 | normal pick from 2026-11-16 06:02 | request now
 WAIT Tom Novy — Superstar (The Jason Nevins' Live Peep Show Mix) | last aired 2026-11-15 04:43 | normal pick from 2026-11-16 16:43 | request from 2026-11-16 00:43
-WAIT Tom Petty & The Heartbreakers — American Girl | last aired 2026-11-15 16:37 | normal pick from 2026-11-17 04:37 | request from 2026-11-16 12:37
+WAIT Tom Petty & The Heartbreakers — American Girl | last aired 2026-11-15 16:38 | normal pick from 2026-11-17 04:38 | request from 2026-11-16 12:38
 WAIT Tom Petty — I Won't Back Down | last aired 2026-11-15 03:48 | normal pick from 2026-11-17 03:48 | request from 2026-11-17 03:48
 OK   Tom Petty — Runnin' Down A Dream | last aired 2026-11-14 00:42 | normal pick now | request now
 OK   Tom Robinson — The Saturday Disco | last aired 2026-10-24 21:03 | normal pick now | request now
