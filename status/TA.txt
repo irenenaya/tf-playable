@@ -1,4 +1,4 @@
-Track status, artists filed under TA (built Sun Nov 15, 3:25 PM PST (23:25 UTC)). Times in UTC.
+Track status, artists filed under TA (built Sun Nov 15, 3:35 PM PST (23:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Tabu — Dobra Vila | last aired 2026-10-22 16:58 | normal pick now | request now
@@ -20,6 +20,6 @@ WAIT Tangerine Dream — Love On A Real Train | last aired 2026-11-15 03:13 | no
 WAIT Tangerine Dream — Stratosfear (Digital Remastered) | last aired 2026-11-15 00:51 | normal pick from 2026-11-16 12:51 | request now
 WAIT Tate McRae — greedy | last aired 2026-11-15 02:33 | normal pick from 2026-11-16 14:33 | request now
 WAIT Tate McRae — Miss possessive | last aired 2026-11-15 03:03 | normal pick from 2026-11-16 15:03 | request now
-WAIT Tate McRae — TIT FOR TAT | last aired 2026-11-15 03:30 | normal pick from 2026-11-16 15:30 | request from 2026-11-15 23:30
+WAIT Tate McRae — TIT FOR TAT | last aired 2026-11-15 03:30 | normal pick from 2026-11-16 15:30 | request now
 WAIT Taylor Swift — Cruel Summer | last aired 2026-11-15 01:26 | normal pick from 2026-11-16 13:26 | request now
 WAIT The Tallest Man On Earth — The Gardener | last aired 2026-11-15 01:13 | normal pick from 2026-11-16 13:13 | request now
