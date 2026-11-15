@@ -1,4 +1,4 @@
-Track status, artists filed under DA (built Sun Nov 15, 5:35 AM PST (13:35 UTC)). Times in UTC.
+Track status, artists filed under DA (built Sun Nov 15, 5:45 AM PST (13:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT D'Angelo — Untitled (How Does It Feel) | last aired 2026-11-14 19:41 | normal pick from 2026-11-16 19:41 | request from 2026-11-16 19:41
@@ -9,7 +9,7 @@ OK   Daft Punk — Harder, Better, Faster, Stronger | last aired 2026-11-13 19:4
 WAIT Daft Punk — One More Time | last aired 2026-11-13 19:51 | normal pick from 2026-11-15 19:51 | request from 2026-11-15 19:51
 WAIT Daft Punk — Something About Us | last aired 2026-11-13 19:21 | normal pick from 2026-11-15 19:21 | request from 2026-11-15 19:21
 OK   Daft Punk — Touch It / Technologic | last aired 2026-11-09 17:43 | normal pick now | request now
-WAIT Daft Punk — Voyager | last aired 2026-11-14 17:37 | normal pick from 2026-11-16 05:37 | request from 2026-11-15 13:37
+WAIT Daft Punk — Voyager | last aired 2026-11-14 17:37 | normal pick from 2026-11-16 05:37 | request now
 OK   Dafuniks — The Dance | last aired 2026-11-11 03:51 | normal pick now | request now
 OK   Daikaiju — Magic Wanda | last aired 2026-11-11 03:47 | normal pick now | request now
 OK   Dalida — Paroles paroles (Album Version) | last aired 2026-11-12 04:36 | normal pick now | request now
