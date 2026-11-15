@@ -1,4 +1,4 @@
-Track status, artists filed under LO (built Sat Nov 14, 9:55 PM PST (05:55 UTC Sun)). Times in UTC.
+Track status, artists filed under LO (built Sat Nov 14, 10:05 PM PST (06:05 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Lofi Fruits Music — Plastic Love | last aired 2026-11-15 05:48 | normal pick from 2026-11-16 17:48 | request from 2026-11-16 01:48
@@ -6,7 +6,7 @@ WAIT Lofi Lia — Tell Your World (From "Hatsune Miku") (Lofi Remix) | last aire
 WAIT London Symphony Orchestra — Duel of the Fates | last aired 2026-11-15 05:38 | normal pick from 2026-11-16 17:38 | request from 2026-11-16 01:38
 OK   LoneGray — Tell Your World | last aired 2026-11-10 08:55 | normal pick now | request now
 WAIT Lord Huron — Life Is Strange | last aired 2026-11-15 02:35 | normal pick from 2026-11-17 02:35 | request from 2026-11-17 02:35
-OK   Lordi — Hard Rock Hallelujah | last aired 2026-11-09 13:58 | normal pick now | request now
+WAIT Lordi — Hard Rock Hallelujah | last aired 2026-11-15 05:53 | normal pick from 2026-11-16 17:53 | request from 2026-11-16 01:53
 WAIT Loreen — Euphoria | last aired 2026-11-15 05:31 | normal pick from 2026-11-16 17:31 | request from 2026-11-16 01:31
 OK   Loreena McKennitt — The Holly and the Ivy (Live) | last aired 2026-10-19 19:02 | normal pick now | request now
 WAIT Los Enanitos Verdes — Lamento Boliviano | last aired 2026-11-15 05:34 | normal pick from 2026-11-16 17:34 | request from 2026-11-16 01:34
