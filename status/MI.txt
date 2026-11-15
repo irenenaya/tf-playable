@@ -1,4 +1,4 @@
-Track status, artists filed under MI (built Sun Nov 15, 10:15 AM PST (18:15 UTC)). Times in UTC.
+Track status, artists filed under MI (built Sun Nov 15, 10:25 AM PST (18:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Mica Levi — Love | last aired 2026-11-15 17:40 | normal pick from 2026-11-17 05:40 | request from 2026-11-16 13:40
@@ -21,7 +21,7 @@ WAIT Mike Oldfield — Moonlight Shadow | last aired 2026-11-15 17:10 | normal p
 WAIT Mikis Theodorakis — Zorba the Greek: Zorba's Dance | last aired 2026-11-15 17:32 | normal pick from 2026-11-17 05:32 | request from 2026-11-16 13:32
 WAIT Miles Davis — Blue in Green | last aired 2026-11-15 16:55 | normal pick from 2026-11-17 04:55 | request from 2026-11-16 12:55
 WAIT Miles Davis — Flamenco Sketches | last aired 2026-11-15 17:13 | normal pick from 2026-11-17 05:13 | request from 2026-11-16 13:13
-WAIT Miles Davis — So What | last aired 2026-11-13 18:19 | normal pick from 2026-11-15 18:19 | request from 2026-11-15 18:19
+OK   Miles Davis — So What | last aired 2026-11-13 18:19 | normal pick now | request now
 OK   Miley Cyrus — Flowers | last aired 2026-11-11 04:45 | normal pick now | request now
 OK   Miley Cyrus — Party In The U.S.A. | last aired 2026-10-24 21:54 | normal pick now | request now
 WAIT Milt Jackson — Bag's New Groove | last aired 2026-11-15 17:45 | normal pick from 2026-11-17 05:45 | request from 2026-11-16 13:45
