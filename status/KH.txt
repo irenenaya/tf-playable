@@ -1,10 +1,10 @@
-Track status, artists filed under KH (built Sat Nov 14, 4:45 PM PST (00:45 UTC Sun)). Times in UTC.
+Track status, artists filed under KH (built Sat Nov 14, 4:55 PM PST (00:55 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Khalid — momentary lovers | last aired 2026-10-25 04:42 | normal pick now | request now
 OK   Khalid — please don't call (333) | last aired 2026-11-11 18:54 | normal pick now | request now
 OK   Khatia Buniatishvili — Orchestral Suite No. 3 in D Major, BMV 1068 "Air On The G String" - Air on the G String | last aired 2026-11-07 04:34 | normal pick now | request now
-WAIT Khruangbin — A Calf Born In Winter | last aired 2026-11-13 12:46 | normal pick from 2026-11-15 00:46 | request now
+OK   Khruangbin — A Calf Born In Winter | last aired 2026-11-13 12:46 | normal pick now | request now
 WAIT Khruangbin — August 10 | last aired 2026-11-13 13:47 | normal pick from 2026-11-15 01:47 | request now
 WAIT Khruangbin — Friday Morning | last aired 2026-11-14 09:54 | normal pick from 2026-11-15 21:54 | request from 2026-11-15 05:54
 WAIT Khruangbin — May Ninth | last aired 2026-11-14 09:44 | normal pick from 2026-11-16 09:44 | request from 2026-11-16 09:44
