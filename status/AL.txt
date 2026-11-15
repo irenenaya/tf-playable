@@ -1,8 +1,8 @@
-Track status, artists filed under AL (built Sun Nov 15, 12:15 PM PST (20:15 UTC)). Times in UTC.
+Track status, artists filed under AL (built Sun Nov 15, 12:25 PM PST (20:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Al Di Meola — Double Concerto | last aired 2026-11-09 02:17 | normal pick now | request now
-OK   Al Di Meola — Libertango | last aired 2026-11-08 23:31 | normal pick now | request now
+WAIT Al Di Meola — Libertango | last aired 2026-11-15 20:12 | normal pick from 2026-11-17 08:12 | request from 2026-11-16 16:12
 OK   Al Di Meola — Passion, Grace & Fire (Album Version) | last aired 2026-11-10 02:43 | normal pick now | request now
 OK   Al Di Meola — Red Moon | last aired 2026-11-09 14:32 | normal pick now | request now
 WAIT Al Green — Let's Stay Together | last aired 2026-11-15 16:06 | normal pick from 2026-11-17 16:06 | request from 2026-11-17 16:06
@@ -32,5 +32,5 @@ WAIT Alison Krauss — Down To The River To Pray (Live) | last aired 2026-11-15 
 WAIT Almendra — Plegaria para un Niño Dormido | last aired 2026-11-15 19:59 | normal pick from 2026-11-17 07:59 | request from 2026-11-16 15:59
 OK   Alvin Lucier — I Am Sitting in a Room | last aired 2026-11-10 07:37 | normal pick now | request now
 WAIT Alvvays — Belinda Says | last aired 2026-11-15 19:35 | normal pick from 2026-11-17 19:35 | request from 2026-11-17 19:35
-OK   Alèmayèhu Eshèté — Tashamanaletch | last aired 2026-11-09 09:31 | normal pick now | request now
-OK   The Altons — When You Go (That's When You'll Know) | last aired 2026-11-10 03:12 | normal pick now | request now
+WAIT Alèmayèhu Eshèté — Tashamanaletch | last aired 2026-11-15 20:17 | normal pick from 2026-11-17 08:17 | request from 2026-11-16 16:17
+WAIT The Altons — When You Go (That's When You'll Know) | last aired 2026-11-15 20:21 | normal pick from 2026-11-17 08:21 | request from 2026-11-16 16:21
