@@ -1,14 +1,14 @@
-Track status, artists filed under TA (built Sat Nov 14, 4:35 PM PST (00:35 UTC Sun)). Times in UTC.
+Track status, artists filed under TA (built Sat Nov 14, 4:45 PM PST (00:45 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Tabu — Dobra Vila | last aired 2026-10-22 16:58 | normal pick now | request now
-OK   Taeko Onuki — 4:00 A.M. | last aired 2026-11-11 14:35 | normal pick now | request now
+WAIT Taeko Onuki — 4:00 A.M. | last aired 2026-11-15 00:35 | normal pick from 2026-11-16 12:35 | request from 2026-11-15 20:35
 OK   Takako Mamiya — LOVE TRIP | last aired 2026-11-12 10:52 | normal pick now | request now
 OK   Takako Mamiya — Nagisade Dance | last aired 2026-11-10 09:18 | normal pick now | request now
 OK   Talk Talk — After The Flood | last aired 2026-11-12 10:39 | normal pick now | request now
 OK   Talk Talk — I Believe in You (1997 Remaster) | last aired 2026-11-10 08:07 | normal pick now | request now
 OK   Talk Talk — Life's What You Make It (1997 Remaster) | last aired 2026-11-09 23:46 | normal pick now | request now
-OK   Talk Talk — New Grass | last aired 2026-11-07 05:08 | normal pick now | request now
+WAIT Talk Talk — New Grass | last aired 2026-11-15 00:41 | normal pick from 2026-11-16 12:41 | request from 2026-11-15 20:41
 OK   Talk Talk — Such a Shame (1997 Remaster) | last aired 2026-11-05 17:47 | normal pick now | request now
 WAIT Talking Heads — Psycho Killer | last aired 2026-11-13 23:58 | normal pick from 2026-11-15 11:58 | request now
 WAIT Talking Heads — This Must Be the Place (Naive Melody) (2005 Remastered LP Version) | last aired 2026-11-13 22:38 | normal pick from 2026-11-15 22:38 | request from 2026-11-15 22:38
