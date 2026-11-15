@@ -1,4 +1,4 @@
-Track status, artists filed under AL (built Sun Nov 15, 11:45 AM PST (19:45 UTC)). Times in UTC.
+Track status, artists filed under AL (built Sun Nov 15, 11:55 AM PST (19:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Al Di Meola — Double Concerto | last aired 2026-11-09 02:17 | normal pick now | request now
@@ -12,7 +12,7 @@ OK   Al Green — The Lord Will Make a Way | last aired 2026-11-10 03:01 | norma
 WAIT Al Stewart — Year of the Cat | last aired 2026-11-15 19:14 | normal pick from 2026-11-17 19:14 | request from 2026-11-17 19:14
 OK   Alabama 3 — Sad Eyed Lady Of The Low Life | last aired 2026-11-09 02:38 | normal pick now | request now
 OK   Alabama 3 — Thank you | last aired 2026-11-08 23:10 | normal pick now | request now
-OK   Alabama 3 — Woke Up This Morning | last aired 2026-11-10 02:28 | normal pick now | request now
+WAIT Alabama 3 — Woke Up This Morning | last aired 2026-11-15 19:48 | normal pick from 2026-11-17 07:48 | request from 2026-11-16 15:48
 WAIT Albert Hammond — When I'm Gone | last aired 2026-11-15 19:41 | normal pick from 2026-11-17 07:41 | request from 2026-11-16 15:41
 WAIT Albert King — Born Under A Bad Sign | last aired 2026-11-15 19:21 | normal pick from 2026-11-17 19:21 | request from 2026-11-17 19:21
 OK   Alestorm — Captain Morgan`s Revenge | last aired 2026-11-09 15:46 | normal pick now | request now
@@ -28,7 +28,7 @@ WAIT Ali Farka Touré — Soukora | last aired 2026-11-14 16:51 | normal pick fr
 OK   Alice Coltrane — Journey In Satchidananda | last aired 2026-11-13 17:30 | normal pick now | request now
 OK   Alice In Chains — Man in the Box | last aired 2026-11-09 03:27 | normal pick now | request now
 WAIT Alicia Keys — Fallin' (Album Version) | last aired 2026-11-14 16:44 | normal pick from 2026-11-16 04:44 | request now
-OK   Alison Krauss — Down To The River To Pray (Live) | last aired 2026-11-10 03:05 | normal pick now | request now
+WAIT Alison Krauss — Down To The River To Pray (Live) | last aired 2026-11-15 19:45 | normal pick from 2026-11-17 19:45 | request from 2026-11-17 19:45
 OK   Almendra — Plegaria para un Niño Dormido | last aired 2026-11-08 08:53 | normal pick now | request now
 OK   Alvin Lucier — I Am Sitting in a Room | last aired 2026-11-10 07:37 | normal pick now | request now
 WAIT Alvvays — Belinda Says | last aired 2026-11-15 19:35 | normal pick from 2026-11-17 19:35 | request from 2026-11-17 19:35
