@@ -1,4 +1,4 @@
-Track status, artists filed under CA (built Sun Nov 15, 8:05 AM PST (16:05 UTC)). Times in UTC.
+Track status, artists filed under CA (built Sun Nov 15, 8:15 AM PST (16:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Caetano Veloso — O Leãozinho (Ao Vivo) | last aired 2026-11-14 16:58 | normal pick from 2026-11-16 16:58 | request from 2026-11-16 16:58
@@ -13,7 +13,7 @@ OK   Canned Heat — On The Road Again | last aired 2026-11-09 16:38 | normal pi
 OK   Carbon Based Lifeforms — Photosynthesis | last aired 2026-11-10 10:54 | normal pick now | request now
 OK   Cardiacs — Big Ship | last aired 2026-11-09 16:54 | normal pick now | request now
 WAIT Carlos Gardel — Por una Cabeza | last aired 2026-11-14 18:39 | normal pick from 2026-11-16 18:39 | request from 2026-11-16 18:39
-OK   Carole King — It's Too Late | last aired 2026-11-12 13:36 | normal pick now | request now
+WAIT Carole King — It's Too Late | last aired 2026-11-15 16:09 | normal pick from 2026-11-17 16:09 | request from 2026-11-17 16:09
 WAIT Carole King — So Far Away | last aired 2026-11-14 03:07 | normal pick from 2026-11-16 03:07 | request from 2026-11-16 03:07
 OK   Caroline Polachek — Bunny Is A Rider | last aired 2026-11-10 11:41 | normal pick now | request now
 OK   Carter Vail — Ants In My Room | last aired 2026-11-09 02:46 | normal pick now | request now
