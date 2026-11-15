@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Sun Nov 15, 3:55 AM PST (11:55 UTC)). Times in UTC.
+Track status, artists filed under JO (built Sun Nov 15, 4:05 AM PST (12:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-11-09 13:44 | normal pick now | request now
@@ -6,11 +6,11 @@ OK   Jockstrap — Concrete Over Water | last aired 2026-11-12 10:56 | normal pi
 OK   Joe Cocker — The Letter (Live At The Fillmore East/1970) | last aired 2026-11-09 00:47 | normal pick now | request now
 OK   Joe Cocker — With A Little Help From My Friends | last aired 2026-11-08 04:45 | normal pick now | request now
 WAIT Joe Hisaishi — A Town with an Ocean View (from 'Kiki's Delivery Service') | last aired 2026-11-14 15:13 | normal pick from 2026-11-16 15:13 | request from 2026-11-16 15:13
-WAIT Joe Hisaishi — a Wish to the Moon | last aired 2026-11-15 07:50 | normal pick from 2026-11-16 19:50 | request from 2026-11-16 03:50
+WAIT Joe Hisaishi — a Wish to the Moon | last aired 2026-11-15 07:50 | normal pick from 2026-11-17 07:50 | request from 2026-11-17 07:50
 WAIT Joe Hisaishi — Asian Dream Song | last aired 2026-11-15 07:39 | normal pick from 2026-11-16 19:39 | request from 2026-11-16 03:39
 WAIT Joe Hisaishi — Deep Sea Pastures (from 'Ponyo on the Cliff by the Sea') | last aired 2026-11-15 07:47 | normal pick from 2026-11-16 19:47 | request from 2026-11-16 03:47
-WAIT Joe Hisaishi — Departures (from 'Departures') | last aired 2026-11-15 07:22 | normal pick from 2026-11-16 19:22 | request from 2026-11-16 03:22
-WAIT Joe Hisaishi — Innocent (from 'Castle in the Sky') | last aired 2026-11-15 07:44 | normal pick from 2026-11-16 19:44 | request from 2026-11-16 03:44
+WAIT Joe Hisaishi — Departures (from 'Departures') | last aired 2026-11-15 07:22 | normal pick from 2026-11-17 07:22 | request from 2026-11-17 07:22
+WAIT Joe Hisaishi — Innocent (from 'Castle in the Sky') | last aired 2026-11-15 07:45 | normal pick from 2026-11-16 19:45 | request from 2026-11-16 03:45
 WAIT Joe Hisaishi — Merry-Go-Round of Life (from 'Howl’s Moving Castle') | last aired 2026-11-14 15:25 | normal pick from 2026-11-16 03:25 | request now
 WAIT Joe Hisaishi — One Summer's Day (from 'Spirited Away') | last aired 2026-11-15 07:18 | normal pick from 2026-11-16 19:18 | request from 2026-11-16 03:18
 OK   Joe Hisaishi — Ponyo's Sisters Lend a Hand - A Song for Mothers and the Sea (from 'Ponyo on the Cliff by the Sea') | last aired 2026-11-10 08:42 | normal pick now | request now
@@ -56,5 +56,5 @@ WAIT Journey — Don't Stop Believin' (Album Version) | last aired 2026-11-14 01
 WAIT Journey — Lights (Album Version) | last aired 2026-11-14 02:04 | normal pick from 2026-11-15 14:04 | request now
 OK   Joywave — In Clover | last aired 2026-10-27 11:03 | normal pick now | request now
 OK   Joywave — Rumors | last aired 2026-10-26 15:36 | normal pick now | request now
-WAIT João Gilberto — Chega de Saudade | last aired 2026-11-14 15:56 | normal pick from 2026-11-16 03:56 | request from 2026-11-15 11:56
+WAIT João Gilberto — Chega de Saudade | last aired 2026-11-14 15:56 | normal pick from 2026-11-16 03:56 | request now
 OK   João Gilberto — Garota de Ipanema (Live) | last aired 2026-11-13 16:20 | normal pick now | request now
