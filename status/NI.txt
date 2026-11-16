@@ -1,4 +1,4 @@
-Track status, artists filed under NI (built Mon Nov 16, 4:05 AM PST (12:05 UTC)). Times in UTC.
+Track status, artists filed under NI (built Mon Nov 16, 4:15 AM PST (12:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Nick Cave & The Bad Seeds — (I'll Love You) Till The End Of The World | last aired 2026-11-09 06:57 | normal pick now | request now
@@ -13,7 +13,7 @@ WAIT Nils Frahm — All Melody | last aired 2026-11-15 08:04 | normal pick from 
 WAIT Nils Frahm — Ambre | last aired 2026-11-15 06:07 | normal pick from 2026-11-17 06:07 | request from 2026-11-17 06:07
 WAIT Nils Frahm — Familiar | last aired 2026-11-15 08:43 | normal pick from 2026-11-17 08:43 | request from 2026-11-17 08:43
 WAIT Nils Frahm — Says | last aired 2026-11-15 08:14 | normal pick from 2026-11-17 08:14 | request from 2026-11-17 08:14
-OK   Nina Simone — Feeling Good | last aired 2026-11-13 22:31 | normal pick now | request now
+WAIT Nina Simone — Feeling Good | last aired 2026-11-16 12:09 | normal pick from 2026-11-18 12:09 | request from 2026-11-18 12:09
 OK   Nina Simone — Mood Indigo (G-Swing Featuring Ludovic Allen Remix) | last aired 2026-10-27 16:45 | normal pick now | request now
 WAIT Nina Simone — Wild Is The Wind | last aired 2026-11-16 03:08 | normal pick from 2026-11-18 03:08 | request from 2026-11-18 03:08
 OK   Nine Inch Nails — Heresy (Nine Inch Noize Version) | last aired 2026-11-10 00:20 | normal pick now | request now
