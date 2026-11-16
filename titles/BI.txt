@@ -1,4 +1,4 @@
-Track status, song titles filed under BI (built Sun Nov 15, 4:25 PM PST (00:25 UTC Mon)). Times in UTC.
+Track status, song titles filed under BI (built Sun Nov 15, 4:35 PM PST (00:35 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Bibo no Aozora — Ryuichi Sakamoto | last aired 2026-11-14 10:51 | normal pick now | request now
@@ -10,7 +10,7 @@ WAIT Biggest Part of Me (Album Version) — Ambrosia | last aired 2026-11-14 16:
 OK   Bird — Dead Can Dance | last aired 2026-11-14 08:40 | normal pick now | request now
 OK   Bird on the Wire — Leonard Cohen | last aired 2026-11-14 11:25 | normal pick now | request now
 OK   BIRDS OF A FEATHER — Billie Eilish | last aired 2026-11-08 17:06 | normal pick now | request now
-OK   Birth4000 — Floating Points | last aired 2026-11-12 12:02 | normal pick now | request now
+WAIT Birth4000 — Floating Points | last aired 2026-11-16 00:32 | normal pick from 2026-11-18 00:32 | request from 2026-11-18 00:32
 OK   Bitter Sweet (Remastered 1999) — Roxy Music | last aired 2026-11-11 23:01 | normal pick now | request now
 OK   Bizarre Love Triangle — Dorian Electra | last aired 2026-11-09 21:49 | normal pick now | request now
 WAIT The Big Ship (2004 Remaster) — Brian Eno | last aired 2026-11-14 12:04 | normal pick from 2026-11-16 12:04 | request from 2026-11-16 12:04
