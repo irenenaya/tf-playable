@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Mon Nov 16, 12:05 PM PST (20:05 UTC)). Times in UTC.
+Track status, artists filed under BE (built Mon Nov 16, 12:15 PM PST (20:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Beach House — Bluebird | last aired 2026-11-15 23:29 | normal pick from 2026-11-17 23:29 | request from 2026-11-17 23:29
@@ -16,12 +16,12 @@ WAIT Bee Gees — Night Fever (From "Saturday Night Fever" Soundtrack) | last ai
 OK   Beenie Man — Feel It Boy | last aired 2026-11-10 04:43 | normal pick now | request now
 OK   Belcea Quartet — Quatuor à cordes n° 4, Sz. 91 - String Quartet No. 4 in C Major, Sz. 91: IV. Allegretto pizzicato | last aired 2026-11-08 22:22 | normal pick now | request now
 WAIT Belle and Sebastian — The Boy with the Arab Strap | last aired 2026-11-15 23:38 | normal pick from 2026-11-17 11:38 | request now
-WAIT Ben Allison — D.A.V.E. | last aired 2026-11-16 00:15 | normal pick from 2026-11-17 12:15 | request from 2026-11-16 20:15
+WAIT Ben Allison — D.A.V.E. | last aired 2026-11-16 00:15 | normal pick from 2026-11-17 12:15 | request now
 WAIT Ben E. King — Stand By Me | last aired 2026-11-16 11:46 | normal pick from 2026-11-18 11:46 | request from 2026-11-18 11:46
 WAIT Ben Harper — Yard Sale | last aired 2026-11-15 16:18 | normal pick from 2026-11-17 16:18 | request from 2026-11-17 16:18
 OK   Ben Howard — Only Love | last aired 2026-11-14 12:30 | normal pick now | request now
 WAIT Ben&Ben — Leaves | last aired 2026-11-16 01:08 | normal pick from 2026-11-17 13:08 | request from 2026-11-16 21:08
-WAIT Ben&Ben — Maybe The Night | last aired 2026-11-16 00:11 | normal pick from 2026-11-17 12:11 | request from 2026-11-16 20:11
+WAIT Ben&Ben — Maybe The Night | last aired 2026-11-16 00:11 | normal pick from 2026-11-17 12:11 | request now
 WAIT Benjamin Francis Leftwich — Ticket To Ride | last aired 2026-11-16 00:23 | normal pick from 2026-11-17 12:23 | request from 2026-11-16 20:23
 WAIT Benny Goodman — Sing Sing Sing (With A Swing) (live) | last aired 2026-11-15 23:57 | normal pick from 2026-11-17 11:57 | request now
 OK   Benny Sings — Rolled Up | last aired 2026-11-14 17:59 | normal pick now | request now
@@ -29,7 +29,7 @@ WAIT Benny Sings — Sailing | last aired 2026-11-14 21:25 | normal pick from 20
 WAIT Benson Boone — Beautiful Things | last aired 2026-11-16 01:00 | normal pick from 2026-11-17 13:00 | request from 2026-11-16 21:00
 WAIT Berlin — Take My Breath Away | last aired 2026-11-16 00:27 | normal pick from 2026-11-17 12:27 | request from 2026-11-16 20:27
 OK   Berliner Philharmoniker — Boléro, M. 81 | last aired 2026-11-01 18:06 | normal pick now | request now
-WAIT Bernard Purdie — Cool Down | last aired 2026-11-16 00:07 | normal pick from 2026-11-17 12:07 | request from 2026-11-16 20:07
+WAIT Bernard Purdie — Cool Down | last aired 2026-11-16 00:07 | normal pick from 2026-11-17 12:07 | request now
 OK   Bert Kaempfert — A Swingin' Safari | last aired 2026-10-30 15:24 | normal pick now | request now
 WAIT Betty Carter — Moonlight in Vermont | last aired 2026-11-15 23:50 | normal pick from 2026-11-17 11:50 | request now
 OK   BETWEEN FRIENDS — affection | last aired 2026-11-11 01:23 | normal pick now | request now
