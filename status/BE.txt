@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Mon Nov 16, 12:55 PM PST (20:55 UTC)). Times in UTC.
+Track status, artists filed under BE (built Mon Nov 16, 1:05 PM PST (21:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Beach House — Bluebird | last aired 2026-11-15 23:29 | normal pick from 2026-11-17 23:29 | request from 2026-11-17 23:29
@@ -26,7 +26,7 @@ WAIT Benjamin Francis Leftwich — Ticket To Ride | last aired 2026-11-16 00:23 
 WAIT Benny Goodman — Sing Sing Sing (With A Swing) (live) | last aired 2026-11-15 23:57 | normal pick from 2026-11-17 11:57 | request now
 OK   Benny Sings — Rolled Up | last aired 2026-11-14 17:59 | normal pick now | request now
 WAIT Benny Sings — Sailing | last aired 2026-11-14 21:25 | normal pick from 2026-11-16 21:25 | request from 2026-11-16 21:25
-WAIT Benson Boone — Beautiful Things | last aired 2026-11-16 01:00 | normal pick from 2026-11-17 13:00 | request from 2026-11-16 21:00
+WAIT Benson Boone — Beautiful Things | last aired 2026-11-16 01:00 | normal pick from 2026-11-17 13:00 | request now
 WAIT Berlin — Take My Breath Away | last aired 2026-11-16 00:27 | normal pick from 2026-11-17 12:27 | request now
 OK   Berliner Philharmoniker — Boléro, M. 81 | last aired 2026-11-01 18:06 | normal pick now | request now
 WAIT Bernard Purdie — Cool Down | last aired 2026-11-16 00:07 | normal pick from 2026-11-17 12:07 | request now
@@ -35,7 +35,7 @@ WAIT Betty Carter — Moonlight in Vermont | last aired 2026-11-15 23:50 | norma
 OK   BETWEEN FRIENDS — affection | last aired 2026-11-11 01:23 | normal pick now | request now
 WAIT Beyoncé — Crazy In Love | last aired 2026-11-16 00:52 | normal pick from 2026-11-17 12:52 | request now
 OK   Beyoncé — TEXAS HOLD 'EM | last aired 2026-10-28 22:05 | normal pick now | request now
-WAIT Béla Fleck — My Home's Across The Blue Ridge Mountains | last aired 2026-11-16 01:03 | normal pick from 2026-11-17 13:03 | request from 2026-11-16 21:03
+WAIT Béla Fleck — My Home's Across The Blue Ridge Mountains | last aired 2026-11-16 01:03 | normal pick from 2026-11-17 13:03 | request now
 WAIT The Beach Boys — God Only Knows (Stereo) | last aired 2026-11-16 00:20 | normal pick from 2026-11-17 12:20 | request now
 OK   The Beach Boys — Good Vibrations (Stereo/Remastered 2012) | last aired 2026-11-14 13:37 | normal pick now | request now
 OK   The Beatles — A Day In The Life (2017 Mix) | last aired 2026-11-05 07:54 | normal pick now | request now
@@ -47,7 +47,7 @@ OK   The Beatles — Lucy In The Sky With Diamonds (Remastered 2009) | last aire
 WAIT The Beatles — Octopus's Garden (Remastered) | last aired 2026-11-15 23:47 | normal pick from 2026-11-17 11:47 | request now
 OK   The Beatles — Rain (Remastered) | last aired 2026-11-11 01:12 | normal pick now | request now
 OK   The Beatles — Revolution 9 (Remastered 2009) | last aired 2026-11-09 21:05 | normal pick now | request now
-WAIT The Beatles — Strawberry Fields Forever | last aired 2026-11-16 00:56 | normal pick from 2026-11-17 12:56 | request from 2026-11-16 20:56
+WAIT The Beatles — Strawberry Fields Forever | last aired 2026-11-16 00:56 | normal pick from 2026-11-17 12:56 | request now
 OK   The Beatles — This Boy (Remastered) | last aired 2026-11-05 06:40 | normal pick now | request now
 OK   The Beatles — With A Little Help From My Friends (2017 Mix) | last aired 2026-11-14 13:41 | normal pick now | request now
 WAIT The Beatles — Yesterday (Remastered) | last aired 2026-11-16 06:31 | normal pick from 2026-11-17 18:31 | request from 2026-11-17 02:31

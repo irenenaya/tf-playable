@@ -1,4 +1,4 @@
-Track status, song titles filed under FA (built Mon Nov 16, 12:55 PM PST (20:55 UTC)). Times in UTC.
+Track status, song titles filed under FA (built Mon Nov 16, 1:05 PM PST (21:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Face to Face — Daft Punk | last aired 2026-11-09 17:30 | normal pick now | request now
@@ -13,7 +13,7 @@ WAIT Fake Tales Of San Francisco — Arctic Monkeys | last aired 2026-11-16 08:4
 WAIT Fallen (Album Mix) — Sarah McLachlan | last aired 2026-11-15 11:51 | normal pick from 2026-11-17 11:51 | request from 2026-11-17 11:51
 OK   Fallen Star — Djivan Gasparyan | last aired 2026-11-13 06:01 | normal pick now | request now
 WAIT Fallin' (Album Version) — Alicia Keys | last aired 2026-11-16 12:50 | normal pick from 2026-11-18 12:50 | request from 2026-11-18 12:50
-OK   Falling Slowly (Album Version) — Glen Hansard and Marketa Irglova | last aired 2026-10-30 04:55 | normal pick now | request now
+WAIT Falling Slowly (Album Version) — Glen Hansard and Marketa Irglova | last aired 2026-11-16 21:00 | normal pick from 2026-11-18 09:00 | request from 2026-11-17 17:00
 WAIT Familiar — Nils Frahm | last aired 2026-11-15 08:43 | normal pick from 2026-11-17 08:43 | request from 2026-11-17 08:43
 OK   Family Portrait — P!nk | last aired 2026-10-14 13:43 | normal pick now | request now
 OK   Famous Blue Raincoat — Leonard Cohen | last aired 2026-11-14 11:29 | normal pick now | request now
