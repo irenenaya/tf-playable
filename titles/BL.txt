@@ -1,4 +1,4 @@
-Track status, song titles filed under BL (built Sun Nov 15, 4:55 PM PST (00:55 UTC Mon)). Times in UTC.
+Track status, song titles filed under BL (built Sun Nov 15, 5:05 PM PST (01:05 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Black Diamond — Stratovarius | last aired 2026-11-02 03:41 | normal pick now | request now
@@ -27,5 +27,5 @@ WAIT Blue Monday (2016 Remaster) — New Order | last aired 2026-11-15 00:24 | n
 OK   Blue Moon Of Kentucky — Bill Monroe & His Blue Grass Boys | last aired 2026-11-13 00:32 | normal pick now | request now
 OK   Blue Room (Live) — The Orb | last aired 2026-10-24 15:14 | normal pick now | request now
 WAIT Blue Velvet — Bobby Vinton | last aired 2026-11-15 08:53 | normal pick from 2026-11-16 20:53 | request from 2026-11-16 04:53
-WAIT Bluebird — Beach House | last aired 2026-11-15 23:29 | normal pick from 2026-11-17 11:29 | request from 2026-11-16 19:29
+WAIT Bluebird — Beach House | last aired 2026-11-15 23:29 | normal pick from 2026-11-17 23:29 | request from 2026-11-17 23:29
 WAIT The Blower's Daughter — Damien Rice | last aired 2026-11-14 12:20 | normal pick from 2026-11-16 12:20 | request from 2026-11-16 12:20

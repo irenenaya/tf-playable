@@ -1,9 +1,9 @@
-Track status, song titles filed under PA (built Sun Nov 15, 4:55 PM PST (00:55 UTC Mon)). Times in UTC.
+Track status, song titles filed under PA (built Sun Nov 15, 5:05 PM PST (01:05 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Pac-Man (feat. ScHoolboy Q) — Gorillaz | last aired 2026-10-22 00:14 | normal pick now | request now
 OK   Pacific Summits (Pulse Version) — Heathered Pearls | last aired 2026-11-14 08:04 | normal pick now | request now
-WAIT Pagan Poetry — Björk | last aired 2026-11-14 13:00 | normal pick from 2026-11-16 01:00 | request now
+OK   Pagan Poetry — Björk | last aired 2026-11-14 13:00 | normal pick now | request now
 OK   Paid In Full — Eric B. & Rakim | last aired 2026-11-10 18:09 | normal pick now | request now
 OK   Paint It, Black — The Rolling Stones | last aired 2026-11-14 06:02 | normal pick now | request now
 OK   Panic Attack (Album Version) — Dream Theater | last aired 2026-11-09 21:23 | normal pick now | request now
@@ -17,7 +17,7 @@ OK   Paroles paroles (Album Version) — Dalida | last aired 2026-11-12 04:36 | 
 OK   Party Hard (Album Version) — Andrew W.K. | last aired 2026-11-10 22:26 | normal pick now | request now
 OK   Party In The U.S.A. — Miley Cyrus | last aired 2026-10-24 21:54 | normal pick now | request now
 OK   Pasión (Album Version) — Rodrigo Leão | last aired 2026-11-12 12:26 | normal pick now | request now
-WAIT Passion Play (Live in Paris) — William Fitzsimmons | last aired 2026-11-15 21:41 | normal pick from 2026-11-17 09:41 | request from 2026-11-16 17:41
+WAIT Passion Play (Live in Paris) — William Fitzsimmons | last aired 2026-11-15 21:42 | normal pick from 2026-11-17 21:42 | request from 2026-11-17 21:42
 OK   Passion, Grace & Fire (Album Version) — Al Di Meola | last aired 2026-11-10 02:43 | normal pick now | request now
 WAIT Pata Pata — Miriam Makeba | last aired 2026-11-15 17:37 | normal pick from 2026-11-17 05:37 | request from 2026-11-16 13:37
 OK   Patient — Playroom | last aired 2026-10-26 15:32 | normal pick now | request now
