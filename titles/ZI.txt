@@ -1,5 +1,5 @@
-Track status, song titles filed under ZI (built Mon Nov 16, 2:05 PM PST (22:05 UTC)). Times in UTC.
+Track status, song titles filed under ZI (built Mon Nov 16, 2:15 PM PST (22:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Ziggy Stardust — Bauhaus | last aired 2026-10-30 23:20 | normal pick now | request now
-OK   ZITTI E BUONI — Måneskin | last aired 2026-11-09 15:58 | normal pick now | request now
+WAIT ZITTI E BUONI — Måneskin | last aired 2026-11-16 22:08 | normal pick from 2026-11-18 10:08 | request from 2026-11-17 18:08
