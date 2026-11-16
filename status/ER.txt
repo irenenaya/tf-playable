@@ -1,4 +1,4 @@
-Track status, artists filed under ER (built Mon Nov 16, 11:25 AM PST (19:25 UTC)). Times in UTC.
+Track status, artists filed under ER (built Mon Nov 16, 11:35 AM PST (19:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Eric B. & Rakim — Paid In Full | last aired 2026-11-10 18:09 | normal pick now | request now
@@ -6,6 +6,6 @@ OK   Eric Clapton — Change the World | last aired 2026-11-14 13:57 | normal pi
 OK   Erik Grönwall — House of the Rising Sun | last aired 2026-11-11 09:35 | normal pick now | request now
 OK   Erik Wøllo — Computerlove | last aired 2026-11-11 07:43 | normal pick now | request now
 WAIT Erykah Badu — Bag Lady (Album Version) | last aired 2026-11-16 08:57 | normal pick from 2026-11-18 08:57 | request from 2026-11-18 08:57
-WAIT Erykah Badu — On & On | last aired 2026-11-14 19:28 | normal pick from 2026-11-16 19:28 | request from 2026-11-16 19:28
+OK   Erykah Badu — On & On | last aired 2026-11-14 19:28 | normal pick now | request now
 OK   Erykah Badu — Tyrone (Live Version) | last aired 2026-08-19 19:59 | normal pick now | request now
 WAIT Erykah Badu — Window Seat | last aired 2026-11-16 03:15 | normal pick from 2026-11-17 15:15 | request from 2026-11-16 23:15

@@ -1,16 +1,16 @@
-Track status, artists filed under QU (built Mon Nov 16, 11:25 AM PST (19:25 UTC)). Times in UTC.
+Track status, artists filed under QU (built Mon Nov 16, 11:35 AM PST (19:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Quad City DJ's — Space Jam | last aired 2026-11-13 01:41 | normal pick now | request now
 OK   Queen — Another One Bites The Dust | last aired 2026-11-14 02:14 | normal pick now | request now
 OK   Queen — Bohemian Rhapsody (Remastered 2011) | last aired 2026-11-15 02:50 | normal pick now | request now
-OK   Queen — Don't Stop Me Now (Remastered 2011) | last aired 2026-11-14 02:00 | normal pick now | request now
+WAIT Queen — Don't Stop Me Now (Remastered 2011) | last aired 2026-11-16 19:29 | normal pick from 2026-11-18 07:29 | request from 2026-11-17 15:29
 WAIT Queen — Flash (Remastered 2011) | last aired 2026-11-16 17:29 | normal pick from 2026-11-18 05:29 | request from 2026-11-17 13:29
 WAIT Queen — Killer Queen (Remastered 2011) | last aired 2026-11-16 16:19 | normal pick from 2026-11-18 04:19 | request from 2026-11-17 12:19
 OK   Queen — Somebody To Love | last aired 2026-11-14 23:29 | normal pick now | request now
 OK   Queen — The Fairy Feller's Master-Stroke (2026 Mix) | last aired 2026-11-15 03:33 | normal pick now | request now
 OK   Queen — The March of the Black Queen (2026 Mix) | last aired 2026-10-30 14:59 | normal pick now | request now
-OK   Queen — Under Pressure (Remastered 2011) | last aired 2026-11-15 01:37 | normal pick now | request now
+WAIT Queen — Under Pressure (Remastered 2011) | last aired 2026-11-16 19:22 | normal pick from 2026-11-18 07:22 | request from 2026-11-17 15:22
 OK   Queen — We Will Rock You | last aired 2026-11-11 17:57 | normal pick now | request now
 OK   Queens Of The Stone Age — No One Knows | last aired 2026-11-13 23:34 | normal pick now | request now
 OK   Queensrÿche — Silent Lucidity (Remastered 2003) | last aired 2026-11-12 21:56 | normal pick now | request now
