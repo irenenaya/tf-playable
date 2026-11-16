@@ -1,8 +1,8 @@
-Track status, artists filed under EL (built Mon Nov 16, 1:55 PM PST (21:55 UTC)). Times in UTC.
+Track status, artists filed under EL (built Mon Nov 16, 2:05 PM PST (22:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Electric Light Orchestra — Evil Woman | last aired 2026-11-14 22:51 | normal pick now | request now
-WAIT Electric Light Orchestra — Mr. Blue Sky | last aired 2026-11-14 21:59 | normal pick from 2026-11-16 21:59 | request from 2026-11-16 21:59
+OK   Electric Light Orchestra — Mr. Blue Sky | last aired 2026-11-14 21:59 | normal pick now | request now
 OK   Electric Light Orchestra — Yours Truly, 2095 | last aired 2026-11-15 02:12 | normal pick now | request now
 OK   Elis Regina — Águas De Marco | last aired 2026-11-13 20:32 | normal pick now | request now
 OK   Ella Fitzgerald — Bewitched, Bothered And Bewildered | last aired 2026-11-13 17:40 | normal pick now | request now
@@ -10,7 +10,7 @@ WAIT Ella Fitzgerald — Bewitched, Bothered And Bewildered (Ella Fitzgerald and
 OK   Ella Fitzgerald — Summertime | last aired 2026-11-14 14:56 | normal pick now | request now
 WAIT Elliott Smith — Angeles | last aired 2026-11-16 09:40 | normal pick from 2026-11-18 09:40 | request from 2026-11-18 09:40
 WAIT Elliott Smith — Independence Day | last aired 2026-11-16 14:15 | normal pick from 2026-11-18 14:15 | request from 2026-11-18 14:15
-WAIT Elton John — Rocket Man (I Think It's Going To Be A Long, Long Time) | last aired 2026-11-14 22:04 | normal pick from 2026-11-16 22:04 | request from 2026-11-16 22:04
+OK   Elton John — Rocket Man (I Think It's Going To Be A Long, Long Time) | last aired 2026-11-14 22:04 | normal pick now | request now
 OK   Eluvium — Indoor Swimming At The Space Station | last aired 2026-11-12 11:25 | normal pick now | request now
 OK   Eluvium — Surrounded by Illusion | last aired 2026-11-08 05:31 | normal pick now | request now
 OK   Eluvium — Taken | last aired 2026-11-11 12:49 | normal pick now | request now
