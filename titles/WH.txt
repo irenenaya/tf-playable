@@ -1,4 +1,4 @@
-Track status, song titles filed under WH (built Sun Nov 15, 9:55 PM PST (05:55 UTC Mon)). Times in UTC.
+Track status, song titles filed under WH (built Sun Nov 15, 10:05 PM PST (06:05 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Whistleblowers — Laibach | last aired 2026-10-26 00:33 | normal pick now | request now
@@ -23,7 +23,7 @@ OK   Whenever Wherever Whatever (Remastered 2021) (Album Version) — Maxwell | 
 OK   Where The Streets Have No Name (Remastered 2007) — U2 | last aired 2026-11-01 21:57 | normal pick now | request now
 OK   Where Were You (Live) — Jeff Beck | last aired 2026-11-12 20:53 | normal pick now | request now
 OK   Wherefore and Why (LP Version) — Gordon Lightfoot | last aired 2026-11-09 06:17 | normal pick now | request now
-OK   Which Side are You On? — Pete Seeger | last aired 2026-11-02 14:23 | normal pick now | request now
+WAIT Which Side are You On? — Pete Seeger | last aired 2026-11-16 06:00 | normal pick from 2026-11-17 18:00 | request from 2026-11-17 02:00
 OK   Whirling-In-Rags, 8 AM — Sea Power | last aired 2026-10-31 07:38 | normal pick now | request now
 OK   White Christmas — Bing Crosby | last aired 2026-09-05 21:37 | normal pick now | request now
 OK   White Gloves — Khruangbin | last aired 2026-11-14 10:01 | normal pick now | request now
