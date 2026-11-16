@@ -1,12 +1,12 @@
-Track status, artists filed under LO (built Sun Nov 15, 5:45 PM PST (01:45 UTC Mon)). Times in UTC.
+Track status, artists filed under LO (built Sun Nov 15, 5:55 PM PST (01:55 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Lofi Fruits Music — Plastic Love | last aired 2026-11-15 05:48 | normal pick from 2026-11-16 17:48 | request from 2026-11-16 01:48
+WAIT Lofi Fruits Music — Plastic Love | last aired 2026-11-15 05:48 | normal pick from 2026-11-16 17:48 | request now
 WAIT Lofi Lia — Tell Your World (From "Hatsune Miku") (Lofi Remix) | last aired 2026-11-15 05:25 | normal pick from 2026-11-16 17:25 | request now
 WAIT London Symphony Orchestra — Duel of the Fates | last aired 2026-11-15 05:39 | normal pick from 2026-11-16 17:39 | request now
 OK   LoneGray — Tell Your World | last aired 2026-11-10 08:55 | normal pick now | request now
 WAIT Lord Huron — Life Is Strange | last aired 2026-11-15 02:35 | normal pick from 2026-11-16 14:35 | request now
-WAIT Lordi — Hard Rock Hallelujah | last aired 2026-11-15 05:53 | normal pick from 2026-11-16 17:53 | request from 2026-11-16 01:53
+WAIT Lordi — Hard Rock Hallelujah | last aired 2026-11-15 05:53 | normal pick from 2026-11-16 17:53 | request now
 WAIT Loreen — Euphoria | last aired 2026-11-15 05:31 | normal pick from 2026-11-16 17:31 | request now
 OK   Loreena McKennitt — The Holly and the Ivy (Live) | last aired 2026-10-19 19:02 | normal pick now | request now
 WAIT Los Enanitos Verdes — Lamento Boliviano | last aired 2026-11-15 05:35 | normal pick from 2026-11-16 17:35 | request now
@@ -22,4 +22,4 @@ OK   Lovage — Anger Management (Instrumental) | last aired 2026-09-25 16:39 | 
 WAIT Love and Rockets — Haunted When the Minutes Drag | last aired 2026-11-15 05:01 | normal pick from 2026-11-16 17:01 | request now
 WAIT Love and Rockets — Saudade | last aired 2026-11-15 05:43 | normal pick from 2026-11-16 17:43 | request now
 WAIT Love and Rockets — So Alive | last aired 2026-11-15 06:30 | normal pick from 2026-11-16 18:30 | request from 2026-11-16 02:30
-WAIT Loverboy — Lovin' Every Minute of It | last aired 2026-11-15 05:50 | normal pick from 2026-11-16 17:50 | request from 2026-11-16 01:50
+WAIT Loverboy — Lovin' Every Minute of It | last aired 2026-11-15 05:50 | normal pick from 2026-11-16 17:50 | request now
