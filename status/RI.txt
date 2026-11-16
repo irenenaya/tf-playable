@@ -1,4 +1,4 @@
-Track status, artists filed under RI (built Mon Nov 16, 1:15 PM PST (21:15 UTC)). Times in UTC.
+Track status, artists filed under RI (built Mon Nov 16, 1:25 PM PST (21:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Ricchi E Poveri — Sarà perché ti amo | last aired 2026-11-12 16:47 | normal pick now | request now
@@ -10,4 +10,4 @@ OK   Rick Springfield — Jessie's Girl | last aired 2026-11-08 16:00 | normal p
 OK   Ride — Vapour Trail | last aired 2026-11-12 23:19 | normal pick now | request now
 OK   Rihanna — Umbrella (Album Version) | last aired 2026-11-12 23:31 | normal pick now | request now
 OK   Rio Reiser — Für immer und dich (Album Version) | last aired 2026-10-26 11:06 | normal pick now | request now
-OK   Rival Consoles — Untravel | last aired 2026-10-29 23:07 | normal pick now | request now
+WAIT Rival Consoles — Untravel | last aired 2026-11-16 21:17 | normal pick from 2026-11-18 09:17 | request from 2026-11-17 17:17
