@@ -1,4 +1,4 @@
-Track status, artists filed under DO (built Sun Nov 15, 7:55 PM PST (03:55 UTC Mon)). Times in UTC.
+Track status, artists filed under DO (built Sun Nov 15, 8:05 PM PST (04:05 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Dolly Parton — 9 to 5 | last aired 2026-11-14 14:28 | normal pick now | request now
@@ -10,7 +10,7 @@ OK   Don McLean — Vincent | last aired 2026-11-07 01:10 | normal pick now | re
 OK   Donald Fagen — The Nightfly | last aired 2026-11-07 01:23 | normal pick now | request now
 OK   Donna De Lory — Praying For Love | last aired 2026-10-31 20:07 | normal pick now | request now
 OK   Donna Summer — I Feel Love | last aired 2026-11-12 20:03 | normal pick now | request now
-WAIT Donny Hathaway — A Song for You | last aired 2026-11-14 15:58 | normal pick from 2026-11-16 03:58 | request now
+OK   Donny Hathaway — A Song for You | last aired 2026-11-14 15:58 | normal pick now | request now
 OK   Donny Hathaway — Jealous Guy (Live) | last aired 2026-10-31 17:41 | normal pick now | request now
 OK   Dope Lemon — Honey Bones | last aired 2026-10-31 20:02 | normal pick now | request now
 OK   Dorian Electra — Bizarre Love Triangle | last aired 2026-11-09 21:49 | normal pick now | request now
