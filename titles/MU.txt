@@ -1,4 +1,4 @@
-Track status, song titles filed under MU (built Mon Nov 16, 1:55 AM PST (09:55 UTC)). Times in UTC.
+Track status, song titles filed under MU (built Mon Nov 16, 2:05 AM PST (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Muchacha Ojos De Papel (Live) — Luis Alberto Spinetta | last aired 2026-11-16 07:39 | normal pick from 2026-11-18 07:39 | request from 2026-11-18 07:39
@@ -7,4 +7,4 @@ OK   Murphy's Law (Album Version) — Róisín Murphy | last aired 2026-11-08 03
 OK   Muscles — Diana Ross | last aired 2026-11-11 23:41 | normal pick now | request now
 OK   Music for 18 Musicians - Pulses — Colin Currie | last aired 2026-11-10 17:04 | normal pick now | request now
 WAIT Music For A Found Harmonium — Penguin Cafe Orchestra | last aired 2026-11-16 06:37 | normal pick from 2026-11-17 18:37 | request from 2026-11-17 02:37
-WAIT Music Sounds Better With You — Stardust | last aired 2026-11-15 14:47 | normal pick from 2026-11-17 14:47 | request from 2026-11-17 14:47
+WAIT Music Sounds Better With You — Stardust | last aired 2026-11-15 14:47 | normal pick from 2026-11-17 02:47 | request from 2026-11-16 10:47
