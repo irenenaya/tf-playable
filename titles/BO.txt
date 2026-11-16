@@ -1,4 +1,4 @@
-Track status, song titles filed under BO (built Mon Nov 16, 8:55 AM PST (16:55 UTC)). Times in UTC.
+Track status, song titles filed under BO (built Mon Nov 16, 9:05 AM PST (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Bocca di rosa — Fabrizio De Andrè | last aired 2026-11-12 06:01 | normal pick now | request now
@@ -16,5 +16,5 @@ OK   Born to Run — Bruce Springsteen | last aired 2026-11-14 01:06 | normal pi
 WAIT Born Under A Bad Sign — Albert King | last aired 2026-11-15 19:21 | normal pick from 2026-11-17 19:21 | request from 2026-11-17 19:21
 OK   Boss Guitar — DJ Cam Quartet | last aired 2026-11-11 19:37 | normal pick now | request now
 WAIT The Book of Love — The Magnetic Fields | last aired 2026-11-15 22:28 | normal pick from 2026-11-17 10:28 | request from 2026-11-16 18:28
-OK   The Boxer — Simon & Garfunkel | last aired 2026-11-14 13:14 | normal pick now | request now
+WAIT The Boxer — Simon & Garfunkel | last aired 2026-11-16 16:59 | normal pick from 2026-11-18 16:59 | request from 2026-11-18 16:59
 WAIT The Boy with the Arab Strap — Belle and Sebastian | last aired 2026-11-15 23:38 | normal pick from 2026-11-17 11:38 | request from 2026-11-16 19:38
