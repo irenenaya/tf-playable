@@ -1,4 +1,4 @@
-Track status, song titles filed under ST (built Sun Nov 15, 10:15 PM PST (06:15 UTC Mon)). Times in UTC.
+Track status, song titles filed under ST (built Sun Nov 15, 10:25 PM PST (06:25 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   S.T.A.Y. — Hans Zimmer | last aired 2026-11-10 12:15 | normal pick now | request now
@@ -11,7 +11,7 @@ OK   Star Fruit Surf Rider (Damon Albarn Remix) — Cornelius | last aired 2026-
 OK   Starboy — The Weeknd | last aired 2026-10-31 23:35 | normal pick now | request now
 WAIT Stardust — Bobby Hutcherson | last aired 2026-11-15 08:22 | normal pick from 2026-11-17 08:22 | request from 2026-11-17 08:22
 OK   Starman (2012 Remaster) — David Bowie | last aired 2026-11-14 06:30 | normal pick now | request now
-OK   Starry Night — Peggy Gou | last aired 2026-11-13 03:51 | normal pick now | request now
+WAIT Starry Night — Peggy Gou | last aired 2026-11-16 06:11 | normal pick from 2026-11-17 18:11 | request from 2026-11-17 02:11
 OK   Start Shootin' — Little People | last aired 2026-10-29 21:58 | normal pick now | request now
 WAIT Starálfur — Sigur Rós | last aired 2026-11-14 09:48 | normal pick from 2026-11-16 09:48 | request from 2026-11-16 09:48
 OK   Static on the Radio — Jim White | last aired 2026-10-25 22:41 | normal pick now | request now
