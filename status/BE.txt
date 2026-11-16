@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Sun Nov 15, 3:55 PM PST (23:55 UTC)). Times in UTC.
+Track status, artists filed under BE (built Sun Nov 15, 4:05 PM PST (00:05 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Beach House — Bluebird | last aired 2026-11-15 23:29 | normal pick from 2026-11-17 11:29 | request from 2026-11-16 19:29
@@ -12,7 +12,7 @@ WAIT Beck — Devils Haircut | last aired 2026-11-15 23:43 | normal pick from 20
 OK   Beck — Loser | last aired 2026-11-13 19:47 | normal pick now | request now
 OK   Beck — The New Pollution | last aired 2026-11-13 19:56 | normal pick now | request now
 OK   Becky Levi and the Nightjars — Wake Me Up | last aired 2026-10-22 06:23 | normal pick now | request now
-OK   Bee Gees — Night Fever (From "Saturday Night Fever" Soundtrack) | last aired 2026-11-10 03:46 | normal pick now | request now
+WAIT Bee Gees — Night Fever (From "Saturday Night Fever" Soundtrack) | last aired 2026-11-15 23:53 | normal pick from 2026-11-17 11:53 | request from 2026-11-16 19:53
 OK   Beenie Man — Feel It Boy | last aired 2026-11-10 04:43 | normal pick now | request now
 OK   Belcea Quartet — Quatuor à cordes n° 4, Sz. 91 - String Quartet No. 4 in C Major, Sz. 91: IV. Allegretto pizzicato | last aired 2026-11-08 22:22 | normal pick now | request now
 WAIT Belle and Sebastian — The Boy with the Arab Strap | last aired 2026-11-15 23:38 | normal pick from 2026-11-17 11:38 | request from 2026-11-16 19:38
@@ -23,7 +23,7 @@ WAIT Ben Howard — Only Love | last aired 2026-11-14 12:30 | normal pick from 2
 OK   Ben&Ben — Leaves | last aired 2026-11-10 04:25 | normal pick now | request now
 OK   Ben&Ben — Maybe The Night | last aired 2026-11-10 13:19 | normal pick now | request now
 OK   Benjamin Francis Leftwich — Ticket To Ride | last aired 2026-11-10 04:36 | normal pick now | request now
-OK   Benny Goodman — Sing Sing Sing (With A Swing) (live) | last aired 2026-11-10 04:07 | normal pick now | request now
+WAIT Benny Goodman — Sing Sing Sing (With A Swing) (live) | last aired 2026-11-15 23:57 | normal pick from 2026-11-17 11:57 | request from 2026-11-16 19:57
 WAIT Benny Sings — Rolled Up | last aired 2026-11-14 17:59 | normal pick from 2026-11-16 05:59 | request now
 WAIT Benny Sings — Sailing | last aired 2026-11-14 21:25 | normal pick from 2026-11-16 21:25 | request from 2026-11-16 21:25
 OK   Benson Boone — Beautiful Things | last aired 2026-11-10 04:40 | normal pick now | request now
