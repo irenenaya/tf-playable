@@ -1,4 +1,4 @@
-Track status, song titles filed under IN (built Mon Nov 16, 6:15 AM PST (14:15 UTC)). Times in UTC.
+Track status, song titles filed under IN (built Mon Nov 16, 6:25 AM PST (14:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   I Need You More and More (Remastered) — Antonio Campo | last aired 2026-11-12 04:25 | normal pick now | request now
@@ -16,7 +16,7 @@ OK   In the Mood — Glenn Miller & His Orchestra | last aired 2026-10-27 16:31 
 OK   In The Waiting Line — Zero 7 | last aired 2026-11-14 20:20 | normal pick now | request now
 OK   In Too Deep (Album Version) — Sum 41 | last aired 2026-11-10 14:55 | normal pick now | request now
 WAIT In Your Eyes — Tribal Seeds | last aired 2026-11-16 04:17 | normal pick from 2026-11-17 16:17 | request from 2026-11-17 00:17
-OK   Independence Day — Elliott Smith | last aired 2026-11-14 06:24 | normal pick now | request now
+WAIT Independence Day — Elliott Smith | last aired 2026-11-16 14:15 | normal pick from 2026-11-18 14:15 | request from 2026-11-18 14:15
 OK   Independence Day — Martina McBride | last aired 2026-11-09 15:43 | normal pick now | request now
 OK   Indoor Swimming At The Space Station — Eluvium | last aired 2026-11-12 11:25 | normal pick now | request now
 WAIT Inner City Blues (Make Me Wanna Holler) — Marvin Gaye | last aired 2026-11-16 13:50 | normal pick from 2026-11-18 01:50 | request from 2026-11-17 09:50

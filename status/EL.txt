@@ -1,4 +1,4 @@
-Track status, artists filed under EL (built Mon Nov 16, 6:15 AM PST (14:15 UTC)). Times in UTC.
+Track status, artists filed under EL (built Mon Nov 16, 6:25 AM PST (14:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Electric Light Orchestra — Evil Woman | last aired 2026-11-14 22:51 | normal pick now | request now
@@ -9,7 +9,7 @@ OK   Ella Fitzgerald — Bewitched, Bothered And Bewildered | last aired 2026-11
 WAIT Ella Fitzgerald — Bewitched, Bothered And Bewildered (Ella Fitzgerald and Her Famous Orchestra Bewitched, Bothered And Bewildered) | last aired 2026-11-16 11:19 | normal pick from 2026-11-17 23:19 | request from 2026-11-17 07:19
 WAIT Ella Fitzgerald — Summertime | last aired 2026-11-14 14:56 | normal pick from 2026-11-16 14:56 | request from 2026-11-16 14:56
 WAIT Elliott Smith — Angeles | last aired 2026-11-16 09:40 | normal pick from 2026-11-18 09:40 | request from 2026-11-18 09:40
-OK   Elliott Smith — Independence Day | last aired 2026-11-14 06:24 | normal pick now | request now
+WAIT Elliott Smith — Independence Day | last aired 2026-11-16 14:15 | normal pick from 2026-11-18 14:15 | request from 2026-11-18 14:15
 WAIT Elton John — Rocket Man (I Think It's Going To Be A Long, Long Time) | last aired 2026-11-14 22:04 | normal pick from 2026-11-16 22:04 | request from 2026-11-16 22:04
 OK   Eluvium — Indoor Swimming At The Space Station | last aired 2026-11-12 11:25 | normal pick now | request now
 OK   Eluvium — Surrounded by Illusion | last aired 2026-11-08 05:31 | normal pick now | request now
