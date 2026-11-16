@@ -1,7 +1,7 @@
-Track status, artists filed under JI (built Mon Nov 16, 5:35 AM PST (13:35 UTC)). Times in UTC.
+Track status, artists filed under JI (built Mon Nov 16, 5:45 AM PST (13:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Jill Scott — Golden | last aired 2026-10-30 06:16 | normal pick now | request now
+WAIT Jill Scott — Golden | last aired 2026-11-16 13:34 | normal pick from 2026-11-18 01:34 | request from 2026-11-17 09:34
 OK   Jim James — St. James Infirmary | last aired 2026-11-13 23:46 | normal pick now | request now
 OK   Jim White — Static on the Radio | last aired 2026-10-25 22:41 | normal pick now | request now
 OK   Jimi Hendrix — Hey Joe (Live At Winterland, San Francisco, CA) | last aired 2026-10-29 15:16 | normal pick now | request now
