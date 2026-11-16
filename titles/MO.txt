@@ -1,10 +1,10 @@
-Track status, song titles filed under MO (built Mon Nov 16, 10:25 AM PST (18:25 UTC)). Times in UTC.
+Track status, song titles filed under MO (built Mon Nov 16, 10:35 AM PST (18:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Molitva — Marija Šerifović | last aired 2026-11-10 05:50 | normal pick now | request now
 WAIT momentary lovers — Khalid | last aired 2026-11-15 15:29 | normal pick from 2026-11-17 03:29 | request now
-OK   Money for Nothing — Dire Straits | last aired 2026-11-14 00:33 | normal pick now | request now
-OK   Money — Pink Floyd | last aired 2026-11-14 02:47 | normal pick now | request now
+WAIT Money for Nothing — Dire Straits | last aired 2026-11-16 18:30 | normal pick from 2026-11-18 06:30 | request from 2026-11-17 14:30
+WAIT Money — Pink Floyd | last aired 2026-11-16 18:23 | normal pick from 2026-11-18 06:23 | request from 2026-11-17 14:23
 OK   Monkberry Moon Delight (2012 Remaster) — Paul McCartney | last aired 2026-11-14 23:34 | normal pick now | request now
 OK   Mood for a Day (2008 Remaster) — Yes | last aired 2026-11-13 02:44 | normal pick now | request now
 OK   Mood Indigo (G-Swing Featuring Ludovic Allen Remix) — Nina Simone | last aired 2026-10-27 16:45 | normal pick now | request now
