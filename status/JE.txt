@@ -1,12 +1,16 @@
-Track status, artists filed under JE (built Tue Nov 17, 11:55 AM PST (19:55 UTC)). Times in UTC.
+Track status, artists filed under JE (built Tue Nov 17, 12:05 PM PST (20:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Jean-Luc Ponty — Computer Incantations for World Peace | last aired 2026-11-13 01:32 | normal pick now | request now
 WAIT Jeff Beck — I Put a Spell on You (feat. Joss Stone) | last aired 2026-11-16 19:51 | normal pick from 2026-11-18 07:51 | request now
 OK   Jeff Beck — Where Were You (Live) | last aired 2026-11-12 20:53 | normal pick now | request now
 WAIT Jeff Buckley — Calling You (Live) | last aired 2026-11-17 18:16 | normal pick from 2026-11-19 06:16 | request from 2026-11-18 14:16
+WAIT Jeff Buckley — Dream Brother | last aired 2026-11-17 18:22 | normal pick from 2026-11-19 06:22 | request from 2026-11-18 14:22
+WAIT Jeff Buckley — Grace | last aired 2026-11-17 17:52 | normal pick from 2026-11-19 05:52 | request from 2026-11-18 13:52
 WAIT Jeff Buckley — Hallelujah | last aired 2026-11-17 17:57 | normal pick from 2026-11-19 05:57 | request from 2026-11-18 13:57
 WAIT Jeff Buckley — Last Goodbye | last aired 2026-11-16 20:28 | normal pick from 2026-11-18 08:28 | request now
+WAIT Jeff Buckley — Lilac Wine | last aired 2026-11-17 18:12 | normal pick from 2026-11-19 06:12 | request from 2026-11-18 14:12
+WAIT Jeff Buckley — Lover, You Should've Come Over | last aired 2026-11-17 18:04 | normal pick from 2026-11-19 06:04 | request from 2026-11-18 14:04
 WAIT Jeff Buckley — So Real | last aired 2026-11-16 15:40 | normal pick from 2026-11-18 03:40 | request now
 OK   Jeff Lynne — At Last | last aired 2026-11-12 15:43 | normal pick now | request now
 OK   Jerry Cantrell — Rooster (2022 Remaster) | last aired 2026-10-05 22:21 | normal pick now | request now
