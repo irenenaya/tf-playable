@@ -1,18 +1,18 @@
-Track status, artists filed under PE (built Tue Nov 17, 10:05 AM PST (18:05 UTC)). Times in UTC.
+Track status, artists filed under PE (built Tue Nov 17, 10:15 AM PST (18:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Pearl Jam — Yellow Ledbetter | last aired 2026-11-16 05:38 | normal pick from 2026-11-18 05:38 | request from 2026-11-18 05:38
 WAIT Pebe Sebert — City's Burning | last aired 2026-11-16 06:28 | normal pick from 2026-11-17 18:28 | request now
 WAIT Pedro Infante — Amorcito corazón | last aired 2026-11-16 06:19 | normal pick from 2026-11-18 06:19 | request from 2026-11-18 06:19
 WAIT Peeping Tom — Your Neighborhood Spaceman | last aired 2026-11-16 06:22 | normal pick from 2026-11-17 18:22 | request now
-WAIT Peggy Gou — Starry Night | last aired 2026-11-16 06:12 | normal pick from 2026-11-17 18:12 | request now
+OK   Peggy Gou — Starry Night | last aired 2026-11-16 06:12 | normal pick now | request now
 OK   Pellek — Bohemian Rhapsody | last aired 2026-11-07 16:03 | normal pick now | request now
 WAIT Penguin Cafe Orchestra — Music For A Found Harmonium | last aired 2026-11-16 06:37 | normal pick from 2026-11-17 18:37 | request now
 OK   Penguin Cafe Orchestra — Perpetuum Mobile | last aired 2026-11-16 05:26 | normal pick now | request now
 OK   Pent Up Pup — ORDER:SCORE | last aired 2026-10-18 03:50 | normal pick now | request now
 WAIT Percy Faith & His Orchestra — Black Magic Woman | last aired 2026-11-16 14:48 | normal pick from 2026-11-18 02:48 | request now
 OK   Percy Faith & His Orchestra — Theme from "A Summer Place" | last aired 2026-11-16 06:05 | normal pick now | request now
-WAIT Perpetuum Jazzile — Africa | last aired 2026-11-16 06:07 | normal pick from 2026-11-17 18:07 | request now
+OK   Perpetuum Jazzile — Africa | last aired 2026-11-16 06:07 | normal pick now | request now
 OK   Perrie — Die With A Smile (Bruno Mars & Lady Gaga Cover - BBC Radio 1 Live Lounge) | last aired 2026-10-21 15:11 | normal pick now | request now
 OK   Pet Shop Boys — West End Girls (2001 Remaster) | last aired 2026-11-16 05:55 | normal pick now | request now
 WAIT Pete Seeger — Solidarity Forever | last aired 2026-11-16 09:09 | normal pick from 2026-11-17 21:09 | request now
