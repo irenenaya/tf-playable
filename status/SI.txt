@@ -1,4 +1,4 @@
-Track status, artists filed under SI (built Tue Nov 17, 2:55 PM PST (22:55 UTC)). Times in UTC.
+Track status, artists filed under SI (built Tue Nov 17, 3:05 PM PST (23:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Siddhartha — 00:00 | last aired 2026-11-06 17:51 | normal pick now | request now
@@ -12,7 +12,7 @@ OK   Silverchair — Anthem for the Year 2000 (Album Version) | last aired 2026-
 WAIT Simon & Garfunkel — Scarborough Fair (Live at Central Park, New York, NY - September 19, 1981) | last aired 2026-11-16 17:32 | normal pick from 2026-11-18 17:32 | request from 2026-11-18 17:32
 WAIT Simon & Garfunkel — The Boxer | last aired 2026-11-16 16:59 | normal pick from 2026-11-18 16:59 | request from 2026-11-18 16:59
 WAIT Simon & Garfunkel — The Sound of Silence (Acoustic Version) | last aired 2026-11-16 19:08 | normal pick from 2026-11-18 19:08 | request from 2026-11-18 19:08
-OK   Simon Trpčeski — Suite bergamasque, CD 82, L. 75: III. Clair de lune | last aired 2026-11-16 07:07 | normal pick now | request from 2026-11-17 23:00
+OK   Simon Trpčeski — Suite bergamasque, CD 82, L. 75: III. Clair de lune | last aired 2026-11-16 07:07 | normal pick now | request now
 OK   Simple Minds — Alive And Kicking (Remastered 2002) | last aired 2026-11-06 05:49 | normal pick now | request now
 OK   Simple Minds — Don't You (Forget About Me) | last aired 2026-11-05 21:42 | normal pick now | request now
 OK   Simple Minds — Someone Somewhere (In Summertime) | last aired 2026-11-11 12:41 | normal pick now | request now
