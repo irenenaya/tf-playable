@@ -1,8 +1,8 @@
-Track status, song titles filed under KI (built Mon Nov 16, 5:55 PM PST (01:55 UTC Tue)). Times in UTC.
+Track status, song titles filed under KI (built Mon Nov 16, 6:05 PM PST (02:05 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Kiara — Bonobo | last aired 2026-11-14 10:05 | normal pick now | request now
-WAIT Kid Charlemagne — Steely Dan | last aired 2026-11-15 14:00 | normal pick from 2026-11-17 02:00 | request now
+OK   Kid Charlemagne — Steely Dan | last aired 2026-11-15 14:00 | normal pick now | request now
 OK   Kill Bill — SZA | last aired 2026-11-02 00:40 | normal pick now | request now
 OK   Killer — Adamski | last aired 2026-11-13 00:09 | normal pick now | request now
 WAIT Killer Queen (Remastered 2011) — Queen | last aired 2026-11-16 20:41 | normal pick from 2026-11-18 08:41 | request from 2026-11-17 16:41
