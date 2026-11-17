@@ -1,4 +1,4 @@
-Track status, artists filed under DA (built Tue Nov 17, 6:35 AM PST (14:35 UTC)). Times in UTC.
+Track status, artists filed under DA (built Tue Nov 17, 6:45 AM PST (14:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT D'Angelo — Untitled (How Does It Feel) | last aired 2026-11-17 14:16 | normal pick from 2026-11-19 14:16 | request from 2026-11-19 14:16
@@ -10,8 +10,8 @@ OK   Daft Punk — One More Time | last aired 2026-11-13 19:51 | normal pick now
 WAIT Daft Punk — Something About Us | last aired 2026-11-17 14:00 | normal pick from 2026-11-19 14:00 | request from 2026-11-19 14:00
 OK   Daft Punk — Touch It / Technologic | last aired 2026-11-09 17:43 | normal pick now | request now
 WAIT Daft Punk — Voyager | last aired 2026-11-17 14:30 | normal pick from 2026-11-19 02:30 | request from 2026-11-18 10:30
-OK   Dafuniks — The Dance | last aired 2026-11-11 03:51 | normal pick now | request now
-OK   Daikaiju — Magic Wanda | last aired 2026-11-11 03:47 | normal pick now | request now
+WAIT Dafuniks — The Dance | last aired 2026-11-17 14:39 | normal pick from 2026-11-19 02:39 | request from 2026-11-18 10:39
+WAIT Daikaiju — Magic Wanda | last aired 2026-11-17 14:34 | normal pick from 2026-11-19 02:34 | request from 2026-11-18 10:34
 WAIT Dalida — Paroles paroles (Album Version) | last aired 2026-11-17 14:04 | normal pick from 2026-11-19 02:04 | request from 2026-11-18 10:04
 WAIT Damien Rice — The Blower's Daughter | last aired 2026-11-17 05:28 | normal pick from 2026-11-19 05:28 | request from 2026-11-19 05:28
 OK   Daniel Barenboim — Nocturne n° 2 in E flat, op. 9 n° 2 - Nocturne No. 2 in E-Flat Major, Op. 9 No. 2 | last aired 2026-11-01 06:18 | normal pick now | request now
@@ -34,7 +34,7 @@ OK   David Bowie — Slow Burn | last aired 2026-10-31 22:15 | normal pick now |
 OK   David Bowie — Sound and Vision (2017 Remaster) | last aired 2026-10-23 15:48 | normal pick now | request now
 OK   David Bowie — Space Oddity | last aired 2026-11-13 21:34 | normal pick now | request now
 OK   David Bowie — Starman (2012 Remaster) | last aired 2026-11-14 06:30 | normal pick now | request now
-WAIT David Bowie — Subterraneans (2017 Remaster) | last aired 2026-11-16 18:43 | normal pick from 2026-11-18 06:43 | request from 2026-11-17 14:43
+WAIT David Bowie — Subterraneans (2017 Remaster) | last aired 2026-11-16 18:43 | normal pick from 2026-11-18 06:43 | request now
 OK   David Bowie — Warszawa (2017 Remaster) | last aired 2026-11-02 01:49 | normal pick now | request now
 WAIT David Bowie — Wild Is the Wind (2016 Remaster) | last aired 2026-11-17 13:54 | normal pick from 2026-11-19 01:54 | request from 2026-11-18 09:54
 OK   David Byrne — Everybody's Coming to My House (Live) | last aired 2026-11-11 19:44 | normal pick now | request now
