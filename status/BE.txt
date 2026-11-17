@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Tue Nov 17, 8:15 AM PST (16:15 UTC)). Times in UTC.
+Track status, artists filed under BE (built Tue Nov 17, 8:25 AM PST (16:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Beach House — Bluebird | last aired 2026-11-15 23:29 | normal pick from 2026-11-17 23:29 | request from 2026-11-17 23:29
@@ -18,7 +18,7 @@ OK   Belcea Quartet — Quatuor à cordes n° 4, Sz. 91 - String Quartet No. 4 i
 OK   Belle and Sebastian — The Boy with the Arab Strap | last aired 2026-11-15 23:38 | normal pick now | request now
 OK   Ben Allison — D.A.V.E. | last aired 2026-11-16 00:15 | normal pick now | request now
 WAIT Ben E. King — Stand By Me | last aired 2026-11-16 11:46 | normal pick from 2026-11-18 11:46 | request from 2026-11-18 11:46
-WAIT Ben Harper — Yard Sale | last aired 2026-11-15 16:18 | normal pick from 2026-11-17 16:18 | request from 2026-11-17 16:18
+OK   Ben Harper — Yard Sale | last aired 2026-11-15 16:18 | normal pick now | request now
 WAIT Ben Howard — Only Love | last aired 2026-11-17 06:47 | normal pick from 2026-11-19 06:47 | request from 2026-11-19 06:47
 OK   Ben&Ben — Leaves | last aired 2026-11-16 01:08 | normal pick now | request now
 OK   Ben&Ben — Maybe The Night | last aired 2026-11-16 00:11 | normal pick now | request now
