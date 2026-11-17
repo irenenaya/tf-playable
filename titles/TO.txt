@@ -1,10 +1,10 @@
-Track status, song titles filed under TO (built Tue Nov 17, 7:45 AM PST (15:45 UTC)). Times in UTC.
+Track status, song titles filed under TO (built Tue Nov 17, 7:55 AM PST (15:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Touch — Stan Bush | last aired 2026-11-15 15:19 | normal pick now | request now
 WAIT To Build A Home — The Cinematic Orchestra | last aired 2026-11-17 06:01 | normal pick from 2026-11-18 18:01 | request from 2026-11-18 02:01
 OK   Together Forever — Djivan Gasparyan | last aired 2026-11-13 06:56 | normal pick now | request now
-OK   Together We're Strong — Mireille Mathieu | last aired 2026-10-29 04:27 | normal pick now | request now
+WAIT Together We're Strong — Mireille Mathieu | last aired 2026-11-17 15:43 | normal pick from 2026-11-19 03:43 | request from 2026-11-18 11:43
 OK   Tom Sawyer — Rush | last aired 2026-10-29 14:47 | normal pick now | request now
 OK   Torn — Ednaswap | last aired 2026-11-13 04:38 | normal pick now | request now
 OK   Torn — Natalie Imbruglia | last aired 2026-11-14 13:49 | normal pick now | request now
