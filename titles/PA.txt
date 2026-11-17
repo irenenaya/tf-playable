@@ -1,4 +1,4 @@
-Track status, song titles filed under PA (built Tue Nov 17, 6:05 AM PST (14:05 UTC)). Times in UTC.
+Track status, song titles filed under PA (built Tue Nov 17, 6:15 AM PST (14:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Pac-Man (feat. ScHoolboy Q) — Gorillaz | last aired 2026-10-22 00:14 | normal pick now | request now
@@ -13,7 +13,7 @@ OK   Paradise City — Guns N' Roses | last aired 2026-10-30 00:04 | normal pick
 WAIT Paranoid Android — Radiohead | last aired 2026-11-16 09:03 | normal pick from 2026-11-18 09:03 | request from 2026-11-18 09:03
 OK   Paranoid — Black Sabbath | last aired 2026-11-12 15:31 | normal pick now | request now
 OK   Parisienne Walkways — Gary Moore | last aired 2026-11-09 20:03 | normal pick now | request now
-OK   Paroles paroles (Album Version) — Dalida | last aired 2026-11-12 04:36 | normal pick now | request now
+WAIT Paroles paroles (Album Version) — Dalida | last aired 2026-11-17 14:04 | normal pick from 2026-11-19 02:04 | request from 2026-11-18 10:04
 OK   Party Hard (Album Version) — Andrew W.K. | last aired 2026-11-10 22:26 | normal pick now | request now
 OK   Party In The U.S.A. — Miley Cyrus | last aired 2026-10-24 21:54 | normal pick now | request now
 WAIT Pasión (Album Version) — Rodrigo Leão | last aired 2026-11-16 10:35 | normal pick from 2026-11-18 10:35 | request from 2026-11-18 10:35

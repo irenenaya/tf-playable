@@ -1,4 +1,4 @@
-Track status, artists filed under DA (built Tue Nov 17, 6:05 AM PST (14:05 UTC)). Times in UTC.
+Track status, artists filed under DA (built Tue Nov 17, 6:15 AM PST (14:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   D'Angelo — Untitled (How Does It Feel) | last aired 2026-11-14 19:41 | normal pick now | request now
@@ -12,10 +12,10 @@ OK   Daft Punk — Touch It / Technologic | last aired 2026-11-09 17:43 | normal
 OK   Daft Punk — Voyager | last aired 2026-11-14 17:37 | normal pick now | request now
 OK   Dafuniks — The Dance | last aired 2026-11-11 03:51 | normal pick now | request now
 OK   Daikaiju — Magic Wanda | last aired 2026-11-11 03:47 | normal pick now | request now
-OK   Dalida — Paroles paroles (Album Version) | last aired 2026-11-12 04:36 | normal pick now | request now
+WAIT Dalida — Paroles paroles (Album Version) | last aired 2026-11-17 14:04 | normal pick from 2026-11-19 02:04 | request from 2026-11-18 10:04
 WAIT Damien Rice — The Blower's Daughter | last aired 2026-11-17 05:28 | normal pick from 2026-11-19 05:28 | request from 2026-11-19 05:28
 OK   Daniel Barenboim — Nocturne n° 2 in E flat, op. 9 n° 2 - Nocturne No. 2 in E-Flat Major, Op. 9 No. 2 | last aired 2026-11-01 06:18 | normal pick now | request now
-OK   Daniel Pemberton — Amaze Amaze Amaze (Life on Erid) (from "Project Hail Mary") | last aired 2026-11-12 05:08 | normal pick now | request now
+WAIT Daniel Pemberton — Amaze Amaze Amaze (Life on Erid) (from "Project Hail Mary") | last aired 2026-11-17 14:09 | normal pick from 2026-11-19 02:09 | request from 2026-11-18 10:09
 OK   Daniel Quien — Otros Colores | last aired 2026-11-14 06:51 | normal pick now | request now
 OK   Dara — Bangaranga | last aired 2026-11-02 14:36 | normal pick now | request now
 OK   Darude — Sandstorm | last aired 2026-11-12 04:41 | normal pick now | request now
@@ -27,7 +27,7 @@ WAIT David Bowie — Breaking Glass (2017 Remaster) | last aired 2026-11-16 19:2
 OK   David Bowie — Dancing in the Street (2002 Remaster) | last aired 2026-11-03 12:24 | normal pick now | request now
 OK   David Bowie — Dollar Days | last aired 2026-11-06 18:53 | normal pick now | request now
 WAIT David Bowie — Let's Dance (2018 Remaster) | last aired 2026-11-16 17:50 | normal pick from 2026-11-18 05:50 | request now
-WAIT David Bowie — Moonage Daydream (2012 Remaster) | last aired 2026-11-16 18:15 | normal pick from 2026-11-18 06:15 | request from 2026-11-17 14:15
+WAIT David Bowie — Moonage Daydream (2012 Remaster) | last aired 2026-11-16 18:15 | normal pick from 2026-11-18 06:15 | request now
 WAIT David Bowie — Rebel Rebel | last aired 2026-11-16 16:51 | normal pick from 2026-11-18 04:51 | request now
 WAIT David Bowie — Slip Away | last aired 2026-11-16 19:11 | normal pick from 2026-11-18 07:11 | request from 2026-11-17 15:11
 OK   David Bowie — Slow Burn | last aired 2026-10-31 22:15 | normal pick now | request now
