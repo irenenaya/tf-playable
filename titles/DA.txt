@@ -1,4 +1,4 @@
-Track status, song titles filed under DA (built Mon Nov 16, 11:45 PM PST (07:45 UTC Tue)). Times in UTC.
+Track status, song titles filed under DA (built Mon Nov 16, 11:55 PM PST (07:55 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   D.A.N.C.E. — Justice | last aired 2026-11-05 14:54 | normal pick now | request now
@@ -18,5 +18,5 @@ WAIT Das Model — Kraftwerk | last aired 2026-11-16 14:45 | normal pick from 20
 OK   Day Dreaming (Album Version) — Aretha Franklin | last aired 2026-11-15 16:23 | normal pick now | request now
 OK   Daydream In Blue — I Monster | last aired 2026-11-13 06:15 | normal pick now | request now
 OK   daydreams — Hard Life | last aired 2026-11-11 13:24 | normal pick now | request now
-OK   Dayvan Cowboy — Boards of Canada | last aired 2026-11-13 15:54 | normal pick now | request now
+WAIT Dayvan Cowboy — Boards of Canada | last aired 2026-11-17 07:42 | normal pick from 2026-11-19 07:42 | request from 2026-11-19 07:42
 OK   The Dance — Dafuniks | last aired 2026-11-11 03:51 | normal pick now | request now
