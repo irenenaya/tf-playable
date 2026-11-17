@@ -1,4 +1,4 @@
-Track status, song titles filed under FA (built Tue Nov 17, 12:35 AM PST (08:35 UTC)). Times in UTC.
+Track status, song titles filed under FA (built Tue Nov 17, 12:45 AM PST (08:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Face to Face — Daft Punk | last aired 2026-11-09 17:30 | normal pick now | request now
@@ -14,13 +14,13 @@ WAIT Fallen (Album Mix) — Sarah McLachlan | last aired 2026-11-15 11:51 | norm
 OK   Fallen Star — Djivan Gasparyan | last aired 2026-11-13 06:01 | normal pick now | request now
 WAIT Fallin' (Album Version) — Alicia Keys | last aired 2026-11-16 12:50 | normal pick from 2026-11-18 12:50 | request from 2026-11-18 12:50
 WAIT Falling Slowly (Album Version) — Glen Hansard and Marketa Irglova | last aired 2026-11-16 21:01 | normal pick from 2026-11-18 09:01 | request from 2026-11-17 17:01
-WAIT Familiar — Nils Frahm | last aired 2026-11-15 08:43 | normal pick from 2026-11-17 08:43 | request from 2026-11-17 08:43
+OK   Familiar — Nils Frahm | last aired 2026-11-15 08:43 | normal pick now | request now
 OK   Family Portrait — P!nk | last aired 2026-10-14 13:43 | normal pick now | request now
 WAIT Famous Blue Raincoat — Leonard Cohen | last aired 2026-11-17 03:08 | normal pick from 2026-11-19 03:08 | request from 2026-11-19 03:08
 OK   Fancy — Reba McEntire | last aired 2026-11-10 14:39 | normal pick now | request now
 OK   Fantas — Caterina Barbieri | last aired 2026-11-10 22:05 | normal pick now | request now
 OK   Fantasiestücke, Op. 73 - Schumann: Fantasiestücke, Op. 73: No. 1, Zart und mit Ausdruck — Sol Gabetta | last aired 2026-11-10 10:04 | normal pick now | request now
-OK   Fast Car (2015 Remaster) — Tracy Chapman | last aired 2026-11-14 13:05 | normal pick now | request now
+WAIT Fast Car (2015 Remaster) — Tracy Chapman | last aired 2026-11-17 08:36 | normal pick from 2026-11-19 08:36 | request from 2026-11-19 08:36
 WAIT Fast Car (LP Version) — Tracy Chapman | last aired 2026-11-17 02:58 | normal pick from 2026-11-18 14:58 | request from 2026-11-17 22:58
 OK   Faster — Matt Nathanson | last aired 2026-11-09 16:01 | normal pick now | request now
 OK   Fatti avanti amore (feat. Jovanotti) (5030 version) — Nek | last aired 2026-11-15 00:21 | normal pick now | request now
