@@ -1,4 +1,4 @@
-Track status, artists filed under TA (built Tue Nov 17, 1:35 AM PST (09:35 UTC)). Times in UTC.
+Track status, artists filed under TA (built Tue Nov 17, 1:45 AM PST (09:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Tabu — Dobra Vila | last aired 2026-10-22 16:58 | normal pick now | request now
@@ -17,7 +17,7 @@ WAIT Tame Impala — Is It True | last aired 2026-11-16 22:00 | normal pick from
 WAIT Tame Impala — The Less I Know The Better | last aired 2026-11-16 14:01 | normal pick from 2026-11-18 02:01 | request from 2026-11-17 10:01
 OK   Tammy Wynette — Stand By Your Man (Album Version) | last aired 2026-11-15 01:02 | normal pick now | request now
 WAIT Tangerine Dream — Love On A Real Train | last aired 2026-11-17 07:57 | normal pick from 2026-11-18 19:57 | request from 2026-11-18 03:57
-OK   Tangerine Dream — Stratosfear (Digital Remastered) | last aired 2026-11-15 00:51 | normal pick now | request now
+WAIT Tangerine Dream — Stratosfear (Digital Remastered) | last aired 2026-11-17 09:39 | normal pick from 2026-11-18 21:39 | request from 2026-11-18 05:39
 OK   Tate McRae — greedy | last aired 2026-11-15 02:33 | normal pick now | request now
 OK   Tate McRae — Miss possessive | last aired 2026-11-15 03:03 | normal pick now | request now
 OK   Tate McRae — TIT FOR TAT | last aired 2026-11-15 03:30 | normal pick now | request now
