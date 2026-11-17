@@ -1,4 +1,4 @@
-Track status, artists filed under TO (built Tue Nov 17, 4:25 AM PST (12:25 UTC)). Times in UTC.
+Track status, artists filed under TO (built Tue Nov 17, 4:35 AM PST (12:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   toe — Goodbye (Live) | last aired 2026-11-08 19:07 | normal pick now | request now
@@ -23,11 +23,11 @@ WAIT Tom Petty — I Won't Back Down | last aired 2026-11-17 12:07 | normal pick
 OK   Tom Petty — Runnin' Down A Dream | last aired 2026-11-14 00:42 | normal pick now | request now
 OK   Tom Robinson — The Saturday Disco | last aired 2026-10-24 21:03 | normal pick now | request now
 WAIT Tom Waits — House Where Nobody Lives | last aired 2026-11-17 08:01 | normal pick from 2026-11-18 20:01 | request from 2026-11-18 04:01
-OK   Tomaso Albinoni — Adagio in G Minor | last aired 2026-11-15 03:51 | normal pick now | request now
+WAIT Tomaso Albinoni — Adagio in G Minor | last aired 2026-11-17 12:27 | normal pick from 2026-11-19 00:27 | request from 2026-11-18 08:27
 WAIT Tomohisa Okudo — Always with Me | last aired 2026-11-17 12:02 | normal pick from 2026-11-19 00:02 | request from 2026-11-18 08:02
 OK   Toni Braxton — Un-Break My Heart | last aired 2026-11-15 04:18 | normal pick now | request now
 OK   Tonto's Expanding Head Band — Cybernaut | last aired 2026-11-15 04:13 | normal pick now | request now
-OK   Tony Bennett & Faith Hill — The Way You Look Tonight | last aired 2026-11-14 15:31 | normal pick now | request now
+WAIT Tony Bennett & Faith Hill — The Way You Look Tonight | last aired 2026-11-17 12:23 | normal pick from 2026-11-19 00:23 | request from 2026-11-18 08:23
 OK   TOOL — Lateralus | last aired 2026-11-15 04:26 | normal pick now | request now
 WAIT Tori Amos — A Sorta Fairytale (2023 Remaster) | last aired 2026-11-17 12:10 | normal pick from 2026-11-19 00:10 | request from 2026-11-18 08:10
 OK   Tori Amos — Rattlesnakes | last aired 2026-11-15 02:14 | normal pick now | request now
