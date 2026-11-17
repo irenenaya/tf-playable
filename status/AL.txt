@@ -1,10 +1,10 @@
-Track status, artists filed under AL (built Tue Nov 17, 1:15 PM PST (21:15 UTC)). Times in UTC.
+Track status, artists filed under AL (built Tue Nov 17, 1:35 PM PST (21:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Al Di Meola — Double Concerto | last aired 2026-11-09 02:17 | normal pick now | request now
 OK   Al Di Meola — Libertango | last aired 2026-11-15 20:12 | normal pick now | request now
 OK   Al Di Meola — Passion, Grace & Fire (Album Version) | last aired 2026-11-10 02:43 | normal pick now | request now
-WAIT Al Di Meola — Red Moon | last aired 2026-11-15 21:32 | normal pick from 2026-11-17 21:32 | request from 2026-11-17 21:32
+OK   Al Di Meola — Red Moon | last aired 2026-11-15 21:32 | normal pick now | request now
 WAIT Al Green — Let's Stay Together | last aired 2026-11-17 18:33 | normal pick from 2026-11-19 18:33 | request from 2026-11-19 18:33
 WAIT Al Green — Love and Happiness | last aired 2026-11-17 20:41 | normal pick from 2026-11-19 20:41 | request from 2026-11-19 20:41
 WAIT Al Green — Simply Beautiful | last aired 2026-11-17 17:47 | normal pick from 2026-11-19 17:47 | request from 2026-11-19 17:47
