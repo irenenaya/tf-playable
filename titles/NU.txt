@@ -1,6 +1,6 @@
-Track status, song titles filed under NU (built Tue Nov 17, 3:05 AM PST (11:05 UTC)). Times in UTC.
+Track status, song titles filed under NU (built Tue Nov 17, 3:15 AM PST (11:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Numb — Linkin Park | last aired 2026-11-15 23:09 | normal pick from 2026-11-17 11:09 | request now
-OK   Nuvole Bianche — Ludovico Einaudi | last aired 2026-11-15 06:51 | normal pick now | request now
+OK   Numb — Linkin Park | last aired 2026-11-15 23:09 | normal pick now | request now
+WAIT Nuvole Bianche — Ludovico Einaudi | last aired 2026-11-17 11:03 | normal pick from 2026-11-19 11:03 | request from 2026-11-19 11:03
 OK   Núi Xưa — Ngo Hong Quang | last aired 2026-10-29 20:41 | normal pick now | request now
