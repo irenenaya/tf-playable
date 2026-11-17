@@ -1,4 +1,4 @@
-Track status, artists filed under MI (built Tue Nov 17, 9:05 AM PST (17:05 UTC)). Times in UTC.
+Track status, artists filed under MI (built Tue Nov 17, 9:15 AM PST (17:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Mica Levi — Love | last aired 2026-11-17 16:25 | normal pick from 2026-11-19 04:25 | request from 2026-11-18 12:25
@@ -14,13 +14,13 @@ WAIT Michael Jackson — Stranger in Moscow | last aired 2026-11-17 16:30 | norm
 OK   Michael Jackson — Thriller | last aired 2026-10-31 13:09 | normal pick now | request now
 WAIT Michael Jackson — Who Is It | last aired 2026-11-16 21:50 | normal pick from 2026-11-18 09:50 | request from 2026-11-17 17:50
 WAIT Michael Jackson — You Are Not Alone | last aired 2026-11-17 16:58 | normal pick from 2026-11-19 04:58 | request from 2026-11-18 12:58
-WAIT Michael McDonald — I Keep Forgettin' (Every Time You're Near) | last aired 2026-11-15 17:06 | normal pick from 2026-11-17 17:06 | request from 2026-11-17 17:06
+OK   Michael McDonald — I Keep Forgettin' (Every Time You're Near) | last aired 2026-11-15 17:06 | normal pick now | request now
 WAIT MIKA — Grace Kelly | last aired 2026-11-17 15:40 | normal pick from 2026-11-19 03:40 | request from 2026-11-18 11:40
 OK   Mike Marshall — Big Country (Instrumental) | last aired 2026-11-11 01:50 | normal pick now | request now
 WAIT Mike Oldfield — Moonlight Shadow | last aired 2026-11-17 10:02 | normal pick from 2026-11-18 22:02 | request from 2026-11-18 06:02
 WAIT Mikis Theodorakis — Zorba the Greek: Zorba's Dance | last aired 2026-11-15 17:32 | normal pick from 2026-11-17 17:32 | request from 2026-11-17 17:32
 WAIT Miles Davis — Blue in Green | last aired 2026-11-17 15:19 | normal pick from 2026-11-19 03:19 | request from 2026-11-18 11:19
-WAIT Miles Davis — Flamenco Sketches | last aired 2026-11-15 17:14 | normal pick from 2026-11-17 17:14 | request from 2026-11-17 17:14
+OK   Miles Davis — Flamenco Sketches | last aired 2026-11-15 17:14 | normal pick now | request now
 WAIT Miles Davis — So What | last aired 2026-11-17 04:41 | normal pick from 2026-11-19 04:41 | request from 2026-11-19 04:41
 WAIT Miley Cyrus — Flowers | last aired 2026-11-17 16:21 | normal pick from 2026-11-19 04:21 | request from 2026-11-18 12:21
 WAIT Miley Cyrus — Party In The U.S.A. | last aired 2026-11-17 16:54 | normal pick from 2026-11-19 04:54 | request from 2026-11-18 12:54
@@ -29,7 +29,7 @@ WAIT Milton Nascimento — Bridges (Travessia) | last aired 2026-11-17 15:25 | n
 WAIT Minako Yoshida — I'll Teach You All About Love | last aired 2026-11-17 15:47 | normal pick from 2026-11-19 03:47 | request from 2026-11-18 11:47
 WAIT Ministry — Just One Fix (Album Version) | last aired 2026-11-17 16:49 | normal pick from 2026-11-19 04:49 | request from 2026-11-18 12:49
 WAIT Minnie Riperton — Lovin' You | last aired 2026-11-17 15:32 | normal pick from 2026-11-19 03:32 | request from 2026-11-18 11:32
-WAIT Miracles of Modern Science — Dear Pressure | last aired 2026-11-16 21:14 | normal pick from 2026-11-18 09:14 | request from 2026-11-17 17:14
+WAIT Miracles of Modern Science — Dear Pressure | last aired 2026-11-16 21:14 | normal pick from 2026-11-18 09:14 | request now
 WAIT Mireille Mathieu — Together We're Strong | last aired 2026-11-17 15:43 | normal pick from 2026-11-19 03:43 | request from 2026-11-18 11:43
 WAIT Miriam Makeba — Pata Pata | last aired 2026-11-17 15:29 | normal pick from 2026-11-19 03:29 | request from 2026-11-18 11:29
 WAIT Missio — I See You | last aired 2026-11-17 15:58 | normal pick from 2026-11-19 03:58 | request from 2026-11-18 11:58
