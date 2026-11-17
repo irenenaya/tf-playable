@@ -1,9 +1,9 @@
-Track status, song titles filed under YO (built Tue Nov 17, 8:55 AM PST (16:55 UTC)). Times in UTC.
+Track status, song titles filed under YO (built Tue Nov 17, 9:05 AM PST (17:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   You and I — Papooz | last aired 2026-11-11 13:17 | normal pick now | request now
 OK   You Are — Lionel Richie | last aired 2026-11-15 10:55 | normal pick now | request now
-OK   You Are Not Alone — Michael Jackson | last aired 2026-11-08 00:17 | normal pick now | request now
+WAIT You Are Not Alone — Michael Jackson | last aired 2026-11-17 16:58 | normal pick from 2026-11-19 04:58 | request from 2026-11-18 12:58
 OK   You Are So Beautiful — Charles Lloyd | last aired 2026-11-11 00:18 | normal pick now | request now
 OK   You Are So Beautiful — Charles Lloyd & The Marvels | last aired 2026-11-13 15:21 | normal pick now | request now
 OK   You Belong to Me (2016 Remaster) — The Doobie Brothers | last aired 2026-11-14 02:11 | normal pick now | request now
