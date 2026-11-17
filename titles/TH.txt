@@ -1,4 +1,4 @@
-Track status, song titles filed under TH (built Tue Nov 17, 3:45 PM PST (23:45 UTC)). Times in UTC.
+Track status, song titles filed under TH (built Tue Nov 17, 3:55 PM PST (23:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   (They Long To Be) Close To You — The Carpenters | last aired 2026-11-13 23:10 | normal pick now | request now
@@ -20,7 +20,7 @@ OK   This Is It — Kenny Loggins | last aired 2026-11-13 21:57 | normal pick no
 OK   This Is The Life — Amy Macdonald | last aired 2026-11-15 19:03 | normal pick now | request now
 OK   This Is Your Life (Originally Performed by Banderas) — Cover Vocals BPM 122 Acapellas | last aired 2026-09-21 02:20 | normal pick now | request now
 OK   This Means War — Petra | last aired 2026-11-11 22:27 | normal pick now | request now
-OK   This Must Be the Place (Naive Melody) (2005 Remastered LP Version) — Talking Heads | last aired 2026-11-13 22:38 | normal pick now | request now
+WAIT This Must Be the Place (Naive Melody) (2005 Remastered LP Version) — Talking Heads | last aired 2026-11-17 23:51 | normal pick from 2026-11-19 11:51 | request from 2026-11-18 19:51
 OK   This Woman's Work (Uncut) — Maxwell | last aired 2026-11-11 06:45 | normal pick now | request now
 WAIT Threnody — Goldmund | last aired 2026-11-17 07:14 | normal pick from 2026-11-19 07:14 | request from 2026-11-19 07:14
 WAIT Thriller — Michael Jackson | last aired 2026-11-17 18:46 | normal pick from 2026-11-19 06:46 | request from 2026-11-18 14:46
