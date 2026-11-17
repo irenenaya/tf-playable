@@ -1,4 +1,4 @@
-Track status, artists filed under AS (built Tue Nov 17, 7:25 AM PST (15:25 UTC)). Times in UTC.
+Track status, artists filed under AS (built Tue Nov 17, 7:35 AM PST (15:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Ashley Tisdale — Bop to the Top | last aired 2026-10-19 22:50 | normal pick now | request now
@@ -6,5 +6,5 @@ OK   Ashra — Kazoo | last aired 2026-11-12 23:52 | normal pick now | request n
 OK   Ashra — Midnight On Mars | last aired 2026-11-13 03:40 | normal pick now | request now
 OK   Ashra — Sunrain | last aired 2026-11-13 09:28 | normal pick now | request now
 OK   Aster Aweke — Tizita | last aired 2026-11-16 02:51 | normal pick now | request now
-WAIT Astor Piazzolla — Adiós Nonino | last aired 2026-11-16 03:35 | normal pick from 2026-11-17 15:35 | request now
+OK   Astor Piazzolla — Adiós Nonino | last aired 2026-11-16 03:35 | normal pick now | request now
 OK   Astor Piazzolla — Milonga Del Angel | last aired 2026-11-16 02:44 | normal pick now | request now
