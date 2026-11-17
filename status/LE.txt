@@ -1,4 +1,4 @@
-Track status, artists filed under LE (built Mon Nov 16, 9:25 PM PST (05:25 UTC Tue)). Times in UTC.
+Track status, artists filed under LE (built Mon Nov 16, 9:35 PM PST (05:35 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   LeAnn Rimes — Blue | last aired 2026-11-13 00:02 | normal pick now | request now
@@ -15,7 +15,7 @@ OK   Leonard Bernstein — Candide: Overture | last aired 2026-11-10 02:00 | nor
 OK   Leonard Bernstein — The Rite of Spring (1913 Version) - Le Sacre du Printemps (The Rite of Spring): Les augures printaniers (Danses des adolescentes) [The Augurs of Spring (Dance of the Young Girls)] (1913 Version) | last aired 2026-11-10 02:39 | normal pick now | request now
 OK   Leonard Cohen — Anthem | last aired 2026-11-15 02:04 | normal pick now | request now
 OK   Leonard Cohen — Avalanche | last aired 2026-11-04 08:43 | normal pick now | request now
-WAIT Leonard Cohen — Bird on the Wire | last aired 2026-11-16 09:26 | normal pick from 2026-11-17 21:26 | request from 2026-11-17 05:26
+WAIT Leonard Cohen — Bird on the Wire | last aired 2026-11-16 09:26 | normal pick from 2026-11-17 21:26 | request now
 WAIT Leonard Cohen — Dance Me to the End of Love | last aired 2026-11-16 15:19 | normal pick from 2026-11-18 03:19 | request from 2026-11-17 11:19
 WAIT Leonard Cohen — Famous Blue Raincoat | last aired 2026-11-17 03:08 | normal pick from 2026-11-18 15:08 | request from 2026-11-17 23:08
 WAIT Leonard Cohen — Hallelujah | last aired 2026-11-16 16:27 | normal pick from 2026-11-18 04:27 | request from 2026-11-17 12:27
