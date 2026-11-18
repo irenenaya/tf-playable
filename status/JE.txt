@@ -1,4 +1,4 @@
-Track status, artists filed under JE (built Tue Nov 17, 7:35 PM PST (03:35 UTC Wed)). Times in UTC.
+Track status, artists filed under JE (built Tue Nov 17, 7:45 PM PST (03:45 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Jean-Luc Ponty — Computer Incantations for World Peace | last aired 2026-11-13 01:32 | normal pick now | request now
@@ -11,7 +11,7 @@ WAIT Jeff Buckley — Hallelujah | last aired 2026-11-17 17:57 | normal pick fro
 WAIT Jeff Buckley — Last Goodbye | last aired 2026-11-16 20:28 | normal pick from 2026-11-18 08:28 | request now
 WAIT Jeff Buckley — Lilac Wine | last aired 2026-11-17 18:12 | normal pick from 2026-11-19 06:12 | request from 2026-11-18 14:12
 WAIT Jeff Buckley — Lover, You Should've Come Over | last aired 2026-11-17 18:04 | normal pick from 2026-11-19 06:04 | request from 2026-11-18 14:04
-WAIT Jeff Buckley — So Real | last aired 2026-11-16 15:40 | normal pick from 2026-11-18 03:40 | request now
+OK   Jeff Buckley — So Real | last aired 2026-11-16 15:40 | normal pick now | request now
 OK   Jeff Lynne — At Last | last aired 2026-11-12 15:43 | normal pick now | request now
 OK   Jerry Cantrell — Rooster (2022 Remaster) | last aired 2026-10-05 22:21 | normal pick now | request now
 OK   Jerry Cantrell — Would? (2022 Remaster) | last aired 2026-10-21 22:28 | normal pick now | request now
