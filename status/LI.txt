@@ -1,4 +1,4 @@
-Track status, artists filed under LI (built Wed Nov 18, 8:25 AM PST (16:25 UTC)). Times in UTC.
+Track status, artists filed under LI (built Wed Nov 18, 8:45 AM PST (16:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   L'Impératrice — Sonate Pacifique | last aired 2026-11-15 11:15 | normal pick now | request now
@@ -17,4 +17,4 @@ OK   Lita Ford & Ozzy Osborne — Close My Eyes Forever | last aired 2026-11-16 
 OK   Little Axe — Ride On (Fight On) | last aired 2026-11-15 11:01 | normal pick now | request now
 OK   Little People — Start Shootin' | last aired 2026-10-29 21:58 | normal pick now | request now
 OK   Little River Band — Cool Change | last aired 2026-11-16 23:07 | normal pick now | request now
-WAIT Little River Band — Reminiscing (2002 Digital Remaster) | last aired 2026-11-17 04:28 | normal pick from 2026-11-18 16:28 | request now
+OK   Little River Band — Reminiscing (2002 Digital Remaster) | last aired 2026-11-17 04:28 | normal pick now | request now
