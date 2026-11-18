@@ -1,4 +1,4 @@
-Track status, artists filed under DA (built Tue Nov 17, 11:25 PM PST (07:25 UTC Wed)). Times in UTC.
+Track status, artists filed under DA (built Tue Nov 17, 11:35 PM PST (07:35 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT D'Angelo — Untitled (How Does It Feel) | last aired 2026-11-17 14:16 | normal pick from 2026-11-19 14:16 | request from 2026-11-19 14:16
@@ -23,7 +23,7 @@ OK   Daryl Hall & John Oates — I Can't Go For That (No Can Do) (Remastered 200
 WAIT Dasha — Austin (Boots Stop Workin') | last aired 2026-11-17 14:27 | normal pick from 2026-11-19 02:27 | request from 2026-11-18 10:27
 WAIT Database — Vice II | last aired 2026-11-17 14:55 | normal pick from 2026-11-19 02:55 | request from 2026-11-18 10:55
 OK   David Bowie — "Heroes" (2017 Remaster) | last aired 2026-11-16 17:11 | normal pick now | request now
-WAIT David Bowie — Breaking Glass (2017 Remaster) | last aired 2026-11-16 19:27 | normal pick from 2026-11-18 07:27 | request now
+OK   David Bowie — Breaking Glass (2017 Remaster) | last aired 2026-11-16 19:27 | normal pick now | request now
 OK   David Bowie — Dancing in the Street (2002 Remaster) | last aired 2026-11-03 12:24 | normal pick now | request now
 WAIT David Bowie — Dollar Days | last aired 2026-11-18 00:25 | normal pick from 2026-11-19 12:25 | request from 2026-11-18 20:25
 OK   David Bowie — Let's Dance (2018 Remaster) | last aired 2026-11-16 17:50 | normal pick now | request now
