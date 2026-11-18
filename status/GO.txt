@@ -1,4 +1,4 @@
-Track status, artists filed under GO (built Wed Nov 18, 1:15 PM PST (21:15 UTC)). Times in UTC.
+Track status, artists filed under GO (built Wed Nov 18, 1:25 PM PST (21:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Go_A — SHUM | last aired 2026-11-12 22:07 | normal pick now | request now
@@ -13,7 +13,7 @@ WAIT Gorillaz — Empire Ants (feat. Little Dragon) | last aired 2026-11-17 11:2
 WAIT Gorillaz — Hong Kong | last aired 2026-11-17 10:27 | normal pick from 2026-11-18 22:27 | request now
 OK   Gorillaz — Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar) | last aired 2026-11-16 21:23 | normal pick now | request now
 WAIT Gorillaz — Pac-Man (feat. ScHoolboy Q) | last aired 2026-11-18 00:11 | normal pick from 2026-11-19 12:11 | request now
-WAIT Gorillaz — Rock the House | last aired 2026-11-18 01:19 | normal pick from 2026-11-19 13:19 | request from 2026-11-18 21:19
+WAIT Gorillaz — Rock the House | last aired 2026-11-18 01:19 | normal pick from 2026-11-19 13:19 | request now
 WAIT Gorillaz — Souk Eye | last aired 2026-11-17 23:11 | normal pick from 2026-11-19 11:11 | request now
 WAIT Gorillaz — The Empty Dream Machine (feat. Black Thought, Johnny Marr and Anoushka Shankar) | last aired 2026-11-18 02:05 | normal pick from 2026-11-19 14:05 | request from 2026-11-18 22:05
 OK   Gotan Project — Queremos paz | last aired 2026-11-16 23:20 | normal pick now | request now

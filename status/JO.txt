@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Wed Nov 18, 1:15 PM PST (21:15 UTC)). Times in UTC.
+Track status, artists filed under JO (built Wed Nov 18, 1:25 PM PST (21:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-11-18 08:30 | normal pick from 2026-11-20 08:30 | request from 2026-11-20 08:30
@@ -35,7 +35,7 @@ WAIT John McLaughlin — You Know, You Know (Album Version) | last aired 2026-11
 WAIT John Prine — Your Flag Decal Won't Get You into Heaven Anymore | last aired 2026-11-18 08:07 | normal pick from 2026-11-19 20:07 | request from 2026-11-19 04:07
 OK   John T. Williams — Anything Goes | last aired 2026-10-16 05:14 | normal pick now | request now
 OK   John Williams — Theme From Superman (Concert Version) | last aired 2026-11-08 18:45 | normal pick now | request now
-WAIT Johnny Cash — Folsom Prison Blues | last aired 2026-11-17 09:24 | normal pick from 2026-11-18 21:24 | request now
+OK   Johnny Cash — Folsom Prison Blues | last aired 2026-11-17 09:24 | normal pick now | request now
 OK   Johnny Cash — Hurt (Album Version) | last aired 2026-11-17 08:06 | normal pick now | request now
 WAIT Johnny Cash — Redemption Day (Album Version) | last aired 2026-11-17 13:26 | normal pick from 2026-11-19 01:26 | request now
 WAIT Johnny Cash — Ring of Fire | last aired 2026-11-17 11:24 | normal pick from 2026-11-18 23:24 | request now
