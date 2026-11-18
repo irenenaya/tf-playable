@@ -1,4 +1,4 @@
-Track status, song titles filed under SO (built Wed Nov 18, 3:45 AM PST (11:45 UTC)). Times in UTC.
+Track status, song titles filed under SO (built Wed Nov 18, 3:55 AM PST (11:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT So Alive — Love and Rockets | last aired 2026-11-18 01:54 | normal pick from 2026-11-19 13:54 | request from 2026-11-18 21:54
@@ -28,7 +28,7 @@ WAIT Souk Eye — Gorillaz | last aired 2026-11-17 23:11 | normal pick from 2026
 WAIT Soukora — Ali Farka Touré | last aired 2026-11-17 00:47 | normal pick from 2026-11-19 00:47 | request from 2026-11-19 00:47
 OK   Sound and Vision (2017 Remaster) — David Bowie | last aired 2026-10-23 15:48 | normal pick now | request now
 OK   Soundtrack to Me and You — Swan Dive | last aired 2026-11-05 01:40 | normal pick now | request now
-WAIT Sour Flower — Lianne La Havas | last aired 2026-11-16 23:49 | normal pick from 2026-11-18 11:49 | request now
+OK   Sour Flower — Lianne La Havas | last aired 2026-11-16 23:49 | normal pick now | request now
 WAIT Sour Times — Portishead | last aired 2026-11-17 01:30 | normal pick from 2026-11-18 13:30 | request now
 OK   Sous le ciel de Paris — Zaz | last aired 2026-11-16 02:56 | normal pick now | request now
 OK   The Song Of Solomon (2018 Remaster) — Kate Bush | last aired 2026-11-16 20:36 | normal pick now | request now
