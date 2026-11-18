@@ -1,8 +1,8 @@
-Track status, artists filed under MA (built Tue Nov 17, 11:45 PM PST (07:45 UTC Wed)). Times in UTC.
+Track status, artists filed under MA (built Tue Nov 17, 11:55 PM PST (07:55 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   M/A/R/R/S — Pump Up The Volume (UK 12" Remix) | last aired 2026-11-12 04:52 | normal pick now | request now
-OK   Mac DeMarco — Chamber Of Reflection | last aired 2026-11-15 22:06 | normal pick now | request now
+WAIT Mac DeMarco — Chamber Of Reflection | last aired 2026-11-18 07:46 | normal pick from 2026-11-20 07:46 | request from 2026-11-20 07:46
 WAIT Mac DeMarco — My Kind of Woman | last aired 2026-11-18 03:04 | normal pick from 2026-11-20 03:04 | request from 2026-11-20 03:04
 OK   Mac DeMarco — No Other Heart | last aired 2026-11-10 01:07 | normal pick now | request now
 WAIT Madness — Our House | last aired 2026-11-18 03:01 | normal pick from 2026-11-20 03:01 | request from 2026-11-20 03:01
@@ -40,7 +40,7 @@ OK   Marvin Gaye — I Heard It Through The Grapevine (SACD Stereo) | last aired
 OK   Marvin Gaye — Inner City Blues (Make Me Wanna Holler) | last aired 2026-11-16 13:50 | normal pick now | request now
 OK   Marvin Gaye — Let's Get It On | last aired 2026-11-04 20:49 | normal pick now | request now
 WAIT Marvin Gaye — Mercy Mercy Me (The Ecology) | last aired 2026-11-17 21:10 | normal pick from 2026-11-19 21:10 | request from 2026-11-19 21:10
-OK   Marvin Gaye — Save The Children | last aired 2026-11-09 09:38 | normal pick now | request now
+WAIT Marvin Gaye — Save The Children | last aired 2026-11-18 07:50 | normal pick from 2026-11-19 19:50 | request from 2026-11-19 03:50
 WAIT Marvin Gaye — Sexual Healing (Album Version) | last aired 2026-11-17 22:13 | normal pick from 2026-11-19 10:13 | request from 2026-11-18 18:13
 WAIT Marvin Gaye — What's Going On | last aired 2026-11-17 18:58 | normal pick from 2026-11-19 06:58 | request from 2026-11-18 14:58
 WAIT Marvin Gaye — Wholy Holy | last aired 2026-11-18 03:46 | normal pick from 2026-11-19 15:46 | request from 2026-11-18 23:46
