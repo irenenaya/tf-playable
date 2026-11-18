@@ -1,10 +1,10 @@
-Track status, song titles filed under BI (built Wed Nov 18, 3:15 PM PST (23:15 UTC)). Times in UTC.
+Track status, song titles filed under BI (built Wed Nov 18, 3:25 PM PST (23:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Bibo no Aozora — Ryuichi Sakamoto | last aired 2026-11-16 11:26 | normal pick now | request now
 WAIT Big Black Car — Gregory Alan Isakov | last aired 2026-11-17 06:43 | normal pick from 2026-11-19 06:43 | request from 2026-11-19 06:43
 OK   Big Country (Instrumental) — Mike Marshall | last aired 2026-11-11 01:50 | normal pick now | request now
-OK   Big Ship — Cardiacs | last aired 2026-11-09 16:54 | normal pick now | request now
+WAIT Big Ship — Cardiacs | last aired 2026-11-18 23:20 | normal pick from 2026-11-20 11:20 | request from 2026-11-19 19:20
 OK   Big Sky Country (Album Version) — Chris Whitley | last aired 2026-11-06 11:36 | normal pick now | request now
 OK   Biggest Part of Me (Album Version) — Ambrosia | last aired 2026-11-14 16:15 | normal pick now | request now
 OK   Bird — Dead Can Dance | last aired 2026-11-16 22:51 | normal pick now | request now
