@@ -1,4 +1,4 @@
-Track status, artists filed under LO (built Tue Nov 17, 5:25 PM PST (01:25 UTC Wed)). Times in UTC.
+Track status, artists filed under LO (built Tue Nov 17, 5:45 PM PST (01:45 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Lofi Fruits Music — Plastic Love | last aired 2026-11-15 05:48 | normal pick now | request now
@@ -6,18 +6,18 @@ OK   Lofi Lia — Tell Your World (From "Hatsune Miku") (Lofi Remix) | last aire
 OK   London Symphony Orchestra — Duel of the Fates | last aired 2026-11-15 05:39 | normal pick now | request now
 OK   LoneGray — Tell Your World | last aired 2026-11-10 08:55 | normal pick now | request now
 OK   Lord Huron — Life Is Strange | last aired 2026-11-15 02:35 | normal pick now | request now
-OK   Lordi — Hard Rock Hallelujah | last aired 2026-11-15 05:53 | normal pick now | request now
-OK   Loreen — Euphoria | last aired 2026-11-15 05:31 | normal pick now | request now
+WAIT Lordi — Hard Rock Hallelujah | last aired 2026-11-18 01:31 | normal pick from 2026-11-19 13:31 | request from 2026-11-18 21:31
+WAIT Loreen — Euphoria | last aired 2026-11-18 01:27 | normal pick from 2026-11-19 13:27 | request from 2026-11-18 21:27
 OK   Loreena McKennitt — The Holly and the Ivy (Live) | last aired 2026-10-19 19:02 | normal pick now | request now
 OK   Los Enanitos Verdes — Lamento Boliviano | last aired 2026-11-15 05:35 | normal pick now | request now
-OK   Los Rodriguez — Milonga del marinero y el capitán | last aired 2026-11-15 04:49 | normal pick now | request now
+WAIT Los Rodriguez — Milonga del marinero y el capitán | last aired 2026-11-18 01:35 | normal pick from 2026-11-19 13:35 | request from 2026-11-18 21:35
 WAIT Loscil — Estuarine | last aired 2026-11-18 00:41 | normal pick from 2026-11-19 12:41 | request from 2026-11-18 20:41
 WAIT Lou Rawls — At Last | last aired 2026-11-18 00:49 | normal pick from 2026-11-19 12:49 | request from 2026-11-18 20:49
 WAIT Lou Reed — Goodnight Ladies | last aired 2026-11-18 00:30 | normal pick from 2026-11-19 12:30 | request from 2026-11-18 20:30
 OK   Lou Reed — Perfect Day | last aired 2026-10-29 12:31 | normal pick now | request now
 OK   Louis Clark — Teo Torriatte (Let Us Cling Together) | last aired 2026-11-15 05:17 | normal pick now | request now
 OK   Louis Jordan & His Tympany Five — Choo Choo Ch'Boogie | last aired 2026-11-15 05:28 | normal pick now | request now
-OK   Louis Prima — Jump, Jive, An' Wail (Remastered) | last aired 2026-11-15 05:09 | normal pick now | request now
+WAIT Louis Prima — Jump, Jive, An' Wail (Remastered) | last aired 2026-11-18 01:39 | normal pick from 2026-11-19 13:39 | request from 2026-11-18 21:39
 OK   Lovage — Anger Management (Instrumental) | last aired 2026-09-25 16:39 | normal pick now | request now
 OK   Love and Rockets — Haunted When the Minutes Drag | last aired 2026-11-15 05:01 | normal pick now | request now
 WAIT Love and Rockets — Saudade | last aired 2026-11-18 00:58 | normal pick from 2026-11-19 12:58 | request from 2026-11-18 20:58
