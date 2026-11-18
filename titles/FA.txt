@@ -1,4 +1,4 @@
-Track status, song titles filed under FA (built Wed Nov 18, 1:35 AM PST (09:35 UTC)). Times in UTC.
+Track status, song titles filed under FA (built Wed Nov 18, 1:45 AM PST (09:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Face to Face — Daft Punk | last aired 2026-11-09 17:30 | normal pick now | request now
@@ -14,7 +14,7 @@ OK   Fallen (Album Mix) — Sarah McLachlan | last aired 2026-11-15 11:51 | norm
 OK   Fallen Star — Djivan Gasparyan | last aired 2026-11-13 06:01 | normal pick now | request now
 OK   Fallin' (Album Version) — Alicia Keys | last aired 2026-11-16 12:50 | normal pick now | request now
 OK   Falling Slowly (Album Version) — Glen Hansard and Marketa Irglova | last aired 2026-11-16 21:01 | normal pick now | request now
-OK   Familiar — Nils Frahm | last aired 2026-11-15 08:43 | normal pick now | request now
+WAIT Familiar — Nils Frahm | last aired 2026-11-18 09:33 | normal pick from 2026-11-20 09:33 | request from 2026-11-20 09:33
 OK   Family Portrait — P!nk | last aired 2026-10-14 13:43 | normal pick now | request now
 WAIT Famous Blue Raincoat — Leonard Cohen | last aired 2026-11-17 03:08 | normal pick from 2026-11-19 03:08 | request from 2026-11-19 03:08
 OK   Fancy — Reba McEntire | last aired 2026-11-10 14:39 | normal pick now | request now
