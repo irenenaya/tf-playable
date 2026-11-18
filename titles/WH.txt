@@ -1,8 +1,8 @@
-Track status, song titles filed under WH (built Wed Nov 18, 5:25 AM PST (13:25 UTC)). Times in UTC.
+Track status, song titles filed under WH (built Wed Nov 18, 5:35 AM PST (13:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Whistleblowers — Laibach | last aired 2026-10-26 00:33 | normal pick now | request now
-OK   Whales Tails — Cocteau Twins | last aired 2026-11-11 11:54 | normal pick now | request now
+WAIT Whales Tails — Cocteau Twins | last aired 2026-11-18 13:26 | normal pick from 2026-11-20 13:26 | request from 2026-11-20 13:26
 WAIT What a Fool Believes — The Doobie Brothers | last aired 2026-11-17 04:15 | normal pick from 2026-11-18 16:15 | request now
 OK   What About Us — P!nk | last aired 2026-10-20 23:05 | normal pick now | request now
 OK   What Cha' Gonna Do for Me — Chaka Khan | last aired 2026-11-10 23:46 | normal pick now | request now
@@ -27,7 +27,7 @@ OK   Which Side are You On? — Pete Seeger | last aired 2026-11-16 06:00 | norm
 OK   Whirling-In-Rags, 8 AM — Sea Power | last aired 2026-10-31 07:38 | normal pick now | request now
 OK   White Christmas — Bing Crosby | last aired 2026-09-05 21:37 | normal pick now | request now
 OK   White Gloves — Khruangbin | last aired 2026-11-16 08:43 | normal pick now | request now
-OK   White Winter Hymnal — Fleet Foxes | last aired 2026-11-15 23:27 | normal pick now | request now
+WAIT White Winter Hymnal — Fleet Foxes | last aired 2026-11-18 13:23 | normal pick from 2026-11-20 01:23 | request from 2026-11-19 09:23
 OK   Who Is It — Michael Jackson | last aired 2026-11-16 21:50 | normal pick now | request now
 OK   Who Knew (Main Version) — P!nk | last aired 2026-09-12 18:53 | normal pick now | request now
 OK   Who Knows Where The Time Goes? — Fairport Convention | last aired 2026-11-01 11:34 | normal pick now | request now
