@@ -1,4 +1,4 @@
-Track status, song titles filed under HO (built Wed Nov 18, 10:35 AM PST (18:35 UTC)). Times in UTC.
+Track status, song titles filed under HO (built Wed Nov 18, 10:45 AM PST (18:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Holding — Grouper | last aired 2026-11-16 02:01 | normal pick now | request now
@@ -6,7 +6,7 @@ OK   Holding Out for a Hero (From "Footloose" Soundtrack) — Bonnie Tyler | las
 OK   Holiday (Remastered 2015) — Scorpions | last aired 2026-11-12 02:42 | normal pick now | request now
 WAIT Holiday — Madonna | last aired 2026-11-18 03:15 | normal pick from 2026-11-19 15:15 | request from 2026-11-18 23:15
 WAIT Holocene — Bon Iver | last aired 2026-11-17 06:23 | normal pick from 2026-11-19 06:23 | request from 2026-11-19 06:23
-WAIT Holy Water (Album Version) — Soundgarden | last aired 2026-11-17 22:45 | normal pick from 2026-11-19 10:45 | request from 2026-11-18 18:45
+WAIT Holy Water (Album Version) — Soundgarden | last aired 2026-11-17 22:45 | normal pick from 2026-11-19 10:45 | request now
 OK   Home At Last — Steely Dan | last aired 2026-11-14 02:41 | normal pick now | request now
 WAIT Honesty (Album Version) — Billy Joel | last aired 2026-11-17 11:20 | normal pick from 2026-11-19 11:20 | request from 2026-11-19 11:20
 OK   Honey Bones — Dope Lemon | last aired 2026-10-31 20:02 | normal pick now | request now
