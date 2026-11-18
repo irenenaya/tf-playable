@@ -1,4 +1,4 @@
-Track status, artists filed under ME (built Tue Nov 17, 6:05 PM PST (02:05 UTC Wed)). Times in UTC.
+Track status, artists filed under ME (built Tue Nov 17, 6:15 PM PST (02:15 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Meat Beat Manifesto — Prime Audio Soup | last aired 2026-10-18 11:27 | normal pick now | request now
@@ -20,4 +20,4 @@ OK   Mercedes Sosa — Gracias a la Vida (En Vivo NY) | last aired 2026-11-14 12
 OK   Mercury Rev — Little Rhymes | last aired 2026-11-12 07:41 | normal pick now | request now
 WAIT Metallica — Enter Sandman | last aired 2026-11-17 19:58 | normal pick from 2026-11-19 07:58 | request from 2026-11-18 15:58
 WAIT Metallica — Master of Puppets (Live at Irvine Meadows Amphitheatre, Irvine, CA, 8/4/1996) | last aired 2026-11-17 22:50 | normal pick from 2026-11-19 10:50 | request from 2026-11-18 18:50
-OK   Metallica — Spit Out The Bone | last aired 2026-10-23 11:26 | normal pick now | request now
+WAIT Metallica — Spit Out The Bone | last aired 2026-11-18 02:11 | normal pick from 2026-11-19 14:11 | request from 2026-11-18 22:11
