@@ -1,4 +1,4 @@
-Track status, artists filed under CH (built Tue Nov 17, 4:25 PM PST (00:25 UTC Wed)). Times in UTC.
+Track status, artists filed under CH (built Tue Nov 17, 4:35 PM PST (00:35 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Chaka Khan — What Cha' Gonna Do for Me | last aired 2026-11-10 23:46 | normal pick now | request now
@@ -16,7 +16,7 @@ WAIT Charly García — Demoliendo Hoteles (Live) | last aired 2026-11-16 11:40 
 OK   Chavela Vargas — La llorona | last aired 2026-11-10 23:50 | normal pick now | request now
 OK   Chet Atkins — Why Worry (Album Version) | last aired 2026-11-11 08:21 | normal pick now | request now
 WAIT Chet Baker — Almost Blue | last aired 2026-11-16 12:01 | normal pick from 2026-11-18 12:01 | request from 2026-11-18 12:01
-WAIT Chet Baker — My Funny Valentine | last aired 2026-11-16 12:27 | normal pick from 2026-11-18 00:27 | request now
+OK   Chet Baker — My Funny Valentine | last aired 2026-11-16 12:27 | normal pick now | request now
 WAIT Chet Baker — You Don't Know What Love Is | last aired 2026-11-16 11:32 | normal pick from 2026-11-18 11:32 | request from 2026-11-18 11:32
 WAIT Chic — Good Times (2018 Remaster) | last aired 2026-11-17 19:44 | normal pick from 2026-11-19 19:44 | request from 2026-11-19 19:44
 WAIT Chicago — Hard to Say I'M Sorry / Get Away | last aired 2026-11-17 04:23 | normal pick from 2026-11-18 16:23 | request now
