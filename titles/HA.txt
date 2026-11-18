@@ -1,4 +1,4 @@
-Track status, song titles filed under HA (built Wed Nov 18, 1:55 AM PST (09:55 UTC)). Times in UTC.
+Track status, song titles filed under HA (built Wed Nov 18, 2:05 AM PST (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Halah — Mazzy Star | last aired 2026-11-17 08:18 | normal pick from 2026-11-19 08:18 | request from 2026-11-19 08:18
@@ -7,7 +7,7 @@ OK   Hall of Fame — The Script feat. will.i.am | last aired 2026-11-14 00:07 |
 WAIT Hallelujah — Jeff Buckley | last aired 2026-11-17 17:57 | normal pick from 2026-11-19 05:57 | request from 2026-11-18 13:57
 OK   Hallelujah — Leonard Cohen | last aired 2026-11-16 16:27 | normal pick now | request now
 OK   Halloween Theme — John Carpenter | last aired 2026-11-07 16:21 | normal pick now | request now
-WAIT Halo Theme Mjolnir Mix — Halo | last aired 2026-11-16 22:04 | normal pick from 2026-11-18 10:04 | request now
+OK   Halo Theme Mjolnir Mix — Halo | last aired 2026-11-16 22:04 | normal pick now | request now
 OK   Hang on Sloopy — The McCoys | last aired 2026-11-13 03:58 | normal pick now | request now
 OK   Happy Birthday — Stevie Wonder | last aired 2026-11-02 00:43 | normal pick now | request now
 WAIT Hard Rock Hallelujah — Lordi | last aired 2026-11-18 01:31 | normal pick from 2026-11-19 13:31 | request from 2026-11-18 21:31
@@ -15,7 +15,7 @@ OK   Hard Times — The Jetzons | last aired 2026-10-29 03:18 | normal pick now 
 WAIT Hard to Say I'M Sorry / Get Away — Chicago | last aired 2026-11-17 04:23 | normal pick from 2026-11-18 16:23 | request now
 OK   Hardcore Vibes — Dúné | last aired 2026-11-02 00:12 | normal pick now | request now
 OK   Harder, Better, Faster, Stronger — Daft Punk | last aired 2026-11-13 19:43 | normal pick now | request now
-WAIT Hardline — Julien Baker | last aired 2026-11-16 09:58 | normal pick from 2026-11-18 09:58 | request from 2026-11-18 09:58
+OK   Hardline — Julien Baker | last aired 2026-11-16 09:58 | normal pick now | request now
 OK   Harmony in Blue I — Tim Hecker | last aired 2026-11-10 07:22 | normal pick now | request now
 OK   Haru No Iutoori — indigo la End | last aired 2026-11-15 13:03 | normal pick now | request now
 WAIT Harvest Moon (Album Version) — Neil Young | last aired 2026-11-17 21:24 | normal pick from 2026-11-19 21:24 | request from 2026-11-19 21:24
