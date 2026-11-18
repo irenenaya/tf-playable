@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Wed Nov 18, 3:05 AM PST (11:05 UTC)). Times in UTC.
+Track status, artists filed under BE (built Wed Nov 18, 3:15 AM PST (11:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Beach House — Bluebird | last aired 2026-11-18 11:00 | normal pick from 2026-11-20 11:00 | request from 2026-11-20 11:00
@@ -7,7 +7,7 @@ OK   Beastie Boys — Sabotage | last aired 2026-11-16 00:37 | normal pick now |
 OK   Beatrice Rana — Keyboard Concerto No. 1 in D Minor, BWV 1052: I. Allegro | last aired 2026-11-10 03:53 | normal pick now | request now
 OK   Beatrice Rana — Libertango (Arr. Yamamoto for Piano 4-Hands) | last aired 2026-11-11 20:14 | normal pick now | request now
 OK   Beats by Luca — 52 CHICKEN NUGGET (McRave) | last aired 2026-11-10 04:47 | normal pick now | request now
-OK   Bebel Gilberto — Samba Da Benção | last aired 2026-11-15 23:33 | normal pick now | request now
+WAIT Bebel Gilberto — Samba Da Benção | last aired 2026-11-18 11:04 | normal pick from 2026-11-20 11:04 | request from 2026-11-20 11:04
 WAIT Beck — Devils Haircut | last aired 2026-11-17 23:15 | normal pick from 2026-11-19 23:15 | request from 2026-11-19 23:15
 OK   Beck — Loser | last aired 2026-11-16 00:44 | normal pick now | request now
 WAIT Beck — The New Pollution | last aired 2026-11-17 09:53 | normal pick from 2026-11-19 09:53 | request from 2026-11-19 09:53
@@ -15,7 +15,7 @@ OK   Becky Levi and the Nightjars — Wake Me Up | last aired 2026-10-22 06:23 |
 OK   Bee Gees — Night Fever (From "Saturday Night Fever" Soundtrack) | last aired 2026-11-15 23:54 | normal pick now | request now
 OK   Beenie Man — Feel It Boy | last aired 2026-11-10 04:43 | normal pick now | request now
 OK   Belcea Quartet — Quatuor à cordes n° 4, Sz. 91 - String Quartet No. 4 in C Major, Sz. 91: IV. Allegretto pizzicato | last aired 2026-11-08 22:22 | normal pick now | request now
-OK   Belle and Sebastian — The Boy with the Arab Strap | last aired 2026-11-15 23:38 | normal pick now | request now
+WAIT Belle and Sebastian — The Boy with the Arab Strap | last aired 2026-11-18 11:09 | normal pick from 2026-11-19 23:09 | request from 2026-11-19 07:09
 OK   Ben Allison — D.A.V.E. | last aired 2026-11-16 00:15 | normal pick now | request now
 WAIT Ben E. King — Stand By Me | last aired 2026-11-16 11:46 | normal pick from 2026-11-18 11:46 | request from 2026-11-18 11:46
 OK   Ben Harper — Yard Sale | last aired 2026-11-15 16:18 | normal pick now | request now
