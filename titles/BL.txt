@@ -1,10 +1,10 @@
-Track status, song titles filed under BL (built Wed Nov 18, 12:55 PM PST (20:55 UTC)). Times in UTC.
+Track status, song titles filed under BL (built Wed Nov 18, 1:05 PM PST (21:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Black Diamond — Stratovarius | last aired 2026-11-02 03:41 | normal pick now | request now
 OK   Black Fingernails, Red Wine — Eskimo Joe | last aired 2026-11-13 22:05 | normal pick now | request now
 WAIT Black Hole Sun — Soundgarden | last aired 2026-11-17 20:09 | normal pick from 2026-11-19 08:09 | request now
-WAIT Black Magic Woman — Percy Faith & His Orchestra | last aired 2026-11-18 17:42 | normal pick from 2026-11-20 05:42 | request from 2026-11-19 13:42
+WAIT Black Magic Woman — Percy Faith & His Orchestra | last aired 2026-11-18 17:43 | normal pick from 2026-11-20 05:43 | request from 2026-11-19 13:43
 OK   Black Magic Woman — Santana | last aired 2026-11-16 06:57 | normal pick now | request now
 OK   Black Refraction — Tim Hecker | last aired 2026-11-09 11:30 | normal pick now | request now
 OK   Black Roses — Barrington Levy | last aired 2026-11-03 16:46 | normal pick now | request now
@@ -14,7 +14,7 @@ OK   Blaue Augen — Ideal | last aired 2026-11-12 20:59 | normal pick now | req
 OK   Bleached By The Sun — Dot Allison | last aired 2026-10-31 16:54 | normal pick now | request now
 OK   Blessed with a Curse — Bring Me The Horizon | last aired 2026-11-09 22:57 | normal pick now | request now
 OK   Blinding Lights — The Weeknd | last aired 2026-11-13 04:34 | normal pick now | request now
-WAIT Blitzkrieg Bop — Ramones | last aired 2026-11-18 18:37 | normal pick from 2026-11-20 06:37 | request from 2026-11-19 14:37
+WAIT Blitzkrieg Bop — Ramones | last aired 2026-11-18 18:37 | normal pick from 2026-11-20 18:37 | request from 2026-11-20 18:37
 WAIT Blood In The Labyrinth — Boards of Canada | last aired 2026-11-17 09:57 | normal pick from 2026-11-18 21:57 | request now
 WAIT Bloodbuzz Ohio (Live in Rome) — The National | last aired 2026-11-17 10:43 | normal pick from 2026-11-18 22:43 | request now
 OK   Bloom — Airiel | last aired 2026-09-15 08:41 | normal pick now | request now
