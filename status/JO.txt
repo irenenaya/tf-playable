@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Tue Nov 17, 9:55 PM PST (05:55 UTC Wed)). Times in UTC.
+Track status, artists filed under JO (built Tue Nov 17, 10:05 PM PST (06:05 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-11-09 13:44 | normal pick now | request now
@@ -22,7 +22,7 @@ OK   Joel Pott — Chances | last aired 2026-10-26 11:28 | normal pick now | req
 OK   Johann Johannsson — Flight From The City - Jóhannsson: Flight from the City | last aired 2026-11-16 03:28 | normal pick now | request now
 OK   John Carpenter — Halloween Theme | last aired 2026-11-07 16:21 | normal pick now | request now
 WAIT John Coltrane — Lush Life | last aired 2026-11-16 11:51 | normal pick from 2026-11-18 11:51 | request from 2026-11-18 11:51
-OK   John Coltrane — My Favorite Things | last aired 2026-11-13 18:29 | normal pick now | request now
+WAIT John Coltrane — My Favorite Things | last aired 2026-11-18 05:55 | normal pick from 2026-11-19 17:55 | request from 2026-11-19 01:55
 WAIT John Denver — Take Me Home, Country Roads | last aired 2026-11-17 03:47 | normal pick from 2026-11-19 03:47 | request from 2026-11-19 03:47
 OK   John Lee Hooker — Boom Boom | last aired 2026-11-11 02:39 | normal pick now | request now
 OK   John Lee Hooker — I Cover the Waterfront | last aired 2026-11-09 00:40 | normal pick now | request now
