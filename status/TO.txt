@@ -1,4 +1,4 @@
-Track status, artists filed under TO (built Wed Nov 18, 12:35 AM PST (08:35 UTC)). Times in UTC.
+Track status, artists filed under TO (built Wed Nov 18, 12:45 AM PST (08:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   toe — Goodbye (Live) | last aired 2026-11-08 19:07 | normal pick now | request now
@@ -9,7 +9,7 @@ OK   Tom Konkle — Children of No Horizon | last aired 2026-11-15 04:35 | norma
 OK   Tom Konkle — Fail Upward For A Change | last aired 2026-11-14 09:23 | normal pick now | request now
 OK   Tom Konkle — Life Without The Living | last aired 2026-11-14 09:08 | normal pick now | request now
 WAIT Tom Konkle — Light Bulb In My Head | last aired 2026-11-16 22:41 | normal pick from 2026-11-18 10:41 | request now
-WAIT Tom Konkle — Losing Faith | last aired 2026-11-16 20:44 | normal pick from 2026-11-18 08:44 | request now
+OK   Tom Konkle — Losing Faith | last aired 2026-11-16 20:44 | normal pick now | request now
 OK   Tom Konkle — Manipulation (The Dance) | last aired 2026-11-14 09:16 | normal pick now | request now
 WAIT Tom Konkle — Name On A Screen | last aired 2026-11-17 00:58 | normal pick from 2026-11-18 12:58 | request now
 OK   Tom Konkle — One Last Time | last aired 2026-11-15 04:00 | normal pick now | request now
@@ -20,13 +20,13 @@ OK   Tom Misch — It Runs Through Me (feat. De La Soul) | last aired 2026-11-16
 OK   Tom Novy — Superstar (The Jason Nevins' Live Peep Show Mix) | last aired 2026-11-15 04:43 | normal pick now | request now
 WAIT Tom Petty & The Heartbreakers — American Girl | last aired 2026-11-17 21:34 | normal pick from 2026-11-19 09:34 | request from 2026-11-18 17:34
 WAIT Tom Petty — I Won't Back Down | last aired 2026-11-17 12:07 | normal pick from 2026-11-19 00:07 | request now
-WAIT Tom Petty — Runnin' Down A Dream | last aired 2026-11-17 12:41 | normal pick from 2026-11-19 00:41 | request from 2026-11-18 08:41
+WAIT Tom Petty — Runnin' Down A Dream | last aired 2026-11-17 12:41 | normal pick from 2026-11-19 00:41 | request now
 OK   Tom Robinson — The Saturday Disco | last aired 2026-10-24 21:03 | normal pick now | request now
 WAIT Tom Waits — House Where Nobody Lives | last aired 2026-11-17 08:01 | normal pick from 2026-11-18 20:01 | request now
 WAIT Tomaso Albinoni — Adagio in G Minor | last aired 2026-11-17 12:27 | normal pick from 2026-11-19 00:27 | request now
 WAIT Tomohisa Okudo — Always with Me | last aired 2026-11-17 12:02 | normal pick from 2026-11-19 00:02 | request now
 WAIT Toni Braxton — Un-Break My Heart | last aired 2026-11-17 12:56 | normal pick from 2026-11-19 00:56 | request from 2026-11-18 08:56
-WAIT Tonto's Expanding Head Band — Cybernaut | last aired 2026-11-17 12:37 | normal pick from 2026-11-19 00:37 | request from 2026-11-18 08:37
+WAIT Tonto's Expanding Head Band — Cybernaut | last aired 2026-11-17 12:37 | normal pick from 2026-11-19 00:37 | request now
 WAIT Tony Bennett & Faith Hill — The Way You Look Tonight | last aired 2026-11-17 12:23 | normal pick from 2026-11-19 00:23 | request now
 WAIT TOOL — Lateralus | last aired 2026-11-17 13:17 | normal pick from 2026-11-19 01:17 | request from 2026-11-18 09:17
 WAIT Tori Amos — A Sorta Fairytale (2023 Remaster) | last aired 2026-11-17 12:10 | normal pick from 2026-11-19 00:10 | request now
