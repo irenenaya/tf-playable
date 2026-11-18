@@ -1,13 +1,13 @@
-Track status, artists filed under CA (built Wed Nov 18, 3:25 AM PST (11:25 UTC)). Times in UTC.
+Track status, artists filed under CA (built Wed Nov 18, 3:35 AM PST (11:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Caetano Veloso — O Leãozinho (Ao Vivo) | last aired 2026-11-14 16:58 | normal pick now | request now
-OK   Caetano Veloso — Tropicália (Remastered 2006) | last aired 2026-11-16 03:25 | normal pick now | request now
+WAIT Caetano Veloso — Tropicália (Remastered 2006) | last aired 2026-11-18 11:24 | normal pick from 2026-11-20 11:24 | request from 2026-11-20 11:24
 OK   Café Tacvba — Eres (Album Version) | last aired 2026-11-10 11:19 | normal pick now | request now
 OK   Cage The Elephant — What I'm Becoming | last aired 2026-11-10 11:37 | normal pick now | request now
-OK   Caifanes — Afuera | last aired 2026-11-03 21:03 | normal pick now | request now
+WAIT Caifanes — Afuera | last aired 2026-11-18 11:31 | normal pick from 2026-11-19 23:31 | request from 2026-11-19 07:31
 OK   Caifanes — La Negra Tomasa (Bilongo - Version Tropical) | last aired 2026-11-09 16:46 | normal pick now | request now
-OK   Camille — Ta douleur | last aired 2026-11-12 13:40 | normal pick now | request now
+WAIT Camille — Ta douleur | last aired 2026-11-18 11:28 | normal pick from 2026-11-20 11:28 | request from 2026-11-20 11:28
 OK   Camille Thomas — Deux mélodies hébraïques, M. A22 - Ravel: Deux mélodies hébraïques, M. A22: I. Kaddisch (Transcr. by Richard Tognetti for Cello and Orchestra ) | last aired 2026-11-09 02:03 | normal pick now | request now
 OK   Canned Heat — On The Road Again | last aired 2026-11-09 16:38 | normal pick now | request now
 WAIT Carbon Based Lifeforms — Photosynthesis | last aired 2026-11-18 11:14 | normal pick from 2026-11-20 11:14 | request from 2026-11-20 11:14

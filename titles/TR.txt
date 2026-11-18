@@ -1,4 +1,4 @@
-Track status, song titles filed under TR (built Wed Nov 18, 3:25 AM PST (11:25 UTC)). Times in UTC.
+Track status, song titles filed under TR (built Wed Nov 18, 3:35 AM PST (11:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Track A - Solo Dancer (Stop! Look! And Listen, Sinner Jim Whitney!) (Album Version) — Charles Mingus | last aired 2026-11-06 10:31 | normal pick now | request now
@@ -7,7 +7,7 @@ OK   Trans-Europe Express (2009 Remaster) — Kraftwerk | last aired 2026-11-16 
 OK   Treaty — Leonard Cohen | last aired 2026-11-14 21:49 | normal pick now | request now
 OK   Tribute — Tenacious D | last aired 2026-10-20 19:24 | normal pick now | request now
 WAIT Trigger Hippie — Morcheeba | last aired 2026-11-17 05:43 | normal pick from 2026-11-18 17:43 | request now
-OK   Tropicália (Remastered 2006) — Caetano Veloso | last aired 2026-11-16 03:25 | normal pick now | request now
+WAIT Tropicália (Remastered 2006) — Caetano Veloso | last aired 2026-11-18 11:24 | normal pick from 2026-11-20 11:24 | request from 2026-11-20 11:24
 OK   Trouble in Mind (Live) — Kent DuChaine | last aired 2026-10-27 15:24 | normal pick now | request now
 OK   Trouble — Lindsey Buckingham | last aired 2026-11-15 23:05 | normal pick now | request now
 WAIT True Faith — New Order | last aired 2026-11-17 05:33 | normal pick from 2026-11-18 17:33 | request now
