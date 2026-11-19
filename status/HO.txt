@@ -1,10 +1,10 @@
-Track status, artists filed under HO (built Thu Nov 19, 12:05 AM PST (08:05 UTC)). Times in UTC.
+Track status, artists filed under HO (built Thu Nov 19, 12:15 AM PST (08:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Hollie Col — The Gambler | last aired 2026-11-02 07:11 | normal pick now | request now
 OK   Holly Herndon — Chorus | last aired 2026-11-07 08:14 | normal pick now | request now
-OK   Home — We're Finally Landing | last aired 2026-11-11 16:41 | normal pick now | request now
-OK   Hooverphonic — 2 Wicky | last aired 2026-11-14 18:45 | normal pick now | request now
+WAIT Home — We're Finally Landing | last aired 2026-11-19 08:10 | normal pick from 2026-11-20 20:10 | request from 2026-11-20 04:10
+WAIT Hooverphonic — 2 Wicky | last aired 2026-11-19 08:05 | normal pick from 2026-11-20 20:05 | request from 2026-11-20 04:05
 WAIT Horace Silver — Opus De Funk (Remastered 1998/Rudy Van Gelder Edition) | last aired 2026-11-18 23:41 | normal pick from 2026-11-20 11:41 | request from 2026-11-19 19:41
 WAIT Horace Silver Quintet — Peace | last aired 2026-11-19 04:50 | normal pick from 2026-11-20 16:50 | request from 2026-11-20 00:50
 OK   Hotel Ugly — Mice City | last aired 2026-10-26 10:35 | normal pick now | request now
