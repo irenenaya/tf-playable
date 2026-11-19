@@ -1,4 +1,4 @@
-Track status, artists filed under MI (built Wed Nov 18, 7:55 PM PST (03:55 UTC Thu)). Times in UTC.
+Track status, artists filed under MI (built Wed Nov 18, 8:05 PM PST (04:05 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Mica Levi — Love | last aired 2026-11-17 16:25 | normal pick from 2026-11-19 16:25 | request from 2026-11-19 16:25
@@ -6,7 +6,7 @@ WAIT Michael Brook — Ultramarine | last aired 2026-11-18 17:22 | normal pick f
 OK   Michael Bublé — Crazy (with Jon Batiste & Stay Human) (Live) | last aired 2026-11-10 15:33 | normal pick now | request now
 WAIT Michael Damian — Rock On | last aired 2026-11-17 17:24 | normal pick from 2026-11-19 05:24 | request now
 WAIT Michael Hedges — Aerial Boundaries | last aired 2026-11-18 16:21 | normal pick from 2026-11-20 16:21 | request from 2026-11-20 16:21
-WAIT Michael Hutchence — Slide Away | last aired 2026-11-17 16:02 | normal pick from 2026-11-19 04:02 | request now
+OK   Michael Hutchence — Slide Away | last aired 2026-11-17 16:02 | normal pick now | request now
 OK   Michael Jackson — Jam | last aired 2026-11-06 14:53 | normal pick now | request now
 OK   Michael Jackson — Morphine (Album Version) | last aired 2026-11-10 18:13 | normal pick now | request now
 OK   Michael Jackson — Rock with You (Single Version) | last aired 2026-11-17 15:36 | normal pick now | request now
@@ -32,6 +32,6 @@ OK   Minnie Riperton — Lovin' You | last aired 2026-11-17 15:32 | normal pick 
 WAIT Miracles of Modern Science — Dear Pressure | last aired 2026-11-18 16:30 | normal pick from 2026-11-20 04:30 | request from 2026-11-19 12:30
 OK   Mireille Mathieu — Together We're Strong | last aired 2026-11-17 15:43 | normal pick now | request now
 OK   Miriam Makeba — Pata Pata | last aired 2026-11-17 15:29 | normal pick now | request now
-WAIT Missio — I See You | last aired 2026-11-17 15:58 | normal pick from 2026-11-19 03:58 | request now
+OK   Missio — I See You | last aired 2026-11-17 15:58 | normal pick now | request now
 OK   Mitski — My Love Mine All Mine | last aired 2026-11-17 06:37 | normal pick now | request now
 WAIT Mizuki Tomoda — Marunouchi sadistic (Cover) | last aired 2026-11-17 16:07 | normal pick from 2026-11-19 04:07 | request now
