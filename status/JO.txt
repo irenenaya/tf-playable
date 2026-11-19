@@ -1,8 +1,8 @@
-Track status, artists filed under JO (built Thu Nov 19, 10:05 AM PST (18:05 UTC)). Times in UTC.
+Track status, artists filed under JO (built Thu Nov 19, 10:15 AM PST (18:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-11-18 08:30 | normal pick from 2026-11-19 20:30 | request now
-WAIT Jockstrap — Concrete Over Water | last aired 2026-11-18 06:12 | normal pick from 2026-11-19 18:12 | request now
+OK   Jockstrap — Concrete Over Water | last aired 2026-11-18 06:12 | normal pick now | request now
 WAIT Joe Cocker — The Letter (Live At The Fillmore East/1970) | last aired 2026-11-18 09:07 | normal pick from 2026-11-19 21:07 | request now
 WAIT Joe Cocker — With A Little Help From My Friends | last aired 2026-11-18 05:28 | normal pick from 2026-11-20 05:28 | request from 2026-11-20 05:28
 WAIT Joe Hisaishi — A Town with an Ocean View (from 'Kiki's Delivery Service') | last aired 2026-11-18 05:50 | normal pick from 2026-11-20 05:50 | request from 2026-11-20 05:50
@@ -40,7 +40,7 @@ WAIT Johnny Cash — Hurt (Album Version) | last aired 2026-11-19 06:39 | normal
 OK   Johnny Cash — Redemption Day (Album Version) | last aired 2026-11-17 13:26 | normal pick now | request now
 OK   Johnny Cash — Ring of Fire | last aired 2026-11-17 11:24 | normal pick now | request now
 OK   Johnny Flynn — Detectorists (Original Soundtrack from the TV Series) | last aired 2026-10-23 05:38 | normal pick now | request now
-WAIT Johnny Mathis — Wonderful! Wonderful! | last aired 2026-11-18 06:09 | normal pick from 2026-11-19 18:09 | request now
+OK   Johnny Mathis — Wonderful! Wonderful! | last aired 2026-11-18 06:09 | normal pick now | request now
 OK   Joker Out — Novi Val | last aired 2026-11-16 20:53 | normal pick now | request now
 OK   Jon Hopkins — Open Eye Signal (Remaster 2023) | last aired 2026-11-18 05:43 | normal pick now | request now
 OK   Jon Hopkins — Small Memory | last aired 2026-11-16 07:16 | normal pick now | request now
