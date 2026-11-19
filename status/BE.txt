@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Thu Nov 19, 5:55 AM PST (13:55 UTC)). Times in UTC.
+Track status, artists filed under BE (built Thu Nov 19, 6:05 AM PST (14:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Beach House — Bluebird | last aired 2026-11-18 11:00 | normal pick from 2026-11-20 11:00 | request from 2026-11-20 11:00
@@ -15,7 +15,7 @@ OK   Becky Levi and the Nightjars — Wake Me Up | last aired 2026-10-22 06:23 |
 WAIT Bee Gees — Night Fever (From "Saturday Night Fever" Soundtrack) | last aired 2026-11-19 00:36 | normal pick from 2026-11-20 12:36 | request from 2026-11-19 20:36
 OK   Beenie Man — Feel It Boy | last aired 2026-11-10 04:43 | normal pick now | request now
 OK   Belcea Quartet — Quatuor à cordes n° 4, Sz. 91 - String Quartet No. 4 in C Major, Sz. 91: IV. Allegretto pizzicato | last aired 2026-11-08 22:22 | normal pick now | request now
-WAIT Belle and Sebastian — The Boy with the Arab Strap | last aired 2026-11-18 11:09 | normal pick from 2026-11-20 11:09 | request from 2026-11-20 11:09
+WAIT Belle and Sebastian — The Boy with the Arab Strap | last aired 2026-11-18 11:09 | normal pick from 2026-11-19 23:09 | request now
 OK   Ben Allison — D.A.V.E. | last aired 2026-11-16 00:15 | normal pick now | request now
 OK   Ben E. King — Stand By Me | last aired 2026-11-16 11:46 | normal pick now | request now
 OK   Ben Harper — Yard Sale | last aired 2026-11-15 16:18 | normal pick now | request now

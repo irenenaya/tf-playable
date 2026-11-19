@@ -1,9 +1,9 @@
-Track status, artists filed under GL (built Thu Nov 19, 5:55 AM PST (13:55 UTC)). Times in UTC.
+Track status, artists filed under GL (built Thu Nov 19, 6:05 AM PST (14:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Glasperlenspiel — Nie vergessen | last aired 2026-11-12 23:35 | normal pick now | request now
+WAIT Glasperlenspiel — Nie vergessen | last aired 2026-11-19 13:59 | normal pick from 2026-11-21 01:59 | request from 2026-11-20 09:59
 WAIT Glass Animals — Heat Waves (Stripped Back) | last aired 2026-11-19 07:59 | normal pick from 2026-11-20 19:59 | request from 2026-11-20 03:59
-OK   Glass Animals — Life Itself | last aired 2026-11-17 20:29 | normal pick now | request now
+WAIT Glass Animals — Life Itself | last aired 2026-11-19 13:54 | normal pick from 2026-11-21 01:54 | request from 2026-11-20 09:54
 WAIT Glen Hansard and Marketa Irglova — Falling Slowly (Album Version) | last aired 2026-11-19 07:51 | normal pick from 2026-11-20 19:51 | request from 2026-11-20 03:51
 WAIT Glenn Gould — 3 Klavierstücke, Op. 11 - No. 1, Massig | last aired 2026-11-19 07:55 | normal pick from 2026-11-20 19:55 | request from 2026-11-20 03:55
 OK   Glenn Gould — 3 Klavierstücke, Op. 11 - No. 2, Mässige Achtel (Instrumental) | last aired 2026-11-15 18:50 | normal pick now | request now
