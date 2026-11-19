@@ -1,10 +1,10 @@
-Track status, artists filed under JU (built Thu Nov 19, 8:15 AM PST (16:15 UTC)). Times in UTC.
+Track status, artists filed under JU (built Thu Nov 19, 8:25 AM PST (16:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Judas Priest — Breaking the Law | last aired 2026-11-12 01:01 | normal pick now | request now
+WAIT Judas Priest — Breaking the Law | last aired 2026-11-19 16:12 | normal pick from 2026-11-21 04:12 | request from 2026-11-20 12:12
 WAIT Judy Collins — Bread and Roses | last aired 2026-11-18 14:53 | normal pick from 2026-11-20 14:53 | request from 2026-11-20 14:53
 WAIT Juli — Perfekte Welle | last aired 2026-11-18 14:46 | normal pick from 2026-11-20 02:46 | request now
-OK   Julian Lage — Emily | last aired 2026-11-16 22:29 | normal pick now | request now
+WAIT Julian Lage — Emily | last aired 2026-11-19 16:14 | normal pick from 2026-11-21 16:14 | request from 2026-11-21 16:14
 WAIT Julie London — Cry Me A River | last aired 2026-11-18 14:50 | normal pick from 2026-11-20 14:50 | request from 2026-11-20 14:50
 WAIT Julien Baker — Hardline | last aired 2026-11-18 14:56 | normal pick from 2026-11-20 14:56 | request from 2026-11-20 14:56
 WAIT Julio Iglesias — Quiero | last aired 2026-11-18 15:09 | normal pick from 2026-11-20 03:09 | request now
@@ -13,4 +13,4 @@ WAIT Jungle — Keep Moving | last aired 2026-11-18 15:00 | normal pick from 202
 OK   Junior H — Ella | last aired 2026-10-25 14:19 | normal pick now | request now
 WAIT Junkie XL — Brothers In Arms | last aired 2026-11-18 15:04 | normal pick from 2026-11-20 03:04 | request now
 WAIT Justice — D.A.N.C.E. | last aired 2026-11-19 16:07 | normal pick from 2026-11-21 04:07 | request from 2026-11-20 12:07
-OK   The Judds — Grandpa (Tell Me 'Bout The Good Old Days) | last aired 2026-11-05 14:58 | normal pick now | request now
+WAIT The Judds — Grandpa (Tell Me 'Bout The Good Old Days) | last aired 2026-11-19 16:20 | normal pick from 2026-11-21 04:20 | request from 2026-11-20 12:20

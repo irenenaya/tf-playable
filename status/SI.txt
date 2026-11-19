@@ -1,14 +1,14 @@
-Track status, artists filed under SI (built Thu Nov 19, 8:15 AM PST (16:15 UTC)). Times in UTC.
+Track status, artists filed under SI (built Thu Nov 19, 8:25 AM PST (16:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Siddhartha — 00:00 | last aired 2026-11-18 20:10 | normal pick from 2026-11-20 08:10 | request now
-WAIT Side-A — Only You (There Will Never Be Another) | last aired 2026-11-18 20:23 | normal pick from 2026-11-20 08:23 | request from 2026-11-19 16:23
+WAIT Side-A — Only You (There Will Never Be Another) | last aired 2026-11-18 20:23 | normal pick from 2026-11-20 08:23 | request now
 OK   Sigur Rós — Hoppípolla | last aired 2026-11-16 09:35 | normal pick now | request now
 OK   Sigur Rós — Starálfur | last aired 2026-11-17 02:29 | normal pick now | request now
 OK   Sigur Rós — Sé Lest | last aired 2026-11-16 10:43 | normal pick now | request now
 WAIT Sigur Rós — Untitled #3 (Samskeyti) | last aired 2026-11-18 07:31 | normal pick from 2026-11-20 07:31 | request from 2026-11-20 07:31
 OK   Silverchair — Ana's Song (Open Fire) | last aired 2026-11-12 09:11 | normal pick now | request now
-WAIT Silverchair — Anthem for the Year 2000 (Album Version) | last aired 2026-11-18 20:18 | normal pick from 2026-11-20 08:18 | request from 2026-11-19 16:18
+WAIT Silverchair — Anthem for the Year 2000 (Album Version) | last aired 2026-11-18 20:18 | normal pick from 2026-11-20 08:18 | request now
 OK   Simon & Garfunkel — Scarborough Fair (Live at Central Park, New York, NY - September 19, 1981) | last aired 2026-11-16 17:32 | normal pick now | request now
 OK   Simon & Garfunkel — The Boxer | last aired 2026-11-16 16:59 | normal pick now | request now
 OK   Simon & Garfunkel — The Sound of Silence (Acoustic Version) | last aired 2026-11-16 19:08 | normal pick now | request now
