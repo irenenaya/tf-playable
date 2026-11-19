@@ -1,4 +1,4 @@
-Track status, song titles filed under PI (built Wed Nov 18, 10:05 PM PST (06:05 UTC Thu)). Times in UTC.
+Track status, song titles filed under PI (built Wed Nov 18, 10:15 PM PST (06:15 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Piano Sonata No. 14 in C-Sharp Minor, Op. 27, No. 2, "Moonlight" - I. Adagio sostenuto — Igor Levit | last aired 2026-11-15 18:18 | normal pick now | request now
@@ -6,6 +6,6 @@ OK   Piano Sonata No. 17 in D minor, Op. 31, No. 2, "Tempest" - III. Allegretto 
 WAIT Pictures of You — The Cure | last aired 2026-11-17 23:31 | normal pick from 2026-11-19 11:31 | request now
 WAIT Pink + White — Frank Ocean | last aired 2026-11-19 02:43 | normal pick from 2026-11-20 14:43 | request from 2026-11-19 22:43
 OK   Pink Frost — The Chills | last aired 2026-11-12 01:54 | normal pick now | request now
-OK   Pink Moon — Nick Drake | last aired 2026-11-16 09:12 | normal pick now | request now
+WAIT Pink Moon — Nick Drake | last aired 2026-11-19 06:05 | normal pick from 2026-11-21 06:05 | request from 2026-11-21 06:05
 WAIT Pink Pony Club — Chappell Roan | last aired 2026-11-19 00:40 | normal pick from 2026-11-20 12:40 | request from 2026-11-19 20:40
 OK   Pièces froides No.1 "Trois airs à faire fuir" — France Clidat | last aired 2026-11-08 13:04 | normal pick now | request now
