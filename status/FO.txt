@@ -1,7 +1,7 @@
-Track status, artists filed under FO (built Thu Nov 19, 2:35 PM PST (22:35 UTC)). Times in UTC.
+Track status, artists filed under FO (built Thu Nov 19, 2:45 PM PST (22:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Foo Fighters — Everlong | last aired 2026-11-17 20:14 | normal pick now | request now
+WAIT Foo Fighters — Everlong | last aired 2026-11-19 22:38 | normal pick from 2026-11-21 22:38 | request from 2026-11-21 22:38
 WAIT Foster The People — Sit Next to Me | last aired 2026-11-19 11:27 | normal pick from 2026-11-20 23:27 | request from 2026-11-20 07:27
 WAIT Fountains Of Wayne — Stacy's Mom | last aired 2026-11-19 00:47 | normal pick from 2026-11-20 12:47 | request now
 WAIT Four Tet — Two Thousand and Seventeen | last aired 2026-11-19 11:56 | normal pick from 2026-11-20 23:56 | request from 2026-11-20 07:56
