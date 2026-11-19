@@ -1,11 +1,11 @@
-Track status, artists filed under TO (built Wed Nov 18, 4:15 PM PST (00:15 UTC Thu)). Times in UTC.
+Track status, artists filed under TO (built Wed Nov 18, 4:25 PM PST (00:25 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   toe — Goodbye (Live) | last aired 2026-11-08 19:07 | normal pick now | request now
 OK   Tom Jones — Cwm Rhondda | last aired 2026-10-18 13:57 | normal pick now | request now
 OK   Tom Konkle — Camouflage (Acoustic Mix) | last aired 2026-11-14 08:51 | normal pick now | request now
 OK   Tom Konkle — Camouflage (Album Mix) | last aired 2026-11-06 22:06 | normal pick now | request now
-OK   Tom Konkle — Children of No Horizon | last aired 2026-11-15 04:35 | normal pick now | request now
+WAIT Tom Konkle — Children of No Horizon | last aired 2026-11-19 00:15 | normal pick from 2026-11-20 12:15 | request from 2026-11-19 20:15
 OK   Tom Konkle — Fail Upward For A Change | last aired 2026-11-14 09:23 | normal pick now | request now
 OK   Tom Konkle — Life Without The Living | last aired 2026-11-14 09:08 | normal pick now | request now
 OK   Tom Konkle — Light Bulb In My Head | last aired 2026-11-16 22:41 | normal pick now | request now
@@ -14,8 +14,8 @@ OK   Tom Konkle — Manipulation (The Dance) | last aired 2026-11-14 09:16 | nor
 OK   Tom Konkle — Name On A Screen | last aired 2026-11-17 00:58 | normal pick now | request now
 OK   Tom Konkle — One Last Time | last aired 2026-11-15 04:00 | normal pick now | request now
 WAIT Tom Konkle — When Did Love Become A Test | last aired 2026-11-17 14:59 | normal pick from 2026-11-19 02:59 | request now
-WAIT Tom Lehrer — Poisoning Pigeons in the Park | last aired 2026-11-17 12:21 | normal pick from 2026-11-19 00:21 | request now
-WAIT Tom Misch — Disco Yes | last aired 2026-11-17 12:16 | normal pick from 2026-11-19 00:16 | request now
+OK   Tom Lehrer — Poisoning Pigeons in the Park | last aired 2026-11-17 12:21 | normal pick now | request now
+OK   Tom Misch — Disco Yes | last aired 2026-11-17 12:16 | normal pick now | request now
 OK   Tom Misch — It Runs Through Me (feat. De La Soul) | last aired 2026-11-16 11:57 | normal pick now | request now
 OK   Tom Novy — Superstar (The Jason Nevins' Live Peep Show Mix) | last aired 2026-11-15 04:43 | normal pick now | request now
 WAIT Tom Petty & The Heartbreakers — American Girl | last aired 2026-11-17 21:34 | normal pick from 2026-11-19 09:34 | request now
@@ -27,7 +27,7 @@ WAIT Tomaso Albinoni — Adagio in G Minor | last aired 2026-11-17 12:27 | norma
 OK   Tomohisa Okudo — Always with Me | last aired 2026-11-17 12:02 | normal pick now | request now
 WAIT Toni Braxton — Un-Break My Heart | last aired 2026-11-17 12:56 | normal pick from 2026-11-19 00:56 | request now
 WAIT Tonto's Expanding Head Band — Cybernaut | last aired 2026-11-17 12:37 | normal pick from 2026-11-19 00:37 | request now
-WAIT Tony Bennett & Faith Hill — The Way You Look Tonight | last aired 2026-11-17 12:23 | normal pick from 2026-11-19 00:23 | request now
+OK   Tony Bennett & Faith Hill — The Way You Look Tonight | last aired 2026-11-17 12:23 | normal pick now | request now
 WAIT TOOL — Lateralus | last aired 2026-11-17 13:17 | normal pick from 2026-11-19 01:17 | request now
 OK   Tori Amos — A Sorta Fairytale (2023 Remaster) | last aired 2026-11-17 12:10 | normal pick now | request now
 OK   Tori Amos — Rattlesnakes | last aired 2026-11-15 02:14 | normal pick now | request now
