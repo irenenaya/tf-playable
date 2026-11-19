@@ -1,4 +1,4 @@
-Track status, song titles filed under FA (built Thu Nov 19, 6:45 AM PST (14:45 UTC)). Times in UTC.
+Track status, song titles filed under FA (built Thu Nov 19, 6:55 AM PST (14:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Face to Face — Daft Punk | last aired 2026-11-18 12:22 | normal pick from 2026-11-20 00:22 | request now
@@ -17,7 +17,7 @@ WAIT Falling Slowly (Album Version) — Glen Hansard and Marketa Irglova | last 
 WAIT Familiar — Nils Frahm | last aired 2026-11-18 09:33 | normal pick from 2026-11-20 09:33 | request from 2026-11-20 09:33
 OK   Family Portrait — P!nk | last aired 2026-10-14 13:43 | normal pick now | request now
 WAIT Famous Blue Raincoat — Leonard Cohen | last aired 2026-11-19 06:21 | normal pick from 2026-11-21 06:21 | request from 2026-11-21 06:21
-WAIT Fancy — Reba McEntire | last aired 2026-11-18 18:54 | normal pick from 2026-11-20 06:54 | request from 2026-11-19 14:54
+WAIT Fancy — Reba McEntire | last aired 2026-11-18 18:54 | normal pick from 2026-11-20 06:54 | request now
 OK   Fantas — Caterina Barbieri | last aired 2026-11-10 22:05 | normal pick now | request now
 OK   Fantasiestücke, Op. 73 - Schumann: Fantasiestücke, Op. 73: No. 1, Zart und mit Ausdruck — Sol Gabetta | last aired 2026-11-10 10:04 | normal pick now | request now
 WAIT Fast Car (2015 Remaster) — Tracy Chapman | last aired 2026-11-19 08:59 | normal pick from 2026-11-21 08:59 | request from 2026-11-21 08:59
