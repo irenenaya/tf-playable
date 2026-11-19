@@ -1,9 +1,9 @@
-Track status, song titles filed under IN (built Thu Nov 19, 1:35 PM PST (21:35 UTC)). Times in UTC.
+Track status, song titles filed under IN (built Thu Nov 19, 1:45 PM PST (21:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   I Need You More and More (Remastered) — Antonio Campo | last aired 2026-11-12 04:25 | normal pick now | request now
 WAIT In A Sentimental Mood — Duke Ellington | last aired 2026-11-18 12:26 | normal pick from 2026-11-20 00:26 | request now
-WAIT In Clover — Joywave | last aired 2026-11-18 09:42 | normal pick from 2026-11-19 21:42 | request now
+OK   In Clover — Joywave | last aired 2026-11-18 09:42 | normal pick now | request now
 OK   In My Heart — Moby | last aired 2026-11-17 13:31 | normal pick now | request now
 OK   In Orbit — Evergrey | last aired 2026-11-12 03:10 | normal pick now | request now
 WAIT In the Air Tonight (2015 Remaster) — Phil Collins | last aired 2026-11-19 09:37 | normal pick from 2026-11-20 21:37 | request from 2026-11-20 05:37

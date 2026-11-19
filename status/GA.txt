@@ -1,8 +1,8 @@
-Track status, artists filed under GA (built Thu Nov 19, 1:35 PM PST (21:35 UTC)). Times in UTC.
+Track status, artists filed under GA (built Thu Nov 19, 1:45 PM PST (21:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Gal Costa — Baby (Original Album) | last aired 2026-11-12 02:19 | normal pick now | request now
-OK   Garbage — Only Happy When It Rains | last aired 2026-11-12 02:22 | normal pick now | request now
-OK   Gary Jules — Mad World | last aired 2026-11-12 15:34 | normal pick now | request now
+WAIT Gal Costa — Baby (Original Album) | last aired 2026-11-19 21:32 | normal pick from 2026-11-21 09:32 | request from 2026-11-20 17:32
+WAIT Garbage — Only Happy When It Rains | last aired 2026-11-19 21:39 | normal pick from 2026-11-21 09:39 | request from 2026-11-20 17:39
+WAIT Gary Jules — Mad World | last aired 2026-11-19 21:36 | normal pick from 2026-11-21 09:36 | request from 2026-11-20 17:36
 OK   Gary Moore — Parisienne Walkways | last aired 2026-11-09 20:03 | normal pick now | request now
 OK   Gary Numan — Cars | last aired 2026-11-12 02:26 | normal pick now | request now
