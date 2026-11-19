@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Wed Nov 18, 10:45 PM PST (06:45 UTC Thu)). Times in UTC.
+Track status, artists filed under JO (built Wed Nov 18, 10:55 PM PST (06:55 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-11-18 08:30 | normal pick from 2026-11-20 08:30 | request from 2026-11-20 08:30
@@ -17,7 +17,7 @@ OK   Joe Hisaishi — Ponyo's Sisters Lend a Hand - A Song for Mothers and the S
 WAIT Joe Hisaishi — Summer (from 'Kikujiro') | last aired 2026-11-18 06:38 | normal pick from 2026-11-19 18:38 | request now
 WAIT Joe Hisaishi — Symphonic Suite “Princess Mononoke”2021 : V. Mononoke Hime (Live) | last aired 2026-11-18 21:40 | normal pick from 2026-11-20 09:40 | request from 2026-11-19 17:40
 OK   Joe Hisaishi — The Path of the Wind (from 'My Neighbor Totoro') | last aired 2026-11-15 07:38 | normal pick now | request now
-WAIT Joe Hisaishi — アシタカとサン (from 'Princess Mononoke') | last aired 2026-11-18 10:46 | normal pick from 2026-11-19 22:46 | request from 2026-11-19 06:46
+WAIT Joe Hisaishi — アシタカとサン (from 'Princess Mononoke') | last aired 2026-11-18 10:46 | normal pick from 2026-11-19 22:46 | request now
 OK   Joel Pott — Chances | last aired 2026-10-26 11:28 | normal pick now | request now
 OK   Johann Johannsson — Flight From The City - Jóhannsson: Flight from the City | last aired 2026-11-16 03:28 | normal pick now | request now
 WAIT John Carpenter — Halloween Theme | last aired 2026-11-19 00:55 | normal pick from 2026-11-20 12:55 | request from 2026-11-19 20:55
@@ -27,7 +27,7 @@ WAIT John Denver — Take Me Home, Country Roads | last aired 2026-11-19 05:42 |
 WAIT John Lee Hooker — Boom Boom | last aired 2026-11-18 10:00 | normal pick from 2026-11-19 22:00 | request now
 WAIT John Lee Hooker — I Cover the Waterfront | last aired 2026-11-18 08:11 | normal pick from 2026-11-19 20:11 | request now
 OK   John Lennon — Give Peace A Chance (Remastered 2010) | last aired 2026-11-09 22:36 | normal pick now | request now
-OK   John Lennon — Imagine (Remastered 2010) | last aired 2026-11-11 11:47 | normal pick now | request now
+WAIT John Lennon — Imagine (Remastered 2010) | last aired 2026-11-19 06:47 | normal pick from 2026-11-20 18:47 | request from 2026-11-20 02:47
 OK   John Lennon — Instant Karma! (We All Shine On) (Ultimate Mix) | last aired 2026-11-09 00:51 | normal pick now | request now
 WAIT John Lennon — Watching The Wheels (Remastered 2010) | last aired 2026-11-18 06:18 | normal pick from 2026-11-19 18:18 | request now
 WAIT John Mayer — New Light | last aired 2026-11-18 08:37 | normal pick from 2026-11-19 20:37 | request now
@@ -47,7 +47,7 @@ OK   Jon Hopkins — Small Memory | last aired 2026-11-16 07:16 | normal pick no
 OK   Jonathan Parecki — Senbonzakura (Hatsune Miku) | last aired 2026-09-02 17:36 | normal pick now | request now
 WAIT Joni Mitchell — A Case of You | last aired 2026-11-17 08:47 | normal pick from 2026-11-19 08:47 | request from 2026-11-19 08:47
 OK   Joni Mitchell — At Last (LP Version) | last aired 2026-11-03 22:19 | normal pick now | request now
-OK   Joni Mitchell — River | last aired 2026-11-17 02:54 | normal pick now | request now
+WAIT Joni Mitchell — River | last aired 2026-11-19 06:42 | normal pick from 2026-11-20 18:42 | request from 2026-11-20 02:42
 OK   Jorge Ben Jor — Mas, Que Nada! | last aired 2026-11-17 01:54 | normal pick now | request now
 WAIT Josh Rouse — 1972 | last aired 2026-11-18 05:39 | normal pick from 2026-11-19 17:39 | request now
 WAIT Josh Rouse — Street Lights | last aired 2026-11-18 06:22 | normal pick from 2026-11-19 18:22 | request now
