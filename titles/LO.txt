@@ -1,4 +1,4 @@
-Track status, song titles filed under LO (built Wed Nov 18, 9:15 PM PST (05:15 UTC Thu)). Times in UTC.
+Track status, song titles filed under LO (built Wed Nov 18, 9:25 PM PST (05:25 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   L-O-V-E — Nat King Cole | last aired 2026-11-17 08:41 | normal pick now | request now
@@ -37,4 +37,4 @@ OK   The Lonesome Death of Hattie Carroll — Bob Dylan | last aired 2026-11-15 
 WAIT The Long Road — Mark Knopfler | last aired 2026-11-18 03:49 | normal pick from 2026-11-19 15:49 | request now
 OK   The Look — Roxette | last aired 2026-11-08 04:02 | normal pick now | request now
 OK   The Lord Will Make a Way — Al Green | last aired 2026-11-10 03:01 | normal pick now | request now
-WAIT The Love Song — Marilyn Manson | last aired 2026-11-18 09:18 | normal pick from 2026-11-19 21:18 | request from 2026-11-19 05:18
+WAIT The Love Song — Marilyn Manson | last aired 2026-11-18 09:18 | normal pick from 2026-11-19 21:18 | request now
