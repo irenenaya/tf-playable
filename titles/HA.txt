@@ -1,4 +1,4 @@
-Track status, song titles filed under HA (built Wed Nov 18, 4:55 PM PST (00:55 UTC Thu)). Times in UTC.
+Track status, song titles filed under HA (built Wed Nov 18, 5:05 PM PST (01:05 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Halah — Mazzy Star | last aired 2026-11-17 08:18 | normal pick from 2026-11-19 08:18 | request from 2026-11-19 08:18
@@ -6,7 +6,7 @@ WAIT Half Acre (Remastered 2025) — Hem | last aired 2026-11-18 04:43 | normal 
 OK   Hall of Fame — The Script feat. will.i.am | last aired 2026-11-14 00:07 | normal pick now | request now
 WAIT Hallelujah — Jeff Buckley | last aired 2026-11-17 17:57 | normal pick from 2026-11-19 05:57 | request now
 OK   Hallelujah — Leonard Cohen | last aired 2026-11-16 16:27 | normal pick now | request now
-OK   Halloween Theme — John Carpenter | last aired 2026-11-07 16:21 | normal pick now | request now
+WAIT Halloween Theme — John Carpenter | last aired 2026-11-19 00:55 | normal pick from 2026-11-20 12:55 | request from 2026-11-19 20:55
 OK   Halo Theme Mjolnir Mix — Halo | last aired 2026-11-16 22:04 | normal pick now | request now
 OK   Hang on Sloopy — The McCoys | last aired 2026-11-13 03:58 | normal pick now | request now
 OK   Happy Birthday — Stevie Wonder | last aired 2026-11-02 00:43 | normal pick now | request now
