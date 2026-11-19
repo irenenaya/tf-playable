@@ -1,4 +1,4 @@
-Track status, song titles filed under 0-9 (built Thu Nov 19, 12:25 PM PST (20:25 UTC)). Times in UTC.
+Track status, song titles filed under 0-9 (built Thu Nov 19, 12:35 PM PST (20:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT 00:00 — Siddhartha | last aired 2026-11-18 20:10 | normal pick from 2026-11-20 08:10 | request now
@@ -19,5 +19,5 @@ WAIT 5.17 — Thom Yorke | last aired 2026-11-19 15:11 | normal pick from 2026-1
 WAIT 505 — Arctic Monkeys | last aired 2026-11-17 23:21 | normal pick from 2026-11-19 23:21 | request from 2026-11-19 23:21
 WAIT 52 CHICKEN NUGGET (McRave) — Beats by Luca | last aired 2026-11-19 18:13 | normal pick from 2026-11-21 06:13 | request from 2026-11-20 14:13
 OK   6 Underground — Sneaker Pimps | last aired 2026-11-17 05:49 | normal pick now | request now
-OK   7 Seconds (Album Version) — Youssou N'Dour featuring Neneh Cherry | last aired 2026-11-16 02:17 | normal pick now | request now
+WAIT 7 Seconds (Album Version) — Youssou N'Dour featuring Neneh Cherry | last aired 2026-11-19 20:22 | normal pick from 2026-11-21 20:22 | request from 2026-11-21 20:22
 OK   9 to 5 — Dolly Parton | last aired 2026-11-14 14:28 | normal pick now | request now
