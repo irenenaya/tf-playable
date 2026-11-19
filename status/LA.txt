@@ -1,10 +1,10 @@
-Track status, artists filed under LA (built Thu Nov 19, 6:35 AM PST (14:35 UTC)). Times in UTC.
+Track status, artists filed under LA (built Thu Nov 19, 6:45 AM PST (14:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   La Fenice — Le Chant des oiseaux | last aired 2026-10-02 15:12 | normal pick now | request now
-OK   La Rappresentante di Lista — Ciao Ciao | last aired 2026-11-08 23:50 | normal pick now | request now
+WAIT La Rappresentante di Lista — Ciao Ciao | last aired 2026-11-19 14:37 | normal pick from 2026-11-21 02:37 | request from 2026-11-20 10:37
 OK   Lace — risk | last aired 2026-11-14 07:45 | normal pick now | request now
-OK   Lady Gaga — Just Dance | last aired 2026-11-11 04:59 | normal pick now | request now
+WAIT Lady Gaga — Just Dance | last aired 2026-11-19 14:33 | normal pick from 2026-11-21 02:33 | request from 2026-11-20 10:33
 OK   Laibach — The Whistleblowers | last aired 2026-10-26 00:33 | normal pick now | request now
 OK   Laith Al-Deen — Dein Lied | last aired 2026-11-08 23:57 | normal pick now | request now
 WAIT Lamb — Bonfire | last aired 2026-11-18 04:33 | normal pick from 2026-11-19 16:33 | request now

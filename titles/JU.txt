@@ -1,4 +1,4 @@
-Track status, song titles filed under JU (built Thu Nov 19, 6:35 AM PST (14:35 UTC)). Times in UTC.
+Track status, song titles filed under JU (built Thu Nov 19, 6:45 AM PST (14:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Jump (2015 Remaster) — Van Halen | last aired 2026-11-19 00:22 | normal pick from 2026-11-20 12:22 | request from 2026-11-19 20:22
@@ -7,7 +7,7 @@ OK   Jump, Jive, An' Wail (Remastered) — Louis Prima | last aired 2026-11-18 0
 WAIT Just a Candle — Wax Tailor | last aired 2026-11-19 04:20 | normal pick from 2026-11-20 16:20 | request from 2026-11-20 00:20
 OK   Just Asking (Day Theme I) — Max Specter | last aired 2026-11-09 09:35 | normal pick now | request now
 WAIT Just Can't Get Enough — Depeche Mode | last aired 2026-11-19 11:14 | normal pick from 2026-11-20 23:14 | request from 2026-11-20 07:14
-OK   Just Dance — Lady Gaga | last aired 2026-11-11 04:59 | normal pick now | request now
+WAIT Just Dance — Lady Gaga | last aired 2026-11-19 14:33 | normal pick from 2026-11-21 02:33 | request from 2026-11-20 10:33
 OK   Just Dumb Enough to Try — Father John Misty | last aired 2026-11-11 12:34 | normal pick now | request now
 OK   Just Give Me a Reason — P!nk | last aired 2026-09-12 18:57 | normal pick now | request now
 OK   Just Like Heaven (Album Version) — The Cure | last aired 2026-11-18 01:45 | normal pick now | request now
