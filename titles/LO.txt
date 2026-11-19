@@ -1,4 +1,4 @@
-Track status, song titles filed under LO (built Thu Nov 19, 6:25 AM PST (14:25 UTC)). Times in UTC.
+Track status, song titles filed under LO (built Thu Nov 19, 6:35 AM PST (14:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   L-O-V-E — Nat King Cole | last aired 2026-11-17 08:41 | normal pick now | request now
@@ -28,7 +28,7 @@ OK   Lovely Day — Bill Withers | last aired 2026-11-14 23:00 | normal pick now
 OK   Lover, You Should've Come Over — Jeff Buckley | last aired 2026-11-17 18:04 | normal pick now | request now
 OK   Lovers Rock — TV Girl | last aired 2026-10-31 19:36 | normal pick now | request now
 OK   Lovesong (2010 Remaster) — The Cure | last aired 2026-11-18 00:02 | normal pick now | request now
-WAIT Lovin' Every Minute of It — Loverboy | last aired 2026-11-18 02:31 | normal pick from 2026-11-19 14:31 | request now
+OK   Lovin' Every Minute of It — Loverboy | last aired 2026-11-18 02:31 | normal pick now | request now
 OK   Lovin' You — Minnie Riperton | last aired 2026-11-17 15:32 | normal pick now | request now
 OK   Loving Machine — TV Girl | last aired 2026-11-10 19:27 | normal pick now | request now
 WAIT Low Frequency Thunderstorm Shield — Cognitron | last aired 2026-11-19 12:59 | normal pick from 2026-11-21 00:59 | request from 2026-11-20 08:59
