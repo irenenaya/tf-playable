@@ -1,4 +1,4 @@
-Track status, song titles filed under TH (built Wed Nov 18, 6:05 PM PST (02:05 UTC Thu)). Times in UTC.
+Track status, song titles filed under TH (built Wed Nov 18, 6:15 PM PST (02:15 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   (They Long To Be) Close To You — The Carpenters | last aired 2026-11-13 23:10 | normal pick now | request now
@@ -17,7 +17,7 @@ OK   Thick Skull — Paramore | last aired 2026-11-10 14:09 | normal pick now | 
 OK   This Boy (Remastered) — The Beatles | last aired 2026-11-05 06:40 | normal pick now | request now
 OK   This Foolish Heart Could Love You — Melody Gardot | last aired 2026-11-14 06:57 | normal pick now | request now
 OK   This Is It — Kenny Loggins | last aired 2026-11-13 21:57 | normal pick now | request now
-OK   This Is The Life — Amy Macdonald | last aired 2026-11-15 19:03 | normal pick now | request now
+WAIT This Is The Life — Amy Macdonald | last aired 2026-11-19 02:09 | normal pick from 2026-11-20 14:09 | request from 2026-11-19 22:09
 OK   This Is Your Life (Originally Performed by Banderas) — Cover Vocals BPM 122 Acapellas | last aired 2026-09-21 02:20 | normal pick now | request now
 OK   This Means War — Petra | last aired 2026-11-11 22:27 | normal pick now | request now
 WAIT This Must Be the Place (Naive Melody) (2005 Remastered LP Version) — Talking Heads | last aired 2026-11-17 23:51 | normal pick from 2026-11-19 23:51 | request from 2026-11-19 23:51
