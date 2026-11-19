@@ -1,4 +1,4 @@
-Track status, artists filed under DA (built Thu Nov 19, 4:15 AM PST (12:15 UTC)). Times in UTC.
+Track status, artists filed under DA (built Thu Nov 19, 4:25 AM PST (12:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT D'Angelo — Untitled (How Does It Feel) | last aired 2026-11-17 14:16 | normal pick from 2026-11-19 14:16 | request from 2026-11-19 14:16
@@ -25,7 +25,7 @@ OK   Database — Vice II | last aired 2026-11-17 14:55 | normal pick now | requ
 OK   David Bowie — "Heroes" (2017 Remaster) | last aired 2026-11-16 17:11 | normal pick now | request now
 OK   David Bowie — Breaking Glass (2017 Remaster) | last aired 2026-11-16 19:27 | normal pick now | request now
 OK   David Bowie — Dancing in the Street (2002 Remaster) | last aired 2026-11-03 12:24 | normal pick now | request now
-WAIT David Bowie — Dollar Days | last aired 2026-11-18 00:25 | normal pick from 2026-11-19 12:25 | request now
+OK   David Bowie — Dollar Days | last aired 2026-11-18 00:25 | normal pick now | request now
 OK   David Bowie — Let's Dance (2018 Remaster) | last aired 2026-11-16 17:50 | normal pick now | request now
 OK   David Bowie — Moonage Daydream (2012 Remaster) | last aired 2026-11-16 18:15 | normal pick now | request now
 OK   David Bowie — Rebel Rebel | last aired 2026-11-16 16:51 | normal pick now | request now
