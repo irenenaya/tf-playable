@@ -1,4 +1,4 @@
-Track status, artists filed under TO (built Wed Nov 18, 6:55 PM PST (02:55 UTC Thu)). Times in UTC.
+Track status, artists filed under TO (built Wed Nov 18, 7:15 PM PST (03:15 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   toe — Goodbye (Live) | last aired 2026-11-08 19:07 | normal pick now | request now
@@ -13,7 +13,7 @@ OK   Tom Konkle — Losing Faith | last aired 2026-11-16 20:44 | normal pick now
 OK   Tom Konkle — Manipulation (The Dance) | last aired 2026-11-14 09:16 | normal pick now | request now
 OK   Tom Konkle — Name On A Screen | last aired 2026-11-17 00:58 | normal pick now | request now
 OK   Tom Konkle — One Last Time | last aired 2026-11-15 04:00 | normal pick now | request now
-WAIT Tom Konkle — When Did Love Become A Test | last aired 2026-11-17 14:59 | normal pick from 2026-11-19 02:59 | request now
+OK   Tom Konkle — When Did Love Become A Test | last aired 2026-11-17 14:59 | normal pick now | request now
 OK   Tom Lehrer — Poisoning Pigeons in the Park | last aired 2026-11-17 12:21 | normal pick now | request now
 OK   Tom Misch — Disco Yes | last aired 2026-11-17 12:16 | normal pick now | request now
 OK   Tom Misch — It Runs Through Me (feat. De La Soul) | last aired 2026-11-16 11:57 | normal pick now | request now
