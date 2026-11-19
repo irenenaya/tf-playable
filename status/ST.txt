@@ -1,10 +1,10 @@
-Track status, artists filed under ST (built Wed Nov 18, 5:55 PM PST (01:55 UTC Thu)). Times in UTC.
+Track status, artists filed under ST (built Wed Nov 18, 6:05 PM PST (02:05 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   St Germain — Rose rouge | last aired 2026-11-15 13:41 | normal pick now | request now
-WAIT Stan Bush — The Touch | last aired 2026-11-18 20:57 | normal pick from 2026-11-20 08:57 | request from 2026-11-19 16:57
-WAIT Stan Getz — Corcovado (Quiet Nights Of Quiet Stars) | last aired 2026-11-17 02:00 | normal pick from 2026-11-19 02:00 | request from 2026-11-19 02:00
-WAIT Stardust — Music Sounds Better With You | last aired 2026-11-18 20:50 | normal pick from 2026-11-20 08:50 | request from 2026-11-19 16:50
+WAIT Stan Bush — The Touch | last aired 2026-11-18 20:57 | normal pick from 2026-11-20 20:57 | request from 2026-11-20 20:57
+OK   Stan Getz — Corcovado (Quiet Nights Of Quiet Stars) | last aired 2026-11-17 02:00 | normal pick now | request now
+WAIT Stardust — Music Sounds Better With You | last aired 2026-11-18 20:50 | normal pick from 2026-11-20 20:50 | request from 2026-11-20 20:50
 WAIT Stars of the Lid — Requiem for Dying Mothers, Pt. 1 | last aired 2026-11-17 07:02 | normal pick from 2026-11-19 07:02 | request from 2026-11-19 07:02
 WAIT Stars of the Lid — Requiem for Dying Mothers, Pt. 2 | last aired 2026-11-18 07:05 | normal pick from 2026-11-20 07:05 | request from 2026-11-20 07:05
 WAIT Stealers Wheel — Stuck In The Middle With You | last aired 2026-11-18 20:46 | normal pick from 2026-11-20 20:46 | request from 2026-11-20 20:46
