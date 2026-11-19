@@ -1,13 +1,13 @@
-Track status, artists filed under CH (built Thu Nov 19, 4:45 AM PST (12:45 UTC)). Times in UTC.
+Track status, artists filed under CH (built Thu Nov 19, 4:55 AM PST (12:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Chaka Khan — What Cha' Gonna Do for Me | last aired 2026-11-10 23:46 | normal pick now | request now
+WAIT Chaka Khan — What Cha' Gonna Do for Me | last aired 2026-11-19 12:46 | normal pick from 2026-11-21 00:46 | request from 2026-11-20 08:46
 WAIT Chappell Roan — Good Luck, Babe! | last aired 2026-11-19 05:26 | normal pick from 2026-11-20 17:26 | request from 2026-11-20 01:26
 WAIT Chappell Roan — HOT TO GO! | last aired 2026-11-19 10:23 | normal pick from 2026-11-20 22:23 | request from 2026-11-20 06:23
 WAIT Chappell Roan — Pink Pony Club | last aired 2026-11-19 00:40 | normal pick from 2026-11-20 12:40 | request from 2026-11-19 20:40
 OK   Charles Lloyd & The Marvels — You Are So Beautiful | last aired 2026-11-13 15:21 | normal pick now | request now
 OK   Charles Lloyd — You Are So Beautiful | last aired 2026-11-11 00:18 | normal pick now | request now
-OK   Charles Mingus — Goodbye Pork Pie Hat (Album Version) | last aired 2026-11-11 08:06 | normal pick now | request now
+WAIT Charles Mingus — Goodbye Pork Pie Hat (Album Version) | last aired 2026-11-19 12:51 | normal pick from 2026-11-21 00:51 | request from 2026-11-20 08:51
 OK   Charles Mingus — Medley: Mode D - Trio And Group Dancers / Mode E - Single Solos And Group Dance / Mode F - Group And Solo Dance (Album Version) | last aired 2026-11-13 06:38 | normal pick now | request now
 OK   Charles Mingus — Track A - Solo Dancer (Stop! Look! And Listen, Sinner Jim Whitney!) (Album Version) | last aired 2026-11-06 10:31 | normal pick now | request now
 OK   Charles Wright & The Watts 103rd Street Rhythm Band — Express Yourself (Album Version) | last aired 2026-11-12 03:52 | normal pick now | request now
