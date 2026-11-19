@@ -1,4 +1,4 @@
-Track status, artists filed under JE (built Wed Nov 18, 9:45 PM PST (05:45 UTC Thu)). Times in UTC.
+Track status, artists filed under JE (built Wed Nov 18, 9:55 PM PST (05:55 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Jean-Luc Ponty — Computer Incantations for World Peace | last aired 2026-11-13 01:32 | normal pick now | request now
@@ -6,7 +6,7 @@ OK   Jeff Beck — I Put a Spell on You (feat. Joss Stone) | last aired 2026-11-
 OK   Jeff Beck — Where Were You (Live) | last aired 2026-11-12 20:53 | normal pick now | request now
 WAIT Jeff Buckley — Calling You (Live) | last aired 2026-11-17 18:16 | normal pick from 2026-11-19 06:16 | request now
 WAIT Jeff Buckley — Dream Brother | last aired 2026-11-17 18:22 | normal pick from 2026-11-19 06:22 | request now
-WAIT Jeff Buckley — Grace | last aired 2026-11-17 17:52 | normal pick from 2026-11-19 05:52 | request now
+OK   Jeff Buckley — Grace | last aired 2026-11-17 17:52 | normal pick now | request now
 WAIT Jeff Buckley — Hallelujah | last aired 2026-11-17 17:57 | normal pick from 2026-11-19 05:57 | request now
 OK   Jeff Buckley — Last Goodbye | last aired 2026-11-16 20:28 | normal pick now | request now
 WAIT Jeff Buckley — Lilac Wine | last aired 2026-11-17 18:12 | normal pick from 2026-11-19 06:12 | request now

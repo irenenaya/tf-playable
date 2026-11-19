@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Wed Nov 18, 9:45 PM PST (05:45 UTC Thu)). Times in UTC.
+Track status, artists filed under JO (built Wed Nov 18, 9:55 PM PST (05:55 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-11-18 08:30 | normal pick from 2026-11-20 08:30 | request from 2026-11-20 08:30
@@ -23,7 +23,7 @@ OK   Johann Johannsson — Flight From The City - Jóhannsson: Flight from the C
 WAIT John Carpenter — Halloween Theme | last aired 2026-11-19 00:55 | normal pick from 2026-11-20 12:55 | request from 2026-11-19 20:55
 WAIT John Coltrane — Lush Life | last aired 2026-11-19 05:37 | normal pick from 2026-11-21 05:37 | request from 2026-11-21 05:37
 WAIT John Coltrane — My Favorite Things | last aired 2026-11-18 05:55 | normal pick from 2026-11-19 17:55 | request now
-OK   John Denver — Take Me Home, Country Roads | last aired 2026-11-17 03:47 | normal pick now | request now
+WAIT John Denver — Take Me Home, Country Roads | last aired 2026-11-19 05:42 | normal pick from 2026-11-21 05:42 | request from 2026-11-21 05:42
 WAIT John Lee Hooker — Boom Boom | last aired 2026-11-18 10:00 | normal pick from 2026-11-19 22:00 | request from 2026-11-19 06:00
 WAIT John Lee Hooker — I Cover the Waterfront | last aired 2026-11-18 08:11 | normal pick from 2026-11-19 20:11 | request now
 OK   John Lennon — Give Peace A Chance (Remastered 2010) | last aired 2026-11-09 22:36 | normal pick now | request now
@@ -52,7 +52,7 @@ OK   Jorge Ben Jor — Mas, Que Nada! | last aired 2026-11-17 01:54 | normal pic
 WAIT Josh Rouse — 1972 | last aired 2026-11-18 05:39 | normal pick from 2026-11-19 17:39 | request now
 WAIT Josh Rouse — Street Lights | last aired 2026-11-18 06:22 | normal pick from 2026-11-19 18:22 | request now
 WAIT José González — Heartbeats | last aired 2026-11-18 05:36 | normal pick from 2026-11-20 05:36 | request from 2026-11-20 05:36
-WAIT Journey — Don't Stop Believin' (Album Version) | last aired 2026-11-18 09:52 | normal pick from 2026-11-19 21:52 | request from 2026-11-19 05:52
+WAIT Journey — Don't Stop Believin' (Album Version) | last aired 2026-11-18 09:52 | normal pick from 2026-11-19 21:52 | request now
 WAIT Journey — Lights (Album Version) | last aired 2026-11-18 08:33 | normal pick from 2026-11-19 20:33 | request now
 WAIT Joywave — In Clover | last aired 2026-11-18 09:42 | normal pick from 2026-11-19 21:42 | request now
 WAIT Joywave — Rumors | last aired 2026-11-18 09:03 | normal pick from 2026-11-19 21:03 | request now
