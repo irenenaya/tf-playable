@@ -1,4 +1,4 @@
-Track status, artists filed under PI (built Thu Nov 19, 12:45 AM PST (08:45 UTC)). Times in UTC.
+Track status, artists filed under PI (built Thu Nov 19, 12:55 AM PST (08:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Pierre Monteux — The Fire Bird: IV. Infernal Dance of King Kastchei | last aired 2026-10-13 10:34 | normal pick now | request now
@@ -14,4 +14,4 @@ OK   Pink Floyd — Wish You Were Here | last aired 2026-11-16 16:38 | normal pi
 OK   Piotr Musial — Some Place We Called Home | last aired 2026-11-12 12:17 | normal pick now | request now
 OK   Pitbull — International Love | last aired 2026-10-22 20:41 | normal pick now | request now
 OK   Pitbull — Timber | last aired 2026-10-09 11:28 | normal pick now | request now
-WAIT Pixies — Ana | last aired 2026-11-17 20:46 | normal pick from 2026-11-19 08:46 | request now
+OK   Pixies — Ana | last aired 2026-11-17 20:46 | normal pick now | request now
