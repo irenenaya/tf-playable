@@ -1,4 +1,4 @@
-Track status, song titles filed under LO (built Thu Nov 19, 12:45 PM PST (20:45 UTC)). Times in UTC.
+Track status, song titles filed under LO (built Thu Nov 19, 12:55 PM PST (20:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   L-O-V-E — Nat King Cole | last aired 2026-11-17 08:41 | normal pick now | request now
@@ -23,7 +23,7 @@ OK   Love Kills — Freddie Mercury | last aired 2026-11-10 15:48 | normal pick 
 OK   Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley — Studio Group | last aired 2026-08-31 18:46 | normal pick now | request now
 OK   Love — Mica Levi | last aired 2026-11-17 16:25 | normal pick now | request now
 OK   Love On A Real Train — Tangerine Dream | last aired 2026-11-17 07:57 | normal pick now | request now
-OK   LOVE TRIP — Takako Mamiya | last aired 2026-11-15 01:09 | normal pick now | request now
+WAIT LOVE TRIP — Takako Mamiya | last aired 2026-11-19 20:46 | normal pick from 2026-11-21 20:46 | request from 2026-11-21 20:46
 OK   Lovely Day — Bill Withers | last aired 2026-11-14 23:00 | normal pick now | request now
 OK   Lover, You Should've Come Over — Jeff Buckley | last aired 2026-11-17 18:04 | normal pick now | request now
 OK   Lovers Rock — TV Girl | last aired 2026-10-31 19:36 | normal pick now | request now
