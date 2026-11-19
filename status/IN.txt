@@ -1,4 +1,4 @@
-Track status, artists filed under IN (built Thu Nov 19, 7:55 AM PST (15:55 UTC)). Times in UTC.
+Track status, artists filed under IN (built Thu Nov 19, 8:05 AM PST (16:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT In Love With a Ghost — Flowers | last aired 2026-11-19 08:32 | normal pick from 2026-11-20 20:32 | request from 2026-11-20 04:32
@@ -7,4 +7,4 @@ OK   Insane Clown Posse — Cemetary Girl | last aired 2026-10-18 03:04 | normal
 WAIT INXS — Don't Change | last aired 2026-11-18 23:45 | normal pick from 2026-11-20 23:45 | request from 2026-11-20 23:45
 WAIT INXS — Never Tear Us Apart | last aired 2026-11-19 04:09 | normal pick from 2026-11-21 04:09 | request from 2026-11-21 04:09
 WAIT The Ink Spots — If I Didn't Care | last aired 2026-11-19 08:36 | normal pick from 2026-11-20 20:36 | request from 2026-11-20 04:36
-OK   The Ink Spots — Maybe | last aired 2026-11-15 12:53 | normal pick now | request now
+WAIT The Ink Spots — Maybe | last aired 2026-11-19 15:53 | normal pick from 2026-11-21 03:53 | request from 2026-11-20 11:53
