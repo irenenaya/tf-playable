@@ -1,4 +1,4 @@
-Track status, song titles filed under YE (built Fri Nov 20, 1:35 AM PST (09:35 UTC)). Times in UTC.
+Track status, song titles filed under YE (built Fri Nov 20, 1:45 AM PST (09:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Year of the Cat — Al Stewart | last aired 2026-11-19 00:30 | normal pick from 2026-11-21 00:30 | request from 2026-11-21 00:30
@@ -6,5 +6,5 @@ OK   Yellow — Coldplay | last aired 2026-11-17 04:51 | normal pick now | reque
 WAIT Yellow Ledbetter — Pearl Jam | last aired 2026-11-18 17:56 | normal pick from 2026-11-20 17:56 | request from 2026-11-20 17:56
 OK   Yesterday (Remastered) — The Beatles | last aired 2026-11-16 06:31 | normal pick now | request now
 OK   Yesterday — The Hollyridge Strings | last aired 2026-11-12 08:45 | normal pick now | request now
-OK   Yègellé Tezeta — Mulatu Astatke | last aired 2026-11-16 06:34 | normal pick now | request now
+WAIT Yègellé Tezeta — Mulatu Astatke | last aired 2026-11-20 09:41 | normal pick from 2026-11-21 21:41 | request from 2026-11-21 05:41
 WAIT Yèkèrmo Sèw (A Man of Experience and Wisdom) — Mulatu Astatqe | last aired 2026-11-20 02:07 | normal pick from 2026-11-21 14:07 | request from 2026-11-20 22:07
