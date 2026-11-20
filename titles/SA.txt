@@ -1,4 +1,4 @@
-Track status, song titles filed under SA (built Fri Nov 20, 12:25 AM PST (08:25 UTC)). Times in UTC.
+Track status, song titles filed under SA (built Fri Nov 20, 12:35 AM PST (08:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Sabotage — Beastie Boys | last aired 2026-11-16 00:37 | normal pick now | request now
@@ -21,7 +21,7 @@ OK   Sanvean - I Am Your Shadow — Lisa Gerrard | last aired 2026-11-18 02:52 |
 OK   Sara — Fleetwood Mac | last aired 2026-11-16 20:21 | normal pick now | request now
 OK   Sarà perché ti amo — Ricchi E Poveri | last aired 2026-11-12 16:47 | normal pick now | request now
 OK   Sastanàqqàm — Tinariwen | last aired 2026-11-16 02:09 | normal pick now | request now
-OK   Saturn — Sleeping At Last | last aired 2026-11-17 06:32 | normal pick now | request now
+WAIT Saturn — Sleeping At Last | last aired 2026-11-20 08:25 | normal pick from 2026-11-21 20:25 | request from 2026-11-21 04:25
 OK   Saudade — Love and Rockets | last aired 2026-11-18 00:58 | normal pick now | request now
 OK   Save The Children — Marvin Gaye | last aired 2026-11-18 07:50 | normal pick now | request now
 WAIT Saving All My Love for You — Whitney Houston | last aired 2026-11-20 03:10 | normal pick from 2026-11-21 15:10 | request from 2026-11-20 23:10

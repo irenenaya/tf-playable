@@ -1,9 +1,9 @@
-Track status, song titles filed under TA (built Fri Nov 20, 12:25 AM PST (08:25 UTC)). Times in UTC.
+Track status, song titles filed under TA (built Fri Nov 20, 12:35 AM PST (08:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Ta douleur — Camille | last aired 2026-11-18 11:28 | normal pick from 2026-11-20 11:28 | request from 2026-11-20 11:28
 OK   Tadow — Masego | last aired 2026-11-18 04:10 | normal pick now | request now
-WAIT Tainted Love — Soft Cell | last aired 2026-11-18 20:35 | normal pick from 2026-11-20 08:35 | request now
+OK   Tainted Love — Soft Cell | last aired 2026-11-18 20:35 | normal pick now | request now
 OK   Take Five — The Dave Brubeck Quartet | last aired 2026-11-16 12:12 | normal pick now | request now
 OK   Take It Easy — Eagles | last aired 2026-11-16 19:54 | normal pick now | request now
 OK   Take Me Back (Extended Mix) — Obie Fernandez | last aired 2026-10-18 02:50 | normal pick now | request now
