@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Fri Nov 20, 9:25 AM PST (17:25 UTC)). Times in UTC.
+Track status, artists filed under BE (built Fri Nov 20, 9:35 AM PST (17:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Beach House — Bluebird | last aired 2026-11-20 08:21 | normal pick from 2026-11-22 08:21 | request from 2026-11-22 08:21
@@ -25,7 +25,7 @@ OK   Ben&Ben — Maybe The Night | last aired 2026-11-16 00:11 | normal pick now
 OK   Benjamin Francis Leftwich — Ticket To Ride | last aired 2026-11-16 00:23 | normal pick now | request now
 OK   Benny Goodman — Sing Sing Sing (With A Swing) (live) | last aired 2026-11-15 23:57 | normal pick now | request now
 OK   Benny Sings — Rolled Up | last aired 2026-11-14 17:59 | normal pick now | request now
-OK   Benny Sings — Sailing | last aired 2026-11-14 21:25 | normal pick now | request now
+WAIT Benny Sings — Sailing | last aired 2026-11-20 17:28 | normal pick from 2026-11-22 05:28 | request from 2026-11-21 13:28
 OK   Benson Boone — Beautiful Things | last aired 2026-11-16 01:00 | normal pick now | request now
 OK   Berlin — Take My Breath Away | last aired 2026-11-16 00:27 | normal pick now | request now
 OK   Berliner Philharmoniker — Boléro, M. 81 | last aired 2026-11-01 18:06 | normal pick now | request now
