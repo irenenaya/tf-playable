@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Thu Nov 19, 10:25 PM PST (06:25 UTC Fri)). Times in UTC.
+Track status, artists filed under JO (built Thu Nov 19, 10:35 PM PST (06:35 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-11-18 08:30 | normal pick now | request now
@@ -6,7 +6,7 @@ WAIT Jockstrap — Concrete Over Water | last aired 2026-11-20 04:11 | normal pi
 WAIT Joe Cocker — The Letter (Live At The Fillmore East/1970) | last aired 2026-11-20 04:17 | normal pick from 2026-11-21 16:17 | request from 2026-11-21 00:17
 OK   Joe Cocker — With A Little Help From My Friends | last aired 2026-11-18 05:28 | normal pick now | request now
 OK   Joe Hisaishi — A Town with an Ocean View (from 'Kiki's Delivery Service') | last aired 2026-11-18 05:50 | normal pick now | request now
-WAIT Joe Hisaishi — a Wish to the Moon | last aired 2026-11-18 06:27 | normal pick from 2026-11-20 06:27 | request from 2026-11-20 06:27
+OK   Joe Hisaishi — a Wish to the Moon | last aired 2026-11-18 06:27 | normal pick now | request now
 WAIT Joe Hisaishi — Asian Dream Song | last aired 2026-11-18 15:17 | normal pick from 2026-11-20 15:17 | request from 2026-11-20 15:17
 OK   Joe Hisaishi — Deep Sea Pastures (from 'Ponyo on the Cliff by the Sea') | last aired 2026-11-15 07:47 | normal pick now | request now
 WAIT Joe Hisaishi — Departures (from 'Departures') | last aired 2026-11-18 09:25 | normal pick from 2026-11-20 09:25 | request from 2026-11-20 09:25
@@ -57,4 +57,4 @@ OK   Journey — Lights (Album Version) | last aired 2026-11-18 08:33 | normal p
 OK   Joywave — In Clover | last aired 2026-11-18 09:42 | normal pick now | request now
 OK   Joywave — Rumors | last aired 2026-11-18 09:03 | normal pick now | request now
 OK   João Gilberto — Chega de Saudade | last aired 2026-11-18 05:34 | normal pick now | request now
-WAIT João Gilberto — Garota de Ipanema (Live) | last aired 2026-11-18 06:34 | normal pick from 2026-11-20 06:34 | request from 2026-11-20 06:34
+OK   João Gilberto — Garota de Ipanema (Live) | last aired 2026-11-18 06:34 | normal pick now | request now
