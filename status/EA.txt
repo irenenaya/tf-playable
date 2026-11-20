@@ -1,4 +1,4 @@
-Track status, artists filed under EA (built Fri Nov 20, 6:25 AM PST (14:25 UTC)). Times in UTC.
+Track status, artists filed under EA (built Fri Nov 20, 6:35 AM PST (14:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Eagles — Desperado (Live On MTV, 1994) | last aired 2026-11-16 18:49 | normal pick now | request now
@@ -7,4 +7,4 @@ OK   Eagles — I Can't Tell You Why (2013 Remaster) | last aired 2026-11-16 17:
 OK   Eagles — Take It Easy | last aired 2026-11-16 19:54 | normal pick now | request now
 OK   Earth, Wind & Fire — Let's Groove (Album Version) | last aired 2026-11-17 18:52 | normal pick now | request now
 WAIT Earth, Wind & Fire — September | last aired 2026-11-20 14:04 | normal pick from 2026-11-22 02:04 | request from 2026-11-21 10:04
-WAIT Earth, Wind & Fire — Shining Star | last aired 2026-11-19 17:45 | normal pick from 2026-11-21 17:45 | request from 2026-11-21 17:45
+WAIT Earth, Wind & Fire — Shining Star | last aired 2026-11-20 14:28 | normal pick from 2026-11-22 14:28 | request from 2026-11-22 14:28
