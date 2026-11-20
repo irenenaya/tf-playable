@@ -1,7 +1,7 @@
-Track status, artists filed under GO (built Thu Nov 19, 4:35 PM PST (00:35 UTC Fri)). Times in UTC.
+Track status, artists filed under GO (built Thu Nov 19, 4:45 PM PST (00:45 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Go_A — SHUM | last aired 2026-11-12 22:07 | normal pick now | request now
+WAIT Go_A — SHUM | last aired 2026-11-20 00:32 | normal pick from 2026-11-21 12:32 | request from 2026-11-20 20:32
 WAIT GoGo Penguin — Hopopono | last aired 2026-11-19 04:16 | normal pick from 2026-11-21 04:16 | request from 2026-11-21 04:16
 WAIT GoGo Penguin — Raven | last aired 2026-11-18 23:36 | normal pick from 2026-11-20 11:36 | request now
 OK   Golden Earring — Radar Love | last aired 2026-10-30 22:06 | normal pick now | request now
