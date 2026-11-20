@@ -1,4 +1,4 @@
-Track status, artists filed under RI (built Fri Nov 20, 2:05 PM PST (22:05 UTC)). Times in UTC.
+Track status, artists filed under RI (built Fri Nov 20, 2:15 PM PST (22:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Ricchi E Poveri — Sarà perché ti amo | last aired 2026-11-12 16:47 | normal pick now | request now
@@ -8,7 +8,7 @@ OK   Richard Sanderson — Reality (Extrait de "La boum") | last aired 2026-11-1
 OK   Richard Wagner — Wagner: Tristan und Isolde - Wagner: Tristan und Isolde: Prelude - Orchestra (Act One) | last aired 2026-10-29 23:18 | normal pick now | request now
 OK   Rick Astley — Never Gonna Give You Up | last aired 2026-11-12 20:19 | normal pick now | request now
 OK   Rick Springfield — Jessie's Girl | last aired 2026-11-08 16:00 | normal pick now | request now
-OK   Ride — Vapour Trail | last aired 2026-11-12 23:19 | normal pick now | request now
+WAIT Ride — Vapour Trail | last aired 2026-11-20 22:06 | normal pick from 2026-11-22 10:06 | request from 2026-11-21 18:06
 WAIT Rihanna — Umbrella (Album Version) | last aired 2026-11-20 17:59 | normal pick from 2026-11-22 05:59 | request from 2026-11-21 13:59
 OK   Rio Reiser — Für immer und dich (Album Version) | last aired 2026-10-26 11:06 | normal pick now | request now
 OK   Rival Consoles — Untravel | last aired 2026-11-16 21:17 | normal pick now | request now
