@@ -1,4 +1,4 @@
-Track status, artists filed under HA (built Thu Nov 19, 4:55 PM PST (00:55 UTC Fri)). Times in UTC.
+Track status, artists filed under HA (built Thu Nov 19, 5:05 PM PST (01:05 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Haddaway — What Is Love (7" Mix) (Remastered 2025) (7" Mix / Remastered 2025) | last aired 2026-11-18 14:02 | normal pick from 2026-11-20 02:02 | request now
@@ -10,7 +10,7 @@ WAIT Hammerfall — Hearts On Fire | last aired 2026-11-18 13:58 | normal pick f
 OK   Hammock — Maybe They Will Sing for Us Tomorrow | last aired 2026-11-17 05:10 | normal pick now | request now
 OK   Hammock — Tape Recorder | last aired 2026-11-17 07:08 | normal pick now | request now
 OK   Hania Rani — Eden | last aired 2026-11-16 06:45 | normal pick now | request now
-OK   Hania Rani — Glass | last aired 2026-11-17 10:55 | normal pick now | request now
+WAIT Hania Rani — Glass | last aired 2026-11-20 01:01 | normal pick from 2026-11-22 01:01 | request from 2026-11-22 01:01
 WAIT Hank Williams — I'm So Lonesome I Could Cry (Single Version) | last aired 2026-11-18 14:14 | normal pick from 2026-11-20 14:14 | request from 2026-11-20 14:14
 WAIT Hans Tanz — Neues Land | last aired 2026-11-18 14:09 | normal pick from 2026-11-20 02:09 | request now
 WAIT Hans Zimmer — Cornfield Chase | last aired 2026-11-18 13:56 | normal pick from 2026-11-20 01:56 | request now
