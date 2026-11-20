@@ -1,9 +1,9 @@
-Track status, artists filed under PE (built Fri Nov 20, 9:15 AM PST (17:15 UTC)). Times in UTC.
+Track status, artists filed under PE (built Fri Nov 20, 9:25 AM PST (17:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Pearl Jam — Yellow Ledbetter | last aired 2026-11-18 17:56 | normal pick from 2026-11-20 17:56 | request from 2026-11-20 17:56
 OK   Pebe Sebert — City's Burning | last aired 2026-11-18 17:39 | normal pick now | request now
-WAIT Pedro Infante — Amorcito corazón | last aired 2026-11-18 17:19 | normal pick from 2026-11-20 17:19 | request from 2026-11-20 17:19
+OK   Pedro Infante — Amorcito corazón | last aired 2026-11-18 17:19 | normal pick now | request now
 OK   Peeping Tom — Your Neighborhood Spaceman | last aired 2026-11-18 17:33 | normal pick now | request now
 OK   Peggy Gou — Starry Night | last aired 2026-11-18 17:12 | normal pick now | request now
 OK   Pellek — Bohemian Rhapsody | last aired 2026-11-18 18:01 | normal pick now | request now
