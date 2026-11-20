@@ -1,4 +1,4 @@
-Track status, song titles filed under SM (built Fri Nov 20, 1:05 PM PST (21:05 UTC)). Times in UTC.
+Track status, song titles filed under SM (built Fri Nov 20, 1:15 PM PST (21:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Small Memory — Jon Hopkins | last aired 2026-11-20 12:03 | normal pick from 2026-11-22 00:03 | request from 2026-11-21 08:03
@@ -6,4 +6,4 @@ OK   Smells Like Teen Spirit — Nirvana | last aired 2026-11-17 22:26 | normal 
 OK   Smoke Signals — Phoebe Bridgers | last aired 2026-11-18 17:46 | normal pick now | request now
 OK   Smokestack Lightnin' — Howlin' Wolf | last aired 2026-11-19 08:15 | normal pick now | request now
 WAIT Smooth Operator (2011 Remastered) (Remastered Version) — Sade | last aired 2026-11-19 22:08 | normal pick from 2026-11-21 22:08 | request from 2026-11-21 22:08
-OK   The Smoke — The Smile | last aired 2026-11-12 23:45 | normal pick now | request now
+WAIT The Smoke — The Smile | last aired 2026-11-20 21:10 | normal pick from 2026-11-22 09:10 | request from 2026-11-21 17:10
