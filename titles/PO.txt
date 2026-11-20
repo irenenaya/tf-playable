@@ -1,7 +1,7 @@
-Track status, song titles filed under PO (built Fri Nov 20, 12:35 AM PST (08:35 UTC)). Times in UTC.
+Track status, song titles filed under PO (built Fri Nov 20, 12:45 AM PST (08:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Poison & Wine — The Civil Wars | last aired 2026-11-16 23:12 | normal pick now | request now
+WAIT Poison & Wine — The Civil Wars | last aired 2026-11-20 08:37 | normal pick from 2026-11-21 20:37 | request from 2026-11-21 04:37
 OK   Poisoning Pigeons in the Park — Tom Lehrer | last aired 2026-11-17 12:21 | normal pick now | request now
 OK   Policy of Truth — Depeche Mode | last aired 2026-11-17 22:17 | normal pick now | request now
 OK   Polyhedrons — Sea Power | last aired 2026-11-18 20:06 | normal pick now | request now
