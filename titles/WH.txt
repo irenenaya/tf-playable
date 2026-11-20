@@ -1,4 +1,4 @@
-Track status, song titles filed under WH (built Thu Nov 19, 8:25 PM PST (04:25 UTC Fri)). Times in UTC.
+Track status, song titles filed under WH (built Thu Nov 19, 8:35 PM PST (04:35 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Whistleblowers — Laibach | last aired 2026-10-26 00:33 | normal pick now | request now
@@ -31,7 +31,7 @@ WAIT White Winter Hymnal — Fleet Foxes | last aired 2026-11-18 13:23 | normal 
 WAIT Who Is It — Michael Jackson | last aired 2026-11-18 23:59 | normal pick from 2026-11-20 11:59 | request now
 OK   Who Knew (Main Version) — P!nk | last aired 2026-09-12 18:53 | normal pick now | request now
 OK   Who Knows Where The Time Goes? — Fairport Convention | last aired 2026-11-01 11:34 | normal pick now | request now
-WAIT Who's That What's That — Niko B | last aired 2026-11-18 16:34 | normal pick from 2026-11-20 04:34 | request now
+OK   Who's That What's That — Niko B | last aired 2026-11-18 16:34 | normal pick now | request now
 OK   Whole Lotta Love (Remaster) — Led Zeppelin | last aired 2026-11-17 18:28 | normal pick now | request now
 WAIT Wholy Holy — Aretha Franklin | last aired 2026-11-19 11:08 | normal pick from 2026-11-20 23:08 | request from 2026-11-20 07:08
 OK   Wholy Holy — Marvin Gaye | last aired 2026-11-18 03:46 | normal pick now | request now
