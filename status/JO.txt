@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Fri Nov 20, 10:25 AM PST (18:25 UTC)). Times in UTC.
+Track status, artists filed under JO (built Fri Nov 20, 10:45 AM PST (18:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-11-18 08:30 | normal pick now | request now
@@ -36,7 +36,7 @@ OK   John Prine — Your Flag Decal Won't Get You into Heaven Anymore | last air
 OK   John T. Williams — Anything Goes | last aired 2026-10-16 05:14 | normal pick now | request now
 OK   John Williams — Theme From Superman (Concert Version) | last aired 2026-11-08 18:45 | normal pick now | request now
 OK   Johnny Cash — Folsom Prison Blues | last aired 2026-11-17 09:24 | normal pick now | request now
-WAIT Johnny Cash — Hurt (Album Version) | last aired 2026-11-19 06:39 | normal pick from 2026-11-20 18:39 | request now
+OK   Johnny Cash — Hurt (Album Version) | last aired 2026-11-19 06:39 | normal pick now | request now
 OK   Johnny Cash — Redemption Day (Album Version) | last aired 2026-11-17 13:26 | normal pick now | request now
 OK   Johnny Cash — Ring of Fire | last aired 2026-11-17 11:24 | normal pick now | request now
 OK   Johnny Flynn — Detectorists (Original Soundtrack from the TV Series) | last aired 2026-10-23 05:38 | normal pick now | request now
@@ -47,7 +47,7 @@ WAIT Jon Hopkins — Small Memory | last aired 2026-11-20 12:03 | normal pick fr
 OK   Jonathan Parecki — Senbonzakura (Hatsune Miku) | last aired 2026-09-02 17:36 | normal pick now | request now
 WAIT Joni Mitchell — A Case of You | last aired 2026-11-20 13:14 | normal pick from 2026-11-22 13:14 | request from 2026-11-22 13:14
 OK   Joni Mitchell — At Last (LP Version) | last aired 2026-11-03 22:19 | normal pick now | request now
-WAIT Joni Mitchell — River | last aired 2026-11-19 06:42 | normal pick from 2026-11-20 18:42 | request now
+OK   Joni Mitchell — River | last aired 2026-11-19 06:42 | normal pick now | request now
 OK   Jorge Ben Jor — Mas, Que Nada! | last aired 2026-11-17 01:54 | normal pick now | request now
 WAIT Josh Rouse — 1972 | last aired 2026-11-20 17:02 | normal pick from 2026-11-22 05:02 | request from 2026-11-21 13:02
 OK   Josh Rouse — Street Lights | last aired 2026-11-18 06:22 | normal pick now | request now

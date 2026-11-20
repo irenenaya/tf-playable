@@ -1,4 +1,4 @@
-Track status, artists filed under CH (built Fri Nov 20, 10:25 AM PST (18:25 UTC)). Times in UTC.
+Track status, artists filed under CH (built Fri Nov 20, 10:45 AM PST (18:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Chaka Khan — What Cha' Gonna Do for Me | last aired 2026-11-19 12:47 | normal pick from 2026-11-21 00:47 | request now
@@ -10,7 +10,7 @@ OK   Charles Lloyd — You Are So Beautiful | last aired 2026-11-11 00:18 | norm
 WAIT Charles Mingus — Goodbye Pork Pie Hat (Album Version) | last aired 2026-11-19 12:51 | normal pick from 2026-11-21 00:51 | request now
 OK   Charles Mingus — Medley: Mode D - Trio And Group Dancers / Mode E - Single Solos And Group Dance / Mode F - Group And Solo Dance (Album Version) | last aired 2026-11-13 06:38 | normal pick now | request now
 OK   Charles Mingus — Track A - Solo Dancer (Stop! Look! And Listen, Sinner Jim Whitney!) (Album Version) | last aired 2026-11-06 10:31 | normal pick now | request now
-OK   Charles Wright & The Watts 103rd Street Rhythm Band — Express Yourself (Album Version) | last aired 2026-11-12 03:52 | normal pick now | request now
+WAIT Charles Wright & The Watts 103rd Street Rhythm Band — Express Yourself (Album Version) | last aired 2026-11-20 18:36 | normal pick from 2026-11-22 06:36 | request from 2026-11-21 14:36
 OK   Charli XCX — 360 | last aired 2026-11-11 00:11 | normal pick now | request now
 OK   Charly García — Demoliendo Hoteles (Live) | last aired 2026-11-18 11:41 | normal pick now | request now
 OK   Chavela Vargas — La llorona | last aired 2026-11-10 23:50 | normal pick now | request now
@@ -21,7 +21,7 @@ WAIT Chet Baker — You Don't Know What Love Is | last aired 2026-11-20 10:17 | 
 WAIT Chic — Good Times (2018 Remaster) | last aired 2026-11-20 15:23 | normal pick from 2026-11-22 15:23 | request from 2026-11-22 15:23
 WAIT Chicago — Hard to Say I'M Sorry / Get Away | last aired 2026-11-20 15:35 | normal pick from 2026-11-22 03:35 | request from 2026-11-21 11:35
 OK   Chico Buarque — Construção | last aired 2026-11-13 20:06 | normal pick now | request now
-OK   Child Seat — Heart To Heart | last aired 2026-11-12 03:43 | normal pick now | request now
+WAIT Child Seat — Heart To Heart | last aired 2026-11-20 18:40 | normal pick from 2026-11-22 06:40 | request from 2026-11-21 14:40
 OK   Child Seat — Hyperphantasia | last aired 2026-10-26 19:10 | normal pick now | request now
 OK   Chris Christodoulou — The Rain Formerly Known as Purple | last aired 2026-11-12 21:30 | normal pick now | request now
 OK   Chris De Burgh — The Getaway | last aired 2026-11-06 12:28 | normal pick now | request now
