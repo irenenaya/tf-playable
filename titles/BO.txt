@@ -1,9 +1,9 @@
-Track status, song titles filed under BO (built Fri Nov 20, 8:15 AM PST (16:15 UTC)). Times in UTC.
+Track status, song titles filed under BO (built Fri Nov 20, 8:25 AM PST (16:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Bocca di rosa — Fabrizio De Andrè | last aired 2026-11-20 02:59 | normal pick from 2026-11-21 14:59 | request from 2026-11-20 22:59
 WAIT Body and Soul — Coleman Hawkins & His Orchestra | last aired 2026-11-19 12:56 | normal pick from 2026-11-21 12:56 | request from 2026-11-21 12:56
-OK   Bohemian Rhapsody (Remastered 2011) — Queen | last aired 2026-11-16 20:07 | normal pick now | request now
+WAIT Bohemian Rhapsody (Remastered 2011) — Queen | last aired 2026-11-20 16:18 | normal pick from 2026-11-22 04:18 | request from 2026-11-21 12:18
 OK   Bohemian Rhapsody — Pellek | last aired 2026-11-18 18:01 | normal pick now | request now
 OK   Boilermaker — Royal Blood | last aired 2026-11-08 04:14 | normal pick now | request now
 OK   Boléro, M. 81 — Berliner Philharmoniker | last aired 2026-11-01 18:06 | normal pick now | request now
