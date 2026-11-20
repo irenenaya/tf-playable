@@ -1,4 +1,4 @@
-Track status, song titles filed under EN (built Thu Nov 19, 8:55 PM PST (04:55 UTC Fri)). Times in UTC.
+Track status, song titles filed under EN (built Thu Nov 19, 9:05 PM PST (05:05 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   En La Ciudad De La Furia (MTV Unplugged) — Soda Stereo | last aired 2026-11-18 10:38 | normal pick now | request now
@@ -12,5 +12,5 @@ OK   Enola Gay (Remastered 2003) — Orchestral Manoeuvres in the dark (OMD) | l
 WAIT Enter Galactic (Love Connection Part I) (Album Version (Explicit)) — Kid Cudi | last aired 2026-11-20 01:11 | normal pick from 2026-11-21 13:11 | request from 2026-11-20 21:11
 OK   Enter Sandman — Metallica | last aired 2026-11-17 19:58 | normal pick now | request now
 OK   Enthralldom — Iron Mountain | last aired 2026-10-23 21:44 | normal pick now | request now
-WAIT Entre Dos Aguas — Paco de Lucía | last aired 2026-11-18 16:58 | normal pick from 2026-11-20 04:58 | request now
+OK   Entre Dos Aguas — Paco de Lucía | last aired 2026-11-18 16:58 | normal pick now | request now
 WAIT The End of Radio — Shellac | last aired 2026-11-19 03:34 | normal pick from 2026-11-20 15:34 | request now

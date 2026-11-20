@@ -1,4 +1,4 @@
-Track status, artists filed under GO (built Thu Nov 19, 8:55 PM PST (04:55 UTC Fri)). Times in UTC.
+Track status, artists filed under GO (built Thu Nov 19, 9:05 PM PST (05:05 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Go_A — SHUM | last aired 2026-11-20 00:32 | normal pick from 2026-11-21 12:32 | request from 2026-11-20 20:32
@@ -9,8 +9,8 @@ OK   Goldmund — Threnody | last aired 2026-11-17 07:14 | normal pick now | req
 OK   Gonzales — Gogol | last aired 2026-11-08 02:33 | normal pick now | request now
 OK   Gordon Lightfoot — Wherefore and Why (LP Version) | last aired 2026-11-09 06:17 | normal pick now | request now
 OK   Gorillaz — Damascus (feat. Omar Souleyman and Yasiin Bey) | last aired 2026-11-17 10:39 | normal pick now | request now
-WAIT Gorillaz — Empire Ants (feat. Little Dragon) | last aired 2026-11-19 23:52 | normal pick from 2026-11-21 11:52 | request from 2026-11-20 19:52
-WAIT Gorillaz — Hong Kong | last aired 2026-11-20 00:53 | normal pick from 2026-11-21 12:53 | request from 2026-11-20 20:53
+WAIT Gorillaz — Empire Ants (feat. Little Dragon) | last aired 2026-11-19 23:53 | normal pick from 2026-11-21 11:53 | request from 2026-11-20 19:53
+WAIT Gorillaz — Hong Kong | last aired 2026-11-20 00:54 | normal pick from 2026-11-21 12:54 | request from 2026-11-20 20:54
 OK   Gorillaz — Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar) | last aired 2026-11-16 21:23 | normal pick now | request now
 OK   Gorillaz — Pac-Man (feat. ScHoolboy Q) | last aired 2026-11-18 00:11 | normal pick now | request now
 OK   Gorillaz — Rock the House | last aired 2026-11-18 01:19 | normal pick now | request now
