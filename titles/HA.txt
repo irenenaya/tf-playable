@@ -1,8 +1,8 @@
-Track status, song titles filed under HA (built Fri Nov 20, 1:55 PM PST (21:55 UTC)). Times in UTC.
+Track status, song titles filed under HA (built Fri Nov 20, 2:05 PM PST (22:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Halah — Mazzy Star | last aired 2026-11-20 07:09 | normal pick from 2026-11-22 07:09 | request from 2026-11-22 07:09
-WAIT Half Acre (Remastered 2025) — Hem | last aired 2026-11-20 19:38 | normal pick from 2026-11-22 07:38 | request from 2026-11-21 15:38
+WAIT Half Acre (Remastered 2025) — Hem | last aired 2026-11-20 19:39 | normal pick from 2026-11-22 07:39 | request from 2026-11-21 15:39
 WAIT Hall of Fame — The Script feat. will.i.am | last aired 2026-11-19 14:25 | normal pick from 2026-11-21 02:25 | request now
 OK   Hallelujah — Jeff Buckley | last aired 2026-11-17 17:57 | normal pick now | request now
 WAIT Hallelujah — Leonard Cohen | last aired 2026-11-19 14:49 | normal pick from 2026-11-21 02:49 | request now

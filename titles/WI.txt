@@ -1,4 +1,4 @@
-Track status, song titles filed under WI (built Fri Nov 20, 1:55 PM PST (21:55 UTC)). Times in UTC.
+Track status, song titles filed under WI (built Fri Nov 20, 2:05 PM PST (22:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Wicked Game (Remastered Album Version) — Chris Isaak | last aired 2026-11-06 17:17 | normal pick now | request now
@@ -6,7 +6,7 @@ OK   Wild Horses — The Sundays | last aired 2026-11-10 19:10 | normal pick now
 WAIT Wild Indian Woman — Free | last aired 2026-11-20 01:38 | normal pick from 2026-11-21 13:38 | request now
 OK   Wild Is the Wind (2016 Remaster) — David Bowie | last aired 2026-11-17 13:54 | normal pick now | request now
 WAIT Wild Is The Wind — Nina Simone | last aired 2026-11-19 19:39 | normal pick from 2026-11-21 19:39 | request from 2026-11-21 19:39
-WAIT Window Seat — Erykah Badu | last aired 2026-11-20 17:47 | normal pick from 2026-11-22 05:47 | request from 2026-11-21 13:47
+WAIT Window Seat — Erykah Badu | last aired 2026-11-20 17:47 | normal pick from 2026-11-22 17:47 | request from 2026-11-22 17:47
 OK   Windowlicker — Aphex Twin | last aired 2026-11-17 13:44 | normal pick now | request now
 OK   Wing — Patti Smith | last aired 2026-10-22 18:35 | normal pick now | request now
 OK   Winter — Tori Amos | last aired 2026-11-17 12:46 | normal pick now | request now
@@ -14,5 +14,5 @@ OK   Wish You Were Here — Pink Floyd | last aired 2026-11-16 16:38 | normal pi
 WAIT Wishmaster — Nightwish | last aired 2026-11-20 02:39 | normal pick from 2026-11-21 14:39 | request from 2026-11-20 22:39
 OK   Witchoo — Durand Jones & The Indications | last aired 2026-11-11 19:28 | normal pick now | request now
 OK   With A Little Help From My Friends (2017 Mix) — The Beatles | last aired 2026-11-14 13:41 | normal pick now | request now
-WAIT With A Little Help From My Friends — Joe Cocker | last aired 2026-11-20 19:33 | normal pick from 2026-11-22 07:33 | request from 2026-11-21 15:33
+WAIT With A Little Help From My Friends — Joe Cocker | last aired 2026-11-20 19:33 | normal pick from 2026-11-22 19:33 | request from 2026-11-22 19:33
 WAIT With Arms Wide Open — Creed | last aired 2026-11-20 03:23 | normal pick from 2026-11-21 15:23 | request from 2026-11-20 23:23
