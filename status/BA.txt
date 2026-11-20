@@ -1,10 +1,10 @@
-Track status, artists filed under BA (built Fri Nov 20, 2:55 AM PST (10:55 UTC)). Times in UTC.
+Track status, artists filed under BA (built Fri Nov 20, 3:05 AM PST (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Baby Face Willette — At Last | last aired 2026-11-19 12:21 | normal pick from 2026-11-21 00:21 | request now
 WAIT BABYMETAL — Gimme Chocolate!! | last aired 2026-11-19 18:44 | normal pick from 2026-11-21 06:44 | request from 2026-11-20 14:44
 WAIT BABYMETAL — Megitsune | last aired 2026-11-19 18:38 | normal pick from 2026-11-21 06:38 | request from 2026-11-20 14:38
-WAIT Bachman-Turner Overdrive — Takin' Care Of Business | last aired 2026-11-18 23:03 | normal pick from 2026-11-20 11:03 | request now
+OK   Bachman-Turner Overdrive — Takin' Care Of Business | last aired 2026-11-18 23:03 | normal pick now | request now
 WAIT Backstreet Boys — I Want It That Way | last aired 2026-11-19 12:07 | normal pick from 2026-11-21 00:07 | request now
 WAIT Backyard Babies — Minus Celsius | last aired 2026-11-19 12:18 | normal pick from 2026-11-21 00:18 | request now
 WAIT Bad Religion — 21st Century (Digital Boy) | last aired 2026-11-19 12:15 | normal pick from 2026-11-21 00:15 | request now
@@ -13,7 +13,7 @@ WAIT Banners — Shine A Light | last aired 2026-11-19 12:11 | normal pick from 
 WAIT Barbara Pravi — Voilà | last aired 2026-11-19 12:29 | normal pick from 2026-11-21 00:29 | request now
 WAIT Barbra Streisand — Woman in Love (Album Version) | last aired 2026-11-19 12:35 | normal pick from 2026-11-21 00:35 | request now
 WAIT Barrington Levy — Black Roses | last aired 2026-11-19 12:32 | normal pick from 2026-11-21 00:32 | request now
-WAIT Bart&Baker — Stop Googling Me ! | last aired 2026-11-19 15:03 | normal pick from 2026-11-21 03:03 | request from 2026-11-20 11:03
+WAIT Bart&Baker — Stop Googling Me ! | last aired 2026-11-19 15:03 | normal pick from 2026-11-21 03:03 | request now
 WAIT Bart&Baker — The Swing Phenomenon (Radio Edit) [feat. Nicolle Rochelle] | last aired 2026-11-19 12:39 | normal pick from 2026-11-21 00:39 | request now
 OK   Bauhaus — Ziggy Stardust | last aired 2026-10-30 23:20 | normal pick now | request now
 OK   The Band — The Weight (Remastered 2000) | last aired 2026-11-17 21:29 | normal pick now | request now
