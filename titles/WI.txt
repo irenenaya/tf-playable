@@ -1,4 +1,4 @@
-Track status, song titles filed under WI (built Sat Nov 21, 2:15 PM PST (22:15 UTC)). Times in UTC.
+Track status, song titles filed under WI (built Sat Nov 21, 2:25 PM PST (22:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Wicked Game (Remastered Album Version) — Chris Isaak | last aired 2026-11-06 17:17 | normal pick now | request now
@@ -15,4 +15,4 @@ OK   Wishmaster — Nightwish | last aired 2026-11-20 02:39 | normal pick now | 
 WAIT Witchoo — Durand Jones & The Indications | last aired 2026-11-21 11:01 | normal pick from 2026-11-22 23:01 | request from 2026-11-22 07:01
 OK   With A Little Help From My Friends (2017 Mix) — The Beatles | last aired 2026-11-14 13:41 | normal pick now | request now
 WAIT With A Little Help From My Friends — Joe Cocker | last aired 2026-11-20 19:33 | normal pick from 2026-11-22 19:33 | request from 2026-11-22 19:33
-OK   With Arms Wide Open — Creed | last aired 2026-11-20 03:23 | normal pick now | request now
+WAIT With Arms Wide Open — Creed | last aired 2026-11-21 22:15 | normal pick from 2026-11-23 10:15 | request from 2026-11-22 18:15
