@@ -1,4 +1,4 @@
-Track status, song titles filed under LO (built Sat Nov 21, 10:05 AM PST (18:05 UTC)). Times in UTC.
+Track status, song titles filed under LO (built Sat Nov 21, 10:15 AM PST (18:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT L-O-V-E — Nat King Cole | last aired 2026-11-20 08:48 | normal pick from 2026-11-22 08:48 | request from 2026-11-22 08:48
@@ -9,7 +9,7 @@ OK   London Calling — The Clash | last aired 2026-11-18 13:35 | normal pick no
 OK   Lonely in the Future — The Strokes | last aired 2026-11-17 21:07 | normal pick now | request now
 OK   Long Time Running — The Tragically Hip | last aired 2026-11-19 09:59 | normal pick now | request now
 WAIT Longing — Nusrat Fateh Ali Khan | last aired 2026-11-21 05:12 | normal pick from 2026-11-22 17:12 | request from 2026-11-22 01:12
-WAIT Loser — Beck | last aired 2026-11-19 18:08 | normal pick from 2026-11-21 18:08 | request from 2026-11-21 18:08
+OK   Loser — Beck | last aired 2026-11-19 18:08 | normal pick now | request now
 OK   Losing Faith — Tom Konkle | last aired 2026-11-16 20:44 | normal pick now | request now
 OK   Lost Coastlines — Okkervil River | last aired 2026-11-13 06:19 | normal pick now | request now
 OK   Lost in Music (1995 Remaster) (LP Version) — Sister Sledge | last aired 2026-11-11 14:57 | normal pick now | request now
