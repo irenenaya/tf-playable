@@ -1,4 +1,4 @@
-Track status, artists filed under CH (built Fri Nov 20, 10:45 PM PST (06:45 UTC Sat)). Times in UTC.
+Track status, artists filed under CH (built Fri Nov 20, 10:55 PM PST (06:55 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Chaka Khan — What Cha' Gonna Do for Me | last aired 2026-11-19 12:47 | normal pick now | request now
@@ -38,5 +38,5 @@ WAIT Christopher Cross — Sailing | last aired 2026-11-20 15:49 | normal pick f
 OK   Chuck Berry — Johnny B. Goode | last aired 2026-11-12 01:48 | normal pick now | request now
 OK   Chuck Mangione — Feels So Good | last aired 2026-11-06 12:08 | normal pick now | request now
 OK   CHVRCHES — Clearest Blue | last aired 2026-11-12 03:33 | normal pick now | request now
-OK   The Chills — Pink Frost | last aired 2026-11-12 01:54 | normal pick now | request now
+WAIT The Chills — Pink Frost | last aired 2026-11-21 06:45 | normal pick from 2026-11-22 18:45 | request from 2026-11-22 02:45
 OK   The Chordettes — Mr. Sandman | last aired 2026-10-18 04:36 | normal pick now | request now
