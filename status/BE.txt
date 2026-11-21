@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Sat Nov 21, 12:55 PM PST (20:55 UTC)). Times in UTC.
+Track status, artists filed under BE (built Sat Nov 21, 1:05 PM PST (21:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Beach House — Bluebird | last aired 2026-11-20 08:21 | normal pick from 2026-11-22 08:21 | request from 2026-11-22 08:21
@@ -29,10 +29,10 @@ WAIT Benny Sings — Sailing | last aired 2026-11-20 17:28 | normal pick from 20
 WAIT Benson Boone — Beautiful Things | last aired 2026-11-20 23:17 | normal pick from 2026-11-22 11:17 | request now
 OK   Berlin — Take My Breath Away | last aired 2026-11-16 00:27 | normal pick now | request now
 WAIT Berliner Philharmoniker — Boléro, M. 81 | last aired 2026-11-21 14:08 | normal pick from 2026-11-23 02:08 | request from 2026-11-22 10:08
-OK   Bernard Purdie — Cool Down | last aired 2026-11-16 00:07 | normal pick now | request now
+WAIT Bernard Purdie — Cool Down | last aired 2026-11-21 20:57 | normal pick from 2026-11-23 08:57 | request from 2026-11-22 16:57
 OK   Bert Kaempfert — A Swingin' Safari | last aired 2026-10-30 15:24 | normal pick now | request now
 OK   Betty Carter — Moonlight in Vermont | last aired 2026-11-15 23:50 | normal pick now | request now
-WAIT BETWEEN FRIENDS — affection | last aired 2026-11-21 00:58 | normal pick from 2026-11-22 12:58 | request from 2026-11-21 20:58
+WAIT BETWEEN FRIENDS — affection | last aired 2026-11-21 00:58 | normal pick from 2026-11-22 12:58 | request now
 WAIT Beyoncé — Crazy In Love | last aired 2026-11-21 15:05 | normal pick from 2026-11-23 03:05 | request from 2026-11-22 11:05
 OK   Beyoncé — TEXAS HOLD 'EM | last aired 2026-10-28 22:05 | normal pick now | request now
 OK   Béla Fleck — My Home's Across The Blue Ridge Mountains | last aired 2026-11-16 01:03 | normal pick now | request now

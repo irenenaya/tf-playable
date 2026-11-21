@@ -1,4 +1,4 @@
-Track status, song titles filed under VI (built Sat Nov 21, 12:55 PM PST (20:55 UTC)). Times in UTC.
+Track status, song titles filed under VI (built Sat Nov 21, 1:05 PM PST (21:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Via Con Me — Paolo Conte | last aired 2026-11-19 00:10 | normal pick now | request now
@@ -8,6 +8,6 @@ OK   Vida En El Espejo — Enjambre | last aired 2026-11-16 14:33 | normal pick 
 OK   Vienna (2008 Remaster) — Ultravox | last aired 2026-11-11 19:01 | normal pick now | request now
 WAIT Vienna (Album Version) — Billy Joel | last aired 2026-11-20 14:50 | normal pick from 2026-11-22 14:50 | request from 2026-11-22 14:50
 OK   Vienna Calling — Falco | last aired 2026-11-09 19:04 | normal pick now | request now
-OK   Viernes, 3AM (2019 Remasterizado) — Serú Girán | last aired 2026-11-18 20:01 | normal pick now | request now
+WAIT Viernes, 3AM (2019 Remasterizado) — Serú Girán | last aired 2026-11-21 21:01 | normal pick from 2026-11-23 09:01 | request from 2026-11-22 17:01
 WAIT Vincent — Don McLean | last aired 2026-11-20 09:09 | normal pick from 2026-11-21 21:09 | request now
 OK   Vía Láctea — Zoé | last aired 2026-11-20 01:46 | normal pick now | request now
