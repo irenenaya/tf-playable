@@ -1,4 +1,4 @@
-Track status, artists filed under GE (built Sat Nov 21, 11:55 AM PST (19:55 UTC)). Times in UTC.
+Track status, artists filed under GE (built Sat Nov 21, 12:05 PM PST (20:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Geese — Cowboy Nudes | last aired 2026-11-08 03:17 | normal pick now | request now
@@ -17,4 +17,4 @@ WAIT Gerry Rafferty — Baker Street | last aired 2026-11-20 16:37 | normal pick
 OK   Gerry Rafferty — Right Down the Line | last aired 2026-11-17 09:19 | normal pick now | request now
 OK   Gesu No Kiwami Otome — Revenge of Instinct | last aired 2026-10-16 03:03 | normal pick now | request now
 WAIT gesunokiwamiotome — watashi igai watashi ja naino | last aired 2026-11-20 22:19 | normal pick from 2026-11-22 10:19 | request now
-OK   Getatchèw Mèkurya — Shellela | last aired 2026-10-29 10:28 | normal pick now | request now
+WAIT Getatchèw Mèkurya — Shellela | last aired 2026-11-21 20:00 | normal pick from 2026-11-23 08:00 | request from 2026-11-22 16:00
