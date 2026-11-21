@@ -1,4 +1,4 @@
-Track status, artists filed under CL (built Sat Nov 21, 3:15 AM PST (11:15 UTC)). Times in UTC.
+Track status, artists filed under CL (built Sat Nov 21, 3:35 AM PST (11:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Claire Chevallier — Je te veux | last aired 2026-11-20 11:22 | normal pick from 2026-11-21 23:22 | request now
@@ -7,4 +7,4 @@ OK   Claude Debussy — Clair de Lune: I | last aired 2026-11-15 07:49 | normal 
 OK   Claudio Constantini — Noctilune No. 1 (Bandoneon Solo) | last aired 2026-11-13 01:00 | normal pick now | request now
 OK   Club Nouveau — Lean On Me | last aired 2026-11-18 13:29 | normal pick now | request now
 OK   The Clash — London Calling | last aired 2026-11-18 13:35 | normal pick now | request now
-WAIT The Clash — Should I Stay or Should I Go (Remastered) | last aired 2026-11-19 23:26 | normal pick from 2026-11-21 11:26 | request now
+OK   The Clash — Should I Stay or Should I Go (Remastered) | last aired 2026-11-19 23:26 | normal pick now | request now
