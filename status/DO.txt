@@ -1,4 +1,4 @@
-Track status, artists filed under DO (built Sat Nov 21, 1:05 AM PST (09:05 UTC)). Times in UTC.
+Track status, artists filed under DO (built Sat Nov 21, 1:15 AM PST (09:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Dolly Parton — 9 to 5 | last aired 2026-11-14 14:28 | normal pick now | request now
@@ -13,7 +13,7 @@ WAIT Donna Summer — I Feel Love | last aired 2026-11-20 15:31 | normal pick fr
 WAIT Donny Hathaway — A Song for You | last aired 2026-11-21 02:58 | normal pick from 2026-11-22 14:58 | request from 2026-11-21 22:58
 OK   Donny Hathaway — Jealous Guy (Live) | last aired 2026-11-16 15:30 | normal pick now | request now
 OK   Dope Lemon — Honey Bones | last aired 2026-10-31 20:02 | normal pick now | request now
-OK   Dorian Electra — Bizarre Love Triangle | last aired 2026-11-09 21:49 | normal pick now | request now
+WAIT Dorian Electra — Bizarre Love Triangle | last aired 2026-11-21 09:12 | normal pick from 2026-11-22 21:12 | request from 2026-11-22 05:12
 OK   Dorian Electra — Feel Good Inc. | last aired 2026-11-10 18:27 | normal pick now | request now
 OK   Dorian Electra — Hella Good | last aired 2026-10-25 13:14 | normal pick now | request now
 WAIT Dot Allison — Bleached By The Sun | last aired 2026-11-20 18:50 | normal pick from 2026-11-22 06:50 | request from 2026-11-21 14:50
