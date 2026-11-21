@@ -1,4 +1,4 @@
-Track status, song titles filed under TA (built Fri Nov 20, 9:35 PM PST (05:35 UTC Sat)). Times in UTC.
+Track status, song titles filed under TA (built Fri Nov 20, 9:45 PM PST (05:45 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Ta douleur — Camille | last aired 2026-11-18 11:28 | normal pick now | request now
@@ -7,8 +7,8 @@ OK   Tainted Love — Soft Cell | last aired 2026-11-18 20:35 | normal pick now 
 OK   Take Five — The Dave Brubeck Quartet | last aired 2026-11-16 12:12 | normal pick now | request now
 OK   Take It Easy — Eagles | last aired 2026-11-16 19:54 | normal pick now | request now
 OK   Take Me Back (Extended Mix) — Obie Fernandez | last aired 2026-10-18 02:50 | normal pick now | request now
-WAIT Take Me Home, Country Roads — John Denver | last aired 2026-11-19 05:42 | normal pick from 2026-11-21 05:42 | request from 2026-11-21 05:42
-OK   Take Me To Church — Hozier | last aired 2026-11-17 11:37 | normal pick now | request now
+OK   Take Me Home, Country Roads — John Denver | last aired 2026-11-19 05:42 | normal pick now | request now
+WAIT Take Me To Church — Hozier | last aired 2026-11-21 05:36 | normal pick from 2026-11-22 17:36 | request from 2026-11-22 01:36
 OK   Take My Breath Away — Berlin | last aired 2026-11-16 00:27 | normal pick now | request now
 OK   Take My Heart — Djivan Gasparyan | last aired 2026-11-11 19:32 | normal pick now | request now
 OK   Take on Me (2015 Remaster) — A-Ha | last aired 2026-10-31 19:14 | normal pick now | request now
