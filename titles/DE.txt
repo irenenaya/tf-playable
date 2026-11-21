@@ -1,8 +1,8 @@
-Track status, song titles filed under DE (built Fri Nov 20, 10:55 PM PST (06:55 UTC Sat)). Times in UTC.
+Track status, song titles filed under DE (built Fri Nov 20, 11:05 PM PST (07:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT De Música Ligera (Remasterizado 2007) — Soda Stereo | last aired 2026-11-20 18:43 | normal pick from 2026-11-22 18:43 | request from 2026-11-22 18:43
-WAIT Dead Ringer For Love (Album Version) — Meat Loaf | last aired 2026-11-19 19:00 | normal pick from 2026-11-21 07:00 | request now
+OK   Dead Ringer For Love (Album Version) — Meat Loaf | last aired 2026-11-19 19:00 | normal pick now | request now
 WAIT Dear Pressure — Miracles of Modern Science | last aired 2026-11-20 23:09 | normal pick from 2026-11-22 11:09 | request from 2026-11-21 19:09
 OK   Deep Blue Day (Remastered 2019) — Brian Eno | last aired 2026-11-17 08:24 | normal pick now | request now
 OK   Deep Sea Pastures (from 'Ponyo on the Cliff by the Sea') — Joe Hisaishi | last aired 2026-11-15 07:47 | normal pick now | request now
@@ -16,7 +16,7 @@ OK   Departures (from 'Departures') — Joe Hisaishi | last aired 2026-11-18 09:
 OK   Desert Rose (Album Version) — Sting | last aired 2026-11-01 21:16 | normal pick now | request now
 OK   Desolate July — Sons Of Apollo | last aired 2026-11-18 22:07 | normal pick now | request now
 OK   Despacito — Luis Fonsi | last aired 2026-10-22 13:36 | normal pick now | request now
-WAIT Desperado (Live On MTV, 1994) — Eagles | last aired 2026-11-21 02:44 | normal pick from 2026-11-22 14:44 | request from 2026-11-21 22:44
+WAIT Desperado (Live On MTV, 1994) — Eagles | last aired 2026-11-21 02:44 | normal pick from 2026-11-23 02:44 | request from 2026-11-23 02:44
 WAIT Desperados III Main Theme — Filippo Beck Peccoz | last aired 2026-11-20 22:51 | normal pick from 2026-11-22 10:51 | request from 2026-11-21 18:51
 OK   Detectorists (Original Soundtrack from the TV Series) — Johnny Flynn | last aired 2026-10-23 05:38 | normal pick now | request now
 WAIT Deutschland — Rammstein | last aired 2026-11-20 21:04 | normal pick from 2026-11-22 21:04 | request from 2026-11-22 21:04
