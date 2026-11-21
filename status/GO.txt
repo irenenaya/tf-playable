@@ -1,4 +1,4 @@
-Track status, artists filed under GO (built Sat Nov 21, 2:55 AM PST (10:55 UTC)). Times in UTC.
+Track status, artists filed under GO (built Sat Nov 21, 3:05 AM PST (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Go_A — SHUM | last aired 2026-11-20 00:32 | normal pick from 2026-11-21 12:32 | request now
@@ -18,4 +18,4 @@ OK   Gorillaz — Souk Eye | last aired 2026-11-17 23:11 | normal pick now | req
 OK   Gorillaz — The Empty Dream Machine (feat. Black Thought, Johnny Marr and Anoushka Shankar) | last aired 2026-11-18 02:05 | normal pick now | request now
 OK   Gotan Project — Queremos paz | last aired 2026-11-16 23:20 | normal pick now | request now
 OK   Gotan Project — Santa María (del Buen Ayre) | last aired 2026-11-17 00:05 | normal pick now | request now
-WAIT The Good, The Bad & The Queen — History Song | last aired 2026-11-21 08:14 | normal pick from 2026-11-22 20:14 | request from 2026-11-22 04:14
+WAIT The Good, The Bad & The Queen — History Song | last aired 2026-11-21 08:15 | normal pick from 2026-11-22 20:15 | request from 2026-11-22 04:15
