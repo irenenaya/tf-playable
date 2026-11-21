@@ -1,9 +1,9 @@
-Track status, song titles filed under PA (built Fri Nov 20, 7:25 PM PST (03:25 UTC Sat)). Times in UTC.
+Track status, song titles filed under PA (built Fri Nov 20, 7:35 PM PST (03:35 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Pac-Man (feat. ScHoolboy Q) — Gorillaz | last aired 2026-11-18 00:11 | normal pick now | request now
 OK   Pacific Summits (Pulse Version) — Heathered Pearls | last aired 2026-11-16 16:22 | normal pick now | request now
-OK   Pagan Poetry — Björk | last aired 2026-11-14 13:00 | normal pick now | request now
+WAIT Pagan Poetry — Björk | last aired 2026-11-21 03:22 | normal pick from 2026-11-22 15:22 | request from 2026-11-21 23:22
 OK   Paid In Full — Eric B. & Rakim | last aired 2026-11-10 18:09 | normal pick now | request now
 OK   Paint It, Black — The Rolling Stones | last aired 2026-11-14 06:02 | normal pick now | request now
 OK   Panic Attack (Album Version) — Dream Theater | last aired 2026-11-09 21:23 | normal pick now | request now
