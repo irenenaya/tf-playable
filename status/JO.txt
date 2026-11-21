@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Fri Nov 20, 6:55 PM PST (02:55 UTC Sat)). Times in UTC.
+Track status, artists filed under JO (built Fri Nov 20, 7:05 PM PST (03:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-11-18 08:30 | normal pick now | request now
@@ -24,7 +24,7 @@ OK   John Carpenter — Halloween Theme | last aired 2026-11-19 00:55 | normal p
 WAIT John Coltrane — Lush Life | last aired 2026-11-19 05:37 | normal pick from 2026-11-21 05:37 | request from 2026-11-21 05:37
 OK   John Coltrane — My Favorite Things | last aired 2026-11-18 05:55 | normal pick now | request now
 WAIT John Denver — Take Me Home, Country Roads | last aired 2026-11-19 05:42 | normal pick from 2026-11-21 05:42 | request from 2026-11-21 05:42
-WAIT John Lee Hooker — Boom Boom | last aired 2026-11-21 01:59 | normal pick from 2026-11-22 13:59 | request from 2026-11-21 21:59
+WAIT John Lee Hooker — Boom Boom | last aired 2026-11-21 01:59 | normal pick from 2026-11-23 01:59 | request from 2026-11-23 01:59
 OK   John Lee Hooker — I Cover the Waterfront | last aired 2026-11-18 08:11 | normal pick now | request now
 OK   John Lennon — Give Peace A Chance (Remastered 2010) | last aired 2026-11-09 22:36 | normal pick now | request now
 OK   John Lennon — Imagine (Remastered 2010) | last aired 2026-11-19 06:47 | normal pick now | request now
@@ -42,7 +42,7 @@ OK   Johnny Cash — Ring of Fire | last aired 2026-11-17 11:24 | normal pick no
 OK   Johnny Flynn — Detectorists (Original Soundtrack from the TV Series) | last aired 2026-10-23 05:38 | normal pick now | request now
 OK   Johnny Mathis — Wonderful! Wonderful! | last aired 2026-11-18 06:09 | normal pick now | request now
 OK   Joker Out — Novi Val | last aired 2026-11-16 20:53 | normal pick now | request now
-WAIT Jon Hopkins — Open Eye Signal (Remaster 2023) | last aired 2026-11-20 07:27 | normal pick from 2026-11-22 07:27 | request from 2026-11-22 07:27
+WAIT Jon Hopkins — Open Eye Signal (Remaster 2023) | last aired 2026-11-20 07:27 | normal pick from 2026-11-21 19:27 | request from 2026-11-21 03:27
 WAIT Jon Hopkins — Small Memory | last aired 2026-11-20 12:03 | normal pick from 2026-11-22 00:03 | request from 2026-11-21 08:03
 OK   Jonathan Parecki — Senbonzakura (Hatsune Miku) | last aired 2026-09-02 17:36 | normal pick now | request now
 WAIT Joni Mitchell — A Case of You | last aired 2026-11-20 13:14 | normal pick from 2026-11-22 13:14 | request from 2026-11-22 13:14

@@ -1,4 +1,4 @@
-Track status, song titles filed under WH (built Fri Nov 20, 6:55 PM PST (02:55 UTC Sat)). Times in UTC.
+Track status, song titles filed under WH (built Fri Nov 20, 7:05 PM PST (03:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Whistleblowers — Laibach | last aired 2026-10-26 00:33 | normal pick now | request now
@@ -7,7 +7,7 @@ WAIT What a Fool Believes — The Doobie Brothers | last aired 2026-11-20 15:46 
 OK   What About Us — P!nk | last aired 2026-10-20 23:05 | normal pick now | request now
 OK   What Cha' Gonna Do for Me — Chaka Khan | last aired 2026-11-19 12:47 | normal pick now | request now
 OK   What I'm Becoming — Cage The Elephant | last aired 2026-11-18 23:13 | normal pick now | request now
-WAIT What Is Love (7" Mix) (Remastered 2025) (7" Mix / Remastered 2025) — Haddaway | last aired 2026-11-21 00:11 | normal pick from 2026-11-22 12:11 | request from 2026-11-21 20:11
+WAIT What Is Love (7" Mix) (Remastered 2025) (7" Mix / Remastered 2025) — Haddaway | last aired 2026-11-21 00:11 | normal pick from 2026-11-23 00:11 | request from 2026-11-23 00:11
 OK   What Is Love (Lynx & Pico Remix) — Haddaway | last aired 2026-11-18 21:43 | normal pick now | request now
 WAIT What Was I Made For? [From The Motion Picture "Barbie"] — Billie Eilish | last aired 2026-11-20 22:36 | normal pick from 2026-11-22 22:36 | request from 2026-11-22 22:36
 OK   What You Won't Do for Love — Bobby Caldwell | last aired 2026-11-15 09:15 | normal pick now | request now
@@ -31,7 +31,7 @@ OK   White Winter Hymnal — Fleet Foxes | last aired 2026-11-18 13:23 | normal 
 OK   Who Is It — Michael Jackson | last aired 2026-11-18 23:59 | normal pick now | request now
 OK   Who Knew (Main Version) — P!nk | last aired 2026-09-12 18:53 | normal pick now | request now
 OK   Who Knows Where The Time Goes? — Fairport Convention | last aired 2026-11-01 11:34 | normal pick now | request now
-WAIT Who's That What's That — Niko B | last aired 2026-11-20 23:20 | normal pick from 2026-11-22 11:20 | request from 2026-11-21 19:20
+WAIT Who's That What's That — Niko B | last aired 2026-11-20 23:20 | normal pick from 2026-11-22 23:20 | request from 2026-11-22 23:20
 OK   Whole Lotta Love (Remaster) — Led Zeppelin | last aired 2026-11-17 18:28 | normal pick now | request now
 OK   Wholy Holy — Aretha Franklin | last aired 2026-11-19 11:08 | normal pick now | request now
 OK   Wholy Holy — Marvin Gaye | last aired 2026-11-18 03:46 | normal pick now | request now

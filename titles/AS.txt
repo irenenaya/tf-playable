@@ -1,7 +1,7 @@
-Track status, song titles filed under AS (built Fri Nov 20, 6:55 PM PST (02:55 UTC Sat)). Times in UTC.
+Track status, song titles filed under AS (built Fri Nov 20, 7:05 PM PST (03:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   A Song for You — Donny Hathaway | last aired 2026-11-16 13:24 | normal pick now | request now
+WAIT A Song for You — Donny Hathaway | last aired 2026-11-21 02:58 | normal pick from 2026-11-22 14:58 | request from 2026-11-21 22:58
 OK   A Sorta Fairytale (2023 Remaster) — Tori Amos | last aired 2026-11-17 12:10 | normal pick now | request now
 OK   A Stream With Bright Fish (2005 Digital Remaster) — Harold Budd | last aired 2026-11-17 07:47 | normal pick now | request now
 OK   A Swingin' Safari — Bert Kaempfert | last aired 2026-10-30 15:24 | normal pick now | request now
