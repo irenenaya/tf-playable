@@ -1,7 +1,7 @@
-Track status, artists filed under RO (built Sat Nov 21, 5:25 AM PST (13:25 UTC)). Times in UTC.
+Track status, artists filed under RO (built Sat Nov 21, 5:35 AM PST (13:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Robbie Dupree — Steal Away | last aired 2026-11-19 13:27 | normal pick from 2026-11-21 13:27 | request from 2026-11-21 13:27
+OK   Robbie Dupree — Steal Away | last aired 2026-11-19 13:27 | normal pick now | request now
 WAIT Robbie Robertson — Coyote Dance | last aired 2026-11-21 08:34 | normal pick from 2026-11-23 08:34 | request from 2026-11-23 08:34
 OK   Robert Fripp — Here Comes The Flood (Exposure Fourth Edition: 2021 Stereo Mix) | last aired 2026-11-18 19:21 | normal pick now | request now
 OK   Robert Johnson — Cross Road Blues | last aired 2026-11-18 19:14 | normal pick now | request now
@@ -10,7 +10,7 @@ OK   Roberta Flack — Killing Me Softly With His Song | last aired 2026-11-18 1
 WAIT Roberta Flack — The First Time Ever I Saw Your Face (2020 Remaster) | last aired 2026-11-19 13:38 | normal pick from 2026-11-21 13:38 | request from 2026-11-21 13:38
 OK   Robin Packalen — Kesärenkaat | last aired 2026-11-19 15:15 | normal pick now | request now
 OK   Rock appetizers — Child in Time (Special Version) | last aired 2026-09-22 21:18 | normal pick now | request now
-WAIT Rodrigo Leão — Pasión (Album Version) | last aired 2026-11-19 13:34 | normal pick from 2026-11-21 13:34 | request from 2026-11-21 13:34
+OK   Rodrigo Leão — Pasión (Album Version) | last aired 2026-11-19 13:34 | normal pick now | request now
 WAIT Rodrigo y Gabriela — Libertango | last aired 2026-11-19 13:47 | normal pick from 2026-11-21 13:47 | request from 2026-11-21 13:47
 WAIT Roland Dyens — Fuoco (Libra Sonatine) | last aired 2026-11-21 04:51 | normal pick from 2026-11-22 16:51 | request from 2026-11-22 00:51
 OK   Ron Gallo — Young Lady, You're Scaring Me | last aired 2026-11-19 13:31 | normal pick now | request now
