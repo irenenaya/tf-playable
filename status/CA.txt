@@ -1,9 +1,9 @@
-Track status, artists filed under CA (built Sat Nov 21, 12:25 AM PST (08:25 UTC)). Times in UTC.
+Track status, artists filed under CA (built Sat Nov 21, 12:35 AM PST (08:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Caetano Veloso — O Leãozinho (Ao Vivo) | last aired 2026-11-18 12:03 | normal pick now | request now
 OK   Caetano Veloso — Tropicália (Remastered 2006) | last aired 2026-11-18 11:24 | normal pick now | request now
-OK   Café Tacvba — Eres (Album Version) | last aired 2026-11-18 11:36 | normal pick now | request now
+WAIT Café Tacvba — Eres (Album Version) | last aired 2026-11-21 08:29 | normal pick from 2026-11-23 08:29 | request from 2026-11-23 08:29
 OK   Cage The Elephant — What I'm Becoming | last aired 2026-11-18 23:13 | normal pick now | request now
 OK   Caifanes — Afuera | last aired 2026-11-18 11:31 | normal pick now | request now
 OK   Caifanes — La Negra Tomasa (Bilongo - Version Tropical) | last aired 2026-11-19 03:53 | normal pick now | request now
