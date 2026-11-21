@@ -1,4 +1,4 @@
-Track status, song titles filed under FL (built Fri Nov 20, 11:05 PM PST (07:05 UTC Sat)). Times in UTC.
+Track status, song titles filed under FL (built Fri Nov 20, 11:15 PM PST (07:15 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Flaca — Andrés Calamaro | last aired 2026-11-21 04:01 | normal pick from 2026-11-23 04:01 | request from 2026-11-23 04:01
@@ -7,7 +7,7 @@ OK   Flash (Remastered 2011) — Queen | last aired 2026-11-16 17:29 | normal pi
 OK   Flashdance...What a Feeling (Radio Edit) — Irene Cara | last aired 2026-11-07 04:30 | normal pick now | request now
 OK   Flight From The City - Jóhannsson: Flight from the City — Johann Johannsson | last aired 2026-11-16 03:28 | normal pick now | request now
 OK   Flim — Aphex Twin | last aired 2026-11-17 11:47 | normal pick now | request now
-WAIT Float On — Modest Mouse | last aired 2026-11-19 19:14 | normal pick from 2026-11-21 07:14 | request now
+OK   Float On — Modest Mouse | last aired 2026-11-19 19:14 | normal pick now | request now
 OK   Flood — Jars Of Clay | last aired 2026-11-19 04:05 | normal pick now | request now
 OK   Flowers — In Love With a Ghost | last aired 2026-11-19 08:32 | normal pick now | request now
 OK   Flowers — Miley Cyrus | last aired 2026-11-17 16:22 | normal pick now | request now
