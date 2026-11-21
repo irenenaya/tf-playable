@@ -1,4 +1,4 @@
-Track status, artists filed under BR (built Sat Nov 21, 3:55 AM PST (11:55 UTC)). Times in UTC.
+Track status, artists filed under BR (built Sat Nov 21, 4:05 AM PST (12:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Brainstory — Mnemophobia | last aired 2026-11-19 17:33 | normal pick now | request now
@@ -12,7 +12,7 @@ OK   Brian Eno — Deep Blue Day (Remastered 2019) | last aired 2026-11-17 08:24
 WAIT Brian Eno — Fullness Of Wind (Variation On 'The Canon In D Major' By Johann Pachelbel) (Remastered 2004) | last aired 2026-11-20 07:52 | normal pick from 2026-11-22 07:52 | request from 2026-11-22 07:52
 OK   Brian Eno — Spinning Away | last aired 2026-11-15 06:59 | normal pick now | request now
 OK   Brian Eno — The Big Ship (2004 Remaster) | last aired 2026-11-19 07:38 | normal pick now | request now
-OK   Brijean — Counting Sheep | last aired 2026-11-12 07:26 | normal pick now | request now
+WAIT Brijean — Counting Sheep | last aired 2026-11-21 12:00 | normal pick from 2026-11-23 00:00 | request from 2026-11-22 08:00
 OK   Bring Me The Horizon — Blessed with a Curse | last aired 2026-11-09 22:57 | normal pick now | request now
 OK   Bruce Kaphan — Clouds | last aired 2026-11-12 05:11 | normal pick now | request now
 OK   Bruce Springsteen — Born in the U.S.A. | last aired 2026-11-16 18:59 | normal pick now | request now
