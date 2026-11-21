@@ -1,4 +1,4 @@
-Track status, song titles filed under DE (built Fri Nov 20, 6:45 PM PST (02:45 UTC Sat)). Times in UTC.
+Track status, song titles filed under DE (built Fri Nov 20, 6:55 PM PST (02:55 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT De Música Ligera (Remasterizado 2007) — Soda Stereo | last aired 2026-11-20 18:43 | normal pick from 2026-11-22 18:43 | request from 2026-11-22 18:43
@@ -16,7 +16,7 @@ OK   Departures (from 'Departures') — Joe Hisaishi | last aired 2026-11-18 09:
 OK   Desert Rose (Album Version) — Sting | last aired 2026-11-01 21:16 | normal pick now | request now
 OK   Desolate July — Sons Of Apollo | last aired 2026-11-18 22:07 | normal pick now | request now
 OK   Despacito — Luis Fonsi | last aired 2026-10-22 13:36 | normal pick now | request now
-OK   Desperado (Live On MTV, 1994) — Eagles | last aired 2026-11-16 18:49 | normal pick now | request now
+WAIT Desperado (Live On MTV, 1994) — Eagles | last aired 2026-11-21 02:44 | normal pick from 2026-11-22 14:44 | request from 2026-11-21 22:44
 WAIT Desperados III Main Theme — Filippo Beck Peccoz | last aired 2026-11-20 22:51 | normal pick from 2026-11-22 10:51 | request from 2026-11-21 18:51
 OK   Detectorists (Original Soundtrack from the TV Series) — Johnny Flynn | last aired 2026-10-23 05:38 | normal pick now | request now
 WAIT Deutschland — Rammstein | last aired 2026-11-20 21:04 | normal pick from 2026-11-22 21:04 | request from 2026-11-22 21:04
