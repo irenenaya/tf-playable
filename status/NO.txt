@@ -1,4 +1,4 @@
-Track status, artists filed under NO (built Fri Nov 20, 9:55 PM PST (05:55 UTC Sat)). Times in UTC.
+Track status, artists filed under NO (built Fri Nov 20, 10:05 PM PST (06:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT No Vacation — Waltzing Back | last aired 2026-11-20 17:44 | normal pick from 2026-11-22 17:44 | request from 2026-11-22 17:44
@@ -8,4 +8,4 @@ OK   Noizu — Summer 91 (Looking Back) | last aired 2026-11-19 17:55 | normal p
 WAIT Noizu — Summer 91 (Looking Back) (Acoustic) | last aired 2026-11-21 03:12 | normal pick from 2026-11-22 15:12 | request from 2026-11-21 23:12
 WAIT Norah Jones — Summertime Blue | last aired 2026-11-20 10:35 | normal pick from 2026-11-22 10:35 | request from 2026-11-22 10:35
 OK   Not Tomorrow Night — Duel of the Fates (From "Star Wars") | last aired 2026-09-21 02:10 | normal pick now | request now
-WAIT Nothing More — SPIRITS | last aired 2026-11-19 17:58 | normal pick from 2026-11-21 05:58 | request now
+OK   Nothing More — SPIRITS | last aired 2026-11-19 17:58 | normal pick now | request now
