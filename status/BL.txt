@@ -1,4 +1,4 @@
-Track status, artists filed under BL (built Sat Nov 21, 8:15 AM PST (16:15 UTC)). Times in UTC.
+Track status, artists filed under BL (built Sat Nov 21, 8:25 AM PST (16:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Black Sabbath — Paranoid | last aired 2026-11-12 15:31 | normal pick now | request now
@@ -7,7 +7,7 @@ OK   Blank & Jones — Get Down (Rediscovered) | last aired 2026-11-19 17:11 | n
 OK   Bleachers — I Wanna Get Better | last aired 2026-11-19 17:07 | normal pick now | request now
 OK   Blind Guardian — Mirror Mirror (Remastered 2007) | last aired 2026-11-19 17:17 | normal pick now | request now
 OK   blink-182 — All The Small Things | last aired 2026-11-04 23:15 | normal pick now | request now
-OK   Blondie — Call Me | last aired 2026-10-30 11:44 | normal pick now | request now
+WAIT Blondie — Call Me | last aired 2026-11-21 16:16 | normal pick from 2026-11-23 04:16 | request from 2026-11-22 12:16
 OK   Bloodhound Gang — Mope (Album Version) | last aired 2026-10-20 13:28 | normal pick now | request now
 OK   Blossom Dearie — It Amazes Me | last aired 2026-11-04 15:36 | normal pick now | request now
 WAIT Blue Murder — Still Of The Night (Live In Tokyo, Japan / 1993) | last aired 2026-11-21 15:20 | normal pick from 2026-11-23 03:20 | request from 2026-11-22 11:20

@@ -1,4 +1,4 @@
-Track status, song titles filed under SU (built Sat Nov 21, 8:15 AM PST (16:15 UTC)). Times in UTC.
+Track status, song titles filed under SU (built Sat Nov 21, 8:25 AM PST (16:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Subterraneans (2017 Remaster) — David Bowie | last aired 2026-11-16 18:43 | normal pick now | request now
@@ -14,7 +14,7 @@ OK   Summer 91 (Looking Back) — Noizu | last aired 2026-11-19 17:55 | normal p
 WAIT Summer Moved On (2019 Remaster) — A-Ha | last aired 2026-11-21 13:02 | normal pick from 2026-11-23 01:02 | request from 2026-11-22 09:02
 WAIT Summer Soft — Stevie Wonder | last aired 2026-11-20 13:54 | normal pick from 2026-11-22 01:54 | request now
 WAIT Summertime Blue — Norah Jones | last aired 2026-11-20 10:35 | normal pick from 2026-11-22 10:35 | request from 2026-11-22 10:35
-WAIT Summertime — Ella Fitzgerald | last aired 2026-11-19 16:25 | normal pick from 2026-11-21 16:25 | request from 2026-11-21 16:25
+OK   Summertime — Ella Fitzgerald | last aired 2026-11-19 16:25 | normal pick now | request now
 OK   Sunny — Boney M. | last aired 2026-11-15 09:20 | normal pick now | request now
 OK   Sunny — James Brown | last aired 2026-11-15 14:28 | normal pick now | request now
 OK   Sunrain — Ashra | last aired 2026-11-13 09:28 | normal pick now | request now
