@@ -1,11 +1,11 @@
-Track status, song titles filed under SA (built Sat Nov 21, 3:45 AM PST (11:45 UTC)). Times in UTC.
+Track status, song titles filed under SA (built Sat Nov 21, 3:55 AM PST (11:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Sabotage — Beastie Boys | last aired 2026-11-20 23:52 | normal pick from 2026-11-22 11:52 | request from 2026-11-21 19:52
 WAIT Sad Eyed Lady Of The Low Life — Alabama 3 | last aired 2026-11-21 00:30 | normal pick from 2026-11-22 12:30 | request from 2026-11-21 20:30
 OK   Sad Robot — Pornophonique | last aired 2026-11-19 09:18 | normal pick now | request now
 WAIT Sailing — Benny Sings | last aired 2026-11-20 17:28 | normal pick from 2026-11-22 17:28 | request from 2026-11-22 17:28
-WAIT Sailing — Christopher Cross | last aired 2026-11-20 15:49 | normal pick from 2026-11-22 03:49 | request from 2026-11-21 11:49
+WAIT Sailing — Christopher Cross | last aired 2026-11-20 15:49 | normal pick from 2026-11-22 03:49 | request now
 WAIT Sailor Song — Gigi Perez | last aired 2026-11-21 06:49 | normal pick from 2026-11-22 18:49 | request from 2026-11-22 02:49
 OK   Saku — Susumu Yokota | last aired 2026-11-12 19:14 | normal pick now | request now
 OK   Salomila (Live) — Ledward Kaapana | last aired 2026-11-18 13:10 | normal pick now | request now
@@ -25,6 +25,6 @@ WAIT Saturn — Sleeping At Last | last aired 2026-11-20 08:25 | normal pick fro
 WAIT Saudade — Love and Rockets | last aired 2026-11-21 10:51 | normal pick from 2026-11-22 22:51 | request from 2026-11-22 06:51
 OK   Save The Children — Marvin Gaye | last aired 2026-11-18 07:50 | normal pick now | request now
 WAIT Saving All My Love for You — Whitney Houston | last aired 2026-11-20 03:10 | normal pick from 2026-11-21 15:10 | request now
-OK   Say My Name (feat. Zyra) — ODESZA | last aired 2026-10-27 00:28 | normal pick now | request now
+WAIT Say My Name (feat. Zyra) — ODESZA | last aired 2026-11-21 11:48 | normal pick from 2026-11-22 23:48 | request from 2026-11-22 07:48
 OK   Says — Nils Frahm | last aired 2026-11-18 07:38 | normal pick now | request now
 OK   The Saturday Disco — Tom Robinson | last aired 2026-10-24 21:03 | normal pick now | request now
