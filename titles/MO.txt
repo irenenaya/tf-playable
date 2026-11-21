@@ -1,4 +1,4 @@
-Track status, song titles filed under MO (built Sat Nov 21, 11:15 AM PST (19:15 UTC)). Times in UTC.
+Track status, song titles filed under MO (built Sat Nov 21, 11:25 AM PST (19:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Molitva — Marija Šerifović | last aired 2026-11-18 15:53 | normal pick now | request now
@@ -18,7 +18,7 @@ OK   Moonlight in Vermont — Betty Carter | last aired 2026-11-15 23:50 | norma
 OK   Moonlight Shadow — Mike Oldfield | last aired 2026-11-19 10:11 | normal pick now | request now
 OK   Mope (Album Version) — Bloodhound Gang | last aired 2026-10-20 13:28 | normal pick now | request now
 OK   MORAK — Manal | last aired 2026-11-01 08:42 | normal pick now | request now
-WAIT More Love — Kim Carnes | last aired 2026-11-19 19:23 | normal pick from 2026-11-21 19:23 | request from 2026-11-21 19:23
+OK   More Love — Kim Carnes | last aired 2026-11-19 19:23 | normal pick now | request now
 WAIT More Than A Friend — TilaR | last aired 2026-11-20 21:51 | normal pick from 2026-11-22 09:51 | request now
 WAIT More Than Words — Extreme | last aired 2026-11-21 14:03 | normal pick from 2026-11-23 02:03 | request from 2026-11-22 10:03
 OK   Morphine (Album Version) — Michael Jackson | last aired 2026-11-19 10:52 | normal pick now | request now
