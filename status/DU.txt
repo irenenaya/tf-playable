@@ -1,9 +1,9 @@
-Track status, artists filed under DU (built Sat Nov 21, 6:55 AM PST (14:55 UTC)). Times in UTC.
+Track status, artists filed under DU (built Sat Nov 21, 7:05 AM PST (15:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Dua Lipa — Don't Start Now | last aired 2026-11-17 21:04 | normal pick now | request now
 OK   Dua Lipa — Future Nostalgia | last aired 2026-11-17 19:25 | normal pick now | request now
-WAIT Dua Lipa — Houdini | last aired 2026-11-20 02:56 | normal pick from 2026-11-21 14:56 | request now
+OK   Dua Lipa — Houdini | last aired 2026-11-20 02:56 | normal pick now | request now
 OK   Dua Lipa — Training Season | last aired 2026-11-17 20:37 | normal pick now | request now
 OK   Duke Ellington — In A Sentimental Mood | last aired 2026-11-18 12:26 | normal pick now | request now
 OK   Duncan Laurence — Arcade (feat. FLETCHER) | last aired 2026-11-18 13:42 | normal pick now | request now
@@ -11,6 +11,6 @@ OK   Duncan Sheik — Barely Breathing | last aired 2026-09-19 22:14 | normal pi
 OK   Duran Duran — Notorious (2010 Remaster) | last aired 2026-11-11 19:10 | normal pick now | request now
 OK   Duran Duran — Ordinary World | last aired 2026-11-12 16:28 | normal pick now | request now
 OK   Duran Duran — PSYCHO KILLER (feat. Victoria De Angelis) (Cover) | last aired 2026-10-26 22:07 | normal pick now | request now
-WAIT Durand Jones & The Indications — Witchoo | last aired 2026-11-21 11:00 | normal pick from 2026-11-22 23:00 | request from 2026-11-22 07:00
+WAIT Durand Jones & The Indications — Witchoo | last aired 2026-11-21 11:01 | normal pick from 2026-11-22 23:01 | request from 2026-11-22 07:01
 OK   Dutyyaknow — Close in the Distance (FFXIV Endwalker) [Synthwave] | last aired 2026-11-11 18:47 | normal pick now | request now
 OK   Dúné — Hardcore Vibes | last aired 2026-11-02 00:12 | normal pick now | request now
