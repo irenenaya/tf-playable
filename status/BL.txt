@@ -1,10 +1,10 @@
-Track status, artists filed under BL (built Sat Nov 21, 9:55 AM PST (17:55 UTC)). Times in UTC.
+Track status, artists filed under BL (built Sat Nov 21, 10:05 AM PST (18:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Black Sabbath — Paranoid | last aired 2026-11-12 15:31 | normal pick now | request now
 OK   Blake Shelton — Austin | last aired 2026-11-05 04:38 | normal pick now | request now
 OK   Blank & Jones — Get Down (Rediscovered) | last aired 2026-11-19 17:11 | normal pick now | request now
-OK   Bleachers — I Wanna Get Better | last aired 2026-11-19 17:07 | normal pick now | request now
+WAIT Bleachers — I Wanna Get Better | last aired 2026-11-21 17:53 | normal pick from 2026-11-23 05:53 | request from 2026-11-22 13:53
 OK   Blind Guardian — Mirror Mirror (Remastered 2007) | last aired 2026-11-19 17:17 | normal pick now | request now
 OK   blink-182 — All The Small Things | last aired 2026-11-04 23:15 | normal pick now | request now
 WAIT Blondie — Call Me | last aired 2026-11-21 16:16 | normal pick from 2026-11-23 04:16 | request from 2026-11-22 12:16
