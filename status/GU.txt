@@ -1,4 +1,4 @@
-Track status, artists filed under GU (built Fri Nov 20, 6:15 PM PST (02:15 UTC Sat)). Times in UTC.
+Track status, artists filed under GU (built Fri Nov 20, 6:25 PM PST (02:25 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Guitar Tribute Players — Angel of Small Death and the Codeine Scene | last aired 2026-08-12 16:17 | normal pick now | request now
@@ -6,5 +6,5 @@ OK   Guns N' Roses — Paradise City | last aired 2026-10-30 00:04 | normal pick
 OK   Guns N' Roses — Sweet Child O' Mine | last aired 2026-10-23 11:20 | normal pick now | request now
 WAIT Gus Dapperton — Ditch | last aired 2026-11-20 09:14 | normal pick from 2026-11-21 21:14 | request from 2026-11-21 05:14
 WAIT Gustavo Cerati — Crimen | last aired 2026-11-20 09:17 | normal pick from 2026-11-21 21:17 | request from 2026-11-21 05:17
-OK   Gustavo Cerati — Puente | last aired 2026-11-18 09:47 | normal pick now | request now
+WAIT Gustavo Cerati — Puente | last aired 2026-11-21 02:14 | normal pick from 2026-11-22 14:14 | request from 2026-11-21 22:14
 OK   Guts — Laisser Lucie faire | last aired 2026-10-23 06:39 | normal pick now | request now
