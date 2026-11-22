@@ -1,7 +1,7 @@
-Track status, artists filed under EN (built Sun Nov 22, 4:55 AM PST (12:55 UTC)). Times in UTC.
+Track status, artists filed under EN (built Sun Nov 22, 5:05 AM PST (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Enjambre — Vida En El Espejo | last aired 2026-11-22 03:11 | normal pick from 2026-11-23 15:11 | request from 2026-11-22 23:11
 WAIT Ennio Morricone — Once Upon a Time in the West (From "Once Upon a Time in the West") | last aired 2026-11-22 02:00 | normal pick from 2026-11-24 02:00 | request from 2026-11-24 02:00
-WAIT Ennio Morricone — The Ecstasy of Gold | last aired 2026-11-21 01:02 | normal pick from 2026-11-22 13:02 | request now
+OK   Ennio Morricone — The Ecstasy of Gold | last aired 2026-11-21 01:02 | normal pick now | request now
 OK   Enya — Caribbean Blue (2009 Remaster) (Remastered 2009) | last aired 2026-11-20 07:05 | normal pick now | request now
