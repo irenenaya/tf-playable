@@ -1,4 +1,4 @@
-Track status, song titles filed under SU (built Sat Nov 21, 11:55 PM PST (07:55 UTC Sun)). Times in UTC.
+Track status, song titles filed under SU (built Sun Nov 22, 12:05 AM PST (08:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Subterraneans (2017 Remaster) — David Bowie | last aired 2026-11-16 18:43 | normal pick now | request now
@@ -7,7 +7,7 @@ OK   Such Great Heights (Remastered) — The Postal Service | last aired 2026-11
 OK   Such Great Heights — Iron & Wine | last aired 2026-11-07 12:36 | normal pick now | request now
 WAIT Sugar Water (Album Version) — Cibo Matto | last aired 2026-11-21 12:40 | normal pick from 2026-11-23 00:40 | request from 2026-11-22 08:40
 OK   Suite bergamasque, CD 82, L. 75: III. Clair de lune — Simon Trpčeski | last aired 2026-11-18 00:53 | normal pick now | request now
-WAIT Sultans of Swing — Dire Straits | last aired 2026-11-22 04:16 | normal pick from 2026-11-23 16:16 | request from 2026-11-23 00:16
+WAIT Sultans of Swing — Dire Straits | last aired 2026-11-22 04:17 | normal pick from 2026-11-23 16:17 | request from 2026-11-23 00:17
 OK   Summer (from 'Kikujiro') — Joe Hisaishi | last aired 2026-11-19 21:19 | normal pick now | request now
 WAIT Summer 91 (Looking Back) (Acoustic) — Noizu | last aired 2026-11-21 03:12 | normal pick from 2026-11-22 15:12 | request now
 OK   Summer 91 (Looking Back) — Noizu | last aired 2026-11-19 17:55 | normal pick now | request now
@@ -24,4 +24,4 @@ OK   Superstition (Album Version) — Stevie Wonder | last aired 2026-11-15 13:3
 OK   Surprise! You're Dead! — Faith No More | last aired 2026-11-09 19:18 | normal pick now | request now
 WAIT Surrounded by Illusion — Eluvium | last aired 2026-11-21 07:03 | normal pick from 2026-11-22 19:03 | request now
 OK   Suspended In Gaffa (2018 Remaster) — Kate Bush | last aired 2026-11-16 20:17 | normal pick now | request now
-WAIT Suzanne — Leonard Cohen | last aired 2026-11-22 03:56 | normal pick from 2026-11-23 15:56 | request from 2026-11-22 23:56
+WAIT Suzanne — Leonard Cohen | last aired 2026-11-22 03:56 | normal pick from 2026-11-24 03:56 | request from 2026-11-24 03:56

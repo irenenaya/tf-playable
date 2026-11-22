@@ -1,4 +1,4 @@
-Track status, song titles filed under FA (built Sat Nov 21, 11:55 PM PST (07:55 UTC Sun)). Times in UTC.
+Track status, song titles filed under FA (built Sun Nov 22, 12:05 AM PST (08:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Face to Face — Daft Punk | last aired 2026-11-18 12:22 | normal pick now | request now
@@ -8,7 +8,7 @@ OK   Fade To Grey — Visage | last aired 2026-11-20 01:42 | normal pick now | r
 OK   Fado Vadio (Má Fama) — Ana Sofia Varela | last aired 2026-11-19 05:00 | normal pick now | request now
 OK   Fail Upward For A Change — Tom Konkle | last aired 2026-11-19 14:09 | normal pick now | request now
 WAIT Fairytale — Alexander Rybak | last aired 2026-11-20 18:33 | normal pick from 2026-11-22 18:33 | request from 2026-11-22 18:33
-WAIT Fait Accompli — Curve | last aired 2026-11-22 05:57 | normal pick from 2026-11-23 17:57 | request from 2026-11-23 01:57
+WAIT Fait Accompli — Curve | last aired 2026-11-22 05:58 | normal pick from 2026-11-23 17:58 | request from 2026-11-23 01:58
 OK   Fake Tales Of San Francisco — Arctic Monkeys | last aired 2026-11-16 08:48 | normal pick now | request now
 WAIT Fallen (Album Mix) — Sarah McLachlan | last aired 2026-11-20 09:29 | normal pick from 2026-11-22 09:29 | request from 2026-11-22 09:29
 WAIT Fallen Star — Djivan Gasparyan | last aired 2026-11-22 02:55 | normal pick from 2026-11-23 14:55 | request from 2026-11-22 22:55
@@ -20,7 +20,7 @@ OK   Famous Blue Raincoat — Leonard Cohen | last aired 2026-11-19 06:21 | norm
 OK   Fancy — Reba McEntire | last aired 2026-11-18 18:54 | normal pick now | request now
 OK   Fantas — Caterina Barbieri | last aired 2026-11-19 15:32 | normal pick now | request now
 OK   Fantasiestücke, Op. 73 - Schumann: Fantasiestücke, Op. 73: No. 1, Zart und mit Ausdruck — Sol Gabetta | last aired 2026-11-19 21:30 | normal pick now | request now
-WAIT Fast Car (2015 Remaster) — Tracy Chapman | last aired 2026-11-22 04:25 | normal pick from 2026-11-24 04:25 | request from 2026-11-24 04:25
+WAIT Fast Car (2015 Remaster) — Tracy Chapman | last aired 2026-11-22 04:26 | normal pick from 2026-11-24 04:26 | request from 2026-11-24 04:26
 OK   Fast Car (LP Version) — Tracy Chapman | last aired 2026-11-17 02:58 | normal pick now | request now
 OK   Faster — Matt Nathanson | last aired 2026-11-09 16:01 | normal pick now | request now
 OK   Fatti avanti amore (feat. Jovanotti) (5030 version) — Nek | last aired 2026-11-18 16:14 | normal pick now | request now
