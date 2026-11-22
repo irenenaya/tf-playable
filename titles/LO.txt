@@ -1,4 +1,4 @@
-Track status, song titles filed under LO (built Sat Nov 21, 5:05 PM PST (01:05 UTC Sun)). Times in UTC.
+Track status, song titles filed under LO (built Sat Nov 21, 5:15 PM PST (01:15 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT L-O-V-E — Nat King Cole | last aired 2026-11-20 08:48 | normal pick from 2026-11-22 08:48 | request from 2026-11-22 08:48
@@ -8,7 +8,7 @@ OK   Logic — Euology | last aired 2026-10-30 12:08 | normal pick now | request
 OK   London Calling — The Clash | last aired 2026-11-18 13:35 | normal pick now | request now
 OK   Lonely in the Future — The Strokes | last aired 2026-11-17 21:07 | normal pick now | request now
 OK   Long Time Running — The Tragically Hip | last aired 2026-11-19 09:59 | normal pick now | request now
-WAIT Longing — Nusrat Fateh Ali Khan | last aired 2026-11-21 05:12 | normal pick from 2026-11-22 17:12 | request from 2026-11-22 01:12
+WAIT Longing — Nusrat Fateh Ali Khan | last aired 2026-11-21 05:12 | normal pick from 2026-11-22 17:12 | request now
 OK   Loser — Beck | last aired 2026-11-19 18:08 | normal pick now | request now
 WAIT Losing Faith — Tom Konkle | last aired 2026-11-21 19:28 | normal pick from 2026-11-23 07:28 | request from 2026-11-22 15:28
 OK   Lost Coastlines — Okkervil River | last aired 2026-11-13 06:19 | normal pick now | request now
@@ -23,7 +23,7 @@ OK   Love Kills — Freddie Mercury | last aired 2026-11-20 01:34 | normal pick 
 OK   Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley — Studio Group | last aired 2026-08-31 18:46 | normal pick now | request now
 WAIT Love — Mica Levi | last aired 2026-11-21 02:09 | normal pick from 2026-11-23 02:09 | request from 2026-11-23 02:09
 OK   Love On A Real Train — Tangerine Dream | last aired 2026-11-17 07:57 | normal pick now | request now
-OK   LOVE TRIP — Takako Mamiya | last aired 2026-11-19 20:46 | normal pick now | request now
+WAIT LOVE TRIP — Takako Mamiya | last aired 2026-11-22 01:02 | normal pick from 2026-11-24 01:02 | request from 2026-11-24 01:02
 OK   Lovely Day — Bill Withers | last aired 2026-11-14 23:00 | normal pick now | request now
 OK   Lover, You Should've Come Over — Jeff Buckley | last aired 2026-11-17 18:04 | normal pick now | request now
 OK   Lovers Rock — TV Girl | last aired 2026-10-31 19:36 | normal pick now | request now

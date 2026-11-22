@@ -1,8 +1,8 @@
-Track status, song titles filed under MI (built Sat Nov 21, 5:05 PM PST (01:05 UTC Sun)). Times in UTC.
+Track status, song titles filed under MI (built Sat Nov 21, 5:15 PM PST (01:15 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Mice City — Hotel Ugly | last aired 2026-10-26 10:35 | normal pick now | request now
-WAIT Midnight City — M83 | last aired 2026-11-21 05:08 | normal pick from 2026-11-22 17:08 | request from 2026-11-22 01:08
+WAIT Midnight City — M83 | last aired 2026-11-21 05:08 | normal pick from 2026-11-22 17:08 | request now
 OK   Midnight On Mars — Ashra | last aired 2026-11-13 03:40 | normal pick now | request now
 OK   Mil Besos — Saindra | last aired 2026-11-18 19:44 | normal pick now | request now
 OK   Milonga Del Angel — Astor Piazzolla | last aired 2026-11-16 02:44 | normal pick now | request now
