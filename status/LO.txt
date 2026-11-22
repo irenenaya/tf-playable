@@ -1,4 +1,4 @@
-Track status, artists filed under LO (built Sat Nov 21, 4:35 PM PST (00:35 UTC Sun)). Times in UTC.
+Track status, artists filed under LO (built Sat Nov 21, 4:45 PM PST (00:45 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Lofi Fruits Music — Plastic Love | last aired 2026-11-15 05:48 | normal pick now | request now
@@ -22,4 +22,4 @@ OK   Lovage — Anger Management (Instrumental) | last aired 2026-09-25 16:39 | 
 OK   Love and Rockets — Haunted When the Minutes Drag | last aired 2026-11-18 02:40 | normal pick now | request now
 WAIT Love and Rockets — Saudade | last aired 2026-11-21 10:51 | normal pick from 2026-11-22 22:51 | request from 2026-11-22 06:51
 OK   Love and Rockets — So Alive | last aired 2026-11-18 01:54 | normal pick now | request now
-OK   Loverboy — Lovin' Every Minute of It | last aired 2026-11-18 02:31 | normal pick now | request now
+WAIT Loverboy — Lovin' Every Minute of It | last aired 2026-11-22 00:36 | normal pick from 2026-11-23 12:36 | request from 2026-11-22 20:36
