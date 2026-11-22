@@ -1,4 +1,4 @@
-Track status, artists filed under LA (built Sun Nov 22, 2:15 AM PST (10:15 UTC)). Times in UTC.
+Track status, artists filed under LA (built Sun Nov 22, 2:25 AM PST (10:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT La Fenice — Le Chant des oiseaux | last aired 2026-11-21 14:53 | normal pick from 2026-11-23 02:53 | request from 2026-11-22 10:53
@@ -8,8 +8,8 @@ WAIT Lady Gaga — Just Dance | last aired 2026-11-21 17:32 | normal pick from 2
 OK   Laibach — The Whistleblowers | last aired 2026-10-26 00:33 | normal pick now | request now
 OK   Laith Al-Deen — Dein Lied | last aired 2026-11-19 15:06 | normal pick now | request now
 OK   Lamb — Bonfire | last aired 2026-11-20 09:26 | normal pick now | request now
-WAIT Lamb — Gorecki | last aired 2026-11-20 10:22 | normal pick from 2026-11-22 10:22 | request from 2026-11-22 10:22
-OK   Lana Del Rey — Diet Mountain Dew | last aired 2026-11-20 03:37 | normal pick now | request now
+OK   Lamb — Gorecki | last aired 2026-11-20 10:22 | normal pick now | request now
+WAIT Lana Del Rey — Diet Mountain Dew | last aired 2026-11-22 10:16 | normal pick from 2026-11-23 22:16 | request from 2026-11-23 06:16
 OK   Lana Del Rey — Heroin | last aired 2026-11-11 07:02 | normal pick now | request now
 OK   Lana Del Rey — Salvatore | last aired 2026-11-06 09:48 | normal pick now | request now
 OK   Lana Del Rey — Venice Bitch | last aired 2026-11-17 10:17 | normal pick now | request now
