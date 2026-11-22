@@ -1,4 +1,4 @@
-Track status, artists filed under MA (built Sun Nov 22, 12:15 AM PST (08:15 UTC)). Times in UTC.
+Track status, artists filed under MA (built Sun Nov 22, 12:25 AM PST (08:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   M/A/R/R/S — Pump Up The Volume (UK 12" Remix) | last aired 2026-11-18 16:05 | normal pick now | request now
@@ -42,7 +42,7 @@ OK   Marvin Gaye — Let's Get It On | last aired 2026-11-04 20:49 | normal pick
 OK   Marvin Gaye — Mercy Mercy Me (The Ecology) | last aired 2026-11-17 21:10 | normal pick now | request now
 OK   Marvin Gaye — Save The Children | last aired 2026-11-18 07:50 | normal pick now | request now
 OK   Marvin Gaye — Sexual Healing (Album Version) | last aired 2026-11-17 22:13 | normal pick now | request now
-WAIT Marvin Gaye — What's Going On | last aired 2026-11-21 12:20 | normal pick from 2026-11-23 00:20 | request from 2026-11-22 08:20
+WAIT Marvin Gaye — What's Going On | last aired 2026-11-21 12:20 | normal pick from 2026-11-23 00:20 | request now
 WAIT Marvin Gaye — Wholy Holy | last aired 2026-11-21 06:27 | normal pick from 2026-11-22 18:27 | request now
 WAIT Mary Halvorson — About Ghosts | last aired 2026-11-22 05:32 | normal pick from 2026-11-23 17:32 | request from 2026-11-23 01:32
 OK   Masego — Tadow | last aired 2026-11-18 04:10 | normal pick now | request now
