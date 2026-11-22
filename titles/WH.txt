@@ -1,4 +1,4 @@
-Track status, song titles filed under WH (built Sun Nov 22, 6:35 AM PST (14:35 UTC)). Times in UTC.
+Track status, song titles filed under WH (built Sun Nov 22, 6:45 AM PST (14:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Whistleblowers — Laibach | last aired 2026-10-26 00:33 | normal pick now | request now
@@ -12,7 +12,7 @@ OK   What Is Love (Lynx & Pico Remix) — Haddaway | last aired 2026-11-18 21:43
 WAIT What Was I Made For? [From The Motion Picture "Barbie"] — Billie Eilish | last aired 2026-11-20 22:36 | normal pick from 2026-11-22 22:36 | request from 2026-11-22 22:36
 WAIT What You Won't Do for Love — Bobby Caldwell | last aired 2026-11-21 16:54 | normal pick from 2026-11-23 16:54 | request from 2026-11-23 16:54
 WAIT What's Going On — Marvin Gaye | last aired 2026-11-21 12:20 | normal pick from 2026-11-23 00:20 | request now
-WAIT When Did Love Become A Test — Tom Konkle | last aired 2026-11-21 02:36 | normal pick from 2026-11-22 14:36 | request now
+OK   When Did Love Become A Test — Tom Konkle | last aired 2026-11-21 02:36 | normal pick now | request now
 WAIT When I Met You — Apo Hiking Society | last aired 2026-11-21 08:18 | normal pick from 2026-11-22 20:18 | request now
 WAIT When I'm Gone — Albert Hammond | last aired 2026-11-21 23:16 | normal pick from 2026-11-23 23:16 | request from 2026-11-23 23:16
 OK   When Love Comes To Town (Album Version) — U2 | last aired 2026-10-30 11:07 | normal pick now | request now
