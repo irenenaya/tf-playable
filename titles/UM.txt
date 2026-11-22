@@ -1,5 +1,5 @@
-Track status, song titles filed under UM (built Sat Nov 21, 9:55 PM PST (05:55 UTC Sun)). Times in UTC.
+Track status, song titles filed under UM (built Sat Nov 21, 10:05 PM PST (06:05 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Uma Thurman — Fall Out Boy | last aired 2026-11-21 02:49 | normal pick from 2026-11-22 14:49 | request now
-WAIT Umbrella (Album Version) — Rihanna | last aired 2026-11-20 17:59 | normal pick from 2026-11-22 05:59 | request now
+OK   Umbrella (Album Version) — Rihanna | last aired 2026-11-20 17:59 | normal pick now | request now

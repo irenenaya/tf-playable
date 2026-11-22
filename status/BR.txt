@@ -1,4 +1,4 @@
-Track status, artists filed under BR (built Sat Nov 21, 9:55 PM PST (05:55 UTC Sun)). Times in UTC.
+Track status, artists filed under BR (built Sat Nov 21, 10:05 PM PST (06:05 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Brainstory — Mnemophobia | last aired 2026-11-19 17:33 | normal pick now | request now
@@ -22,7 +22,7 @@ WAIT Bruce Springsteen — Streets of Philadelphia (Single Edit) | last aired 20
 OK   Bruce Springsteen — The River | last aired 2026-11-16 17:17 | normal pick now | request now
 OK   Bruce Springsteen — Thunder Road | last aired 2026-11-16 20:02 | normal pick now | request now
 OK   Bruno Battisti D'Amario — Omaggio a giuliani | last aired 2026-11-12 07:30 | normal pick now | request now
-WAIT Bruno Mars — Gorilla | last aired 2026-11-20 18:04 | normal pick from 2026-11-22 06:04 | request now
+OK   Bruno Mars — Gorilla | last aired 2026-11-20 18:04 | normal pick now | request now
 OK   Bruno Mars — I Just Might | last aired 2026-11-14 17:33 | normal pick now | request now
 OK   Bryan Ferry — Reason or Rhyme | last aired 2026-11-12 09:08 | normal pick now | request now
 WAIT The Brian Setzer Orchestra — Jump Jive An' Wail (Album Version) | last aired 2026-11-21 14:34 | normal pick from 2026-11-23 02:34 | request from 2026-11-22 10:34
