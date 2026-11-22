@@ -1,4 +1,4 @@
-Track status, artists filed under MA (built Sun Nov 22, 6:55 AM PST (14:55 UTC)). Times in UTC.
+Track status, artists filed under MA (built Sun Nov 22, 7:05 AM PST (15:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   M/A/R/R/S — Pump Up The Volume (UK 12" Remix) | last aired 2026-11-18 16:05 | normal pick now | request now
@@ -41,7 +41,7 @@ OK   Marvin Gaye — Inner City Blues (Make Me Wanna Holler) | last aired 2026-1
 OK   Marvin Gaye — Let's Get It On | last aired 2026-11-04 20:49 | normal pick now | request now
 OK   Marvin Gaye — Mercy Mercy Me (The Ecology) | last aired 2026-11-17 21:10 | normal pick now | request now
 OK   Marvin Gaye — Save The Children | last aired 2026-11-18 07:50 | normal pick now | request now
-WAIT Marvin Gaye — Sexual Healing (Album Version) | last aired 2026-11-22 11:13 | normal pick from 2026-11-23 23:13 | request from 2026-11-23 07:13
+WAIT Marvin Gaye — Sexual Healing (Album Version) | last aired 2026-11-22 11:14 | normal pick from 2026-11-23 23:14 | request from 2026-11-23 07:14
 WAIT Marvin Gaye — What's Going On | last aired 2026-11-21 12:20 | normal pick from 2026-11-23 00:20 | request now
 WAIT Marvin Gaye — Wholy Holy | last aired 2026-11-21 06:27 | normal pick from 2026-11-22 18:27 | request now
 WAIT Mary Halvorson — About Ghosts | last aired 2026-11-22 05:32 | normal pick from 2026-11-23 17:32 | request from 2026-11-23 01:32
@@ -71,4 +71,4 @@ OK   The Magnetic Fields — Born on a Train | last aired 2026-11-10 08:14 | nor
 WAIT The Magnetic Fields — Papa Was a Rodeo | last aired 2026-11-22 01:55 | normal pick from 2026-11-23 13:55 | request from 2026-11-22 21:55
 WAIT The Magnetic Fields — The Book of Love | last aired 2026-11-21 04:28 | normal pick from 2026-11-22 16:28 | request now
 OK   The Mamas & The Papas — California Dreamin' (Single Version) | last aired 2026-11-18 08:05 | normal pick now | request now
-WAIT The Marías — Cariño | last aired 2026-11-22 11:46 | normal pick from 2026-11-23 23:46 | request from 2026-11-23 07:46
+WAIT The Marías — Cariño | last aired 2026-11-22 11:47 | normal pick from 2026-11-23 23:47 | request from 2026-11-23 07:47
