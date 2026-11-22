@@ -1,9 +1,9 @@
-Track status, artists filed under TR (built Sun Nov 22, 12:35 AM PST (08:35 UTC)). Times in UTC.
+Track status, artists filed under TR (built Sun Nov 22, 12:45 AM PST (08:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   T. Rex — Children Of The Revolution | last aired 2026-11-16 04:14 | normal pick now | request now
 OK   The Tragically Hip — Long Time Running | last aired 2026-11-19 09:59 | normal pick now | request now
-WAIT The Tragically Hip — New Orleans Is Sinking | last aired 2026-11-20 20:38 | normal pick from 2026-11-22 08:38 | request now
+OK   The Tragically Hip — New Orleans Is Sinking | last aired 2026-11-20 20:38 | normal pick now | request now
 WAIT Tracy Chapman — Fast Car (2015 Remaster) | last aired 2026-11-22 04:26 | normal pick from 2026-11-24 04:26 | request from 2026-11-24 04:26
 OK   Tracy Chapman — Fast Car (LP Version) | last aired 2026-11-17 02:58 | normal pick now | request now
 WAIT Train — Drops of Jupiter (Tell Me) | last aired 2026-11-21 10:07 | normal pick from 2026-11-22 22:07 | request now
