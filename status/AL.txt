@@ -1,4 +1,4 @@
-Track status, artists filed under AL (built Sat Nov 21, 10:55 PM PST (06:55 UTC Sun)). Times in UTC.
+Track status, artists filed under AL (built Sat Nov 21, 11:05 PM PST (07:05 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Al Di Meola — Double Concerto | last aired 2026-11-09 02:17 | normal pick now | request now
@@ -17,7 +17,7 @@ WAIT Albert Hammond — When I'm Gone | last aired 2026-11-21 23:16 | normal pic
 WAIT Albert King — Born Under A Bad Sign | last aired 2026-11-20 21:13 | normal pick from 2026-11-22 21:13 | request from 2026-11-22 21:13
 OK   Alestorm — Captain Morgan`s Revenge | last aired 2026-11-09 15:46 | normal pick now | request now
 WAIT Alestorm — Drink | last aired 2026-11-22 06:02 | normal pick from 2026-11-23 18:02 | request from 2026-11-23 02:02
-WAIT Alestorm — Keelhauled | last aired 2026-11-20 19:00 | normal pick from 2026-11-22 07:00 | request now
+OK   Alestorm — Keelhauled | last aired 2026-11-20 19:00 | normal pick now | request now
 WAIT Alex Andre — thanks, my day is ruined | last aired 2026-11-21 23:56 | normal pick from 2026-11-23 11:56 | request from 2026-11-22 19:56
 OK   Alexander Malter — Pärt: Für Alina | last aired 2026-11-20 11:11 | normal pick now | request now
 WAIT Alexander Rybak — Fairytale | last aired 2026-11-20 18:33 | normal pick from 2026-11-22 18:33 | request from 2026-11-22 18:33
