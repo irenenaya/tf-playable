@@ -1,4 +1,4 @@
-Track status, artists filed under VI (built Sun Nov 22, 8:45 AM PST (16:45 UTC)). Times in UTC.
+Track status, artists filed under VI (built Sun Nov 22, 8:55 AM PST (16:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Vicente Fernández — El Rey | last aired 2026-11-20 01:54 | normal pick now | request now
@@ -6,4 +6,4 @@ OK   Victor Babin — Vocalise: Lentamente, Molto cantabile - 14 Romances Op. 34
 OK   Victor Leksell — Skriker mitt namn | last aired 2026-11-13 03:01 | normal pick now | request now
 WAIT Vinicius Cantuaria — Lua e Estrela | last aired 2026-11-21 18:10 | normal pick from 2026-11-23 06:10 | request now
 OK   Virus — Imágenes Paganas | last aired 2026-11-08 19:56 | normal pick now | request now
-OK   Visage — Fade To Grey | last aired 2026-11-20 01:42 | normal pick now | request now
+WAIT Visage — Fade To Grey | last aired 2026-11-22 16:44 | normal pick from 2026-11-24 04:44 | request from 2026-11-23 12:44
