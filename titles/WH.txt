@@ -1,4 +1,4 @@
-Track status, song titles filed under WH (built Sat Nov 21, 7:55 PM PST (03:55 UTC Sun)). Times in UTC.
+Track status, song titles filed under WH (built Sat Nov 21, 8:05 PM PST (04:05 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Whistleblowers — Laibach | last aired 2026-10-26 00:33 | normal pick now | request now
@@ -14,7 +14,7 @@ WAIT What You Won't Do for Love — Bobby Caldwell | last aired 2026-11-21 16:54
 WAIT What's Going On — Marvin Gaye | last aired 2026-11-21 12:20 | normal pick from 2026-11-23 00:20 | request from 2026-11-22 08:20
 WAIT When Did Love Become A Test — Tom Konkle | last aired 2026-11-21 02:36 | normal pick from 2026-11-22 14:36 | request now
 WAIT When I Met You — Apo Hiking Society | last aired 2026-11-21 08:18 | normal pick from 2026-11-22 20:18 | request from 2026-11-22 04:18
-WAIT When I'm Gone — Albert Hammond | last aired 2026-11-21 23:15 | normal pick from 2026-11-23 23:15 | request from 2026-11-23 23:15
+WAIT When I'm Gone — Albert Hammond | last aired 2026-11-21 23:16 | normal pick from 2026-11-23 23:16 | request from 2026-11-23 23:16
 OK   When Love Comes To Town (Album Version) — U2 | last aired 2026-10-30 11:07 | normal pick now | request now
 OK   when the party's over — Billie Eilish | last aired 2026-11-14 15:21 | normal pick now | request now
 WAIT When the Sun Goes Down — The Jetzons | last aired 2026-11-21 09:30 | normal pick from 2026-11-22 21:30 | request from 2026-11-22 05:30
@@ -24,7 +24,7 @@ OK   Where The Streets Have No Name (Remastered 2007) — U2 | last aired 2026-1
 OK   Where Were You (Live) — Jeff Beck | last aired 2026-11-20 02:12 | normal pick now | request now
 OK   Wherefore and Why (LP Version) — Gordon Lightfoot | last aired 2026-11-09 06:17 | normal pick now | request now
 OK   Which Side are You On? — Pete Seeger | last aired 2026-11-16 06:00 | normal pick now | request now
-WAIT Whirling-In-Rags, 8 AM — Sea Power | last aired 2026-11-22 01:06 | normal pick from 2026-11-23 13:06 | request from 2026-11-22 21:06
+WAIT Whirling-In-Rags, 8 AM — Sea Power | last aired 2026-11-22 01:07 | normal pick from 2026-11-23 13:07 | request from 2026-11-22 21:07
 OK   White Christmas — Bing Crosby | last aired 2026-09-05 21:37 | normal pick now | request now
 OK   White Gloves — Khruangbin | last aired 2026-11-16 08:43 | normal pick now | request now
 OK   White Winter Hymnal — Fleet Foxes | last aired 2026-11-18 13:23 | normal pick now | request now

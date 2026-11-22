@@ -1,4 +1,4 @@
-Track status, song titles filed under CO (built Sat Nov 21, 7:55 PM PST (03:55 UTC Sun)). Times in UTC.
+Track status, song titles filed under CO (built Sat Nov 21, 8:05 PM PST (04:05 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Coat of Many Colors — Dolly Parton | last aired 2026-11-20 09:06 | normal pick now | request now
@@ -12,7 +12,7 @@ WAIT Coming Down from Love — Bobby Caldwell | last aired 2026-11-21 00:43 | no
 OK   Coming Home — Leon Bridges | last aired 2026-11-18 15:46 | normal pick now | request now
 OK   Common People (Full Length Version; Album Version) — Pulp | last aired 2026-11-13 03:04 | normal pick now | request now
 WAIT Common Threads — Bobby McFerrin | last aired 2026-11-20 10:12 | normal pick from 2026-11-22 10:12 | request from 2026-11-22 10:12
-WAIT Como É Grande o Meu Amor por Você — Raquel Tavares | last aired 2026-11-21 23:59 | normal pick from 2026-11-23 23:59 | request from 2026-11-23 23:59
+WAIT Como É Grande o Meu Amor por Você — Raquel Tavares | last aired 2026-11-22 00:00 | normal pick from 2026-11-24 00:00 | request from 2026-11-24 00:00
 OK   Comptine d'un autre été, l'après-midi — Yann Tiersen | last aired 2026-11-20 11:46 | normal pick now | request now
 OK   Computer Incantations for World Peace — Jean-Luc Ponty | last aired 2026-11-13 01:32 | normal pick now | request now
 OK   Computer Love (2009 Remaster) — Kraftwerk | last aired 2026-11-16 15:33 | normal pick now | request now
@@ -28,4 +28,4 @@ OK   Cotton Fields — Creedence Clearwater Revival | last aired 2026-11-12 14:0
 WAIT Counting Sheep — Brijean | last aired 2026-11-21 12:00 | normal pick from 2026-11-23 12:00 | request from 2026-11-23 12:00
 OK   Cowboy Nudes — Geese | last aired 2026-11-08 03:17 | normal pick now | request now
 WAIT Coyote Dance — Robbie Robertson | last aired 2026-11-21 08:34 | normal pick from 2026-11-23 08:34 | request from 2026-11-23 08:34
-WAIT The Colour Of Spring — Mark Hollis | last aired 2026-11-21 23:27 | normal pick from 2026-11-23 23:27 | request from 2026-11-23 23:27
+WAIT The Colour Of Spring — Mark Hollis | last aired 2026-11-21 23:28 | normal pick from 2026-11-23 23:28 | request from 2026-11-23 23:28

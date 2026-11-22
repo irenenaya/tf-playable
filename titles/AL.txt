@@ -1,4 +1,4 @@
-Track status, song titles filed under AL (built Sat Nov 21, 7:55 PM PST (03:55 UTC Sun)). Times in UTC.
+Track status, song titles filed under AL (built Sat Nov 21, 8:05 PM PST (04:05 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   A Life (1895 - 1915) — Mark Hollis | last aired 2026-11-18 15:57 | normal pick now | request now
@@ -6,7 +6,7 @@ OK   A Little Lost — Peter Broderick | last aired 2026-11-19 03:09 | normal pi
 WAIT Albatross — Fleetwood Mac | last aired 2026-11-21 09:52 | normal pick from 2026-11-23 09:52 | request from 2026-11-23 09:52
 OK   Algorithm — Heejin | last aired 2026-11-15 13:07 | normal pick now | request now
 WAIT Alien Observer — Grouper | last aired 2026-11-21 21:16 | normal pick from 2026-11-23 09:16 | request from 2026-11-22 17:16
-WAIT Alison — Slowdive | last aired 2026-11-20 08:12 | normal pick from 2026-11-22 08:12 | request from 2026-11-22 08:12
+OK   Alison — Slowdive | last aired 2026-11-20 08:12 | normal pick now | request now
 OK   Alive And Kicking (Remastered 2002) — Simple Minds | last aired 2026-11-18 20:13 | normal pick now | request now
 OK   All Along The Watchtower (Live - Rattle & Hum Version) — U2 | last aired 2026-10-31 22:46 | normal pick now | request now
 OK   All I Wanna Do — Sheryl Crow | last aired 2026-11-19 01:17 | normal pick now | request now
@@ -17,7 +17,7 @@ OK   All Star (Album Version) — Smash Mouth | last aired 2026-11-13 10:04 | no
 OK   All Summer — YASSiN & Sean Terrio | last aired 2026-10-15 21:52 | normal pick now | request now
 OK   All The Small Things — blink-182 | last aired 2026-11-04 23:15 | normal pick now | request now
 OK   All The Way — Kat Edmonson | last aired 2026-11-19 00:59 | normal pick now | request now
-WAIT All Through the Night — Cyndi Lauper | last aired 2026-11-20 16:03 | normal pick from 2026-11-22 04:03 | request now
+OK   All Through the Night — Cyndi Lauper | last aired 2026-11-20 16:03 | normal pick now | request now
 WAIT All We Are — Matt Nathanson | last aired 2026-11-21 11:20 | normal pick from 2026-11-22 23:20 | request from 2026-11-22 07:20
 OK   Alles neu (Album Version) — Peter Fox | last aired 2026-10-20 19:34 | normal pick now | request now
 WAIT Almost Blue — Chet Baker | last aired 2026-11-20 10:09 | normal pick from 2026-11-22 10:09 | request from 2026-11-22 10:09

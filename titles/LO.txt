@@ -1,7 +1,7 @@
-Track status, song titles filed under LO (built Sat Nov 21, 7:55 PM PST (03:55 UTC Sun)). Times in UTC.
+Track status, song titles filed under LO (built Sat Nov 21, 8:05 PM PST (04:05 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT L-O-V-E — Nat King Cole | last aired 2026-11-20 08:48 | normal pick from 2026-11-22 08:48 | request from 2026-11-22 08:48
+OK   L-O-V-E — Nat King Cole | last aired 2026-11-20 08:48 | normal pick now | request now
 OK   Lo Vas A Olvidar — Billie Eilish | last aired 2026-11-06 09:38 | normal pick now | request now
 OK   Locos — Leon Larregui | last aired 2026-11-18 21:33 | normal pick now | request now
 OK   Logic — Euology | last aired 2026-10-30 12:08 | normal pick now | request now
@@ -32,9 +32,9 @@ WAIT Lovin' Every Minute of It — Loverboy | last aired 2026-11-22 00:36 | norm
 WAIT Lovin' You — Minnie Riperton | last aired 2026-11-21 01:40 | normal pick from 2026-11-22 13:40 | request now
 WAIT Loving Machine — TV Girl | last aired 2026-11-20 17:40 | normal pick from 2026-11-22 05:40 | request now
 OK   Low Frequency Thunderstorm Shield — Cognitron | last aired 2026-11-19 12:59 | normal pick now | request now
-WAIT Lowdown (2023 Remaster) — Boz Scaggs | last aired 2026-11-20 15:58 | normal pick from 2026-11-22 03:58 | request now
+OK   Lowdown (2023 Remaster) — Boz Scaggs | last aired 2026-11-20 15:58 | normal pick now | request now
 OK   The Lonesome Death of Hattie Carroll — Bob Dylan | last aired 2026-11-15 09:24 | normal pick now | request now
-WAIT The Long Road — Mark Knopfler | last aired 2026-11-21 08:00 | normal pick from 2026-11-22 20:00 | request from 2026-11-22 04:00
+WAIT The Long Road — Mark Knopfler | last aired 2026-11-21 08:00 | normal pick from 2026-11-22 20:00 | request now
 OK   The Look — Roxette | last aired 2026-11-20 03:51 | normal pick now | request now
 OK   The Lord Will Make a Way — Al Green | last aired 2026-11-19 16:42 | normal pick now | request now
 WAIT The Love Song — Marilyn Manson | last aired 2026-11-21 22:35 | normal pick from 2026-11-23 10:35 | request from 2026-11-22 18:35
