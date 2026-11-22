@@ -1,4 +1,4 @@
-Track status, song titles filed under ST (built Sat Nov 21, 9:45 PM PST (05:45 UTC Sun)). Times in UTC.
+Track status, song titles filed under ST (built Sat Nov 21, 9:55 PM PST (05:55 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   S.T.A.Y. — Hans Zimmer | last aired 2026-11-16 12:29 | normal pick now | request now
@@ -19,7 +19,7 @@ OK   Stay — Shakespears Sister | last aired 2026-11-19 03:05 | normal pick now
 OK   Steal Away — Robbie Dupree | last aired 2026-11-19 13:27 | normal pick now | request now
 OK   Steep Hills of Vicodin Tears — A Winged Victory For The Sullen | last aired 2026-11-20 12:33 | normal pick now | request now
 OK   Steppe — René Aubry | last aired 2026-11-18 18:50 | normal pick now | request now
-WAIT Stick Season — Noah Kahan | last aired 2026-11-20 05:53 | normal pick from 2026-11-22 05:53 | request from 2026-11-22 05:53
+OK   Stick Season — Noah Kahan | last aired 2026-11-20 05:53 | normal pick now | request now
 OK   Still Life (2015 Remaster) — Iron Maiden | last aired 2026-11-12 23:04 | normal pick now | request now
 OK   Still Loving You (2011 Version) — Scorpions | last aired 2026-11-19 14:19 | normal pick now | request now
 OK   Still Of The Night (2018 Remaster) — Whitesnake | last aired 2026-11-19 03:47 | normal pick now | request now
@@ -40,4 +40,4 @@ WAIT Stressed Out — twenty one pilots | last aired 2026-11-21 21:59 | normal p
 OK   Strings of Light — Yussef Kamaal | last aired 2026-11-11 17:34 | normal pick now | request now
 OK   Stripsearch — Faith No More | last aired 2026-11-12 21:25 | normal pick now | request now
 WAIT Stuck In The Middle With You — Stealers Wheel | last aired 2026-11-20 23:37 | normal pick from 2026-11-22 23:37 | request from 2026-11-22 23:37
-WAIT Stupid Cupid — Red Velvet | last aired 2026-11-20 17:55 | normal pick from 2026-11-22 05:55 | request now
+OK   Stupid Cupid — Red Velvet | last aired 2026-11-20 17:55 | normal pick now | request now
