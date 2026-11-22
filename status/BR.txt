@@ -1,4 +1,4 @@
-Track status, artists filed under BR (built Sun Nov 22, 9:25 AM PST (17:25 UTC)). Times in UTC.
+Track status, artists filed under BR (built Sun Nov 22, 9:35 AM PST (17:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Brainstory — Mnemophobia | last aired 2026-11-19 17:33 | normal pick now | request now
@@ -26,4 +26,4 @@ OK   Bruno Mars — Gorilla | last aired 2026-11-20 18:04 | normal pick now | re
 OK   Bruno Mars — I Just Might | last aired 2026-11-14 17:33 | normal pick now | request now
 OK   Bryan Ferry — Reason or Rhyme | last aired 2026-11-12 09:08 | normal pick now | request now
 WAIT The Brian Setzer Orchestra — Jump Jive An' Wail (Album Version) | last aired 2026-11-21 14:34 | normal pick from 2026-11-23 02:34 | request now
-WAIT The Brothers Johnson — Strawberry Letter 23 (Album Version) | last aired 2026-11-21 21:30 | normal pick from 2026-11-23 09:30 | request from 2026-11-22 17:30
+WAIT The Brothers Johnson — Strawberry Letter 23 (Album Version) | last aired 2026-11-21 21:30 | normal pick from 2026-11-23 09:30 | request now
