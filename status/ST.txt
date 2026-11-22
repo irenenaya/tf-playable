@@ -1,4 +1,4 @@
-Track status, artists filed under ST (built Sun Nov 22, 3:35 PM PST (23:35 UTC)). Times in UTC.
+Track status, artists filed under ST (built Sun Nov 22, 3:45 PM PST (23:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   St Germain — Rose rouge | last aired 2026-11-15 13:41 | normal pick now | request now
@@ -7,7 +7,7 @@ OK   Stan Getz — Corcovado (Quiet Nights Of Quiet Stars) | last aired 2026-11-
 OK   Stardust — Music Sounds Better With You | last aired 2026-11-18 20:50 | normal pick now | request now
 OK   Stars of the Lid — Requiem for Dying Mothers, Pt. 1 | last aired 2026-11-20 12:16 | normal pick now | request now
 OK   Stars of the Lid — Requiem for Dying Mothers, Pt. 2 | last aired 2026-11-18 07:05 | normal pick now | request now
-WAIT Stealers Wheel — Stuck In The Middle With You | last aired 2026-11-20 23:37 | normal pick from 2026-11-22 23:37 | request from 2026-11-22 23:37
+OK   Stealers Wheel — Stuck In The Middle With You | last aired 2026-11-20 23:37 | normal pick now | request now
 OK   Steely Dan — Almost Gothic (Album Version) | last aired 2026-11-15 02:00 | normal pick now | request now
 OK   Steely Dan — Babylon Sisters | last aired 2026-11-20 02:01 | normal pick now | request now
 OK   Steely Dan — Home At Last | last aired 2026-11-19 16:58 | normal pick now | request now
@@ -32,7 +32,7 @@ WAIT Stevie Wonder — Sir Duke | last aired 2026-11-22 06:11 | normal pick from
 OK   Stevie Wonder — Summer Soft | last aired 2026-11-20 13:54 | normal pick now | request now
 OK   Stevie Wonder — Superstition (Album Version) | last aired 2026-11-15 13:36 | normal pick now | request now
 OK   Stevie Wonder — You Haven't Done Nothin' | last aired 2026-11-02 19:53 | normal pick now | request now
-OK   Still Woozy — Get Down | last aired 2026-11-15 13:33 | normal pick now | request now
+WAIT Still Woozy — Get Down | last aired 2026-11-22 23:37 | normal pick from 2026-11-24 11:37 | request from 2026-11-23 19:37
 OK   Sting — Desert Rose (Album Version) | last aired 2026-11-01 21:16 | normal pick now | request now
 WAIT Sting — Fields Of Gold (My Songs Version) | last aired 2026-11-22 19:57 | normal pick from 2026-11-24 07:57 | request from 2026-11-23 15:57
 WAIT Sting — Fragile | last aired 2026-11-22 05:54 | normal pick from 2026-11-23 17:54 | request from 2026-11-23 01:54
