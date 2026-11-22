@@ -1,4 +1,4 @@
-Track status, song titles filed under ST (built Sat Nov 21, 9:15 PM PST (05:15 UTC Sun)). Times in UTC.
+Track status, song titles filed under ST (built Sat Nov 21, 9:25 PM PST (05:25 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   S.T.A.Y. — Hans Zimmer | last aired 2026-11-16 12:29 | normal pick now | request now
@@ -33,8 +33,8 @@ WAIT Stranger On The Shore — Acker Bilk | last aired 2026-11-20 18:47 | normal
 OK   Stratosfear (Digital Remastered) — Tangerine Dream | last aired 2026-11-17 09:39 | normal pick now | request now
 WAIT Strawberry Fields Forever — The Beatles | last aired 2026-11-21 12:53 | normal pick from 2026-11-23 00:53 | request from 2026-11-22 08:53
 WAIT Strawberry Letter 23 (Album Version) — The Brothers Johnson | last aired 2026-11-21 21:30 | normal pick from 2026-11-23 09:30 | request from 2026-11-22 17:30
-WAIT Street Fighting Man — The Rolling Stones | last aired 2026-11-20 17:20 | normal pick from 2026-11-22 05:20 | request now
-OK   Street Lights — Josh Rouse | last aired 2026-11-18 06:22 | normal pick now | request now
+OK   Street Fighting Man — The Rolling Stones | last aired 2026-11-20 17:20 | normal pick now | request now
+WAIT Street Lights — Josh Rouse | last aired 2026-11-22 05:12 | normal pick from 2026-11-23 17:12 | request from 2026-11-23 01:12
 WAIT Streets of Philadelphia (Single Edit) — Bruce Springsteen | last aired 2026-11-21 18:45 | normal pick from 2026-11-23 06:45 | request from 2026-11-22 14:45
 WAIT Stressed Out — twenty one pilots | last aired 2026-11-21 21:59 | normal pick from 2026-11-23 09:59 | request from 2026-11-22 17:59
 OK   Strings of Light — Yussef Kamaal | last aired 2026-11-11 17:34 | normal pick now | request now
