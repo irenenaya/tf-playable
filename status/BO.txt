@@ -1,4 +1,4 @@
-Track status, artists filed under BO (built Sun Nov 22, 12:05 AM PST (08:05 UTC)). Times in UTC.
+Track status, artists filed under BO (built Sun Nov 22, 12:15 AM PST (08:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Boards of Canada — Blood In The Labyrinth | last aired 2026-11-19 15:18 | normal pick now | request now
@@ -15,7 +15,7 @@ OK   Bobby Hutcherson — Stardust | last aired 2026-11-20 06:37 | normal pick n
 WAIT Bobby McFerrin — Common Threads | last aired 2026-11-20 10:12 | normal pick from 2026-11-22 10:12 | request from 2026-11-22 10:12
 OK   Bobby McFerrin — Don't Worry Be Happy | last aired 2026-11-09 12:54 | normal pick now | request now
 WAIT Bobby Vinton — Blue Velvet | last aired 2026-11-21 02:02 | normal pick from 2026-11-22 14:02 | request now
-WAIT Bon Iver — Holocene | last aired 2026-11-20 08:15 | normal pick from 2026-11-22 08:15 | request from 2026-11-22 08:15
+OK   Bon Iver — Holocene | last aired 2026-11-20 08:15 | normal pick now | request now
 WAIT Bon Iver — Skinny Love | last aired 2026-11-20 13:10 | normal pick from 2026-11-22 13:10 | request from 2026-11-22 13:10
 WAIT Bon Jovi — Livin' On A Prayer | last aired 2026-11-21 06:37 | normal pick from 2026-11-22 18:37 | request now
 OK   Bon Jovi — You Give Love A Bad Name | last aired 2026-11-07 19:29 | normal pick now | request now
@@ -31,7 +31,7 @@ OK   Booker T. & The M.G.'s — Green Onions | last aired 2026-11-15 09:43 | nor
 OK   Booker T. & The M.G.'s — Time Is Tight (Live) | last aired 2026-11-15 09:57 | normal pick now | request now
 WAIT Booker T. Jones — Everything Is Everything | last aired 2026-11-20 20:33 | normal pick from 2026-11-22 08:33 | request now
 OK   Bootsy Collins — Psychoticbumpschool (LP Version) | last aired 2026-11-08 23:26 | normal pick now | request now
-WAIT Bowling For Soup — 1985 | last aired 2026-11-21 12:08 | normal pick from 2026-11-23 00:08 | request from 2026-11-22 08:08
+WAIT Bowling For Soup — 1985 | last aired 2026-11-21 12:08 | normal pick from 2026-11-23 00:08 | request now
 OK   Boy Throb — Finger | last aired 2026-11-11 18:10 | normal pick now | request now
 OK   Boyz II Men — End Of The Road (Album Version) | last aired 2026-11-15 09:51 | normal pick now | request now
 OK   Boz Scaggs — JoJo (2023 Remaster) | last aired 2026-11-15 09:06 | normal pick now | request now
