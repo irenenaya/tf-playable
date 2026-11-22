@@ -1,7 +1,7 @@
-Track status, song titles filed under TI (built Sat Nov 21, 10:05 PM PST (06:05 UTC Sun)). Times in UTC.
+Track status, song titles filed under TI (built Sat Nov 21, 10:15 PM PST (06:15 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   The Time Is Now — Moloko | last aired 2026-11-19 19:18 | normal pick now | request now
+WAIT The Time Is Now — Moloko | last aired 2026-11-22 06:05 | normal pick from 2026-11-23 18:05 | request from 2026-11-23 02:05
 WAIT The Time Warp — Richard O Brien | last aired 2026-11-20 21:35 | normal pick from 2026-11-22 09:35 | request now
 WAIT Ticket To Ride — Benjamin Francis Leftwich | last aired 2026-11-21 12:05 | normal pick from 2026-11-23 00:05 | request from 2026-11-22 08:05
 OK   Timber — Pitbull | last aired 2026-10-09 11:28 | normal pick now | request now
