@@ -1,4 +1,4 @@
-Track status, song titles filed under HO (built Sat Nov 21, 5:25 PM PST (01:25 UTC Sun)). Times in UTC.
+Track status, song titles filed under HO (built Sat Nov 21, 5:35 PM PST (01:35 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Holding — Grouper | last aired 2026-11-16 02:01 | normal pick now | request now
@@ -20,7 +20,7 @@ OK   Houdini — Dua Lipa | last aired 2026-11-20 02:56 | normal pick now | requ
 OK   House of the Rising Sun — Erik Grönwall | last aired 2026-11-11 09:35 | normal pick now | request now
 OK   House Where Nobody Lives — Tom Waits | last aired 2026-11-17 08:01 | normal pick now | request now
 WAIT How Deep Is The Ocean — Diana Krall | last aired 2026-11-20 02:25 | normal pick from 2026-11-22 02:25 | request from 2026-11-22 02:25
-OK   How Do — Sneaker Pimps | last aired 2026-11-13 04:23 | normal pick now | request now
+WAIT How Do — Sneaker Pimps | last aired 2026-11-22 01:22 | normal pick from 2026-11-23 13:22 | request from 2026-11-22 21:22
 WAIT How I Got Over (Live) — Mahalia Jackson | last aired 2026-11-20 05:21 | normal pick from 2026-11-22 05:21 | request from 2026-11-22 05:21
 OK   How You Remind Me (- LP Mix) — Nickelback | last aired 2026-11-19 19:35 | normal pick now | request now
 OK   The Hokey Pokey — Ray Anthony | last aired 2026-11-18 22:18 | normal pick now | request now
