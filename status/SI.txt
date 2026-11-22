@@ -1,4 +1,4 @@
-Track status, artists filed under SI (built Sun Nov 22, 4:45 AM PST (12:45 UTC)). Times in UTC.
+Track status, artists filed under SI (built Sun Nov 22, 4:55 AM PST (12:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Siddhartha — 00:00 | last aired 2026-11-18 20:10 | normal pick now | request now
@@ -6,7 +6,7 @@ OK   Side-A — Only You (There Will Never Be Another) | last aired 2026-11-18 2
 OK   Sigur Rós — Hoppípolla | last aired 2026-11-20 12:28 | normal pick now | request now
 OK   Sigur Rós — Starálfur | last aired 2026-11-17 02:29 | normal pick now | request now
 OK   Sigur Rós — Sé Lest | last aired 2026-11-16 10:43 | normal pick now | request now
-WAIT Sigur Rós — Untitled #3 (Samskeyti) | last aired 2026-11-20 12:48 | normal pick from 2026-11-22 12:48 | request from 2026-11-22 12:48
+OK   Sigur Rós — Untitled #3 (Samskeyti) | last aired 2026-11-20 12:48 | normal pick now | request now
 WAIT Silverchair — Ana's Song (Open Fire) | last aired 2026-11-22 02:29 | normal pick from 2026-11-23 14:29 | request from 2026-11-22 22:29
 WAIT Silverchair — Anthem for the Year 2000 (Album Version) | last aired 2026-11-21 08:42 | normal pick from 2026-11-22 20:42 | request now
 WAIT Simon & Garfunkel — Scarborough Fair (Live at Central Park, New York, NY - September 19, 1981) | last aired 2026-11-21 17:36 | normal pick from 2026-11-23 17:36 | request from 2026-11-23 17:36
