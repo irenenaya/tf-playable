@@ -1,4 +1,4 @@
-Track status, song titles filed under HE (built Sun Nov 22, 12:25 PM PST (20:25 UTC)). Times in UTC.
+Track status, song titles filed under HE (built Sun Nov 22, 12:35 PM PST (20:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   "Heroes" (2017 Remaster) — David Bowie | last aired 2026-11-16 17:11 | normal pick now | request now
@@ -22,7 +22,7 @@ OK   Helplessness Blues — Fleet Foxes | last aired 2026-11-20 13:45 | normal p
 WAIT Henry Lee (Remastered 2011) — Nick Cave & The Bad Seeds | last aired 2026-11-21 19:32 | normal pick from 2026-11-23 19:32 | request from 2026-11-23 19:32
 OK   Her Yerde Sen (Akustik) — Zeynep Bastık | last aired 2026-11-18 22:55 | normal pick now | request now
 OK   Here Comes The Flood (Exposure Fourth Edition: 2021 Stereo Mix) — Robert Fripp | last aired 2026-11-18 19:21 | normal pick now | request now
-OK   Here Comes The Sun (2019 Mix) — The Beatles | last aired 2026-11-14 13:34 | normal pick now | request now
+WAIT Here Comes The Sun (2019 Mix) — The Beatles | last aired 2026-11-22 20:25 | normal pick from 2026-11-24 08:25 | request from 2026-11-23 16:25
 OK   Heresy (Nine Inch Noize Version) — Nine Inch Nails | last aired 2026-11-10 00:20 | normal pick now | request now
 OK   Heroin — Lana Del Rey | last aired 2026-11-11 07:02 | normal pick now | request now
 WAIT Hey Joe (Live At Winterland, San Francisco, CA) — Jimi Hendrix | last aired 2026-11-21 14:37 | normal pick from 2026-11-23 02:37 | request now
