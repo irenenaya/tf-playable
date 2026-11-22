@@ -1,4 +1,4 @@
-Track status, artists filed under PA (built Sat Nov 21, 6:05 PM PST (02:05 UTC Sun)). Times in UTC.
+Track status, artists filed under PA (built Sat Nov 21, 6:15 PM PST (02:15 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Paco de Lucía — Entre Dos Aguas | last aired 2026-11-18 16:58 | normal pick now | request now
@@ -28,4 +28,4 @@ OK   Paul McCartney — Monkberry Moon Delight (2012 Remaster) | last aired 2026
 OK   Paul Rodgers — Muddy Water Blues | last aired 2026-11-11 03:11 | normal pick now | request now
 OK   Paul Simon — Further to Fly | last aired 2026-11-17 22:03 | normal pick now | request now
 WAIT Paul Simon — You Can Call Me Al | last aired 2026-11-20 13:30 | normal pick from 2026-11-22 13:30 | request from 2026-11-22 13:30
-OK   Paula Abdul — Straight Up (Single Version) | last aired 2026-11-05 08:56 | normal pick now | request now
+WAIT Paula Abdul — Straight Up (Single Version) | last aired 2026-11-22 02:02 | normal pick from 2026-11-23 14:02 | request from 2026-11-22 22:02

@@ -1,4 +1,4 @@
-Track status, song titles filed under ST (built Sat Nov 21, 6:05 PM PST (02:05 UTC Sun)). Times in UTC.
+Track status, song titles filed under ST (built Sat Nov 21, 6:15 PM PST (02:15 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   S.T.A.Y. — Hans Zimmer | last aired 2026-11-16 12:29 | normal pick now | request now
@@ -26,7 +26,7 @@ OK   Still Of The Night (2018 Remaster) — Whitesnake | last aired 2026-11-19 0
 WAIT Still Of The Night (Live In Tokyo, Japan / 1993) — Blue Murder | last aired 2026-11-21 15:21 | normal pick from 2026-11-23 03:21 | request from 2026-11-22 11:21
 OK   Stop Googling Me ! — Bart&Baker | last aired 2026-11-19 15:03 | normal pick now | request now
 OK   Straight Outta Vagina (feat. Desi Mo & Leikeli47) — Pussy Riot | last aired 2026-09-15 09:55 | normal pick now | request now
-OK   Straight Up (Single Version) — Paula Abdul | last aired 2026-11-05 08:56 | normal pick now | request now
+WAIT Straight Up (Single Version) — Paula Abdul | last aired 2026-11-22 02:02 | normal pick from 2026-11-23 14:02 | request from 2026-11-22 22:02
 OK   Strange — Patsy Cline | last aired 2026-11-19 13:17 | normal pick now | request now
 OK   Stranger in Moscow — Michael Jackson | last aired 2026-11-19 22:27 | normal pick now | request now
 WAIT Stranger On The Shore — Acker Bilk | last aired 2026-11-20 18:47 | normal pick from 2026-11-22 06:47 | request now
