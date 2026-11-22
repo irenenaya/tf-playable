@@ -1,4 +1,4 @@
-Track status, song titles filed under ON (built Sun Nov 22, 10:15 AM PST (18:15 UTC)). Times in UTC.
+Track status, song titles filed under ON (built Sun Nov 22, 10:25 AM PST (18:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   On & On — Erykah Badu | last aired 2026-11-21 04:58 | normal pick now | request now
@@ -9,7 +9,7 @@ OK   On the Road Again — Willie Nelson | last aired 2026-11-19 09:51 | normal 
 WAIT Once Upon a Time in the West (From "Once Upon a Time in the West") — Ennio Morricone | last aired 2026-11-22 02:00 | normal pick from 2026-11-24 02:00 | request from 2026-11-24 02:00
 OK   One (Remastered 2011) — U2 | last aired 2026-09-19 22:20 | normal pick now | request now
 WAIT One and Only — Cuco | last aired 2026-11-22 10:40 | normal pick from 2026-11-23 22:40 | request from 2026-11-23 06:40
-WAIT One Day I'll Fly Away — Randy Crawford | last aired 2026-11-20 18:24 | normal pick from 2026-11-22 18:24 | request from 2026-11-22 18:24
+OK   One Day I'll Fly Away — Randy Crawford | last aired 2026-11-20 18:24 | normal pick now | request now
 OK   One Last Time — Tom Konkle | last aired 2026-11-15 04:00 | normal pick now | request now
 OK   One More Time — Daft Punk | last aired 2026-11-18 15:12 | normal pick now | request now
 OK   One Night In Bangkok (From “Chess” / Remastered 2016) — Murray Head | last aired 2026-11-20 00:12 | normal pick now | request now
