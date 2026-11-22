@@ -1,4 +1,4 @@
-Track status, artists filed under ST (built Sun Nov 22, 3:25 PM PST (23:25 UTC)). Times in UTC.
+Track status, artists filed under ST (built Sun Nov 22, 3:35 PM PST (23:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   St Germain — Rose rouge | last aired 2026-11-15 13:41 | normal pick now | request now
@@ -44,7 +44,7 @@ WAIT Studio Group — I Will Follow Him (karaoke-version) As Made Famous By: Who
 OK   Studio Group — Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley | last aired 2026-08-31 18:46 | normal pick now | request now
 OK   Styx — Mr. Roboto | last aired 2026-11-15 15:23 | normal pick now | request now
 WAIT The Staple Singers — I'll Take You There | last aired 2026-11-22 00:40 | normal pick from 2026-11-24 00:40 | request from 2026-11-24 00:40
-WAIT The Strokes — Last Nite | last aired 2026-11-21 11:32 | normal pick from 2026-11-22 23:32 | request now
+OK   The Strokes — Last Nite | last aired 2026-11-21 11:32 | normal pick now | request now
 OK   The Strokes — Lonely in the Future | last aired 2026-11-17 21:07 | normal pick now | request now
 OK   The Strokes — Ode To The Mets | last aired 2026-11-17 22:32 | normal pick now | request now
 OK   The Style Council — Iwasadoledadstoyboy | last aired 2026-11-15 14:53 | normal pick now | request now
