@@ -1,4 +1,4 @@
-Track status, song titles filed under ON (built Sat Nov 21, 5:55 PM PST (01:55 UTC Sun)). Times in UTC.
+Track status, song titles filed under ON (built Sat Nov 21, 6:05 PM PST (02:05 UTC Sun)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT On & On — Erykah Badu | last aired 2026-11-21 04:58 | normal pick from 2026-11-22 16:58 | request now
@@ -6,7 +6,7 @@ WAIT On My Own — Patti LaBelle | last aired 2026-11-21 01:14 | normal pick fro
 WAIT On the Nature of Daylight — Max Richter | last aired 2026-11-20 11:25 | normal pick from 2026-11-22 11:25 | request from 2026-11-22 11:25
 OK   On The Road Again — Canned Heat | last aired 2026-11-18 23:08 | normal pick now | request now
 OK   On the Road Again — Willie Nelson | last aired 2026-11-19 09:51 | normal pick now | request now
-OK   Once Upon a Time in the West (From "Once Upon a Time in the West") — Ennio Morricone | last aired 2026-11-18 09:39 | normal pick now | request now
+WAIT Once Upon a Time in the West (From "Once Upon a Time in the West") — Ennio Morricone | last aired 2026-11-22 01:59 | normal pick from 2026-11-23 13:59 | request from 2026-11-22 21:59
 OK   One (Remastered 2011) — U2 | last aired 2026-09-19 22:20 | normal pick now | request now
 WAIT One and Only — Cuco | last aired 2026-11-20 22:15 | normal pick from 2026-11-22 10:15 | request now
 WAIT One Day I'll Fly Away — Randy Crawford | last aired 2026-11-20 18:24 | normal pick from 2026-11-22 18:24 | request from 2026-11-22 18:24
