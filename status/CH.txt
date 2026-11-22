@@ -1,4 +1,4 @@
-Track status, artists filed under CH (built Sun Nov 22, 1:15 AM PST (09:15 UTC)). Times in UTC.
+Track status, artists filed under CH (built Sun Nov 22, 1:25 AM PST (09:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Chaka Khan — What Cha' Gonna Do for Me | last aired 2026-11-21 20:18 | normal pick from 2026-11-23 20:18 | request from 2026-11-23 20:18
@@ -17,11 +17,11 @@ OK   Chavela Vargas — La llorona | last aired 2026-11-10 23:50 | normal pick n
 OK   Chet Atkins — Why Worry (Album Version) | last aired 2026-11-11 08:21 | normal pick now | request now
 WAIT Chet Baker — Almost Blue | last aired 2026-11-20 10:09 | normal pick from 2026-11-22 10:09 | request from 2026-11-22 10:09
 OK   Chet Baker — My Funny Valentine | last aired 2026-11-16 12:27 | normal pick now | request now
-OK   Chet Baker — You Don't Know What Love Is | last aired 2026-11-20 10:17 | normal pick now | request now
+WAIT Chet Baker — You Don't Know What Love Is | last aired 2026-11-22 09:14 | normal pick from 2026-11-23 21:14 | request from 2026-11-23 05:14
 WAIT Chic — Good Times (2018 Remaster) | last aired 2026-11-20 15:23 | normal pick from 2026-11-22 15:23 | request from 2026-11-22 15:23
 WAIT Chicago — Hard to Say I'M Sorry / Get Away | last aired 2026-11-22 06:15 | normal pick from 2026-11-23 18:15 | request from 2026-11-23 02:15
 OK   Chico Buarque — Construção | last aired 2026-11-13 20:06 | normal pick now | request now
-OK   Child Seat — Heart To Heart | last aired 2026-11-20 18:40 | normal pick now | request now
+WAIT Child Seat — Heart To Heart | last aired 2026-11-22 09:19 | normal pick from 2026-11-23 21:19 | request from 2026-11-23 05:19
 WAIT Child Seat — Hyperphantasia | last aired 2026-11-21 10:43 | normal pick from 2026-11-22 22:43 | request now
 OK   Chris Christodoulou — The Rain Formerly Known as Purple | last aired 2026-11-12 21:30 | normal pick now | request now
 WAIT Chris De Burgh — The Getaway | last aired 2026-11-21 08:56 | normal pick from 2026-11-22 20:56 | request now
