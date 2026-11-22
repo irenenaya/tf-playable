@@ -1,4 +1,4 @@
-Track status, song titles filed under SW (built Sun Nov 22, 3:35 AM PST (11:35 UTC)). Times in UTC.
+Track status, song titles filed under SW (built Sun Nov 22, 3:45 AM PST (11:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Swan Lake Suite, Op. 20a - Tchaikovsky: Swan Lake Suite, Op. 20a: I. Scene "Swan Theme". Moderato — Mstislav Rostropovich | last aired 2026-11-02 11:20 | normal pick now | request now
@@ -13,5 +13,5 @@ OK   Sweet Sounds Of Heaven — The Rolling Stones | last aired 2026-11-14 04:06
 OK   Sweet Surrender (Album Version) — Sarah McLachlan | last aired 2026-11-20 09:33 | normal pick now | request now
 OK   Sweet Transvestite — Tim Curry | last aired 2026-10-25 12:34 | normal pick now | request now
 OK   Switched-on Wendy — Luca Di Sabatino | last aired 2026-11-20 20:42 | normal pick now | request now
-OK   The Sweetest Taboo (Remastered Version) — Sade | last aired 2026-11-20 10:39 | normal pick now | request now
+WAIT The Sweetest Taboo (Remastered Version) — Sade | last aired 2026-11-22 11:38 | normal pick from 2026-11-24 11:38 | request from 2026-11-24 11:38
 OK   The Swing Phenomenon (Radio Edit) [feat. Nicolle Rochelle] — Bart&Baker | last aired 2026-11-19 12:39 | normal pick now | request now
