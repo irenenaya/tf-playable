@@ -1,4 +1,4 @@
-Track status, song titles filed under HO (built Sun Nov 22, 4:35 PM PST (00:35 UTC Mon)). Times in UTC.
+Track status, song titles filed under HO (built Sun Nov 22, 4:45 PM PST (00:45 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Holding — Grouper | last aired 2026-11-16 02:01 | normal pick now | request now
@@ -9,7 +9,7 @@ OK   Holocene — Bon Iver | last aired 2026-11-20 08:15 | normal pick now | req
 OK   Holy Water (Album Version) — Soundgarden | last aired 2026-11-17 22:45 | normal pick now | request now
 OK   Home At Last — Steely Dan | last aired 2026-11-19 16:58 | normal pick now | request now
 OK   Honesty (Album Version) — Billy Joel | last aired 2026-11-17 11:20 | normal pick now | request now
-OK   Honey Bones — Dope Lemon | last aired 2026-10-31 20:02 | normal pick now | request now
+WAIT Honey Bones — Dope Lemon | last aired 2026-11-23 00:33 | normal pick from 2026-11-24 12:33 | request from 2026-11-23 20:33
 OK   Hong Kong — Gorillaz | last aired 2026-11-20 00:54 | normal pick now | request now
 OK   Hope Road (A-Z Route) — Anne Clark | last aired 2026-11-12 03:26 | normal pick now | request now
 WAIT Hopopono — GoGo Penguin | last aired 2026-11-22 07:03 | normal pick from 2026-11-24 07:03 | request from 2026-11-24 07:03
