@@ -1,8 +1,8 @@
-Track status, song titles filed under LE (built Mon Nov 23, 12:25 AM PST (08:25 UTC)). Times in UTC.
+Track status, song titles filed under LE (built Mon Nov 23, 12:35 AM PST (08:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Le Chant des oiseaux — La Fenice | last aired 2026-11-21 14:53 | normal pick now | request now
-WAIT Le Coeur — Thievery Corporation | last aired 2026-11-21 08:26 | normal pick from 2026-11-23 08:26 | request from 2026-11-23 08:26
+OK   Le Coeur — Thievery Corporation | last aired 2026-11-21 08:26 | normal pick now | request now
 OK   Le onde — Chris Snelling | last aired 2026-11-16 07:07 | normal pick now | request now
 OK   Le Pianiste de Varsovie — Gilbert Bécaud | last aired 2026-11-21 18:52 | normal pick now | request now
 WAIT Le vent nous portera — Sophie Hunger | last aired 2026-11-21 09:05 | normal pick from 2026-11-23 09:05 | request from 2026-11-23 09:05
