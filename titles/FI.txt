@@ -1,4 +1,4 @@
-Track status, song titles filed under FI (built Sun Nov 22, 3:55 PM PST (23:55 UTC)). Times in UTC.
+Track status, song titles filed under FI (built Sun Nov 22, 4:05 PM PST (00:05 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Fickt-Euch-Allee — Grossstadtgeflüster | last aired 2026-09-18 10:29 | normal pick now | request now
@@ -6,7 +6,7 @@ WAIT Fields Of Gold (My Songs Version) — Sting | last aired 2026-11-22 19:57 |
 OK   Finger — Boy Throb | last aired 2026-11-11 18:10 | normal pick now | request now
 WAIT Fire and Rain (2019 Remaster) — James Taylor | last aired 2026-11-22 19:38 | normal pick from 2026-11-24 19:38 | request from 2026-11-24 19:38
 WAIT First Dream Called Ocean — Helios | last aired 2026-11-22 08:59 | normal pick from 2026-11-24 08:59 | request from 2026-11-24 08:59
-WAIT First Love — Hikaru Utada | last aired 2026-11-21 11:56 | normal pick from 2026-11-22 23:56 | request now
+OK   First Love — Hikaru Utada | last aired 2026-11-21 11:56 | normal pick now | request now
 WAIT The Final Countdown (Album Version) — Europe | last aired 2026-11-22 02:24 | normal pick from 2026-11-23 14:24 | request now
 OK   The Fire Bird: IV. Infernal Dance of King Kastchei — Pierre Monteux | last aired 2026-10-13 10:34 | normal pick now | request now
 WAIT The First Cut Is The Deepest — Sheryl Crow | last aired 2026-11-22 02:11 | normal pick from 2026-11-23 14:11 | request now
