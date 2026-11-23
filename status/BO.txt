@@ -1,4 +1,4 @@
-Track status, artists filed under BO (built Sun Nov 22, 7:05 PM PST (03:05 UTC Mon)). Times in UTC.
+Track status, artists filed under BO (built Sun Nov 22, 7:15 PM PST (03:15 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Boards of Canada — Blood In The Labyrinth | last aired 2026-11-19 15:18 | normal pick now | request now
@@ -10,11 +10,11 @@ OK   Bob Dylan — The Lonesome Death of Hattie Carroll | last aired 2026-11-15 
 WAIT Bob Marley & The Wailers — Get Up, Stand Up | last aired 2026-11-21 13:39 | normal pick from 2026-11-23 13:39 | request from 2026-11-23 13:39
 OK   Bobby Caldwell — Coming Down from Love | last aired 2026-11-21 00:43 | normal pick now | request now
 WAIT Bobby Caldwell — What You Won't Do for Love | last aired 2026-11-21 16:54 | normal pick from 2026-11-23 16:54 | request from 2026-11-23 16:54
-OK   Bobby Darin — Beyond the Sea | last aired 2026-11-19 02:29 | normal pick now | request now
-OK   Bobby Hutcherson — Stardust | last aired 2026-11-20 06:37 | normal pick now | request now
+WAIT Bobby Darin — Beyond the Sea | last aired 2026-11-23 03:07 | normal pick from 2026-11-25 03:07 | request from 2026-11-25 03:07
+WAIT Bobby Hutcherson — Stardust | last aired 2026-11-23 03:10 | normal pick from 2026-11-25 03:10 | request from 2026-11-25 03:10
 OK   Bobby McFerrin — Common Threads | last aired 2026-11-20 10:12 | normal pick now | request now
 OK   Bobby McFerrin — Don't Worry Be Happy | last aired 2026-11-09 12:54 | normal pick now | request now
-OK   Bobby Vinton — Blue Velvet | last aired 2026-11-21 02:02 | normal pick now | request now
+WAIT Bobby Vinton — Blue Velvet | last aired 2026-11-23 03:05 | normal pick from 2026-11-24 15:05 | request from 2026-11-23 23:05
 OK   Bon Iver — Holocene | last aired 2026-11-20 08:15 | normal pick now | request now
 WAIT Bon Iver — Skinny Love | last aired 2026-11-22 16:32 | normal pick from 2026-11-24 16:32 | request from 2026-11-24 16:32
 OK   Bon Jovi — Livin' On A Prayer | last aired 2026-11-21 06:37 | normal pick now | request now
