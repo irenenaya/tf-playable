@@ -1,4 +1,4 @@
-Track status, song titles filed under SW (built Sun Nov 22, 7:55 PM PST (03:55 UTC Mon)). Times in UTC.
+Track status, song titles filed under SW (built Sun Nov 22, 8:05 PM PST (04:05 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Swan Lake Suite, Op. 20a - Tchaikovsky: Swan Lake Suite, Op. 20a: I. Scene "Swan Theme". Moderato — Mstislav Rostropovich | last aired 2026-11-22 17:08 | normal pick from 2026-11-24 05:08 | request from 2026-11-23 13:08
@@ -8,7 +8,7 @@ OK   Sweet Dreams (Are Made of This) [2018 Remastered] — Eurythmics, Annie Len
 OK   Sweet Jane (Full Length Version; 2015 Remaster) — The Velvet Underground | last aired 2026-11-21 02:19 | normal pick now | request now
 OK   Sweet Jane (Full Length Version; 2015 Remaster)n; 2015 Remaster) — The Velvet Underground | last aired 2026-10-29 07:32 | normal pick now | request now
 OK   Sweet Little Mountain Bird — The Ray Charles Singers | last aired 2026-11-19 00:12 | normal pick now | request now
-OK   Sweet Love — Anita Baker | last aired 2026-11-19 02:25 | normal pick now | request now
+WAIT Sweet Love — Anita Baker | last aired 2026-11-23 04:00 | normal pick from 2026-11-25 04:00 | request from 2026-11-25 04:00
 WAIT Sweet Sounds Of Heaven — The Rolling Stones | last aired 2026-11-22 18:22 | normal pick from 2026-11-24 06:22 | request from 2026-11-23 14:22
 OK   Sweet Surrender (Album Version) — Sarah McLachlan | last aired 2026-11-20 09:33 | normal pick now | request now
 OK   Sweet Transvestite — Tim Curry | last aired 2026-10-25 12:34 | normal pick now | request now
