@@ -1,8 +1,8 @@
-Track status, song titles filed under AC (built Sun Nov 22, 7:25 PM PST (03:25 UTC Mon)). Times in UTC.
+Track status, song titles filed under AC (built Sun Nov 22, 7:35 PM PST (03:35 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   A Calf Born In Winter — Khruangbin | last aired 2026-11-20 10:31 | normal pick now | request now
 OK   A Case Of You (Live) — Diana Krall | last aired 2026-11-19 22:49 | normal pick now | request now
-OK   A Case of You — Joni Mitchell | last aired 2026-11-20 13:14 | normal pick now | request now
+WAIT A Case of You — Joni Mitchell | last aired 2026-11-23 03:26 | normal pick from 2026-11-25 03:26 | request from 2026-11-25 03:26
 OK   A Change Is Gonna Come — Sam Cooke | last aired 2026-11-20 14:01 | normal pick now | request now
 WAIT A Clockwork Orange Title Music (From "A Clockwork Orange") — The Original Movies Orchestra | last aired 2026-11-22 16:27 | normal pick from 2026-11-24 04:27 | request from 2026-11-23 12:27

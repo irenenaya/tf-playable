@@ -1,4 +1,4 @@
-Track status, artists filed under NE (built Sun Nov 22, 7:25 PM PST (03:25 UTC Mon)). Times in UTC.
+Track status, artists filed under NE (built Sun Nov 22, 7:35 PM PST (03:35 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Neil Diamond — Be (Introduction Of Jonathan) | last aired 2026-11-17 03:58 | normal pick now | request now
@@ -11,7 +11,7 @@ OK   Nekrogoblikon — Powercore | last aired 2026-11-19 00:06 | normal pick now
 WAIT Nelson Freire — Bachianas brasileiras No. 4, W. 264: I. Preludio (Introduçao). Lento | last aired 2026-11-22 16:10 | normal pick from 2026-11-24 04:10 | request from 2026-11-23 12:10
 WAIT Neuro-sama — Colorful Array | last aired 2026-11-22 16:20 | normal pick from 2026-11-24 04:20 | request from 2026-11-23 12:20
 OK   Neuro-sama — LIFE | last aired 2026-08-30 14:26 | normal pick now | request now
-WAIT Neuro-sama — NEVER | last aired 2026-11-21 15:30 | normal pick from 2026-11-23 03:30 | request now
+OK   Neuro-sama — NEVER | last aired 2026-11-21 15:30 | normal pick now | request now
 OK   Neuro-sama — Pattern Recognition (feat. ODDEEO) | last aired 2026-09-25 15:01 | normal pick now | request now
 OK   Never Get Used To People — Life Letters (Slowed+Reverb) | last aired 2026-11-15 01:20 | normal pick now | request now
 OK   New Found Glory — My Friends Over You | last aired 2026-11-16 21:41 | normal pick now | request now
