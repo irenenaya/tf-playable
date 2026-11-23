@@ -1,7 +1,7 @@
-Track status, song titles filed under CI (built Mon Nov 23, 8:35 AM PST (16:35 UTC)). Times in UTC.
+Track status, song titles filed under CI (built Mon Nov 23, 8:45 AM PST (16:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Ciao Ciao — La Rappresentante di Lista | last aired 2026-11-22 04:36 | normal pick from 2026-11-23 16:36 | request now
+OK   Ciao Ciao — La Rappresentante di Lista | last aired 2026-11-22 04:36 | normal pick now | request now
 WAIT Circle (Album Version) — Edie Brickell & New Bohemians | last aired 2026-11-23 09:18 | normal pick from 2026-11-24 21:18 | request from 2026-11-24 05:18
 WAIT Circle — Swan Dive | last aired 2026-11-23 15:05 | normal pick from 2026-11-25 03:05 | request from 2026-11-24 11:05
 WAIT Cirrus — Bonobo | last aired 2026-11-23 09:40 | normal pick from 2026-11-25 09:40 | request from 2026-11-25 09:40
