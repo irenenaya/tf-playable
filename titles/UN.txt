@@ -1,4 +1,4 @@
-Track status, song titles filed under UN (built Mon Nov 23, 7:15 AM PST (15:15 UTC)). Times in UTC.
+Track status, song titles filed under UN (built Mon Nov 23, 7:25 AM PST (15:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Universal — Blur | last aired 2026-11-21 15:58 | normal pick now | request now
@@ -9,7 +9,7 @@ WAIT Under The Ivy — Kate Bush | last aired 2026-11-23 09:03 | normal pick fro
 OK   Under The Pressure — The War On Drugs | last aired 2026-11-18 22:39 | normal pick now | request now
 OK   Underwater Love — Smoke City | last aired 2026-11-16 22:34 | normal pick now | request now
 OK   Underwater — Sun's Signature | last aired 2026-11-11 05:19 | normal pick now | request now
-WAIT Unfinished Sympathy (2012 Mix/Master) — Massive Attack | last aired 2026-11-22 03:24 | normal pick from 2026-11-23 15:24 | request now
+OK   Unfinished Sympathy (2012 Mix/Master) — Massive Attack | last aired 2026-11-22 03:24 | normal pick now | request now
 OK   Unravel — Björk | last aired 2026-11-13 01:26 | normal pick now | request now
 OK   Unstoppable — Lianne La Havas | last aired 2026-11-19 23:12 | normal pick now | request now
 OK   Until Death Do Us Part — Filippo Beck Peccoz | last aired 2026-11-13 21:02 | normal pick now | request now
