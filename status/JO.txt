@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Mon Nov 23, 3:05 AM PST (11:05 UTC)). Times in UTC.
+Track status, artists filed under JO (built Mon Nov 23, 3:15 AM PST (11:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-11-18 08:30 | normal pick now | request now
@@ -32,11 +32,11 @@ WAIT John Lennon — Instant Karma! (We All Shine On) (Ultimate Mix) | last aire
 OK   John Lennon — Watching The Wheels (Remastered 2010) | last aired 2026-11-18 06:18 | normal pick now | request now
 OK   John Mayer — New Light | last aired 2026-11-21 18:49 | normal pick now | request now
 OK   John McLaughlin — You Know, You Know (Album Version) | last aired 2026-11-18 08:22 | normal pick now | request now
-OK   John Prine — Your Flag Decal Won't Get You into Heaven Anymore | last aired 2026-11-18 08:07 | normal pick now | request now
+WAIT John Prine — Your Flag Decal Won't Get You into Heaven Anymore | last aired 2026-11-23 11:06 | normal pick from 2026-11-24 23:06 | request from 2026-11-24 07:06
 OK   John T. Williams — Anything Goes | last aired 2026-10-16 05:14 | normal pick now | request now
 OK   John Williams — Theme From Superman (Concert Version) | last aired 2026-11-21 02:27 | normal pick now | request now
 OK   Johnny Cash — Folsom Prison Blues | last aired 2026-11-17 09:24 | normal pick now | request now
-OK   Johnny Cash — Hurt (Album Version) | last aired 2026-11-19 06:39 | normal pick now | request now
+WAIT Johnny Cash — Hurt (Album Version) | last aired 2026-11-23 11:02 | normal pick from 2026-11-24 23:02 | request from 2026-11-24 07:02
 OK   Johnny Cash — Redemption Day (Album Version) | last aired 2026-11-21 20:53 | normal pick now | request now
 OK   Johnny Cash — Ring of Fire | last aired 2026-11-17 11:24 | normal pick now | request now
 WAIT Johnny Flynn — Detectorists (Original Soundtrack from the TV Series) | last aired 2026-11-23 10:52 | normal pick from 2026-11-24 22:52 | request from 2026-11-24 06:52
@@ -53,7 +53,7 @@ WAIT Josh Rouse — 1972 | last aired 2026-11-23 10:48 | normal pick from 2026-1
 WAIT Josh Rouse — Street Lights | last aired 2026-11-22 05:12 | normal pick from 2026-11-23 17:12 | request now
 WAIT José González — Heartbeats | last aired 2026-11-23 10:46 | normal pick from 2026-11-25 10:46 | request from 2026-11-25 10:46
 OK   Journey — Don't Stop Believin' (Album Version) | last aired 2026-11-21 05:50 | normal pick now | request now
-OK   Journey — Lights (Album Version) | last aired 2026-11-18 08:33 | normal pick now | request now
+WAIT Journey — Lights (Album Version) | last aired 2026-11-23 11:09 | normal pick from 2026-11-24 23:09 | request from 2026-11-24 07:09
 OK   Joywave — In Clover | last aired 2026-11-21 15:44 | normal pick now | request now
 OK   Joywave — Rumors | last aired 2026-11-20 21:55 | normal pick now | request now
 OK   João Gilberto — Chega de Saudade | last aired 2026-11-18 05:34 | normal pick now | request now
