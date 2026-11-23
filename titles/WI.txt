@@ -1,4 +1,4 @@
-Track status, song titles filed under WI (built Mon Nov 23, 4:25 AM PST (12:25 UTC)). Times in UTC.
+Track status, song titles filed under WI (built Mon Nov 23, 4:35 AM PST (12:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Wicked Game (Remastered Album Version) — Chris Isaak | last aired 2026-11-06 17:17 | normal pick now | request now
@@ -8,7 +8,7 @@ OK   Wild Is the Wind (2016 Remaster) — David Bowie | last aired 2026-11-17 13
 WAIT Wild Is The Wind — Nina Simone | last aired 2026-11-23 04:52 | normal pick from 2026-11-25 04:52 | request from 2026-11-25 04:52
 OK   Window Seat — Erykah Badu | last aired 2026-11-20 17:47 | normal pick now | request now
 OK   Windowlicker — Aphex Twin | last aired 2026-11-17 13:44 | normal pick now | request now
-WAIT Wing — Patti Smith | last aired 2026-11-22 00:31 | normal pick from 2026-11-23 12:31 | request now
+OK   Wing — Patti Smith | last aired 2026-11-22 00:31 | normal pick now | request now
 WAIT Winter — Tori Amos | last aired 2026-11-23 06:22 | normal pick from 2026-11-24 18:22 | request from 2026-11-24 02:22
 OK   Wish You Were Here — Pink Floyd | last aired 2026-11-21 04:41 | normal pick now | request now
 WAIT Wishmaster — Nightwish | last aired 2026-11-22 05:41 | normal pick from 2026-11-23 17:41 | request now
