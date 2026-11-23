@@ -1,4 +1,4 @@
-Track status, artists filed under MA (built Sun Nov 22, 11:05 PM PST (07:05 UTC Mon)). Times in UTC.
+Track status, artists filed under MA (built Sun Nov 22, 11:15 PM PST (07:15 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   M/A/R/R/S — Pump Up The Volume (UK 12" Remix) | last aired 2026-11-18 16:05 | normal pick now | request now
@@ -26,7 +26,7 @@ WAIT Marilyn Manson — The Love Song | last aired 2026-11-21 22:35 | normal pic
 OK   Marisa Monte — Beija Eu | last aired 2026-11-21 04:38 | normal pick now | request now
 OK   Mariya Takeuchi — Plastic Love | last aired 2026-11-21 03:41 | normal pick now | request now
 OK   Mariza — Ó gente da minha terra | last aired 2026-11-18 03:35 | normal pick now | request now
-OK   Mark Hollis — A Life (1895 - 1915) | last aired 2026-11-18 15:57 | normal pick now | request now
+WAIT Mark Hollis — A Life (1895 - 1915) | last aired 2026-11-23 07:07 | normal pick from 2026-11-24 19:07 | request from 2026-11-24 03:07
 WAIT Mark Hollis — The Colour Of Spring | last aired 2026-11-21 23:28 | normal pick from 2026-11-23 23:28 | request from 2026-11-23 23:28
 OK   Mark Knopfler — The Long Road | last aired 2026-11-21 08:00 | normal pick now | request now
 OK   marshall4 — i get gender envy from shadow the hedgehog | last aired 2026-10-18 03:54 | normal pick now | request now
@@ -41,7 +41,7 @@ OK   Marvin Gaye — Inner City Blues (Make Me Wanna Holler) | last aired 2026-1
 OK   Marvin Gaye — Let's Get It On | last aired 2026-11-04 20:49 | normal pick now | request now
 OK   Marvin Gaye — Mercy Mercy Me (The Ecology) | last aired 2026-11-17 21:10 | normal pick now | request now
 OK   Marvin Gaye — Save The Children | last aired 2026-11-18 07:50 | normal pick now | request now
-WAIT Marvin Gaye — Sexual Healing (Album Version) | last aired 2026-11-22 11:14 | normal pick from 2026-11-23 23:14 | request from 2026-11-23 07:14
+WAIT Marvin Gaye — Sexual Healing (Album Version) | last aired 2026-11-22 11:14 | normal pick from 2026-11-23 23:14 | request now
 OK   Marvin Gaye — What's Going On | last aired 2026-11-21 12:20 | normal pick now | request now
 OK   Marvin Gaye — Wholy Holy | last aired 2026-11-21 06:27 | normal pick now | request now
 WAIT Mary Halvorson — About Ghosts | last aired 2026-11-22 05:32 | normal pick from 2026-11-23 17:32 | request now
