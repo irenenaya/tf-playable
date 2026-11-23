@@ -1,4 +1,4 @@
-Track status, artists filed under PE (built Mon Nov 23, 4:55 AM PST (12:55 UTC)). Times in UTC.
+Track status, artists filed under PE (built Mon Nov 23, 5:05 AM PST (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Pearl Jam — Yellow Ledbetter | last aired 2026-11-22 00:44 | normal pick from 2026-11-24 00:44 | request from 2026-11-24 00:44
@@ -26,5 +26,5 @@ WAIT Peter Gabriel — Sledgehammer | last aired 2026-11-22 22:30 | normal pick 
 WAIT Peter Gabriel — The Feeling Begins (Remastered 2002) | last aired 2026-11-22 05:08 | normal pick from 2026-11-24 05:08 | request from 2026-11-24 05:08
 OK   Peter Jablonski — Waltz No.19 in A minor, Op.posth. - Chopin: Waltz No. 19 in A minor, Op. posth. | last aired 2026-11-16 06:48 | normal pick now | request now
 OK   Petit Biscuit — Sunset Lover | last aired 2026-11-22 00:22 | normal pick now | request now
-OK   Petra Haden — Moon River | last aired 2026-11-16 06:02 | normal pick now | request now
+WAIT Petra Haden — Moon River | last aired 2026-11-23 12:56 | normal pick from 2026-11-25 00:56 | request from 2026-11-24 08:56
 OK   Petra — This Means War | last aired 2026-11-11 22:27 | normal pick now | request now
