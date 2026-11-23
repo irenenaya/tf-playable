@@ -1,4 +1,4 @@
-Track status, song titles filed under BA (built Sun Nov 22, 10:05 PM PST (06:05 UTC Mon)). Times in UTC.
+Track status, song titles filed under BA (built Sun Nov 22, 10:15 PM PST (06:15 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT ...Baby One More Time (from Kung Fu Panda 4) — Tenacious D | last aired 2026-11-21 20:28 | normal pick from 2026-11-23 08:28 | request now
@@ -21,4 +21,4 @@ OK   Bangaranga — Dara | last aired 2026-11-17 14:42 | normal pick now | reque
 OK   Barcarola - J. Offenbach (La Vita È Bella) — Orchestra Italiana | last aired 2026-11-16 18:20 | normal pick now | request now
 WAIT Barco negro — Amália Rodrigues | last aired 2026-11-22 12:07 | normal pick from 2026-11-24 00:07 | request from 2026-11-23 08:07
 OK   Barely Breathing — Duncan Sheik | last aired 2026-09-19 22:14 | normal pick now | request now
-OK   The Ballad of Love and Hate — The Avett Brothers | last aired 2026-11-13 05:48 | normal pick now | request now
+WAIT The Ballad of Love and Hate — The Avett Brothers | last aired 2026-11-23 06:03 | normal pick from 2026-11-24 18:03 | request from 2026-11-24 02:03

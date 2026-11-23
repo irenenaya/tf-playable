@@ -1,4 +1,4 @@
-Track status, song titles filed under HA (built Sun Nov 22, 10:05 PM PST (06:05 UTC Mon)). Times in UTC.
+Track status, song titles filed under HA (built Sun Nov 22, 10:15 PM PST (06:15 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Halah — Mazzy Star | last aired 2026-11-20 07:09 | normal pick now | request now
@@ -24,4 +24,4 @@ OK   Haunted When the Minutes Drag — Love and Rockets | last aired 2026-11-18 
 OK   Haus am See — Peter Fox | last aired 2026-11-19 20:28 | normal pick now | request now
 OK   Have a Cigar — Pink Floyd | last aired 2026-11-16 17:42 | normal pick now | request now
 WAIT Have Yourself A Merry Little Christmas (Remastered 1999) — Frank Sinatra | last aired 2026-11-22 12:46 | normal pick from 2026-11-24 00:46 | request from 2026-11-23 08:46
-WAIT The Hand That Feeds — Nine Inch Nails | last aired 2026-11-21 18:06 | normal pick from 2026-11-23 06:06 | request now
+OK   The Hand That Feeds — Nine Inch Nails | last aired 2026-11-21 18:06 | normal pick now | request now
