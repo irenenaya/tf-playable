@@ -1,4 +1,4 @@
-Track status, song titles filed under NO (built Mon Nov 23, 10:25 AM PST (18:25 UTC)). Times in UTC.
+Track status, song titles filed under NO (built Mon Nov 23, 10:35 AM PST (18:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   (No One Knows Me) Like the Piano — Sampha | last aired 2026-11-21 08:11 | normal pick now | request now
@@ -14,7 +14,7 @@ WAIT Noctilune No. 1 (Bandoneon Solo) — Claudio Constantini | last aired 2026-
 OK   Nocturne in C minor, Op. 48, No. 1 — Olejniczak Janusz | last aired 2026-11-19 21:24 | normal pick now | request now
 WAIT Nocturne n° 2 in E flat, op. 9 n° 2 - Nocturne No. 2 in E-Flat Major, Op. 9 No. 2 — Daniel Barenboim | last aired 2026-11-22 06:41 | normal pick from 2026-11-23 18:41 | request now
 WAIT Nod Scene — Monster Magnet | last aired 2026-11-23 00:26 | normal pick from 2026-11-24 12:26 | request from 2026-11-23 20:26
-OK   Northern Sky — Nick Drake | last aired 2026-11-20 08:02 | normal pick now | request now
+WAIT Northern Sky — Nick Drake | last aired 2026-11-23 18:23 | normal pick from 2026-11-25 18:23 | request from 2026-11-25 18:23
 OK   Norwegian Reggaeton (feat. Charly Glamour & Gigatron) — Nanowar of Steel | last aired 2026-11-21 03:07 | normal pick now | request now
 OK   Not Like Us — Kendrick Lamar | last aired 2026-11-21 19:03 | normal pick now | request now
 OK   Nothing Compares 2 U (2009 Remaster) — Sinéad O'Connor | last aired 2026-11-17 03:13 | normal pick now | request now
