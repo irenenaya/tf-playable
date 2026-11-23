@@ -1,20 +1,20 @@
-Track status, artists filed under JA (built Mon Nov 23, 3:25 AM PST (11:25 UTC)). Times in UTC.
+Track status, artists filed under JA (built Mon Nov 23, 3:45 AM PST (11:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Jack Johnson — Better Together | last aired 2026-11-19 11:35 | normal pick now | request now
-OK   Jack Johnson — Upside Down | last aired 2026-11-09 00:24 | normal pick now | request now
+WAIT Jack Johnson — Upside Down | last aired 2026-11-23 11:32 | normal pick from 2026-11-24 23:32 | request from 2026-11-24 07:32
 OK   Jacquees — Won't Turn It Down | last aired 2026-11-04 14:10 | normal pick now | request now
 WAIT James Blake — Retrograde | last aired 2026-11-22 19:46 | normal pick from 2026-11-24 19:46 | request from 2026-11-24 19:46
 OK   James Brown — I Got You (I Feel Good) | last aired 2026-11-18 14:43 | normal pick now | request now
 OK   James Brown — Sunny | last aired 2026-11-15 14:28 | normal pick now | request now
 WAIT James Taylor — Fire and Rain (2019 Remaster) | last aired 2026-11-22 19:38 | normal pick from 2026-11-24 19:38 | request from 2026-11-24 19:38
-OK   Jamie xx — Gosh | last aired 2026-11-18 14:20 | normal pick now | request now
+WAIT Jamie xx — Gosh | last aired 2026-11-23 11:35 | normal pick from 2026-11-25 11:35 | request from 2026-11-25 11:35
 WAIT Jamiroquai — Cosmic Girl (Remastered 2013) | last aired 2026-11-22 19:34 | normal pick from 2026-11-24 19:34 | request from 2026-11-24 19:34
 WAIT Jan Hammer — Crockett's Theme | last aired 2026-11-21 20:21 | normal pick from 2026-11-23 20:21 | request from 2026-11-23 20:21
 WAIT Janelle Monáe — Make Me Feel | last aired 2026-11-23 02:49 | normal pick from 2026-11-25 02:49 | request from 2026-11-25 02:49
-OK   Janet Jackson — Any Time, Any Place | last aired 2026-11-18 14:36 | normal pick now | request now
+WAIT Janet Jackson — Any Time, Any Place | last aired 2026-11-23 11:25 | normal pick from 2026-11-25 11:25 | request from 2026-11-25 11:25
 WAIT Janis Joplin — Me and Bobby McGee | last aired 2026-11-22 19:42 | normal pick from 2026-11-24 19:42 | request from 2026-11-24 19:42
-OK   Jars Of Clay — Flood | last aired 2026-11-19 04:05 | normal pick now | request now
+WAIT Jars Of Clay — Flood | last aired 2026-11-23 11:40 | normal pick from 2026-11-25 11:40 | request from 2026-11-25 11:40
 OK   JAWNY — true | last aired 2026-11-19 08:45 | normal pick now | request now
 OK   JAY1 — Your Mrs | last aired 2026-11-19 08:48 | normal pick now | request now
 WAIT Jazz Liberatorz — Always something | last aired 2026-11-21 17:44 | normal pick from 2026-11-23 17:44 | request from 2026-11-23 17:44
