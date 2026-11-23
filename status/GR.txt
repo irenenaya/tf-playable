@@ -1,4 +1,4 @@
-Track status, artists filed under GR (built Sun Nov 22, 11:55 PM PST (07:55 UTC Mon)). Times in UTC.
+Track status, artists filed under GR (built Mon Nov 23, 12:05 AM PST (08:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   G.Rag & die Landlergschwister — Odessa | last aired 2026-11-10 16:56 | normal pick now | request now
@@ -9,7 +9,7 @@ OK   Grateful Dead — Eyes of the World | last aired 2026-11-19 05:03 | normal 
 OK   Green Day — American Idiot (Album Version) | last aired 2026-11-14 02:30 | normal pick now | request now
 OK   Greg Shilling — Shampoo | last aired 2026-11-19 17:04 | normal pick now | request now
 OK   Gregory Alan Isakov — Big Black Car | last aired 2026-11-19 16:54 | normal pick now | request now
-OK   Grethe & Jørgen Ingmann — Dansevise | last aired 2026-11-10 16:49 | normal pick now | request now
+WAIT Grethe & Jørgen Ingmann — Dansevise | last aired 2026-11-23 07:55 | normal pick from 2026-11-24 19:55 | request from 2026-11-24 03:55
 OK   Grimes — Oblivion | last aired 2026-11-16 01:40 | normal pick now | request now
 OK   Groove Armada — At the River | last aired 2026-11-20 06:43 | normal pick now | request now
 WAIT Groove Armada — Madder | last aired 2026-11-22 23:06 | normal pick from 2026-11-24 11:06 | request from 2026-11-23 19:06
