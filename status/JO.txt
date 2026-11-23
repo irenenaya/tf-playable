@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Mon Nov 23, 7:25 AM PST (15:25 UTC)). Times in UTC.
+Track status, artists filed under JO (built Mon Nov 23, 7:35 AM PST (15:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-11-18 08:30 | normal pick now | request now
@@ -26,7 +26,7 @@ OK   John Coltrane — My Favorite Things | last aired 2026-11-18 05:55 | normal
 WAIT John Denver — Take Me Home, Country Roads | last aired 2026-11-22 03:04 | normal pick from 2026-11-24 03:04 | request from 2026-11-24 03:04
 OK   John Lee Hooker — Boom Boom | last aired 2026-11-21 01:59 | normal pick now | request now
 OK   John Lee Hooker — I Cover the Waterfront | last aired 2026-11-18 08:11 | normal pick now | request now
-WAIT John Lennon — Give Peace A Chance (Remastered 2010) | last aired 2026-11-22 19:26 | normal pick from 2026-11-24 07:26 | request from 2026-11-23 15:26
+WAIT John Lennon — Give Peace A Chance (Remastered 2010) | last aired 2026-11-22 19:26 | normal pick from 2026-11-24 07:26 | request now
 OK   John Lennon — Imagine (Remastered 2010) | last aired 2026-11-19 06:47 | normal pick now | request now
 WAIT John Lennon — Instant Karma! (We All Shine On) (Ultimate Mix) | last aired 2026-11-23 10:21 | normal pick from 2026-11-24 22:21 | request from 2026-11-24 06:21
 OK   John Lennon — Watching The Wheels (Remastered 2010) | last aired 2026-11-18 06:18 | normal pick now | request now
