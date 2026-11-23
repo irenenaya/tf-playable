@@ -1,7 +1,7 @@
-Track status, artists filed under KA (built Mon Nov 23, 12:45 AM PST (08:45 UTC)). Times in UTC.
+Track status, artists filed under KA (built Mon Nov 23, 12:55 AM PST (08:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Kacey Musgraves — Deeper Well | last aired 2026-11-20 17:31 | normal pick now | request now
+WAIT Kacey Musgraves — Deeper Well | last aired 2026-11-23 08:45 | normal pick from 2026-11-25 08:45 | request from 2026-11-25 08:45
 WAIT Kali Uchis — For: You | last aired 2026-11-22 02:33 | normal pick from 2026-11-23 14:33 | request now
 OK   Kali Uchis — telepatía | last aired 2026-11-18 15:23 | normal pick now | request now
 OK   Kanye West — Devil In A New Dress (Album Version (Explicit)) | last aired 2026-11-19 11:55 | normal pick now | request now

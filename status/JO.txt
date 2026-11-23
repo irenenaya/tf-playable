@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Mon Nov 23, 12:45 AM PST (08:45 UTC)). Times in UTC.
+Track status, artists filed under JO (built Mon Nov 23, 12:55 AM PST (08:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-11-18 08:30 | normal pick now | request now
@@ -37,7 +37,7 @@ OK   John T. Williams — Anything Goes | last aired 2026-10-16 05:14 | normal p
 OK   John Williams — Theme From Superman (Concert Version) | last aired 2026-11-21 02:27 | normal pick now | request now
 OK   Johnny Cash — Folsom Prison Blues | last aired 2026-11-17 09:24 | normal pick now | request now
 OK   Johnny Cash — Hurt (Album Version) | last aired 2026-11-19 06:39 | normal pick now | request now
-WAIT Johnny Cash — Redemption Day (Album Version) | last aired 2026-11-21 20:53 | normal pick from 2026-11-23 08:53 | request now
+OK   Johnny Cash — Redemption Day (Album Version) | last aired 2026-11-21 20:53 | normal pick now | request now
 OK   Johnny Cash — Ring of Fire | last aired 2026-11-17 11:24 | normal pick now | request now
 OK   Johnny Flynn — Detectorists (Original Soundtrack from the TV Series) | last aired 2026-11-21 16:30 | normal pick now | request now
 OK   Johnny Mathis — Wonderful! Wonderful! | last aired 2026-11-18 06:09 | normal pick now | request now
