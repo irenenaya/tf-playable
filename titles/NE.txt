@@ -1,4 +1,4 @@
-Track status, song titles filed under NE (built Sun Nov 22, 11:25 PM PST (07:25 UTC Mon)). Times in UTC.
+Track status, song titles filed under NE (built Sun Nov 22, 11:35 PM PST (07:35 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Near Dark — Burial | last aired 2026-11-21 21:40 | normal pick from 2026-11-23 09:40 | request now
@@ -7,7 +7,7 @@ WAIT Neues Land — Hans Tanz | last aired 2026-11-21 12:58 | normal pick from 2
 OK   Never Gonna Give You Up — Rick Astley | last aired 2026-11-21 18:37 | normal pick now | request now
 OK   NEVER — Neuro-sama | last aired 2026-11-21 15:30 | normal pick now | request now
 OK   Never Tear Us Apart — INXS | last aired 2026-11-20 20:08 | normal pick now | request now
-OK   New Grass — Talk Talk | last aired 2026-11-15 00:41 | normal pick now | request now
+WAIT New Grass — Talk Talk | last aired 2026-11-23 07:24 | normal pick from 2026-11-24 19:24 | request from 2026-11-24 03:24
 OK   New Light — John Mayer | last aired 2026-11-21 18:49 | normal pick now | request now
 OK   New Music Machine (Buffalo Daughter Remix) — Cornelius | last aired 2026-11-09 18:43 | normal pick now | request now
 OK   New Orleans Is Sinking — The Tragically Hip | last aired 2026-11-20 20:38 | normal pick now | request now

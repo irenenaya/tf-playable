@@ -1,10 +1,10 @@
-Track status, artists filed under DI (built Sun Nov 22, 11:25 PM PST (07:25 UTC Mon)). Times in UTC.
+Track status, artists filed under DI (built Sun Nov 22, 11:35 PM PST (07:35 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Diana Krall — A Case Of You (Live) | last aired 2026-11-19 22:49 | normal pick now | request now
 OK   Diana Krall — How Deep Is The Ocean | last aired 2026-11-20 02:25 | normal pick now | request now
 OK   Diana Ross — I'm Coming Out | last aired 2026-11-20 14:41 | normal pick now | request now
-WAIT Diana Ross — Muscles | last aired 2026-11-22 11:33 | normal pick from 2026-11-23 23:33 | request from 2026-11-23 07:33
+WAIT Diana Ross — Muscles | last aired 2026-11-22 11:33 | normal pick from 2026-11-23 23:33 | request now
 WAIT Die Fantastischen Vier — MfG - Mit freundlichen Grüßen (2022) | last aired 2026-11-22 20:39 | normal pick from 2026-11-24 08:39 | request from 2026-11-23 16:39
 OK   DIIV — Doused | last aired 2026-11-11 23:30 | normal pick now | request now
 OK   Dire Straits — Brothers in Arms | last aired 2026-11-16 18:03 | normal pick now | request now
