@@ -1,4 +1,4 @@
-Track status, song titles filed under BI (built Sun Nov 22, 4:15 PM PST (00:15 UTC Mon)). Times in UTC.
+Track status, song titles filed under BI (built Sun Nov 22, 4:25 PM PST (00:25 UTC Mon)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Bibo no Aozora — Ryuichi Sakamoto | last aired 2026-11-16 11:26 | normal pick now | request now
@@ -9,7 +9,7 @@ OK   Big Sky Country (Album Version) — Chris Whitley | last aired 2026-11-21 1
 OK   Biggest Part of Me (Album Version) — Ambrosia | last aired 2026-11-20 16:56 | normal pick now | request now
 OK   Bird — Dead Can Dance | last aired 2026-11-19 04:45 | normal pick now | request now
 OK   Bird on the Wire — Leonard Cohen | last aired 2026-11-18 21:18 | normal pick now | request now
-WAIT BIRDS OF A FEATHER — Billie Eilish | last aired 2026-11-21 12:17 | normal pick from 2026-11-23 00:17 | request now
+OK   BIRDS OF A FEATHER — Billie Eilish | last aired 2026-11-21 12:17 | normal pick now | request now
 OK   Birth4000 — Floating Points | last aired 2026-11-20 13:40 | normal pick now | request now
 OK   Bitter Sweet (Remastered 1999) — Roxy Music | last aired 2026-11-20 05:59 | normal pick now | request now
 WAIT Bizarre Love Triangle — Dorian Electra | last aired 2026-11-22 16:07 | normal pick from 2026-11-24 04:07 | request from 2026-11-23 12:07
