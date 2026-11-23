@@ -1,4 +1,4 @@
-Track status, song titles filed under FE (built Mon Nov 23, 12:55 AM PST (08:55 UTC)). Times in UTC.
+Track status, song titles filed under FE (built Mon Nov 23, 1:05 AM PST (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Fearless — Pink Floyd | last aired 2026-11-16 18:53 | normal pick now | request now
@@ -8,6 +8,6 @@ WAIT Feel — Hiroshi Yoshimura | last aired 2026-11-22 06:53 | normal pick from
 OK   Feel It Boy — Beenie Man | last aired 2026-11-20 19:30 | normal pick now | request now
 OK   Feeling Good — Muse | last aired 2026-11-20 00:41 | normal pick now | request now
 OK   Feeling Good — Nina Simone | last aired 2026-11-20 05:50 | normal pick now | request now
-OK   Feels So Good — Chuck Mangione | last aired 2026-11-06 12:08 | normal pick now | request now
+WAIT Feels So Good — Chuck Mangione | last aired 2026-11-23 08:53 | normal pick from 2026-11-24 20:53 | request from 2026-11-24 04:53
 OK   Fell On Black Days (Album Version) — Soundgarden | last aired 2026-11-20 04:06 | normal pick now | request now
 WAIT The Feeling Begins (Remastered 2002) — Peter Gabriel | last aired 2026-11-22 05:08 | normal pick from 2026-11-24 05:08 | request from 2026-11-24 05:08
