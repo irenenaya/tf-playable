@@ -1,4 +1,4 @@
-Track status, song titles filed under AT (built Tue Nov 24, 1:25 PM PST (21:25 UTC)). Times in UTC.
+Track status, song titles filed under AT (built Tue Nov 24, 1:35 PM PST (21:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT A Taste of Honey — Herb Alpert's Tijuana Brass | last aired 2026-11-24 18:53 | normal pick from 2026-11-26 06:53 | request from 2026-11-25 14:53
@@ -17,6 +17,6 @@ OK   At Last — Kenny G | last aired 2026-08-27 15:01 | normal pick now | reque
 WAIT At Last — Lou Rawls | last aired 2026-11-23 21:45 | normal pick from 2026-11-25 09:45 | request now
 OK   At Last — Natalie Cole | last aired 2026-11-22 09:07 | normal pick now | request now
 OK   At Last — THE FATBACK BAND | last aired 2026-10-21 00:45 | normal pick now | request now
-WAIT At Last — The Temprees | last aired 2026-11-23 09:30 | normal pick from 2026-11-24 21:30 | request now
+OK   At Last — The Temprees | last aired 2026-11-23 09:30 | normal pick now | request now
 OK   At Last — Various Interprets | last aired 2026-09-27 15:48 | normal pick now | request now
 OK   At the River — Groove Armada | last aired 2026-11-23 08:34 | normal pick now | request now
