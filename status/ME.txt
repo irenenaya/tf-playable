@@ -1,4 +1,4 @@
-Track status, artists filed under ME (built Tue Nov 24, 12:35 AM PST (08:35 UTC)). Times in UTC.
+Track status, artists filed under ME (built Tue Nov 24, 12:45 AM PST (08:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Meat Beat Manifesto — Prime Audio Soup | last aired 2026-10-18 11:27 | normal pick now | request now
@@ -15,7 +15,7 @@ OK   Melody Gardot — This Foolish Heart Could Love You | last aired 2026-11-22
 OK   Melody Gardot — Worrisome Heart (Album Version) | last aired 2026-11-21 00:20 | normal pick now | request now
 OK   Men At Work — Down Under | last aired 2026-11-01 10:59 | normal pick now | request now
 OK   Men At Work — Overkill | last aired 2026-11-21 13:30 | normal pick now | request now
-WAIT Men I Trust — Show Me How | last aired 2026-11-22 08:38 | normal pick from 2026-11-24 08:38 | request from 2026-11-24 08:38
+OK   Men I Trust — Show Me How | last aired 2026-11-22 08:38 | normal pick now | request now
 WAIT Mercedes Sosa — Gracias a la Vida (En Vivo NY) | last aired 2026-11-24 04:41 | normal pick from 2026-11-26 04:41 | request from 2026-11-26 04:41
 OK   Mercury Rev — Little Rhymes | last aired 2026-11-21 13:46 | normal pick now | request now
 OK   Metallica — Enter Sandman | last aired 2026-11-17 19:58 | normal pick now | request now
