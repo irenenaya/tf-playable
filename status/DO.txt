@@ -1,4 +1,4 @@
-Track status, artists filed under DO (built Tue Nov 24, 2:05 AM PST (10:05 UTC)). Times in UTC.
+Track status, artists filed under DO (built Tue Nov 24, 2:15 AM PST (10:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Dolly Parton — 9 to 5 | last aired 2026-11-23 16:32 | normal pick from 2026-11-25 04:32 | request from 2026-11-24 12:32
@@ -6,7 +6,7 @@ OK   Dolly Parton — Coat of Many Colors | last aired 2026-11-20 09:05 | normal
 OK   Dolly Parton — I Dreamed About Elvis | last aired 2026-11-20 09:37 | normal pick now | request now
 OK   Dolly Parton — I Will Always Love You | last aired 2026-11-16 21:27 | normal pick now | request now
 OK   Dolly Parton — Jolene | last aired 2026-11-22 18:13 | normal pick now | request now
-WAIT Don McLean — Vincent | last aired 2026-11-22 10:12 | normal pick from 2026-11-24 10:12 | request from 2026-11-24 10:12
+OK   Don McLean — Vincent | last aired 2026-11-22 10:12 | normal pick now | request now
 OK   Donald Fagen — The Nightfly | last aired 2026-11-22 21:14 | normal pick now | request now
 OK   Donna De Lory — Praying For Love | last aired 2026-11-21 13:10 | normal pick now | request now
 OK   Donna Summer — I Feel Love | last aired 2026-11-20 15:31 | normal pick now | request now
