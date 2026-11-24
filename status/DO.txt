@@ -1,7 +1,7 @@
-Track status, artists filed under DO (built Tue Nov 24, 4:25 AM PST (12:25 UTC)). Times in UTC.
+Track status, artists filed under DO (built Tue Nov 24, 4:35 AM PST (12:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Dolly Parton — 9 to 5 | last aired 2026-11-23 16:32 | normal pick from 2026-11-25 04:32 | request from 2026-11-24 12:32
+WAIT Dolly Parton — 9 to 5 | last aired 2026-11-23 16:32 | normal pick from 2026-11-25 04:32 | request now
 OK   Dolly Parton — Coat of Many Colors | last aired 2026-11-20 09:05 | normal pick now | request now
 OK   Dolly Parton — I Dreamed About Elvis | last aired 2026-11-20 09:37 | normal pick now | request now
 OK   Dolly Parton — I Will Always Love You | last aired 2026-11-16 21:27 | normal pick now | request now
@@ -12,7 +12,7 @@ OK   Donna De Lory — Praying For Love | last aired 2026-11-21 13:10 | normal p
 OK   Donna Summer — I Feel Love | last aired 2026-11-20 15:31 | normal pick now | request now
 OK   Donny Hathaway — A Song for You | last aired 2026-11-21 02:58 | normal pick now | request now
 OK   Donny Hathaway — Jealous Guy (Live) | last aired 2026-11-21 10:25 | normal pick now | request now
-WAIT Dope Lemon — Honey Bones | last aired 2026-11-23 00:33 | normal pick from 2026-11-24 12:33 | request now
+OK   Dope Lemon — Honey Bones | last aired 2026-11-23 00:33 | normal pick now | request now
 OK   Dorian Electra — Bizarre Love Triangle | last aired 2026-11-22 16:07 | normal pick now | request now
 OK   Dorian Electra — Feel Good Inc. | last aired 2026-11-10 18:27 | normal pick now | request now
 OK   Dorian Electra — Hella Good | last aired 2026-11-23 00:06 | normal pick now | request now
