@@ -1,7 +1,7 @@
-Track status, artists filed under CY (built Tue Nov 24, 1:55 AM PST (09:55 UTC)). Times in UTC.
+Track status, artists filed under CY (built Tue Nov 24, 2:05 AM PST (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Cyndi Lauper — All Through the Night | last aired 2026-11-20 16:03 | normal pick now | request now
+WAIT Cyndi Lauper — All Through the Night | last aired 2026-11-24 10:00 | normal pick from 2026-11-25 22:00 | request from 2026-11-25 06:00
 OK   Cyndi Lauper — At Last (Album Version) | last aired 2026-11-22 14:16 | normal pick now | request now
 OK   Cyndi Lauper — Girls Just Want to Have Fun | last aired 2026-11-19 18:30 | normal pick now | request now
 OK   Cyndi Lauper — Time After Time | last aired 2026-11-21 05:26 | normal pick now | request now

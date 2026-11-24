@@ -1,9 +1,9 @@
-Track status, song titles filed under WA (built Tue Nov 24, 1:55 AM PST (09:55 UTC)). Times in UTC.
+Track status, song titles filed under WA (built Tue Nov 24, 2:05 AM PST (10:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Way You Look Tonight — Tony Bennett & Faith Hill | last aired 2026-11-22 11:22 | normal pick now | request now
 OK   Wagner: Tristan und Isolde - Wagner: Tristan und Isolde: Prelude - Orchestra (Act One) — Richard Wagner | last aired 2026-10-29 23:18 | normal pick now | request now
-WAIT Wait — M83 | last aired 2026-11-24 09:23 | normal pick from 2026-11-25 21:23 | request from 2026-11-25 05:23
+WAIT Wait — M83 | last aired 2026-11-24 09:24 | normal pick from 2026-11-25 21:24 | request from 2026-11-25 05:24
 OK   Waiting Room — Fugazi | last aired 2026-11-20 23:34 | normal pick now | request now
 OK   Wake Me Up — Becky Levi and the Nightjars | last aired 2026-10-22 06:23 | normal pick now | request now
 OK   Walkin' On The Sun — Smash Mouth | last aired 2026-11-13 01:38 | normal pick now | request now
@@ -19,7 +19,7 @@ OK   watashi igai watashi ja naino — gesunokiwamiotome | last aired 2026-11-20
 OK   Watching The Detectives (Single Version) — Elvis Costello | last aired 2026-11-17 13:50 | normal pick now | request now
 OK   Watching The Wheels (Remastered 2010) — John Lennon | last aired 2026-11-18 06:18 | normal pick now | request now
 WAIT Water From An Ancient Well — Abdullah Ibrahim | last aired 2026-11-24 05:52 | normal pick from 2026-11-25 17:52 | request from 2026-11-25 01:52
-WAIT Water No Get Enemy — Fela Kuti | last aired 2026-11-24 05:03 | normal pick from 2026-11-25 17:03 | request from 2026-11-25 01:03
+WAIT Water No Get Enemy — Fela Kuti | last aired 2026-11-24 05:03 | normal pick from 2026-11-26 05:03 | request from 2026-11-26 05:03
 OK   Water — Tyla | last aired 2026-11-21 00:03 | normal pick now | request now
 OK   Waterloo (English Version) — ABBA | last aired 2026-11-19 17:36 | normal pick now | request now
 OK   Watermelon Sugar — Harry Styles | last aired 2026-11-14 17:18 | normal pick now | request now
