@@ -1,8 +1,8 @@
-Track status, song titles filed under RI (built Tue Nov 24, 8:05 AM PST (16:05 UTC)). Times in UTC.
+Track status, song titles filed under RI (built Tue Nov 24, 8:25 AM PST (16:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Richter: Shadow Journal — Tilda Swinton | last aired 2026-11-20 11:03 | normal pick now | request now
-OK   Ride Like the Wind (Album Version) — Christopher Cross | last aired 2026-11-21 08:51 | normal pick now | request now
+WAIT Ride Like the Wind (Album Version) — Christopher Cross | last aired 2026-11-24 16:08 | normal pick from 2026-11-26 04:08 | request from 2026-11-25 12:08
 OK   Ride On (Fight On) — Little Axe | last aired 2026-11-21 07:41 | normal pick now | request now
 OK   Ride On Time — DEEN | last aired 2026-11-22 18:46 | normal pick now | request now
 OK   Riders on the Storm — The Doors | last aired 2026-10-31 11:05 | normal pick now | request now
