@@ -1,4 +1,4 @@
-Track status, song titles filed under CH (built Tue Nov 24, 11:35 AM PST (19:35 UTC)). Times in UTC.
+Track status, song titles filed under CH (built Tue Nov 24, 11:45 AM PST (19:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Cha Cha Cha — Käärijä | last aired 2026-11-20 17:52 | normal pick now | request now
@@ -15,7 +15,7 @@ OK   Chega de Saudade — João Gilberto | last aired 2026-11-18 05:34 | normal 
 OK   Chemical — Post Malone | last aired 2026-11-12 03:06 | normal pick now | request now
 OK   Cherish the Day (Remastered Version) — Sade | last aired 2026-11-20 06:59 | normal pick now | request now
 OK   Cherry Twist — The Crystal Method | last aired 2026-10-24 12:09 | normal pick now | request now
-OK   Cherry Waves — Deftones | last aired 2026-11-19 11:17 | normal pick now | request now
+WAIT Cherry Waves — Deftones | last aired 2026-11-24 19:34 | normal pick from 2026-11-26 07:34 | request from 2026-11-25 15:34
 WAIT Cherry Wine (Live) — Hozier | last aired 2026-11-24 19:00 | normal pick from 2026-11-26 07:00 | request from 2026-11-25 15:00
 WAIT Cherry-coloured Funk — Cocteau Twins | last aired 2026-11-23 23:11 | normal pick from 2026-11-25 23:11 | request from 2026-11-25 23:11
 WAIT Chewbaca — Supernova | last aired 2026-11-23 14:03 | normal pick from 2026-11-25 02:03 | request now
