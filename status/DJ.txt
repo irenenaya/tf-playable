@@ -1,4 +1,4 @@
-Track status, artists filed under DJ (built Mon Nov 23, 10:25 PM PST (06:25 UTC Tue)). Times in UTC.
+Track status, artists filed under DJ (built Mon Nov 23, 10:35 PM PST (06:35 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   DJ Benjii — Aykedashem Lebe | last aired 2026-10-29 11:19 | normal pick now | request now
@@ -8,4 +8,4 @@ OK   Djivan Gasparyan — Fallen Star | last aired 2026-11-22 02:55 | normal pic
 OK   Djivan Gasparyan — Take My Heart | last aired 2026-11-11 19:32 | normal pick now | request now
 OK   Djivan Gasparyan — They Took My Love Away | last aired 2026-10-30 23:54 | normal pick now | request now
 WAIT Djivan Gasparyan — Together Forever | last aired 2026-11-22 19:50 | normal pick from 2026-11-24 07:50 | request now
-WAIT Djo — End of Beginning | last aired 2026-11-22 18:30 | normal pick from 2026-11-24 06:30 | request now
+OK   Djo — End of Beginning | last aired 2026-11-22 18:30 | normal pick now | request now
