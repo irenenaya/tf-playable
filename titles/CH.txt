@@ -1,4 +1,4 @@
-Track status, song titles filed under CH (built Mon Nov 23, 8:45 PM PST (04:45 UTC Tue)). Times in UTC.
+Track status, song titles filed under CH (built Mon Nov 23, 8:55 PM PST (04:55 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Cha Cha Cha — Käärijä | last aired 2026-11-20 17:52 | normal pick now | request now
@@ -6,7 +6,7 @@ OK   Chaiyya Chaiyya — Sukhwinder Singh | last aired 2026-11-01 17:22 | normal
 WAIT Chamber Of Reflection — Mac DeMarco | last aired 2026-11-23 05:12 | normal pick from 2026-11-25 05:12 | request from 2026-11-25 05:12
 OK   Chameleon — Herbie Hancock | last aired 2026-11-18 04:46 | normal pick now | request now
 OK   Champs-Elysées — Zaz | last aired 2026-11-17 02:36 | normal pick now | request now
-OK   Chan Chan — Buena Vista Social Club | last aired 2026-11-22 01:18 | normal pick now | request now
+WAIT Chan Chan — Buena Vista Social Club | last aired 2026-11-24 04:46 | normal pick from 2026-11-26 04:46 | request from 2026-11-26 04:46
 OK   Chances — Joel Pott | last aired 2026-10-26 11:28 | normal pick now | request now
 OK   Change (In the House of Flies) — Deftones | last aired 2026-11-05 08:58 | normal pick now | request now
 WAIT Change the World — Eric Clapton | last aired 2026-11-22 09:03 | normal pick from 2026-11-24 09:03 | request from 2026-11-24 09:03
