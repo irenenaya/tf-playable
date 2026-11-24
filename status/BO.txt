@@ -1,4 +1,4 @@
-Track status, artists filed under BO (built Mon Nov 23, 5:25 PM PST (01:25 UTC Tue)). Times in UTC.
+Track status, artists filed under BO (built Mon Nov 23, 5:35 PM PST (01:35 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Boards of Canada — Blood In The Labyrinth | last aired 2026-11-19 15:18 | normal pick now | request now
@@ -7,7 +7,7 @@ OK   Boards of Canada — Olson | last aired 2026-11-19 03:26 | normal pick now 
 WAIT Boards of Canada — Roygbiv | last aired 2026-11-23 23:26 | normal pick from 2026-11-25 11:26 | request from 2026-11-24 19:26
 WAIT Bob Dylan — Girl from the North Country | last aired 2026-11-22 05:17 | normal pick from 2026-11-24 05:17 | request from 2026-11-24 05:17
 OK   Bob Dylan — The Lonesome Death of Hattie Carroll | last aired 2026-11-15 09:24 | normal pick now | request now
-OK   Bob Marley & The Wailers — Get Up, Stand Up | last aired 2026-11-21 13:39 | normal pick now | request now
+WAIT Bob Marley & The Wailers — Get Up, Stand Up | last aired 2026-11-24 01:24 | normal pick from 2026-11-26 01:24 | request from 2026-11-26 01:24
 WAIT Bobby Caldwell — Coming Down from Love | last aired 2026-11-23 23:32 | normal pick from 2026-11-25 23:32 | request from 2026-11-25 23:32
 OK   Bobby Caldwell — What You Won't Do for Love | last aired 2026-11-21 16:54 | normal pick now | request now
 WAIT Bobby Darin — Beyond the Sea | last aired 2026-11-23 03:08 | normal pick from 2026-11-25 03:08 | request from 2026-11-25 03:08
