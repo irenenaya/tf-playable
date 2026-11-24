@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Mon Nov 23, 10:55 PM PST (06:55 UTC Tue)). Times in UTC.
+Track status, artists filed under JO (built Mon Nov 23, 11:05 PM PST (07:05 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-11-18 08:30 | normal pick now | request now
@@ -36,7 +36,7 @@ WAIT John Prine — Your Flag Decal Won't Get You into Heaven Anymore | last air
 OK   John T. Williams — Anything Goes | last aired 2026-10-16 05:14 | normal pick now | request now
 OK   John Williams — Theme From Superman (Concert Version) | last aired 2026-11-21 02:27 | normal pick now | request now
 OK   Johnny Cash — Folsom Prison Blues | last aired 2026-11-17 09:24 | normal pick now | request now
-WAIT Johnny Cash — Hurt (Album Version) | last aired 2026-11-23 11:02 | normal pick from 2026-11-24 23:02 | request from 2026-11-24 07:02
+WAIT Johnny Cash — Hurt (Album Version) | last aired 2026-11-23 11:02 | normal pick from 2026-11-24 23:02 | request now
 OK   Johnny Cash — Redemption Day (Album Version) | last aired 2026-11-21 20:53 | normal pick now | request now
 OK   Johnny Cash — Ring of Fire | last aired 2026-11-17 11:24 | normal pick now | request now
 WAIT Johnny Flynn — Detectorists (Original Soundtrack from the TV Series) | last aired 2026-11-23 10:53 | normal pick from 2026-11-24 22:53 | request now
@@ -46,7 +46,7 @@ WAIT Jon Hopkins — Open Eye Signal (Remaster 2023) | last aired 2026-11-23 11:
 OK   Jon Hopkins — Small Memory | last aired 2026-11-20 12:03 | normal pick now | request now
 OK   Jonathan Parecki — Senbonzakura (Hatsune Miku) | last aired 2026-09-02 17:36 | normal pick now | request now
 WAIT Joni Mitchell — A Case of You | last aired 2026-11-23 03:26 | normal pick from 2026-11-25 03:26 | request from 2026-11-25 03:26
-WAIT Joni Mitchell — At Last (LP Version) | last aired 2026-11-23 10:58 | normal pick from 2026-11-24 22:58 | request from 2026-11-24 06:58
+WAIT Joni Mitchell — At Last (LP Version) | last aired 2026-11-23 10:58 | normal pick from 2026-11-24 22:58 | request now
 WAIT Joni Mitchell — River | last aired 2026-11-23 19:53 | normal pick from 2026-11-25 19:53 | request from 2026-11-25 19:53
 WAIT Jorge Ben Jor — Mas, Que Nada! | last aired 2026-11-23 10:55 | normal pick from 2026-11-25 10:55 | request from 2026-11-25 10:55
 WAIT Josh Rouse — 1972 | last aired 2026-11-23 10:49 | normal pick from 2026-11-24 22:49 | request now
