@@ -1,9 +1,9 @@
-Track status, artists filed under SO (built Mon Nov 23, 4:25 PM PST (00:25 UTC Tue)). Times in UTC.
+Track status, artists filed under SO (built Mon Nov 23, 4:35 PM PST (00:35 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Soda Stereo — De Música Ligera (Remasterizado 2007) | last aired 2026-11-23 15:17 | normal pick from 2026-11-25 15:17 | request from 2026-11-25 15:17
 OK   Soda Stereo — En La Ciudad De La Furia (MTV Unplugged) | last aired 2026-11-18 10:38 | normal pick now | request now
-OK   Soda Stereo — Luna Roja (Remasterizado 2007) | last aired 2026-11-18 08:49 | normal pick now | request now
+WAIT Soda Stereo — Luna Roja (Remasterizado 2007) | last aired 2026-11-24 00:30 | normal pick from 2026-11-25 12:30 | request from 2026-11-24 20:30
 OK   Soft Cell — Tainted Love | last aired 2026-11-18 20:35 | normal pick now | request now
 OK   Sol Gabetta — Fantasiestücke, Op. 73 - Schumann: Fantasiestücke, Op. 73: No. 1, Zart und mit Ausdruck | last aired 2026-11-19 21:30 | normal pick now | request now
 WAIT Solange — Cranes in the Sky | last aired 2026-11-22 03:44 | normal pick from 2026-11-24 03:44 | request from 2026-11-24 03:44
