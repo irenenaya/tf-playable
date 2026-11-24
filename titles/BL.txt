@@ -1,8 +1,8 @@
-Track status, song titles filed under BL (built Tue Nov 24, 11:25 AM PST (19:25 UTC)). Times in UTC.
+Track status, song titles filed under BL (built Tue Nov 24, 11:35 AM PST (19:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Black Diamond — Stratovarius | last aired 2026-11-02 03:41 | normal pick now | request now
-OK   Black Fingernails, Red Wine — Eskimo Joe | last aired 2026-11-13 22:05 | normal pick now | request now
+WAIT Black Fingernails, Red Wine — Eskimo Joe | last aired 2026-11-24 19:30 | normal pick from 2026-11-26 07:30 | request from 2026-11-25 15:30
 OK   Black Hole Sun — Soundgarden | last aired 2026-11-17 20:09 | normal pick now | request now
 OK   Black Magic Woman — Percy Faith & His Orchestra | last aired 2026-11-22 03:37 | normal pick now | request now
 OK   Black Magic Woman — Santana | last aired 2026-11-20 01:23 | normal pick now | request now
