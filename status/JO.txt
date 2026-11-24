@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Mon Nov 23, 10:45 PM PST (06:45 UTC Tue)). Times in UTC.
+Track status, artists filed under JO (built Mon Nov 23, 10:55 PM PST (06:55 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-11-18 08:30 | normal pick now | request now
@@ -39,7 +39,7 @@ OK   Johnny Cash — Folsom Prison Blues | last aired 2026-11-17 09:24 | normal 
 WAIT Johnny Cash — Hurt (Album Version) | last aired 2026-11-23 11:02 | normal pick from 2026-11-24 23:02 | request from 2026-11-24 07:02
 OK   Johnny Cash — Redemption Day (Album Version) | last aired 2026-11-21 20:53 | normal pick now | request now
 OK   Johnny Cash — Ring of Fire | last aired 2026-11-17 11:24 | normal pick now | request now
-WAIT Johnny Flynn — Detectorists (Original Soundtrack from the TV Series) | last aired 2026-11-23 10:53 | normal pick from 2026-11-24 22:53 | request from 2026-11-24 06:53
+WAIT Johnny Flynn — Detectorists (Original Soundtrack from the TV Series) | last aired 2026-11-23 10:53 | normal pick from 2026-11-24 22:53 | request now
 WAIT Johnny Mathis — Wonderful! Wonderful! | last aired 2026-11-23 10:43 | normal pick from 2026-11-24 22:43 | request now
 OK   Joker Out — Novi Val | last aired 2026-11-21 13:19 | normal pick now | request now
 WAIT Jon Hopkins — Open Eye Signal (Remaster 2023) | last aired 2026-11-23 11:12 | normal pick from 2026-11-25 11:12 | request from 2026-11-25 11:12
@@ -49,7 +49,7 @@ WAIT Joni Mitchell — A Case of You | last aired 2026-11-23 03:26 | normal pick
 WAIT Joni Mitchell — At Last (LP Version) | last aired 2026-11-23 10:58 | normal pick from 2026-11-24 22:58 | request from 2026-11-24 06:58
 WAIT Joni Mitchell — River | last aired 2026-11-23 19:53 | normal pick from 2026-11-25 19:53 | request from 2026-11-25 19:53
 WAIT Jorge Ben Jor — Mas, Que Nada! | last aired 2026-11-23 10:55 | normal pick from 2026-11-25 10:55 | request from 2026-11-25 10:55
-WAIT Josh Rouse — 1972 | last aired 2026-11-23 10:49 | normal pick from 2026-11-24 22:49 | request from 2026-11-24 06:49
+WAIT Josh Rouse — 1972 | last aired 2026-11-23 10:49 | normal pick from 2026-11-24 22:49 | request now
 OK   Josh Rouse — Street Lights | last aired 2026-11-22 05:12 | normal pick now | request now
 WAIT José González — Heartbeats | last aired 2026-11-23 10:46 | normal pick from 2026-11-25 10:46 | request from 2026-11-25 10:46
 OK   Journey — Don't Stop Believin' (Album Version) | last aired 2026-11-21 05:50 | normal pick now | request now
