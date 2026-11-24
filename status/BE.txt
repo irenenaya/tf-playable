@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Mon Nov 23, 6:55 PM PST (02:55 UTC Tue)). Times in UTC.
+Track status, artists filed under BE (built Mon Nov 23, 7:05 PM PST (03:05 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Beach House — Bluebird | last aired 2026-11-24 02:35 | normal pick from 2026-11-26 02:35 | request from 2026-11-26 02:35
@@ -18,14 +18,14 @@ WAIT Belcea Quartet — Quatuor à cordes n° 4, Sz. 91 - String Quartet No. 4 i
 WAIT Belle and Sebastian — The Boy with the Arab Strap | last aired 2026-11-22 12:35 | normal pick from 2026-11-24 12:35 | request from 2026-11-24 12:35
 WAIT Ben Allison — D.A.V.E. | last aired 2026-11-23 06:09 | normal pick from 2026-11-24 18:09 | request now
 WAIT Ben E. King — Stand By Me | last aired 2026-11-24 02:48 | normal pick from 2026-11-26 02:48 | request from 2026-11-26 02:48
-OK   Ben Harper — Yard Sale | last aired 2026-11-21 10:13 | normal pick now | request now
+WAIT Ben Harper — Yard Sale | last aired 2026-11-24 03:02 | normal pick from 2026-11-26 03:02 | request from 2026-11-26 03:02
 WAIT Ben Howard — Only Love | last aired 2026-11-24 02:39 | normal pick from 2026-11-26 02:39 | request from 2026-11-26 02:39
 OK   Ben&Ben — Leaves | last aired 2026-11-22 13:18 | normal pick now | request now
 OK   Ben&Ben — Maybe The Night | last aired 2026-11-22 07:59 | normal pick now | request now
-OK   Benjamin Francis Leftwich — Ticket To Ride | last aired 2026-11-21 12:05 | normal pick now | request now
+WAIT Benjamin Francis Leftwich — Ticket To Ride | last aired 2026-11-24 02:58 | normal pick from 2026-11-25 14:58 | request from 2026-11-24 22:58
 OK   Benny Goodman — Sing Sing Sing (With A Swing) (live) | last aired 2026-11-15 23:57 | normal pick now | request now
 OK   Benny Sings — Rolled Up | last aired 2026-11-14 17:59 | normal pick now | request now
-OK   Benny Sings — Sailing | last aired 2026-11-20 17:28 | normal pick now | request now
+WAIT Benny Sings — Sailing | last aired 2026-11-24 02:54 | normal pick from 2026-11-25 14:54 | request from 2026-11-24 22:54
 OK   Benson Boone — Beautiful Things | last aired 2026-11-20 23:17 | normal pick now | request now
 OK   Berlin — Take My Breath Away | last aired 2026-11-21 21:06 | normal pick now | request now
 OK   Berliner Philharmoniker — Boléro, M. 81 | last aired 2026-11-21 14:08 | normal pick now | request now
