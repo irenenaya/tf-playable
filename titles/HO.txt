@@ -1,10 +1,10 @@
-Track status, song titles filed under HO (built Tue Nov 24, 5:55 AM PST (13:55 UTC)). Times in UTC.
+Track status, song titles filed under HO (built Tue Nov 24, 6:05 AM PST (14:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Holding — Grouper | last aired 2026-11-16 02:01 | normal pick now | request now
 WAIT Holding Out for a Hero (From "Footloose" Soundtrack) — Bonnie Tyler | last aired 2026-11-23 03:30 | normal pick from 2026-11-24 15:30 | request now
 OK   Holiday (Remastered 2015) — Scorpions | last aired 2026-11-19 22:21 | normal pick now | request now
-WAIT Holiday — Madonna | last aired 2026-11-24 13:16 | normal pick from 2026-11-26 01:16 | request from 2026-11-25 09:16
+WAIT Holiday — Madonna | last aired 2026-11-24 13:16 | normal pick from 2026-11-26 13:16 | request from 2026-11-26 13:16
 WAIT Holocene — Bon Iver | last aired 2026-11-23 03:20 | normal pick from 2026-11-25 03:20 | request from 2026-11-25 03:20
 OK   Holy Water (Album Version) — Soundgarden | last aired 2026-11-17 22:45 | normal pick now | request now
 WAIT Home At Last — Steely Dan | last aired 2026-11-23 19:04 | normal pick from 2026-11-25 19:04 | request from 2026-11-25 19:04
@@ -17,7 +17,7 @@ WAIT Hoppípolla — Sigur Rós | last aired 2026-11-22 21:58 | normal pick from
 OK   HOT TO GO! — Chappell Roan | last aired 2026-11-19 10:23 | normal pick now | request now
 OK   Hotel California (2013 Remaster) — Eagles | last aired 2026-11-16 17:22 | normal pick now | request now
 OK   Houdini — Dua Lipa | last aired 2026-11-20 02:56 | normal pick now | request now
-WAIT House of the Rising Sun — Erik Grönwall | last aired 2026-11-24 11:52 | normal pick from 2026-11-25 23:52 | request from 2026-11-25 07:52
+WAIT House of the Rising Sun — Erik Grönwall | last aired 2026-11-24 11:53 | normal pick from 2026-11-25 23:53 | request from 2026-11-25 07:53
 OK   House Where Nobody Lives — Tom Waits | last aired 2026-11-22 09:45 | normal pick now | request now
 OK   How Deep Is The Ocean — Diana Krall | last aired 2026-11-20 02:25 | normal pick now | request now
 OK   How Do — Sneaker Pimps | last aired 2026-11-22 01:23 | normal pick now | request now

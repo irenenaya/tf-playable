@@ -1,8 +1,8 @@
-Track status, artists filed under EL (built Tue Nov 24, 5:55 AM PST (13:55 UTC)). Times in UTC.
+Track status, artists filed under EL (built Tue Nov 24, 6:05 AM PST (14:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Electric Light Orchestra — Evil Woman | last aired 2026-11-23 17:55 | normal pick from 2026-11-25 17:55 | request from 2026-11-25 17:55
-OK   Electric Light Orchestra — Mr. Blue Sky | last aired 2026-11-19 16:30 | normal pick now | request now
+WAIT Electric Light Orchestra — Mr. Blue Sky | last aired 2026-11-24 13:55 | normal pick from 2026-11-26 13:55 | request from 2026-11-26 13:55
 OK   Electric Light Orchestra — Yours Truly, 2095 | last aired 2026-11-20 22:45 | normal pick now | request now
 WAIT Elis Regina — Águas De Marco | last aired 2026-11-24 04:20 | normal pick from 2026-11-26 04:20 | request from 2026-11-26 04:20
 OK   Ella Fitzgerald — Bewitched, Bothered And Bewildered | last aired 2026-11-17 08:44 | normal pick now | request now
@@ -10,7 +10,7 @@ OK   Ella Fitzgerald — Bewitched, Bothered And Bewildered (Ella Fitzgerald and
 OK   Ella Fitzgerald — Summertime | last aired 2026-11-22 09:22 | normal pick now | request now
 WAIT Elliott Smith — Angeles | last aired 2026-11-24 03:34 | normal pick from 2026-11-26 03:34 | request from 2026-11-26 03:34
 OK   Elliott Smith — Independence Day | last aired 2026-11-22 11:43 | normal pick now | request now
-OK   Elton John — Rocket Man (I Think It's Going To Be A Long, Long Time) | last aired 2026-11-20 14:54 | normal pick now | request now
+WAIT Elton John — Rocket Man (I Think It's Going To Be A Long, Long Time) | last aired 2026-11-24 14:00 | normal pick from 2026-11-26 14:00 | request from 2026-11-26 14:00
 WAIT Eluvium — Indoor Swimming At The Space Station | last aired 2026-11-22 17:33 | normal pick from 2026-11-24 17:33 | request from 2026-11-24 17:33
 OK   Eluvium — Surrounded by Illusion | last aired 2026-11-21 07:03 | normal pick now | request now
 OK   Eluvium — Taken | last aired 2026-11-18 12:30 | normal pick now | request now

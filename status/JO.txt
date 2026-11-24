@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Tue Nov 24, 5:55 AM PST (13:55 UTC)). Times in UTC.
+Track status, artists filed under JO (built Tue Nov 24, 6:05 AM PST (14:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-11-18 08:30 | normal pick now | request now
@@ -48,7 +48,7 @@ OK   Jonathan Parecki — Senbonzakura (Hatsune Miku) | last aired 2026-09-02 17
 WAIT Joni Mitchell — A Case of You | last aired 2026-11-23 03:26 | normal pick from 2026-11-25 03:26 | request from 2026-11-25 03:26
 WAIT Joni Mitchell — At Last (LP Version) | last aired 2026-11-23 10:58 | normal pick from 2026-11-24 22:58 | request now
 WAIT Joni Mitchell — River | last aired 2026-11-23 19:53 | normal pick from 2026-11-25 19:53 | request from 2026-11-25 19:53
-WAIT Jorge Ben Jor — Mas, Que Nada! | last aired 2026-11-23 10:55 | normal pick from 2026-11-25 10:55 | request from 2026-11-25 10:55
+WAIT Jorge Ben Jor — Mas, Que Nada! | last aired 2026-11-23 10:55 | normal pick from 2026-11-24 22:55 | request now
 WAIT Josh Rouse — 1972 | last aired 2026-11-23 10:49 | normal pick from 2026-11-24 22:49 | request now
 OK   Josh Rouse — Street Lights | last aired 2026-11-22 05:12 | normal pick now | request now
 WAIT José González — Heartbeats | last aired 2026-11-23 10:46 | normal pick from 2026-11-25 10:46 | request from 2026-11-25 10:46
