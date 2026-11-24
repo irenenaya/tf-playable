@@ -1,4 +1,4 @@
-Track status, artists filed under DO (built Tue Nov 24, 4:05 AM PST (12:05 UTC)). Times in UTC.
+Track status, artists filed under DO (built Tue Nov 24, 4:15 AM PST (12:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Dolly Parton — 9 to 5 | last aired 2026-11-23 16:32 | normal pick from 2026-11-25 04:32 | request from 2026-11-24 12:32
@@ -15,7 +15,7 @@ OK   Donny Hathaway — Jealous Guy (Live) | last aired 2026-11-21 10:25 | norma
 WAIT Dope Lemon — Honey Bones | last aired 2026-11-23 00:33 | normal pick from 2026-11-24 12:33 | request now
 OK   Dorian Electra — Bizarre Love Triangle | last aired 2026-11-22 16:07 | normal pick now | request now
 OK   Dorian Electra — Feel Good Inc. | last aired 2026-11-10 18:27 | normal pick now | request now
-WAIT Dorian Electra — Hella Good | last aired 2026-11-23 00:06 | normal pick from 2026-11-24 12:06 | request now
+OK   Dorian Electra — Hella Good | last aired 2026-11-23 00:06 | normal pick now | request now
 OK   Dot Allison — Bleached By The Sun | last aired 2026-11-20 18:50 | normal pick now | request now
 OK   The Doobie Brothers — What a Fool Believes | last aired 2026-11-22 11:10 | normal pick now | request now
 OK   The Doobie Brothers — You Belong to Me (2016 Remaster) | last aired 2026-11-14 02:11 | normal pick now | request now
