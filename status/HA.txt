@@ -1,13 +1,13 @@
-Track status, artists filed under HA (built Mon Nov 23, 11:05 PM PST (07:05 UTC Tue)). Times in UTC.
+Track status, artists filed under HA (built Mon Nov 23, 11:15 PM PST (07:15 UTC Tue)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Haddaway — What Is Love (7" Mix) (Remastered 2025) (7" Mix / Remastered 2025) | last aired 2026-11-21 00:11 | normal pick now | request now
 OK   Haddaway — What Is Love (Lynx & Pico Remix) | last aired 2026-11-18 21:43 | normal pick now | request now
-OK   Hailu Mergia — Tezeta | last aired 2026-11-21 18:17 | normal pick now | request now
+WAIT Hailu Mergia — Tezeta | last aired 2026-11-24 07:08 | normal pick from 2026-11-26 07:08 | request from 2026-11-26 07:08
 OK   Halestorm — Do Not Disturb | last aired 2026-11-18 13:39 | normal pick now | request now
 OK   Halo — Halo Theme Mjolnir Mix | last aired 2026-11-19 16:01 | normal pick now | request now
 OK   Hammerfall — Hearts On Fire | last aired 2026-11-18 13:58 | normal pick now | request now
-WAIT Hammock — Maybe They Will Sing for Us Tomorrow | last aired 2026-11-22 07:15 | normal pick from 2026-11-24 07:15 | request from 2026-11-24 07:15
+OK   Hammock — Maybe They Will Sing for Us Tomorrow | last aired 2026-11-22 07:15 | normal pick now | request now
 WAIT Hammock — Tape Recorder | last aired 2026-11-23 06:46 | normal pick from 2026-11-25 06:46 | request from 2026-11-25 06:46
 WAIT Hania Rani — Eden | last aired 2026-11-22 12:02 | normal pick from 2026-11-24 12:02 | request from 2026-11-24 12:02
 WAIT Hania Rani — Glass | last aired 2026-11-24 07:00 | normal pick from 2026-11-26 07:00 | request from 2026-11-26 07:00
@@ -18,7 +18,7 @@ WAIT Hans Zimmer — S.T.A.Y. | last aired 2026-11-23 07:18 | normal pick from 2
 OK   Hard Life — daydreams | last aired 2026-11-18 14:07 | normal pick now | request now
 OK   Hardcore Superstar — We Don't Celebrate Sundays | last aired 2026-11-10 19:06 | normal pick now | request now
 OK   Hariprasad Chaurasia — Bhupali | last aired 2026-11-08 10:00 | normal pick now | request now
-OK   Harold Budd — A Stream With Bright Fish (2005 Digital Remaster) | last aired 2026-11-22 00:50 | normal pick now | request now
+WAIT Harold Budd — A Stream With Bright Fish (2005 Digital Remaster) | last aired 2026-11-24 07:04 | normal pick from 2026-11-26 07:04 | request from 2026-11-26 07:04
 WAIT Harold Budd — Lost In The Humming Air (2005 Digital Remaster) | last aired 2026-11-23 06:52 | normal pick from 2026-11-25 06:52 | request from 2026-11-25 06:52
 OK   Harris Jayaraj — Adiyae Kolluthey (From "Vaaranam Aayiram") | last aired 2026-11-09 02:49 | normal pick now | request now
 OK   Harry Styles — As It Was | last aired 2026-11-11 13:27 | normal pick now | request now
