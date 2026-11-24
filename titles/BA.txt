@@ -1,9 +1,9 @@
-Track status, song titles filed under BA (built Tue Nov 24, 12:05 PM PST (20:05 UTC)). Times in UTC.
+Track status, song titles filed under BA (built Tue Nov 24, 12:15 PM PST (20:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   ...Baby One More Time (from Kung Fu Panda 4) — Tenacious D | last aired 2026-11-21 20:28 | normal pick now | request now
 OK   Babes of the 80s (She Past Away) — Lebanon Hanover | last aired 2026-11-18 17:27 | normal pick now | request now
-OK   Baby (Original Album) — Gal Costa | last aired 2026-11-19 21:33 | normal pick now | request now
+WAIT Baby (Original Album) — Gal Costa | last aired 2026-11-24 20:03 | normal pick from 2026-11-26 08:03 | request from 2026-11-25 16:03
 OK   Baby Come Back — Player | last aired 2026-11-21 04:47 | normal pick now | request now
 OK   Baby I'm Yours — Breakbot | last aired 2026-11-21 19:19 | normal pick now | request now
 OK   Babylon Sisters — Steely Dan | last aired 2026-11-20 02:01 | normal pick now | request now
