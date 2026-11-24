@@ -1,4 +1,4 @@
-Track status, artists filed under CH (built Tue Nov 24, 10:55 AM PST (18:55 UTC)). Times in UTC.
+Track status, artists filed under CH (built Tue Nov 24, 11:05 AM PST (19:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Chaka Khan — What Cha' Gonna Do for Me | last aired 2026-11-24 01:41 | normal pick from 2026-11-26 01:41 | request from 2026-11-26 01:41
@@ -33,7 +33,7 @@ WAIT Chris Whitley — Big Sky Country (Album Version) | last aired 2026-11-24 1
 OK   Christian Löffler — Lid | last aired 2026-11-21 07:25 | normal pick now | request now
 OK   Christina Aguilera — Genie In a Bottle | last aired 2026-10-30 14:20 | normal pick now | request now
 OK   Christopher Cross — I Really Don't Know Anymore (2019 Remaster) | last aired 2026-10-31 01:35 | normal pick now | request now
-WAIT Christopher Cross — Ride Like the Wind (Album Version) | last aired 2026-11-24 16:08 | normal pick from 2026-11-26 04:08 | request from 2026-11-25 12:08
+WAIT Christopher Cross — Ride Like the Wind (Album Version) | last aired 2026-11-24 16:09 | normal pick from 2026-11-26 04:09 | request from 2026-11-25 12:09
 WAIT Christopher Cross — Sailing | last aired 2026-11-23 20:17 | normal pick from 2026-11-25 08:17 | request now
 OK   Chuck Berry — Johnny B. Goode | last aired 2026-11-12 01:48 | normal pick now | request now
 WAIT Chuck Mangione — Feels So Good | last aired 2026-11-23 08:53 | normal pick from 2026-11-24 20:53 | request now
