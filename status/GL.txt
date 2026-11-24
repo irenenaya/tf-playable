@@ -1,4 +1,4 @@
-Track status, artists filed under GL (built Tue Nov 24, 12:15 PM PST (20:15 UTC)). Times in UTC.
+Track status, artists filed under GL (built Tue Nov 24, 12:25 PM PST (20:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Glasperlenspiel — Nie vergessen | last aired 2026-11-21 13:42 | normal pick now | request now
@@ -10,6 +10,6 @@ OK   Glenn Gould — 3 Klavierstücke, Op. 11 - No. 2, Mässige Achtel (Instrume
 OK   Glenn Gould — 3 Klavierstücke, Op. 11 - No. 3, Bewegte Achtel (Instrumental) | last aired 2026-11-15 18:48 | normal pick now | request now
 OK   Glenn Miller & His Orchestra — (I've Got A Gal In) Kalamazoo | last aired 2026-11-22 11:26 | normal pick now | request now
 OK   Glenn Miller & His Orchestra — At Last | last aired 2026-11-20 23:44 | normal pick now | request now
-OK   Glenn Miller & His Orchestra — In the Mood | last aired 2026-10-27 16:31 | normal pick now | request now
+WAIT Glenn Miller & His Orchestra — In the Mood | last aired 2026-11-24 20:15 | normal pick from 2026-11-26 08:15 | request from 2026-11-25 16:15
 OK   Gloria Estefan — Rhythm Is Gonna Get You | last aired 2026-11-19 13:09 | normal pick now | request now
 OK   Gloria Gaynor — I Will Survive | last aired 2026-10-30 02:48 | normal pick now | request now
