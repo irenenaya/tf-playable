@@ -1,4 +1,4 @@
-Track status, artists filed under DI (built Tue Nov 24, 12:35 PM PST (20:35 UTC)). Times in UTC.
+Track status, artists filed under DI (built Tue Nov 24, 12:45 PM PST (20:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Diana Krall — A Case Of You (Live) | last aired 2026-11-19 22:49 | normal pick now | request now
@@ -11,5 +11,5 @@ WAIT Dire Straits — Brothers in Arms | last aired 2026-11-23 09:33 | normal pi
 OK   Dire Straits — Money for Nothing | last aired 2026-11-16 18:30 | normal pick now | request now
 WAIT Dire Straits — Sultans of Swing | last aired 2026-11-24 19:53 | normal pick from 2026-11-26 07:53 | request from 2026-11-25 15:53
 OK   Dire Straits — Your Latest Trick | last aired 2026-11-16 16:31 | normal pick now | request now
-OK   Disclosure — Help Me Lose My Mind | last aired 2026-11-20 18:56 | normal pick now | request now
+WAIT Disclosure — Help Me Lose My Mind | last aired 2026-11-24 20:32 | normal pick from 2026-11-26 08:32 | request from 2026-11-25 16:32
 OK   Disturbed — Won't Back Down | last aired 2026-11-20 19:27 | normal pick now | request now

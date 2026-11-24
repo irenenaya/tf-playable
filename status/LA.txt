@@ -1,4 +1,4 @@
-Track status, artists filed under LA (built Tue Nov 24, 12:35 PM PST (20:35 UTC)). Times in UTC.
+Track status, artists filed under LA (built Tue Nov 24, 12:45 PM PST (20:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   La Fenice — Le Chant des oiseaux | last aired 2026-11-21 14:53 | normal pick now | request now
@@ -15,7 +15,7 @@ WAIT Lana Del Rey — Salvatore | last aired 2026-11-24 18:25 | normal pick from
 WAIT Lana Del Rey — Venice Bitch | last aired 2026-11-24 08:20 | normal pick from 2026-11-25 20:20 | request from 2026-11-25 04:20
 WAIT Lana Del Rey — Young And Beautiful | last aired 2026-11-24 00:49 | normal pick from 2026-11-25 12:49 | request from 2026-11-24 20:49
 WAIT Lang Lang — Joe Hisaishi: Spring | last aired 2026-11-23 16:44 | normal pick from 2026-11-25 04:44 | request now
-WAIT Laufey — Madwoman | last aired 2026-11-24 00:45 | normal pick from 2026-11-25 12:45 | request from 2026-11-24 20:45
+WAIT Laufey — Madwoman | last aired 2026-11-24 00:45 | normal pick from 2026-11-25 12:45 | request now
 OK   Laurie Anderson — Sharkey's Day (Album Version) | last aired 2026-11-12 11:48 | normal pick now | request now
 WAIT Lauryn Hill — Ex-Factor | last aired 2026-11-24 00:59 | normal pick from 2026-11-25 12:59 | request from 2026-11-24 20:59
 OK   Lawrence — 23 | last aired 2026-11-23 07:59 | normal pick now | request now
