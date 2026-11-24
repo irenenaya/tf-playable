@@ -1,8 +1,8 @@
-Track status, artists filed under OL (built Tue Nov 24, 1:15 PM PST (21:15 UTC)). Times in UTC.
+Track status, artists filed under OL (built Tue Nov 24, 1:25 PM PST (21:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Olejniczak Janusz — Nocturne in C minor, Op. 48, No. 1 | last aired 2026-11-19 21:24 | normal pick now | request now
 OK   Olivia Rodrigo — the cure | last aired 2026-11-21 23:05 | normal pick now | request now
 OK   Olivia Rodrigo — vampire | last aired 2026-11-21 22:59 | normal pick now | request now
-OK   Ólafur Arnalds — Near Light | last aired 2026-11-22 16:58 | normal pick now | request now
+WAIT Ólafur Arnalds — Near Light | last aired 2026-11-24 21:15 | normal pick from 2026-11-26 21:15 | request from 2026-11-26 21:15
 OK   Ólafur Arnalds — saman | last aired 2026-11-16 08:47 | normal pick now | request now
