@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Tue Nov 24, 2:15 PM PST (22:15 UTC)). Times in UTC.
+Track status, artists filed under JO (built Tue Nov 24, 2:25 PM PST (22:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-11-18 08:30 | normal pick now | request now
@@ -19,7 +19,7 @@ OK   Joe Hisaishi — Symphonic Suite “Princess Mononoke”2021 : V. Mononoke 
 OK   Joe Hisaishi — The Path of the Wind (from 'My Neighbor Totoro') | last aired 2026-11-15 07:38 | normal pick now | request now
 OK   Joe Hisaishi — アシタカとサン (from 'Princess Mononoke') | last aired 2026-11-21 07:52 | normal pick now | request now
 OK   Joel Pott — Chances | last aired 2026-10-26 11:28 | normal pick now | request now
-OK   Johann Johannsson — Flight From The City - Jóhannsson: Flight from the City | last aired 2026-11-23 06:15 | normal pick now | request now
+WAIT Johann Johannsson — Flight From The City - Jóhannsson: Flight from the City | last aired 2026-11-24 22:17 | normal pick from 2026-11-26 10:17 | request from 2026-11-25 18:17
 OK   John Carpenter — Halloween Theme | last aired 2026-11-21 20:25 | normal pick now | request now
 WAIT John Coltrane — Lush Life | last aired 2026-11-23 10:38 | normal pick from 2026-11-25 10:38 | request from 2026-11-25 10:38
 OK   John Coltrane — My Favorite Things | last aired 2026-11-18 05:55 | normal pick now | request now
@@ -28,7 +28,7 @@ OK   John Lee Hooker — Boom Boom | last aired 2026-11-21 01:59 | normal pick n
 OK   John Lee Hooker — I Cover the Waterfront | last aired 2026-11-18 08:11 | normal pick now | request now
 WAIT John Lennon — Give Peace A Chance (Remastered 2010) | last aired 2026-11-24 15:18 | normal pick from 2026-11-26 03:18 | request from 2026-11-25 11:18
 WAIT John Lennon — Imagine (Remastered 2010) | last aired 2026-11-23 20:50 | normal pick from 2026-11-25 08:50 | request now
-WAIT John Lennon — Instant Karma! (We All Shine On) (Ultimate Mix) | last aired 2026-11-23 10:21 | normal pick from 2026-11-24 22:21 | request now
+OK   John Lennon — Instant Karma! (We All Shine On) (Ultimate Mix) | last aired 2026-11-23 10:21 | normal pick now | request now
 OK   John Lennon — Watching The Wheels (Remastered 2010) | last aired 2026-11-18 06:18 | normal pick now | request now
 OK   John Mayer — New Light | last aired 2026-11-21 18:49 | normal pick now | request now
 OK   John McLaughlin — You Know, You Know (Album Version) | last aired 2026-11-18 08:22 | normal pick now | request now
