@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Tue Nov 24, 2:55 PM PST (22:55 UTC)). Times in UTC.
+Track status, artists filed under JO (built Tue Nov 24, 3:05 PM PST (23:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-11-18 08:30 | normal pick now | request now
@@ -23,7 +23,7 @@ WAIT Johann Johannsson — Flight From The City - Jóhannsson: Flight from the C
 OK   John Carpenter — Halloween Theme | last aired 2026-11-21 20:25 | normal pick now | request now
 WAIT John Coltrane — Lush Life | last aired 2026-11-23 10:38 | normal pick from 2026-11-25 10:38 | request from 2026-11-25 10:38
 OK   John Coltrane — My Favorite Things | last aired 2026-11-18 05:55 | normal pick now | request now
-WAIT John Denver — Take Me Home, Country Roads | last aired 2026-11-24 22:09 | normal pick from 2026-11-26 22:09 | request from 2026-11-26 22:09
+WAIT John Denver — Take Me Home, Country Roads | last aired 2026-11-24 22:10 | normal pick from 2026-11-26 22:10 | request from 2026-11-26 22:10
 OK   John Lee Hooker — Boom Boom | last aired 2026-11-21 01:59 | normal pick now | request now
 OK   John Lee Hooker — I Cover the Waterfront | last aired 2026-11-18 08:11 | normal pick now | request now
 WAIT John Lennon — Give Peace A Chance (Remastered 2010) | last aired 2026-11-24 15:18 | normal pick from 2026-11-26 03:18 | request from 2026-11-25 11:18
@@ -36,7 +36,7 @@ WAIT John Prine — Your Flag Decal Won't Get You into Heaven Anymore | last air
 OK   John T. Williams — Anything Goes | last aired 2026-10-16 05:14 | normal pick now | request now
 OK   John Williams — Theme From Superman (Concert Version) | last aired 2026-11-21 02:27 | normal pick now | request now
 OK   Johnny Cash — Folsom Prison Blues | last aired 2026-11-17 09:24 | normal pick now | request now
-WAIT Johnny Cash — Hurt (Album Version) | last aired 2026-11-23 11:02 | normal pick from 2026-11-24 23:02 | request now
+OK   Johnny Cash — Hurt (Album Version) | last aired 2026-11-23 11:02 | normal pick now | request now
 OK   Johnny Cash — Redemption Day (Album Version) | last aired 2026-11-21 20:53 | normal pick now | request now
 OK   Johnny Cash — Ring of Fire | last aired 2026-11-17 11:24 | normal pick now | request now
 OK   Johnny Flynn — Detectorists (Original Soundtrack from the TV Series) | last aired 2026-11-23 10:53 | normal pick now | request now
@@ -46,7 +46,7 @@ WAIT Jon Hopkins — Open Eye Signal (Remaster 2023) | last aired 2026-11-23 11:
 OK   Jon Hopkins — Small Memory | last aired 2026-11-20 12:03 | normal pick now | request now
 OK   Jonathan Parecki — Senbonzakura (Hatsune Miku) | last aired 2026-09-02 17:36 | normal pick now | request now
 WAIT Joni Mitchell — A Case of You | last aired 2026-11-23 03:26 | normal pick from 2026-11-25 03:26 | request from 2026-11-25 03:26
-WAIT Joni Mitchell — At Last (LP Version) | last aired 2026-11-23 10:58 | normal pick from 2026-11-24 22:58 | request now
+OK   Joni Mitchell — At Last (LP Version) | last aired 2026-11-23 10:58 | normal pick now | request now
 WAIT Joni Mitchell — River | last aired 2026-11-23 19:53 | normal pick from 2026-11-25 19:53 | request from 2026-11-25 19:53
 OK   Jorge Ben Jor — Mas, Que Nada! | last aired 2026-11-23 10:55 | normal pick now | request now
 OK   Josh Rouse — 1972 | last aired 2026-11-23 10:49 | normal pick now | request now
