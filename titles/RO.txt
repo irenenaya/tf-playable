@@ -1,14 +1,14 @@
-Track status, song titles filed under RO (built Tue Nov 24, 2:35 AM PST (10:35 UTC)). Times in UTC.
+Track status, song titles filed under RO (built Tue Nov 24, 2:45 AM PST (10:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   'Round Midnight (Remastered 2013) — Thelonious Monk | last aired 2026-11-22 08:07 | normal pick now | request now
+WAIT 'Round Midnight (Remastered 2013) — Thelonious Monk | last aired 2026-11-24 10:34 | normal pick from 2026-11-26 10:34 | request from 2026-11-26 10:34
 WAIT Roads — Portishead | last aired 2026-11-24 06:36 | normal pick from 2026-11-26 06:36 | request from 2026-11-26 06:36
 WAIT Roar — Katy Perry | last aired 2026-11-23 17:16 | normal pick from 2026-11-25 05:16 | request from 2026-11-24 13:16
 OK   Robbers — The 1975 | last aired 2026-10-25 00:36 | normal pick now | request now
 OK   Rock And Roll All Nite — Kiss | last aired 2026-11-17 15:11 | normal pick now | request now
 OK   Rock On — Michael Damian | last aired 2026-11-19 19:31 | normal pick now | request now
 OK   Rock Steady (Album Version) — Aretha Franklin | last aired 2026-11-22 21:38 | normal pick now | request now
-WAIT Rock The Boat — Aaliyah | last aired 2026-11-22 22:36 | normal pick from 2026-11-24 10:36 | request now
+OK   Rock The Boat — Aaliyah | last aired 2026-11-22 22:36 | normal pick now | request now
 OK   Rock the House — Gorillaz | last aired 2026-11-18 01:19 | normal pick now | request now
 OK   Rock with You (Single Version) — Michael Jackson | last aired 2026-11-19 19:52 | normal pick now | request now
 OK   Rocket Man (I Think It's Going To Be A Long, Long Time) — Elton John | last aired 2026-11-20 14:54 | normal pick now | request now
