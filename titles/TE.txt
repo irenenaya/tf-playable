@@ -1,4 +1,4 @@
-Track status, song titles filed under TE (built Tue Nov 24, 5:45 AM PST (13:45 UTC)). Times in UTC.
+Track status, song titles filed under TE (built Tue Nov 24, 5:55 AM PST (13:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Te Quiero Pero Por Otro Lado. — Savath & Savalas | last aired 2026-11-24 07:30 | normal pick from 2026-11-26 07:30 | request from 2026-11-26 07:30
@@ -10,7 +10,7 @@ OK   Tell Your World (From "Hatsune Miku") (Lofi Remix) — Lofi Lia | last aire
 OK   Tell Your World — LoneGray | last aired 2026-11-22 10:25 | normal pick now | request now
 OK   Tender Love — Swan Dive | last aired 2026-11-20 09:59 | normal pick now | request now
 OK   Tennessee Orange — Megan Moroney | last aired 2026-11-19 18:52 | normal pick now | request now
-OK   Teo Torriatte (Let Us Cling Together) — Louis Clark | last aired 2026-11-18 02:23 | normal pick now | request now
+WAIT Teo Torriatte (Let Us Cling Together) — Louis Clark | last aired 2026-11-24 13:47 | normal pick from 2026-11-26 01:47 | request from 2026-11-25 09:47
 OK   Terrapin — Bonobo | last aired 2026-11-17 11:53 | normal pick now | request now
 OK   TEXAS HOLD 'EM — Beyoncé | last aired 2026-10-28 22:05 | normal pick now | request now
 WAIT Tezeta — Hailu Mergia | last aired 2026-11-24 07:08 | normal pick from 2026-11-26 07:08 | request from 2026-11-26 07:08
