@@ -1,7 +1,7 @@
-Track status, artists filed under AN (built Tue Nov 24, 8:05 PM PST (04:05 UTC Wed)). Times in UTC.
+Track status, artists filed under AN (built Tue Nov 24, 8:15 PM PST (04:15 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Ana Sofia Varela — Fado Vadio (Má Fama) | last aired 2026-11-23 04:10 | normal pick from 2026-11-25 04:10 | request from 2026-11-25 04:10
+OK   Ana Sofia Varela — Fado Vadio (Má Fama) | last aired 2026-11-23 04:10 | normal pick now | request now
 OK   Andrew W.K. — Party Hard (Album Version) | last aired 2026-11-19 03:28 | normal pick now | request now
 OK   Andrés Calamaro — Flaca | last aired 2026-11-21 04:01 | normal pick now | request now
 WAIT Angus & Julia Stone — You're The One That I Want | last aired 2026-11-24 17:47 | normal pick from 2026-11-26 17:47 | request from 2026-11-26 17:47
