@@ -1,10 +1,10 @@
-Track status, song titles filed under CA (built Wed Nov 25, 3:35 PM PST (23:35 UTC)). Times in UTC.
+Track status, song titles filed under CA (built Wed Nov 25, 3:45 PM PST (23:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   California Dreamin' (Single Version) — The Mamas & The Papas | last aired 2026-11-24 01:05 | normal pick now | request now
 OK   Californication — Red Hot Chili Peppers | last aired 2026-11-17 23:40 | normal pick now | request now
 OK   Call Me — Blondie | last aired 2026-11-21 16:17 | normal pick now | request now
-WAIT Call Out My Name — The Weeknd | last aired 2026-11-25 03:40 | normal pick from 2026-11-26 15:40 | request from 2026-11-25 23:40
+WAIT Call Out My Name — The Weeknd | last aired 2026-11-25 03:40 | normal pick from 2026-11-26 15:40 | request now
 OK   Calling You (Live) — Jeff Buckley | last aired 2026-11-17 18:16 | normal pick now | request now
 OK   Camouflage (Acoustic Mix) — Tom Konkle | last aired 2026-11-20 06:04 | normal pick now | request now
 OK   Camouflage (Album Mix) — Tom Konkle | last aired 2026-11-06 22:06 | normal pick now | request now
@@ -14,7 +14,7 @@ WAIT Candide: Overture — Leonard Bernstein | last aired 2026-11-25 15:27 | nor
 OK   Capsule — Brian Eno | last aired 2026-11-19 07:41 | normal pick now | request now
 OK   Captain Morgan`s Revenge — Alestorm | last aired 2026-11-22 15:40 | normal pick now | request now
 WAIT Caras Galadhon / "Lament for Gandalf" (feat. Elizabeth Fraser) — Howard Shore | last aired 2026-11-25 22:14 | normal pick from 2026-11-27 10:14 | request from 2026-11-26 18:14
-WAIT Caribbean Blue (2009 Remaster) (Remastered 2009) — Enya | last aired 2026-11-23 23:36 | normal pick from 2026-11-25 23:36 | request from 2026-11-25 23:36
+OK   Caribbean Blue (2009 Remaster) (Remastered 2009) — Enya | last aired 2026-11-23 23:36 | normal pick now | request now
 OK   Caribou — Polar Sun | last aired 2026-11-21 09:00 | normal pick now | request now
 WAIT Cariño — The Marías | last aired 2026-11-25 13:37 | normal pick from 2026-11-27 01:37 | request from 2026-11-26 09:37
 WAIT Carnival of the Animals, R. 125: XIII. The Swan — Yo-Yo Ma | last aired 2026-11-25 10:23 | normal pick from 2026-11-26 22:23 | request from 2026-11-26 06:23
