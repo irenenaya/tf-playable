@@ -1,8 +1,8 @@
-Track status, artists filed under AM (built Tue Nov 24, 8:35 PM PST (04:35 UTC Wed)). Times in UTC.
+Track status, artists filed under AM (built Tue Nov 24, 8:45 PM PST (04:45 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Amadou & Mariam — M' Bife | last aired 2026-11-07 22:55 | normal pick now | request now
-OK   Ambrosia — Biggest Part of Me (Album Version) | last aired 2026-11-20 16:56 | normal pick now | request now
-OK   Amy Macdonald — This Is The Life | last aired 2026-11-23 00:39 | normal pick now | request now
+WAIT Ambrosia — Biggest Part of Me (Album Version) | last aired 2026-11-25 04:33 | normal pick from 2026-11-26 16:33 | request from 2026-11-26 00:33
+WAIT Amy Macdonald — This Is The Life | last aired 2026-11-25 04:39 | normal pick from 2026-11-27 04:39 | request from 2026-11-27 04:39
 WAIT Amy Winehouse — Rehab | last aired 2026-11-25 02:00 | normal pick from 2026-11-26 14:00 | request from 2026-11-25 22:00
 OK   Amália Rodrigues — Barco negro | last aired 2026-11-22 12:07 | normal pick now | request now
