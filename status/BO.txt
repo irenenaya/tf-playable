@@ -1,4 +1,4 @@
-Track status, artists filed under BO (built Tue Nov 24, 4:25 PM PST (00:25 UTC Wed)). Times in UTC.
+Track status, artists filed under BO (built Tue Nov 24, 4:35 PM PST (00:35 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Boards of Canada — Blood In The Labyrinth | last aired 2026-11-19 15:18 | normal pick now | request now
@@ -13,7 +13,7 @@ OK   Bobby Caldwell — What You Won't Do for Love | last aired 2026-11-21 16:54
 WAIT Bobby Darin — Beyond the Sea | last aired 2026-11-23 03:08 | normal pick from 2026-11-25 03:08 | request from 2026-11-25 03:08
 WAIT Bobby Hutcherson — Stardust | last aired 2026-11-23 03:11 | normal pick from 2026-11-25 03:11 | request from 2026-11-25 03:11
 WAIT Bobby McFerrin — Common Threads | last aired 2026-11-23 03:16 | normal pick from 2026-11-25 03:16 | request from 2026-11-25 03:16
-WAIT Bobby McFerrin — Don't Worry Be Happy | last aired 2026-11-23 12:28 | normal pick from 2026-11-25 00:28 | request now
+OK   Bobby McFerrin — Don't Worry Be Happy | last aired 2026-11-23 12:28 | normal pick now | request now
 OK   Bobby Vinton — Blue Velvet | last aired 2026-11-23 03:05 | normal pick now | request now
 WAIT Bon Iver — Holocene | last aired 2026-11-23 03:20 | normal pick from 2026-11-25 03:20 | request from 2026-11-25 03:20
 WAIT Bon Iver — Skinny Love | last aired 2026-11-24 21:05 | normal pick from 2026-11-26 21:05 | request from 2026-11-26 21:05
@@ -36,4 +36,4 @@ WAIT Boy Throb — Finger | last aired 2026-11-24 09:00 | normal pick from 2026-
 WAIT Boyz II Men — End Of The Road (Album Version) | last aired 2026-11-24 22:37 | normal pick from 2026-11-26 10:37 | request from 2026-11-25 18:37
 OK   Boz Scaggs — JoJo (2023 Remaster) | last aired 2026-11-22 23:00 | normal pick now | request now
 OK   Boz Scaggs — Lowdown (2023 Remaster) | last aired 2026-11-20 15:58 | normal pick now | request now
-WAIT Boz Scaggs — Simone (2023 Remaster) | last aired 2026-11-23 12:33 | normal pick from 2026-11-25 00:33 | request now
+OK   Boz Scaggs — Simone (2023 Remaster) | last aired 2026-11-23 12:33 | normal pick now | request now
