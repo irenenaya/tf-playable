@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Tue Nov 24, 4:35 PM PST (00:35 UTC Wed)). Times in UTC.
+Track status, artists filed under JO (built Tue Nov 24, 4:45 PM PST (00:45 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-11-18 08:30 | normal pick now | request now
@@ -43,7 +43,7 @@ OK   Johnny Flynn — Detectorists (Original Soundtrack from the TV Series) | la
 OK   Johnny Mathis — Wonderful! Wonderful! | last aired 2026-11-23 10:43 | normal pick now | request now
 OK   Joker Out — Novi Val | last aired 2026-11-21 13:19 | normal pick now | request now
 WAIT Jon Hopkins — Open Eye Signal (Remaster 2023) | last aired 2026-11-23 11:12 | normal pick from 2026-11-25 11:12 | request from 2026-11-25 11:12
-OK   Jon Hopkins — Small Memory | last aired 2026-11-20 12:03 | normal pick now | request now
+WAIT Jon Hopkins — Small Memory | last aired 2026-11-25 00:38 | normal pick from 2026-11-26 12:38 | request from 2026-11-25 20:38
 OK   Jonathan Parecki — Senbonzakura (Hatsune Miku) | last aired 2026-09-02 17:36 | normal pick now | request now
 WAIT Joni Mitchell — A Case of You | last aired 2026-11-23 03:26 | normal pick from 2026-11-25 03:26 | request from 2026-11-25 03:26
 OK   Joni Mitchell — At Last (LP Version) | last aired 2026-11-23 10:58 | normal pick now | request now
@@ -53,7 +53,7 @@ OK   Josh Rouse — 1972 | last aired 2026-11-23 10:49 | normal pick now | reque
 WAIT Josh Rouse — Street Lights | last aired 2026-11-24 23:19 | normal pick from 2026-11-26 11:19 | request from 2026-11-25 19:19
 WAIT José González — Heartbeats | last aired 2026-11-23 10:46 | normal pick from 2026-11-25 10:46 | request from 2026-11-25 10:46
 OK   Journey — Don't Stop Believin' (Album Version) | last aired 2026-11-21 05:50 | normal pick now | request now
-OK   Journey — Lights (Album Version) | last aired 2026-11-23 11:09 | normal pick now | request now
+WAIT Journey — Lights (Album Version) | last aired 2026-11-25 00:40 | normal pick from 2026-11-26 12:40 | request from 2026-11-25 20:40
 OK   Joywave — In Clover | last aired 2026-11-23 11:20 | normal pick now | request now
 WAIT Joywave — Rumors | last aired 2026-11-23 20:29 | normal pick from 2026-11-25 08:29 | request now
 OK   João Gilberto — Chega de Saudade | last aired 2026-11-18 05:34 | normal pick now | request now
