@@ -1,4 +1,4 @@
-Track status, song titles filed under PA (built Wed Nov 25, 10:15 AM PST (18:15 UTC)). Times in UTC.
+Track status, song titles filed under PA (built Wed Nov 25, 10:25 AM PST (18:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Pac-Man (feat. ScHoolboy Q) — Gorillaz | last aired 2026-11-18 00:11 | normal pick now | request now
@@ -10,7 +10,7 @@ OK   Panic Attack (Album Version) — Dream Theater | last aired 2026-11-09 21:2
 OK   Papa Was a Rodeo — The Magnetic Fields | last aired 2026-11-22 01:55 | normal pick now | request now
 OK   Papa Was A Rollin' Stone (Full Version) — The Temptations | last aired 2026-11-16 13:11 | normal pick now | request now
 OK   Paradise City — Guns N' Roses | last aired 2026-10-30 00:04 | normal pick now | request now
-OK   Paranoid Android — Radiohead | last aired 2026-11-18 21:07 | normal pick now | request now
+WAIT Paranoid Android — Radiohead | last aired 2026-11-25 18:16 | normal pick from 2026-11-27 18:16 | request from 2026-11-27 18:16
 OK   Paranoid — Black Sabbath | last aired 2026-11-12 15:31 | normal pick now | request now
 OK   Parisienne Walkways — Gary Moore | last aired 2026-11-09 20:03 | normal pick now | request now
 OK   Paroles paroles (Album Version) — Dalida | last aired 2026-11-24 04:32 | normal pick now | request now
