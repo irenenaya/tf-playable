@@ -1,4 +1,4 @@
-Track status, song titles filed under BL (built Tue Nov 24, 5:55 PM PST (01:55 UTC Wed)). Times in UTC.
+Track status, song titles filed under BL (built Tue Nov 24, 6:05 PM PST (02:05 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Black Diamond — Stratovarius | last aired 2026-11-02 03:41 | normal pick now | request now
@@ -19,7 +19,7 @@ OK   Blood In The Labyrinth — Boards of Canada | last aired 2026-11-19 15:18 |
 OK   Bloodbuzz Ohio (Live in Rome) — The National | last aired 2026-11-20 22:26 | normal pick now | request now
 OK   Bloom — Airiel | last aired 2026-09-15 08:41 | normal pick now | request now
 OK   Blue (Flume Remix) — Eiffel 65 | last aired 2026-11-23 02:14 | normal pick now | request now
-OK   Blue Hotel (Remastered Album Version) — Chris Isaak | last aired 2026-11-21 08:07 | normal pick now | request now
+WAIT Blue Hotel (Remastered Album Version) — Chris Isaak | last aired 2026-11-25 01:56 | normal pick from 2026-11-26 13:56 | request from 2026-11-25 21:56
 OK   Blue in Green — Miles Davis | last aired 2026-11-23 00:17 | normal pick now | request now
 OK   Blue — LeAnn Rimes | last aired 2026-11-18 13:20 | normal pick now | request now
 WAIT Blue Lips — Her's | last aired 2026-11-24 23:58 | normal pick from 2026-11-26 11:58 | request from 2026-11-25 19:58
