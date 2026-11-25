@@ -1,4 +1,4 @@
-Track status, artists filed under DA (built Tue Nov 24, 9:45 PM PST (05:45 UTC Wed)). Times in UTC.
+Track status, artists filed under DA (built Tue Nov 24, 9:55 PM PST (05:55 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   D'Angelo — Untitled (How Does It Feel) | last aired 2026-11-19 15:47 | normal pick now | request now
@@ -39,6 +39,6 @@ OK   David Bowie — Warszawa (2017 Remaster) | last aired 2026-11-18 01:08 | no
 WAIT David Bowie — Wild Is the Wind (2016 Remaster) | last aired 2026-11-25 05:39 | normal pick from 2026-11-26 17:39 | request from 2026-11-26 01:39
 WAIT David Byrne — Everybody's Coming to My House (Live) | last aired 2026-11-24 22:56 | normal pick from 2026-11-26 10:56 | request from 2026-11-25 18:56
 OK   David Soul — Silver Lady | last aired 2026-10-30 02:35 | normal pick now | request now
-OK   David Sylvian — Darkest Dreaming | last aired 2026-11-21 10:00 | normal pick now | request now
-OK   David Zinman — Symphony No. 3, Op. 36: II. Lento e Largo - Tranquillissimo | last aired 2026-11-18 06:55 | normal pick now | request now
+WAIT David Sylvian — Darkest Dreaming | last aired 2026-11-25 05:46 | normal pick from 2026-11-26 17:46 | request from 2026-11-26 01:46
+WAIT David Zinman — Symphony No. 3, Op. 36: II. Lento e Largo - Tranquillissimo | last aired 2026-11-25 05:50 | normal pick from 2026-11-26 17:50 | request from 2026-11-26 01:50
 WAIT The Dave Brubeck Quartet — Take Five | last aired 2026-11-24 02:25 | normal pick from 2026-11-25 14:25 | request now
