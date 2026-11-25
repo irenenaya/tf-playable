@@ -1,9 +1,9 @@
-Track status, artists filed under HO (built Tue Nov 24, 5:15 PM PST (01:15 UTC Wed)). Times in UTC.
+Track status, artists filed under HO (built Tue Nov 24, 5:25 PM PST (01:25 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Hollie Col — The Gambler | last aired 2026-11-21 14:31 | normal pick now | request now
 OK   Holly Herndon — Chorus | last aired 2026-11-07 08:14 | normal pick now | request now
-OK   Home — We're Finally Landing | last aired 2026-11-21 10:56 | normal pick now | request now
+WAIT Home — We're Finally Landing | last aired 2026-11-25 01:18 | normal pick from 2026-11-26 13:18 | request from 2026-11-25 21:18
 OK   Hooverphonic — 2 Wicky | last aired 2026-11-22 00:53 | normal pick now | request now
 OK   Horace Silver — Opus De Funk (Remastered 1998/Rudy Van Gelder Edition) | last aired 2026-11-18 23:41 | normal pick now | request now
 WAIT Horace Silver Quintet — Peace | last aired 2026-11-25 00:30 | normal pick from 2026-11-26 12:30 | request from 2026-11-25 20:30
