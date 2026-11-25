@@ -1,4 +1,4 @@
-Track status, song titles filed under LI (built Wed Nov 25, 12:55 PM PST (20:55 UTC)). Times in UTC.
+Track status, song titles filed under LI (built Wed Nov 25, 1:05 PM PST (21:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Li Beirut (after Joaquín Rodrigo) — Karim Sulayman | last aired 2026-11-25 08:23 | normal pick from 2026-11-26 20:23 | request from 2026-11-26 04:23
@@ -12,7 +12,7 @@ WAIT Life Is Sweet — Maria McKee | last aired 2026-11-25 13:21 | normal pick f
 OK   Life Itself — Glass Animals | last aired 2026-11-21 13:34 | normal pick now | request now
 OK   Life Letters (Slowed+Reverb) — Never Get Used To People | last aired 2026-11-15 01:20 | normal pick now | request now
 OK   LIFE — Neuro-sama | last aired 2026-08-30 14:26 | normal pick now | request now
-OK   Life Without The Living — Tom Konkle | last aired 2026-11-14 09:08 | normal pick now | request now
+WAIT Life Without The Living — Tom Konkle | last aired 2026-11-25 20:53 | normal pick from 2026-11-27 08:53 | request from 2026-11-26 16:53
 OK   Life's What You Make It (1997 Remaster) — Talk Talk | last aired 2026-11-15 02:28 | normal pick now | request now
 OK   Light Bulb In My Head — Tom Konkle | last aired 2026-11-16 22:41 | normal pick now | request now
 WAIT Lights (Album Version) — Journey | last aired 2026-11-25 00:40 | normal pick from 2026-11-26 12:40 | request now
@@ -23,7 +23,7 @@ WAIT Lisztomania — Phoenix | last aired 2026-11-25 14:02 | normal pick from 20
 WAIT LITE SPOTS — Kaytranada | last aired 2026-11-25 14:14 | normal pick from 2026-11-27 02:14 | request from 2026-11-26 10:14
 OK   Little Dark Age — MGMT | last aired 2026-11-17 09:30 | normal pick now | request now
 OK   Little Rhymes — Mercury Rev | last aired 2026-11-21 13:46 | normal pick now | request now
-WAIT Live For You — Thee Sacred Souls | last aired 2026-11-25 14:10 | normal pick from 2026-11-27 14:10 | request from 2026-11-27 14:10
+WAIT Live For You — Thee Sacred Souls | last aired 2026-11-25 14:11 | normal pick from 2026-11-27 14:11 | request from 2026-11-27 14:11
 OK   Live Forever — Oasis | last aired 2026-11-20 04:30 | normal pick now | request now
 OK   Livin' On A Prayer — Bon Jovi | last aired 2026-11-23 03:36 | normal pick now | request now
 OK   Living For The City (Album Version) — Stevie Wonder | last aired 2026-11-22 13:46 | normal pick now | request now
