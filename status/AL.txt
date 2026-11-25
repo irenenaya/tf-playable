@@ -1,10 +1,10 @@
-Track status, artists filed under AL (built Wed Nov 25, 3:05 AM PST (11:05 UTC)). Times in UTC.
+Track status, artists filed under AL (built Wed Nov 25, 3:15 AM PST (11:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Al Di Meola — Double Concerto | last aired 2026-11-09 02:17 | normal pick now | request now
 OK   Al Di Meola — Libertango | last aired 2026-11-21 06:14 | normal pick now | request now
 OK   Al Di Meola — Passion, Grace & Fire (Album Version) | last aired 2026-11-10 02:43 | normal pick now | request now
-OK   Al Di Meola — Red Moon | last aired 2026-11-22 13:01 | normal pick now | request now
+WAIT Al Di Meola — Red Moon | last aired 2026-11-25 11:09 | normal pick from 2026-11-27 11:09 | request from 2026-11-27 11:09
 OK   Al Green — Let's Stay Together | last aired 2026-11-22 19:20 | normal pick now | request now
 OK   Al Green — Love and Happiness | last aired 2026-11-17 20:41 | normal pick now | request now
 OK   Al Green — Simply Beautiful | last aired 2026-11-20 14:24 | normal pick now | request now
@@ -21,14 +21,14 @@ OK   Alestorm — Keelhauled | last aired 2026-11-20 19:00 | normal pick now | r
 OK   Alex Andre — thanks, my day is ruined | last aired 2026-11-21 23:56 | normal pick now | request now
 OK   Alexander Malter — Pärt: Für Alina | last aired 2026-11-20 11:11 | normal pick now | request now
 OK   Alexander Rybak — Fairytale | last aired 2026-11-20 18:33 | normal pick now | request now
-OK   Alexandre Tharaud — Gnossienne No.1 - Gnossienne: No. 1 | last aired 2026-11-15 10:13 | normal pick now | request now
+WAIT Alexandre Tharaud — Gnossienne No.1 - Gnossienne: No. 1 | last aired 2026-11-25 11:03 | normal pick from 2026-11-27 11:03 | request from 2026-11-27 11:03
 WAIT Alexi Murdoch — Orange Sky | last aired 2026-11-24 15:43 | normal pick from 2026-11-26 15:43 | request from 2026-11-26 15:43
 WAIT Alfa Mist — Organic Rust | last aired 2026-11-24 17:50 | normal pick from 2026-11-26 17:50 | request from 2026-11-26 17:50
 WAIT Ali Farka Touré — Soukora | last aired 2026-11-24 16:58 | normal pick from 2026-11-26 16:58 | request from 2026-11-26 16:58
 OK   Alice Coltrane — Journey In Satchidananda | last aired 2026-11-15 19:52 | normal pick now | request now
 OK   Alice In Chains — Man in the Box | last aired 2026-11-21 11:35 | normal pick now | request now
 WAIT Alicia Keys — Fallin' (Album Version) | last aired 2026-11-24 01:28 | normal pick from 2026-11-26 01:28 | request from 2026-11-26 01:28
-OK   Alison Krauss — Down To The River To Pray (Live) | last aired 2026-11-23 09:21 | normal pick now | request now
+WAIT Alison Krauss — Down To The River To Pray (Live) | last aired 2026-11-25 11:07 | normal pick from 2026-11-27 11:07 | request from 2026-11-27 11:07
 OK   Almendra — Plegaria para un Niño Dormido | last aired 2026-11-22 10:53 | normal pick now | request now
 OK   Alvin Lucier — I Am Sitting in a Room | last aired 2026-11-10 07:37 | normal pick now | request now
 WAIT Alvvays — Belinda Says | last aired 2026-11-24 15:50 | normal pick from 2026-11-26 15:50 | request from 2026-11-26 15:50

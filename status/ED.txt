@@ -1,4 +1,4 @@
-Track status, artists filed under ED (built Wed Nov 25, 3:05 AM PST (11:05 UTC)). Times in UTC.
+Track status, artists filed under ED (built Wed Nov 25, 3:15 AM PST (11:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Ed Maverick — lagunas | last aired 2026-11-08 11:48 | normal pick now | request now
@@ -9,5 +9,5 @@ OK   Edie Brickell & New Bohemians — Circle (Album Version) | last aired 2026-
 WAIT Edith Piaf — La Vie en rose | last aired 2026-11-24 15:02 | normal pick from 2026-11-26 03:02 | request now
 WAIT Ednaswap — Torn | last aired 2026-11-24 15:27 | normal pick from 2026-11-26 03:27 | request from 2026-11-25 11:27
 OK   Edwin Rosen — Vertigo | last aired 2026-11-08 11:38 | normal pick now | request now
-WAIT Edwin Starr — War | last aired 2026-11-24 15:15 | normal pick from 2026-11-26 03:15 | request from 2026-11-25 11:15
-WAIT The Edwin Hawkins Singers — Oh Happy Day | last aired 2026-11-24 15:09 | normal pick from 2026-11-26 03:09 | request from 2026-11-25 11:09
+WAIT Edwin Starr — War | last aired 2026-11-24 15:15 | normal pick from 2026-11-26 03:15 | request now
+WAIT The Edwin Hawkins Singers — Oh Happy Day | last aired 2026-11-24 15:09 | normal pick from 2026-11-26 03:09 | request now
