@@ -1,4 +1,4 @@
-Track status, song titles filed under GA (built Tue Nov 24, 8:15 PM PST (04:15 UTC Wed)). Times in UTC.
+Track status, song titles filed under GA (built Tue Nov 24, 8:25 PM PST (04:25 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Gantz Graf — Autechre | last aired 2026-10-16 00:24 | normal pick now | request now
@@ -6,5 +6,5 @@ OK   Garota de Ipanema (Live) — João Gilberto | last aired 2026-11-18 06:34 |
 OK   Gasoline — The Weeknd | last aired 2026-11-23 13:32 | normal pick now | request now
 OK   Gates Of Steiner - Steins;Gate OST — PianoDreams | last aired 2026-11-22 03:33 | normal pick now | request now
 OK   The Gambler — Hollie Col | last aired 2026-11-21 14:31 | normal pick now | request now
-OK   The Gambler — Kenny Rogers | last aired 2026-11-23 11:47 | normal pick now | request now
+WAIT The Gambler — Kenny Rogers | last aired 2026-11-25 04:19 | normal pick from 2026-11-26 16:19 | request from 2026-11-26 00:19
 OK   The Gardener — The Tallest Man On Earth | last aired 2026-11-15 01:13 | normal pick now | request now
