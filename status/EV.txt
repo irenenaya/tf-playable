@@ -1,8 +1,8 @@
-Track status, artists filed under EV (built Wed Nov 25, 10:55 AM PST (18:55 UTC)). Times in UTC.
+Track status, artists filed under EV (built Wed Nov 25, 11:05 AM PST (19:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Eva Cassidy — Ain't No Sunshine (Album Version) | last aired 2026-11-25 11:53 | normal pick from 2026-11-26 23:53 | request from 2026-11-26 07:53
-WAIT Eva Cassidy — At Last (Acoustic) | last aired 2026-11-24 06:57 | normal pick from 2026-11-25 18:57 | request now
+OK   Eva Cassidy — At Last (Acoustic) | last aired 2026-11-24 06:57 | normal pick now | request now
 OK   Evan Fong — pe$o$ | last aired 2026-11-23 14:28 | normal pick now | request now
 OK   Evanescence — Bring Me To Life | last aired 2026-11-20 19:08 | normal pick now | request now
 OK   Evergrey — In Orbit | last aired 2026-11-21 05:44 | normal pick now | request now
