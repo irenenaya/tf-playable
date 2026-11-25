@@ -1,4 +1,4 @@
-Track status, song titles filed under SA (built Wed Nov 25, 8:25 AM PST (16:25 UTC)). Times in UTC.
+Track status, song titles filed under SA (built Wed Nov 25, 8:35 AM PST (16:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Sabotage — Beastie Boys | last aired 2026-11-20 23:52 | normal pick now | request now
@@ -26,5 +26,5 @@ WAIT Saudade — Love and Rockets | last aired 2026-11-24 10:47 | normal pick fr
 OK   Save The Children — Marvin Gaye | last aired 2026-11-18 07:50 | normal pick now | request now
 OK   Saving All My Love for You — Whitney Houston | last aired 2026-11-22 05:37 | normal pick now | request now
 OK   Say My Name (feat. Zyra) — ODESZA | last aired 2026-11-21 11:48 | normal pick now | request now
-OK   Says — Nils Frahm | last aired 2026-11-18 07:38 | normal pick now | request now
+WAIT Says — Nils Frahm | last aired 2026-11-25 16:31 | normal pick from 2026-11-27 16:31 | request from 2026-11-27 16:31
 WAIT The Saturday Disco — Tom Robinson | last aired 2026-11-24 14:46 | normal pick from 2026-11-26 02:46 | request now
