@@ -1,4 +1,4 @@
-Track status, song titles filed under TO (built Wed Nov 25, 12:35 PM PST (20:35 UTC)). Times in UTC.
+Track status, song titles filed under TO (built Wed Nov 25, 12:45 PM PST (20:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Touch — Stan Bush | last aired 2026-11-23 19:34 | normal pick now | request now
@@ -9,6 +9,6 @@ OK   Tom Sawyer — Rush | last aired 2026-10-29 14:47 | normal pick now | reque
 WAIT Torn — Ednaswap | last aired 2026-11-24 15:27 | normal pick from 2026-11-26 03:27 | request now
 OK   Torn — Natalie Imbruglia | last aired 2026-11-23 18:36 | normal pick now | request now
 OK   Torna a casa — Måneskin | last aired 2026-11-24 01:20 | normal pick now | request now
-WAIT Total Eclipse of the Heart — Bonnie Tyler | last aired 2026-11-24 08:38 | normal pick from 2026-11-25 20:38 | request now
+OK   Total Eclipse of the Heart — Bonnie Tyler | last aired 2026-11-24 08:38 | normal pick now | request now
 OK   Touch It / Technologic — Daft Punk | last aired 2026-11-22 15:51 | normal pick now | request now
 OK   Touch The Hem Of His Garment — The Soul Stirrers | last aired 2026-11-08 12:14 | normal pick now | request now
