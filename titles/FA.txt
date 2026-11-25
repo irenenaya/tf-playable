@@ -1,4 +1,4 @@
-Track status, song titles filed under FA (built Wed Nov 25, 8:35 AM PST (16:35 UTC)). Times in UTC.
+Track status, song titles filed under FA (built Wed Nov 25, 8:45 AM PST (16:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Face to Face — Daft Punk | last aired 2026-11-18 12:22 | normal pick now | request now
@@ -9,7 +9,7 @@ WAIT Fado Vadio (Má Fama) — Ana Sofia Varela | last aired 2026-11-25 11:37 | 
 OK   Fail Upward For A Change — Tom Konkle | last aired 2026-11-19 14:09 | normal pick now | request now
 OK   Fairytale — Alexander Rybak | last aired 2026-11-20 18:33 | normal pick now | request now
 OK   Fait Accompli — Curve | last aired 2026-11-22 05:58 | normal pick now | request now
-WAIT Fake Tales Of San Francisco — Arctic Monkeys | last aired 2026-11-24 20:36 | normal pick from 2026-11-26 08:36 | request from 2026-11-25 16:36
+WAIT Fake Tales Of San Francisco — Arctic Monkeys | last aired 2026-11-24 20:36 | normal pick from 2026-11-26 08:36 | request now
 WAIT Fallen (Album Mix) — Sarah McLachlan | last aired 2026-11-24 07:24 | normal pick from 2026-11-26 07:24 | request from 2026-11-26 07:24
 OK   Fallen Star — Djivan Gasparyan | last aired 2026-11-22 02:55 | normal pick now | request now
 WAIT Fallin' (Album Version) — Alicia Keys | last aired 2026-11-24 01:28 | normal pick from 2026-11-26 01:28 | request from 2026-11-26 01:28
