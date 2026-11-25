@@ -1,4 +1,4 @@
-Track status, artists filed under DA (built Tue Nov 24, 9:35 PM PST (05:35 UTC Wed)). Times in UTC.
+Track status, artists filed under DA (built Tue Nov 24, 9:45 PM PST (05:45 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   D'Angelo — Untitled (How Does It Feel) | last aired 2026-11-19 15:47 | normal pick now | request now
@@ -36,7 +36,7 @@ OK   David Bowie — Space Oddity | last aired 2026-11-18 02:34 | normal pick no
 OK   David Bowie — Starman (2012 Remaster) | last aired 2026-11-21 04:18 | normal pick now | request now
 OK   David Bowie — Subterraneans (2017 Remaster) | last aired 2026-11-16 18:43 | normal pick now | request now
 OK   David Bowie — Warszawa (2017 Remaster) | last aired 2026-11-18 01:08 | normal pick now | request now
-OK   David Bowie — Wild Is the Wind (2016 Remaster) | last aired 2026-11-17 13:54 | normal pick now | request now
+WAIT David Bowie — Wild Is the Wind (2016 Remaster) | last aired 2026-11-25 05:39 | normal pick from 2026-11-26 17:39 | request from 2026-11-26 01:39
 WAIT David Byrne — Everybody's Coming to My House (Live) | last aired 2026-11-24 22:56 | normal pick from 2026-11-26 10:56 | request from 2026-11-25 18:56
 OK   David Soul — Silver Lady | last aired 2026-10-30 02:35 | normal pick now | request now
 OK   David Sylvian — Darkest Dreaming | last aired 2026-11-21 10:00 | normal pick now | request now
