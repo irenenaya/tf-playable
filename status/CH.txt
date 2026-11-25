@@ -1,4 +1,4 @@
-Track status, artists filed under CH (built Wed Nov 25, 1:15 AM PST (09:15 UTC)). Times in UTC.
+Track status, artists filed under CH (built Wed Nov 25, 1:25 AM PST (09:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Chaka Khan — What Cha' Gonna Do for Me | last aired 2026-11-24 01:41 | normal pick from 2026-11-26 01:41 | request from 2026-11-26 01:41
@@ -13,7 +13,7 @@ OK   Charles Mingus — Track A - Solo Dancer (Stop! Look! And Listen, Sinner Ji
 OK   Charles Wright & The Watts 103rd Street Rhythm Band — Express Yourself (Album Version) | last aired 2026-11-20 18:36 | normal pick now | request now
 OK   Charli XCX — 360 | last aired 2026-11-11 00:11 | normal pick now | request now
 OK   Charly García — Demoliendo Hoteles (Live) | last aired 2026-11-18 11:41 | normal pick now | request now
-OK   Chavela Vargas — La llorona | last aired 2026-11-22 14:55 | normal pick now | request now
+WAIT Chavela Vargas — La llorona | last aired 2026-11-25 09:12 | normal pick from 2026-11-26 21:12 | request from 2026-11-26 05:12
 OK   Chet Atkins — Why Worry (Album Version) | last aired 2026-11-11 08:21 | normal pick now | request now
 WAIT Chet Baker — Almost Blue | last aired 2026-11-25 09:09 | normal pick from 2026-11-27 09:09 | request from 2026-11-27 09:09
 OK   Chet Baker — My Funny Valentine | last aired 2026-11-16 12:27 | normal pick now | request now
@@ -36,7 +36,7 @@ OK   Christopher Cross — I Really Don't Know Anymore (2019 Remaster) | last ai
 WAIT Christopher Cross — Ride Like the Wind (Album Version) | last aired 2026-11-24 16:09 | normal pick from 2026-11-26 04:09 | request from 2026-11-25 12:09
 OK   Christopher Cross — Sailing | last aired 2026-11-23 20:17 | normal pick now | request now
 OK   Chuck Berry — Johnny B. Goode | last aired 2026-11-12 01:48 | normal pick now | request now
-OK   Chuck Mangione — Feels So Good | last aired 2026-11-23 08:53 | normal pick now | request now
+WAIT Chuck Mangione — Feels So Good | last aired 2026-11-25 09:21 | normal pick from 2026-11-26 21:21 | request from 2026-11-26 05:21
 WAIT CHVRCHES — Clearest Blue | last aired 2026-11-24 23:55 | normal pick from 2026-11-26 11:55 | request from 2026-11-25 19:55
 OK   The Chills — Pink Frost | last aired 2026-11-21 06:45 | normal pick now | request now
 OK   The Chordettes — Mr. Sandman | last aired 2026-11-22 18:36 | normal pick now | request now
