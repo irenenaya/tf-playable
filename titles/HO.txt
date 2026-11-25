@@ -1,4 +1,4 @@
-Track status, song titles filed under HO (built Wed Nov 25, 12:05 AM PST (08:05 UTC)). Times in UTC.
+Track status, song titles filed under HO (built Wed Nov 25, 12:15 AM PST (08:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Holding — Grouper | last aired 2026-11-16 02:01 | normal pick now | request now
@@ -25,5 +25,5 @@ WAIT How I Got Over (Live) — Mahalia Jackson | last aired 2026-11-23 22:26 | n
 OK   How You Remind Me (- LP Mix) — Nickelback | last aired 2026-11-19 19:35 | normal pick now | request now
 OK   The Hokey Pokey — Ray Anthony | last aired 2026-11-18 22:18 | normal pick now | request now
 OK   The Holly and the Ivy (Live) — Loreena McKennitt | last aired 2026-11-21 23:47 | normal pick now | request now
-WAIT The Host of Seraphim (Remastered) — Dead Can Dance | last aired 2026-11-23 08:15 | normal pick from 2026-11-25 08:15 | request from 2026-11-25 08:15
+OK   The Host of Seraphim (Remastered) — Dead Can Dance | last aired 2026-11-23 08:15 | normal pick now | request now
 OK   The House of the Rising Sun — The Animals | last aired 2026-09-29 16:09 | normal pick now | request now

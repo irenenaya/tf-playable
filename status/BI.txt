@@ -1,4 +1,4 @@
-Track status, artists filed under BI (built Wed Nov 25, 12:05 AM PST (08:05 UTC)). Times in UTC.
+Track status, artists filed under BI (built Wed Nov 25, 12:15 AM PST (08:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Bicep — Apricots | last aired 2026-11-22 04:52 | normal pick now | request now
@@ -9,7 +9,7 @@ OK   Big Foot Mama — Obseden z njo | last aired 2026-11-17 09:26 | normal pick
 WAIT Big Thief — Mary | last aired 2026-11-23 17:45 | normal pick from 2026-11-25 17:45 | request from 2026-11-25 17:45
 OK   Bikini Kill — Rebel Girl | last aired 2026-11-13 00:51 | normal pick now | request now
 WAIT Bill Callahan — Riding For The Feeling | last aired 2026-11-24 21:52 | normal pick from 2026-11-26 21:52 | request from 2026-11-26 21:52
-WAIT Bill Evans — Peace Piece (Album Version) | last aired 2026-11-23 08:07 | normal pick from 2026-11-25 08:07 | request from 2026-11-25 08:07
+OK   Bill Evans — Peace Piece (Album Version) | last aired 2026-11-23 08:07 | normal pick now | request now
 OK   Bill Monroe & His Blue Grass Boys — Blue Moon Of Kentucky | last aired 2026-11-13 00:32 | normal pick now | request now
 WAIT Bill Withers — Ain't No Sunshine (Album Version) | last aired 2026-11-24 23:00 | normal pick from 2026-11-26 23:00 | request from 2026-11-26 23:00
 WAIT Bill Withers — Lovely Day | last aired 2026-11-23 18:43 | normal pick from 2026-11-25 18:43 | request from 2026-11-25 18:43
