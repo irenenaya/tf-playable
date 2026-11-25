@@ -1,4 +1,4 @@
-Track status, artists filed under SA (built Wed Nov 25, 7:45 AM PST (15:45 UTC)). Times in UTC.
+Track status, artists filed under SA (built Wed Nov 25, 7:55 AM PST (15:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Sabaton — The Last Stand | last aired 2026-11-20 20:11 | normal pick now | request now
@@ -8,11 +8,11 @@ OK   Sabrina Carpenter — Taste | last aired 2026-11-18 19:54 | normal pick now
 WAIT Sade — By Your Side (Remastered Version) | last aired 2026-11-24 18:30 | normal pick from 2026-11-26 18:30 | request from 2026-11-26 18:30
 OK   Sade — Cherish the Day (Remastered Version) | last aired 2026-11-20 06:59 | normal pick now | request now
 OK   Sade — Is It a Crime (Remastered Version) | last aired 2026-11-20 08:57 | normal pick now | request now
-OK   Sade — Kiss of Life (Remastered Version) | last aired 2026-11-19 09:43 | normal pick now | request now
+WAIT Sade — Kiss of Life (Remastered Version) | last aired 2026-11-25 15:46 | normal pick from 2026-11-27 15:46 | request from 2026-11-27 15:46
 WAIT Sade — No Ordinary Love (Remastered Version) | last aired 2026-11-25 07:43 | normal pick from 2026-11-27 07:43 | request from 2026-11-27 07:43
 WAIT Sade — Smooth Operator (2011 Remastered) (Remastered Version) | last aired 2026-11-23 22:44 | normal pick from 2026-11-25 22:44 | request from 2026-11-25 22:44
 OK   Sade — The Sweetest Taboo (Remastered Version) | last aired 2026-11-22 11:38 | normal pick now | request now
-OK   Sadie Jean — WYD Now? | last aired 2026-11-18 19:48 | normal pick now | request now
+WAIT Sadie Jean — WYD Now? | last aired 2026-11-25 15:50 | normal pick from 2026-11-27 03:50 | request from 2026-11-26 11:50
 WAIT Saindra — Mil Besos | last aired 2026-11-25 05:06 | normal pick from 2026-11-27 05:06 | request from 2026-11-27 05:06
 WAIT Saint Etienne — Only Love Can Break Your Heart | last aired 2026-11-24 07:35 | normal pick from 2026-11-26 07:35 | request from 2026-11-26 07:35
 WAIT Salvador Sobral — Amar pelos Dois | last aired 2026-11-24 07:17 | normal pick from 2026-11-26 07:17 | request from 2026-11-26 07:17
