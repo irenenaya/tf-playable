@@ -1,4 +1,4 @@
-Track status, artists filed under DA (built Tue Nov 24, 9:55 PM PST (05:55 UTC Wed)). Times in UTC.
+Track status, artists filed under DA (built Tue Nov 24, 10:05 PM PST (06:05 UTC Wed)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   D'Angelo — Untitled (How Does It Feel) | last aired 2026-11-19 15:47 | normal pick now | request now
@@ -16,7 +16,7 @@ WAIT Dalida — Paroles paroles (Album Version) | last aired 2026-11-24 04:32 | 
 WAIT Damien Rice — The Blower's Daughter | last aired 2026-11-24 03:25 | normal pick from 2026-11-26 03:25 | request from 2026-11-26 03:25
 WAIT Daniel Barenboim — Nocturne n° 2 in E flat, op. 9 n° 2 - Nocturne No. 2 in E-Flat Major, Op. 9 No. 2 | last aired 2026-11-23 22:03 | normal pick from 2026-11-25 10:03 | request now
 OK   Daniel Pemberton — Amaze Amaze Amaze (Life on Erid) (from "Project Hail Mary") | last aired 2026-11-17 14:09 | normal pick now | request now
-OK   Daniel Quien — Otros Colores | last aired 2026-11-17 14:49 | normal pick now | request now
+WAIT Daniel Quien — Otros Colores | last aired 2026-11-25 06:00 | normal pick from 2026-11-26 18:00 | request from 2026-11-26 02:00
 OK   Dara — Bangaranga | last aired 2026-11-17 14:42 | normal pick now | request now
 OK   Darude — Sandstorm | last aired 2026-11-17 14:12 | normal pick now | request now
 OK   Daryl Hall & John Oates — I Can't Go For That (No Can Do) (Remastered 2003) | last aired 2026-11-02 13:01 | normal pick now | request now
