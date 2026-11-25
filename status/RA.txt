@@ -1,16 +1,16 @@
-Track status, artists filed under RA (built Wed Nov 25, 2:55 AM PST (10:55 UTC)). Times in UTC.
+Track status, artists filed under RA (built Wed Nov 25, 3:05 AM PST (11:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Radiohead — Paranoid Android | last aired 2026-11-18 21:07 | normal pick now | request now
 WAIT Radiohead — Weird Fishes / Arpeggi | last aired 2026-11-24 09:47 | normal pick from 2026-11-26 09:47 | request from 2026-11-26 09:47
 OK   Rammstein — Deutschland | last aired 2026-11-20 21:04 | normal pick now | request now
 OK   Ramones — Blitzkrieg Bop | last aired 2026-11-18 18:37 | normal pick now | request now
-OK   Randy Crawford — One Day I'll Fly Away | last aired 2026-11-23 06:35 | normal pick now | request now
+WAIT Randy Crawford — One Day I'll Fly Away | last aired 2026-11-25 10:52 | normal pick from 2026-11-27 10:52 | request from 2026-11-27 10:52
 WAIT Randy Travis — Forever and Ever, Amen | last aired 2026-11-23 20:59 | normal pick from 2026-11-25 20:59 | request from 2026-11-25 20:59
 OK   Raquel Tavares — Como É Grande o Meu Amor por Você | last aired 2026-11-22 00:00 | normal pick now | request now
 OK   Ray Anthony — The Hokey Pokey | last aired 2026-11-18 22:18 | normal pick now | request now
 OK   Ray Parker Junior — Ghostbusters (Album Version) | last aired 2026-11-21 17:25 | normal pick now | request now
-OK   Rayland Baxter — Objects In The Mirror | last aired 2026-11-23 06:41 | normal pick now | request now
+WAIT Rayland Baxter — Objects In The Mirror | last aired 2026-11-25 10:57 | normal pick from 2026-11-27 10:57 | request from 2026-11-27 10:57
 WAIT The Rah Band — Clouds Across the Moon | last aired 2026-11-24 16:47 | normal pick from 2026-11-26 16:47 | request from 2026-11-26 16:47
 WAIT The Rah Band — Messages from the Stars (Remaster) | last aired 2026-11-25 10:45 | normal pick from 2026-11-26 22:45 | request from 2026-11-26 06:45
 OK   The Ray Charles Singers — Sweet Little Mountain Bird | last aired 2026-11-19 00:12 | normal pick now | request now
