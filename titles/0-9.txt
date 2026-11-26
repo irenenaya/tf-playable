@@ -1,11 +1,11 @@
-Track status, song titles filed under 0-9 (built Wed Nov 25, 4:55 PM PST (00:55 UTC Thu)). Times in UTC.
+Track status, song titles filed under 0-9 (built Wed Nov 25, 5:05 PM PST (01:05 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   00:00 — Siddhartha | last aired 2026-11-18 20:10 | normal pick now | request now
 OK   1972 — Josh Rouse | last aired 2026-11-23 10:49 | normal pick now | request now
 OK   1979 — The Smashing Pumpkins | last aired 2026-11-21 23:20 | normal pick now | request now
 OK   1985 — Bowling For Soup | last aired 2026-11-21 12:08 | normal pick now | request now
-WAIT 2 Wicky — Hooverphonic | last aired 2026-11-25 22:09 | normal pick from 2026-11-27 10:09 | request from 2026-11-26 18:09
+WAIT 2 Wicky — Hooverphonic | last aired 2026-11-25 22:10 | normal pick from 2026-11-27 22:10 | request from 2026-11-27 22:10
 OK   21st Century (Digital Boy) — Bad Religion | last aired 2026-11-19 12:15 | normal pick now | request now
 OK   21st Century Schizoid Man (Including 'Mirrors') — King Crimson | last aired 2026-11-18 00:17 | normal pick now | request now
 WAIT 23 — Lawrence | last aired 2026-11-25 02:56 | normal pick from 2026-11-26 14:56 | request now

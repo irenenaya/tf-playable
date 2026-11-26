@@ -1,4 +1,4 @@
-Track status, song titles filed under CH (built Wed Nov 25, 4:55 PM PST (00:55 UTC Thu)). Times in UTC.
+Track status, song titles filed under CH (built Wed Nov 25, 5:05 PM PST (01:05 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Cha Cha Cha — Käärijä | last aired 2026-11-25 17:47 | normal pick from 2026-11-27 05:47 | request from 2026-11-26 13:47
@@ -25,3 +25,4 @@ WAIT Children Of The Revolution — T. Rex | last aired 2026-11-25 20:15 | norma
 WAIT Chinatown — Wild Nothing | last aired 2026-11-25 17:17 | normal pick from 2026-11-27 17:17 | request from 2026-11-27 17:17
 OK   Choo Choo Ch'Boogie — Louis Jordan & His Tympany Five | last aired 2026-11-24 12:43 | normal pick now | request now
 OK   Chorus — Holly Herndon | last aired 2026-11-07 08:14 | normal pick now | request now
+WAIT Christmas Time Is Here — Diana Krall | last aired 2026-11-25 22:57 | normal pick from 2026-11-27 10:57 | request from 2026-11-26 18:57
