@@ -1,8 +1,8 @@
-Track status, artists filed under RA (built Thu Nov 26, 12:05 PM PST (20:05 UTC)). Times in UTC.
+Track status, artists filed under RA (built Thu Nov 26, 12:15 PM PST (20:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Radiohead — Paranoid Android | last aired 2026-11-25 18:16 | normal pick from 2026-11-27 18:16 | request from 2026-11-27 18:16
-OK   Radiohead — Weird Fishes / Arpeggi | last aired 2026-11-24 09:47 | normal pick now | request now
+WAIT Radiohead — Weird Fishes / Arpeggi | last aired 2026-11-26 20:03 | normal pick from 2026-11-28 20:03 | request from 2026-11-28 20:03
 OK   Rammstein — Deutschland | last aired 2026-11-20 21:04 | normal pick now | request now
 WAIT Ramones — Blitzkrieg Bop | last aired 2026-11-25 18:32 | normal pick from 2026-11-27 18:32 | request from 2026-11-27 18:32
 WAIT Randy Crawford — One Day I'll Fly Away | last aired 2026-11-25 10:53 | normal pick from 2026-11-27 10:53 | request from 2026-11-27 10:53
