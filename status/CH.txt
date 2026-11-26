@@ -1,4 +1,4 @@
-Track status, artists filed under CH (built Thu Nov 26, 1:25 AM PST (09:25 UTC)). Times in UTC.
+Track status, artists filed under CH (built Thu Nov 26, 1:35 AM PST (09:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Chaka Khan — What Cha' Gonna Do for Me | last aired 2026-11-24 01:41 | normal pick now | request now
@@ -30,7 +30,7 @@ WAIT Chris Isaak — Blue Hotel (Remastered Album Version) | last aired 2026-11-
 WAIT Chris Isaak — Wicked Game (Remastered Album Version) | last aired 2026-11-26 09:19 | normal pick from 2026-11-27 21:19 | request from 2026-11-27 05:19
 OK   Chris Snelling — Le onde | last aired 2026-11-16 07:07 | normal pick now | request now
 WAIT Chris Whitley — Big Sky Country (Album Version) | last aired 2026-11-26 09:14 | normal pick from 2026-11-27 21:14 | request from 2026-11-27 05:14
-OK   Christian Löffler — Lid | last aired 2026-11-21 07:25 | normal pick now | request now
+WAIT Christian Löffler — Lid | last aired 2026-11-26 09:28 | normal pick from 2026-11-27 21:28 | request from 2026-11-27 05:28
 OK   Christina Aguilera — Genie In a Bottle | last aired 2026-10-30 14:20 | normal pick now | request now
 OK   Christopher Cross — I Really Don't Know Anymore (2019 Remaster) | last aired 2026-10-31 01:35 | normal pick now | request now
 OK   Christopher Cross — Ride Like the Wind (Album Version) | last aired 2026-11-24 16:09 | normal pick now | request now
@@ -38,5 +38,5 @@ WAIT Christopher Cross — Sailing | last aired 2026-11-25 09:31 | normal pick f
 OK   Chuck Berry — Johnny B. Goode | last aired 2026-11-12 01:48 | normal pick now | request now
 WAIT Chuck Mangione — Feels So Good | last aired 2026-11-25 09:21 | normal pick from 2026-11-26 21:21 | request now
 WAIT CHVRCHES — Clearest Blue | last aired 2026-11-24 23:55 | normal pick from 2026-11-26 11:55 | request now
-OK   The Chills — Pink Frost | last aired 2026-11-21 06:45 | normal pick now | request now
+WAIT The Chills — Pink Frost | last aired 2026-11-26 09:24 | normal pick from 2026-11-27 21:24 | request from 2026-11-27 05:24
 OK   The Chordettes — Mr. Sandman | last aired 2026-11-22 18:36 | normal pick now | request now
