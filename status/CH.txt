@@ -1,4 +1,4 @@
-Track status, artists filed under CH (built Thu Nov 26, 1:35 AM PST (09:35 UTC)). Times in UTC.
+Track status, artists filed under CH (built Thu Nov 26, 1:45 AM PST (09:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Chaka Khan — What Cha' Gonna Do for Me | last aired 2026-11-24 01:41 | normal pick now | request now
@@ -18,9 +18,9 @@ WAIT Chet Atkins — Why Worry (Album Version) | last aired 2026-11-25 09:50 | n
 WAIT Chet Baker — Almost Blue | last aired 2026-11-25 09:09 | normal pick from 2026-11-27 09:09 | request from 2026-11-27 09:09
 WAIT Chet Baker — My Funny Valentine | last aired 2026-11-26 09:12 | normal pick from 2026-11-27 21:12 | request from 2026-11-27 05:12
 OK   Chet Baker — You Don't Know What Love Is | last aired 2026-11-22 09:14 | normal pick now | request now
-OK   Chic — Good Times (2018 Remaster) | last aired 2026-11-20 15:23 | normal pick now | request now
+WAIT Chic — Good Times (2018 Remaster) | last aired 2026-11-26 09:40 | normal pick from 2026-11-27 21:40 | request from 2026-11-27 05:40
 WAIT Chicago — Hard to Say I'M Sorry / Get Away | last aired 2026-11-25 09:35 | normal pick from 2026-11-26 21:35 | request now
-OK   Chico Buarque — Construção | last aired 2026-11-13 20:06 | normal pick now | request now
+WAIT Chico Buarque — Construção | last aired 2026-11-26 09:33 | normal pick from 2026-11-27 21:33 | request from 2026-11-27 05:33
 WAIT Child Seat — Heart To Heart | last aired 2026-11-25 09:40 | normal pick from 2026-11-26 21:40 | request now
 OK   Child Seat — Hyperphantasia | last aired 2026-11-21 10:43 | normal pick now | request now
 OK   Chris Christodoulou — The Rain Formerly Known as Purple | last aired 2026-11-12 21:30 | normal pick now | request now
