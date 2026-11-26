@@ -1,4 +1,4 @@
-Track status, artists filed under HO (built Thu Nov 26, 4:25 AM PST (12:25 UTC)). Times in UTC.
+Track status, artists filed under HO (built Thu Nov 26, 4:35 AM PST (12:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Hollie Col — The Gambler | last aired 2026-11-25 22:23 | normal pick from 2026-11-27 10:23 | request from 2026-11-26 18:23
@@ -6,7 +6,7 @@ OK   Holly Herndon — Chorus | last aired 2026-11-07 08:14 | normal pick now | 
 WAIT Home — We're Finally Landing | last aired 2026-11-25 01:18 | normal pick from 2026-11-26 13:18 | request now
 WAIT Hooverphonic — 2 Wicky | last aired 2026-11-25 22:10 | normal pick from 2026-11-27 22:10 | request from 2026-11-27 22:10
 WAIT Horace Silver — Opus De Funk (Remastered 1998/Rudy Van Gelder Edition) | last aired 2026-11-25 22:05 | normal pick from 2026-11-27 10:05 | request from 2026-11-26 18:05
-WAIT Horace Silver Quintet — Peace | last aired 2026-11-25 00:30 | normal pick from 2026-11-26 12:30 | request now
+OK   Horace Silver Quintet — Peace | last aired 2026-11-25 00:30 | normal pick now | request now
 WAIT Hotel Ugly — Mice City | last aired 2026-11-25 22:49 | normal pick from 2026-11-27 10:49 | request from 2026-11-26 18:49
 WAIT Howard Shore — Caras Galadhon / "Lament for Gandalf" (feat. Elizabeth Fraser) | last aired 2026-11-25 22:14 | normal pick from 2026-11-27 10:14 | request from 2026-11-26 18:14
 OK   Howlin' Wolf — Smokestack Lightnin' | last aired 2026-11-24 23:29 | normal pick now | request now
