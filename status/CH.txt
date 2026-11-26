@@ -1,4 +1,4 @@
-Track status, artists filed under CH (built Thu Nov 26, 2:05 AM PST (10:05 UTC)). Times in UTC.
+Track status, artists filed under CH (built Thu Nov 26, 2:15 AM PST (10:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Chaka Khan — What Cha' Gonna Do for Me | last aired 2026-11-26 09:48 | normal pick from 2026-11-27 21:48 | request from 2026-11-27 05:48
@@ -22,7 +22,7 @@ WAIT Chic — Good Times (2018 Remaster) | last aired 2026-11-26 09:40 | normal 
 WAIT Chicago — Hard to Say I'M Sorry / Get Away | last aired 2026-11-25 09:35 | normal pick from 2026-11-26 21:35 | request now
 WAIT Chico Buarque — Construção | last aired 2026-11-26 09:33 | normal pick from 2026-11-27 21:33 | request from 2026-11-27 05:33
 WAIT Child Seat — Heart To Heart | last aired 2026-11-25 09:40 | normal pick from 2026-11-26 21:40 | request now
-OK   Child Seat — Hyperphantasia | last aired 2026-11-21 10:43 | normal pick now | request now
+WAIT Child Seat — Hyperphantasia | last aired 2026-11-26 10:02 | normal pick from 2026-11-27 22:02 | request from 2026-11-27 06:02
 OK   Chris Christodoulou — The Rain Formerly Known as Purple | last aired 2026-11-12 21:30 | normal pick now | request now
 OK   Chris De Burgh — The Getaway | last aired 2026-11-21 08:56 | normal pick now | request now
 OK   Chris Huelsbeck — GSTD Ingame 4 | last aired 2026-10-11 11:31 | normal pick now | request now
