@@ -1,10 +1,10 @@
-Track status, song titles filed under CH (built Thu Nov 26, 9:55 AM PST (17:55 UTC)). Times in UTC.
+Track status, song titles filed under CH (built Thu Nov 26, 10:05 AM PST (18:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Cha Cha Cha — Käärijä | last aired 2026-11-25 17:47 | normal pick from 2026-11-27 05:47 | request now
 OK   Chaiyya Chaiyya — Sukhwinder Singh | last aired 2026-11-01 17:22 | normal pick now | request now
 WAIT Chamber Of Reflection — Mac DeMarco | last aired 2026-11-26 04:51 | normal pick from 2026-11-28 04:51 | request from 2026-11-28 04:51
-WAIT Chameleon — Herbie Hancock | last aired 2026-11-26 13:55 | normal pick from 2026-11-28 01:55 | request from 2026-11-27 09:55
+WAIT Chameleon — Herbie Hancock | last aired 2026-11-26 13:56 | normal pick from 2026-11-28 01:56 | request from 2026-11-27 09:56
 OK   Champs-Elysées — Zaz | last aired 2026-11-24 08:29 | normal pick now | request now
 OK   Chan Chan — Buena Vista Social Club | last aired 2026-11-24 04:46 | normal pick now | request now
 OK   Chances — Joel Pott | last aired 2026-10-26 11:28 | normal pick now | request now
@@ -26,3 +26,4 @@ WAIT Chinatown — Wild Nothing | last aired 2026-11-25 17:17 | normal pick from
 OK   Choo Choo Ch'Boogie — Louis Jordan & His Tympany Five | last aired 2026-11-24 12:43 | normal pick now | request now
 OK   Chorus — Holly Herndon | last aired 2026-11-07 08:14 | normal pick now | request now
 WAIT Christmas Time Is Here — Diana Krall | last aired 2026-11-25 22:57 | normal pick from 2026-11-27 10:57 | request from 2026-11-26 18:57
+WAIT The Christmas Waltz — Norah Jones | last aired 2026-11-26 17:34 | normal pick from 2026-11-28 05:34 | request from 2026-11-27 13:34
