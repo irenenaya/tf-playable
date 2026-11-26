@@ -1,4 +1,4 @@
-Track status, artists filed under CH (built Thu Nov 26, 1:15 AM PST (09:15 UTC)). Times in UTC.
+Track status, artists filed under CH (built Thu Nov 26, 1:25 AM PST (09:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Chaka Khan — What Cha' Gonna Do for Me | last aired 2026-11-24 01:41 | normal pick now | request now
@@ -27,9 +27,9 @@ OK   Chris Christodoulou — The Rain Formerly Known as Purple | last aired 2026
 OK   Chris De Burgh — The Getaway | last aired 2026-11-21 08:56 | normal pick now | request now
 OK   Chris Huelsbeck — GSTD Ingame 4 | last aired 2026-10-11 11:31 | normal pick now | request now
 WAIT Chris Isaak — Blue Hotel (Remastered Album Version) | last aired 2026-11-25 01:57 | normal pick from 2026-11-26 13:57 | request now
-OK   Chris Isaak — Wicked Game (Remastered Album Version) | last aired 2026-11-23 16:21 | normal pick now | request now
+WAIT Chris Isaak — Wicked Game (Remastered Album Version) | last aired 2026-11-26 09:19 | normal pick from 2026-11-27 21:19 | request from 2026-11-27 05:19
 OK   Chris Snelling — Le onde | last aired 2026-11-16 07:07 | normal pick now | request now
-OK   Chris Whitley — Big Sky Country (Album Version) | last aired 2026-11-24 11:58 | normal pick now | request now
+WAIT Chris Whitley — Big Sky Country (Album Version) | last aired 2026-11-26 09:14 | normal pick from 2026-11-27 21:14 | request from 2026-11-27 05:14
 OK   Christian Löffler — Lid | last aired 2026-11-21 07:25 | normal pick now | request now
 OK   Christina Aguilera — Genie In a Bottle | last aired 2026-10-30 14:20 | normal pick now | request now
 OK   Christopher Cross — I Really Don't Know Anymore (2019 Remaster) | last aired 2026-10-31 01:35 | normal pick now | request now
