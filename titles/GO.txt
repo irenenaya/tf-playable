@@ -1,9 +1,9 @@
-Track status, song titles filed under GO (built Wed Nov 25, 7:15 PM PST (03:15 UTC Thu)). Times in UTC.
+Track status, song titles filed under GO (built Wed Nov 25, 7:25 PM PST (03:25 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Go Home — Stevie Wonder | last aired 2026-11-15 01:55 | normal pick now | request now
 OK   Go Your Own Way (2004 Remaster) — Fleetwood Mac | last aired 2026-11-22 06:20 | normal pick now | request now
-OK   God Only Knows (Stereo) — The Beach Boys | last aired 2026-11-24 02:51 | normal pick now | request now
+WAIT God Only Knows (Stereo) — The Beach Boys | last aired 2026-11-26 03:11 | normal pick from 2026-11-27 15:11 | request from 2026-11-26 23:11
 OK   GODDESS — Fireboy DML | last aired 2026-11-21 16:47 | normal pick now | request now
 WAIT Gogol — Gonzales | last aired 2026-11-25 21:06 | normal pick from 2026-11-27 09:06 | request from 2026-11-26 17:06
 WAIT Going Down — Freddie King | last aired 2026-11-26 00:27 | normal pick from 2026-11-27 12:27 | request from 2026-11-26 20:27
@@ -17,7 +17,7 @@ OK   Golden Slumbers (Remastered) — The Beatles | last aired 2026-11-05 06:35 
 OK   Goo Goo Muck — The Cramps | last aired 2026-11-23 02:08 | normal pick now | request now
 OK   Good Luck, Babe! — Chappell Roan | last aired 2026-11-19 05:26 | normal pick now | request now
 OK   Good Times (2018 Remaster) — Chic | last aired 2026-11-20 15:23 | normal pick now | request now
-OK   Good Vibrations (Stereo/Remastered 2012) — The Beach Boys | last aired 2026-11-23 18:05 | normal pick now | request now
+WAIT Good Vibrations (Stereo/Remastered 2012) — The Beach Boys | last aired 2026-11-26 03:14 | normal pick from 2026-11-27 15:14 | request from 2026-11-26 23:14
 WAIT Goodbye (Live) — toe | last aired 2026-11-25 20:57 | normal pick from 2026-11-27 08:57 | request from 2026-11-26 16:57
 OK   Goodbye Horses - Single — Q Lazzarus | last aired 2026-11-01 20:06 | normal pick now | request now
 WAIT Goodbye Pork Pie Hat (Album Version) — Charles Mingus | last aired 2026-11-25 09:44 | normal pick from 2026-11-27 09:44 | request from 2026-11-27 09:44
