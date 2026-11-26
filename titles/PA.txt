@@ -1,7 +1,7 @@
-Track status, song titles filed under PA (built Thu Nov 26, 7:05 AM PST (15:05 UTC)). Times in UTC.
+Track status, song titles filed under PA (built Thu Nov 26, 7:15 AM PST (15:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Pac-Man (feat. ScHoolboy Q) — Gorillaz | last aired 2026-11-18 00:11 | normal pick now | request now
+WAIT Pac-Man (feat. ScHoolboy Q) — Gorillaz | last aired 2026-11-26 15:02 | normal pick from 2026-11-28 03:02 | request from 2026-11-27 11:02
 OK   Pacific Summits (Pulse Version) — Heathered Pearls | last aired 2026-11-16 16:22 | normal pick now | request now
 OK   Pagan Poetry — Björk | last aired 2026-11-21 03:22 | normal pick now | request now
 WAIT Paid In Full — Eric B. & Rakim | last aired 2026-11-26 14:55 | normal pick from 2026-11-28 02:55 | request from 2026-11-27 10:55
