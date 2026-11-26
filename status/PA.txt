@@ -1,4 +1,4 @@
-Track status, artists filed under PA (built Thu Nov 26, 11:05 AM PST (19:05 UTC)). Times in UTC.
+Track status, artists filed under PA (built Thu Nov 26, 11:25 AM PST (19:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Paco de Lucía — Entre Dos Aguas | last aired 2026-11-24 03:06 | normal pick now | request now
@@ -13,19 +13,19 @@ WAIT Parcels — Overnight - from Hansa Studios, Berlin | last aired 2026-11-25 
 OK   Parliament — Give Up The Funk (Tear The Roof Off The Sucker) | last aired 2026-11-24 13:28 | normal pick now | request now
 WAIT Patrick Watson — Sit Down Beside Me | last aired 2026-11-25 08:50 | normal pick from 2026-11-26 20:50 | request now
 OK   Patrik Andrén — ARC Raiders | last aired 2026-11-24 08:47 | normal pick now | request now
-OK   Patsy Cline — Crazy (Single Version) | last aired 2026-11-23 20:54 | normal pick now | request now
+WAIT Patsy Cline — Crazy (Single Version) | last aired 2026-11-26 19:02 | normal pick from 2026-11-28 07:02 | request from 2026-11-27 15:02
 OK   Patsy Cline — Strange | last aired 2026-11-24 18:02 | normal pick now | request now
-OK   Patti LaBelle — If Only You Knew | last aired 2026-11-24 01:54 | normal pick now | request now
+WAIT Patti LaBelle — If Only You Knew | last aired 2026-11-26 19:11 | normal pick from 2026-11-28 07:11 | request from 2026-11-27 15:11
 OK   Patti LaBelle — On My Own | last aired 2026-11-24 18:04 | normal pick now | request now
 OK   Patti Smith — Gloria : In Excelsis Deo - Gloria | last aired 2026-11-21 22:09 | normal pick now | request now
 OK   Patti Smith Group — Dancing Barefoot | last aired 2026-11-21 19:07 | normal pick now | request now
-OK   Patti Smith — People Have the Power | last aired 2026-11-23 05:44 | normal pick now | request now
+WAIT Patti Smith — People Have the Power | last aired 2026-11-26 19:18 | normal pick from 2026-11-28 07:18 | request from 2026-11-27 15:18
 OK   Patti Smith — Wing | last aired 2026-11-24 03:12 | normal pick now | request now
 OK   Paul Leonard-Morgan — She's a Pass | last aired 2026-11-03 17:37 | normal pick now | request now
-OK   Paul Mauriat — Love Is Blue (Album Version) | last aired 2026-11-24 12:07 | normal pick now | request now
+WAIT Paul Mauriat — Love Is Blue (Album Version) | last aired 2026-11-26 19:16 | normal pick from 2026-11-28 07:16 | request from 2026-11-27 15:16
 OK   Paul McCartney — Maybe I’m Amazed (2011 Remaster) | last aired 2026-11-24 01:50 | normal pick now | request now
 OK   Paul McCartney — Monkberry Moon Delight (2012 Remaster) | last aired 2026-11-14 23:34 | normal pick now | request now
 OK   Paul Rodgers — Muddy Water Blues | last aired 2026-11-22 14:11 | normal pick now | request now
-OK   Paul Simon — Further to Fly | last aired 2026-11-24 02:04 | normal pick now | request now
+WAIT Paul Simon — Further to Fly | last aired 2026-11-26 19:05 | normal pick from 2026-11-28 19:05 | request from 2026-11-28 19:05
 OK   Paul Simon — You Can Call Me Al | last aired 2026-11-24 12:10 | normal pick now | request now
 OK   Paula Abdul — Straight Up (Single Version) | last aired 2026-11-22 02:03 | normal pick now | request now
