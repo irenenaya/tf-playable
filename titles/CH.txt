@@ -1,4 +1,4 @@
-Track status, song titles filed under CH (built Thu Nov 26, 7:35 AM PST (15:35 UTC)). Times in UTC.
+Track status, song titles filed under CH (built Thu Nov 26, 7:45 AM PST (15:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Cha Cha Cha — Käärijä | last aired 2026-11-25 17:47 | normal pick from 2026-11-27 05:47 | request now
@@ -9,7 +9,7 @@ OK   Champs-Elysées — Zaz | last aired 2026-11-24 08:29 | normal pick now | r
 OK   Chan Chan — Buena Vista Social Club | last aired 2026-11-24 04:46 | normal pick now | request now
 OK   Chances — Joel Pott | last aired 2026-10-26 11:28 | normal pick now | request now
 WAIT Change (In the House of Flies) — Deftones | last aired 2026-11-26 01:49 | normal pick from 2026-11-27 13:49 | request from 2026-11-26 21:49
-OK   Change the World — Eric Clapton | last aired 2026-11-22 09:03 | normal pick now | request now
+WAIT Change the World — Eric Clapton | last aired 2026-11-26 15:37 | normal pick from 2026-11-28 15:37 | request from 2026-11-28 15:37
 OK   Chateau — Synergy | last aired 2026-11-22 22:10 | normal pick now | request now
 OK   Chega de Saudade — João Gilberto | last aired 2026-11-18 05:34 | normal pick now | request now
 OK   Chemical — Post Malone | last aired 2026-11-12 03:06 | normal pick now | request now

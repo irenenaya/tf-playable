@@ -1,4 +1,4 @@
-Track status, artists filed under AL (built Thu Nov 26, 7:35 AM PST (15:35 UTC)). Times in UTC.
+Track status, artists filed under AL (built Thu Nov 26, 7:45 AM PST (15:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Al Di Meola — Double Concerto | last aired 2026-11-09 02:17 | normal pick now | request now
@@ -13,7 +13,7 @@ OK   Al Stewart — Year of the Cat | last aired 2026-11-24 15:32 | normal pick 
 OK   Alabama 3 — Sad Eyed Lady Of The Low Life | last aired 2026-11-21 00:30 | normal pick now | request now
 OK   Alabama 3 — Thank you | last aired 2026-11-19 16:46 | normal pick now | request now
 WAIT Alabama 3 — Woke Up This Morning | last aired 2026-11-26 10:35 | normal pick from 2026-11-27 22:35 | request from 2026-11-27 06:35
-WAIT Albert Hammond — When I'm Gone | last aired 2026-11-24 15:39 | normal pick from 2026-11-26 15:39 | request from 2026-11-26 15:39
+OK   Albert Hammond — When I'm Gone | last aired 2026-11-24 15:39 | normal pick now | request now
 WAIT Albert King — Born Under A Bad Sign | last aired 2026-11-26 10:11 | normal pick from 2026-11-28 10:11 | request from 2026-11-28 10:11
 OK   Alestorm — Captain Morgan`s Revenge | last aired 2026-11-22 15:40 | normal pick now | request now
 OK   Alestorm — Drink | last aired 2026-11-22 06:02 | normal pick now | request now
@@ -22,7 +22,7 @@ OK   Alex Andre — thanks, my day is ruined | last aired 2026-11-21 23:56 | nor
 OK   Alexander Malter — Pärt: Für Alina | last aired 2026-11-20 11:11 | normal pick now | request now
 WAIT Alexander Rybak — Fairytale | last aired 2026-11-26 10:42 | normal pick from 2026-11-27 22:42 | request from 2026-11-27 06:42
 WAIT Alexandre Tharaud — Gnossienne No.1 - Gnossienne: No. 1 | last aired 2026-11-25 11:04 | normal pick from 2026-11-27 11:04 | request from 2026-11-27 11:04
-WAIT Alexi Murdoch — Orange Sky | last aired 2026-11-24 15:43 | normal pick from 2026-11-26 15:43 | request from 2026-11-26 15:43
+OK   Alexi Murdoch — Orange Sky | last aired 2026-11-24 15:43 | normal pick now | request now
 WAIT Alfa Mist — Organic Rust | last aired 2026-11-24 17:50 | normal pick from 2026-11-26 17:50 | request from 2026-11-26 17:50
 WAIT Ali Farka Touré — Soukora | last aired 2026-11-24 16:58 | normal pick from 2026-11-26 16:58 | request from 2026-11-26 16:58
 WAIT Alice Coltrane — Journey In Satchidananda | last aired 2026-11-25 11:14 | normal pick from 2026-11-27 11:14 | request from 2026-11-27 11:14
