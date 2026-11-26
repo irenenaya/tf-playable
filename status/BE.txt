@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Thu Nov 26, 2:25 PM PST (22:25 UTC)). Times in UTC.
+Track status, artists filed under BE (built Thu Nov 26, 2:35 PM PST (22:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Beach House — Bluebird | last aired 2026-11-26 12:45 | normal pick from 2026-11-28 12:45 | request from 2026-11-28 12:45
@@ -50,4 +50,4 @@ OK   The Beatles — Revolution 9 (Remastered 2009) | last aired 2026-11-09 21:0
 OK   The Beatles — Strawberry Fields Forever | last aired 2026-11-21 12:53 | normal pick now | request now
 OK   The Beatles — This Boy (Remastered) | last aired 2026-11-05 06:40 | normal pick now | request now
 OK   The Beatles — With A Little Help From My Friends (2017 Mix) | last aired 2026-11-14 13:41 | normal pick now | request now
-WAIT The Beatles — Yesterday (Remastered) | last aired 2026-11-26 02:27 | normal pick from 2026-11-27 14:27 | request from 2026-11-26 22:27
+WAIT The Beatles — Yesterday (Remastered) | last aired 2026-11-26 02:27 | normal pick from 2026-11-27 14:27 | request now
