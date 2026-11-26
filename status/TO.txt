@@ -1,4 +1,4 @@
-Track status, artists filed under TO (built Wed Nov 25, 6:25 PM PST (02:25 UTC Thu)). Times in UTC.
+Track status, artists filed under TO (built Wed Nov 25, 6:35 PM PST (02:35 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT toe — Goodbye (Live) | last aired 2026-11-25 20:57 | normal pick from 2026-11-27 08:57 | request from 2026-11-26 16:57
@@ -22,7 +22,7 @@ OK   Tom Petty & The Heartbreakers — American Girl | last aired 2026-11-17 21:
 WAIT Tom Petty — I Won't Back Down | last aired 2026-11-25 12:28 | normal pick from 2026-11-27 12:28 | request from 2026-11-27 12:28
 OK   Tom Petty — Runnin' Down A Dream | last aired 2026-11-24 11:06 | normal pick now | request now
 WAIT Tom Robinson — The Saturday Disco | last aired 2026-11-24 14:46 | normal pick from 2026-11-26 02:46 | request now
-WAIT Tom Waits — House Where Nobody Lives | last aired 2026-11-24 14:26 | normal pick from 2026-11-26 02:26 | request now
+OK   Tom Waits — House Where Nobody Lives | last aired 2026-11-24 14:26 | normal pick now | request now
 WAIT Tomaso Albinoni — Adagio in G Minor | last aired 2026-11-25 10:31 | normal pick from 2026-11-26 22:31 | request from 2026-11-26 06:31
 WAIT Tomohisa Okudo — Always with Me | last aired 2026-11-25 04:29 | normal pick from 2026-11-26 16:29 | request now
 WAIT Toni Braxton — Un-Break My Heart | last aired 2026-11-25 20:32 | normal pick from 2026-11-27 08:32 | request from 2026-11-26 16:32
@@ -32,7 +32,7 @@ WAIT TOOL — Lateralus | last aired 2026-11-25 21:12 | normal pick from 2026-11
 WAIT Tori Amos — A Sorta Fairytale (2023 Remaster) | last aired 2026-11-25 20:37 | normal pick from 2026-11-27 08:37 | request from 2026-11-26 16:37
 WAIT Tori Amos — Rattlesnakes | last aired 2026-11-24 15:23 | normal pick from 2026-11-26 03:23 | request now
 WAIT Tori Amos — Winter | last aired 2026-11-25 04:27 | normal pick from 2026-11-26 16:27 | request now
-WAIT Toto — Africa | last aired 2026-11-24 14:30 | normal pick from 2026-11-26 02:30 | request now
+OK   Toto — Africa | last aired 2026-11-24 14:30 | normal pick now | request now
 OK   Toto — Georgy Porgy (album version) | last aired 2026-11-23 21:28 | normal pick now | request now
 WAIT Toto — Rosanna (Album Version) | last aired 2026-11-25 20:27 | normal pick from 2026-11-27 08:27 | request from 2026-11-26 16:27
 WAIT Tove Lo — No One Dies From Love | last aired 2026-11-25 20:42 | normal pick from 2026-11-27 08:42 | request from 2026-11-26 16:42
