@@ -1,7 +1,7 @@
-Track status, artists filed under PA (built Thu Nov 26, 11:25 AM PST (19:25 UTC)). Times in UTC.
+Track status, artists filed under PA (built Thu Nov 26, 11:35 AM PST (19:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   Paco de Lucía — Entre Dos Aguas | last aired 2026-11-24 03:06 | normal pick now | request now
+WAIT Paco de Lucía — Entre Dos Aguas | last aired 2026-11-26 19:23 | normal pick from 2026-11-28 07:23 | request from 2026-11-27 15:23
 OK   Paco de Lucía — Mediterranean sundance - Di Meola: Mediterranean sundance | last aired 2026-11-24 12:14 | normal pick now | request now
 WAIT Pages — If I Saw You Again (Album Version) | last aired 2026-11-25 09:01 | normal pick from 2026-11-27 09:01 | request from 2026-11-27 09:01
 OK   Pale Saints — Kinky Love | last aired 2026-11-23 05:40 | normal pick now | request now
@@ -28,4 +28,4 @@ OK   Paul McCartney — Monkberry Moon Delight (2012 Remaster) | last aired 2026
 OK   Paul Rodgers — Muddy Water Blues | last aired 2026-11-22 14:11 | normal pick now | request now
 WAIT Paul Simon — Further to Fly | last aired 2026-11-26 19:05 | normal pick from 2026-11-28 19:05 | request from 2026-11-28 19:05
 OK   Paul Simon — You Can Call Me Al | last aired 2026-11-24 12:10 | normal pick now | request now
-OK   Paula Abdul — Straight Up (Single Version) | last aired 2026-11-22 02:03 | normal pick now | request now
+WAIT Paula Abdul — Straight Up (Single Version) | last aired 2026-11-26 19:30 | normal pick from 2026-11-28 07:30 | request from 2026-11-27 15:30
