@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Thu Nov 26, 2:45 PM PST (22:45 UTC)). Times in UTC.
+Track status, artists filed under BE (built Thu Nov 26, 2:55 PM PST (22:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Beach House — Bluebird | last aired 2026-11-26 12:45 | normal pick from 2026-11-28 12:45 | request from 2026-11-28 12:45
@@ -17,12 +17,12 @@ OK   Beenie Man — Feel It Boy | last aired 2026-11-20 19:30 | normal pick now 
 OK   Belcea Quartet — Quatuor à cordes n° 4, Sz. 91 - String Quartet No. 4 in C Major, Sz. 91: IV. Allegretto pizzicato | last aired 2026-11-22 17:43 | normal pick now | request now
 WAIT Belle and Sebastian — The Boy with the Arab Strap | last aired 2026-11-26 02:29 | normal pick from 2026-11-28 02:29 | request from 2026-11-28 02:29
 WAIT Ben Allison — D.A.V.E. | last aired 2026-11-26 02:56 | normal pick from 2026-11-27 14:56 | request from 2026-11-26 22:56
-OK   Ben E. King — Stand By Me | last aired 2026-11-24 02:48 | normal pick now | request now
-OK   Ben Harper — Yard Sale | last aired 2026-11-24 03:02 | normal pick now | request now
-OK   Ben Howard — Only Love | last aired 2026-11-24 02:39 | normal pick now | request now
+WAIT Ben E. King — Stand By Me | last aired 2026-11-26 22:47 | normal pick from 2026-11-28 22:47 | request from 2026-11-28 22:47
+WAIT Ben Harper — Yard Sale | last aired 2026-11-26 22:50 | normal pick from 2026-11-28 22:50 | request from 2026-11-28 22:50
+WAIT Ben Howard — Only Love | last aired 2026-11-26 22:43 | normal pick from 2026-11-28 22:43 | request from 2026-11-28 22:43
 WAIT Ben&Ben — Leaves | last aired 2026-11-26 03:27 | normal pick from 2026-11-27 15:27 | request from 2026-11-26 23:27
 WAIT Ben&Ben — Maybe The Night | last aired 2026-11-26 03:30 | normal pick from 2026-11-27 15:30 | request from 2026-11-26 23:30
-WAIT Benjamin Francis Leftwich — Ticket To Ride | last aired 2026-11-26 02:52 | normal pick from 2026-11-27 14:52 | request from 2026-11-26 22:52
+WAIT Benjamin Francis Leftwich — Ticket To Ride | last aired 2026-11-26 02:52 | normal pick from 2026-11-27 14:52 | request now
 OK   Benny Goodman — Sing Sing Sing (With A Swing) (live) | last aired 2026-11-15 23:57 | normal pick now | request now
 OK   Benny Sings — Rolled Up | last aired 2026-11-14 17:59 | normal pick now | request now
 WAIT Benny Sings — Sailing | last aired 2026-11-26 02:49 | normal pick from 2026-11-28 02:49 | request from 2026-11-28 02:49
