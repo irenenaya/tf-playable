@@ -1,4 +1,4 @@
-Track status, artists filed under CA (built Thu Nov 26, 8:25 AM PST (16:25 UTC)). Times in UTC.
+Track status, artists filed under CA (built Thu Nov 26, 8:35 AM PST (16:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Caetano Veloso — O Leãozinho (Ao Vivo) | last aired 2026-11-24 02:10 | normal pick now | request now
@@ -8,7 +8,7 @@ WAIT Cage The Elephant — What I'm Becoming | last aired 2026-11-24 20:39 | nor
 WAIT Caifanes — Afuera | last aired 2026-11-26 03:40 | normal pick from 2026-11-27 15:40 | request from 2026-11-26 23:40
 WAIT Caifanes — La Negra Tomasa (Bilongo - Version Tropical) | last aired 2026-11-26 16:03 | normal pick from 2026-11-28 04:03 | request from 2026-11-27 12:03
 WAIT Camille — Ta douleur | last aired 2026-11-26 03:52 | normal pick from 2026-11-28 03:52 | request from 2026-11-28 03:52
-OK   Camille Thomas — Deux mélodies hébraïques, M. A22 - Ravel: Deux mélodies hébraïques, M. A22: I. Kaddisch (Transcr. by Richard Tognetti for Cello and Orchestra ) | last aired 2026-11-18 12:09 | normal pick now | request now
+WAIT Camille Thomas — Deux mélodies hébraïques, M. A22 - Ravel: Deux mélodies hébraïques, M. A22: I. Kaddisch (Transcr. by Richard Tognetti for Cello and Orchestra ) | last aired 2026-11-26 16:23 | normal pick from 2026-11-28 04:23 | request from 2026-11-27 12:23
 WAIT Canned Heat — On The Road Again | last aired 2026-11-26 04:10 | normal pick from 2026-11-28 04:10 | request from 2026-11-28 04:10
 WAIT Carbon Based Lifeforms — Photosynthesis | last aired 2026-11-26 04:02 | normal pick from 2026-11-28 04:02 | request from 2026-11-28 04:02
 OK   Cardiacs — Big Ship | last aired 2026-11-18 23:20 | normal pick now | request now
@@ -16,7 +16,7 @@ WAIT Carlos Gardel — Por una Cabeza | last aired 2026-11-25 02:46 | normal pic
 WAIT Carole King — It's Too Late | last aired 2026-11-26 16:19 | normal pick from 2026-11-28 16:19 | request from 2026-11-28 16:19
 OK   Carole King — So Far Away | last aired 2026-11-24 12:19 | normal pick now | request now
 WAIT Caroline Polachek — Bunny Is A Rider | last aired 2026-11-26 03:56 | normal pick from 2026-11-28 03:56 | request from 2026-11-28 03:56
-OK   Carter Vail — Ants In My Room | last aired 2026-11-18 12:00 | normal pick now | request now
+WAIT Carter Vail — Ants In My Room | last aired 2026-11-26 16:32 | normal pick from 2026-11-28 04:32 | request from 2026-11-27 12:32
 WAIT Cartola — As Rosas Não Falam | last aired 2026-11-26 03:37 | normal pick from 2026-11-28 03:37 | request from 2026-11-28 03:37
 OK   Cascada — Everytime We Touch | last aired 2026-11-19 03:31 | normal pick now | request now
 WAIT Cat Power — The Greatest | last aired 2026-11-26 03:49 | normal pick from 2026-11-28 03:49 | request from 2026-11-28 03:49
