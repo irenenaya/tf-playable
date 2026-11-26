@@ -1,4 +1,4 @@
-Track status, artists filed under HO (built Wed Nov 25, 10:55 PM PST (06:55 UTC Thu)). Times in UTC.
+Track status, artists filed under HO (built Wed Nov 25, 11:05 PM PST (07:05 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Hollie Col — The Gambler | last aired 2026-11-25 22:23 | normal pick from 2026-11-27 10:23 | request from 2026-11-26 18:23
@@ -11,7 +11,7 @@ WAIT Hotel Ugly — Mice City | last aired 2026-11-25 22:49 | normal pick from 2
 WAIT Howard Shore — Caras Galadhon / "Lament for Gandalf" (feat. Elizabeth Fraser) | last aired 2026-11-25 22:14 | normal pick from 2026-11-27 10:14 | request from 2026-11-26 18:14
 WAIT Howlin' Wolf — Smokestack Lightnin' | last aired 2026-11-24 23:29 | normal pick from 2026-11-26 11:29 | request now
 OK   Hozier — Angel Of Small Death & The Codeine Scene | last aired 2026-11-04 08:39 | normal pick now | request now
-WAIT Hozier — Cherry Wine (Live) | last aired 2026-11-24 19:00 | normal pick from 2026-11-26 07:00 | request now
+OK   Hozier — Cherry Wine (Live) | last aired 2026-11-24 19:00 | normal pick now | request now
 OK   Hozier — From Eden | last aired 2026-11-17 10:34 | normal pick now | request now
 OK   Hozier — Take Me To Church | last aired 2026-11-24 02:31 | normal pick now | request now
 WAIT Hozier — Wasteland, Baby! | last aired 2026-11-25 22:30 | normal pick from 2026-11-27 10:30 | request from 2026-11-26 18:30
