@@ -1,4 +1,4 @@
-Track status, song titles filed under WH (built Thu Nov 26, 9:05 AM PST (17:05 UTC)). Times in UTC.
+Track status, song titles filed under WH (built Thu Nov 26, 9:15 AM PST (17:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   The Whistleblowers — Laibach | last aired 2026-11-22 19:12 | normal pick now | request now
@@ -27,7 +27,7 @@ OK   Which Side are You On? — Pete Seeger | last aired 2026-11-16 06:00 | norm
 OK   Whirling-In-Rags, 8 AM — Sea Power | last aired 2026-11-22 01:07 | normal pick now | request now
 WAIT White Christmas — Bing Crosby | last aired 2026-11-25 17:31 | normal pick from 2026-11-27 05:31 | request now
 OK   White Gloves — Khruangbin | last aired 2026-11-22 09:50 | normal pick now | request now
-OK   White Winter Hymnal — Fleet Foxes | last aired 2026-11-23 23:50 | normal pick now | request now
+WAIT White Winter Hymnal — Fleet Foxes | last aired 2026-11-26 17:09 | normal pick from 2026-11-28 17:09 | request from 2026-11-28 17:09
 OK   Who Is It — Michael Jackson | last aired 2026-11-18 23:59 | normal pick now | request now
 OK   Who Knew (Main Version) — P!nk | last aired 2026-09-12 18:53 | normal pick now | request now
 WAIT Who Knows Where The Time Goes? — Fairport Convention | last aired 2026-11-26 06:31 | normal pick from 2026-11-27 18:31 | request from 2026-11-27 02:31
