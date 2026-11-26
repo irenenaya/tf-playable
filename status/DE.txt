@@ -1,9 +1,9 @@
-Track status, artists filed under DE (built Wed Nov 25, 5:25 PM PST (01:25 UTC Thu)). Times in UTC.
+Track status, artists filed under DE (built Wed Nov 25, 5:35 PM PST (01:35 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   De La Soul — Me Myself and I | last aired 2026-11-22 06:49 | normal pick now | request now
 OK   Dead Can Dance — Bird | last aired 2026-11-19 04:45 | normal pick now | request now
-OK   Dead Can Dance — The Host of Seraphim (Remastered) | last aired 2026-11-23 08:15 | normal pick now | request now
+WAIT Dead Can Dance — The Host of Seraphim (Remastered) | last aired 2026-11-26 01:30 | normal pick from 2026-11-28 01:30 | request from 2026-11-28 01:30
 WAIT Dean Martin — Everybody Loves Somebody | last aired 2026-11-25 01:54 | normal pick from 2026-11-27 01:54 | request from 2026-11-27 01:54
 OK   Deathbrain — the empty space is stuck in my head | last aired 2026-10-25 13:22 | normal pick now | request now
 OK   DEEN — Ride On Time | last aired 2026-11-22 18:46 | normal pick now | request now
@@ -16,6 +16,6 @@ OK   Dennis Edwards — Don't Look Any Further (Single Version) | last aired 202
 OK   Depeche Mode — Enjoy the Silence | last aired 2026-11-21 11:28 | normal pick now | request now
 OK   Depeche Mode — Just Can't Get Enough | last aired 2026-11-21 03:15 | normal pick now | request now
 OK   Depeche Mode — Policy of Truth | last aired 2026-11-17 22:17 | normal pick now | request now
-OK   Depeche Mode — Precious | last aired 2026-11-23 10:02 | normal pick now | request now
+WAIT Depeche Mode — Precious | last aired 2026-11-26 01:26 | normal pick from 2026-11-27 13:26 | request from 2026-11-26 21:26
 OK   Derek & The Dominos — Layla | last aired 2026-10-29 09:21 | normal pick now | request now
 OK   Derek & The Dominos — Layla (40th Anniversary Version / 2010 Remastered) | last aired 2026-11-23 09:46 | normal pick now | request now
