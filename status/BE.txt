@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Wed Nov 25, 6:55 PM PST (02:55 UTC Thu)). Times in UTC.
+Track status, artists filed under BE (built Wed Nov 25, 7:05 PM PST (03:05 UTC Thu)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Beach House — Bluebird | last aired 2026-11-24 02:35 | normal pick now | request now
@@ -16,13 +16,13 @@ OK   Bee Gees — Night Fever (From "Saturday Night Fever" Soundtrack) | last ai
 OK   Beenie Man — Feel It Boy | last aired 2026-11-20 19:30 | normal pick now | request now
 OK   Belcea Quartet — Quatuor à cordes n° 4, Sz. 91 - String Quartet No. 4 in C Major, Sz. 91: IV. Allegretto pizzicato | last aired 2026-11-22 17:43 | normal pick now | request now
 WAIT Belle and Sebastian — The Boy with the Arab Strap | last aired 2026-11-26 02:29 | normal pick from 2026-11-28 02:29 | request from 2026-11-28 02:29
-OK   Ben Allison — D.A.V.E. | last aired 2026-11-23 06:09 | normal pick now | request now
+WAIT Ben Allison — D.A.V.E. | last aired 2026-11-26 02:56 | normal pick from 2026-11-27 14:56 | request from 2026-11-26 22:56
 OK   Ben E. King — Stand By Me | last aired 2026-11-24 02:48 | normal pick now | request now
-WAIT Ben Harper — Yard Sale | last aired 2026-11-24 03:02 | normal pick from 2026-11-26 03:02 | request from 2026-11-26 03:02
+OK   Ben Harper — Yard Sale | last aired 2026-11-24 03:02 | normal pick now | request now
 OK   Ben Howard — Only Love | last aired 2026-11-24 02:39 | normal pick now | request now
 OK   Ben&Ben — Leaves | last aired 2026-11-22 13:18 | normal pick now | request now
 WAIT Ben&Ben — Maybe The Night | last aired 2026-11-25 03:25 | normal pick from 2026-11-26 15:25 | request now
-OK   Benjamin Francis Leftwich — Ticket To Ride | last aired 2026-11-24 02:58 | normal pick now | request now
+WAIT Benjamin Francis Leftwich — Ticket To Ride | last aired 2026-11-26 02:52 | normal pick from 2026-11-27 14:52 | request from 2026-11-26 22:52
 OK   Benny Goodman — Sing Sing Sing (With A Swing) (live) | last aired 2026-11-15 23:57 | normal pick now | request now
 OK   Benny Sings — Rolled Up | last aired 2026-11-14 17:59 | normal pick now | request now
 WAIT Benny Sings — Sailing | last aired 2026-11-26 02:49 | normal pick from 2026-11-27 14:49 | request from 2026-11-26 22:49
