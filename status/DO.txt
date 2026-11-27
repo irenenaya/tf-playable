@@ -1,4 +1,4 @@
-Track status, artists filed under DO (built Fri Nov 27, 10:15 AM PST (18:15 UTC)). Times in UTC.
+Track status, artists filed under DO (built Fri Nov 27, 10:25 AM PST (18:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Dolly Parton — 9 to 5 | last aired 2026-11-25 13:03 | normal pick now | request now
@@ -17,7 +17,7 @@ OK   Dorian Electra — Bizarre Love Triangle | last aired 2026-11-22 16:07 | no
 OK   Dorian Electra — Feel Good Inc. | last aired 2026-11-10 18:27 | normal pick now | request now
 OK   Dorian Electra — Hella Good | last aired 2026-11-23 00:06 | normal pick now | request now
 OK   Dot Allison — Bleached By The Sun | last aired 2026-11-24 23:10 | normal pick now | request now
-OK   The Doobie Brothers — What a Fool Believes | last aired 2026-11-22 11:10 | normal pick now | request now
+WAIT The Doobie Brothers — What a Fool Believes | last aired 2026-11-27 18:17 | normal pick from 2026-11-29 06:17 | request from 2026-11-28 14:17
 OK   The Doobie Brothers — You Belong to Me (2016 Remaster) | last aired 2026-11-14 02:11 | normal pick now | request now
 WAIT The Doors — Riders on the Storm | last aired 2026-11-27 09:12 | normal pick from 2026-11-28 21:12 | request from 2026-11-28 05:12
 OK   The Doors — Spanish Caravan | last aired 2026-10-24 03:40 | normal pick now | request now
