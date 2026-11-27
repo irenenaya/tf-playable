@@ -1,8 +1,8 @@
-Track status, song titles filed under FR (built Thu Nov 26, 10:15 PM PST (06:15 UTC Fri)). Times in UTC.
+Track status, song titles filed under FR (built Thu Nov 26, 10:25 PM PST (06:25 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Fragile — Scott Carlin | last aired 2026-10-15 21:02 | normal pick now | request now
-WAIT Fragile — Sting | last aired 2026-11-25 06:24 | normal pick from 2026-11-27 06:24 | request from 2026-11-27 06:24
+OK   Fragile — Sting | last aired 2026-11-25 06:24 | normal pick now | request now
 OK   Freak — HYD | last aired 2026-11-22 23:59 | normal pick now | request now
 OK   Friday Morning — Khruangbin | last aired 2026-11-24 11:31 | normal pick now | request now
 WAIT From Eden — Hozier | last aired 2026-11-27 03:03 | normal pick from 2026-11-28 15:03 | request from 2026-11-27 23:03
