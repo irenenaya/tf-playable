@@ -1,4 +1,4 @@
-Track status, song titles filed under BL (built Fri Nov 27, 10:25 AM PST (18:25 UTC)). Times in UTC.
+Track status, song titles filed under BL (built Fri Nov 27, 10:35 AM PST (18:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Black Diamond — Stratovarius | last aired 2026-11-02 03:41 | normal pick now | request now
@@ -14,7 +14,7 @@ OK   Blaue Augen — Ideal | last aired 2026-11-22 01:11 | normal pick now | req
 OK   Bleached By The Sun — Dot Allison | last aired 2026-11-24 23:10 | normal pick now | request now
 OK   Blessed with a Curse — Bring Me The Horizon | last aired 2026-11-09 22:57 | normal pick now | request now
 OK   Blinding Lights — The Weeknd | last aired 2026-11-13 04:34 | normal pick now | request now
-WAIT Blitzkrieg Bop — Ramones | last aired 2026-11-25 18:32 | normal pick from 2026-11-27 18:32 | request from 2026-11-27 18:32
+OK   Blitzkrieg Bop — Ramones | last aired 2026-11-25 18:32 | normal pick now | request now
 OK   Blood In The Labyrinth — Boards of Canada | last aired 2026-11-19 15:18 | normal pick now | request now
 OK   Bloodbuzz Ohio (Live in Rome) — The National | last aired 2026-11-20 22:26 | normal pick now | request now
 OK   Bloom — Airiel | last aired 2026-09-15 08:41 | normal pick now | request now
