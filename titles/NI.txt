@@ -1,4 +1,4 @@
-Track status, song titles filed under NI (built Thu Nov 26, 7:45 PM PST (03:45 UTC Fri)). Times in UTC.
+Track status, song titles filed under NI (built Thu Nov 26, 7:55 PM PST (03:55 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Nie vergessen — Glasperlenspiel | last aired 2026-11-21 13:42 | normal pick now | request now
@@ -7,4 +7,4 @@ WAIT Night Fever (From "Saturday Night Fever" Soundtrack) — Bee Gees | last ai
 OK   Night Shift — Lucy Dacus | last aired 2026-11-24 08:13 | normal pick now | request now
 OK   Nightcall — Kavinsky | last aired 2026-11-24 10:37 | normal pick now | request now
 OK   Ninja Rap — Vanilla Ice | last aired 2026-11-08 19:03 | normal pick now | request now
-OK   The Nightfly — Donald Fagen | last aired 2026-11-22 21:14 | normal pick now | request now
+WAIT The Nightfly — Donald Fagen | last aired 2026-11-27 03:43 | normal pick from 2026-11-28 15:43 | request from 2026-11-27 23:43
