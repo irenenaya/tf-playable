@@ -1,4 +1,4 @@
-Track status, artists filed under BI (built Thu Nov 26, 7:55 PM PST (03:55 UTC Fri)). Times in UTC.
+Track status, artists filed under BI (built Thu Nov 26, 8:05 PM PST (04:05 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Bicep — Apricots | last aired 2026-11-25 15:35 | normal pick from 2026-11-27 15:35 | request from 2026-11-27 15:35
@@ -11,7 +11,7 @@ OK   Bikini Kill — Rebel Girl | last aired 2026-11-25 15:43 | normal pick now 
 OK   Bill Callahan — Riding For The Feeling | last aired 2026-11-24 21:52 | normal pick now | request now
 OK   Bill Evans — Peace Piece (Album Version) | last aired 2026-11-23 08:07 | normal pick now | request now
 WAIT Bill Monroe & His Blue Grass Boys — Blue Moon Of Kentucky | last aired 2026-11-25 13:01 | normal pick from 2026-11-27 13:01 | request from 2026-11-27 13:01
-OK   Bill Withers — Ain't No Sunshine (Album Version) | last aired 2026-11-24 23:00 | normal pick now | request now
+WAIT Bill Withers — Ain't No Sunshine (Album Version) | last aired 2026-11-27 03:57 | normal pick from 2026-11-29 03:57 | request from 2026-11-29 03:57
 WAIT Bill Withers — Lovely Day | last aired 2026-11-26 20:57 | normal pick from 2026-11-28 20:57 | request from 2026-11-28 20:57
 WAIT Billie Eilish — BIRDS OF A FEATHER | last aired 2026-11-26 12:10 | normal pick from 2026-11-28 00:10 | request from 2026-11-27 08:10
 OK   Billie Eilish — Lo Vas A Olvidar | last aired 2026-11-23 10:06 | normal pick now | request now
@@ -22,5 +22,5 @@ OK   Billy Joel — Get It Right the First Time (Album Version) | last aired 202
 WAIT Billy Joel — Honesty (Album Version) | last aired 2026-11-25 12:57 | normal pick from 2026-11-27 12:57 | request from 2026-11-27 12:57
 OK   Billy Joel — Scenes from an Italian Restaurant (Album Version) | last aired 2026-11-14 01:42 | normal pick now | request now
 OK   Billy Joel — The River of Dreams (Album Version) | last aired 2026-11-22 08:46 | normal pick now | request now
-OK   Billy Joel — Vienna (Album Version) | last aired 2026-11-24 14:05 | normal pick now | request now
+WAIT Billy Joel — Vienna (Album Version) | last aired 2026-11-27 03:59 | normal pick from 2026-11-29 03:59 | request from 2026-11-29 03:59
 WAIT Bing Crosby — White Christmas | last aired 2026-11-25 17:31 | normal pick from 2026-11-27 05:31 | request now

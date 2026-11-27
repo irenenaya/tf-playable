@@ -1,7 +1,7 @@
-Track status, song titles filed under ME (built Thu Nov 26, 7:55 PM PST (03:55 UTC Fri)). Times in UTC.
+Track status, song titles filed under ME (built Thu Nov 26, 8:05 PM PST (04:05 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT Me and Bobby McGee — Janis Joplin | last aired 2026-11-25 04:04 | normal pick from 2026-11-27 04:04 | request from 2026-11-27 04:04
+OK   Me and Bobby McGee — Janis Joplin | last aired 2026-11-25 04:04 | normal pick now | request now
 OK   Me and Bobby McGee — Kris Kristofferson | last aired 2026-11-23 15:39 | normal pick now | request now
 WAIT Me Myself and I — De La Soul | last aired 2026-11-26 01:45 | normal pick from 2026-11-27 13:45 | request now
 OK   Mediterranean sundance - Di Meola: Mediterranean sundance — Paco de Lucía | last aired 2026-11-24 12:14 | normal pick now | request now

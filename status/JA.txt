@@ -1,8 +1,8 @@
-Track status, artists filed under JA (built Thu Nov 26, 7:55 PM PST (03:55 UTC Fri)). Times in UTC.
+Track status, artists filed under JA (built Thu Nov 26, 8:05 PM PST (04:05 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Jack Johnson — Better Together | last aired 2026-11-26 13:36 | normal pick from 2026-11-28 13:36 | request from 2026-11-28 13:36
-WAIT Jack Johnson — Upside Down | last aired 2026-11-25 04:00 | normal pick from 2026-11-27 04:00 | request from 2026-11-27 04:00
+OK   Jack Johnson — Upside Down | last aired 2026-11-25 04:00 | normal pick now | request now
 WAIT Jacquees — Won't Turn It Down | last aired 2026-11-25 17:59 | normal pick from 2026-11-27 05:59 | request now
 WAIT James Blake — Retrograde | last aired 2026-11-25 04:08 | normal pick from 2026-11-27 04:08 | request from 2026-11-27 04:08
 OK   James Brown — I Got You (I Feel Good) | last aired 2026-11-24 12:31 | normal pick now | request now
@@ -13,7 +13,7 @@ WAIT Jamiroquai — Cosmic Girl (Remastered 2013) | last aired 2026-11-25 04:12 
 WAIT Jan Hammer — Crockett's Theme | last aired 2026-11-26 13:45 | normal pick from 2026-11-28 13:45 | request from 2026-11-28 13:45
 WAIT Janelle Monáe — Make Me Feel | last aired 2026-11-25 04:16 | normal pick from 2026-11-27 04:16 | request from 2026-11-27 04:16
 WAIT Janet Jackson — Any Time, Any Place | last aired 2026-11-25 16:51 | normal pick from 2026-11-27 16:51 | request from 2026-11-27 16:51
-WAIT Janis Joplin — Me and Bobby McGee | last aired 2026-11-25 04:04 | normal pick from 2026-11-27 04:04 | request from 2026-11-27 04:04
+OK   Janis Joplin — Me and Bobby McGee | last aired 2026-11-25 04:04 | normal pick now | request now
 WAIT Jars Of Clay — Flood | last aired 2026-11-25 16:48 | normal pick from 2026-11-27 16:48 | request from 2026-11-27 16:48
 WAIT JAWNY — true | last aired 2026-11-25 16:58 | normal pick from 2026-11-27 04:58 | request now
 OK   JAY1 — Your Mrs | last aired 2026-11-19 08:48 | normal pick now | request now
