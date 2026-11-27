@@ -1,4 +1,4 @@
-Track status, artists filed under MA (built Fri Nov 27, 2:16 PM PST (22:16 UTC)). Times in UTC.
+Track status, artists filed under MA (built Fri Nov 27, 2:33 PM PST (22:33 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT M/A/R/R/S — Pump Up The Volume (UK 12" Remix) | last aired 2026-11-26 18:07 | normal pick from 2026-11-28 06:07 | request now
@@ -35,7 +35,7 @@ OK   Martin Ditcham — Maureen | last aired 2026-08-18 22:36 | normal pick now 
 WAIT Martin Garrix — Carry You | last aired 2026-11-26 17:57 | normal pick from 2026-11-28 05:57 | request now
 OK   Martina McBride — Independence Day | last aired 2026-11-25 13:28 | normal pick now | request now
 WAIT Marty Friedman — Senbonzakura | last aired 2026-11-26 18:14 | normal pick from 2026-11-28 06:14 | request now
-OK   Marvin Gaye — Distant Lover | last aired 2026-11-24 08:08 | normal pick now | request now
+WAIT Marvin Gaye — Distant Lover | last aired 2026-11-27 22:20 | normal pick from 2026-11-29 22:20 | request from 2026-11-29 22:20
 OK   Marvin Gaye — I Heard It Through The Grapevine (SACD Stereo) | last aired 2026-11-22 05:46 | normal pick now | request now
 OK   Marvin Gaye — Inner City Blues (Make Me Wanna Holler) | last aired 2026-11-18 10:24 | normal pick now | request now
 OK   Marvin Gaye — Let's Get It On | last aired 2026-11-04 20:49 | normal pick now | request now
@@ -71,4 +71,4 @@ WAIT The Magnetic Fields — Born on a Train | last aired 2026-11-26 17:21 | nor
 OK   The Magnetic Fields — Papa Was a Rodeo | last aired 2026-11-22 01:55 | normal pick now | request now
 WAIT The Magnetic Fields — The Book of Love | last aired 2026-11-26 06:02 | normal pick from 2026-11-28 06:02 | request from 2026-11-28 06:02
 OK   The Mamas & The Papas — California Dreamin' (Single Version) | last aired 2026-11-26 06:04 | normal pick now | request now
-OK   The Marías — Cariño | last aired 2026-11-25 13:37 | normal pick now | request now
+WAIT The Marías — Cariño | last aired 2026-11-27 22:25 | normal pick from 2026-11-29 10:25 | request from 2026-11-28 18:25
