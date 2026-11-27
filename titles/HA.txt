@@ -1,4 +1,4 @@
-Track status, song titles filed under HA (built Fri Nov 27, 10:55 AM PST (18:55 UTC)). Times in UTC.
+Track status, song titles filed under HA (built Fri Nov 27, 11:05 AM PST (19:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Halah — Mazzy Star | last aired 2026-11-25 15:07 | normal pick now | request now
@@ -18,7 +18,7 @@ OK   Harder, Better, Faster, Stronger — Daft Punk | last aired 2026-11-21 03:5
 OK   Hardline — Julien Baker | last aired 2026-11-25 03:52 | normal pick now | request now
 OK   Harmony in Blue I — Tim Hecker | last aired 2026-11-25 00:37 | normal pick now | request now
 OK   Haru No Iutoori — indigo la End | last aired 2026-11-22 05:20 | normal pick now | request now
-OK   Harvest Moon (Album Version) — Neil Young | last aired 2026-11-25 13:09 | normal pick now | request now
+WAIT Harvest Moon (Album Version) — Neil Young | last aired 2026-11-27 19:01 | normal pick from 2026-11-29 19:01 | request from 2026-11-29 19:01
 OK   Hate Yourself — TV Girl | last aired 2026-11-21 22:47 | normal pick now | request now
 OK   Haunted When the Minutes Drag — Love and Rockets | last aired 2026-11-25 23:12 | normal pick now | request now
 OK   Haus am See — Peter Fox | last aired 2026-11-19 20:28 | normal pick now | request now
