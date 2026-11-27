@@ -1,10 +1,10 @@
-Track status, song titles filed under DO (built Thu Nov 26, 5:25 PM PST (01:25 UTC Fri)). Times in UTC.
+Track status, song titles filed under DO (built Thu Nov 26, 5:35 PM PST (01:35 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   (Don't Fear) The Reaper — Blue Öyster Cult | last aired 2026-11-22 04:08 | normal pick now | request now
 OK   Do I Wanna Know? — Arctic Monkeys | last aired 2026-11-21 18:01 | normal pick now | request now
 OK   Do It — Underscores | last aired 2026-11-21 11:05 | normal pick now | request now
-OK   Do Not Disturb — Halestorm | last aired 2026-11-18 13:39 | normal pick now | request now
+WAIT Do Not Disturb — Halestorm | last aired 2026-11-27 01:26 | normal pick from 2026-11-28 13:26 | request from 2026-11-27 21:26
 OK   Dobra Vila — Tabu | last aired 2026-11-21 16:32 | normal pick now | request now
 OK   Doctor Who Opening Titles (“In Colour” Mix, Daleks Version) — Delia Derbyshire | last aired 2026-11-22 23:29 | normal pick now | request now
 OK   Dollar Days — David Bowie | last aired 2026-11-18 00:25 | normal pick now | request now
