@@ -1,4 +1,4 @@
-Track status, song titles filed under PA (built Thu Nov 26, 9:25 PM PST (05:25 UTC Fri)). Times in UTC.
+Track status, song titles filed under PA (built Thu Nov 26, 9:35 PM PST (05:35 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Pac-Man (feat. ScHoolboy Q) — Gorillaz | last aired 2026-11-26 15:02 | normal pick from 2026-11-28 03:02 | request from 2026-11-27 11:02
@@ -14,7 +14,7 @@ WAIT Paranoid Android — Radiohead | last aired 2026-11-25 18:16 | normal pick 
 OK   Paranoid — Black Sabbath | last aired 2026-11-12 15:31 | normal pick now | request now
 WAIT Parisienne Walkways — Gary Moore | last aired 2026-11-26 15:44 | normal pick from 2026-11-28 03:44 | request from 2026-11-27 11:44
 OK   Paroles paroles (Album Version) — Dalida | last aired 2026-11-24 04:32 | normal pick now | request now
-WAIT Party Hard (Album Version) — Andrew W.K. | last aired 2026-11-25 17:28 | normal pick from 2026-11-27 05:28 | request now
+OK   Party Hard (Album Version) — Andrew W.K. | last aired 2026-11-25 17:28 | normal pick now | request now
 OK   Party In The U.S.A. — Miley Cyrus | last aired 2026-11-17 16:54 | normal pick now | request now
 OK   Pasión (Album Version) — Rodrigo Leão | last aired 2026-11-22 12:55 | normal pick now | request now
 OK   Passion Play (Live in Paris) — William Fitzsimmons | last aired 2026-11-25 17:08 | normal pick now | request now
