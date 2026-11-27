@@ -1,4 +1,4 @@
-Track status, artists filed under TA (built Fri Nov 27, 12:55 AM PST (08:55 UTC)). Times in UTC.
+Track status, artists filed under TA (built Fri Nov 27, 1:05 AM PST (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Tabu — Dobra Vila | last aired 2026-11-21 16:32 | normal pick now | request now
@@ -16,7 +16,7 @@ OK   Tamara Živković — Nova Zora (Eurovision 2026) | last aired 2026-11-22 2
 OK   Tame Impala — Is It True | last aired 2026-11-22 02:36 | normal pick now | request now
 OK   Tame Impala — The Less I Know The Better | last aired 2026-11-24 05:44 | normal pick now | request now
 OK   Tammy Wynette — Stand By Your Man (Album Version) | last aired 2026-11-23 05:58 | normal pick now | request now
-OK   Tangerine Dream — Love On A Real Train | last aired 2026-11-24 11:11 | normal pick now | request now
+WAIT Tangerine Dream — Love On A Real Train | last aired 2026-11-27 08:52 | normal pick from 2026-11-28 20:52 | request from 2026-11-28 04:52
 OK   Tangerine Dream — Stratosfear (Digital Remastered) | last aired 2026-11-23 07:34 | normal pick now | request now
 OK   Tate McRae — greedy | last aired 2026-11-15 02:33 | normal pick now | request now
 OK   Tate McRae — Miss possessive | last aired 2026-11-15 03:03 | normal pick now | request now
