@@ -1,4 +1,4 @@
-Track status, song titles filed under RA (built Fri Nov 27, 11:45 AM PST (19:45 UTC)). Times in UTC.
+Track status, song titles filed under RA (built Fri Nov 27, 11:55 AM PST (19:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Rabbit in Your Headlights — Unkle | last aired 2026-11-18 22:30 | normal pick now | request now
@@ -11,4 +11,4 @@ WAIT Rasguña Las Piedras (Album Version) — Sui Generis | last aired 2026-11-2
 OK   Rattlesnakes — Tori Amos | last aired 2026-11-24 15:23 | normal pick now | request now
 WAIT Raven — GoGo Penguin | last aired 2026-11-26 12:25 | normal pick from 2026-11-28 12:25 | request from 2026-11-28 12:25
 OK   Rayando el Sol — Mana | last aired 2026-11-26 05:34 | normal pick now | request now
-WAIT The Rain Formerly Known as Purple — Chris Christodoulou | last aired 2026-11-26 23:50 | normal pick from 2026-11-28 11:50 | request from 2026-11-27 19:50
+WAIT The Rain Formerly Known as Purple — Chris Christodoulou | last aired 2026-11-26 23:50 | normal pick from 2026-11-28 11:50 | request now
