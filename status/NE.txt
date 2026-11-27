@@ -1,11 +1,11 @@
-Track status, artists filed under NE (built Fri Nov 27, 8:35 AM PST (16:35 UTC)). Times in UTC.
+Track status, artists filed under NE (built Fri Nov 27, 8:45 AM PST (16:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Neil Diamond — Be (Introduction Of Jonathan) | last aired 2026-11-26 18:44 | normal pick from 2026-11-28 06:44 | request now
 WAIT Neil Diamond — Sweet Caroline | last aired 2026-11-26 04:20 | normal pick from 2026-11-28 04:20 | request from 2026-11-28 04:20
 OK   Neil Young — Harvest Moon (Album Version) | last aired 2026-11-25 13:09 | normal pick now | request now
 WAIT Neil Young — Heart of Gold | last aired 2026-11-26 04:33 | normal pick from 2026-11-28 04:33 | request from 2026-11-28 04:33
-WAIT Nek — Fatti avanti amore (feat. Jovanotti) (5030 version) | last aired 2026-11-26 04:40 | normal pick from 2026-11-27 16:40 | request now
+OK   Nek — Fatti avanti amore (feat. Jovanotti) (5030 version) | last aired 2026-11-26 04:40 | normal pick now | request now
 OK   Nekrogoblikon — No One Survives | last aired 2026-11-19 10:38 | normal pick now | request now
 OK   Nekrogoblikon — Powercore | last aired 2026-11-19 00:06 | normal pick now | request now
 OK   Nelson Freire — Bachianas brasileiras No. 4, W. 264: I. Preludio (Introduçao). Lento | last aired 2026-11-26 04:24 | normal pick now | request now
@@ -14,6 +14,6 @@ OK   Neuro-sama — LIFE | last aired 2026-08-30 14:26 | normal pick now | reque
 OK   Neuro-sama — NEVER | last aired 2026-11-21 15:30 | normal pick now | request now
 OK   Neuro-sama — Pattern Recognition (feat. ODDEEO) | last aired 2026-09-25 15:01 | normal pick now | request now
 OK   Never Get Used To People — Life Letters (Slowed+Reverb) | last aired 2026-11-26 04:28 | normal pick now | request now
-WAIT New Found Glory — My Friends Over You | last aired 2026-11-26 04:36 | normal pick from 2026-11-27 16:36 | request now
+OK   New Found Glory — My Friends Over You | last aired 2026-11-26 04:36 | normal pick now | request now
 WAIT New Order — Blue Monday (2016 Remaster) | last aired 2026-11-26 18:55 | normal pick from 2026-11-28 06:55 | request now
 OK   New Order — True Faith | last aired 2026-11-26 04:14 | normal pick now | request now
