@@ -1,10 +1,10 @@
-Track status, artists filed under MA (built Thu Nov 26, 5:15 PM PST (01:15 UTC Fri)). Times in UTC.
+Track status, artists filed under MA (built Thu Nov 26, 5:25 PM PST (01:25 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT M/A/R/R/S — Pump Up The Volume (UK 12" Remix) | last aired 2026-11-26 18:07 | normal pick from 2026-11-28 06:07 | request from 2026-11-27 14:07
 WAIT Mac DeMarco — Chamber Of Reflection | last aired 2026-11-26 04:51 | normal pick from 2026-11-28 04:51 | request from 2026-11-28 04:51
 WAIT Mac DeMarco — My Kind of Woman | last aired 2026-11-26 17:25 | normal pick from 2026-11-28 17:25 | request from 2026-11-28 17:25
-WAIT Mac DeMarco — No Other Heart | last aired 2026-11-25 13:18 | normal pick from 2026-11-27 01:18 | request now
+OK   Mac DeMarco — No Other Heart | last aired 2026-11-25 13:18 | normal pick now | request now
 WAIT Madness — Our House | last aired 2026-11-26 05:27 | normal pick from 2026-11-28 05:27 | request from 2026-11-28 05:27
 WAIT Madonna — Holiday | last aired 2026-11-26 17:47 | normal pick from 2026-11-28 17:47 | request from 2026-11-28 17:47
 WAIT Mahalia Jackson — How I Got Over (Live) | last aired 2026-11-26 05:04 | normal pick from 2026-11-28 05:04 | request from 2026-11-28 05:04
@@ -51,7 +51,7 @@ OK   Massive Attack — Protection | last aired 2026-11-17 01:17 | normal pick n
 WAIT Massive Attack — Teardrop | last aired 2026-11-26 04:59 | normal pick from 2026-11-28 04:59 | request from 2026-11-28 04:59
 OK   Massive Attack — Unfinished Sympathy (2012 Mix/Master) | last aired 2026-11-24 13:38 | normal pick now | request now
 WAIT Matt Nathanson — All We Are | last aired 2026-11-26 04:55 | normal pick from 2026-11-27 16:55 | request now
-WAIT Matt Nathanson — Come On Get Higher | last aired 2026-11-25 13:25 | normal pick from 2026-11-27 01:25 | request now
+OK   Matt Nathanson — Come On Get Higher | last aired 2026-11-25 13:25 | normal pick now | request now
 WAIT Matt Nathanson — Faster | last aired 2026-11-26 17:54 | normal pick from 2026-11-28 05:54 | request from 2026-11-27 13:54
 WAIT Mavis Staples — We're Gonna Make It | last aired 2026-11-26 05:16 | normal pick from 2026-11-28 05:16 | request from 2026-11-28 05:16
 WAIT Max Richter — Dream 3 (in the midst of my life) | last aired 2026-11-26 06:14 | normal pick from 2026-11-28 06:14 | request from 2026-11-28 06:14
