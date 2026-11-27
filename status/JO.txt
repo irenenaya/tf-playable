@@ -1,10 +1,10 @@
-Track status, artists filed under JO (built Fri Nov 27, 3:55 AM PST (11:55 UTC)). Times in UTC.
+Track status, artists filed under JO (built Fri Nov 27, 4:05 AM PST (12:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-11-18 08:30 | normal pick now | request now
 OK   Jockstrap — Concrete Over Water | last aired 2026-11-20 04:11 | normal pick now | request now
 OK   Joe Cocker — The Letter (Live At The Fillmore East/1970) | last aired 2026-11-20 04:17 | normal pick now | request now
-OK   Joe Cocker — With A Little Help From My Friends | last aired 2026-11-23 20:45 | normal pick now | request now
+WAIT Joe Cocker — With A Little Help From My Friends | last aired 2026-11-27 11:56 | normal pick from 2026-11-29 11:56 | request from 2026-11-29 11:56
 WAIT Joe Hisaishi — A Town with an Ocean View (from 'Kiki's Delivery Service') | last aired 2026-11-27 11:17 | normal pick from 2026-11-29 11:17 | request from 2026-11-29 11:17
 OK   Joe Hisaishi — a Wish to the Moon | last aired 2026-11-18 06:27 | normal pick now | request now
 OK   Joe Hisaishi — Asian Dream Song | last aired 2026-11-21 00:50 | normal pick now | request now
@@ -31,8 +31,8 @@ OK   John Lennon — Imagine (Remastered 2010) | last aired 2026-11-23 20:50 | n
 OK   John Lennon — Instant Karma! (We All Shine On) (Ultimate Mix) | last aired 2026-11-23 10:21 | normal pick now | request now
 WAIT John Lennon — Watching The Wheels (Remastered 2010) | last aired 2026-11-26 16:49 | normal pick from 2026-11-28 04:49 | request from 2026-11-27 12:49
 OK   John Mayer — New Light | last aired 2026-11-25 01:43 | normal pick now | request now
-WAIT John McLaughlin — You Know, You Know (Album Version) | last aired 2026-11-26 15:56 | normal pick from 2026-11-28 03:56 | request from 2026-11-27 11:56
-OK   John Prine — Your Flag Decal Won't Get You into Heaven Anymore | last aired 2026-11-23 11:06 | normal pick now | request now
+WAIT John McLaughlin — You Know, You Know (Album Version) | last aired 2026-11-26 15:56 | normal pick from 2026-11-28 03:56 | request now
+WAIT John Prine — Your Flag Decal Won't Get You into Heaven Anymore | last aired 2026-11-27 11:53 | normal pick from 2026-11-28 23:53 | request from 2026-11-28 07:53
 OK   John T. Williams — Anything Goes | last aired 2026-10-16 05:14 | normal pick now | request now
 OK   John Williams — Theme From Superman (Concert Version) | last aired 2026-11-21 02:27 | normal pick now | request now
 OK   Johnny Cash — Folsom Prison Blues | last aired 2026-11-17 09:24 | normal pick now | request now
@@ -56,5 +56,5 @@ OK   Journey — Don't Stop Believin' (Album Version) | last aired 2026-11-21 05
 OK   Journey — Lights (Album Version) | last aired 2026-11-25 00:40 | normal pick now | request now
 OK   Joywave — In Clover | last aired 2026-11-23 11:20 | normal pick now | request now
 OK   Joywave — Rumors | last aired 2026-11-23 20:29 | normal pick now | request now
-OK   João Gilberto — Chega de Saudade | last aired 2026-11-18 05:34 | normal pick now | request now
+WAIT João Gilberto — Chega de Saudade | last aired 2026-11-27 12:01 | normal pick from 2026-11-29 00:01 | request from 2026-11-28 08:01
 WAIT João Gilberto — Garota de Ipanema (Live) | last aired 2026-11-26 09:00 | normal pick from 2026-11-27 21:00 | request now
