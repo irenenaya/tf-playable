@@ -1,7 +1,7 @@
-Track status, song titles filed under IS (built Thu Nov 26, 6:35 PM PST (02:35 UTC Fri)). Times in UTC.
+Track status, song titles filed under IS (built Thu Nov 26, 6:45 PM PST (02:45 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-OK   I Say a Little Prayer — Aretha Franklin | last aired 2026-11-23 22:40 | normal pick now | request now
+WAIT I Say a Little Prayer — Aretha Franklin | last aired 2026-11-27 02:32 | normal pick from 2026-11-29 02:32 | request from 2026-11-29 02:32
 OK   I See You — Missio | last aired 2026-11-24 08:50 | normal pick now | request now
 OK   I Still Believe — Tim Cappello | last aired 2026-11-20 04:35 | normal pick now | request now
 OK   Is It a Crime (Remastered Version) — Sade | last aired 2026-11-20 08:57 | normal pick now | request now
