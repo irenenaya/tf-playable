@@ -1,4 +1,4 @@
-Track status, artists filed under BO (built Fri Nov 27, 7:35 AM PST (15:35 UTC)). Times in UTC.
+Track status, artists filed under BO (built Fri Nov 27, 7:45 AM PST (15:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Boards of Canada — Blood In The Labyrinth | last aired 2026-11-19 15:18 | normal pick now | request now
@@ -20,7 +20,7 @@ OK   Bon Iver — Skinny Love | last aired 2026-11-24 21:05 | normal pick now | 
 OK   Bon Jovi — Livin' On A Prayer | last aired 2026-11-23 03:36 | normal pick now | request now
 WAIT Bon Jovi — You Give Love A Bad Name | last aired 2026-11-26 14:49 | normal pick from 2026-11-28 02:49 | request now
 OK   Boney M. — Gotta Go Home | last aired 2026-11-25 01:23 | normal pick now | request now
-OK   Boney M. — Sunny | last aired 2026-11-23 03:46 | normal pick now | request now
+WAIT Boney M. — Sunny | last aired 2026-11-27 15:41 | normal pick from 2026-11-29 15:41 | request from 2026-11-29 15:41
 WAIT Bonnie Tyler — Holding Out for a Hero (From "Footloose" Soundtrack) | last aired 2026-11-27 00:28 | normal pick from 2026-11-28 12:28 | request from 2026-11-27 20:28
 OK   Bonnie Tyler — Total Eclipse of the Heart | last aired 2026-11-24 08:38 | normal pick now | request now
 WAIT Bonobo — Cirrus | last aired 2026-11-27 15:15 | normal pick from 2026-11-29 15:15 | request from 2026-11-29 15:15
@@ -29,7 +29,7 @@ OK   Bonobo — Kong | last aired 2026-11-16 10:38 | normal pick now | request n
 OK   Bonobo — Terrapin | last aired 2026-11-17 11:53 | normal pick now | request now
 WAIT Booker T. & The M.G.'s — Green Onions | last aired 2026-11-26 22:26 | normal pick from 2026-11-28 10:26 | request from 2026-11-27 18:26
 OK   Booker T. & The M.G.'s — Time Is Tight (Live) | last aired 2026-11-15 09:57 | normal pick now | request now
-OK   Booker T. Jones — Everything Is Everything | last aired 2026-11-23 12:38 | normal pick now | request now
+WAIT Booker T. Jones — Everything Is Everything | last aired 2026-11-27 15:36 | normal pick from 2026-11-29 03:36 | request from 2026-11-28 11:36
 OK   Bootsy Collins — Psychoticbumpschool (LP Version) | last aired 2026-11-23 17:07 | normal pick now | request now
 OK   Bowling For Soup — 1985 | last aired 2026-11-21 12:08 | normal pick now | request now
 OK   Boy Throb — Finger | last aired 2026-11-24 09:00 | normal pick now | request now
