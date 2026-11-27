@@ -1,11 +1,11 @@
-Track status, artists filed under JO (built Fri Nov 27, 3:15 AM PST (11:15 UTC)). Times in UTC.
+Track status, artists filed under JO (built Fri Nov 27, 3:25 AM PST (11:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-11-18 08:30 | normal pick now | request now
 OK   Jockstrap — Concrete Over Water | last aired 2026-11-20 04:11 | normal pick now | request now
 OK   Joe Cocker — The Letter (Live At The Fillmore East/1970) | last aired 2026-11-20 04:17 | normal pick now | request now
 OK   Joe Cocker — With A Little Help From My Friends | last aired 2026-11-23 20:45 | normal pick now | request now
-OK   Joe Hisaishi — A Town with an Ocean View (from 'Kiki's Delivery Service') | last aired 2026-11-22 03:20 | normal pick now | request now
+WAIT Joe Hisaishi — A Town with an Ocean View (from 'Kiki's Delivery Service') | last aired 2026-11-27 11:17 | normal pick from 2026-11-29 11:17 | request from 2026-11-29 11:17
 OK   Joe Hisaishi — a Wish to the Moon | last aired 2026-11-18 06:27 | normal pick now | request now
 OK   Joe Hisaishi — Asian Dream Song | last aired 2026-11-21 00:50 | normal pick now | request now
 OK   Joe Hisaishi — Deep Sea Pastures (from 'Ponyo on the Cliff by the Sea') | last aired 2026-11-15 07:47 | normal pick now | request now
@@ -19,7 +19,7 @@ OK   Joe Hisaishi — Symphonic Suite “Princess Mononoke”2021 : V. Mononoke 
 OK   Joe Hisaishi — The Path of the Wind (from 'My Neighbor Totoro') | last aired 2026-11-15 07:38 | normal pick now | request now
 OK   Joe Hisaishi — アシタカとサン (from 'Princess Mononoke') | last aired 2026-11-21 07:52 | normal pick now | request now
 OK   Joel Pott — Chances | last aired 2026-10-26 11:28 | normal pick now | request now
-OK   Johann Johannsson — Flight From The City - Jóhannsson: Flight from the City | last aired 2026-11-24 22:18 | normal pick now | request now
+WAIT Johann Johannsson — Flight From The City - Jóhannsson: Flight from the City | last aired 2026-11-27 11:22 | normal pick from 2026-11-28 23:22 | request from 2026-11-28 07:22
 OK   John Carpenter — Halloween Theme | last aired 2026-11-21 20:25 | normal pick now | request now
 OK   John Coltrane — Lush Life | last aired 2026-11-23 10:38 | normal pick now | request now
 OK   John Coltrane — My Favorite Things | last aired 2026-11-25 00:43 | normal pick now | request now
