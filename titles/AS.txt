@@ -1,9 +1,9 @@
-Track status, song titles filed under AS (built Fri Nov 27, 12:35 AM PST (08:35 UTC)). Times in UTC.
+Track status, song titles filed under AS (built Fri Nov 27, 12:45 AM PST (08:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT A Simple Game — The Moody Blues | last aired 2026-11-26 16:28 | normal pick from 2026-11-28 04:28 | request from 2026-11-27 12:28
 WAIT A Song for You — Donny Hathaway | last aired 2026-11-27 02:10 | normal pick from 2026-11-28 14:10 | request from 2026-11-27 22:10
-WAIT A Sorta Fairytale (2023 Remaster) — Tori Amos | last aired 2026-11-25 20:37 | normal pick from 2026-11-27 08:37 | request now
+OK   A Sorta Fairytale (2023 Remaster) — Tori Amos | last aired 2026-11-25 20:37 | normal pick now | request now
 WAIT A Stream With Bright Fish (2005 Digital Remaster) — Harold Budd | last aired 2026-11-26 07:12 | normal pick from 2026-11-28 07:12 | request from 2026-11-28 07:12
 WAIT A Swingin' Safari — Bert Kaempfert | last aired 2026-11-26 03:18 | normal pick from 2026-11-27 15:18 | request now
 OK   As (Album Version) — George Michael Duet with Mary J. Blige | last aired 2026-11-22 11:51 | normal pick now | request now
