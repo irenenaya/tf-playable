@@ -1,10 +1,10 @@
-Track status, song titles filed under SP (built Thu Nov 26, 6:55 PM PST (02:55 UTC Fri)). Times in UTC.
+Track status, song titles filed under SP (built Thu Nov 26, 7:05 PM PST (03:05 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Space Jam — Quad City DJ's | last aired 2026-11-23 17:20 | normal pick now | request now
 OK   Space Lion — Seatbelts | last aired 2026-10-18 01:09 | normal pick now | request now
 OK   Space Oddity — David Bowie | last aired 2026-11-18 02:34 | normal pick now | request now
-WAIT Space Song — Beach House | last aired 2026-11-26 22:54 | normal pick from 2026-11-28 22:54 | request from 2026-11-28 22:54
+WAIT Space Song — Beach House | last aired 2026-11-26 22:55 | normal pick from 2026-11-28 22:55 | request from 2026-11-28 22:55
 OK   SPACEDOG (OhtoPlaya Remix) — OhtoPlaya | last aired 2026-11-21 15:01 | normal pick now | request now
 OK   Spanish Caravan — The Doors | last aired 2026-10-24 03:40 | normal pick now | request now
 WAIT Spanish Castles In Space — The Orb | last aired 2026-11-26 15:16 | normal pick from 2026-11-28 03:16 | request from 2026-11-27 11:16

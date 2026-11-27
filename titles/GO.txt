@@ -1,4 +1,4 @@
-Track status, song titles filed under GO (built Thu Nov 26, 6:55 PM PST (02:55 UTC Fri)). Times in UTC.
+Track status, song titles filed under GO (built Thu Nov 26, 7:05 PM PST (03:05 UTC Fri)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Go Home — Stevie Wonder | last aired 2026-11-15 01:55 | normal pick now | request now
@@ -15,7 +15,7 @@ OK   Golden — Jill Scott | last aired 2026-11-24 02:17 | normal pick now | req
 OK   Golden Lady — Stevie Wonder | last aired 2026-11-24 18:44 | normal pick now | request now
 OK   Golden Slumbers (Remastered) — The Beatles | last aired 2026-11-05 06:35 | normal pick now | request now
 OK   Goo Goo Muck — The Cramps | last aired 2026-11-23 02:08 | normal pick now | request now
-WAIT Good Luck, Babe! — Chappell Roan | last aired 2026-11-27 00:24 | normal pick from 2026-11-28 12:24 | request from 2026-11-27 20:24
+WAIT Good Luck, Babe! — Chappell Roan | last aired 2026-11-27 00:25 | normal pick from 2026-11-28 12:25 | request from 2026-11-27 20:25
 WAIT Good Times (2018 Remaster) — Chic | last aired 2026-11-26 09:40 | normal pick from 2026-11-28 09:40 | request from 2026-11-28 09:40
 WAIT Good Vibrations (Stereo/Remastered 2012) — The Beach Boys | last aired 2026-11-26 03:14 | normal pick from 2026-11-27 15:14 | request now
 WAIT Goodbye (Live) — toe | last aired 2026-11-25 20:57 | normal pick from 2026-11-27 08:57 | request now
