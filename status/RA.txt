@@ -1,17 +1,17 @@
-Track status, artists filed under RA (built Fri Nov 27, 2:45 AM PST (10:45 UTC)). Times in UTC.
+Track status, artists filed under RA (built Fri Nov 27, 2:55 AM PST (10:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Radiohead — Paranoid Android | last aired 2026-11-25 18:16 | normal pick from 2026-11-27 18:16 | request from 2026-11-27 18:16
 WAIT Radiohead — Weird Fishes / Arpeggi | last aired 2026-11-26 20:03 | normal pick from 2026-11-28 20:03 | request from 2026-11-28 20:03
 OK   Rammstein — Deutschland | last aired 2026-11-20 21:04 | normal pick now | request now
 WAIT Ramones — Blitzkrieg Bop | last aired 2026-11-25 18:32 | normal pick from 2026-11-27 18:32 | request from 2026-11-27 18:32
-WAIT Randy Crawford — One Day I'll Fly Away | last aired 2026-11-25 10:53 | normal pick from 2026-11-27 10:53 | request from 2026-11-27 10:53
+OK   Randy Crawford — One Day I'll Fly Away | last aired 2026-11-25 10:53 | normal pick now | request now
 WAIT Randy Travis — Forever and Ever, Amen | last aired 2026-11-26 19:50 | normal pick from 2026-11-28 19:50 | request from 2026-11-28 19:50
 WAIT Raquel Tavares — Como É Grande o Meu Amor por Você | last aired 2026-11-25 18:13 | normal pick from 2026-11-27 18:13 | request from 2026-11-27 18:13
 OK   Ray Anthony — The Hokey Pokey | last aired 2026-11-25 18:29 | normal pick now | request now
 WAIT Ray Parker Junior — Ghostbusters (Album Version) | last aired 2026-11-25 18:25 | normal pick from 2026-11-27 18:25 | request from 2026-11-27 18:25
 WAIT Rayland Baxter — Objects In The Mirror | last aired 2026-11-25 10:58 | normal pick from 2026-11-27 10:58 | request from 2026-11-27 10:58
 WAIT The Rah Band — Clouds Across the Moon | last aired 2026-11-26 19:56 | normal pick from 2026-11-28 19:56 | request from 2026-11-28 19:56
-WAIT The Rah Band — Messages from the Stars (Remaster) | last aired 2026-11-25 10:46 | normal pick from 2026-11-27 10:46 | request from 2026-11-27 10:46
+OK   The Rah Band — Messages from the Stars (Remaster) | last aired 2026-11-25 10:46 | normal pick now | request now
 WAIT The Ray Charles Singers — Sweet Little Mountain Bird | last aired 2026-11-26 12:42 | normal pick from 2026-11-28 00:42 | request now
 WAIT The Ray Conniff Singers — Somewhere, My Love (Lara's Theme from "Doctor Zhivago") (Album Version) | last aired 2026-11-26 19:53 | normal pick from 2026-11-28 07:53 | request from 2026-11-27 15:53
