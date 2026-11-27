@@ -1,4 +1,4 @@
-Track status, artists filed under MA (built Fri Nov 27, 5:15 AM PST (13:15 UTC)). Times in UTC.
+Track status, artists filed under MA (built Fri Nov 27, 5:25 AM PST (13:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT M/A/R/R/S — Pump Up The Volume (UK 12" Remix) | last aired 2026-11-26 18:07 | normal pick from 2026-11-28 06:07 | request from 2026-11-27 14:07
@@ -17,7 +17,7 @@ OK   Marc Rebillet — Late To Work | last aired 2026-11-25 15:14 | normal pick 
 WAIT Marconi Union — Weightless | last aired 2026-11-25 14:45 | normal pick from 2026-11-27 14:45 | request from 2026-11-27 14:45
 WAIT Margaret Berger — I Feed You My Love (Extended Version) | last aired 2026-11-26 18:01 | normal pick from 2026-11-28 06:01 | request from 2026-11-27 14:01
 WAIT Maria McKee — Absolutely Barking Stars | last aired 2026-11-26 05:52 | normal pick from 2026-11-27 17:52 | request now
-WAIT Maria McKee — Life Is Sweet | last aired 2026-11-25 13:21 | normal pick from 2026-11-27 13:21 | request from 2026-11-27 13:21
+OK   Maria McKee — Life Is Sweet | last aired 2026-11-25 13:21 | normal pick now | request now
 OK   Mariah Carey — All I Want for Christmas Is You | last aired 2026-11-07 21:06 | normal pick now | request now
 OK   Mariah Carey — O Holy Night | last aired 2026-04-30 06:20 | normal pick now | request now
 OK   Marie Vaunt — That Acid | last aired 2026-11-18 16:12 | normal pick now | request now
@@ -43,7 +43,7 @@ OK   Marvin Gaye — Mercy Mercy Me (The Ecology) | last aired 2026-11-24 17:58 
 WAIT Marvin Gaye — Save The Children | last aired 2026-11-26 05:11 | normal pick from 2026-11-27 17:11 | request now
 OK   Marvin Gaye — Sexual Healing (Album Version) | last aired 2026-11-22 11:14 | normal pick now | request now
 WAIT Marvin Gaye — What's Going On | last aired 2026-11-27 02:29 | normal pick from 2026-11-29 02:29 | request from 2026-11-29 02:29
-WAIT Marvin Gaye — Wholy Holy | last aired 2026-11-26 17:18 | normal pick from 2026-11-28 05:18 | request from 2026-11-27 13:18
+WAIT Marvin Gaye — Wholy Holy | last aired 2026-11-26 17:18 | normal pick from 2026-11-28 05:18 | request now
 OK   Mary Halvorson — About Ghosts | last aired 2026-11-25 14:54 | normal pick now | request now
 WAIT Masego — Tadow | last aired 2026-11-25 13:32 | normal pick from 2026-11-27 13:32 | request from 2026-11-27 13:32
 WAIT Massive Attack — Angel | last aired 2026-11-26 17:37 | normal pick from 2026-11-28 17:37 | request from 2026-11-28 17:37
@@ -67,7 +67,7 @@ WAIT Måneskin — Torna a casa | last aired 2026-11-26 05:30 | normal pick from
 OK   Måneskin — ZITTI E BUONI | last aired 2026-11-25 14:59 | normal pick now | request now
 OK   The Magnetic Fields — Absolutely Cuckoo | last aired 2026-11-23 13:10 | normal pick now | request now
 OK   The Magnetic Fields — All My Little Words | last aired 2026-11-25 17:34 | normal pick now | request now
-WAIT The Magnetic Fields — Born on a Train | last aired 2026-11-26 17:21 | normal pick from 2026-11-28 05:21 | request from 2026-11-27 13:21
+WAIT The Magnetic Fields — Born on a Train | last aired 2026-11-26 17:21 | normal pick from 2026-11-28 05:21 | request now
 OK   The Magnetic Fields — Papa Was a Rodeo | last aired 2026-11-22 01:55 | normal pick now | request now
 WAIT The Magnetic Fields — The Book of Love | last aired 2026-11-26 06:02 | normal pick from 2026-11-28 06:02 | request from 2026-11-28 06:02
 WAIT The Mamas & The Papas — California Dreamin' (Single Version) | last aired 2026-11-26 06:04 | normal pick from 2026-11-27 18:04 | request now
