@@ -1,4 +1,4 @@
-Track status, song titles filed under AS (built Fri Nov 27, 12:25 AM PST (08:25 UTC)). Times in UTC.
+Track status, song titles filed under AS (built Fri Nov 27, 12:35 AM PST (08:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT A Simple Game — The Moody Blues | last aired 2026-11-26 16:28 | normal pick from 2026-11-28 04:28 | request from 2026-11-27 12:28
@@ -12,5 +12,5 @@ WAIT As It Was — Harry Styles | last aired 2026-11-27 01:24 | normal pick from
 WAIT As Rosas Não Falam — Cartola | last aired 2026-11-26 03:37 | normal pick from 2026-11-28 03:37 | request from 2026-11-28 03:37
 OK   As — Stevie Wonder | last aired 2026-11-14 23:04 | normal pick now | request now
 OK   Ascension (No One's Gonna Love You, So Don't Ever Wonder)[The Tribute][Cut] — Maxwell | last aired 2026-09-05 10:34 | normal pick now | request now
-OK   Asfalt Tango — Fanfare Ciocarlia | last aired 2026-11-09 19:08 | normal pick now | request now
+WAIT Asfalt Tango — Fanfare Ciocarlia | last aired 2026-11-27 08:30 | normal pick from 2026-11-28 20:30 | request from 2026-11-28 04:30
 OK   Asian Dream Song — Joe Hisaishi | last aired 2026-11-21 00:50 | normal pick now | request now
