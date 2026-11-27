@@ -1,9 +1,9 @@
-Track status, artists filed under BE (built Fri Nov 27, 6:35 AM PST (14:35 UTC)). Times in UTC.
+Track status, artists filed under BE (built Fri Nov 27, 6:45 AM PST (14:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Beach House — Bluebird | last aired 2026-11-26 12:45 | normal pick from 2026-11-28 12:45 | request from 2026-11-28 12:45
 WAIT Beach House — Space Song | last aired 2026-11-26 22:55 | normal pick from 2026-11-28 22:55 | request from 2026-11-28 22:55
-WAIT Beastie Boys — Sabotage | last aired 2026-11-26 02:42 | normal pick from 2026-11-27 14:42 | request now
+OK   Beastie Boys — Sabotage | last aired 2026-11-26 02:42 | normal pick now | request now
 WAIT Beatrice Rana — Keyboard Concerto No. 1 in D Minor, BWV 1052: I. Allegro | last aired 2026-11-27 01:30 | normal pick from 2026-11-28 13:30 | request from 2026-11-27 21:30
 WAIT Beatrice Rana — Libertango (Arr. Yamamoto for Piano 4-Hands) | last aired 2026-11-27 00:34 | normal pick from 2026-11-29 00:34 | request from 2026-11-29 00:34
 WAIT Beats by Luca — 52 CHICKEN NUGGET (McRave) | last aired 2026-11-26 03:28 | normal pick from 2026-11-27 15:28 | request now
@@ -33,7 +33,7 @@ WAIT Bernard Purdie — Cool Down | last aired 2026-11-26 03:02 | normal pick fr
 WAIT Bert Kaempfert — A Swingin' Safari | last aired 2026-11-26 03:18 | normal pick from 2026-11-27 15:18 | request now
 OK   Betty Carter — Moonlight in Vermont | last aired 2026-11-26 02:23 | normal pick now | request now
 OK   BETWEEN FRIENDS — affection | last aired 2026-11-22 16:36 | normal pick now | request now
-WAIT Beyoncé — Crazy In Love | last aired 2026-11-26 02:45 | normal pick from 2026-11-27 14:45 | request now
+OK   Beyoncé — Crazy In Love | last aired 2026-11-26 02:45 | normal pick now | request now
 OK   Beyoncé — TEXAS HOLD 'EM | last aired 2026-10-28 22:05 | normal pick now | request now
 WAIT Béla Fleck — My Home's Across The Blue Ridge Mountains | last aired 2026-11-26 23:00 | normal pick from 2026-11-28 11:00 | request from 2026-11-27 19:00
 WAIT The Beach Boys — God Only Knows (Stereo) | last aired 2026-11-26 03:11 | normal pick from 2026-11-27 15:11 | request now
