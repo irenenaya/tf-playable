@@ -1,6 +1,6 @@
-Track status, song titles filed under ES (built Fri Nov 27, 3:45 PM PST (23:45 UTC)). Times in UTC.
+Track status, song titles filed under ES (built Fri Nov 27, 3:55 PM PST (23:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Espresso — Sabrina Carpenter | last aired 2026-11-25 17:44 | normal pick now | request now
 WAIT Essence — Wizkid | last aired 2026-11-27 13:50 | normal pick from 2026-11-29 13:50 | request from 2026-11-29 13:50
-WAIT Estuarine — Loscil | last aired 2026-11-26 11:47 | normal pick from 2026-11-27 23:47 | request now
+OK   Estuarine — Loscil | last aired 2026-11-26 11:47 | normal pick now | request now
