@@ -1,4 +1,4 @@
-Track status, artists filed under CH (built Sat Nov 28, 7:45 AM PST (15:45 UTC)). Times in UTC.
+Track status, artists filed under CH (built Sat Nov 28, 7:55 AM PST (15:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Chaka Khan — What Cha' Gonna Do for Me | last aired 2026-11-26 09:48 | normal pick now | request now
@@ -18,7 +18,7 @@ OK   Chet Atkins — Why Worry (Album Version) | last aired 2026-11-26 23:32 | n
 WAIT Chet Baker — Almost Blue | last aired 2026-11-28 15:33 | normal pick from 2026-11-30 15:33 | request from 2026-11-30 15:33
 OK   Chet Baker — My Funny Valentine | last aired 2026-11-26 09:12 | normal pick now | request now
 WAIT Chet Baker — You Don't Know What Love Is | last aired 2026-11-26 23:08 | normal pick from 2026-11-28 23:08 | request from 2026-11-28 23:08
-OK   Chic — Good Times (2018 Remaster) | last aired 2026-11-26 09:40 | normal pick now | request now
+WAIT Chic — Good Times (2018 Remaster) | last aired 2026-11-28 15:43 | normal pick from 2026-11-30 03:43 | request from 2026-11-29 11:43
 WAIT Chicago — Hard to Say I'M Sorry / Get Away | last aired 2026-11-26 23:41 | normal pick from 2026-11-28 23:41 | request from 2026-11-28 23:41
 WAIT Chico Buarque — Construção | last aired 2026-11-28 15:36 | normal pick from 2026-11-30 03:36 | request from 2026-11-29 11:36
 OK   Child Seat — Heart To Heart | last aired 2026-11-26 23:47 | normal pick now | request now
@@ -35,7 +35,7 @@ OK   Christina Aguilera — Genie In a Bottle | last aired 2026-10-30 14:20 | no
 OK   Christopher Cross — I Really Don't Know Anymore (2019 Remaster) | last aired 2026-10-31 01:35 | normal pick now | request now
 OK   Christopher Cross — Ride Like the Wind (Album Version) | last aired 2026-11-27 00:09 | normal pick now | request now
 OK   Christopher Cross — Sailing | last aired 2026-11-26 10:51 | normal pick now | request now
-OK   Chuck Berry — Johnny B. Goode | last aired 2026-11-26 10:39 | normal pick now | request now
+WAIT Chuck Berry — Johnny B. Goode | last aired 2026-11-28 15:51 | normal pick from 2026-11-30 03:51 | request from 2026-11-29 11:51
 WAIT Chuck Mangione — Feels So Good | last aired 2026-11-28 15:23 | normal pick from 2026-11-30 03:23 | request from 2026-11-29 11:23
 OK   CHVRCHES — Clearest Blue | last aired 2026-11-26 23:58 | normal pick now | request now
 OK   The Chills — Pink Frost | last aired 2026-11-26 09:24 | normal pick now | request now
