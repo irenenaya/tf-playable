@@ -1,8 +1,8 @@
-Track status, artists filed under PR (built Sat Nov 28, 6:05 AM PST (14:05 UTC)). Times in UTC.
+Track status, artists filed under PR (built Sat Nov 28, 6:15 AM PST (14:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Predatory Meerkats — Resist The Force | last aired 2026-11-19 20:00 | normal pick now | request now
-OK   Prince — Adore (2020 Remaster) | last aired 2026-11-20 00:26 | normal pick now | request now
+WAIT Prince — Adore (2020 Remaster) | last aired 2026-11-28 14:04 | normal pick from 2026-11-30 02:04 | request from 2026-11-29 10:04
 OK   Prince Fatty — The Beat Goes On | last aired 2026-11-22 20:32 | normal pick now | request now
 OK   Prince — Kiss (LP Version) | last aired 2026-11-19 19:56 | normal pick now | request now
 OK   Prince — Moonbeam Levels (2019 Remaster) | last aired 2026-11-13 04:18 | normal pick now | request now
