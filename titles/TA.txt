@@ -1,4 +1,4 @@
-Track status, song titles filed under TA (built Sat Nov 28, 2:45 AM PST (10:45 UTC)). Times in UTC.
+Track status, song titles filed under TA (built Sat Nov 28, 2:55 AM PST (10:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Ta douleur — Camille | last aired 2026-11-26 03:52 | normal pick now | request now
@@ -13,7 +13,7 @@ OK   Take My Breath Away — Berlin | last aired 2026-11-26 03:06 | normal pick 
 OK   Take My Heart — Djivan Gasparyan | last aired 2026-11-11 19:32 | normal pick now | request now
 OK   Take on Me (2015 Remaster) — A-Ha | last aired 2026-10-31 19:14 | normal pick now | request now
 OK   Take On Me (MTV Unplugged) — A-Ha | last aired 2026-11-12 21:21 | normal pick now | request now
-OK   Taken — Eluvium | last aired 2026-11-18 12:30 | normal pick now | request now
+WAIT Taken — Eluvium | last aired 2026-11-28 10:49 | normal pick from 2026-11-29 22:49 | request from 2026-11-29 06:49
 OK   Takin' Care Of Business — Bachman-Turner Overdrive | last aired 2026-11-18 23:03 | normal pick now | request now
 OK   Talk — Coldplay | last aired 2026-11-17 08:52 | normal pick now | request now
 WAIT Tape Recorder — Hammock | last aired 2026-11-27 09:59 | normal pick from 2026-11-29 09:59 | request from 2026-11-29 09:59
