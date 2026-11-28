@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Sat Nov 28, 1:25 AM PST (09:25 UTC)). Times in UTC.
+Track status, artists filed under JO (built Sat Nov 28, 1:35 AM PST (09:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-11-18 08:30 | normal pick now | request now
@@ -41,7 +41,7 @@ WAIT Johnny Cash — Redemption Day (Album Version) | last aired 2026-11-28 09:1
 OK   Johnny Cash — Ring of Fire | last aired 2026-11-25 13:06 | normal pick now | request now
 WAIT Johnny Flynn — Detectorists (Original Soundtrack from the TV Series) | last aired 2026-11-27 11:40 | normal pick from 2026-11-28 23:40 | request now
 WAIT Johnny Mathis — Wonderful! Wonderful! | last aired 2026-11-27 11:47 | normal pick from 2026-11-28 23:47 | request now
-OK   Joker Out — Novi Val | last aired 2026-11-21 13:19 | normal pick now | request now
+WAIT Joker Out — Novi Val | last aired 2026-11-28 09:28 | normal pick from 2026-11-29 21:28 | request from 2026-11-29 05:28
 OK   Jon Hopkins — Open Eye Signal (Remaster 2023) | last aired 2026-11-23 11:12 | normal pick now | request now
 WAIT Jon Hopkins — Small Memory | last aired 2026-11-27 11:34 | normal pick from 2026-11-28 23:34 | request now
 OK   Jonathan Parecki — Senbonzakura (Hatsune Miku) | last aired 2026-09-02 17:36 | normal pick now | request now
@@ -52,7 +52,7 @@ WAIT Jorge Ben Jor — Mas, Que Nada! | last aired 2026-11-27 11:50 | normal pic
 WAIT Josh Rouse — 1972 | last aired 2026-11-28 08:22 | normal pick from 2026-11-29 20:22 | request from 2026-11-29 04:22
 WAIT Josh Rouse — Street Lights | last aired 2026-11-27 11:36 | normal pick from 2026-11-28 23:36 | request now
 WAIT José González — Heartbeats | last aired 2026-11-27 00:44 | normal pick from 2026-11-29 00:44 | request from 2026-11-29 00:44
-OK   Journey — Don't Stop Believin' (Album Version) | last aired 2026-11-21 05:50 | normal pick now | request now
+WAIT Journey — Don't Stop Believin' (Album Version) | last aired 2026-11-28 09:24 | normal pick from 2026-11-29 21:24 | request from 2026-11-29 05:24
 WAIT Journey — Lights (Album Version) | last aired 2026-11-27 12:26 | normal pick from 2026-11-29 00:26 | request now
 WAIT Joywave — In Clover | last aired 2026-11-27 12:17 | normal pick from 2026-11-29 00:17 | request now
 WAIT Joywave — Rumors | last aired 2026-11-27 12:33 | normal pick from 2026-11-29 00:33 | request now
