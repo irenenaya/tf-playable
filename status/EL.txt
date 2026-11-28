@@ -1,4 +1,4 @@
-Track status, artists filed under EL (built Sat Nov 28, 2:25 AM PST (10:25 UTC)). Times in UTC.
+Track status, artists filed under EL (built Sat Nov 28, 2:35 AM PST (10:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Electric Light Orchestra — Evil Woman | last aired 2026-11-26 02:11 | normal pick now | request now
@@ -8,11 +8,11 @@ OK   Elis Regina — Águas De Marco | last aired 2026-11-24 04:20 | normal pick
 WAIT Ella Fitzgerald — Bewitched, Bothered And Bewildered | last aired 2026-11-27 02:15 | normal pick from 2026-11-29 02:15 | request from 2026-11-29 02:15
 OK   Ella Fitzgerald — Bewitched, Bothered And Bewildered (Ella Fitzgerald and Her Famous Orchestra Bewitched, Bothered And Bewildered) | last aired 2026-11-26 02:16 | normal pick now | request now
 OK   Ella Fitzgerald — Summertime | last aired 2026-11-24 14:35 | normal pick now | request now
-OK   Elliott Smith — Angeles | last aired 2026-11-24 03:34 | normal pick now | request now
+WAIT Elliott Smith — Angeles | last aired 2026-11-28 10:23 | normal pick from 2026-11-30 10:23 | request from 2026-11-30 10:23
 WAIT Elliott Smith — Independence Day | last aired 2026-11-27 09:26 | normal pick from 2026-11-29 09:26 | request from 2026-11-29 09:26
 OK   Elton John — Rocket Man (I Think It's Going To Be A Long, Long Time) | last aired 2026-11-24 14:00 | normal pick now | request now
 OK   Eluvium — Indoor Swimming At The Space Station | last aired 2026-11-26 01:57 | normal pick now | request now
-OK   Eluvium — Surrounded by Illusion | last aired 2026-11-24 20:56 | normal pick now | request now
+WAIT Eluvium — Surrounded by Illusion | last aired 2026-11-28 10:27 | normal pick from 2026-11-29 22:27 | request from 2026-11-29 06:27
 OK   Eluvium — Taken | last aired 2026-11-18 12:30 | normal pick now | request now
 OK   Elvis Costello — Almost Blue | last aired 2026-11-24 14:43 | normal pick now | request now
 OK   Elvis Costello — Watching The Detectives (Single Version) | last aired 2026-11-26 01:54 | normal pick now | request now
