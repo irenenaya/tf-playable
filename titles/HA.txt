@@ -1,4 +1,4 @@
-Track status, song titles filed under HA (built Fri Nov 27, 8:25 PM PST (04:25 UTC Sat)). Times in UTC.
+Track status, song titles filed under HA (built Fri Nov 27, 8:35 PM PST (04:35 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Halah — Mazzy Star | last aired 2026-11-25 15:07 | normal pick now | request now
@@ -21,7 +21,7 @@ OK   Haru No Iutoori — indigo la End | last aired 2026-11-22 05:20 | normal pi
 WAIT Harvest Moon (Album Version) — Neil Young | last aired 2026-11-27 19:01 | normal pick from 2026-11-29 19:01 | request from 2026-11-29 19:01
 OK   Hate Yourself — TV Girl | last aired 2026-11-21 22:47 | normal pick now | request now
 OK   Haunted When the Minutes Drag — Love and Rockets | last aired 2026-11-25 23:12 | normal pick now | request now
-OK   Haus am See — Peter Fox | last aired 2026-11-19 20:28 | normal pick now | request now
+WAIT Haus am See — Peter Fox | last aired 2026-11-28 04:24 | normal pick from 2026-11-29 16:24 | request from 2026-11-29 00:24
 OK   Have a Cigar — Pink Floyd | last aired 2026-11-23 17:59 | normal pick now | request now
 OK   Have Yourself A Merry Little Christmas (Remastered 1999) — Frank Sinatra | last aired 2026-11-26 00:20 | normal pick now | request now
 OK   The Hand That Feeds — Nine Inch Nails | last aired 2026-11-21 18:06 | normal pick now | request now
