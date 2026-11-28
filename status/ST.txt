@@ -1,4 +1,4 @@
-Track status, artists filed under ST (built Fri Nov 27, 9:55 PM PST (05:55 UTC Sat)). Times in UTC.
+Track status, artists filed under ST (built Fri Nov 27, 10:05 PM PST (06:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT St Germain — Rose rouge | last aired 2026-11-27 01:57 | normal pick from 2026-11-29 01:57 | request from 2026-11-29 01:57
@@ -7,7 +7,7 @@ WAIT Stan Getz — Corcovado (Quiet Nights Of Quiet Stars) | last aired 2026-11-
 WAIT Stardust — Music Sounds Better With You | last aired 2026-11-28 05:49 | normal pick from 2026-11-30 05:49 | request from 2026-11-30 05:49
 WAIT Stars of the Lid — Requiem for Dying Mothers, Pt. 1 | last aired 2026-11-26 07:16 | normal pick from 2026-11-28 07:16 | request from 2026-11-28 07:16
 WAIT Stars of the Lid — Requiem for Dying Mothers, Pt. 2 | last aired 2026-11-28 05:18 | normal pick from 2026-11-30 05:18 | request from 2026-11-30 05:18
-OK   Stealers Wheel — Stuck In The Middle With You | last aired 2026-11-23 19:10 | normal pick now | request now
+WAIT Stealers Wheel — Stuck In The Middle With You | last aired 2026-11-28 05:59 | normal pick from 2026-11-30 05:59 | request from 2026-11-30 05:59
 OK   Steely Dan — Almost Gothic (Album Version) | last aired 2026-11-15 02:00 | normal pick now | request now
 WAIT Steely Dan — Babylon Sisters | last aired 2026-11-27 02:04 | normal pick from 2026-11-29 02:04 | request from 2026-11-29 02:04
 WAIT Steely Dan — Home At Last | last aired 2026-11-28 05:43 | normal pick from 2026-11-30 05:43 | request from 2026-11-30 05:43
@@ -45,7 +45,7 @@ OK   Studio Group — Love Me Tender / Can't Help Falling In Love / Always On My
 WAIT Styx — Mr. Roboto | last aired 2026-11-27 08:14 | normal pick from 2026-11-28 20:14 | request now
 WAIT The Staple Singers — I'll Take You There | last aired 2026-11-27 01:46 | normal pick from 2026-11-29 01:46 | request from 2026-11-29 01:46
 WAIT The Stone Roses — I Wanna Be Adored | last aired 2026-11-27 18:37 | normal pick from 2026-11-29 06:37 | request from 2026-11-28 14:37
-OK   The Strokes — Last Nite | last aired 2026-11-23 19:13 | normal pick now | request now
+WAIT The Strokes — Last Nite | last aired 2026-11-28 05:56 | normal pick from 2026-11-29 17:56 | request from 2026-11-29 01:56
 OK   The Strokes — Lonely in the Future | last aired 2026-11-17 21:07 | normal pick now | request now
 WAIT The Strokes — Ode To The Mets | last aired 2026-11-27 01:51 | normal pick from 2026-11-28 13:51 | request now
 OK   The Style Council — Iwasadoledadstoyboy | last aired 2026-11-15 14:53 | normal pick now | request now
