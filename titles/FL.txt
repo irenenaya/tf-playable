@@ -1,10 +1,10 @@
-Track status, song titles filed under FL (built Fri Nov 27, 10:05 PM PST (06:05 UTC Sat)). Times in UTC.
+Track status, song titles filed under FL (built Fri Nov 27, 10:15 PM PST (06:15 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Flaca — Andrés Calamaro | last aired 2026-11-25 15:53 | normal pick now | request now
 OK   Flamenco Sketches — Miles Davis | last aired 2026-11-18 10:51 | normal pick now | request now
 OK   Flash (Remastered 2011) — Queen | last aired 2026-11-16 17:29 | normal pick now | request now
-OK   Flashdance...What a Feeling (Radio Edit) — Irene Cara | last aired 2026-11-22 03:07 | normal pick now | request now
+WAIT Flashdance...What a Feeling (Radio Edit) — Irene Cara | last aired 2026-11-28 06:10 | normal pick from 2026-11-29 18:10 | request from 2026-11-29 02:10
 WAIT Flight From The City - Jóhannsson: Flight from the City — Johann Johannsson | last aired 2026-11-27 11:22 | normal pick from 2026-11-28 23:22 | request from 2026-11-28 07:22
 OK   Flim — Aphex Twin | last aired 2026-11-17 11:47 | normal pick now | request now
 OK   Float On — Modest Mouse | last aired 2026-11-25 23:58 | normal pick now | request now
@@ -12,5 +12,5 @@ WAIT Flood — Jars Of Clay | last aired 2026-11-27 21:42 | normal pick from 202
 OK   Flowers — In Love With a Ghost | last aired 2026-11-19 08:32 | normal pick now | request now
 OK   Flowers — Miley Cyrus | last aired 2026-11-22 21:55 | normal pick now | request now
 WAIT Fly Me To The Moon (Remastered 2008) — Frank Sinatra | last aired 2026-11-27 20:27 | normal pick from 2026-11-29 20:27 | request from 2026-11-29 20:27
-OK   Fly with Me — Iration | last aired 2026-11-22 14:29 | normal pick now | request now
+WAIT Fly with Me — Iration | last aired 2026-11-28 06:06 | normal pick from 2026-11-29 18:06 | request from 2026-11-29 02:06
 OK   The Fly (Remastered 2011) — U2 | last aired 2026-10-26 01:04 | normal pick now | request now
