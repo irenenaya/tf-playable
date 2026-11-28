@@ -1,9 +1,9 @@
-Track status, artists filed under PE (built Fri Nov 27, 8:15 PM PST (04:15 UTC Sat)). Times in UTC.
+Track status, artists filed under PE (built Fri Nov 27, 8:25 PM PST (04:25 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Pearl Jam — Yellow Ledbetter | last aired 2026-11-27 09:40 | normal pick from 2026-11-29 09:40 | request from 2026-11-29 09:40
 OK   Pebe Sebert — City's Burning | last aired 2026-11-18 17:39 | normal pick now | request now
-OK   Pedro Infante — Amorcito corazón | last aired 2026-11-24 03:48 | normal pick now | request now
+WAIT Pedro Infante — Amorcito corazón | last aired 2026-11-28 04:16 | normal pick from 2026-11-30 04:16 | request from 2026-11-30 04:16
 OK   Peeping Tom — Your Neighborhood Spaceman | last aired 2026-11-18 17:33 | normal pick now | request now
 WAIT Peggy Gou — Starry Night | last aired 2026-11-28 04:03 | normal pick from 2026-11-29 16:03 | request from 2026-11-29 00:03
 OK   Pellek — Bohemian Rhapsody | last aired 2026-11-18 18:01 | normal pick now | request now
@@ -12,12 +12,12 @@ WAIT Penguin Cafe Orchestra — Perpetuum Mobile | last aired 2026-11-27 19:19 |
 OK   Pent Up Pup — ORDER:SCORE | last aired 2026-11-24 09:38 | normal pick now | request now
 OK   Percy Faith & His Orchestra — Black Magic Woman | last aired 2026-11-22 03:37 | normal pick now | request now
 WAIT Percy Faith & His Orchestra — Theme from "A Summer Place" | last aired 2026-11-28 04:10 | normal pick from 2026-11-29 16:10 | request from 2026-11-29 00:10
-OK   Perpetuum Jazzile — Africa | last aired 2026-11-23 16:57 | normal pick now | request now
+WAIT Perpetuum Jazzile — Africa | last aired 2026-11-28 04:19 | normal pick from 2026-11-29 16:19 | request from 2026-11-29 00:19
 OK   Perrie — Die With A Smile (Bruno Mars & Lady Gaga Cover - BBC Radio 1 Live Lounge) | last aired 2026-11-23 02:17 | normal pick now | request now
 WAIT Pet Shop Boys — West End Girls (2001 Remaster) | last aired 2026-11-27 18:52 | normal pick from 2026-11-29 06:52 | request from 2026-11-28 14:52
 OK   Pete Seeger — Solidarity Forever | last aired 2026-11-19 03:18 | normal pick now | request now
 OK   Pete Seeger — Which Side are You On? | last aired 2026-11-16 06:00 | normal pick now | request now
-OK   Peter Broderick — A Little Lost | last aired 2026-11-19 03:09 | normal pick now | request now
+WAIT Peter Broderick — A Little Lost | last aired 2026-11-28 04:12 | normal pick from 2026-11-29 16:12 | request from 2026-11-29 00:12
 OK   Peter Fox — Alles neu (Album Version) | last aired 2026-11-22 23:12 | normal pick now | request now
 OK   Peter Fox — Haus am See | last aired 2026-11-19 20:28 | normal pick now | request now
 WAIT Peter Gabriel — Don't Give Up (2012 Remaster) | last aired 2026-11-27 19:33 | normal pick from 2026-11-29 07:33 | request from 2026-11-28 15:33
