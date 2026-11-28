@@ -1,4 +1,4 @@
-Track status, artists filed under BI (built Sat Nov 28, 6:35 AM PST (14:35 UTC)). Times in UTC.
+Track status, artists filed under BI (built Sat Nov 28, 6:45 AM PST (14:45 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Bicep — Apricots | last aired 2026-11-25 15:35 | normal pick now | request now
@@ -21,6 +21,6 @@ OK   Billy Crystal — If I Didn't Have You (From "Monsters, Inc."/Soundtrack Ve
 OK   Billy Joel — Get It Right the First Time (Album Version) | last aired 2026-11-17 08:57 | normal pick now | request now
 WAIT Billy Joel — Honesty (Album Version) | last aired 2026-11-28 06:43 | normal pick from 2026-11-30 06:43 | request from 2026-11-30 06:43
 OK   Billy Joel — Scenes from an Italian Restaurant (Album Version) | last aired 2026-11-14 01:42 | normal pick now | request now
-OK   Billy Joel — The River of Dreams (Album Version) | last aired 2026-11-22 08:46 | normal pick now | request now
+WAIT Billy Joel — The River of Dreams (Album Version) | last aired 2026-11-28 14:40 | normal pick from 2026-11-30 02:40 | request from 2026-11-29 10:40
 WAIT Billy Joel — Vienna (Album Version) | last aired 2026-11-27 03:59 | normal pick from 2026-11-29 03:59 | request from 2026-11-29 03:59
 OK   Bing Crosby — White Christmas | last aired 2026-11-25 17:31 | normal pick now | request now
