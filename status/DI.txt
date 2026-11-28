@@ -1,4 +1,4 @@
-Track status, artists filed under DI (built Fri Nov 27, 6:35 PM PST (02:35 UTC Sat)). Times in UTC.
+Track status, artists filed under DI (built Fri Nov 27, 6:45 PM PST (02:45 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Diana Krall — A Case Of You (Live) | last aired 2026-11-19 22:49 | normal pick now | request now
@@ -9,7 +9,7 @@ OK   Diana Ross — Muscles | last aired 2026-11-22 11:33 | normal pick now | re
 OK   Die Fantastischen Vier — MfG - Mit freundlichen Grüßen (2022) | last aired 2026-11-22 20:39 | normal pick now | request now
 OK   DIIV — Doused | last aired 2026-11-11 23:30 | normal pick now | request now
 OK   Dire Straits — Brothers in Arms | last aired 2026-11-23 09:33 | normal pick now | request now
-WAIT Dire Straits — Money for Nothing | last aired 2026-11-26 14:36 | normal pick from 2026-11-28 02:36 | request now
+OK   Dire Straits — Money for Nothing | last aired 2026-11-26 14:36 | normal pick now | request now
 OK   Dire Straits — Sultans of Swing | last aired 2026-11-24 19:53 | normal pick now | request now
 OK   Dire Straits — Your Latest Trick | last aired 2026-11-16 16:31 | normal pick now | request now
 OK   Disclosure — Help Me Lose My Mind | last aired 2026-11-24 20:32 | normal pick now | request now
