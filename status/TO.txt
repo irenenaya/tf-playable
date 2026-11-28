@@ -1,4 +1,4 @@
-Track status, artists filed under TO (built Fri Nov 27, 4:15 PM PST (00:15 UTC Sat)). Times in UTC.
+Track status, artists filed under TO (built Fri Nov 27, 4:25 PM PST (00:25 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   toe — Goodbye (Live) | last aired 2026-11-25 20:57 | normal pick now | request now
@@ -22,9 +22,9 @@ OK   Tom Petty & The Heartbreakers — American Girl | last aired 2026-11-17 21:
 OK   Tom Petty — I Won't Back Down | last aired 2026-11-25 12:28 | normal pick now | request now
 WAIT Tom Petty — Runnin' Down A Dream | last aired 2026-11-27 23:34 | normal pick from 2026-11-29 11:34 | request from 2026-11-28 19:34
 WAIT Tom Robinson — The Saturday Disco | last aired 2026-11-28 00:01 | normal pick from 2026-11-29 12:01 | request from 2026-11-28 20:01
-WAIT Tom Waits — House Where Nobody Lives | last aired 2026-11-27 04:20 | normal pick from 2026-11-28 16:20 | request from 2026-11-28 00:20
+WAIT Tom Waits — House Where Nobody Lives | last aired 2026-11-27 04:20 | normal pick from 2026-11-28 16:20 | request now
 WAIT Tomaso Albinoni — Adagio in G Minor | last aired 2026-11-27 05:32 | normal pick from 2026-11-28 17:32 | request from 2026-11-28 01:32
-WAIT Tomohisa Okudo — Always with Me | last aired 2026-11-27 04:16 | normal pick from 2026-11-28 16:16 | request from 2026-11-28 00:16
+WAIT Tomohisa Okudo — Always with Me | last aired 2026-11-27 04:16 | normal pick from 2026-11-28 16:16 | request now
 OK   Toni Braxton — Un-Break My Heart | last aired 2026-11-25 20:32 | normal pick now | request now
 OK   Tonto's Expanding Head Band — Cybernaut | last aired 2026-11-25 20:48 | normal pick now | request now
 WAIT Tony Bennett & Faith Hill — The Way You Look Tonight | last aired 2026-11-27 04:03 | normal pick from 2026-11-28 16:03 | request now
