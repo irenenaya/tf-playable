@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Fri Nov 27, 10:15 PM PST (06:15 UTC Sat)). Times in UTC.
+Track status, artists filed under BE (built Fri Nov 27, 10:25 PM PST (06:25 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Beach House — Bluebird | last aired 2026-11-26 12:45 | normal pick from 2026-11-28 12:45 | request from 2026-11-28 12:45
@@ -14,7 +14,7 @@ WAIT Beck — The New Pollution | last aired 2026-11-27 12:29 | normal pick from
 OK   Becky Levi and the Nightjars — Wake Me Up | last aired 2026-10-22 06:23 | normal pick now | request now
 WAIT Bee Gees — Night Fever (From "Saturday Night Fever" Soundtrack) | last aired 2026-11-27 00:14 | normal pick from 2026-11-29 00:14 | request from 2026-11-29 00:14
 OK   Beenie Man — Feel It Boy | last aired 2026-11-20 19:30 | normal pick now | request now
-WAIT Belcea Quartet — Quatuor à cordes n° 4, Sz. 91 - String Quartet No. 4 in C Major, Sz. 91: IV. Allegretto pizzicato | last aired 2026-11-27 10:19 | normal pick from 2026-11-28 22:19 | request from 2026-11-28 06:19
+WAIT Belcea Quartet — Quatuor à cordes n° 4, Sz. 91 - String Quartet No. 4 in C Major, Sz. 91: IV. Allegretto pizzicato | last aired 2026-11-27 10:19 | normal pick from 2026-11-28 22:19 | request now
 OK   Belle and Sebastian — The Boy with the Arab Strap | last aired 2026-11-26 02:29 | normal pick now | request now
 OK   Ben Allison — D.A.V.E. | last aired 2026-11-26 02:56 | normal pick now | request now
 WAIT Ben E. King — Stand By Me | last aired 2026-11-26 22:47 | normal pick from 2026-11-28 22:47 | request from 2026-11-28 22:47
@@ -41,7 +41,7 @@ OK   The Beach Boys — Good Vibrations (Stereo/Remastered 2012) | last aired 20
 OK   The Beatles — A Day In The Life (2017 Mix) | last aired 2026-11-22 15:23 | normal pick now | request now
 OK   The Beatles — Get Back (2021 Mix) | last aired 2026-11-22 20:56 | normal pick now | request now
 OK   The Beatles — Girl (Remastered) | last aired 2026-11-05 08:04 | normal pick now | request now
-WAIT The Beatles — Golden Slumbers (Remastered) | last aired 2026-11-27 10:17 | normal pick from 2026-11-28 22:17 | request from 2026-11-28 06:17
+WAIT The Beatles — Golden Slumbers (Remastered) | last aired 2026-11-27 10:17 | normal pick from 2026-11-28 22:17 | request now
 WAIT The Beatles — Here Comes The Sun (2019 Mix) | last aired 2026-11-27 19:56 | normal pick from 2026-11-29 07:56 | request from 2026-11-28 15:56
 OK   The Beatles — Lucy In The Sky With Diamonds (Remastered 2009) | last aired 2026-11-22 18:39 | normal pick now | request now
 OK   The Beatles — Octopus's Garden (Remastered) | last aired 2026-11-21 00:55 | normal pick now | request now
