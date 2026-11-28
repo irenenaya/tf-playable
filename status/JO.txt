@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Fri Nov 27, 11:45 PM PST (07:45 UTC Sat)). Times in UTC.
+Track status, artists filed under JO (built Fri Nov 27, 11:55 PM PST (07:55 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-11-18 08:30 | normal pick now | request now
@@ -32,7 +32,7 @@ OK   John Lennon — Instant Karma! (We All Shine On) (Ultimate Mix) | last aire
 OK   John Lennon — Watching The Wheels (Remastered 2010) | last aired 2026-11-26 16:49 | normal pick now | request now
 OK   John Mayer — New Light | last aired 2026-11-25 01:43 | normal pick now | request now
 OK   John McLaughlin — You Know, You Know (Album Version) | last aired 2026-11-26 15:56 | normal pick now | request now
-WAIT John Prine — Your Flag Decal Won't Get You into Heaven Anymore | last aired 2026-11-27 11:53 | normal pick from 2026-11-28 23:53 | request from 2026-11-28 07:53
+WAIT John Prine — Your Flag Decal Won't Get You into Heaven Anymore | last aired 2026-11-27 11:53 | normal pick from 2026-11-28 23:53 | request now
 OK   John T. Williams — Anything Goes | last aired 2026-10-16 05:14 | normal pick now | request now
 OK   John Williams — Theme From Superman (Concert Version) | last aired 2026-11-21 02:27 | normal pick now | request now
 OK   Johnny Cash — Folsom Prison Blues | last aired 2026-11-17 09:24 | normal pick now | request now
@@ -40,7 +40,7 @@ WAIT Johnny Cash — Hurt (Album Version) | last aired 2026-11-27 12:04 | normal
 OK   Johnny Cash — Redemption Day (Album Version) | last aired 2026-11-21 20:53 | normal pick now | request now
 OK   Johnny Cash — Ring of Fire | last aired 2026-11-25 13:06 | normal pick now | request now
 WAIT Johnny Flynn — Detectorists (Original Soundtrack from the TV Series) | last aired 2026-11-27 11:40 | normal pick from 2026-11-28 23:40 | request now
-WAIT Johnny Mathis — Wonderful! Wonderful! | last aired 2026-11-27 11:47 | normal pick from 2026-11-28 23:47 | request from 2026-11-28 07:47
+WAIT Johnny Mathis — Wonderful! Wonderful! | last aired 2026-11-27 11:47 | normal pick from 2026-11-28 23:47 | request now
 OK   Joker Out — Novi Val | last aired 2026-11-21 13:19 | normal pick now | request now
 OK   Jon Hopkins — Open Eye Signal (Remaster 2023) | last aired 2026-11-23 11:12 | normal pick now | request now
 WAIT Jon Hopkins — Small Memory | last aired 2026-11-27 11:34 | normal pick from 2026-11-28 23:34 | request now
