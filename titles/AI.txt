@@ -1,7 +1,7 @@
-Track status, song titles filed under AI (built Sat Nov 28, 6:45 AM PST (14:45 UTC)). Times in UTC.
+Track status, song titles filed under AI (built Sat Nov 28, 6:55 AM PST (14:55 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Ain't No Sunshine (Album Version) — Bill Withers | last aired 2026-11-27 03:57 | normal pick from 2026-11-29 03:57 | request from 2026-11-29 03:57
 WAIT Ain't No Sunshine (Album Version) — Eva Cassidy | last aired 2026-11-27 20:57 | normal pick from 2026-11-29 08:57 | request from 2026-11-28 16:57
-WAIT Ain't Nobody (Album Version) — Rufus | last aired 2026-11-27 02:53 | normal pick from 2026-11-28 14:53 | request now
+OK   Ain't Nobody (Album Version) — Rufus | last aired 2026-11-27 02:53 | normal pick now | request now
 OK   The Air-Conditioned Nightmare (Album Version) — Mr. Bungle | last aired 2026-11-23 02:21 | normal pick now | request now
