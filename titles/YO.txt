@@ -1,4 +1,4 @@
-Track status, song titles filed under YO (built Fri Nov 27, 7:55 PM PST (03:55 UTC Sat)). Times in UTC.
+Track status, song titles filed under YO (built Fri Nov 27, 8:05 PM PST (04:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT You and I — Papooz | last aired 2026-11-27 14:10 | normal pick from 2026-11-29 14:10 | request from 2026-11-29 14:10
@@ -15,7 +15,7 @@ OK   You Give Love A Bad Name — Bon Jovi | last aired 2026-11-26 14:49 | norma
 OK   You Got This — Skindred | last aired 2026-09-15 08:59 | normal pick now | request now
 OK   You Haven't Done Nothin' — Stevie Wonder | last aired 2026-11-02 19:53 | normal pick now | request now
 OK   You Know Me Better Than I Know Myself — Cult With No Name | last aired 2026-11-03 10:31 | normal pick now | request now
-WAIT You Know, You Know (Album Version) — John McLaughlin | last aired 2026-11-26 15:56 | normal pick from 2026-11-28 03:56 | request now
+OK   You Know, You Know (Album Version) — John McLaughlin | last aired 2026-11-26 15:56 | normal pick now | request now
 OK   You — The Jetzons | last aired 2026-11-21 22:32 | normal pick now | request now
 WAIT You're The One That I Want — Angus & Julia Stone | last aired 2026-11-27 04:29 | normal pick from 2026-11-29 04:29 | request from 2026-11-29 04:29
 OK   Young And Beautiful — Lana Del Rey | last aired 2026-11-26 11:29 | normal pick now | request now
