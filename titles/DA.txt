@@ -1,4 +1,4 @@
-Track status, song titles filed under DA (built Fri Nov 27, 4:55 PM PST (00:55 UTC Sat)). Times in UTC.
+Track status, song titles filed under DA (built Fri Nov 27, 5:05 PM PST (01:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   D.A.N.C.E. — Justice | last aired 2026-11-26 01:13 | normal pick now | request now
@@ -13,7 +13,7 @@ OK   Dancing Queen — ABBA | last aired 2026-11-20 14:46 | normal pick now | re
 OK   Dancing With Myself — The Vampire Lestat | last aired 2026-10-18 03:44 | normal pick now | request now
 OK   Danger Zone (From "Top Gun" Original Soundtrack) — Kenny Loggins | last aired 2026-10-23 13:19 | normal pick now | request now
 OK   Dansevise — Grethe & Jørgen Ingmann | last aired 2026-11-25 04:59 | normal pick now | request now
-OK   Darkest Dreaming — David Sylvian | last aired 2026-11-25 05:46 | normal pick now | request now
+WAIT Darkest Dreaming — David Sylvian | last aired 2026-11-28 00:53 | normal pick from 2026-11-29 12:53 | request from 2026-11-28 20:53
 OK   Das Model — Kraftwerk | last aired 2026-11-21 15:41 | normal pick now | request now
 OK   Day Dreaming (Album Version) — Aretha Franklin | last aired 2026-11-19 21:55 | normal pick now | request now
 OK   Daydream In Blue — I Monster | last aired 2026-11-24 11:02 | normal pick now | request now

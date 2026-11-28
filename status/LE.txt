@@ -1,7 +1,7 @@
-Track status, artists filed under LE (built Fri Nov 27, 4:55 PM PST (00:55 UTC Sat)). Times in UTC.
+Track status, artists filed under LE (built Fri Nov 27, 5:05 PM PST (01:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
-WAIT LeAnn Rimes — Blue | last aired 2026-11-27 22:17 | normal pick from 2026-11-29 10:17 | request from 2026-11-28 18:17
+WAIT LeAnn Rimes — Blue | last aired 2026-11-27 22:17 | normal pick from 2026-11-29 22:17 | request from 2026-11-29 22:17
 OK   Lebanon Hanover — Babes of the 80s (She Past Away) | last aired 2026-11-18 17:27 | normal pick now | request now
 WAIT Led Zeppelin — Going to California (Remaster) | last aired 2026-11-27 22:14 | normal pick from 2026-11-29 22:14 | request from 2026-11-29 22:14
 OK   Led Zeppelin — Over the Hills and Far Away (Remaster) | last aired 2026-11-25 15:19 | normal pick now | request now
@@ -11,7 +11,7 @@ OK   Ledward Kaapana — Salomila (Live) | last aired 2026-11-24 06:54 | normal 
 WAIT Lemon Jelly — Ramblin' Man | last aired 2026-11-27 22:07 | normal pick from 2026-11-29 22:07 | request from 2026-11-29 22:07
 WAIT Leon Bridges — Coming Home | last aired 2026-11-27 21:49 | normal pick from 2026-11-29 21:49 | request from 2026-11-29 21:49
 WAIT Leon Larregui — Brillas | last aired 2026-11-26 08:04 | normal pick from 2026-11-28 08:04 | request from 2026-11-28 08:04
-WAIT Leon Larregui — Locos | last aired 2026-11-27 22:00 | normal pick from 2026-11-29 10:00 | request from 2026-11-28 18:00
+WAIT Leon Larregui — Locos | last aired 2026-11-27 22:00 | normal pick from 2026-11-29 22:00 | request from 2026-11-29 22:00
 OK   Leonard Bernstein — Candide: Overture | last aired 2026-11-25 15:27 | normal pick now | request now
 OK   Leonard Bernstein — The Rite of Spring (1913 Version) - Le Sacre du Printemps (The Rite of Spring): Les augures printaniers (Danses des adolescentes) [The Augurs of Spring (Dance of the Young Girls)] (1913 Version) | last aired 2026-11-10 02:39 | normal pick now | request now
 OK   Leonard Cohen — Anthem | last aired 2026-11-20 04:41 | normal pick now | request now
