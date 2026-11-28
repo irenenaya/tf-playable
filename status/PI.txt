@@ -1,11 +1,11 @@
-Track status, artists filed under PI (built Sat Nov 28, 9:05 AM PST (17:05 UTC)). Times in UTC.
+Track status, artists filed under PI (built Sat Nov 28, 9:15 AM PST (17:15 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   PianoDreams — Gates Of Steiner - Steins;Gate OST | last aired 2026-11-26 01:02 | normal pick now | request now
 OK   Pierre Monteux — The Fire Bird: IV. Infernal Dance of King Kastchei | last aired 2026-11-26 12:48 | normal pick now | request now
 OK   Pink Floyd — Another Brick in the Wall, Pt. 2 | last aired 2026-11-16 20:13 | normal pick now | request now
 OK   Pink Floyd — Breathe (In the Air) | last aired 2026-11-26 00:57 | normal pick now | request now
-OK   Pink Floyd — Comfortably Numb | last aired 2026-11-20 03:14 | normal pick now | request now
+WAIT Pink Floyd — Comfortably Numb | last aired 2026-11-28 17:04 | normal pick from 2026-11-30 05:04 | request from 2026-11-29 13:04
 WAIT Pink Floyd — Coming Back to Life | last aired 2026-11-27 10:46 | normal pick from 2026-11-28 22:46 | request now
 OK   Pink Floyd — Fearless | last aired 2026-11-26 00:51 | normal pick now | request now
 OK   Pink Floyd — Have a Cigar | last aired 2026-11-23 17:59 | normal pick now | request now
@@ -15,4 +15,4 @@ WAIT Pink Floyd — Wish You Were Here | last aired 2026-11-26 19:44 | normal pi
 WAIT Piotr Musial — Some Place We Called Home | last aired 2026-11-27 10:53 | normal pick from 2026-11-29 10:53 | request from 2026-11-29 10:53
 OK   Pitbull — International Love | last aired 2026-11-26 01:06 | normal pick now | request now
 OK   Pitbull — Timber | last aired 2026-10-09 11:28 | normal pick now | request now
-OK   Pixies — Ana | last aired 2026-11-26 01:00 | normal pick now | request now
+WAIT Pixies — Ana | last aired 2026-11-28 17:11 | normal pick from 2026-11-30 05:11 | request from 2026-11-29 13:11
