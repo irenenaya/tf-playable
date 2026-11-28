@@ -1,4 +1,4 @@
-Track status, artists filed under PR (built Sat Nov 28, 12:55 AM PST (08:55 UTC)). Times in UTC.
+Track status, artists filed under PR (built Sat Nov 28, 1:05 AM PST (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Predatory Meerkats — Resist The Force | last aired 2026-11-19 20:00 | normal pick now | request now
@@ -8,7 +8,7 @@ OK   Prince — Kiss (LP Version) | last aired 2026-11-19 19:56 | normal pick no
 OK   Prince — Moonbeam Levels (2019 Remaster) | last aired 2026-11-13 04:18 | normal pick now | request now
 OK   Prince — Nothing Compares 2 U | last aired 2026-11-20 15:04 | normal pick now | request now
 OK   Prince — Purple Rain (2015 Paisley Park Remaster) | last aired 2026-11-23 14:52 | normal pick now | request now
-OK   Prince — Sometimes It Snows in April (LP Version) | last aired 2026-11-17 20:48 | normal pick now | request now
+WAIT Prince — Sometimes It Snows in April (LP Version) | last aired 2026-11-28 08:52 | normal pick from 2026-11-29 20:52 | request from 2026-11-29 04:52
 OK   Prince — Uptown (LP Version) | last aired 2026-11-21 04:22 | normal pick now | request now
 OK   Procol Harum — A Whiter Shade of Pale (Original Single Version (2007 Remaster)) | last aired 2026-11-22 10:44 | normal pick now | request now
 OK   The Proclaimers — I'm Gonna Be (500 Miles) | last aired 2026-11-21 10:04 | normal pick now | request now

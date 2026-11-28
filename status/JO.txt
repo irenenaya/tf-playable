@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Sat Nov 28, 12:55 AM PST (08:55 UTC)). Times in UTC.
+Track status, artists filed under JO (built Sat Nov 28, 1:05 AM PST (09:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-11-18 08:30 | normal pick now | request now
@@ -9,7 +9,7 @@ WAIT Joe Hisaishi — A Town with an Ocean View (from 'Kiki's Delivery Service')
 OK   Joe Hisaishi — a Wish to the Moon | last aired 2026-11-18 06:27 | normal pick now | request now
 OK   Joe Hisaishi — Asian Dream Song | last aired 2026-11-21 00:50 | normal pick now | request now
 OK   Joe Hisaishi — Deep Sea Pastures (from 'Ponyo on the Cliff by the Sea') | last aired 2026-11-15 07:47 | normal pick now | request now
-WAIT Joe Hisaishi — Departures (from 'Departures') | last aired 2026-11-28 08:14 | normal pick from 2026-11-29 20:14 | request from 2026-11-29 04:14
+WAIT Joe Hisaishi — Departures (from 'Departures') | last aired 2026-11-28 08:14 | normal pick from 2026-11-30 08:14 | request from 2026-11-30 08:14
 OK   Joe Hisaishi — Innocent (from 'Castle in the Sky') | last aired 2026-11-24 11:50 | normal pick now | request now
 OK   Joe Hisaishi — Merry-Go-Round of Life (from 'Howl’s Moving Castle') | last aired 2026-11-22 16:49 | normal pick now | request now
 OK   Joe Hisaishi — One Summer's Day (from 'Spirited Away') | last aired 2026-11-26 07:43 | normal pick now | request now
