@@ -1,4 +1,4 @@
-Track status, artists filed under FL (built Fri Nov 27, 8:55 PM PST (04:55 UTC Sat)). Times in UTC.
+Track status, artists filed under FL (built Fri Nov 27, 9:05 PM PST (05:05 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Fleet Foxes — Helplessness Blues | last aired 2026-11-27 09:29 | normal pick from 2026-11-29 09:29 | request from 2026-11-29 09:29
@@ -15,4 +15,4 @@ OK   Fleetwood Mac — The Ledge | last aired 2026-11-14 04:16 | normal pick now
 OK   Fleetwood Mac — Tusk | last aired 2026-11-16 19:58 | normal pick now | request now
 OK   Floating Points — Birth4000 | last aired 2026-11-25 12:00 | normal pick now | request now
 WAIT Floating Points — Last Bloom | last aired 2026-11-26 17:12 | normal pick from 2026-11-28 17:12 | request from 2026-11-28 17:12
-WAIT Floating Points — LesAlpx | last aired 2026-11-28 02:22 | normal pick from 2026-11-29 14:22 | request from 2026-11-28 22:22
+WAIT Floating Points — LesAlpx | last aired 2026-11-28 02:22 | normal pick from 2026-11-30 02:22 | request from 2026-11-30 02:22
