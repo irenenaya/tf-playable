@@ -1,9 +1,9 @@
-Track status, artists filed under JO (built Sat Nov 28, 1:15 AM PST (09:15 UTC)). Times in UTC.
+Track status, artists filed under JO (built Sat Nov 28, 1:25 AM PST (09:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-11-18 08:30 | normal pick now | request now
 OK   Jockstrap — Concrete Over Water | last aired 2026-11-20 04:11 | normal pick now | request now
-OK   Joe Cocker — The Letter (Live At The Fillmore East/1970) | last aired 2026-11-20 04:17 | normal pick now | request now
+WAIT Joe Cocker — The Letter (Live At The Fillmore East/1970) | last aired 2026-11-28 09:16 | normal pick from 2026-11-29 21:16 | request from 2026-11-29 05:16
 WAIT Joe Cocker — With A Little Help From My Friends | last aired 2026-11-27 11:56 | normal pick from 2026-11-29 11:56 | request from 2026-11-29 11:56
 WAIT Joe Hisaishi — A Town with an Ocean View (from 'Kiki's Delivery Service') | last aired 2026-11-27 11:18 | normal pick from 2026-11-29 11:18 | request from 2026-11-29 11:18
 OK   Joe Hisaishi — a Wish to the Moon | last aired 2026-11-18 06:27 | normal pick now | request now
@@ -24,7 +24,7 @@ OK   John Carpenter — Halloween Theme | last aired 2026-11-21 20:25 | normal p
 WAIT John Coltrane — Lush Life | last aired 2026-11-27 11:28 | normal pick from 2026-11-29 11:28 | request from 2026-11-29 11:28
 WAIT John Coltrane — My Favorite Things | last aired 2026-11-28 08:30 | normal pick from 2026-11-29 20:30 | request from 2026-11-29 04:30
 WAIT John Denver — Take Me Home, Country Roads | last aired 2026-11-27 12:14 | normal pick from 2026-11-29 12:14 | request from 2026-11-29 12:14
-OK   John Lee Hooker — Boom Boom | last aired 2026-11-21 01:59 | normal pick now | request now
+WAIT John Lee Hooker — Boom Boom | last aired 2026-11-28 09:21 | normal pick from 2026-11-29 21:21 | request from 2026-11-29 05:21
 WAIT John Lee Hooker — I Cover the Waterfront | last aired 2026-11-27 12:08 | normal pick from 2026-11-29 00:08 | request now
 OK   John Lennon — Give Peace A Chance (Remastered 2010) | last aired 2026-11-24 15:18 | normal pick now | request now
 OK   John Lennon — Imagine (Remastered 2010) | last aired 2026-11-23 20:50 | normal pick now | request now
