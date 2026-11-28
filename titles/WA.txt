@@ -1,4 +1,4 @@
-Track status, song titles filed under WA (built Sat Nov 28, 4:15 AM PST (12:15 UTC)). Times in UTC.
+Track status, song titles filed under WA (built Sat Nov 28, 4:25 AM PST (12:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT The Way You Look Tonight — Tony Bennett & Faith Hill | last aired 2026-11-27 04:03 | normal pick from 2026-11-28 16:03 | request now
@@ -16,7 +16,7 @@ OK   Warszawa (2017 Remaster) — David Bowie | last aired 2026-11-18 01:08 | no
 OK   Was soll das (Remastered 2016) — Herbert Grönemeyer | last aired 2026-11-22 21:50 | normal pick now | request now
 OK   Wasteland, Baby! — Hozier | last aired 2026-11-25 22:26 | normal pick now | request now
 OK   watashi igai watashi ja naino — gesunokiwamiotome | last aired 2026-11-20 22:19 | normal pick now | request now
-OK   Watching The Detectives (Single Version) — Elvis Costello | last aired 2026-11-26 01:54 | normal pick now | request now
+WAIT Watching The Detectives (Single Version) — Elvis Costello | last aired 2026-11-28 12:18 | normal pick from 2026-11-30 00:18 | request from 2026-11-29 08:18
 WAIT Watching The Wheels (Remastered 2010) — John Lennon | last aired 2026-11-28 08:44 | normal pick from 2026-11-29 20:44 | request from 2026-11-29 04:44
 OK   Water From An Ancient Well — Abdullah Ibrahim | last aired 2026-11-24 05:52 | normal pick now | request now
 OK   Water No Get Enemy — Fela Kuti | last aired 2026-11-24 05:03 | normal pick now | request now

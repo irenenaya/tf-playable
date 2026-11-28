@@ -1,4 +1,4 @@
-Track status, artists filed under EL (built Sat Nov 28, 4:15 AM PST (12:15 UTC)). Times in UTC.
+Track status, artists filed under EL (built Sat Nov 28, 4:25 AM PST (12:25 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Electric Light Orchestra — Evil Woman | last aired 2026-11-26 02:11 | normal pick now | request now
@@ -15,5 +15,5 @@ OK   Eluvium — Indoor Swimming At The Space Station | last aired 2026-11-26 01
 WAIT Eluvium — Surrounded by Illusion | last aired 2026-11-28 10:27 | normal pick from 2026-11-29 22:27 | request from 2026-11-29 06:27
 WAIT Eluvium — Taken | last aired 2026-11-28 10:49 | normal pick from 2026-11-29 22:49 | request from 2026-11-29 06:49
 WAIT Elvis Costello — Almost Blue | last aired 2026-11-28 10:41 | normal pick from 2026-11-30 10:41 | request from 2026-11-30 10:41
-OK   Elvis Costello — Watching The Detectives (Single Version) | last aired 2026-11-26 01:54 | normal pick now | request now
+WAIT Elvis Costello — Watching The Detectives (Single Version) | last aired 2026-11-28 12:18 | normal pick from 2026-11-30 00:18 | request from 2026-11-29 08:18
 WAIT Elvis Presley — Can't Help Falling in Love | last aired 2026-11-28 11:06 | normal pick from 2026-11-29 23:06 | request from 2026-11-29 07:06
