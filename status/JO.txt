@@ -1,4 +1,4 @@
-Track status, artists filed under JO (built Sat Nov 28, 12:25 AM PST (08:25 UTC)). Times in UTC.
+Track status, artists filed under JO (built Sat Nov 28, 12:35 AM PST (08:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Joan Jett & The Blackhearts — I Love Rock 'N Roll | last aired 2026-11-18 08:30 | normal pick now | request now
@@ -22,7 +22,7 @@ OK   Joel Pott — Chances | last aired 2026-10-26 11:28 | normal pick now | req
 WAIT Johann Johannsson — Flight From The City - Jóhannsson: Flight from the City | last aired 2026-11-27 11:22 | normal pick from 2026-11-28 23:22 | request now
 OK   John Carpenter — Halloween Theme | last aired 2026-11-21 20:25 | normal pick now | request now
 WAIT John Coltrane — Lush Life | last aired 2026-11-27 11:28 | normal pick from 2026-11-29 11:28 | request from 2026-11-29 11:28
-OK   John Coltrane — My Favorite Things | last aired 2026-11-25 00:43 | normal pick now | request now
+WAIT John Coltrane — My Favorite Things | last aired 2026-11-28 08:30 | normal pick from 2026-11-29 20:30 | request from 2026-11-29 04:30
 WAIT John Denver — Take Me Home, Country Roads | last aired 2026-11-27 12:14 | normal pick from 2026-11-29 12:14 | request from 2026-11-29 12:14
 OK   John Lee Hooker — Boom Boom | last aired 2026-11-21 01:59 | normal pick now | request now
 WAIT John Lee Hooker — I Cover the Waterfront | last aired 2026-11-27 12:08 | normal pick from 2026-11-29 00:08 | request now
@@ -49,12 +49,12 @@ WAIT Joni Mitchell — A Case of You | last aired 2026-11-26 10:56 | normal pick
 WAIT Joni Mitchell — At Last (LP Version) | last aired 2026-11-27 11:42 | normal pick from 2026-11-28 23:42 | request now
 WAIT Joni Mitchell — River | last aired 2026-11-27 03:27 | normal pick from 2026-11-29 03:27 | request from 2026-11-29 03:27
 WAIT Jorge Ben Jor — Mas, Que Nada! | last aired 2026-11-27 11:50 | normal pick from 2026-11-29 11:50 | request from 2026-11-29 11:50
-OK   Josh Rouse — 1972 | last aired 2026-11-23 10:49 | normal pick now | request now
+WAIT Josh Rouse — 1972 | last aired 2026-11-28 08:22 | normal pick from 2026-11-29 20:22 | request from 2026-11-29 04:22
 WAIT Josh Rouse — Street Lights | last aired 2026-11-27 11:36 | normal pick from 2026-11-28 23:36 | request now
 WAIT José González — Heartbeats | last aired 2026-11-27 00:44 | normal pick from 2026-11-29 00:44 | request from 2026-11-29 00:44
 OK   Journey — Don't Stop Believin' (Album Version) | last aired 2026-11-21 05:50 | normal pick now | request now
-WAIT Journey — Lights (Album Version) | last aired 2026-11-27 12:26 | normal pick from 2026-11-29 00:26 | request from 2026-11-28 08:26
+WAIT Journey — Lights (Album Version) | last aired 2026-11-27 12:26 | normal pick from 2026-11-29 00:26 | request now
 WAIT Joywave — In Clover | last aired 2026-11-27 12:17 | normal pick from 2026-11-29 00:17 | request now
-WAIT Joywave — Rumors | last aired 2026-11-27 12:33 | normal pick from 2026-11-29 00:33 | request from 2026-11-28 08:33
+WAIT Joywave — Rumors | last aired 2026-11-27 12:33 | normal pick from 2026-11-29 00:33 | request now
 WAIT João Gilberto — Chega de Saudade | last aired 2026-11-27 12:01 | normal pick from 2026-11-29 00:01 | request now
-OK   João Gilberto — Garota de Ipanema (Live) | last aired 2026-11-26 09:00 | normal pick now | request now
+WAIT João Gilberto — Garota de Ipanema (Live) | last aired 2026-11-28 08:26 | normal pick from 2026-11-29 20:26 | request from 2026-11-29 04:26

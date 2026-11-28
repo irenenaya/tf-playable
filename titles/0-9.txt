@@ -1,8 +1,8 @@
-Track status, song titles filed under 0-9 (built Sat Nov 28, 12:25 AM PST (08:25 UTC)). Times in UTC.
+Track status, song titles filed under 0-9 (built Sat Nov 28, 12:35 AM PST (08:35 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   00:00 — Siddhartha | last aired 2026-11-18 20:10 | normal pick now | request now
-OK   1972 — Josh Rouse | last aired 2026-11-23 10:49 | normal pick now | request now
+WAIT 1972 — Josh Rouse | last aired 2026-11-28 08:22 | normal pick from 2026-11-29 20:22 | request from 2026-11-29 04:22
 WAIT 1979 — The Smashing Pumpkins | last aired 2026-11-27 16:30 | normal pick from 2026-11-29 04:30 | request from 2026-11-28 12:30
 WAIT 1985 — Bowling For Soup | last aired 2026-11-28 00:39 | normal pick from 2026-11-29 12:39 | request from 2026-11-28 20:39
 OK   2 Wicky — Hooverphonic | last aired 2026-11-25 22:10 | normal pick now | request now
