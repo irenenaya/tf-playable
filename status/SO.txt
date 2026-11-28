@@ -1,4 +1,4 @@
-Track status, artists filed under SO (built Sat Nov 28, 4:55 AM PST (12:55 UTC)). Times in UTC.
+Track status, artists filed under SO (built Sat Nov 28, 5:05 AM PST (13:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Soda Stereo — De Música Ligera (Remasterizado 2007) | last aired 2026-11-23 15:17 | normal pick now | request now
@@ -9,12 +9,12 @@ WAIT Sol Gabetta — Fantasiestücke, Op. 73 - Schumann: Fantasiestücke, Op. 73
 OK   Solange — Cranes in the Sky | last aired 2026-11-26 12:21 | normal pick now | request now
 WAIT Solarstone — Evensong | last aired 2026-11-28 12:36 | normal pick from 2026-11-30 00:36 | request from 2026-11-29 08:36
 OK   Solisti e Orchestre del Cinema Italiano — L'uomo dell'armonica | last aired 2026-11-26 08:23 | normal pick now | request now
-OK   Sons Of Apollo — Desolate July | last aired 2026-11-25 21:43 | normal pick now | request now
+WAIT Sons Of Apollo — Desolate July | last aired 2026-11-28 12:57 | normal pick from 2026-11-30 00:57 | request from 2026-11-29 08:57
 OK   Sophie Hunger — Le vent nous portera | last aired 2026-11-25 21:25 | normal pick now | request now
 OK   Sophie Hunger — Shape | last aired 2026-11-26 03:59 | normal pick now | request now
 WAIT Sophie Hunger — Supermoon | last aired 2026-11-28 08:10 | normal pick from 2026-11-29 20:10 | request from 2026-11-29 04:10
 WAIT Soul Coughing — Screenwriter's Blues | last aired 2026-11-28 12:47 | normal pick from 2026-11-30 00:47 | request from 2026-11-29 08:47
 WAIT Soundgarden — Black Hole Sun | last aired 2026-11-27 09:34 | normal pick from 2026-11-28 21:34 | request now
-OK   Soundgarden — Fell On Black Days (Album Version) | last aired 2026-11-25 21:38 | normal pick now | request now
+WAIT Soundgarden — Fell On Black Days (Album Version) | last aired 2026-11-28 12:52 | normal pick from 2026-11-30 00:52 | request from 2026-11-29 08:52
 OK   Soundgarden — Holy Water (Album Version) | last aired 2026-11-17 22:45 | normal pick now | request now
 OK   The Soul Stirrers — Touch The Hem Of His Garment | last aired 2026-11-08 12:14 | normal pick now | request now
