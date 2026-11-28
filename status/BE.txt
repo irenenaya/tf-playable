@@ -1,4 +1,4 @@
-Track status, artists filed under BE (built Sat Nov 28, 5:55 AM PST (13:55 UTC)). Times in UTC.
+Track status, artists filed under BE (built Sat Nov 28, 6:05 AM PST (14:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Beach House — Bluebird | last aired 2026-11-26 12:45 | normal pick now | request now
@@ -37,7 +37,7 @@ OK   Beyoncé — Crazy In Love | last aired 2026-11-26 02:45 | normal pick now 
 OK   Beyoncé — TEXAS HOLD 'EM | last aired 2026-10-28 22:05 | normal pick now | request now
 OK   Béla Fleck — My Home's Across The Blue Ridge Mountains | last aired 2026-11-26 23:00 | normal pick now | request now
 OK   The Beach Boys — God Only Knows (Stereo) | last aired 2026-11-26 03:11 | normal pick now | request now
-OK   The Beach Boys — Good Vibrations (Stereo/Remastered 2012) | last aired 2026-11-26 03:14 | normal pick now | request now
+WAIT The Beach Boys — Good Vibrations (Stereo/Remastered 2012) | last aired 2026-11-28 13:56 | normal pick from 2026-11-30 01:56 | request from 2026-11-29 09:56
 OK   The Beatles — A Day In The Life (2017 Mix) | last aired 2026-11-22 15:23 | normal pick now | request now
 OK   The Beatles — Get Back (2021 Mix) | last aired 2026-11-22 20:56 | normal pick now | request now
 OK   The Beatles — Girl (Remastered) | last aired 2026-11-05 08:04 | normal pick now | request now

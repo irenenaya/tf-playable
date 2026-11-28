@@ -1,4 +1,4 @@
-Track status, song titles filed under FA (built Sat Nov 28, 5:55 AM PST (13:55 UTC)). Times in UTC.
+Track status, song titles filed under FA (built Sat Nov 28, 6:05 AM PST (14:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Face to Face — Daft Punk | last aired 2026-11-18 12:22 | normal pick now | request now
@@ -7,7 +7,7 @@ OK   Fade Into You — Mazzy Star | last aired 2026-11-26 05:56 | normal pick no
 OK   Fade To Grey — Visage | last aired 2026-11-22 16:45 | normal pick now | request now
 OK   Fado Vadio (Má Fama) — Ana Sofia Varela | last aired 2026-11-25 11:37 | normal pick now | request now
 OK   Fail Upward For A Change — Tom Konkle | last aired 2026-11-19 14:09 | normal pick now | request now
-WAIT Fairytale — Alexander Rybak | last aired 2026-11-28 10:09 | normal pick from 2026-11-29 22:09 | request from 2026-11-29 06:09
+WAIT Fairytale — Alexander Rybak | last aired 2026-11-28 10:09 | normal pick from 2026-11-30 10:09 | request from 2026-11-30 10:09
 OK   Fait Accompli — Curve | last aired 2026-11-22 05:58 | normal pick now | request now
 WAIT Fake Tales Of San Francisco — Arctic Monkeys | last aired 2026-11-27 09:06 | normal pick from 2026-11-28 21:06 | request now
 OK   Fallen (Album Mix) — Sarah McLachlan | last aired 2026-11-26 13:18 | normal pick now | request now
@@ -18,7 +18,7 @@ WAIT Familiar — Nils Frahm | last aired 2026-11-27 07:46 | normal pick from 20
 OK   Family Portrait — P!nk | last aired 2026-11-22 21:22 | normal pick now | request now
 OK   Famous Blue Raincoat — Leonard Cohen | last aired 2026-11-24 06:41 | normal pick now | request now
 OK   Fancy — Reba McEntire | last aired 2026-11-18 18:54 | normal pick now | request now
-WAIT Fantas — Caterina Barbieri | last aired 2026-11-26 16:38 | normal pick from 2026-11-28 16:38 | request from 2026-11-28 16:38
+OK   Fantas — Caterina Barbieri | last aired 2026-11-26 16:38 | normal pick now | request now
 WAIT Fantasiestücke, Op. 73 - Schumann: Fantasiestücke, Op. 73: No. 1, Zart und mit Ausdruck — Sol Gabetta | last aired 2026-11-28 12:33 | normal pick from 2026-11-30 00:33 | request from 2026-11-29 08:33
 OK   Fast Car (2015 Remaster) — Tracy Chapman | last aired 2026-11-26 11:00 | normal pick now | request now
 OK   Fast Car (LP Version) — Tracy Chapman | last aired 2026-11-25 20:06 | normal pick now | request now

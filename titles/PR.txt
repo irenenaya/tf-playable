@@ -1,4 +1,4 @@
-Track status, song titles filed under PR (built Sat Nov 28, 5:55 AM PST (13:55 UTC)). Times in UTC.
+Track status, song titles filed under PR (built Sat Nov 28, 6:05 AM PST (14:05 UTC)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   Praying For Love — Donna De Lory | last aired 2026-11-21 13:10 | normal pick now | request now
@@ -13,4 +13,5 @@ OK   Prisencolinensinainciusol — Adriano Celentano | last aired 2026-11-19 17:
 OK   Private Dancer (Single Edit) — Tina Turner | last aired 2026-11-23 01:57 | normal pick now | request now
 OK   Promise — Voyager | last aired 2026-11-22 16:04 | normal pick now | request now
 WAIT Protection — Massive Attack | last aired 2026-11-27 17:27 | normal pick from 2026-11-29 05:27 | request now
+WAIT Proud Mary — Ike & Tina Turner | last aired 2026-11-28 09:35 | normal pick from 2026-11-29 21:35 | request from 2026-11-29 05:35
 OK   The Promise (2010 Remaster) — Arcadia | last aired 2026-11-16 08:32 | normal pick now | request now
