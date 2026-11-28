@@ -1,4 +1,4 @@
-Track status, song titles filed under CH (built Fri Nov 27, 9:25 PM PST (05:25 UTC Sat)). Times in UTC.
+Track status, song titles filed under CH (built Fri Nov 27, 9:35 PM PST (05:35 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT Cha Cha Cha — Käärijä | last aired 2026-11-27 13:07 | normal pick from 2026-11-29 01:07 | request from 2026-11-28 09:07
@@ -26,4 +26,4 @@ WAIT Chinatown — Wild Nothing | last aired 2026-11-27 13:40 | normal pick from
 OK   Choo Choo Ch'Boogie — Louis Jordan & His Tympany Five | last aired 2026-11-24 12:43 | normal pick now | request now
 OK   Chorus — Holly Herndon | last aired 2026-11-07 08:14 | normal pick now | request now
 OK   Christmas Time Is Here — Diana Krall | last aired 2026-11-25 22:57 | normal pick now | request now
-WAIT The Christmas Waltz — Norah Jones | last aired 2026-11-26 17:34 | normal pick from 2026-11-28 05:34 | request now
+OK   The Christmas Waltz — Norah Jones | last aired 2026-11-26 17:34 | normal pick now | request now
