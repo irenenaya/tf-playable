@@ -1,16 +1,16 @@
-Track status, artists filed under ST (built Fri Nov 27, 9:45 PM PST (05:45 UTC Sat)). Times in UTC.
+Track status, artists filed under ST (built Fri Nov 27, 9:55 PM PST (05:55 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 WAIT St Germain — Rose rouge | last aired 2026-11-27 01:57 | normal pick from 2026-11-29 01:57 | request from 2026-11-29 01:57
 OK   Stan Bush — The Touch | last aired 2026-11-23 19:34 | normal pick now | request now
 WAIT Stan Getz — Corcovado (Quiet Nights Of Quiet Stars) | last aired 2026-11-26 08:47 | normal pick from 2026-11-28 08:47 | request from 2026-11-28 08:47
-OK   Stardust — Music Sounds Better With You | last aired 2026-11-23 19:17 | normal pick now | request now
+WAIT Stardust — Music Sounds Better With You | last aired 2026-11-28 05:49 | normal pick from 2026-11-30 05:49 | request from 2026-11-30 05:49
 WAIT Stars of the Lid — Requiem for Dying Mothers, Pt. 1 | last aired 2026-11-26 07:16 | normal pick from 2026-11-28 07:16 | request from 2026-11-28 07:16
 WAIT Stars of the Lid — Requiem for Dying Mothers, Pt. 2 | last aired 2026-11-28 05:18 | normal pick from 2026-11-30 05:18 | request from 2026-11-30 05:18
 OK   Stealers Wheel — Stuck In The Middle With You | last aired 2026-11-23 19:10 | normal pick now | request now
 OK   Steely Dan — Almost Gothic (Album Version) | last aired 2026-11-15 02:00 | normal pick now | request now
 WAIT Steely Dan — Babylon Sisters | last aired 2026-11-27 02:04 | normal pick from 2026-11-29 02:04 | request from 2026-11-29 02:04
-OK   Steely Dan — Home At Last | last aired 2026-11-23 19:04 | normal pick now | request now
+WAIT Steely Dan — Home At Last | last aired 2026-11-28 05:43 | normal pick from 2026-11-30 05:43 | request from 2026-11-30 05:43
 OK   Steely Dan — Jack of Speed (Album Version) | last aired 2026-11-22 18:16 | normal pick now | request now
 OK   Steely Dan — Kid Charlemagne | last aired 2026-11-15 14:00 | normal pick now | request now
 WAIT Steely Dan — Peg | last aired 2026-11-27 18:09 | normal pick from 2026-11-29 18:09 | request from 2026-11-29 18:09
