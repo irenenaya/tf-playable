@@ -1,4 +1,4 @@
-Track status, artists filed under GR (built Fri Nov 27, 10:25 PM PST (06:25 UTC Sat)). Times in UTC.
+Track status, artists filed under GR (built Fri Nov 27, 10:35 PM PST (06:35 UTC Sat)). Times in UTC.
 OK = fine for a normal pick now. WAIT = not yet; see the times.
 
 OK   G.Rag & die Landlergschwister — Odessa | last aired 2026-11-10 16:56 | normal pick now | request now
@@ -6,7 +6,7 @@ OK   Grace Jones — I've Seen That Face Before (Libertango) | last aired 2026-1
 WAIT Grace Jones — Slave To The Rhythm (Hot Blooded Version) | last aired 2026-11-28 03:24 | normal pick from 2026-11-29 15:24 | request from 2026-11-28 23:24
 WAIT Grand Corps Malade — Mais je t'aime | last aired 2026-11-28 03:11 | normal pick from 2026-11-30 03:11 | request from 2026-11-30 03:11
 WAIT Grateful Dead — Eyes of the World | last aired 2026-11-28 03:15 | normal pick from 2026-11-30 03:15 | request from 2026-11-30 03:15
-OK   Green Day — American Idiot (Album Version) | last aired 2026-11-25 19:31 | normal pick now | request now
+WAIT Green Day — American Idiot (Album Version) | last aired 2026-11-28 06:29 | normal pick from 2026-11-29 18:29 | request from 2026-11-29 02:29
 WAIT Greg Shilling — Shampoo | last aired 2026-11-28 06:17 | normal pick from 2026-11-29 18:17 | request from 2026-11-29 02:17
 WAIT Gregory Alan Isakov — Big Black Car | last aired 2026-11-28 03:03 | normal pick from 2026-11-30 03:03 | request from 2026-11-30 03:03
 WAIT Grethe & Jørgen Ingmann — Dansevise | last aired 2026-11-28 03:21 | normal pick from 2026-11-29 15:21 | request from 2026-11-28 23:21
